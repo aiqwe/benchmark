@@ -1,0 +1,262 @@
+[
+    {
+        "query": "At Tromen University this semester, some students taking French Literature 205 are also taking Biology 218. Every student taking Biology 218 at Tromen is a biology major. Therefore, some of the students taking French Literature 205 are not French-literature majors.Q: The conclusion drawn above follows logically if which one of the following is assumed to be true at Tromen University? Answer Choices: (A)French Literature 205 is a required course forFrench-literature majors. (B)Only biology majors are allowed to take Biology 218. (C)There are more biology majors than there are French-literature majors. (D)There are more French-literature majors than there are biology majors. (E)It is not possible to major in both biology and French literature.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)The social sciences do not have as much predictive power as the natural sciences.",
+            "(B)Mathematics plays a more important role in the natural sciences than it does in the social sciences.",
+            "(C)There is a need in the social sciences to improve the ability to predict.",
+            "(D)Phenomena in the social sciences should not be reduced to mathematical formulas.",
+            "(E)Prediction is responsible for the success of the natural sciences."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "In 2005, an environmental group conducted a study measuring the levels of toxic—chemicals in the bodies of eleven volunteers. Scientifically valid inferences could not be drawn from the study because of the small sample size, but the results were interesting nonetheless. Among the subjects tested, younger subjects showed much lower levels of PCBs-toxic chemicals that were banned in the 1970s. This proves that the regulation banning PCBs was effective in reducing human exposure to those chemicals.Q: The reasoning in the argument is most vulnerable to criticism on the grounds that the argument Answer Choices: (A)takes an inconsistent stance regarding the status of the inferences that can be drawn from the study (B)overlooks the possibility that two or more chemicals produce the same effects (C)concludes that a generalization has been proven true merely on the grounds that it has not been proven false (D)takes something to be the cause of a reduction when it could have been an effect of that reduction (E)does not consider the possibility that PCBs have detrimental effects on human health several years after exposure\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)The government should not silence any group for advocating a position that a significant proportion of society believes to be beneficial.",
+            "(B)The government ought to do whatever is in the best interest of society.",
+            "(C)One ought to advocate a position only if one believes that it is true or would be beneficial.",
+            "(D)The government ought not to silence an opinion merely on the grounds that it could be harmful to disseminate the opinion.",
+            "(E)One ought to urge the government to do only those things the government is justified in doing."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "If the city builds the proposed convention center, several national professional organizations will hold conventions there. And if several large conventions are held in the city, the total number of visitors will of course increase. Tax revenues will certainly increase if the number of visitors increases. Thus, building the convention center will increase the city's tax revenues.Q: The conclusion of the argument follows logically if which one of the following is assumed? Answer Choices: (A)If the number of visitors to the city does not increase, then the city's tax revenues will not increase. (B)If the number of visitors to the city increases, then the amount of money spent by visitors will increase. (C)The city's tax revenues will not increase unless the convention center is built. (D)People who are now regular visitors to the city will continue to visit the city if the new convention center is built. (E)If several national professional organizations hold their conventions in the convention center, those conventions will be large.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Clinical trials involving patients from several hospitals are never conducted solely by physicians from just one hospital.",
+            "(B)Most reports of clinical trials involving patients from several hospitals have multiple authors.",
+            "(C)When a technical article has multiple authors, they are usually from several different institutions.",
+            "(D)Physics papers authored by researchers from multiple laboratories usually report results from experiments using subsystems developed at each laboratory.",
+            "(E)Most technical articles are authored solely by the researchers who conducted the experiments these articles report."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Theoretically, analog systems are superior to digital systems. A signal in a pure analog system can be infinitely detailed, while digital systems cannot produce signals that are more precise than their digital units. With this theoretical advantage there is a practical disadvantage, however. Since there is no limit on the potential detail of the signal, the duplication of an analog representation allows tiny variations from the original, which are errors. These errors tend to accumulate as signals are duplicated, until this \"noise\" obliterates the information embodied in the original signal.Q: The statements above, if true, most strongly support which one of the following? Answer Choices: (A)Many ideas that work well in theory do not work well in practice. (B)Analog representation of information is impractical because we do not need infinitely detailed information. (C)Digital systems are the best information systems because error cannot occur in the emission of digital signals. (D)Analog systems are inferior to digital systems for most practical purposes. (E)Digital systems are preferable to analog systems when the signal must be reproduced many times.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)driving a gas-guzzling automobile produces a greater level of pollution than driving a smaller car",
+            "(B)speaking out against the use of gas guzzlers despite driving in situations in which one could use a bicycle reveals hypocrisy",
+            "(C)driving even a small car when one could use a bicycle contributes to the level of pollution",
+            "(D)one should speak out against polluting even if doing so reveals one's own hypocrisy",
+            "(E)there is no moral difference between driving a gas guzzler and driving a smaller car"
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Government statistics show that the real (adjusted for inflation) average income for families has risen over the last five years. Therefore, since this year the Andersen family's income is average for families, the family's real income must have increased over the last five years.Q: The reasoning in the argument is most vulnerable to criticism on the grounds that the argument Answer Choices: (A)ambiguously uses the term \"average\" in two different senses (B)fails to take into account inflation with respect to the Andersen family's income (C)overlooks the possibility that most families' incomes are below average (D)fails to consider the possibility that the Andersen family's real income was above average in the recent past (E)presumes, without providing justification, that the government makes no errors in gathering accurate estimates of family income\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)If the economy grows stronger, most of the new jobs that are created will be in fields that pay well.",
+            "(B)If the economy grows stronger, the number of new day-care workers will not be significantly greater than the number of day-care workers who move to better-paying jobs in other fields.",
+            "(C)If the economy grows stronger, the number of workers employed by day-care centers is likely to decrease.",
+            "(D)The shortage of day care for children is unlikely to worsen unless employment increases and many day-care center employees quit to take better-paying jobs in other fields.",
+            "(E)The total number of young children in day-care centers will decrease if the cost of day care increases significantly."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Superconductor development will enable energy to be transported farther with less energy lost in transit. This will probably improve industrial productivity, for a similar improvement resulted when oil and natural gas replaced coal as the primary fossil fuels used in North America. Shipping costs, a function of the distance fossil fuels are shipped and the losses of material in transit, decreased for factory owners at that time.Q: The claim that superconductor development will probably improve industrial productivity plays which one of the following roles in the argument? Answer Choices: (A)It is a conclusion for which the claim that shipping costs for fossil fuels are partly a function of the losses of material in transit is offered as partial support. (B)It is a generalization for which the claim that superconductor development will enable energy to be transported farther with less energy lost in transit is offered as an illustration. (C)It is an assumption supporting the conclusion that superconductor development will enable energy to be transported farther with less energy lost in transit. (D)It is a premise offered to support the claim that oil and natural gas have replaced coal as the primary fossil fuels used in North America. (E)It is cited as evidence that shipping costs are a function of the distances fossil fuels are shipped and the losses of material in transit.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)It is better to focus one's time on a single project than to split one's time between two projects.",
+            "(B)It is better to finish one of two projects than to risk failing to finish both projects.",
+            "(C)It is better to first finish those projects that must be done than to interrupt them with projects that are merely optional.",
+            "(D)It is better not to worry about having failed to finish a project on time than to allow such worry to interfere with finishing a competing project on time.",
+            "(E)It is better to attempt to finish a project on time than to attempt to finish a late project that does not have higher priority."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Court analyst: Courts should not allow the use of DNA tests in criminal cases. There exists considerable controversy among scientific experts about how reliable these tests are. Unless there is widespread agreement in the scientific community about how reliable a certain test is, it is unreasonable for the courts to allow evidence based on that test.Q: The court analyst's reasoning is flawed because it fails to take into account that Answer Choices: (A)courts have the authority to admit or exclude any evidence irrespective of what experts have to say about its reliability (B)the standard against which evidence in a criminal case is measured should not be absolute certainty (C)experts may agree that the tests are highly reliable while disagreeing about exactly how reliable they are (D)data should not be admitted as evidence in a court of law without scientific witnesses having agreed about how reliable they are (E)there are also controversies about reliability of evidence in noncriminal cases\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)During times of the year when automobile traffic increases, gas prices also increase. Increases in gas prices lead to increases in consumer complaints. Thus, increased automobile traffic causes increased consumer complaints.",
+            "(B)The most common species of birds in this region are migratory. Moreover, most migratory birds have left this region by the end of November. Hence, few birds remain in this region during the winter.",
+            "(C)It is not surprising that most speeding tickets in this region are issued to drivers of sports cars. After all, most drivers who are not interested in driving fast do not buy sports cars.",
+            "(D)Most nature photographers find portrait photography boring. Moreover, most portrait photographers especially enjoy photographing dignitaries. Thus, most nature photographers find photographing dignitaries especially boring.",
+            "(E)Most snow-removal companies run lawn-care services during the summer. Also, most companies that run lawn-care services during the summer hire additional workers in the summer. Thus, most snow-removal companies hire additional workers in the summer."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Kennel club members who frequently discipline their dogs report a higher incidence of misbehavior than do members who rarely or never discipline their dogs. We can conclude from this that discipline does not improve dogs' behavior; on the contrary, it encourages misbehavior.Q: The argument is flawed in that it fails to consider the possibility that Answer Choices: (A)dogs' misbehavior is the cause of, rather than the result of, frequent discipline (B)dogs learn from past experience how their owners are likely to react to misbehavior (C)discipline does not cause misbehavior on the part of animals other than dogs (D)kennel club members tend to be more skilled at raising dogs than are other dog owners (E)kennel club members are more likely to use discipline than are other dog owners\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)some gardening books that recommend tilling the soil and adding compost before starting a new garden are not flawed",
+            "(B)gardeners should not add compost to the soil unless they have a thorough understanding of composting",
+            "(C)an explanation of the basics of composting must include an explanation of the difference between hot and cold composting",
+            "(D)everyone who understands the difference between hot and cold composting understands at least the basics of composting",
+            "(E)no gardening book that includes an explanation of at least the basics of composting is flawed"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Some vegetarians have argued that there are two individually sufficient reasons for not eating meat— one based on health considerations, and the other based on the aversion to living at the expense of other conscious creatures. But suppose that eating meat were essential to good health for humans. Then it would be less clear that an aversion to living at the expense of other conscious creatures is enough of a reason to stop eating meat.Q: Which one of the following most accurately describes the role played in the argument by the supposition that eating meat is essential to good health? Answer Choices: (A)It is used to disprove the vegetarian position that we should not eat meat. (B)It is used to show that the two types of reasons cited in favor of vegetarianism are independent. (C)It is used to disprove the claim that a vegetarian diet is healthy. (D)It is used to weaken the claim that the consciousness of animals is a sufficient reason for not eating meat. (E)It is used to show that there is no sufficient reason for not eating meat.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Even if the quantity of nitrous oxide released into the environment decreased, many environmental problems would remain unsolved.",
+            "(B)Even if only some of the thread and rope that is currently being made from nylon were instead made from cotton fiber, some environmental damage would be avoided.",
+            "(C)If cotton fiber replaced nylon in the production of thread and rope, there would be a resulting increase in the amount of nylon used in other manufactured products.",
+            "(D)If the quantity of nylon manufactured annually decreased substantially, the volume of several pollutants that are released into the environment during its manufacture would be reduced.",
+            "(E)If thread and rope continue to be made from nylon, the production of cotton fiber will not increase as rapidly as it would if all thread and rope were to be made from cotton fiber."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Sartore is a better movie reviewer than Kelly. A movie review should help readers determine whether or not they are apt to enjoy the movie, and a person who is likely to enjoy a particular movie is much more likely to realize this by reading a review by Sartore than a review by Kelly: even though Sartore is more likely to give a movie an unfavorable review than a favorable one.Q: Which one of the following, if true, most strengthens the argument? Answer Choices: (A)Sartore has technical knowledge of film, whereas Kelly is merely a fan. (B)Most of Kelly's movie reviews are unfavorable to the movie being reviewed. (C)One who is apt not to enjoy a particular movie is more likely to realize this by reading a review by Sartore than a review by Kelly. (D)Reading a movie review by Sartore will usually help one to enjoy the .movie more than one otherwise would have. (E)Most of the movies that Sartore reviews are also reviewed by Kelly.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Similarly, you could conclude that you can expect to win the lottery if you carry a good-luck charm. After all, Annie, Francisco, and Sean carry good-luck charms, and these three people are lottery winners.",
+            "(B)Similarly, you could conclude that Jesse should not expect to get food poisoning. After all, Jesse, Doris, and Christine all attended the company picnic, and only Christine has gotten food poisoning as a result.",
+            "(C)Similarly, you could conclude that Eric, Diane, and Martin are the only employees who will be laid off. After all, any employee hired within the last year can expect to be laid off, and these three employees are the only ones who were hired within the last year.",
+            "(D)Similarly, you could conclude that Ken, Norma, and Mary routinely drive faster than the speed limit. After all, if you routinely exceed the speed limit, you can expect to get a speeding ticket eventually, and these three people have gotten speeding tickets.",
+            "(E)Similarly, you could conclude that Jack, Stephen, and Tina can expect to get jobs after they complete their university education. After all, these three people attend Perry University, and most people who graduated from Perry last year found jobs."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Fish with teeth specialized for scraping algae occur in both Flower Lake and Blue Lake. Some biologists argue that because such specialized characteristics are rare, fish species that have them should be expected to be closely related. If they are closely related, then the algae-scraping specialization evolved only once. But genetic tests show that the two algae-scraping species, although possibly related, are not closely related. Thus, the algae-scraping specialization evolved more than once.Q: The reasoning in the argument is flawed in that it Answer Choices: (A)infers a cause merely from a correlation (B)infers that just because the evidence for a particular claim has not yet been confirmed, that claim is false (C)takes a sufficient condition as a necessary one (D)infers merely because something was likely to occur that it did occur (E)appeals to the authority of biologists who may not be representative of all biologists with expertise in the relevant area\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)The Woemer Journalism Award for criticism should not be given to a writer who portrays utilitarian objects as works of art.",
+            "(B)Reviews of objects cannot appropriately be considered to be criticism unless the objects reveal important truths about the culture that produced them.",
+            "(C)Unless a review is written for the purpose of revealing important truths about the writer's culture, that review should not be considered to be criticism.",
+            "(D)The Woerner JournalismAward for criticism should not be given to writers who do not consider themselves to be critics.",
+            "(E)All writing that reveals important truths about a culture should be considered to be criticism."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Principle: A government should reduce taxes on imports if doing so would financially benefit many consumers in its domestic economy. There is a notable exception, however: it should never reduce import taxes if one or more of its domestic industries would be significantly harmed by the added competition. Conclusion: The government should not reduce taxes on textile imports.Q: Which one of the following is a statement from which the conclusion can be properly drawn using the principle? Answer Choices: (A)Reducing taxes on textile imports would notf inancially benefit many consumers in the domestic economy. (B)Reducing taxes on textile imports would financially benefit some consumers in the domestic economy but would not benefit the domestic textile industry. (C)The domestic textile industry faces significant competition in many of its export markets. (D)The domestic textile industry and consumers in the domestic economy would benefit less from reductions in taxes on textile imports than they would from other measures. (E)The added competition produced by any reduction of taxes on imports would significantly harm the domestic textile industry.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Conditions that create a feeling of security also encourage risk taking.",
+            "(B)Problems created by humans require human-created solutions.",
+            "(C)Technical fixes are inevitably temporary.",
+            "(D)Technical fixes cannot discourage risk-taking behavior.",
+            "(E)The longer a problem goes unresolved, the worse it becomes."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Meerkat \"sentinels,\" so-called because they watch for predators while other meerkat group members forage, almost never fall victim to those predators, yet the foragers often do. This advantage accruing to the sentinel does not mean that its watchful behavior is entirely self-interested. On the contrary, the sentinel's behavior is an example of animal behavior motivated at least in part by altruism. The loud bark emitted by the sentinel as it dashes for the cover of the nearest hole alerts other group members to the presence of danger.Q: Which one of the following is a questionable reasoning technique employed in the argument? Answer Choices: (A)appealing to evidence that tends to undermine rather than support the argument's conclusion (B)appealing to evidence that presupposes the truth of the argument's conclusion (C)inferting solely from an effeet produeed by an action that a purpose of the action is to produce that effect (D)inferting solely from the claim that the behavior of a meerut sentinel is not entirely selfish that this behavior is entirely altruistic (E)concluding that a claim is false on the grounds that insufficient evidence has been offi:red to support it\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)confuses a sufficient condition for adopting ethical guidelines for politicians with a necessary condition for adopting such guidelines",
+            "(B)rejects a proposal on the grounds that an inadequate argument has been given for it",
+            "(C)fails to adequately address the possibility that other city politicians would resist Sigerson's proposal",
+            "(D)rejects a proposal on the grounds that the person offering it is unfamiliar with the issues it raises",
+            "(E)overlooks the fact that Sigerson's proposal would apply only to the future conduct of city politicians"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "\"Hot spot\" is a term that ecologists use to describe those habitats with the greatest concentrations of species found only in one place—so-called \"endemic\" species. Many of these hot spots are vulnerable to habitat loss due to commercial development. Furthermore, loss of endemic species accounts for most modern-day extinctions. Thus, given that only a limited number of environmental battles can be waged, it would be reasonable for organizations dedicated to preserving species to ____.Q: Which one of the following most logically completes the argument? Answer Choices: (A)try to help only those species who are threatened with extinction because of habitat loss (B)concentrate their resources on protecting hot spot habitats (C)treat all endemic species as equally valuable and equally in need of preservation (D)accept that most endemic species will become extinct (E)expand the definition of \"hot spot\" to include vulnerable habitats that are not currently home to many endangered species\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)fails to take into account that unhappiness can vary in intensity or significance",
+            "(B)relies on an assumption that is tantamount to assuming that the conclusion is true",
+            "(C)mischaracterize what Brooks says",
+            "(D)conllates two different types of risk",
+            "(E)reaches a generalization on the basis of a single case"
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Merton: A study showed that people who live on very busy streets have higher rates of heart disease than average. I conclude that this elevated rate of heart disease is caused by air pollution from automobile exhaust. Ortiz: Are you sure? Do we know whether people living on busy streets have other lifestyle factors that are especially conducive to heart disease?Q: Ortiz criticizes Merton's argument by Answer Choices: (A)raising a question about the validity of the study that Merton cites (B)contending that Merton needs to take into account other effects of air pollution (C)claiming that Merton misunderstands a crucial aspect of the study's findings (D)raising* a counterexample to the general conclusion that Merton draws (E)suggesting that alternative explanations for the study's findings need to be ruled out\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)undermining a view by showing that its general acceptance would lead to undesirable consequences",
+            "(B)rebutting an objection by attacking the assumption on which it is said to be based",
+            "(C)attacking a view by claiming that those who propose it are motivated only by self-interest",
+            "(D)claiming that whatever is true of a group must be true of each of the members of the group",
+            "(E)undermining an apparent counterexample to a universal claim"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Chairperson: The board of directors of our corporation should not allow the incentives being offered by two foreign governments to entice us to expand our operations into their countries without further consideration of the issue. Although there is an opportunity to increase our profits by expanding our operations there, neither of these countries is politically stable.Q: The chairperson's reasoning most closely conforms to which one of the following principles? Answer Choices: (A)A corporation should never expand operations into countries that are politically unstable. (B)Corporations should expand operations into countries when there is a chance of increasing profits. (C)Political stability is the most important consideration in deciding whether to expand operations into a country. (D)Corporations should always be cautious about expanding operations into politically unstable countries. (E)Boards of directors should always disregard governmental incentives when considering where to expand corporate operations.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)whether the city will need to cease funding local children's television programming if it continues funding the children's museum",
+            "(B)whether the mayor has spoken truthfully about what will need to happen if the city does not cease funding local children's television programming",
+            "(C)whether the city should cease funding local children's television programming if continuing to fund it would mean that the city would have to cease funding the children's museum",
+            "(D)whether local children's television programming provides a beneficial educational experience to a greater number of children in the city than does the children's museum",
+            "(E)whether the children's museum provides a rich educational experience for those children who visit it"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Resident: Data indicates that 30 percent of the houses in our town have inadequate site drainage and 30 percent have structural defects that could make them unsafe. Hence, at least 60 percent of our town's houses have some kind of problem that threatens their integrity.Q: The reasoning in the resident's argument is flawed in that the argument overlooks the possibility that Answer Choices: (A)the town has a relatively small number of houses (B)inadequate site drainage can make a house unsafe (C)structural defects are often easier to fix than inadequate site drainage (D)many houses in the town have neither inadequate site drainage nor structural defects that could make them unsafe (E)some of the houses that have structure defects that could make them unsafe also have inadequate site drainage\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Because the film studio owns the new technology, the studio will be able to control its use in any future films.",
+            "(B)Films that introduce innovative special-effects technologies generally draw large audiences of people who are curious about the new effects.",
+            "(C)The production costs of this film are so high that, even if the film is popular, it is unlikely that the film's ticket sales will offset those costs.",
+            "(D)In the past, many innovative special-effects technologies were abandoned after the films for which they were developed proved to be unpopular.",
+            "(E)The use of the new special-effects technology would lower the production costs of other films that use it."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "City council member: Despite the city's desperate need to exploit any available source of revenue, the mayor has repeatedly blocked council members' attempts to pass legislation imposing real estate development fees. It is clear that in doing so the mayor is sacrificing the city's interests to personal interests. The mayor cites figures to show that, in the current market, fees of the size proposed would significantly reduce the number of building starts and thus, on balance, result in a revenue loss to the city. But the important point is that the mayor's family is heavily involved in real estate development and thus has a strong financial interest in the matter.Q: Which one of the following most accurately and completely expresses the main conclusion of the city council member's argument? Answer Choices: (A)Imposing real estate development fees is the best way for the city to exploit the available sources of revenue. (B)The city would benefit financially from the passage of legislation imposing real estate development fees. (C)In blocking council members' attempts to impose real estate development fees, the mayor is sacrificing the city's interests to personal interests. (D)Significantly reducing the number of building starts would not, on balance, result in revenue loss to the city. (E)The mayor's family has a strong financial interest in preventing the passage of legislation that would impose real estate development fees.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)infers merely from the fact of someone's holding a belief that he or she believes an implication of that belief",
+            "(B)infers that because something is true of a group of people, it is true of each individual member of the group",
+            "(C)infers that because something is true of each individual person belonging to a group, it is true of the group as a whole",
+            "(D)attempts to discredit a theory by discrediting those who espouse that theory",
+            "(E)fails to consider that, even if an argument's conclusion is false, some of the assumptions used to justify that conclusion may nonetheless be true"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Psychologist: In our study, participants who were offered the opportunity to purchase a coffee mug were not willing to pay more than $5. If, however, they were given a very similar mug and asked immediately afterwards how much they would be willing to sell it for, most of them held out for more than $5.Q: Which one of the following, if true, most helps to resolve the apparent discrepancy described above? Answer Choices: (A)A person's assessment of the value of an object depends on his or her evaluation of the inherent properties of the object. (B)People are usually unable to judge the value of an object when they have possessed it for a long period of time. (C)The amount a person is willing to spend on an object is determined by the amount that object sold for in the past. (D)People tend to value an object that they do no town less than they value a very similar object that they already own. (E)People are more likely to undervalue objects they have been given than objects they have purchased.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Maples has the least seniority of any member of Riverdale's Modem Party and was recently ousted from the Traditionalist Party.",
+            "(B)Tannett would be a better mayor than would any other member of Riverdale's Traditionalist Party.",
+            "(C)Few residents of Riverdale believe that Maples would be a better mayor than Tannett .",
+            "(D)Of all the members of Riverdale's Modern Party, Maples would be the worst mayor.",
+            "(E)Tannett is better qualified to be mayor than is Riverdale's Modern Party Chairperson."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Editorial: Cell-phone usage on buses and trains is annoying to other passengers. This suggests that recent proposals to allow use of cell phones on airplanes are ill-advised. Cell-phone use would be far more upsetting on airplanes than it is on buses and trains. Airline passengers are usually packed in tightly. And if airline passengers are offended by the cell-phone excesses of their seatmates, they often cannot move to another seat.Q: Which one of the following most accurately describes the role played in the editorial's argument by the statement that cell-phone use would be far more upsetting on airplanes than it is on buses and trains? Answer Choices: (A)It is the main conclusion of the argument. (B)It is a claim that the argument tries to rebut. (C)It is a premise that indirectly supports the main conclusion of the argument by supporting a premise for that conclusion. (D)It is a conclusion for which support is provided and that itself is used in turn to directly support the argument's main conclusion. (E)It provides background information that plays no role in the reasoning in the argument.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Highwater Lake is in an area of the mountains that is highly susceptible to acid rain.",
+            "(B)Prior to the ban, there was practically no fishing at Quapaw Lake.",
+            "(C)Highwater Lake is much larger than Quapaw Lake.",
+            "(D)Several other lakes in the Pawpaw mountains have recently had increases in their fish populations.",
+            "(E)There used to be a greater variety of fish species in Highwater Lake than in Quapaw Lake, but there no longer is."
+        ],
+        "gold": [
+            2
+        ]
+    }
+]
