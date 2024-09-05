@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Which one of the following statements is false?",
+        "subject": "college_computer_science",
+        "choices": [
+            "arguing that what is true of part of an object is necessarily true of the entire object",
+            "arguing that two things are similar enough that what is true of one is true of the other",
+            "arguing that since something is inexpensive it is necessarily of low quality",
+            "reasoning by sign when there is really not a direct relationship between the alleged sign and the subject of the argument"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following objective criteria for assessing job performance has/have the greatest validity",
+        "subject": "marketing",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A law school professor was hired to teach a bar review course. The professor taught the course in three cities. After conducting the sessions, the professor submitted an expense report to the owner of the bar review course. Her expense voucher included a $225 travel expenditure to a fourth city where the professor had attended a symposium unrelated to the bar review course. The professor also submitted the $225 travel expenditure to the administrator for the faculty at the law school where she teaches. The dean of the law school had previously approved the professor's appearance at the symposium. The owner paid the professor for the symposium-related expenditure but indicated that the expense item was improperly billed to his company. The professor was indicted for false pretenses. In her defense, she contends that the double billing was the result of a bookkeeping error. Her defense should be",
+        "subject": "sociology",
+        "choices": [
+            "An industrial society with abundant natural resources and large imports of food",
+            "A society with a highly mechanized agricultural sector",
+            "A non-ecumene",
+            "A slash-and-burn agricultural society"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " What is an example of \"mutual coercion, mutually agreed upon\"?",
+        "subject": "professional_law",
+        "choices": [
+            "2 milliseconds.",
+            "2 seconds.",
+            "10 seconds.",
+            "20 seconds."
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Mani referred to God by which of the following names?",
+        "subject": "moral_scenarios",
+        "choices": [
+            "No, because it is hearsay not within any exception.",
+            "No, because the defendant made the offer in a negotiation for settlement of a criminal investigation.",
+            "Yes, as a matter observed and reported by the investigator pursuant to a duty imposed by law.",
+            "Yes, as a statement of an opposing party."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "2Ag+(aq) + Fe(s) → 2Ag(s) + Fe2+(aq) Which of the following would cause an increase in potential in the voltaic cell described by the above reaction?",
+        "subject": "high_school_mathematics",
+        "choices": [
+            "consult with another psychologist during the course of treatment to make sure your feelings don’t interfere with your objectivity.",
+            "discuss the difference in political views with Hermann only if they become relevant to the psychotherapy process.",
+            "see Hermann in therapy until his current crisis is over and then make a referral if necessary.",
+            "provide Hermann with appropriate referrals."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Consider the following equations concerning a stack module that has the operations Push, Pop, Top, and IsEmpty. Which of the equations does NOT represent the conventional semantics of a stack?",
+        "subject": "professional_law",
+        "choices": [
+            "Fibromyalgia",
+            "Myasthenia gravis",
+            "Polymyositis",
+            "Scleroderma"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "An owner of a large, three-story office building planned to renovate the building and requested several contractors to submit bids to perform the work. One of the contractors in turn sought bids from several subcontractors to determine the overall cost of the job. An electrician submitted a bid to do the electrical work to the contractor, which the contractor used in computing the bid he sent to the owner. The contractor notified the electrician to that effect. Two weeks later, the contractor submitted his bid to the owner, in which he offered to perform the renovation work for $75,000. The next day, the electrician notified the contractor that he was unable to perform the electrical work on the owner's project. Two days later, the owner sent the contractor a signed confirmation letter wherein she stated, \"I hereby accept your offer to perform the renovation work for the quoted cost of $75,000. \"Thereafter, the contractor hired another electrician to complete the electrical work at a cost of $5,000 above the first electrician's bid. The contractor explained the situation to the owner and informed her that the overall cost of the job would have to be increased to $80,000. The owner responded that she would hold the contractor to his original bid of $75,000 and would not be responsible for any additional costs. The contractor then performed the renovation work, but the owner has not yet paid him anything. In an action by the contractor against the owner for the services rendered, the contractor will probably be able to recover",
+        "subject": "nutrition",
+        "choices": [
+            "Both relied heavily on agriculture.",
+            "Both have an abundance of rare luxury items.",
+            "Both have high-status burials.",
+            "Both have sophisticated monumental architecture."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?",
+        "subject": "professional_psychology",
+        "choices": [
+            "the content of the media is determined by market forces",
+            "the subordinate classes are dominated by the ideology of the ruling class",
+            "the media manipulate 'the masses' as vulnerable, passive consumers",
+            "audiences make selective interpretations of media messages"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "To what extent can societal identity be defended militarily?",
+        "subject": "world_religions",
+        "choices": [
+            "Direct democracy",
+            "Checks and balances",
+            "Equal representation",
+            "Unitary government"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?",
+        "subject": "virology",
+        "choices": [
+            "A statement that the practitioner performed an examination of prospective financial statements.",
+            "A statement of scope limitation that will qualify the practitioner’s opinion.",
+            "A statement referring to standards established by the AICPA.",
+            "A statement of negative assurance based on procedures performed."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Those who have lost a close family member to suicide most often experience",
+        "subject": "miscellaneous",
+        "choices": [
+            "Limiting security analysis to military engagement is too restrictive.",
+            "Security is a contestable concept.",
+            "Focusing security only on violent conflicts is too restrictive.",
+            "All of these options."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Magna Carta was",
+        "subject": "moral_disputes",
+        "choices": [
+            "describing the taste of the cake at your last birthday party",
+            "remembering how to tie a tie",
+            "recalling the name of your junior high school shop teacher",
+            "recognizing a celebrity"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "According to Classical analysis an economy in a recession can return to full employment through",
+        "subject": "elementary_mathematics",
+        "choices": [
+            "the ideology process",
+            "the exploitation process",
+            "the policy-formation process",
+            "the candidate-selection process"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following artists is an English landscape painter who created a poetic sense of changing atmospheric effects by using tiny applications of local color?",
+        "subject": "high_school_physics",
+        "choices": [
+            "are located in the center of the retina.",
+            "synapse with bipolar cells.",
+            "respond more quickly to bright colors.",
+            "have a low absolute threshold for light."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Why are the inner planets made of denser materials than the outer planets?",
+        "subject": "miscellaneous",
+        "choices": [
+            "unfair.",
+            "determined by supply and demand.",
+            "determined in most cases by the federal government.",
+            "a reflection of our basic values."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The Arrhenius equation may be used to determine",
+        "subject": "human_aging",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | My mother-in-law loves sweets, so I made sure to add extra salt to her pudding. Scenario 2 | I sold my baby brother's old toys to the Germans.",
+        "subject": "moral_scenarios",
+        "choices": [
+            "objectionable, because the question is beyond the scope of direct examination.",
+            "objectionable, because it was highly prejudicial.",
+            "unobjectionable, because plaintiff's knowledge of such an affair was probative of the value to be placed on her loss.",
+            "unobjectionable, because it was relevant on the issue of negligence."
+        ],
+        "answer": 0
+    },
+    {
+        "question": " There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.",
+        "subject": "conceptual_physics",
+        "choices": [
+            "learning",
+            "behavioral",
+            "reaction",
+            "results"
+        ],
+        "answer": 0
+    },
+    {
+        "question": " Select the best English interpretation of the given arguments in predicate logic.\nDh ⊃ ~Pt\n(∀x)Px ∨ (∀x)Mx\n~Mb\t/ ~Dh",
+        "subject": "miscellaneous",
+        "choices": [
+            "measure of agreement between 2 raters using nominal scales",
+            "elapsed time in which target behaviors occurs",
+            "recording all behaviors with narrative description",
+            "# of times target behavior occurs"
+        ],
+        "answer": 1
+    }
+]

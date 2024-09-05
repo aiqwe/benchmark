@@ -1,0 +1,18 @@
+default: &default
+  path: null
+  name: null
+  url: null
+  paper: null
+  
+mmlu:
+  <<: *default
+  path: cais/mmlu
+  name: all
+  url: https://huggingface.co/datasets/cais/mmlu
+  paper: https://arxiv.org/pdf/2009.03300
+  
+mmlu_pro:
+  <<: *default
+  path: TIGER-Lab/MMLU-Pro
+  url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+  paper: https://arxiv.org/pdf/2406.01574

@@ -1,10 +1,18 @@
 import json
 from functools import lru_cache
-from datasets.utils.logging import set_verbosity_error
-from datasets import Dataset
 from datasets import load_dataset
+import os
 import random
+from yaml import load_all, CLoader as Loader
 from loguru import logger
+from pygments import highlight, lexers, formatters
+
+def show(obj, colored=True):
+    """ indent 넣어서 이쁘게 프린트해주기 """
+    encoded = json.dumps(obj, indent=4, ensure_ascii=False)
+    if colored:
+        encoded = highlight(encoded, lexer=lexers.JsonLexer(), formatter=formatters.TerminalFormatter())
+    print(encoded)
 
 class Benchmark:
 
@@ -35,7 +43,7 @@ class Benchmark:
         self.repr = repr
         logger.info(self.repr)
 
-    def show(self, split: str = None, sample: dict = None, category: str = None, idx: int = None):
+    def show(self, split: str = None, sample: dict = None, category: str = None, idx: int = None, colored = True):
         """
         Sample 1개를 JSON indent = 4로 보여줌
         Args:
@@ -54,7 +62,7 @@ class Benchmark:
 
         if not idx:
             idx = random.randint(0, len(samples) - 1)
-        print(json.dumps(samples[idx], indent=4, ensure_ascii=False))
+        show(samples[idx], colored=colored)
 
     def save(self, split: str = None, samples: list = None, path: str = None, category: str = None):
         """
@@ -73,11 +81,15 @@ class Benchmark:
         if not samples:
             samples = self.sample(dataset=dataset, category = category)
         if not path:
-            path = f"./samples/{self.name + '-' + self.path if self.path else self.name.split('/')[-1]}.json"
+            path = f"./samples/{self.name}/{self.name + '-' + self.path if self.path else self.name.split('/')[-1]}.json"
+            os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
             logger.info(f"{path}에 저장합니다.")
             logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
             json.dump(samples, f, ensure_ascii = False, indent = 4)
+
+        def __repr__(self):
+            return f"{self.repr}"
 
     @lru_cache
     def sample(self, split: str = None, dataset = None, category: str = None):
@@ -119,3 +131,25 @@ class Benchmark:
         self.samples = samples
         return self.samples
 
+class HFDatasets:
+
+    def __init__(self, path: str = "hfdatasets.yaml"):
+        with open(path, "r") as f:
+            file = f.read()
+            conf = list(load_all(file, Loader=Loader))[0]
+        self.config = {k: v for k, v in conf.items() if not k.startswith("default")}
+
+    def get_all_names(self):
+        """ yaml내 벤치마크들의 전체 이름 출력 """
+        return list(self.config.keys())
+
+    def get_all_values(self, key: str):
+        """ 벤치마크들의 key로 전달된 값의 value들만 출력 """
+        return {k: v_v for k, v in self.config.items() for v_k, v_v in v.items() if v_k == key}
+
+    def get_benchmark(self, name: str):
+        """ 벤치마크의 전체 정보 출력 """
+        return self.config[name]
+
+    def __repr__(self):
+        return f"HFDatasets:\n{self.get_all_names()}\n*More Details in self.config"
