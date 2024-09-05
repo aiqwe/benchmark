@@ -1,0 +1,382 @@
+[
+    {
+        "id": "Mercury_SC_401836",
+        "question": "A plant gets the energy it needs from the Sun. The plant uses about ten percent of the energy to carry on its life functions. The plant transfers approximately another ten percent of the energy to the consumers in a food chain. What happens to most of the remaining energy?",
+        "choices": {
+            "text": [
+                "The larger rose will have fewer petals than the smaller rose.",
+                "The larger rose will more easily attract bees than the smaller rose.",
+                "The smaller rose will have more pollen than the larger rose.",
+                "The smaller rose will grow faster than the larger rose."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7143185",
+        "question": "Which question can most likely be determined through a scientific investigation?",
+        "choices": {
+            "text": [
+                "to store the genetic instructions needed to specify traits",
+                "to release energy by breaking down food molecules",
+                "to transport nutrients into and out of the cell",
+                "to protect the cells from microorganisms"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7267960",
+        "question": "Where does the energy from an earthquake originate?",
+        "choices": {
+            "text": [
+                "Most soils have many rocks.",
+                "Most soils are found in layers.",
+                "Most soils hold the same amounts of water.",
+                "Most soils have the same texture."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "MDSA_2007_5_9",
+        "question": "Which is a true statement regarding the graphing of data?",
+        "choices": {
+            "text": [
+                "sort the cans by size",
+                "put the cans in water",
+                "cool the cans to a low temperature",
+                "put the cans under an electromagnet"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_403967",
+        "question": "Sea-floor spreading occurs at divergent boundaries. Which statement best identifies the geologic process taking place at the point where sea-floor spreading occurs?",
+        "choices": {
+            "text": [
+                "nucleus",
+                "protons",
+                "neutrons",
+                "electrons"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7213255",
+        "question": "Uranus is one of the outer planets of the solar system. The average distance of Uranus from the Sun is 2.87 billion kilometers. Which best explains why Uranus revolves in its orbit instead of moving out into space?",
+        "choices": {
+            "text": [
+                "Solar energy involves the most dangerous equipment.",
+                "Solar energy requires the most complicated technology.",
+                "The supply of solar energy will not change for billions of years.",
+                "The supply of solar energy causes it to be the cheapest kind of energy."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "AKDE&ED_2012_8_45",
+        "question": "The skin is the largest organ in the human body. Why is skin considered to be an organ?",
+        "choices": {
+            "text": [
+                "saplings and trees",
+                "grasses and shrubs",
+                "lichens and mosses",
+                "seedlings and bushes"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "LEAP_2011_4_10298",
+        "question": "After a soccer game, Brittany sat under a fan because she was hot. Under the fan, she felt cooler than before. Which explains why Brittany felt cooler under the fan?",
+        "choices": {
+            "text": [
+                "spaghetti noodles",
+                "hamburger patties",
+                "apple slices",
+                "cucumber slices"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7227833",
+        "question": "Which of these methods of energy resource acquisition has the least effect on the lithosphere?",
+        "choices": {
+            "text": [
+                "has a pleasant flavor.",
+                "is recommended by dentists.",
+                "promotes good dental hygiene.",
+                "is the most expensive brand sold."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7132195",
+        "question": "An ice cube placed in sunlight melts quickly. Which BEST explains this event?",
+        "choices": {
+            "text": [
+                "must be solid.",
+                "could be either solid or liquid.",
+                "must be liquid.",
+                "could be either liquid or gas."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "MCAS_8_2014_14",
+        "question": "Two pieces of the same metal are placed on a table. The pieces of metal have the same density, mass, and texture. Which characteristic must be the ONLY difference between the two samples?",
+        "choices": {
+            "text": [
+                "Tundras are warmer than grasslands.",
+                "Grasslands get more rain than deserts.",
+                "Deserts have more plants than rainforests.",
+                "Rainforests are rockier than tundras."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_SC_401354",
+        "question": "Lighting a match and baking a cake are two actions that involve chemical changes. Why are these actions considered chemical changes?",
+        "choices": {
+            "text": [
+                "the sex of the egg",
+                "the age of the egg",
+                "the size of the egg",
+                "the genes of the egg"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "4"
+    },
+    {
+        "id": "MCAS_2004_8_8",
+        "question": "Which of the following best explains why many species of birds in New England fly south for the winter months?",
+        "choices": {
+            "text": [
+                "a fruit",
+                "a leaf",
+                "a stem",
+                "a branch"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7245910",
+        "question": "Over time, the ability to ship foods around the world has improved. Which is the most likely effect these shipping improvements have had on people?",
+        "choices": {
+            "text": [
+                "Solar energy involves the most dangerous equipment.",
+                "Solar energy requires the most complicated technology.",
+                "The supply of solar energy will not change for billions of years.",
+                "The supply of solar energy causes it to be the cheapest kind of energy."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7082635",
+        "question": "A pharmaceutical company has published the results of a limited experiment investigating the protective value of a chemical compound against high doses of UV rays on skin cells. It was later discovered that the results were not reproducible. What action could the company researchers have taken to avoid publishing erroneous results?",
+        "choices": {
+            "text": [
+                "repeat the experiment and check for errors",
+                "change the observations to match the hypothesis",
+                "redo the experiment until the expected results are obtained",
+                "record and analyze the data after changing the hypothesis"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "MCAS_2001_8_5",
+        "question": "Hatchling sea turtles are typically dark in color. Occasionally, a sea turtle hatches that is almost white in color. When crawling from the nest on the beach to the ocean, this light-colored sea turtle could be at risk for sunburn. The light color of the turtles would most likely",
+        "choices": {
+            "text": [
+                "alteration of whale genetic material",
+                "reversed flow of energy through whale habitats",
+                "reduced populations of food organisms in whale habitats",
+                "separation of whale family groups"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "VASoL_2009_3_17",
+        "question": "A road cut shows a layer of shale on top of a layer of limestone. This indicates",
+        "choices": {
+            "text": [
+                "Organisms are now given Latin-based scientific names.",
+                "Structures are now examined at the molecular level.",
+                "Organisms are now divided into three kingdoms.",
+                "Structures are now used to classify organisms."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "NAEP_2005_4_S12+12",
+        "question": "The Moon orbits Earth at a speed of approximately one kilometer per second. The Moon is kept in orbit by which of the following?",
+        "choices": {
+            "text": [
+                "the length of its fur",
+                "the shape of its nose",
+                "the size of its appetite",
+                "the color of its fur"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7071908",
+        "question": "A student recorded the growth rate of plants grown in the presence of two different types of music. Plants grown in the presence of one type of music grew faster than the other plants. Before reporting a conclusion, which should the student most likely do?",
+        "choices": {
+            "text": [
+                "their mass",
+                "their height",
+                "their weight",
+                "their volume"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7057715",
+        "question": "Scientists launch a rocket into space for a mission. Once the rocket escapes the gravitational pull of Earth, how will the mass and weight of the rocket be affected?",
+        "choices": {
+            "text": [
+                "the composition of the Earth.",
+                "patterns of crystal formation.",
+                "physical properties of rocks.",
+                "organisms from long ago."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    }
+]
