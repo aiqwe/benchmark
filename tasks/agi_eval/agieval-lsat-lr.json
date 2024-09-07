@@ -1,0 +1,262 @@
+[
+    {
+        "query": "Numerous paintings and engravings representing warfare can be found in remains of all civilizations going back to and including the Neolithic period, when agriculture was first developed. However, no paintings or engravings of warfare are found dating from before the Neolithic period. Therefore, warfare must have first developed as a result of the transition to an agricultural society.Q: Which one of the following is an assumption required by the argument? Answer Choices: (A)Paintings and engravings were the dominant forms of artistic expression during the Neolithic period. (B)Warfare in the Neolithic period was always motivated by territorial disputes over agricultural land. (C)There was no warfare prior to the period in which paintings and engravings of warfare were first created. (D)Warfare is the inevitable result of the development of a civilization. (E)Paintings and engravings of agricultural life began to be made at the same time as paintings and engravings of warfare.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)It is unhealthy to work in a cluttered work area.",
+            "(B)The quality of the stimuli in an artist's environment matters.",
+            "(C)Supermarket tabloids should not be considered stimulating.",
+            "(D)Messiness impairs artistic creativity.",
+            "(E)One should be able to be creative even in a stark, empty work area."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Editorial: Medical schools spend one hour teaching preventive medicine for every ten hours spent teaching curative medicine, even though doctors' use of the techniques of preventive medicine cuts down medical costs greatly. Therefore, if their goal is to make medicine more cost-effective, medical schools spend insufficient time teaching preventive medicine.Q: Which one of the following is an assumption on which the editorial's argument depends? Answer Choices: (A)Preventive medicine makes use of technologies that are lower in initial cost than the technologies used within the practice of curative medicine. (B)Every hour devoted to the teaching of preventive medicine reduces medical costs by 10 percent or more. (C)Medical schools could increase their total number of teaching hours. (D)Improvements in doctors' use of the techniques of curative medicine would only increase overall medical costs. (E)The time required to teach preventive medicine thoroughly is greater than one hour for every ten that are now spent teaching curative medicine.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)of those who participated in the marathon,some succeeded and others failed. But those who did not participate at all neither succeeded nor failed, since both success and failure require participation.",
+            "(B)People who are aware of their motives can articulate them. But unconscious motives are usually impossible to acknowledge. So people are more likely to hear about other people's conscious motives than their unconscious ones.",
+            "(C)It is unclear whether the company's venture succeeded, because the criteria for its success are undefined, But if the venture had had a measurable goal, then it would have been possible to judge its success.",
+            "(D)A teacher is someone who teaches. In addition,there are people who teach but are not called teachers. So while the number of those called teachers is large, the number of those who teach is even larger.",
+            "(E)Because someone intervened in the conflict, the effects of that intervention can be discerned. But since no one can investigate what does not happen, it is impossible to discern that would have happened had someone not intervened."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Mayor: There has been a long debate in city council about how to accommodate projected increases in automobile traffic. Today, our choice is clear: either we adopt my plan to build a new expressway, or we do nothing. Doing nothing is not a viable option because our existing system of roads would be in gridlock within ten years given even a conservative estimate of future traffic levels. City council should therefore adopt my plan.Q: The reasoning in the mayor's argument is most vulnerable to which one of the following criticisms? Answer Choices: (A)It bases a projection only on conservative estimates rather than considering a wider range of estimates. (B)It takes for granted that the options it considers are mutually exclusive. (C)It fails to consider the possibility that the rate of increase in traffic will start to diminish after ten years. (D)It fails to address the issue of the cost of traffic gridlock to the city's economy. (E)It presents a choice that is limited to two options, without giving reasons for not considering any other options\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Babblers fly much faster than the predators that prey upon them.",
+            "(B)Babblers ' predators are generally intimidated by large numbers of babblers.",
+            "(C)There is more than one type of predator that preys upon babblers.",
+            "(D)Babblers ' predators have very good eyesight but relatively weak hearing.",
+            "(E)Animals that live in close proximity to babblers are also preyed upon by the predators that prey upon babblers."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Ecologist: Before finding a mate, male starlings decorate their nests with fragments of aromatic plants rich in compounds known to kill parasitic insects. Since these parasites are potentially harmful to nestlings, some researchers have hypothesized that the function of these decorations is nestling protection. However, males cease to incorporate such greenery once egg laying starts, which suggests instead that the function of the decorations is to attract females.Q: Which one of the following, if true, most strengthens the support for the ecologist's conclusion? Answer Choices: (A)Adult starlings are able to defend themselves against parasitic insects. (B)Male starlings do not decorate their nests in areas with unusually small populations of parasitic insects. (C)Nestlings grow faster in nests that incorporate aromatic plants than in nests that do not. (D)Male starlings tend to decorate their nests with a greater number of aromatic plants when a caged female is positioned adjacent to the nest. (E)The compounds in the aromatic plants used by the male starlings to decorate their nests are harmless to nestlings.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)All descriptions of monstrous beasts describe violations of the laws of nature.",
+            "(B)Any story that describes a violation of a law of nature is intended to invoke dread in the reader.",
+            "(C)Horror stories of any kind usually describe characters who are psychologically disturbed.",
+            "(D)Most stories about mad scientists express the author's antiscientific views.",
+            "(E)Some stories that employ symbolism describe violations of the laws of nature."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "The Asian elephant walks with at least two, and sometimes three, feet on the ground at all times. Even though it can accelerate, it does so merely by taking quicker and longer steps. So the Asian elephant does not actually run.Q: The conclusion drawn above follows logically if which one of the following is assumed? Answer Choices: (A)If an animal cannot accelerate, then it cannot run. (B)To run, an animal must have all of its feet off the ground at once. (C)The Asian elephant can walk as quickly as some animals run. (D)It is unusual for a four-legged animal to keep three feet on the ground while walking. (E)All four-legged animals walk with at least two feet on the ground at all times.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)The origin of a food prohibition must be explained with reference to the understanding that the people who adopted and enforced the prohibition had.",
+            "(B)The social, economic, and medical problems of a society may lead to the adoption of contradictory food prohibitions.",
+            "(C)The social importance of the origin of a food prohibition is independent of the nutritional value of the food prohibited.",
+            "(D)The original purpose of a food prohibition is often forgotten a few generations after the prohibition is introduced.",
+            "(E)The people who originally adopted and enforced food prohibitions in ancient cultures generally had a nontechnical understanding of the medical functions of those prohibitions."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Riverdale's Modem Party Chairperson: Maples, the Modem Party candidate, would be a better mayor than his opponent, Tannett, who is a member of the Traditionalist Party. Every member of the Modern Party is better qualified to be mayor than is any member of the Traditionalist Party.Q: If the statements of Riverdale's Modem Party Chairperson are true, each of the following could be true EXCEPT: Answer Choices: (A)Maples has the least seniority of any member of Riverdale's Modem Party and was recently ousted from the Traditionalist Party. (B)Tannett would be a better mayor than would any other member of Riverdale's Traditionalist Party. (C)Few residents of Riverdale believe that Maples would be a better mayor than Tannett . (D)Of all the members of Riverdale's Modern Party, Maples would be the worst mayor. (E)Tannett is better qualified to be mayor than is Riverdale's Modern Party Chairperson.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Physicians who do not accept gifts from drug companies are less likely to prescribe unnecessary drugs than those who do accept such gifts.",
+            "(B)Most physicians believe that drug companies should adopt new guidelines that regulate their practices in sending gifts to physicians.",
+            "(C)Some physicians are mistaken either about the degree to which they are influenced by gifts from drug companies or about the degree to which such gifts influence other physicians.",
+            "(D)Some physicians who admit that their own choices when prescribing drugs are influenced by drug companies' gifts believe that other physicians' prescription choices are influenced to a greater degree by such gifts.",
+            "(E)All physicians who admit that their own choices when prescribing drugs are influenced by drug companies' gifts believe that most other physicians' prescription choices are also influenced by such gifts."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "A high-calorie diet providing adequate fats was a crucial requirement for the evolution of the anatomically modem human brain, a process that began among our early human ancestors. Food resources that could support such a diet were most abundant and reliable in the shore environments that were available to early humans. Nevertheless, the human brain's evolution took place almost exclusively in savanna and woodland areas.Q: Which one of the following, if true, would most help to resolve the apparent conflict presented above? Answer Choices: (A)Early humans had a significantly lower metabolic rate than anatomically modem humans,allowing them to expend their fat reserves more efficiently. (B)The brains of the earliest known humans were 30 percent smaller than the anatomically modem human brain. (C)Prehistoric savanna and woodland areas offered more reliable and abundant resources than they do today. (D)The techniques used to explore the archaeology of prehistoric shore sites have only recently been developed. (E)Gathering food in shore enviromnents required a significantly greater expenditure of calories by early humans than did gathering food in other environments.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)It is an unsupported claim that is used to provide support for the argument's conclusion.",
+            "(B)It is an unsupported claim that is used to support another claim that in turn supports the argument's conclusion.",
+            "(C)It is a claim for which the argument provides some support, and which in turn is used to support the argument's conclusion.",
+            "(D)It is a claim that serves as the argument's conclusion.",
+            "(E)It is a claim that provides nonessential background information for the argument's conclusion."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "A manager cannot extract the best performance from employees by threatening them with termination or offering financial rewards for high productivity. Rather, employees must come to want to do a good job for its own sake. One of the best ways for a manager to achieve this is to delegate responsibility to them, especially for decisions that previously had to be made by the manager.Q: Which one of the following propositions is best illustrated by the situation described in the passage? Answer Choices: (A)Increased responsibility can improve a person's sense of how power should be used. (B)It is often the case that the desire for prestige is more powerful than the desire for job security. (C)In some cases one's effectiveness in a particular role can be enhanced by a partial relinquishing of control. (D)People who carry out decisions are in the best position to determine what those decisions should be. (E)Business works best by harnessing the self-interest of individuals to benefit the company as a whole.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Soccer players suffer more leg injuries, on average, than any other athletes at this university. Linda Wilson has suffered more leg injuries than any other soccer player at this university. Thus, Linda Wilson is the athlete at this university who has suffered the most leg injuries.",
+            "(B)Teachers at our school have won more teaching awards, on average, than teachers at any other school in this city. Janna Patel is the teacher who has won the most awards in the city. So Janna Patel is the best teacher at our school.",
+            "(C)The Olson Motor Company manufactures the three best-selling automobile models in the country. The Decade is the Olson Motor Company's best-selling model. Thus the Decade is the best-selling model in the country.",
+            "(D)In this city the highest-paid police officer earns more than the highest-paid firefighter, and the lowest-paid police officer earns more than the lowest-paid firefighter. So in this city police officers earn more, on average, than firefighters do.",
+            "(E)Falling Fast is the film that is currently earning the most at the box office in the country. The most successful film in the country is typically the one that is showing in the most theaters. So Falling Fast is probably the film that is currently showing in the most theaters."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Consultant: The dramatic improvements in productivity achieved during the Industrial Revolution resulted in large part from standardization of processes and procedures coupled with centralization of planning and decision making. Yet, in recent years, many already productive companies have further improved their productivity by giving individual employees greater influence in decision making and in how they do their work.Q: Which one of the following, if true, most helps to resolve the apparent paradox in the consultant's statements? Answer Choices: (A)Most companies still try to improve productivity mainly through greater standardization and centralization of decision making. (B)Increased productivity is not the only benefit of giving individual employees greater control over their work; job satisfaction increases as well. (C)Most of the increases in industrial productivity that have occurred in recent years have been due to the introduction of advanced technology like industrial robots. (D)The innovations of the Industrial Revolution are only now being applied in those companies in which individual employees have traditionally been entirely in control of how they do their work. (E)Increases in productivity in highly productive companies depend on management's broad application of innovative ideas solicited from individual employees about their work.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Otters and abalones also compete for the same types of food and so are drawn to the same waters.",
+            "(B)The fossils that were studied showed the development of only one of the two species of large abalones known to exist.",
+            "(C)Otters also prey on the abalones* competitors for food and so indirectly make it easier for abalones to get food.",
+            "(D)Small abalone species tend to reproduce more rapidly than larger abalone species.",
+            "(E)Otters have a preference for large abalones over small ones and so prefer waters in which large abalones are found."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Many calcium supplements contain lead, a potentially dangerous substance even in small amounts. The body can safely store in bones trace amounts of lead from food, but high levels of lead in the blood are a major public health concern, associated with anemia and nerve damage. Despite this, many doctors contend that for some people calcium supplements containing lead are preferable to no calcium supplements at all.Q: Which one of the following, if true, would most help to resolve the apparent discrepancy in the information above? Answer Choices: (A)Some fruits and vegetables contain trace amounts of lead derived from the soil in which they are grown. (B)It is difficult to ensure that one has completely eliminated trace amounts of lead from one's diet. (C)Lead is only one of the common public health concerns that are associated with anemia and nerve damage. (D)A high-calcium diet decreases the amount of lead that the body is able to tolerate safely. (E)When calcium intake is insufficient, the body draws calcium from bones, releasing stored lead into the bloodstream.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Because the police chief regards Carl as the most capable detective, she assigns him only the most difficult cases, ones that others have failed to solve.",
+            "(B)Before he became a detective, Carl was a neighborhood police officer and was highly respected by the residents of the neighborhood he patrolled.",
+            "(C)Detectives on the police force on which Carl serves are provided with extensive resources, including the use of a large computer database, to help them solve crimes.",
+            "(D)Carl was previously a detective in a police department in another city, and in the 4 years he spent there, he solved only 1 out of 30 crimes.",
+            "(E)Many of the officers in the police department in which Carl serves were hired or promoted within the last 5 years."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Company spokesperson: Household Products magazine claims that our Filterator X water filter does not remove chemical contaminants in significant amounts. This attack on the quality of our product is undermined by the experience of the millions of Filterator X owners who are satisfied with the product's performance.Q: Which one of the following, if true, most seriously undermines the company spokesperson's argument? Answer Choices: (A)Household Products did not evaluate whether the Filterator X water filter significantly improved the taste of drinking water. (B)Most Filterator X owners have no way to determine how effectively the product removes chemical contaminants from water. (C)People whose household water contsins chemical contsminants are more likely than other people to buy a Filterator X water filter. (D)Very few people who own a Filterator X read Household Products on a consistent basis. (E)Household Products' evaluations of Filterator X water ::tilters have been consistently negative\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)takes for granted that production methods that do not produce pollution cannot be developed",
+            "(B)fails to take into account the possibility that different causes can have similar effects",
+            "(C)generalizes too hastily from the inapplicability of a specific criticism to the inapplicability of a class of criticisms",
+            "(D)takes for granted that because the company has attempted to reduce the amount of pollution produced, they must have succeeded",
+            "(E)ignores the possibility that there are currently production methods that would allow the corporation to produce less pollution than it does now"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "If one wants to succeed, then one should act as though one were genuinely confident about one's abilities, even if one actually distrusts one's skills. Success is much more easily obtained by those who genuinely believe themselves capable of succeeding than by those filled with self-doubts.Q: Which one of the following statements, if true, most strengthens the argument? Answer Choices: (A)Those who convince others that they are capable of succeeding usually have few self-doubts. (B)Genuine confidence is often a by-product of pretended self-confidence. (C)Success is usually more a matter of luck or determination than of skill. (D)Many people who behave in a self-confident manner are genuinely confident about their abilities. (E)Self-doubt can hamper as well as aid the development of the skills necessary for success.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)In a well-functioning democracy, any bill that would benefit most people will be passed into law within a few years if it does not violate anyone's basic human rights.",
+            "(B)If a democracy is well functioning, then any bill that is opposed by influential people but favored by most other people will eventually pass into law.",
+            "(C)In a well-functioning democracy, a bill that is favored by most people will become law within a few years only if those who oppose it are not very influential.",
+            "(D)Any bill passed into law in a well-functioning democracy will be favored by most people and be consistent with individuals' basic human rights.",
+            "(E)A bill that most people favor will be passed promptly into law in a well-functioning democracy if the bill does not violate anyone's basic human rights."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Mayor: To keep our neighborhoods clean, every street in town will be swept at least once a month. If a neighborhood needs more frequent sweepings, due to excessive dirt from major construction for example, that neighborhood will be qualified for interim sweepings. All requests for interim sweepings from qualified neighborhoods will be satisfied immediately.Q: If all of the mayor's statements are true, then which one of the following must also be true? Answer Choices: (A)All neighborhoods in which construction is under way are qualified neighborhoods. (B)All qualified neighborhoods will get their streets swept more than once a month. (C)No street will be swept more than once a month unless it is located in a qualified neighborhood. (D)A qualified neighborhood that requests an interim sweeping will have its streets swept more than once a month. (E)No street in an unqualified neighborhood will be swept more than once a month even if the neighborhood requests it.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Political candidates with strong debating skills are more likely to win elections than those with weak debating skills.",
+            "(B)A voter who watches a political debate will likely be better able, as a result, to determine which candidate is more qualified for office.",
+            "(C)Debating skills are of little use to politicians in doing their jobs once they are elected to office.",
+            "(D)The candidates with the best debating skills are the ones who are most qualified for the political offices for which they are running.",
+            "(E)Political debates tend to have a major effect on which candidate among those participating in a debate will win the election."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Employee: The company I work for has installed website filtering software that blocks access to non-work-related websites. It claims that being able to visit such sites distracts us, keeping us from doing our best work. But offices that have windows or are nicely decorated can be highly distracting too, and no one claims that people do their best work in an undecorated, windowless room.Q: Which one of the following arguments is most similar in its reasoning to the employee's argument? Answer Choices: (A)Some people advocate moderation in all things. But different people react differently to certain substances, so what counts as a moderate amount of, say, caffeine for you might be too much for me. So to talk about moderation is to fail to take into account people's basic biological differences. (B)Activists are calling for an electronic device to be banned, for research has shown that prolonged exposure to the device while it is in use causes cancer in laboratory animals. But most chemicals probably cause cancer when administered in very high doses, yet no one would argue that we should ban all these chemicals for that reason. (C)Acme expects that approximately 1,000 of its employees will retire over the next year. No one would claim that Acme does not need a work force as large as its present one. So Acme will need to hire approximately 1,000 people over the next year. (D)In many creative writing classes, aspiring writers are told that if the characters they create are not engaging, their novels and stories will not sell. But this does not mean that engaging characters guarantee a sale-publishers and agents often reject manuscripts that emphasize character to the exclusion of other elements. (E)In the movie industry, a film's success is judged in terms of its profit relative to its cost. This is misguided, because under this criterion an expensive movie that sells just as many tickets as a lower-budget movie would be less successful than the lower-budget movie, which is clearly counter intuitive.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)None of our feelings are within our control.",
+            "(B)People should not make promises to do something that is not within their control.",
+            "(C)\"Love\" can legitimately be taken to refer to something other than feelings.",
+            "(D)Promises should not be interpreted in such a way that they make no sense.",
+            "(E)Promises that cannot be kept do not make any sense."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Dietitian: Eating fish can lower one's cholesterol level. In a study of cholesterol levels and diet, two groups were studied. The first group ate a balanced diet including two servings of fish per week. The second group ate a very similar diet, but ate no fish. The first group showed lower cholesterol levels, on average, than the second group. The two groups had displayed similar average cholesterol levels prior to the study.Q: Which one of the following most accurately describes the role played in the dietitian's argument by the claim that the two groups had displayed similar average cholesterol levels prior to the study? Answer Choices: (A)It is offered as an objection to the main conclusion of the argument. (B)It expresses the main conclusion of the argument. (C)It rules out an alternative explanation of the data collected in the study. (D)It provides background information on the purpose of the study. (E)It introduces an alternative explanation of the phenomenon described in the main conclusion.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)It sets out a problem the argument as a whole is designed to resolve.",
+            "(B)It is compatible with accepting the argument's conclusion and with denying it.",
+            "(C)It is a position that the argument simply takes for granted is false.",
+            "(D)It expresses the position the argument as a whole is directed toward discrediting.",
+            "(E)It is an assumption that is required in order to establish the argument's conclusion."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "The quantity and type of pollution that entered the river last Thursday night suggest that the local auto repair shop is responsible. But the penalty for this type of pollution is so severe that, unless stronger evidence is discovered or the perpetrator admits responsibility, we cannot be sufficiently certain of the identity of the polluter to justify imposing the penalty.Q: Which one of the following principles, if valid, most helps to justify the reasoning in the argument? Answer Choices: (A)The more severe the penalty for an infraction is, the more certain one must be of the guilt of a party before being justified in imposing the penalty on that party. (B)Penalties for crimes should be severe enough to deter people from committing them, but not so severe as to undermine one's willingness to impose them. (C)The severity of the penalty imposed for an infraction should be proportional to the harm caused by that infraction. (D)The more severe the penalty for an offense is, the less likely it is that someone will come forward and admit responsibility for the offense. (E)The severity of the penalty for an offense should not be so great that one can never be sufficiently certain of guilt to justify punishment for that offense.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Most bacteria that are not resistant to antibiotics are not resistant to heavy-metal poisoning either.",
+            "(B)Bacteria that live in sewage sludge that is free of heavy metals, but is in other respects similar to normal sewage, are generally resistant to neither heavy-metal poisoning nor antibiotics.",
+            "(C)Antibiotic resistance of bacteria that survive in sewage sludge in which heavy metals are concentrated contributes to their resistance to heavy-metal poisoning.",
+            "(D)Sewage sludge that contains high concentrations of heavy metals almost always contains significant concentrations of antibiotics.",
+            "(E)Many kinds of bacteria that do not live in sewage sludge are resistant to both heavy-metal poisoning and antibiotics."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Global wanning has contributed to a rise in global sea level not only because it causes glaciers and ice sheets to melt, but also simply because when water is heated its volume increases. But this rise in global sea level is less than it otherwise would be, since over the years artificial reservoirs have been built all around the world that collectively contain a great deal of water that would otherwise reach the sea.Q: Which one of the following can most reasonably be concluded on the basis of the information above? Answer Choices: (A)The exact magnitude of the rise in global sea level is in dispute. (B)Rises in global sea level that occurred before the world's reservoirs were built are difficult to explain. (C)Little is known about the contribution of global warming to the rise in global sea level. (D)The amount of water in the world's reservoirs is about equal to the amount of water that results from the melting of glaciers and ice sheets. (E)The amount of water that results from the melting of glaciers and ice sheets cannot be determined by looking at the rise in global sea level alone.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)If improperly incinerated, waste products containing undiluted concentrations of XTX can release into the environment a gaseous form of the chemical that is more than twice as toxic as XTX is in its usual liquid state.",
+            "(B)If present in the environment in sufficient quantities, the diluted XTX is as harmful as the more concentrated XTX.",
+            "(C)When XTX is exposed to sunlight and oxygen, it eventually breaks down into a number of components that individually and collectively carry no risk of environmental harm.",
+            "(D)Most owners of dumps for hazardous waste are willing to accept XTX for disposal in their facilities only in concentrations below 800 parts per million.",
+            "(E)To manufacturers, the cost of diluting and disposing of waste products containing XTX is approximately the same as the cost of destroying these products by incineration."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "In a study, pairs of trained dogs were placed side by side and given a command such as \"sit.\" After both obeyed the command, one dog was given a treat while its partner was given no reward at all. Over time, the dogs who went unrewarded began to disobey the command. This shows that dogs have an aversion to being treated unfairly.Q: Which one of the following would be most useful to know in order to evaluate the argument? Answer Choices: (A)Were dogs who were accustomed to receiving regular rewards prior to the study more inclined to obey the command? (B)Is there a decline in obedience if rewards are withheld from both dogs in the pair? (C)Were dogs who received treats in one trial ever used as dogs that did not receive treats in other trials? (D)Were there any cases in which the dog who was given a reward became more inclined to obey the command? (E)How many repetitions were required before the unrewarded dogs began to disobey the command?\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Some of the people who are most efficient in the workplace are not among the most organized.",
+            "(B)Most people whose organizational skills in the workplace are below average do not take seminars for building organizational skills in the workplace.",
+            "(C)Most seminars for building organizational skills in the workplace are designed for people who have been selected for management training.",
+            "(D)Most people who have taken a seminar for building organizational skills in the workplace have below-average organizational skills before they enroll in the seminar.",
+            "(E)Most people who have taken a seminar for building organizational skills in the workplace consequently expend a great amount of time organizing their activities."
+        ],
+        "gold": [
+            4
+        ]
+    },
+    {
+        "query": "Columnist: Although most people favor the bill and the bill does not violate anyone's basic human rights, it will not be passed for many years, if at all; nor will any similar bill. Those people who would be adversely affected were it to become law are very influential. This shows that, if this country is a democracy at all, it is not a well-functioning one.Q: Which one of the following principles, if valid, most helps to justify the columnist's reasoning? Answer Choices: (A)In a well-functioning democracy, any bill that would benefit most people will be passed into law within a few years if it does not violate anyone's basic human rights. (B)If a democracy is well functioning, then any bill that is opposed by influential people but favored by most other people will eventually pass into law. (C)In a well-functioning democracy, a bill that is favored by most people will become law within a few years only if those who oppose it are not very influential. (D)Any bill passed into law in a well-functioning democracy will be favored by most people and be consistent with individuals' basic human rights. (E)A bill that most people favor will be passed promptly into law in a well-functioning democracy if the bill does not violate anyone's basic human rights.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)The type of canvas and other materials that Cassatt used in most of her work were readily available to others.",
+            "(B)None of Cassatt's works is painted using a brush style that is not exhibited in any of her known works.",
+            "(C)Cassatt's work generally had a characteristic subject matter that distinguished it from the work of other painters of her era.",
+            "(D)The most characteristic feature of Cassatt's work is her brush style.",
+            "(E)No painter other than Cassatt would be able to match Cassatt's brush style perfectly."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Richard: Because it fails to meet the fundamental requirement of art—that it represent—abstract art will eventually be seen as an aberration. Jung-Su: Although artists, like musicians, may reject literal representation, makers of abstract art choose to represent the purely formal features of objects, which are discovered only when everyday perspectives are rejected. Thus, whatever others might come to say, abstract art is part of the artistic mainstream.Q: Richard and Jung-Su disagree over whether Answer Choices: (A)makers of abstract art reject literal representation (B)the fundamental requirement of art is that it represent (C)musicians may reject literal representation (D)abstract art will be seen as an aberration (E)abstract art is representational\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)People with high incomes are consistently more satisfied with their incomes than are people in the middle class.",
+            "(B)Older people are generally more satisfied with their incomes than are younger people.",
+            "(C)Satisfaction with income is strongly correlated with neighborhood.",
+            "(D)In general, people's income levels have little effect on their level of satisfaction with life as a whole.",
+            "(E)An increase in everyone's incomes is not likely to greatly increase people's levels of satisfaction with their own incomes."
+        ],
+        "gold": [
+            0
+        ]
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "query": "Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A)3 hours (B)5 hours (C)6 hours (D)4 hours (E)7 hours\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)40",
+            "(B)62",
+            "(C)82",
+            "(D)92",
+            "(E)102"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B? Answer Choices: (A)45 (B)48 (C)51 (D)54 (E)57\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)18",
+            "(B)25",
+            "(C)15",
+            "(D)20",
+            "(E)21"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300\ncents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars. Answer Choices: (A)500 (B)600 (C)750 (D)800 (E)900\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)s.5050",
+            "(B)s.5723",
+            "(C)s.5040",
+            "(D)s.4950",
+            "(E)s.4870"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was Answer Choices: (A)8 (B)12 (C)16 (D)24 (E)25\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)20 < x < 54",
+            "(B)23 < x < 58",
+            "(C)25 < x < 64",
+            "(D)28 < x < 60",
+            "(E)None of these"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: (A)15 (B)24 (C)25 (D)40 (E)52\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)1",
+            "(B)2",
+            "(C)3",
+            "(D)4",
+            "(E)5"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: (A)8880 (B)8870 (C)8890 (D)7890 (E)6780\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)Rs. 697.50",
+            "(B)Rs. 712.50",
+            "(C)Rs. 787.50",
+            "(D)Rs. 750",
+            "(E)Rs. 780"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: (A)M + N / 8 (B)2M + N / 8 (C)M + N / 4 (D)M + 3N / 8 (E)M + N / 5\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)-23.5",
+            "(B)-17.5",
+            "(C)-10.5",
+            "(D)-16.2",
+            "(E)Cannot be determined"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km Answer Choices: (A)9 hours. (B)10 hours. (C)11 hours. (D)12 hours. (E)13 hours.\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)50%",
+            "(B)60%",
+            "(C)70%",
+            "(D)86%",
+            "(E)90%"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: (A)15 (B)16 (C)17 (D)18 (E)19\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)12 am on the next day",
+            "(B)5 am on the next day",
+            "(C)5 pm on the next day",
+            "(D)2 pm on the next day",
+            "(E)None of these"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? Answer Choices: (A)8% (B)10% (C)12.5% (D)16.7% (E)25%\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)750pi",
+            "(B)1500pi",
+            "(C)1875pi",
+            "(D)3000pi",
+            "(E)7500pi"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Add: +45 and -30 Answer Choices: (A)-30 (B)+30 (C)0 (D)15 (E)-15\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)3400",
+            "(B)1700",
+            "(C)3440",
+            "(D)Cannot be determined",
+            "(E)None of these"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: If 6x - y = 24 and y = 3x, what is the value of x? Answer Choices: (A)8 (B)9 (C)10 (D)11 (E)12\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)$27.30",
+            "(B)$51.00",
+            "(C)$63.00",
+            "(D)$70.00",
+            "(E)$91.00"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is: Answer Choices: (A)10 (B)11 (C)12 (D)13 (E)14\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)1",
+            "(B)2",
+            "(C)3",
+            "(D)4",
+            "(E)5"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost? Answer Choices: (A)70 (B)30 (C)3 (D)7 (E)5\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)7.5",
+            "(B)8.9",
+            "(C)9.9",
+            "(D)11.5",
+            "(E)11.7"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: A shopkeeper in order to promote his new shop put a discount of 20% on all the items for one day. Now he must sell the items at original price the other day. By what percentage must he increase the price to original? Answer Choices: (A)21% (B)20% (C)25% (D)33% (E)18%\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)2 miles",
+            "(B)2.25 miles",
+            "(C)3.25 miles",
+            "(D)3.85 miles",
+            "(E)2.85 miles"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre? Answer Choices: (A)3400 (B)1700 (C)3440 (D)Cannot be determined (E)None of these\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)1,980",
+            "(B)2,020",
+            "(C)2,100",
+            "(D)2,200",
+            "(E)1,900"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle? Answer Choices: (A)50 m (B)75 m (C)100 m (D)125 m (E)150 m\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)M + N / 8",
+            "(B)2M + N / 8",
+            "(C)M + N / 4",
+            "(D)M + 3N / 8",
+            "(E)M + N / 5"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: (A)15.38% (B)42% (C)39.86% (D)22.35% (E)32.51%\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)50",
+            "(B)100",
+            "(C)150",
+            "(D)200",
+            "(E)70"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: (A)74453 (B)64543 (C)74325 (D)65000 (E)97656\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)12",
+            "(B)16",
+            "(C)24",
+            "(D)30",
+            "(E)40"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted? Answer Choices: (A)438 (B)550 (C)500 (D)450 (E)498\nA: Among A through E, the answer is",
+        "choices": [
+            "(A)AB/2700",
+            "(B)27/AB",
+            "(C)AB/270",
+            "(D)2700/AB",
+            "(E)100AB/27"
+        ],
+        "gold": [
+            4
+        ]
+    }
+]

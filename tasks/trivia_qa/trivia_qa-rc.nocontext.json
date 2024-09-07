@@ -1,0 +1,1083 @@
+[
+    {
+        "question": "The automobile SEAT 600 made from 1957 to 1973 is associated with the economic boom of what country?",
+        "question_id": "dpql_253",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Egean sea",
+                "Egeon pelagos",
+                "Ege denizi",
+                "Egeon Pelagos",
+                "The aegean",
+                "Aegean Sea Region",
+                "Aegean basin",
+                "Agean sea",
+                "Agean Sea",
+                "Aegean Sea continental shelf",
+                "Aegean Sea Continental Shelf",
+                "Aegean sea",
+                "Sea of Aegea",
+                "Aegean coast",
+                "Aegean Sea",
+                "Mare Aegaeum",
+                "Byalo More",
+                "Adalar Denizi",
+                "AEgean Sea",
+                "Ægean Sea"
+            ],
+            "normalized_aliases": [
+                "ege denizi",
+                "aegean sea",
+                "agean sea",
+                "sea of aegea",
+                "adalar denizi",
+                "egean sea",
+                "aegean sea region",
+                "aegean basin",
+                "aegean sea continental shelf",
+                "aegean coast",
+                "aegean",
+                "mare aegaeum",
+                "ægean sea",
+                "egeon pelagos",
+                "byalo more"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "aegean sea",
+            "type": "WikipediaEntity",
+            "value": "Aegean Sea"
+        }
+    },
+    {
+        "question": "The refugee camps Shatila and Shabra, the scenes of a massacre in 1982, were in which country?",
+        "question_id": "bb_3872",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Footballers' Wive$",
+                "The Footballers' Wives Reunion(Footballers' Wives episode)",
+                "Eva De Wolfe",
+                "Footballers Wives",
+                "Footballer's Wives",
+                "Amberoon Gates",
+                "The Footballers' Wives Reunion (Footballers' Wives episode)",
+                "Footballers' Wives",
+                "Footballer’s Wives",
+                "Footballers Wive$"
+            ],
+            "normalized_aliases": [
+                "footballer s wives",
+                "footballers wives",
+                "footballers wives reunion footballers wives episode",
+                "eva de wolfe",
+                "amberoon gates",
+                "footballers wive"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "footballer s wives",
+            "type": "WikipediaEntity",
+            "value": "Footballer’s Wives"
+        }
+    },
+    {
+        "question": "The Swilkin Bridge is a famous feature of which Scottish golf course?",
+        "question_id": "sfq_1305",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "E170 (E number)",
+                "Precipitated calcium carbonate",
+                "Calcium Carbonate",
+                "Caco3",
+                "ATC code A12AA04",
+                "CaCo3",
+                "Commercial whiting",
+                "Kalcipos",
+                "OS-Cal",
+                "CaCO3",
+                "Cac03",
+                "Calcium carbonate",
+                "ATCvet code QA12AA04",
+                "ATCvet code QA02AC01",
+                "ATC code A02AC01"
+            ],
+            "normalized_aliases": [
+                "e170 e number",
+                "caco3",
+                "kalcipos",
+                "commercial whiting",
+                "atcvet code qa12aa04",
+                "atc code a02ac01",
+                "os cal",
+                "cac03",
+                "atcvet code qa02ac01",
+                "calcium carbonate",
+                "atc code a12aa04",
+                "precipitated calcium carbonate"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "calcium carbonate",
+            "type": "WikipediaEntity",
+            "value": "Calcium carbonate"
+        }
+    },
+    {
+        "question": "In the TV western series, who (played by Leif Erikson) owned the High Chaparral?",
+        "question_id": "qg_4349",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Grimshaw (disambiguation)",
+                "Grimshaw",
+                "Grimshaw (surname)"
+            ],
+            "normalized_aliases": [
+                "grimshaw disambiguation",
+                "grimshaw",
+                "grimshaw surname"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "grimshaw",
+            "type": "WikipediaEntity",
+            "value": "Grimshaw"
+        }
+    },
+    {
+        "question": "Emil Zatopek won the 5000 and 10000 metres at the 1952 Olympics. In which event did his wife Dana also win a gold medal?",
+        "question_id": "bb_6076",
+        "question_source": "http://www.wrexhamquizleague.co.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Neighborhood (South Korea)",
+                "Dong (Administrative division)",
+                "Dong (neighbourhood)",
+                "The Dong",
+                "Haengjeongdong",
+                "Dong (neighborhood)",
+                "Dong(neighbourhood)",
+                "Dong (unit)",
+                "Beopjeong-dong",
+                "Legal dong",
+                "Dong (administrative division)",
+                "Dong (administrative unit)",
+                "Beopjeongdong",
+                "Haengjeong-dong",
+                "-dong",
+                "동",
+                "Dong (administrative district)",
+                "Dong (administrative section)",
+                "Dong (Korea)",
+                "Neighbourhood (South Korea)",
+                "Administrative dong"
+            ],
+            "normalized_aliases": [
+                "dong unit",
+                "dong",
+                "legal dong",
+                "동",
+                "dong administrative section",
+                "neighborhood south korea",
+                "administrative dong",
+                "dong administrative unit",
+                "dong neighbourhood",
+                "dong neighborhood",
+                "haengjeongdong",
+                "dong administrative division",
+                "beopjeong dong",
+                "haengjeong dong",
+                "neighbourhood south korea",
+                "beopjeongdong",
+                "dong administrative district",
+                "dong korea"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "dong",
+            "type": "WikipediaEntity",
+            "value": "The Dong"
+        }
+    },
+    {
+        "question": "Born in Holland, who is regarded as the finest woodworker to have worked in England. Noted for his Baroque garlands of still life framing mirrors and doorways, examples of his workmanship are seen in many buildings including St Paul's, Hampton Court and Bleheim palaces.",
+        "question_id": "odql_12011",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Australia (Commonwealth realm)",
+                "AustraliA",
+                "Continental Australia",
+                "Australias",
+                "Peace of Australia",
+                "Australian city life",
+                "City life in Australia",
+                "Australocentrist",
+                "Mainland Australia",
+                "Australiia",
+                "Straya",
+                "Australia (commonwealth)",
+                "Austraila",
+                "Ausrtalia",
+                "Australia (nation)",
+                "Australien",
+                "New Australian",
+                "Australia (dominion)",
+                "Australia (federation)",
+                "Australia (country)",
+                "Aussieland",
+                "Federal Australia",
+                "Country life in Australia",
+                "Orstraya",
+                "Australia (nation state)",
+                "Australia (commonwealth realm)",
+                "Australia",
+                "Australocentrism",
+                "Austraya",
+                "Australie",
+                "AUSTRALIA",
+                "Geopolitics of Australia",
+                "Australia (nation-state)",
+                "Australia's",
+                "Australian mainland",
+                "Australian country life",
+                "Australian Woman's Day",
+                "Imperial Australia",
+                "United States of Australia",
+                "Australia (realm)",
+                "Australia (constitutional monarchy)",
+                "Austalia",
+                "Etymology of Australia",
+                "Philosophy in Australia",
+                "Commonwealth of Australia",
+                "Australija",
+                "Australia (monarchy)",
+                "Dominion of Australia",
+                "Empire of Australia",
+                "Ostralia",
+                "Modern Australia",
+                "Commonwealth of australia",
+                "Australia (empire)",
+                "Australo",
+                "The Commonwealth of Australia",
+                "Australia.",
+                "Austrlia",
+                "Australlia",
+                "AUSTRALIAN",
+                "Australia (state)",
+                "ISO 3166-1:AU",
+                "Austrailia",
+                "Commonwealth Australia",
+                "Pax Australiana",
+                "Australian Commonwealth",
+                "Australocentric",
+                "Austrlaia",
+                "Technology in Australia",
+                "Australia (Commonwealth)",
+                "Australai",
+                "Australian geopolitics",
+                "Asutralia",
+                "Australo-",
+                "Australian's",
+                "Science in Australia"
+            ],
+            "normalized_aliases": [
+                "australie",
+                "orstraya",
+                "federal australia",
+                "australias",
+                "empire of australia",
+                "modern australia",
+                "asutralia",
+                "iso 3166 1 au",
+                "australien",
+                "australia country",
+                "australia federation",
+                "austraila",
+                "country life in australia",
+                "philosophy in australia",
+                "australlia",
+                "continental australia",
+                "pax australiana",
+                "austrlaia",
+                "australia dominion",
+                "australian woman s day",
+                "australia monarchy",
+                "australia",
+                "australian country life",
+                "united states of australia",
+                "mainland australia",
+                "australia commonwealth",
+                "austalia",
+                "australija",
+                "australocentric",
+                "peace of australia",
+                "australia realm",
+                "ostralia",
+                "australocentrist",
+                "australian geopolitics",
+                "australia nation",
+                "australia commonwealth realm",
+                "australian",
+                "australian city life",
+                "australia empire",
+                "austraya",
+                "australiia",
+                "geopolitics of australia",
+                "australo",
+                "technology in australia",
+                "ausrtalia",
+                "australai",
+                "australia nation state",
+                "science in australia",
+                "dominion of australia",
+                "commonwealth of australia",
+                "australia state",
+                "aussieland",
+                "australian mainland",
+                "australian s",
+                "imperial australia",
+                "austrailia",
+                "city life in australia",
+                "austrlia",
+                "commonwealth australia",
+                "straya",
+                "australocentrism",
+                "australia s",
+                "australia constitutional monarchy",
+                "etymology of australia",
+                "australian commonwealth",
+                "new australian"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "australia",
+            "type": "WikipediaEntity",
+            "value": "Australia"
+        }
+    },
+    {
+        "question": "Which 14th century slang term for going insane is derived from the name of an army camp near Mumbai?",
+        "question_id": "qw_9323",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Seven",
+                "seven",
+                "7"
+            ],
+            "normalized_aliases": [
+                "seven",
+                "7"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "seven",
+            "type": "Numerical",
+            "value": "Seven"
+        }
+    },
+    {
+        "question": "By what other name is the bird the landrail known?",
+        "question_id": "odql_10552",
+        "question_source": "www.jetpunk.com",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Pew",
+                "Free and open church",
+                "Free and Open Church Association",
+                "Pew Dispute",
+                "Pew rents",
+                "Pew system",
+                "PEW",
+                "Pews",
+                "Pew rent",
+                "Pew-rent system",
+                "'PEW'",
+                "Pew dispute"
+            ],
+            "normalized_aliases": [
+                "pew rents",
+                "pew dispute",
+                "free and open church association",
+                "pews",
+                "pew",
+                "free and open church",
+                "pew system",
+                "pew rent system",
+                "pew rent"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "pew",
+            "type": "WikipediaEntity",
+            "value": "'PEW'"
+        }
+    },
+    {
+        "question": "George de Mestral invented what type of fastener in 1948?",
+        "question_id": "qb_6525",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Al Wilson"
+            ],
+            "normalized_aliases": [
+                "al wilson"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "al wilson",
+            "type": "WikipediaEntity",
+            "value": "Al Wilson"
+        }
+    },
+    {
+        "question": "Which political party did Picasso join in 1944?",
+        "question_id": "jp_262",
+        "question_source": "http://billturnbull.quiz4free.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Krete",
+                "Girit",
+                "Cretan",
+                "Kreta",
+                "Kriti (periphery)",
+                "Geography of Crete",
+                "Crete (Greece)",
+                "Krētē",
+                "Kretan",
+                "Krḗtē",
+                "Kríti",
+                "Crete, Greece",
+                "Crete",
+                "Island of Crete, Greece",
+                "Crete Periphery",
+                "Cretans",
+                "Creta"
+            ],
+            "normalized_aliases": [
+                "crete greece",
+                "krētē",
+                "kriti periphery",
+                "girit",
+                "krete",
+                "kreta",
+                "kretan",
+                "crete",
+                "crete periphery",
+                "cretan",
+                "geography of crete",
+                "cretans",
+                "krḗtē",
+                "island of crete greece",
+                "kríti",
+                "creta"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "crete",
+            "type": "WikipediaEntity",
+            "value": "Crete"
+        }
+    },
+    {
+        "question": "Who were the first sponsors of the Premier League, starting in 1993?",
+        "question_id": "odql_8558",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "twenty-two",
+                "22"
+            ],
+            "normalized_aliases": [
+                "twenty two",
+                "22"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "22",
+            "type": "Numerical",
+            "value": "22"
+        }
+    },
+    {
+        "question": "Who was the Archbishop of Canterbury between 1980 and 1991?",
+        "question_id": "qb_5003",
+        "question_source": "http://www.quizwise.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "AD 79",
+                "79",
+                "79 AD"
+            ],
+            "normalized_aliases": [
+                "ad 79",
+                "79",
+                "79 ad"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "79 ad",
+            "type": "WikipediaEntity",
+            "value": "79 AD"
+        }
+    },
+    {
+        "question": "Kim Campbell was the first woman prime minister of which country?",
+        "question_id": "jp_3927",
+        "question_source": "http://billturnbull.quiz4free.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Trapezium (disambiguation)",
+                "Trapezium"
+            ],
+            "normalized_aliases": [
+                "trapezium",
+                "trapezium disambiguation"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "trapezium",
+            "type": "WikipediaEntity",
+            "value": "Trapezium"
+        }
+    },
+    {
+        "question": "How old was River Phoenix when he died?",
+        "question_id": "tc_860",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "J Constable",
+                "John Constable"
+            ],
+            "normalized_aliases": [
+                "john constable",
+                "j constable"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "john constable",
+            "type": "WikipediaEntity",
+            "value": "John Constable"
+        }
+    },
+    {
+        "question": "Which US President had a cloakroom converted into a movie theatre in the White House?",
+        "question_id": "wh_314",
+        "question_source": "http://www.triviacountry.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Gordon Ramsey (chef)",
+                "Gordon Ramsay Holdings",
+                "Chef Ramsay",
+                "Gordon Ramsay",
+                "Chef Ramsey",
+                "Gordon Ramzi",
+                "Gordon Ramsay (chef)",
+                "Gordon James Ramsay",
+                "Gordon Rammzi",
+                "Gordon Ramzzi"
+            ],
+            "normalized_aliases": [
+                "gordon ramsey chef",
+                "chef ramsay",
+                "chef ramsey",
+                "gordon ramsay chef",
+                "gordon ramsay",
+                "gordon ramzzi",
+                "gordon james ramsay",
+                "gordon ramsay holdings",
+                "gordon ramzi",
+                "gordon rammzi"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "gordon ramsay",
+            "type": "WikipediaEntity",
+            "value": "Gordon Ramsay"
+        }
+    },
+    {
+        "question": "In which county is Ford Open Prison?",
+        "question_id": "jp_2139",
+        "question_source": "https://derbyshirepubquizleague.wordpress.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Black September (disambiguation)",
+                "Black September",
+                "‘Black September’"
+            ],
+            "normalized_aliases": [
+                "black september",
+                "black september disambiguation"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "black september",
+            "type": "WikipediaEntity",
+            "value": "Black September"
+        }
+    },
+    {
+        "question": "Which former EastEnders actor was once married to Colleen Nolan of The Nolans?",
+        "question_id": "sfq_670",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Anthony Frederick Blunt",
+                "Anthony F. Blunt",
+                "Antony Blunt",
+                "Blunt, Anthony",
+                "Anthony Blunt"
+            ],
+            "normalized_aliases": [
+                "anthony blunt",
+                "anthony f blunt",
+                "anthony frederick blunt",
+                "antony blunt",
+                "blunt anthony"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "anthony blunt",
+            "type": "WikipediaEntity",
+            "value": "Anthony Blunt"
+        }
+    },
+    {
+        "question": "Which bird is the unofficial national symbol of France?",
+        "question_id": "bt_2647",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Demographics of the kurdish people",
+                "Kurdish peoples",
+                "Kurds",
+                "Mountain Turks",
+                "كوردي",
+                "Kurdish Cities",
+                "Kurdish demographics",
+                "Kurd",
+                "Demographics of Kurds",
+                "Kurdish cities",
+                "Mountain Turk",
+                "کورد",
+                "Kurdish Cultural Region",
+                "Kurdish People",
+                "Kurdish Moslems",
+                "Turks of the mountains",
+                "Religion in Kurdistan",
+                "List of major cities with Kurdish population",
+                "Kurmanc",
+                "Kurdish ethnicity",
+                "Kurdish people",
+                "Kurmanj"
+            ],
+            "normalized_aliases": [
+                "demographics of kurdish people",
+                "demographics of kurds",
+                "kurdish people",
+                "mountain turks",
+                "kurmanc",
+                "kurds",
+                "mountain turk",
+                "kurdish ethnicity",
+                "list of major cities with kurdish population",
+                "kurdish demographics",
+                "kurdish moslems",
+                "kurmanj",
+                "kurdish cities",
+                "turks of mountains",
+                "کورد",
+                "kurdish cultural region",
+                "كوردي",
+                "religion in kurdistan",
+                "kurd",
+                "kurdish peoples"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "kurds",
+            "type": "WikipediaEntity",
+            "value": "Kurds"
+        }
+    },
+    {
+        "question": "How are 'Jean de Dinteville' and 'Georges de Selve' described in a famous painting by Holbein?",
+        "question_id": "wh_2933",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Margaret Becket",
+                "MARGARET BECKET",
+                "Foreign Secretary Margaret Beckett",
+                "Margaret Mary Beckett",
+                "Margaret Mary Jackson",
+                "Margaret Beckett"
+            ],
+            "normalized_aliases": [
+                "margaret mary beckett",
+                "margaret becket",
+                "foreign secretary margaret beckett",
+                "margaret mary jackson",
+                "margaret beckett"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "margaret becket",
+            "type": "WikipediaEntity",
+            "value": "MARGARET BECKET"
+        }
+    },
+    {
+        "question": "What word is used for the tail of a rabbit, hare or deer?",
+        "question_id": "sfq_3631",
+        "question_source": "http://www.triviacountry.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Srok khmer",
+                "Kingdom of Cambodia (1993-present)",
+                "Cambodia",
+                "Preah Reach Ana Pak",
+                "Preah Reach Ana Pak Kampuchea",
+                "Etymology of Cambodia",
+                "Preah Reacheanachakr Kampuchea",
+                "ISO 3166-1:KH",
+                "Cambodge",
+                "Kambodia",
+                "Kingdom of Cambodia",
+                "Kingdom of Kâmpŭchea",
+                "KAMPUCHEA",
+                "កម្ពុជា",
+                "CAMBODIA",
+                "Campuchea",
+                "Preăh Réachéanachâkr Kâmpŭchea",
+                "Preăh Réachéa Nachâk Kâmpŭchea",
+                "Kâmpuchea",
+                "Cambodja",
+                "Preăh Réachéanachâk Kâmpŭchéa",
+                "ព្រះរាជាណាចក្រកម្ពុជា",
+                "Kampuchea",
+                "Kingdom of Kampuchea",
+                "Kâmpŭchea",
+                "Preahreacheanachakr Kampuchea"
+            ],
+            "normalized_aliases": [
+                "kâmpŭchea",
+                "kingdom of cambodia 1993 present",
+                "preăh réachéanachâk kâmpŭchéa",
+                "kâmpuchea",
+                "etymology of cambodia",
+                "cambodja",
+                "preahreacheanachakr kampuchea",
+                "kingdom of cambodia",
+                "preah reach ana pak",
+                "preah reach ana pak kampuchea",
+                "iso 3166 1 kh",
+                "kingdom of kâmpŭchea",
+                "preah reacheanachakr kampuchea",
+                "kampuchea",
+                "cambodge",
+                "srok khmer",
+                "preăh réachéa nachâk kâmpŭchea",
+                "កម្ពុជា",
+                "kambodia",
+                "kingdom of kampuchea",
+                "ព្រះរាជាណាចក្រកម្ពុជា",
+                "cambodia",
+                "campuchea",
+                "preăh réachéanachâkr kâmpŭchea"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "kampuchea",
+            "type": "WikipediaEntity",
+            "value": "KAMPUCHEA"
+        }
+    }
+]

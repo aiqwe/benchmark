@@ -1,0 +1,382 @@
+[
+    {
+        "id": "MCAS_2009_8_1",
+        "question": "Which of these objects has the greatest mass?",
+        "choices": {
+            "text": [
+                "natural selection.",
+                "asexual reproduction.",
+                "selective breeding.",
+                "genetic engineering."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "ACTAAP_2010_5_14",
+        "question": "When a dog performs a specific action on command, such as sitting, the action is an example of",
+        "choices": {
+            "text": [
+                "opening a drawer",
+                "slicing an apple",
+                "closing a car door",
+                "pushing a wheelbarrow"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7211068",
+        "question": "Which occurs as the kinetic energy of water molecules increases?",
+        "choices": {
+            "text": [
+                "One moon-phase cycle",
+                "One ocean-tide cycle",
+                "An acorn growing into an adult tree",
+                "A caterpillar becoming a butterfly"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "MDSA_2009_5_17",
+        "question": "Four identical candles are set on a safe surface and lit. One is covered with a small-sized jar, one is covered with a large-sized jar, and one candle is left in the open. A fourth lit candle is placed in a vacuum. Which candle will most likely stay lit the longest?",
+        "choices": {
+            "text": [
+                "using a different amount of people in each trial",
+                "writing down the names of the people in the study",
+                "monitoring the reaction of each person in the study",
+                "applying the same amount of cream to each person"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_7005443",
+        "question": "The human body produces motion by changing chemical energy into mechanical energy. Which of these best describes what happens to the energy?",
+        "choices": {
+            "text": [
+                "The behavior is a random act.",
+                "The behavior is the result of a genetic mutation.",
+                "The behavior is inherited from the bird's parents.",
+                "The behavior is learned over the lifetime of the bird."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "ACTAAP_2007_7_23",
+        "question": "Which feature of some young birds helps them avoid becoming prey before they learn to fly?",
+        "choices": {
+            "text": [
+                "mutualism",
+                "parasitism",
+                "neutralism",
+                "commensalism"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_7239418",
+        "question": "When the first American astronauts were planning to walk on the Moon, they knew that the gravity on the Moon was less than the gravity on Earth. With this information, what did the astronauts expect to be most different on the Moon?",
+        "choices": {
+            "text": [
+                "31 pounds and 14 kilograms",
+                "31 pounds and 84 kilograms",
+                "186 pounds and 14 kilograms",
+                "186 pounds and 84 kilograms"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7068530",
+        "question": "In what way can bacteria be good for the human body?",
+        "choices": {
+            "text": [
+                "the weight of the object",
+                "the volume of the object",
+                "the amount of matter in the object",
+                "the amount of gravitational pull on the object"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_7027055",
+        "question": "Comparing the skeletons of which of the following fish would best show the evolution of a fish species?",
+        "choices": {
+            "text": [
+                "making paper",
+                "making pencils",
+                "building houses",
+                "producing heat"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_416594",
+        "question": "Which process in plants is most similar to sexual reproduction in vertebrates?",
+        "choices": {
+            "text": [
+                "The warm ocean currents flow from the tropics to the Northern Hemisphere in the summer.",
+                "The rays of the Sun strike the Northern Hemisphere more directly in the summer.",
+                "The greenhouse effect increases in the Northern Hemisphere in the summer.",
+                "The Northern Hemisphere is closer to the Sun in the summer."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7009625",
+        "question": "Which of these is the most likely effect of cutting down large numbers of trees?",
+        "choices": {
+            "text": [
+                "long hair.",
+                "blue eyes.",
+                "long eyelashes.",
+                "small dimples."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "NYSEDREGENTS_2005_8_44",
+        "question": "What atoms combine to make up a molecule of water? 1. 1 hydrogen, 1 oxygen 2.",
+        "choices": {
+            "text": [
+                "The coffee stays in motion because the stopping force acts only on the car.",
+                "The coffee stays in motion because a force from the cup holder pulls on the coffee.",
+                "The stopping force on the car causes an equal and opposite reaction from the coffee.",
+                "The stopping force causes the motion of the car to slow down and the motion of the coffee to speed up."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "4"
+    },
+    {
+        "id": "Mercury_SC_405455",
+        "question": "Which element makes up most of the air we breathe.",
+        "choices": {
+            "text": [
+                "poured the chemicals down the sink drain.",
+                "placed the chemicals carefully in the trash can.",
+                "placed each chemical back in its original container.",
+                "followed the directions provided by the teacher for each chemical."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_SC_408447",
+        "question": "Robots can perform tasks that are dangerous for humans. What is the MAJOR limitation to the use of robots?",
+        "choices": {
+            "text": [
+                "an increase in the size of the copper particles",
+                "a decrease in the mass of the copper particles",
+                "an increase in the motion of the copper particles",
+                "a decrease in the distance between the copper particles"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_401402",
+        "question": "In a grassland ecosystem, if the population of eagles suddenly decreased, what will most likely be the effect on the rest of the ecosystem?",
+        "choices": {
+            "text": [
+                "barometer",
+                "stopwatch",
+                "meter stick",
+                "magnifying lens"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "NYSEDREGENTS_2004_8_37",
+        "question": "Which marine ecosystem is independent of sunlight?",
+        "choices": {
+            "text": [
+                "decrease the temperature",
+                "increase the temperature",
+                "decrease the mass",
+                "increase the mass"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_SC_400519",
+        "question": "A chemical property of a mineral is evident if the mineral",
+        "choices": {
+            "text": [
+                "makes more land available for local farmers",
+                "removes valuable habitat for local species",
+                "increases local groundwater levels",
+                "provides income for local residents"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7094238",
+        "question": "In order for students to perform lab experiments safely and accurately, they should",
+        "choices": {
+            "text": [
+                "to include additional variables in the experiment",
+                "to complete the steps of the experiment in less time",
+                "to find a less expensive way to conduct the experiment",
+                "to increase the likelihood of accurate experiment results"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_7230580",
+        "question": "Which would best help a forest animal avoid being eaten by hawks or owls?",
+        "choices": {
+            "text": [
+                "a bar graph with temperature on the y-axis and time on the x-axis",
+                "a bar graph with time on the y-axis and temperature on the x-axis",
+                "a line graph with temperature on the y-axis and time on the x-axis",
+                "a line graph with time on the y-axis and temperature on the x-axis"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_402349",
+        "question": "Some people suffer from a condition called carpal tunnel syndrome that causes pain in the wrists. Carpal tunnel syndrome can result from repetitive actions of the wrists and hands, such as typing on a computer keyboard. This is an example of using technology in spite of its",
+        "choices": {
+            "text": [
+                "showing some graphs",
+                "making a conclusion",
+                "developing a hypothesis",
+                "collecting some data"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    }
+]

@@ -6,36 +6,49 @@ import random
 from yaml import load_all, CLoader as Loader
 from loguru import logger
 from pygments import highlight, lexers, formatters
+from typing import Union
 
-def show(obj, colored=True):
+def show(obj, colored: bool = True):
     """ indent 넣어서 이쁘게 프린트해주기 """
     encoded = json.dumps(obj, indent=4, ensure_ascii=False)
     if colored:
-        encoded = highlight(encoded, lexer=lexers.JsonLexer(), formatter=formatters.TerminalFormatter())
+        encoded = highlight(encoded, lexer=lexers.JsonLexer(), formatter=formatters.Terminal256Formatter(style="one-dark"))
     print(encoded)
 
 class Benchmark:
 
-    def __init__(self, name: str, path: str = None, num_proc: int = 6):
+    def __init__(self, benchmark_name: str, path: str = None, name: str = None, num_proc: int = 6, dataset = None, dataset_option: dict = None):
         """
         Benchmark를 EDA하는 클래스
 
         Args:
-            name: dataset의 path(hf)
-            path: config로 전달되는 path값, ARC-Challenge, ARC-easy, logiqa-en ... 등
+            path: dataset의 path(hf)
+            name: config로 전달되는 path값, ARC-Challenge, ARC-easy, logiqa-en ... 등
             num_proc: 작업 프로세스 수
         """
-        self.name = name.split('/')[-1]
+        hf_conf = HFDatasets()
+        self.benchmark_name = benchmark_name
         self.path = path
+        self.name = name
+        self.dataset_option = dataset_option or {}
         if not path:
-            self.datasetdict = load_dataset(name, num_proc=num_proc)
+            self.path = hf_conf.config[benchmark_name]['path']
+        if not name:
+            self.name = hf_conf.config[benchmark_name]['name']
+        if not isinstance(self.path, str) and not isinstance(self.name, str):
+            raise ValueError("path and name must be strings")
+        if not self.name:
+            self.datasetdict = load_dataset(self.path, num_proc=num_proc, **self.dataset_option)
         else:
-            self.datasetdict = load_dataset(name, path, num_proc=num_proc)
-        self.split = list(self.datasetdict.keys())
-        self.prior_split = "train" if "train" in self.split else self.split[0]
-        self.dataset = self.datasetdict[self.prior_split]
-        repr = f"\nname: {name}\n"
-        repr += f"path: {path}\n"
+            self.datasetdict = load_dataset(self.path, self.name, num_proc=num_proc, **self.dataset_option)
+        if not dataset:
+            self.split = list(self.datasetdict.keys())
+            self.prior_split = "train" if "train" in self.split else self.split[0]
+            self.dataset = self.datasetdict[self.prior_split]
+        else:
+            self.dataset = dataset
+        repr = f"\npath: {self.path}\n"
+        repr += f"name: {self.name}\n"
         repr += f"total_split: {self.split}\n"
         repr += f"prior_split: {self.prior_split}\n"
         for s in self.split:
@@ -81,15 +94,16 @@ class Benchmark:
         if not samples:
             samples = self.sample(dataset=dataset, category = category)
         if not path:
-            path = f"./samples/{self.name}/{self.name + '-' + self.path if self.path else self.name.split('/')[-1]}.json"
+            file_name = f"{self.path.split('/')[-1] + '-' + self.name if self.name else self.path.split('/')[-1]}"
+            path = f"./tasks/{self.benchmark_name}/{file_name}.json"
             os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
             logger.info(f"{path}에 저장합니다.")
             logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
             json.dump(samples, f, ensure_ascii = False, indent = 4)
 
-        def __repr__(self):
-            return f"{self.repr}"
+    def __repr__(self):
+        return f"{self.repr}"
 
     @lru_cache
     def sample(self, split: str = None, dataset = None, category: str = None):
@@ -138,6 +152,8 @@ class HFDatasets:
             file = f.read()
             conf = list(load_all(file, Loader=Loader))[0]
         self.config = {k: v for k, v in conf.items() if not k.startswith("default")}
+        for k, v in self.config.items():
+            setattr(self, k, v)
 
     def get_all_names(self):
         """ yaml내 벤치마크들의 전체 이름 출력 """
@@ -151,5 +167,39 @@ class HFDatasets:
         """ 벤치마크의 전체 정보 출력 """
         return self.config[name]
 
+    def make_folder_tree(self, key: Union[list, str] = None):
+
+        # if key is none, make all benchmark folder tree
+        if not key:
+            key = self.get_all_names()
+
+        if isinstance(key, str):
+            key = [key]
+        # Guide Markdown within the folder
+        for k in key:
+
+            # Make Folder Tree and README.md
+            os.makedirs(f"tasks/{k}", exist_ok=True)
+            guide_doc = f"tasks/{k}/README.md"
+            if os.path.exists(f"tasks/{k}/README.md"):
+                continue
+
+            # Make default Markdown
+            guide_doc_md = f"## {k}\n"
+            for key, value in self.config[k].items():
+                if value:
+                    if isinstance(value, str) and key not in ('url', 'paper', 'annotation'):
+                        guide_doc_md += f"{key}: {value}  \n"
+                    if isinstance(value, list):
+                        guide_doc_md += f"{key}:  \n"
+                        for value_ele in value:
+                            guide_doc_md += f"    - {value_ele}  \n"
+                    if key in ('url', 'paper', 'annotation'):
+                        guide_doc_md += f"{key}: [{value}]({value})  \n"
+
+            with open(f"tasks/{k}/README.md", "w") as f:
+                f.write(guide_doc_md)
+                logger.info(f"{guide_doc}을 초기화합니다")
+
     def __repr__(self):
-        return f"HFDatasets:\n{self.get_all_names()}\n*More Details in self.config"
+        return f"HFDatasets:\n{self.get_all_names()}\nMore Details in self.config"

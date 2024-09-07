@@ -1,0 +1,242 @@
+[
+    {
+        "query": "Q: As presented in the passage, Mrs. Quabarl is best described as Answer Choices: (A)superficially kind but actually selfish. (B)outwardly imposing but easily defied. (C)socially successful but irrationally bitter. (D)naturally generous but frequently imprudent.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)emphasize the scale of the effort needed to make teixobactin available for consumer use.",
+            "(B)criticize the level of funding that the government has committed to teixobactin development.",
+            "(C)underscore the amount of time and money that has already been spent researching teixobactin.",
+            "(D)compare the amount of money spent developing teixobactin with the amount spent developing other antibiotics"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: It can reasonably be inferred from the passage that one of Little Chandler’s prominent characteristics is that he is Answer Choices: (A)excessively boastful of his personal achievements. (B)often unpredictable in his dealings with other people. (C)highly critical of other people’s aspirations. (D)somewhat vain about his personal appearance.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)recovering more fully in certain countries than in others.",
+            "(B)beginning to return to the levels recorded in 2010.",
+            "(C)responding predictably to aggressive conservation attempts.",
+            "(D)declining steadily despite continual human intervention."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: It can most reasonably be inferred from the passagethat a megacity’s economic impact on a country is Answer Choices: (A)greater in countries with larger physical land areas. (B)dependent on the types of companies located in the megacity. (C)relatively equal for developing countries and high-income countries. (D)neutralized by the economic cost of maintaining a megacity.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)Climate cooling",
+            "(B)Mass extinctions",
+            "(C)Rapidly spreading fires",
+            "(D)Iridium deposits"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: The main purpose of the passage is to Answer Choices: (A)contrast the activities of plant species that rely on photosynthesis with the activities of those that do not. (B)explore the attempts of scientists to understand the means by which plants attract pollinators. (C)describe a study illuminating a defensive strategy of a particular species of plant. (D)explain the results of experiments comparing the function of color in plants and in animals.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)unsupported by reliable evidence.",
+            "(B)interesting but difficult to conclusively evaluate.",
+            "(C)more appealing to the public than to specialists.",
+            "(D)controversial in the scientific community."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: The author of Passage 1 indicates that space mining could have which positive effect? Answer Choices: (A)It could yield materials important to Earth's economy. (B)It could raise the value of some precious metals on Earth. (C)It could create unanticipated technological innovations. (D)It could change scientists' understanding of space resources.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)He fixates on a social world that he ultimately believes to be a hollow spectacle.",
+            "(B)He immerses himself in sights and sounds that strike him as ultimately frivolous.",
+            "(C)He scorns a historical era that he concedes is preferable in some ways to the present.",
+            "(D)He derives excitement from placing himself in settings he finds menacing."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: Which statement about striped cucumber beetles can most reasonably be inferred from the passage? Answer Choices: (A)They feed primarily on Texas gourd plants. (B)They are less attracted to dimethoxybenzene than honey bees are. (C)They experience only minor negative effects as a result of carrying bacterial wilt disease. (D)They are attracted to the same compound in Texas gourd scent that squash bees are.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)People start calling him “Uncle.”",
+            "(B)He’s able to expand his business.",
+            "(C)He’s able to educate his daughters.",
+            "(D)He can spend more time with his wife."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: Based on the passage, Calma would most likely agreethat programs related to indigenous issues wouldhave a better chance of succeeding if the Australiangovernment Answer Choices: (A)empowered indigenous communities to assist in devising and implementing such programs. (B)funded such programs as generously as it funds programs benefiting nonindigenous people. (C)modeled such programs on health-care initiatives that have a proven record of success. (D)devoted as many resources to such programs as the previous government did.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)vitality.",
+            "(B)durability.",
+            "(C)protection.",
+            "(D)self-sufficiency."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: The authors indicate that the public is coming to believethat journalists’ reports should avoid Answer Choices: (A)personal judgments about the events reported. (B)more information than is absolutely necessary. (C)quotations from authorities on the subject matter. (D)details that the subjects of news reports wish to keep private.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)The second trigger produces an electrical charge that reverses the charge produced by the first trigger.",
+            "(B)The second trigger stabilizes the surge of calcium ions created by the first trigger.",
+            "(C)The second trigger prompts the calcium channels to open.",
+            "(D)The second trigger provides a necessary supplement to the calcium concentration released by the first trigger."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: According to the passage, which fact about Celia’s neighbors does the narrator know before she visits Celia’s apartment? Answer Choices: (A)Micho Alvarez and Benny Quinto are close friends. (B)Benny Quinto once studied to be a priest. (C)Micho Alvarez has a sensitive side. (D)Quisqueya dyes her hair.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)majority rule eliminates the need for individual activism.",
+            "(B)mobilization of the few benefits the majority.",
+            "(C)progress occurs when everyone works together toward a common goal.",
+            "(D)government can be used to make changes that citizens hope for."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: According to the passage, Bottke and his colleaguesexplain the presence of iron fragments in theasteroid belt by asserting that the fragments were Answer Choices: (A)remnants of differentiated asteroids that were destroyed in collisions in the asteroid belt. (B)created relatively close to the Sun and ended up in the asteroid belt due to the gravity of large objects. (C)formed on terrestrial planets and ejected into the asteroid belt by collisions with primitive asteroids. (D)formed in the region of the terrestrial planets but knocked into the asteroid belt by collisions with the parent bodies of primitive asteroids.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)None of them is type V.",
+            "(B)None of them is likely to contain carbon.",
+            "(C)One of them is type K.",
+            "(D)Two of them are the same type."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Which choice best describes the relationship between Passage 1 and Passage 2? Answer Choices: (A)Passage 2 offers an evaluation of the significance of the research discussed in Passage 1. (B)Passage 2 suggests a modification to the methodology described in Passage 1. (C)Passage 2 uses concrete examples to illustrate concepts considered in Passage 1. (D)Passage 2 takes a dismissive stance regarding the findings mentioned in Passage 1.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)traditional values.",
+            "(B)active engagement.",
+            "(C)artistic experimentation.",
+            "(D)factual retention."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Over the course of the passage, the main focus shifts from Answer Choices: (A)a discussion of a long-standing problem, to a report that discredits previous attempts to address that problem, and then to a proposal for future action. (B)an introduction of a phenomenon, to a description of experiments concerning that phenomenon, and then to a recommendation based on the results of the experiments. (C)an explanation of two competing theories for a certain behavior, to a recap of a study designed to determine which theory is correct, and then to a general account of a field’s future. (D)an observation of a trend, to an analysis of its causes, and then to a proposal for a research study to validate the analysis.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)She presents claims in the form of rhetorical questions that mostly have implicit negative answers.",
+            "(B)She criticizes her opponents by quoting self-contradictory remarks they have made.",
+            "(C)She illustrates each of her central ideas with an emotionally powerful anecdote.",
+            "(D)She emphasizes the reasonableness of her views by presenting them as though they are universally held."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: In describing the relationship between Eppie and Silas, the narrator draws a connection between Eppie's Answer Choices: (A)physical vulnerability and Silas's emotional fragility. (B)expanding awareness and Silas's increasing engagement with life. (C)boundless energy and Silas's insatiable desire for wealth. (D)physical growth and Silas's painful perception of his own mortality.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)Between 1985 and 2011, the proportion of inaccurate news stories rose dramatically.",
+            "(B)Between 1992 and 2003, the proportion of people who believed that news organizations were biased almost doubled.",
+            "(C)Between 2003 and 2007, people’s views of the accuracy, independence, and fairness of news organizations changed very little.",
+            "(D)Between 2007 and 2011, people’s perception that news organizations are accurate increased, but people’s perception that news organizations are fair diminished."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: According to the passage, Woolf chooses the setting of the bridge because it Answer Choices: (A)is conducive to a mood of fanciful reflection. (B)provides a good view of the procession of the sons of educated men. (C)is within sight of historic episodes to which she alludes. (D)is symbolic of the legacy of past and present sons of educated men.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)identifies the requirements for soil bacteria to thrive and replicates those features in artificial soil.",
+            "(B)enables soil bacteria to take in more nutrients than they typically consume in natural settings.",
+            "(C)directly affects the cell walls of bacteria rather than the proteins those bacteria produce.",
+            "(D)allows researchers to make use of soil bacteria that they had previously been unable to exploit."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Which choice best describes the relationship between Passage 1 and Passage 2? Answer Choices: (A)Passage 2 offers an evaluation of the significance of the research discussed in Passage 1. (B)Passage 2 suggests a modification to the methodology described in Passage 1. (C)Passage 2 uses concrete examples to illustrate concepts considered in Passage 1. (D)Passage 2 takes a dismissive stance regarding the findings mentioned in Passage 1.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)Political parties are inherently corrupt because human nature is too easily corrupted by power.",
+            "(B)Parties often consolidate their power by making deals with opposing parties.",
+            "(C)Political parties always sacrifice their own ideals for pragmatic actions.",
+            "(D)Parties typically advance positions that are at odds with the beliefs of many of their members."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: In the passage, Parsons indicates that she once believed that Answer Choices: (A)majority rule eliminates the need for individual activism. (B)mobilization of the few benefits the majority. (C)progress occurs when everyone works together toward a common goal. (D)government can be used to make changes that citizens hope for.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)Their young tend to hop along beside their parents instead of flying beside them.",
+            "(B)Their method of locomotion is similar to that of ground birds.",
+            "(C)They use the ground for feeding more often than for perching.",
+            "(D)They do not use a flapping stroke to aid in climbing slopes."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: According to Calma, the government’s failure tolink its expenditures on indigenous health initiativesto specific health outcomes is harmful because it Answer Choices: (A)reinforces negative attitudes about the government’s financial fitness. (B)undermines efforts to standardize practices across all departments of the government. (C)perpetuates the pattern of government officials abusing their authority. (D)allows the government to evade the obligation to be answerable for its policies.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)gain greater popular recognition.",
+            "(B)sell many decorative objects.",
+            "(C)collaborate with other famous artists.",
+            "(D)showcase pieces that have earned critical acclaim."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: It can most reasonably be inferred from Passage 2 that Bryan would criticize the vision of American governance of island territories that Beveridge presents in Passage 1 for being Answer Choices: (A)unrealistic, since most Americans would be unwilling to relocate to distant islands. (B)deceptive, since economic domination would be the true goal of the American government. (C)impractical, since the islanders would insist upon an equal distribution of resources. (D)naive, since the islanders would object to being governed by Americans\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)discuss a political philosophy that is starting to lose favor.",
+            "(B)outline a new approach to meeting the needs of oppressed groups.",
+            "(C)provide a rationale for adopting a different ideology.",
+            "(D)bring to light inconsistencies within the current political system."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: According to Calma, the government’s failure tolink its expenditures on indigenous health initiativesto specific health outcomes is harmful because it Answer Choices: (A)reinforces negative attitudes about the government’s financial fitness. (B)undermines efforts to standardize practices across all departments of the government. (C)perpetuates the pattern of government officials abusing their authority. (D)allows the government to evade the obligation to be answerable for its policies.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)contrast the tool-using behavior of wild and captive-raised woodpecker finches.",
+            "(B)describe experiments intended to clarify the benefits of tool use for woodpecker finches.",
+            "(C)discuss a study of the differences between primates and woodpecker finches with respect to tool use.",
+            "(D)present research that explains the development of tool-using behavior in woodpecker finches."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Based on Passage 2, Lincoln would be most likely to agree with which claim about the controversy over slavery? Answer Choices: (A)It can be ended only if Northern states act unilaterally to abolish slavery throughout the United States. (B)It would abate if attempts to introduce slavery to regions where it is not practiced were abandoned. (C)It has been exacerbated by the ambiguity of laws regulating the holding of slaves. (D)It is fueled in part by differences in religion and social values from state to state.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)contrast the tool-using behavior of wild and captive-raised woodpecker finches.",
+            "(B)describe experiments intended to clarify the benefits of tool use for woodpecker finches.",
+            "(C)discuss a study of the differences between primates and woodpecker finches with respect to tool use.",
+            "(D)present research that explains the development of tool-using behavior in woodpecker finches."
+        ],
+        "gold": [
+            3
+        ]
+    }
+]

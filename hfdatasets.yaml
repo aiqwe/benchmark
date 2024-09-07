@@ -3,6 +3,7 @@ default: &default
   name: null
   url: null
   paper: null
+  annotation:
   
 mmlu:
   <<: *default
@@ -10,9 +11,106 @@ mmlu:
   name: all
   url: https://huggingface.co/datasets/cais/mmlu
   paper: https://arxiv.org/pdf/2009.03300
+  annotation:
   
 mmlu_pro:
   <<: *default
   path: TIGER-Lab/MMLU-Pro
   url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
   paper: https://arxiv.org/pdf/2406.01574
+  
+agi_eval:
+  <<: *default
+  path:
+    - hails/agieval-lsat-rc
+    - hails/agieval-logiqa-en
+    - hails/agieval-gaokao-english
+    - hails/agieval-aqua-rat
+    - hails/agieval-sat-math
+    - hails/agieval-lsat-ar
+    - hails/agieval-lsat-lr
+    - hails/agieval-sat-en-without-passage
+    - hails/agieval-sat-en
+    - hails/agieval-math
+  url: https://huggingface.co/hails
+  paper: https://arxiv.org/pdf/2304.06364
+
+commonsense_qa:
+  <<: *default
+  path: tau/commonsense_qa
+  url: https://huggingface.co/datasets/tau/commonsense_qa
+  paper: https://arxiv.org/pdf/1811.00937
+
+winogrande:
+  <<: *default
+  path: allenai/winogrande
+  name:
+    - winogrande_s
+    - winogrande_m
+    - winogrande_l
+    - winogrande_xl
+    - winogrande_debiased
+  url: https://huggingface.co/datasets/allenai/winogrande
+  paper: https://arxiv.org/pdf/1907.10641
+
+bigbenchhard:
+  <<: *default
+  path: maveriq/bigbenchhard
+  name:
+    - boolean_expressions
+    - causal_judgement
+    - date_understanding
+    - disambiguation_qa
+    - dyck_languages
+    - formal_fallacies
+    - geometric_shapes
+    - hyperbaton
+    - logical_deduction_five_objects
+    - logical_deduction_seven_objects
+    - logical_deduction_three_objects
+    - movie_recommendation
+    - multistep_arithmetic_two
+    - navigate
+    - object_counting
+    - penguins_in_a_table
+    - reasoning_about_colored_objects
+    - ruin_names
+    - salient_translation_error_detection
+    - snarks
+    - sports_understanding
+    - temporal_sequences
+    - tracking_shuffled_objects_five_objects
+    - tracking_shuffled_objects_seven_objects
+    - tracking_shuffled_objects_three_objects
+    - web_of_lies
+    - word_sorting
+  url: https://huggingface.co/datasets/maveriq/bigbenchhard
+  paper: https://arxiv.org/pdf/2210.09261
+
+arc:
+  <<: *default
+  path: allenai/ai2_arc
+  name:
+    - ARC-Challenge
+    - ARC-Easy
+  url: https://huggingface.co/datasets/allenai/ai2_arc
+  paper: https://arxiv.org/pdf/1803.05457
+
+trivia_qa:
+  <<: *default
+  path: mandarjoshi/trivia_qa
+  name:
+    - rc
+    - rc.nocontext
+    - rc.web
+    - rc.web.nocontext
+    - rc.wikipedia
+    - rc.wikipedia.nocontext
+    - unfiltered
+    - unfiltered.nocontext
+  url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
+  paper: https://arxiv.org/pdf/1705.03551
+
+
+
+    

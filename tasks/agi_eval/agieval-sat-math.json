@@ -1,0 +1,242 @@
+[
+    {
+        "query": "Q: $$f(x)=\\frac{x+3}{2}$$For the function $f$ defined above, what is the value of $f(-1)$ ? Answer Choices: (A)-2 (B)-1 (C)1 (D)2\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)11",
+            "(B)22",
+            "(C)44",
+            "(D)66"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: $$\\sqrt{4 x}=x-3$$What are all values of $x$ that satisfy the given equation?I. 1II. 9 Answer Choices: (A)I only (B)II only (C)I and II (D)Neither I nor II\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$v=30,000-9,000 t$",
+            "(B)$v=120,000-9,000 t$",
+            "(C)$v=120,000+9,000 t$",
+            "(D)$v=120,000-30,000 t$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: The width of a rectangular dance floor is $w$ feet. The length of the floor is 6 feet longer than its width. Which of the following expresses the perimeter, in feet, of the dance floor in terms of $w$ ? Answer Choices: (A)$2 w+6$ (B)$4 w+12$ (C)$w^{2}+6$ (D)$w^{2}+6 w$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$4 x^{2} y^{2}$",
+            "(B)$8 x y^{2}-6 y^{2}$",
+            "(C)$2 x^{2} y+2 x y^{2}$",
+            "(D)$2 x^{2} y+8 x y^{2}-6 y^{2}$"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: $$m=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} P$$The formula above gives the monthly payment $m$ needed to pay off a loan of $P$ dollars at $r$ percent annual interest over $N$ months. Which of the following gives $P$ in terms of $m, r$, and $N$ ? Answer Choices: (A)$P=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} m$ (B)$P=\\frac{\\left(1+\\frac{r}{1,200}\\right)^{N}-1}{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}} m$ (C)$P=\\left(\\frac{r}{1,200}\\right) m$ (D)$P=\\left(\\frac{1,200}{r}\\right) m$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)2",
+            "(B)6",
+            "(C)$\\sqrt{2}$",
+            "(D)$\\sqrt{6}$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: If $3(c+d)=5$, what is the value of $c+d ?$ Answer Choices: (A)$\\frac{3}{5}$ (B)$\\frac{5}{3}$ (C)3 (D)5\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$8 x^{2}-7 x-4$",
+            "(B)$8 x^{2}+7 x-4$",
+            "(C)$8 x^{4}-7 x^{2}-4$",
+            "(D)$8 x^{4}+7 x^{2}-4$"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: In planning maintenance for a city's infrastructure, a civil engineer estimates that, starting from the present, the population of the city will decrease by 10 percent every 20 years. If the present population of the city is 50,000, which of the following expressions represents the engineer's estimate of the population of the city $t$ years from now? Answer Choices: (A)$50,000(0.1)^{20 t}$ (B)$50,000(0.1)^{\\frac{t}{20}}$ (C)$50,000(0.9)^{20 t}$ (D)$50,000(0.9)^{\\frac{t}{20}}$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)-6",
+            "(B)-3",
+            "(C)3",
+            "(D)6"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: $$2 a x-15=3(x+5)+5(x-1)$$In the equation above, $a$ is a constant. If no value of $x$ satisfies the equation, what is the value of $a$ ? Answer Choices: (A)1 (B)2 (C)4 (D)8\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)16",
+            "(B)21",
+            "(C)23",
+            "(D)26"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: $$\\begin{array}{r}\\frac{1}{2} y=4 \\\\x-\\frac{1}{2} y=2\\end{array}$$The system of equations above has solution $(x, y)$. What is the value of $x$ ? Answer Choices: (A)3 (B)$\\frac{7}{2}$ (C)4 (D)6\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)0.31",
+            "(B)0.38",
+            "(C)0.45",
+            "(D)0.69"
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "Q: Mr. Kohl has a beaker containing $n$ milliliters of solution to distribute to the students in his chemistry class. If he gives each student 3 milliliters of solution, he will have 5 milliliters left over. In order to give each student 4 milliliters of solution, he will need an additional 21 milliliters. How many students are in the class? Answer Choices: (A)16 (B)21 (C)23 (D)26\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$\\quad 150$",
+            "(B)$\\quad 1,500$",
+            "(C)15,000",
+            "(D)150,000"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Oil and gas production in a certain area dropped from 4 million barrels in 2000 to 1.9 million barrels in 2013. Assuming that the oil and gas production decreased at a constant rate, which of the following linear functions $f$ best models the production, in millions of barrels, $t$ years after the year 2000 ? Answer Choices: (A)$f(t)=\\frac{21}{130} t+4$ (B)$f(t)=\\frac{19}{130} t+4$ (C)$f(t)=-\\frac{21}{130} t+4$ (D)$f(t)=-\\frac{19}{130} t+4$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$y>6$",
+            "(B)$y>4$",
+            "(C)$y>\\frac{5}{2}$",
+            "(D)$y>\\frac{3}{2}$"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: If $a-b=12$ and $\\frac{b}{2}=10$, what is the value of $a+b ?$ Answer Choices: (A)2 (B)12 (C)32 (D)52\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$\\sqrt[3]{9}$",
+            "(B)$\\sqrt[4]{9}$",
+            "(C)$\\sqrt{3}$",
+            "(D)$3 \\sqrt{3}$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: $$\\frac{a-b}{a}=c$$In the equation above, if $a$ is negative and $b$ is positive, which of the following must be true? Answer Choices: (A)$c>1$ (B)$c=1$ (C)$c=-1$ (D)$c<-1$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$\\{-1\\}$",
+            "(B)$\\{5\\}$",
+            "(C)$\\{-1,5\\}$",
+            "(D)$\\{0,-1,5\\}$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: $$\\sqrt{x^{2}}=x$$Which of the following values of $x$ is NOT a solution to the equation above? Answer Choices: (A)-4 (B)0 (C)1 (D)3\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$k=0.24 x$",
+            "(B)$k=4.2 x$",
+            "(C)$x=4.2 k$",
+            "(D)$x k=4.2$"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: $$y=19.99+1.50 x$$The equation above models the total cost $y$, in dollars, that a company charges a customer to rent a truck for one day and drive the truck $x$ miles. The total cost consists of a flat fee plus a charge per mile driven. When the equation is graphed in the $x y$-plane, what does the $y$-intercept of the graph represent in terms of the model? Answer Choices: (A)A flat fee of $\\$ 19.99$ (B)A charge per mile of $\\$ 1.50$ (C)A charge per mile of $\\$ 19.99$ (D)Total daily charges of $\\$ 21.49$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)-4",
+            "(B)0",
+            "(C)1",
+            "(D)3"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: A right circular cone has a volume of $24 \\pi$ cubic inches. If the height of the cone is 2 inches, what is the radius, in inches, of the base of the cone? Answer Choices: (A)$2 \\sqrt{3}$ (B)6 (C)12 (D)36\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)The initial height, in feet, of the object",
+            "(B)The maximum height, in feet, of the object",
+            "(C)The initial speed, in feet per second, of the object",
+            "(D)The maximum speed, in feet per second, of the object"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$.The quantity of a product supplied and the quantity of the product demanded in an economic market are functions of the price of the product. The functions above are the estimated supply and demand functions for a certain product. The function $S(P)$ gives the quantity of the product supplied to the market when the price is $P$ dollars, and the function $D(P)$ gives the quantity of the product demanded by the market when the price is $P$ dollars.Q: How will the quantity of the product supplied to the market change if the price of the product is increased by $\\$ 10$ ? Answer Choices: (A)The quantity supplied will decrease by 5 units. (B)The quantity supplied will increase by 5 units. (C)The quantity supplied will increase by 10 units. (D)The quantity supplied will increase by 50 units.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$P(t)=4(1.019)^{t}$",
+            "(B)$P(t)=4(1.9)^{t}$",
+            "(C)$P(t)=1.19 t+4$",
+            "(D)$P(t)=1.019 t+4$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: A television with a price of $\\$ 300$ is to be purchased with an initial payment of $\\$ 60$ and weekly payments of $\\$ 30$. Which of the following equations can be used to find the number of weekly payments, $w$, required to complete the purchase, assuming there are no taxes or fees? Answer Choices: (A)$300=30 w-60$ (B)$300=30 w$ (C)$300=30 w+60$ (D)$300=60 w-30$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$0.88 p$",
+            "(B)$\\frac{p}{0.88}$",
+            "(C)$(0.8)(1.08) p$",
+            "(D)$\\frac{p}{(0.8)(1.08)}$"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: A cylindrical can containing pieces of fruit is filled to the top with syrup before being sealed. The base of the can has an area of $75 \\mathrm{~cm}^{2}$, and the height of the can is $10 \\mathrm{~cm}$. If $110 \\mathrm{~cm}^{3}$ of syrup is needed to fill the can to the top, which of the following is closest to the total volume of the pieces of fruit in the can? Answer Choices: (A)$7.5 \\mathrm{~cm}^{3}$ (B)$185 \\mathrm{~cm}^{3}$ (C)$640 \\mathrm{~cm}^{3}$ (D)$750 \\mathrm{~cm}^{3}$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$\\$ 7.20$",
+            "(B)$\\$ 10.80$",
+            "(C)$\\$ 30.00$",
+            "(D)$\\$ 45.00$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: Line $m$ in the $x y$-plane contains the points $(2,4)$ and $(0,1)$. Which of the following is an equation of line $m$ ? Answer Choices: (A)$y=2 x+3$ (B)$y=2 x+4$ (C)$y=\\frac{3}{2} x+3$ (D)$y=\\frac{3}{2} x+1$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$\\{-1\\}$",
+            "(B)$\\{5\\}$",
+            "(C)$\\{-1,5\\}$",
+            "(D)$\\{0,-1,5\\}$"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: \\begin{center}\\begin{tabular}{|l||c|c||c|}\\cline { 2 - 4 }\\multicolumn{1}{c||}{} & \\multicolumn{2}{c||}{Age} & \\multirow{2}{c|}{Total} \\\\\\hlineGender & Under 40 & 40 or older \\\\\\hline\\hlineMale & 12 & 2 & 14 \\\\\\hlineFemale & 8 & 3 & 11 \\\\\\hline\\hlineTotal & 20 & 5 & 25 \\\\\\hline\\end{tabular}\\end{center}The table above shows the distribution of age and gender for 25 people who entered a contest. If the contest winner will be selected at random, what is the probability that the winner will be either a female under age 40 or a male age 40 or older? Answer Choices: (A)$\\frac{4}{25}$ (B)$\\frac{10}{25}$ (C)$\\frac{11}{25}$ (D)$\\frac{16}{25}$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)-4",
+            "(B)0",
+            "(C)1",
+            "(D)3"
+        ],
+        "gold": [
+            3
+        ]
+    }
+]

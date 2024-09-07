@@ -1,0 +1,382 @@
+[
+    {
+        "id": "Mercury_7159548",
+        "question": "There is a river at the base of Mount Tom. In the spring the water level is usually very high. In the summer it is lower. The higher level of water during the spring comes from",
+        "choices": {
+            "text": [
+                "fur color",
+                "hunting skills",
+                "feeding behavior",
+                "sleeping routine"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_SC_400399",
+        "question": "Which best describes a characteristic of the jet stream?",
+        "choices": {
+            "text": [
+                "the movement of the Sun.",
+                "the rotation of Earth.",
+                "the movement of the Moon.",
+                "the tilt of Earth."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7185588",
+        "question": "A student conducts an investigation. In order to make a valid conclusion, she must",
+        "choices": {
+            "text": [
+                "a solid natural material with a crystal structure",
+                "a material that was once living but has decayed",
+                "a liquid chemical used to make soil more fertile",
+                "a nutrient produced by plants that other organisms need"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7205433",
+        "question": "Which of these properties of water helps moderate the weather of coastal areas?",
+        "choices": {
+            "text": [
+                "Prey insects would become inedible.",
+                "Tadpoles would be unable to survive.",
+                "Breeding sites would become unavailable.",
+                "Predators would choose another food source."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_SC_413301",
+        "question": "Which statement best explains Earth's day and night cycle?",
+        "choices": {
+            "text": [
+                "tidal activity",
+                "orbital shape",
+                "weather and climate",
+                "rotation and revolution"
+            ],
+            "label": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "VASoL_2007_3_16",
+        "question": "Condensation in the water cycle can best be described as the result of water vapor",
+        "choices": {
+            "text": [
+                "They have no roots to anchor them to the ocean floor.",
+                "They can live only where there is light.",
+                "The pressure is too great for them to survive below 100 meters.",
+                "If the algae lived below 100 meters they would be eaten by animals."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7145303",
+        "question": "Air is made up of many gases. Which gas is found in the greatest amount?",
+        "choices": {
+            "text": [
+                "hearing",
+                "smell",
+                "taste",
+                "touch"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_400886",
+        "question": "Which of these particles, when found in soil, contributes most to the water retention in soil?",
+        "choices": {
+            "text": [
+                "deer",
+                "frog",
+                "hawk",
+                "squirrel"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7262815",
+        "question": "Several interchangeable parts are used in the manufacture of automobiles. Some examples of these parts are batteries, windshield wiper blades, spark plugs, and tires. Which of the following is an advantage of interchangeable parts over non-interchangeable parts on automobiles?",
+        "choices": {
+            "text": [
+                "siltstone",
+                "sandstone",
+                "marble",
+                "shale"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_7211698",
+        "question": "Solar radiation has a part in the water cycle by",
+        "choices": {
+            "text": [
+                "the ability to roar",
+                "the ability to hunt",
+                "a diet of land mammals",
+                "being born during spring months"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "VASoL_2009_5_11",
+        "question": "Which of the following gases do plants use in photosynthesis?",
+        "choices": {
+            "text": [
+                "volcanic emissions",
+                "combustion of fossil fuels",
+                "destruction of tropical forests",
+                "mining and mineral extraction"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7138618",
+        "question": "Earth is about 81 times more massive than the Moon. How will the mass and weight of a rocket on the Moon compare to its mass and weight on Earth?",
+        "choices": {
+            "text": [
+                "hearing",
+                "smell",
+                "taste",
+                "touch"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "NYSEDREGENTS_2004_8_1",
+        "question": "What types of cells are found only in organisms that reproduce sexually?",
+        "choices": {
+            "text": [
+                "burning it",
+                "recycling it",
+                "burying it in landfills",
+                "crushing it before throwing it away"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "E"
+    },
+    {
+        "id": "LEAP_2009_4_10292",
+        "question": "A student is working on a science project display for the school science fair. To best communicate why her conclusions are valid, what should be included on the display?",
+        "choices": {
+            "text": [
+                "oil",
+                "gas",
+                "coal",
+                "shale"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_SC_402285",
+        "question": "From smallest to largest, the levels of organization in living things are",
+        "choices": {
+            "text": [
+                "The car weighs more on the carpet.",
+                "The car weighs more on the floor.",
+                "The carpet has more resistance.",
+                "The floor has more traction."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_184625",
+        "question": "What goal does taxonomy accomplish?",
+        "choices": {
+            "text": [
+                "insulator",
+                "conductor",
+                "malleable",
+                "porous"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_405468",
+        "question": "Which list contains only nonliving things?",
+        "choices": {
+            "text": [
+                "layers of fat",
+                "thick bones",
+                "slow digestion",
+                "large lungs"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "MEAP_2005_8_41",
+        "question": "Estella spilled tomato sauce on her shirt. When she washed her shirt, she noticed that the detergent she used contained enzymes. Enzymes are added to detergents to break down proteins from food and other substances that may stain clothing. Which would most likely inhibit the ability of the enzymes to remove the stain on her shirt?",
+        "choices": {
+            "text": [
+                "caves",
+                "mountains",
+                "plains",
+                "valleys"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_405768",
+        "question": "What characteristic helps a rabbit survive in a winter environment?",
+        "choices": {
+            "text": [
+                "provide energy for consumers.",
+                "depend on other organisms for shelter.",
+                "break down dead animal matter.",
+                "consume nutrients for energy."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7074935",
+        "question": "Which of these is a function of a leaf?",
+        "choices": {
+            "text": [
+                "by protecting deer from other predators",
+                "by controlling the deer population",
+                "by decreasing diversity within the herd",
+                "by protecting the deer from disease"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    }
+]

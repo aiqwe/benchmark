@@ -1,0 +1,82 @@
+[
+    {
+        "query": "Q: 3 cards are chosen at random from a standard 52-card deck.  What is the probability that they can be arranged into a group of three consecutive cards, all of the same suit? For this problem, an Ace can either come before a 2 or after a King, but not both (so A23 and QKA both count, but KA2 doesn't).\nA: The answer is",
+        "answer": "31"
+    },
+    {
+        "query": "Q: The line parameterized by\n\\[\\mathbf{v} = \\begin{pmatrix} 1 + t \\\\ 3t \\\\ 1 - t \\end{pmatrix}\\]lies in a plane of the form $x + y + cz = d.$  Enter the ordered pair $(c,d).$\nA: The answer is",
+        "answer": "8"
+    },
+    {
+        "query": "Q: Solve for $k$ in the equation $2k+5 = 13$.\nA: The answer is",
+        "answer": "4"
+    },
+    {
+        "query": "Q: In how many ways can a 2-person committee be chosen from a group of 5 people (where the order in which we choose the 2 people doesn't matter)?\nA: The answer is",
+        "answer": "-4"
+    },
+    {
+        "query": "Q: What digit is represented by $\\Delta$ if $144 / \\Delta = 1\\Delta$, with 1 the tens digit and $\\Delta$ the ones digit of the quotient?\nA: The answer is",
+        "answer": "\\frac{1}{9}"
+    },
+    {
+        "query": "Q: A cylinder has a height of 10 and a radius of 3.  Determine the volume of the cylinder.\nA: The answer is",
+        "answer": "50"
+    },
+    {
+        "query": "Q: Let $a,$ $b,$ $c,$ $d$ be nonnegative real numbers such that $a + b + c + d = 1.$  Find the maximum value of\n\\[ab + bc + cd.\\]\nA: The answer is",
+        "answer": "\\frac{3 \\pi}{4}"
+    },
+    {
+        "query": "Q: What is the smallest number after $3456$ whose digits add up to $12$?\nA: The answer is",
+        "answer": "120"
+    },
+    {
+        "query": "Q: Find the matrix that corresponds to reflecting over the vector $\\begin{pmatrix} -1 \\\\ 3 \\end{pmatrix}.$\nA: The answer is",
+        "answer": "87.5"
+    },
+    {
+        "query": "Q: There are two cameras that take pictures of a traffic intersection. Camera A starts taking pictures at $6$ AM and takes a picture every $11$ minutes. Camera B starts taking pictures at $7$ AM and takes pictures every $7$ minutes. Camera A and Camera B take a picture at the same time at four different times before noon. When Camera A and Camera B take their last picture together, how many minutes before noon is it?\nA: The answer is",
+        "answer": "-3"
+    },
+    {
+        "query": "Q: Is $f(x) = 7x^7 - 4x^4 + 1$ an even function, odd function, or neither?\n\nEnter \"odd\", \"even\", or \"neither\".\nA: The answer is",
+        "answer": "16"
+    },
+    {
+        "query": "Q: What is the value of $255^2 - 245^2$?\nA: The answer is",
+        "answer": "140"
+    },
+    {
+        "query": "Q: Evaluate $|(4+2i)|\\cdot|(6-3i)|$.\nA: The answer is",
+        "answer": "10"
+    },
+    {
+        "query": "Q: Let $S$ be the set of points with polar coordinates $(r, \\theta),$ where $1 \\le r \\le 2$ and $0 \\le \\theta \\le \\frac{\\pi}{2}.$  Compute the area of $S.$\nA: The answer is",
+        "answer": "1"
+    },
+    {
+        "query": "Q: Elliott Farms has a silo for storage. The silo is a right circular cylinder topped by a right circular cone, both having the same radius. The height of the cone is half the height of the cylinder. The diameter of the base of the silo is 10 meters and the height of the entire silo is 27 meters. What is the volume, in cubic meters, of the silo? Express your answer in terms of $\\pi$.\n\n[asy]\nsize(150);\ndraw((0,0)--(0,18)--(5,27)--(10,18)--(10,0),linewidth(1));\ndraw((0,0)..(5,-1)..(10,0),linewidth(1));\ndraw((0,0)..(5,1)..(10,0),linetype(\"0 4\")+linewidth(1));\ndraw((0,18)..(5,17)..(10,18),linewidth(1));\ndraw((0,18)..(5,19)..(10,18),linetype(\"0 4\")+linewidth(1));\n\ndraw((15,27)--(16,27),linewidth(1));\ndraw((15,0)--(16,0),linewidth(1));\ndraw((15.5,27)--(15.5,16),linewidth(1));\ndraw((15.5,0)--(15.5,11),linewidth(1));\nlabel(\"27 meters\",(15.5,13.5));\n\n[/asy]\nA: The answer is",
+        "answer": "71"
+    },
+    {
+        "query": "Q: If $\\tan x+\\tan y=4$ and $\\cot x+\\cot y=5$, compute $\\tan (x+y)$.\nA: The answer is",
+        "answer": "21"
+    },
+    {
+        "query": "Q: There exist constants $r,$ $s,$ and $t$ so that\n\\[p(n) = rp(n - 1) + sp(n - 2) + tp(n - 3)\\]for any quadratic polynomial $p(x),$ and any integer $n.$  Enter the ordered triple $(r,s,t).$\nA: The answer is",
+        "answer": "-13"
+    },
+    {
+        "query": "Q: The sum of 5 consecutive even integers is 4 less than the sum of the first 8 consecutive odd counting numbers. What is the smallest of the even integers?\nA: The answer is",
+        "answer": "17\\text{ meters}"
+    },
+    {
+        "query": "Q: Find the positive base $b$ in which the equation $13\\cdot15=243$ is valid.\nA: The answer is",
+        "answer": "-2"
+    },
+    {
+        "query": "Q: Convert $\\frac{3}{16}$ to base 2. Express your answer in binary with a radix point.\nA: The answer is",
+        "answer": "5"
+    }
+]
