@@ -1,22 +1,22 @@
 default: &default
   path: null
   name: null
-  url: null
+  hf_hf_url: null
   paper: null
-  annotation:
+  annotation: null
   
 mmlu:
   <<: *default
   path: cais/mmlu
   name: all
-  url: https://huggingface.co/datasets/cais/mmlu
+  hf_url: https://huggingface.co/datasets/cais/mmlu
   paper: https://arxiv.org/pdf/2009.03300
   annotation:
   
 mmlu_pro:
   <<: *default
   path: TIGER-Lab/MMLU-Pro
-  url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+  hf_url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
   paper: https://arxiv.org/pdf/2406.01574
   
 agi_eval:
@@ -32,13 +32,13 @@ agi_eval:
     - hails/agieval-sat-en-without-passage
     - hails/agieval-sat-en
     - hails/agieval-math
-  url: https://huggingface.co/hails
+  hf_url: https://huggingface.co/hails
   paper: https://arxiv.org/pdf/2304.06364
 
 commonsense_qa:
   <<: *default
   path: tau/commonsense_qa
-  url: https://huggingface.co/datasets/tau/commonsense_qa
+  hf_url: https://huggingface.co/datasets/tau/commonsense_qa
   paper: https://arxiv.org/pdf/1811.00937
 
 winogrande:
@@ -50,7 +50,7 @@ winogrande:
     - winogrande_l
     - winogrande_xl
     - winogrande_debiased
-  url: https://huggingface.co/datasets/allenai/winogrande
+  hf_url: https://huggingface.co/datasets/allenai/winogrande
   paper: https://arxiv.org/pdf/1907.10641
 
 bigbenchhard:
@@ -84,7 +84,7 @@ bigbenchhard:
     - tracking_shuffled_objects_three_objects
     - web_of_lies
     - word_sorting
-  url: https://huggingface.co/datasets/maveriq/bigbenchhard
+  hf_url: https://huggingface.co/datasets/maveriq/bigbenchhard
   paper: https://arxiv.org/pdf/2210.09261
 
 arc:
@@ -93,7 +93,7 @@ arc:
   name:
     - ARC-Challenge
     - ARC-Easy
-  url: https://huggingface.co/datasets/allenai/ai2_arc
+  hf_url: https://huggingface.co/datasets/allenai/ai2_arc
   paper: https://arxiv.org/pdf/1803.05457
 
 trivia_qa:
@@ -108,7 +108,7 @@ trivia_qa:
     - rc.wikipedia.nocontext
     - unfiltered
     - unfiltered.nocontext
-  url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
+  hf_url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
   paper: https://arxiv.org/pdf/1705.03551
 
 

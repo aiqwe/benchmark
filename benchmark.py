@@ -7,6 +7,7 @@ from yaml import load_all, CLoader as Loader
 from loguru import logger
 from pygments import highlight, lexers, formatters
 from typing import Union
+from template import README_TEMPLATE
 
 
 def show(obj, colored: bool = True):
@@ -187,6 +188,10 @@ class HFDatasets:
         for k, v in self.config.items():
             setattr(self, k, v)
 
+    @property
+    def all_names(self):
+        return self.get_all_names()
+
     def get_all_names(self):
         """yaml내 벤치마크들의 전체 이름 출력"""
         return list(self.config.keys())
@@ -220,22 +225,22 @@ class HFDatasets:
                 continue
 
             # Make default Markdown
-            guide_doc_md = f"## {k}\n"
+            on_the_fly = {}
             for key, value in self.config[k].items():
-                if value:
-                    if isinstance(value, str) and key not in (
-                        "url",
-                        "paper",
-                        "annotation",
-                    ):
-                        guide_doc_md += f"{key}: {value}  \n"
-                    if isinstance(value, list):
-                        guide_doc_md += f"{key}:  \n"
-                        for value_ele in value:
-                            guide_doc_md += f"    - {value_ele}  \n"
-                    if key in ("url", "paper", "annotation"):
-                        guide_doc_md += f"{key}: [{value}]({value})  \n"
-
+                if isinstance(value, list):
+                    on_the_fly.update(
+                        {key: "\n" + "\n".join([f"    + {ele}" for ele in value])}
+                    )
+                else:
+                    on_the_fly.update({key: value})
+            # README_TEMPLATE:
+            # {benchmark_name}
+            # + ** path **: `{path}`
+            # + ** name **: `{name}`
+            # + ** url **: [{hf_url}]({hf_url})
+            # + ** paper **: [{paper}]({paper})
+            # + ** annotation **: [{annotation}]({annotation})
+            guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)
             with open(f"tasks/{k}/README.md", "w") as f:
                 f.write(guide_doc_md)
                 logger.info(f"{guide_doc}을 초기화합니다")
