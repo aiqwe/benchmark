@@ -229,8 +229,11 @@ class HFDatasets:
             for key, value in self.config[k].items():
                 if isinstance(value, list):
                     on_the_fly.update(
-                        {key: "\n" + "\n".join([f"    + {ele}" for ele in value])}
+                        {key: "\n" + "\n".join([f"    + `{ele}`" for ele in value])}
                     )
+                # path, name은 backtick 처리
+                elif isinstance(value, str) and key in ('path', 'name'):
+                    on_the_fly.update({key: f"`{value}`"})
                 else:
                     on_the_fly.update({key: value})
             # README_TEMPLATE:
@@ -241,6 +244,16 @@ class HFDatasets:
             # + ** paper **: [{paper}]({paper})
             # + ** annotation **: [{annotation}]({annotation})
             guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)
+            # None이 있으면 해당 줄 삭제처리
+            guide_doc_md_processed = []
+            for line in guide_doc_md.split("\n"):
+                if "None" in line:
+                    continue
+                else:
+                    guide_doc_md_processed.append(line)
+            guide_doc_md = "\n".join(guide_doc_md_processed)
+
+            # 저장
             with open(f"tasks/{k}/README.md", "w") as f:
                 f.write(guide_doc_md)
                 logger.info(f"{guide_doc}을 초기화합니다")
