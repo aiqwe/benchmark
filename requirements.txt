@@ -2,3 +2,4 @@ datasets
 loguru
 pyyaml
 pygments
+pre-commit
