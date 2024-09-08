@@ -1,0 +1,2265 @@
+[
+    {
+        "dialogue_id": "C_77d6db935f534859810aaf33e891ce1b_1",
+        "wikipedia_page_title": "John Stossel",
+        "background": "Fiddler on the Roof is a musical with music by Jerry Bock, lyrics by Sheldon Harnick, and book by Joseph Stein, set in the Pale of Settlement of Imperial Russia in 1905. It is based on Tevye and his Daughters (or Tevye the Dairyman) and other tales by Sholem Aleichem. The story centers on Tevye, the father of five daughters, and his attempts to maintain his Jewish religious and cultural traditions as outside influences encroach upon the family's lives. He must cope both with the strong-willed actions of his three older daughters, who wish to marry for love - each one's choice of a husband moves further away from the customs of his faith - and with the edict of the Tsar that evicts the Jews from their village.",
+        "section_title": "2010-12: Record Collection",
+        "context": "On November 20, 2011, Morissette appeared at the American Music Awards. When asked about the new album during a short interview, she said she had recorded thirty-one songs, and that the album would \"likely be out next year, probably [in] summertime\". On December 21, 2011, Morissette performed a duet of \"Uninvited\" with finalist Josh Krajcik during the performance finale of the X-Factor.  Morissette embarked on a European tour for the summer of 2012, according to Alanis.com. In early May 2012, a new song called \"Magical Child\" appeared on a Starbucks compilation called Every Mother Counts.  On May 2, 2012, Morissette revealed through her Facebook account that her eighth studio album, entitled Havoc and Bright Lights, would be released in August 2012, on new label \"Collective Sounds\", distributed by Sony's RED Distribution. On the same day, Billboard specified the date as August 28 and revealed the album would contain twelve tracks. The album's lead single, \"Guardian\", was released on iTunes on May 15, 2012, and hit the radio airwaves four days prior to this. The single had minor success in North America, charting the Billboard Bubbling Under Hot 100 Singles in the US and almost reaching the top 40 in Canada. However, the song did become a hit in several countries in Europe. \"Receive\", the second single off the album, was released early December the same year.  Morissette received the UCLA Spring Sing's George and Ira Gershwin Award on May 16, 2014 at Pauley Pavilion. On her website starting in the summer of 2014, in celebration of her fortieth birthday, the LP record for her song \"Big Sur\" was offered for sale, which was previously available on the Target edition of her 2012 album, Havoc and Bright Lights. July 25, 2014, was the start of the ten-show Intimate and Acoustic tour. CANNOTANSWER",
+        "turn_ids": [
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#0",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#1",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#2",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#3",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#4",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#5",
+            "C_24e50179b70d4e4c967b5d0e83b921af_0_q#6"
+        ],
+        "questions": [
+            "Where did Trumble grow up?",
+            "Where did he go to school?",
+            "Did he attend any other schools?",
+            "What is significant about this time in his life?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "The album Hard II Love was released on September 16, 2016, and received generally positive reviews from contemporary music critics."
+                ],
+                [
+                    "along with \"Champions (from the Motion Picture Hands of Stone)\", both on Vevo."
+                ],
+                [
+                    "On June 12, 2016, it was reported that Raymond signed a management deal with business partner Scooter Braun."
+                ],
+                [
+                    "Braun already represented Justin Bieber and had a joint venture with Raymond and Bieber."
+                ],
+                [
+                    "Usher performed the song for the first time at the Tidal X:1020 concert on October 20, 2015, at Brooklyn's Barclays Arena."
+                ],
+                [
+                    "On October 16, 2015, Usher released an interactive music video exclusively on the music streaming platform Tidal called \"Chains\" that featuring artist Nas and Bibi Bourelly."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Usher furthered his acting career, starring as American former professional boxer Sugar Ray Leonard in"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "On September 13, 2016, both \"Missin U\" and \"Rivals\" were sent to radio as the album's third and fourth singles."
+                ],
+                [
+                    "\"No Limit\" featuring rapper Young Thug initially was serviced to Urban radio on June 9, and eventually peaked at number 32 on the Billboard Hot 100,"
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    2255
+                ],
+                [
+                    1902
+                ],
+                [
+                    1086
+                ],
+                [
+                    1195
+                ],
+                [
+                    450
+                ],
+                [
+                    0
+                ],
+                [
+                    2782
+                ],
+                [
+                    1419
+                ],
+                [
+                    2782
+                ],
+                [
+                    2142
+                ],
+                [
+                    2590
+                ],
+                [
+                    2782
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "She hosted the New Year's Rockin' Eve 95 show with Steve Harvey.",
+                "CANNOTANSWER",
+                "In 1997, she had a supporting role in the thriller filmFace/Off starring Nicolas Cage and John Travolta, playing the role of Wanda,",
+                "CANNOTANSWER",
+                "CANNOTANSWER",
+                "At the same time, Cho wrote and published an autobiographical book with the same title, and the show itself was filmed and released as a concert film in 2000.",
+                "The episode, titled \"The Real Me,\" first aired on June 3, 2001, and also guest-starred Heidi Klum.",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                166,
+                1992,
+                231,
+                1992,
+                1992,
+                703,
+                1150,
+                1992
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_4de064e80fc04497a87ce21257024685_1",
+        "wikipedia_page_title": "Lou Groza",
+        "background": "Devika Rani Chaudhuri, usually known as Devika Rani (30 March 1908 - 9 March 1994), was an actress in Indian films who was active during the 1930s and 1940s. Widely acknowledged as the first lady of Indian cinema, Devika Rani had a successful film career that spanned 10 years. Born into a wealthy, anglicized Indian family, Devika Rani was sent to boarding school in England at age nine and grew up in that country. In 1928, she met Himanshu Rai, an Indian film-producer, and married him the following year.",
+        "section_title": "Social activism",
+        "context": "On February 13, 2005, Sopp debuted in Total Nonstop Action Wrestling (TNA) without a name (as Billy Gunn is a WWE trademark, although announcers recognized him as such) at Against All Odds with the same gimmick, helping Jeff Jarrett retain the NWA World Heavyweight Championship in a match with Kevin Nash. Sopp, using the name The New Age Outlaw, then formed a stable with Jarrett and Monty Brown known as Planet Jarrett. However, WWE threatened TNA with legal action if Sopp continued the use of the name \"The New Age Outlaw\", so he shortened his name to The Outlaw. Due to the legal issues with WWE, all TNA DVD releases featuring footage with Sopp as \"The Outlaw\" (and presumably also as \"The New Age Outlaw\") have had the name on on-screen graphics blurred, the name silenced out of the audio, and match commentary completely replaced to reflect a retroactive name change to \"Kip James\". One such DVD is the pay-per-view Lockdown, included in the \"TNA Anthology: The Epic Set\" box set, in which the silencing of the name during a segment where Dusty Rhodes picks his name from a lottery leaves DVD viewers in the dark as to who just got picked.  The Outlaw began a campaign to make former ally B.G. James leave the 3Live Kru and defect to Planet Jarrett, reforming the old tag team with Outlaw. At No Surrender (2005), he renamed himself Kip James and was announced as \"wrestling out of Marietta, Georgia\" (the family seat of the Armstrong family) as a psychological ploy. As a result of his campaign, Kip attracted the ire of 3Live Kru members Ron Killings and Konnan, leading to a series of tag team matches pitting Kip and Monty Brown against Killings and Konnan, with a conflicted James unwilling to take sides. Kip's efforts ultimately proved futile; James, the guest referee in a final match between Brown and Kip versus Konnan and Killings at Sacrifice (2005), attacked Kip enabling a 3Live Kru victory.  In September at Unbreakable, Kip teamed with Brown to defeat the team of Apolo and Lance Hoyt. There was clear tension between the partners because Brown was unhappy at the series of losses at the hands of the 3Live Kru, and Kip was irked by Brown's decision to leave Planet Jarrett. Despite the victory, the partners argued after the match. On the October 8, 2005 episode of Impact!, Kip rekindled his feud with the 3Live Kru, running to the ring after a bout between the 3LK and Team Canada in order to prevent Team Canada captain Petey Williams from beating down B.G. James. He saved James, and then engaged in a staredown with Konnan and Killings. Kip saved James from Team Canada once again at Bound for Glory. Though Killings showed signs of gratitude, Konnan remained skeptical as to his true intentions. Later that night, Kip took part in an over-the-top-rope gauntlet match for the number one contendership to the NWA World Heavyweight Championship. After he was eliminated, he tried in vain to prevent Killings from being eliminated as well, before being sent away from ringside by the referees. CANNOTANSWER",
+        "turn_ids": [
+            "C_4337398a4cae4165ad0f213132296e70_1_q#0",
+            "C_4337398a4cae4165ad0f213132296e70_1_q#1",
+            "C_4337398a4cae4165ad0f213132296e70_1_q#2",
+            "C_4337398a4cae4165ad0f213132296e70_1_q#3",
+            "C_4337398a4cae4165ad0f213132296e70_1_q#4"
+        ],
+        "questions": [
+            "What was Mohyeldin's involvement in the the 2014 Israel-Gaza conflict?",
+            "Did his reportage go beyond the tweets?",
+            "Where did he go then?",
+            "What did he do once he returned to Gaza?",
+            "Did he take time off from work?",
+            "What was his expanded role?",
+            "What big stories did he cover as foreign correspondent?",
+            "Has anything exciting happened when he was filling in for an anchorperson?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "her first novel,"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "become one of the five best books of 1997 by Time."
+                ],
+                [
+                    "The book is semi-autobiographical and a major part captures her childhood experiences in Aymanam."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    18
+                ],
+                [
+                    1593
+                ],
+                [
+                    1593
+                ],
+                [
+                    1090
+                ],
+                [
+                    92
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "has been cited as one of the most recognisable aspects of My Bloody Valentine's music.",
+                "His sound uses \"texture more than technique to create vivid soundscapes\".",
+                "Shields' sound and performance have been regarded as influential,",
+                "with musicians including Billy Corgan and J Mascis",
+                "During live performances with My Bloody Valentine"
+            ],
+            "answer_starts": [
+                22,
+                109,
+                1664,
+                1730,
+                1256
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_d045bd0dfb40494d9789316018faa93d_1",
+        "wikipedia_page_title": "Red Skelton",
+        "background": "Thomas Michael Cousineau (born May 6, 1957) is an American former college and professional football player who was a linebacker in the Canadian Football League (CFL) and National Football League (NFL) for nine seasons during the 1970s and 1980s. He played college football for Ohio State University, and twice earned All-American honors. He was the first overall pick of the 1979 NFL Draft, and played professionally for the CFL's Montreal Alouettes and the NFL's Cleveland Browns and San Francisco 49ers. Cousineau is a member of the College Football Hall of Fame, elected in the class of 2016.",
+        "section_title": "Gong 'proper' begins (1969-71)",
+        "context": "Phillips starred for six seasons on Knots Landing as the constantly scheming Anne Matheson Sumner, the mother of star Nicollette Sheridan's character Paige Matheson (a role which Phillips returned to for the TV movie Knots Landing: Back to the Cul-de-Sac (1997)). During this time, she also appeared in the films Let It Ride (1989); the thriller Scissors (1991), opposite Sharon Stone; and Joshua Tree (1993), starring Dolph Lundgren. In the mid-1990s, she played Abby Malone, mother of Valerie Malone (Tiffani-Amber Thiessen) in Fox's Beverly Hills, 90210.  In late 1987, Phillips sang backup vocals on Belinda Carlisle's number one hit, Heaven Is a Place on Earth, as well as on the Carlisle LP, Heaven on Earth. She had a guest role on the television series The Magnificent Seven, where she played Maude Standish, the mother of one of the Seven. Phillips' most recent serious acting job has been a recurring role on the WB drama 7th Heaven as Lily Jackson, sister of family matriarch Annie Jackson Camden (Catherine Hicks). She played Laura Collins in the television movie No One Would Tell (1996).  After the millennium, Phillips continued to occasionally appear in films. She had supporting roles in the comedies Jane White Is Sick & Twisted (2002); the drama Harry + Max (2004); and the independent comedy Unbeatable Harold (2006) In 2009, Phillips appeared at the annual TV Land Awards for the 30th year celebration of Knots Landing. She also appeared in a minor role in the Norwegian historical film Betrayal, which chronicles the German occupation of Norway. CANNOTANSWER",
+        "turn_ids": [
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#0",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#1",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#2",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#3",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#4",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#5",
+            "C_db0b5d1331414d28b15ad487055ce4eb_0_q#6"
+        ],
+        "questions": [
+            "What critical response did it receive?",
+            "Did it receive any awards?",
+            "Are there any other interesting aspects about this article?",
+            "What did they say about it?",
+            "What did Ebert say?"
+        ],
+        "followups": [
+            1,
+            0,
+            2,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "describing his own manner as an \"equation\" and saying that while philosophy was based on theories and abstract reasoning,"
+                ],
+                [
+                    "Many of the Arkestra cite Sun Ra's teachings as pivotal and for inspiring such long-term devotion to the music"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Sun Ra presents a unified conception, incorporating music, myth, and performance into his multi-leveled equations."
+                ],
+                [
+                    "The most famous example was \"Space Is the Place!\""
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Sometimes (typically at the end of a set) the entire Arkestra snaked out through the audience, playing and chanting something like this."
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    84
+                ],
+                [
+                    252
+                ],
+                [
+                    3228
+                ],
+                [
+                    750
+                ],
+                [
+                    2908
+                ],
+                [
+                    3228
+                ],
+                [
+                    3091
+                ],
+                [
+                    3228
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "The power of Congress to make all laws which are necessary and proper to regulate commerce among the several states, or with foreign nations,",
+                "The amendment would overrule the current interpretation of the commerce clause by removing three applications",
+                "the regulation of an activity having effects outside of a state, the regulation of instrumentalities of interstate commerce, and regulation as part of a broader regulatory scheme.",
+                "In one instance, the Court upheld federal safety regulations of vehicles used in intrastate commerce, on the grounds that they run on highways of interstate commerce.",
+                "In Gonzales v. Raich, the court ruled that the commerce clause extended to noneconomic regulatory schemes of congress.",
+                "Court has held, \"Congress is empowered to regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce,"
+            ],
+            "answer_starts": [
+                0,
+                959,
+                1104,
+                1880,
+                2048,
+                1660
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_92fd405b993c4df5be53b7fd992c74e9_1",
+        "wikipedia_page_title": "Game of Death",
+        "background": "Patti Ann LuPone (born April 21, 1949) is an American actress and singer, best known for her work in stage musicals. She is a two-time Grammy Award winner and a two-time Tony Award winner. She is also a 2006 American Theater Hall of Fame inductee. LuPone began her professional career with The Acting Company in 1972 and made her Broadway debut in Three Sisters in 1973.",
+        "section_title": "Personal life",
+        "context": "In the spring of 1608, Dugua wanted Champlain to start a new French colony and fur trading center on the shores of the St. Lawrence. Dugua equipped, at his own expense, a fleet of three ships with workers, that left the French port of Honfleur. The main ship, called the Don-de-Dieu (French for the Gift of God), was commanded by Champlain. Another ship, the Levrier (the Hunt Dog), was commanded by his friend Du Pont. The small group of male settlers arrived at Tadoussac on the lower St. Lawrence in June. Because of the dangerous strength of the Saguenay River ending there, they left the ships and continued up the \"Big River\" in small boats bringing the men and the materials.  On July 3, 1608, Champlain landed at the \"point of Quebec\" and set about fortifying the area by the erection of three main wooden buildings, each two stories tall, that he collectively called the \"Habitation\", with a wooden stockade and a moat 12 feet (4 m) wide surrounding them. This was the very beginning of Quebec City. Gardening, exploring, and fortifying this place became great passions of Champlain for the rest of his life.  In the 1620s, the Habitation at Quebec was mainly a store for the Compagnie des Marchands (Traders Company), and Champlain lived in the wooden Fort Saint Louis newly built up the hill (south from the present-day Chateau Frontenac Hotel), near the only two houses built by the two settler families (the ones of Louis Hebert and Guillaume Couillard, his son-in-law). CANNOTANSWER",
+        "turn_ids": [
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#0",
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#1",
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#2",
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#3",
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#4",
+            "C_84126e4b29d54922a3f3fbcf53b1ad21_0_q#5"
+        ],
+        "questions": [
+            "What is Escape?",
+            "When did he escape?",
+            "How did he escape?",
+            "What happened?",
+            "Was he successful?",
+            "What did he do there?",
+            "Was this his final escape?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "yesnos": [
+            2,
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "In the spring of 1997 he recorded his debut EP, the Slim Shady EP, which was released that winter by Web Entertainment."
+                ],
+                [
+                    "Although it was one of the year's most popular albums (certified triple platinum by the end of the year), he was accused of imitating the style"
+                ],
+                [
+                    "The label-mates later collaborated on a number of hit songs (\"Forgot About Dre\""
+                ],
+                [
+                    "\"'97 Bonnie and Clyde\" Eminem describes a trip with his infant daughter when he disposes of his wife's body, and in \"Guilty Conscience\""
+                ],
+                [
+                    "The album's popularity was accompanied by controversy over its lyrics;"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    183
+                ],
+                [
+                    1802
+                ],
+                [
+                    2362
+                ],
+                [
+                    2067
+                ],
+                [
+                    1993
+                ],
+                [
+                    2830
+                ],
+                [
+                    2830
+                ],
+                [
+                    2830
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "season, Michelle Visage, Ross Mathews and Carson Kressley",
+                "Visage joined the show at the start of season 3, while Mathews and Kressley joined at the start of season 7,",
+                "The judges each provide their opinion on the contestants' performances in the main challenge and",
+                "on the runway before RuPaul announces which queen is the episode's winner and which two had the weakest performances."
+            ],
+            "answer_starts": [
+                27,
+                125,
+                1799,
+                1896
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_86ee8e10971e47729be7ff52fdeea8ec_0",
+        "wikipedia_page_title": "Mike Awesome",
+        "background": "Tramar Lacel Dillard (born September 17, 1979), known professionally as Flo Rida (pronounced ), is an American rapper, singer, songwriter and composer from Carol City, Florida. His 2008 breakout single \"Low\" was number one for 10 weeks in the United States and broke the record for digital download sales at the time of its release. Flo Rida's debut studio album, 2008's Mail on Sunday, reached number four in the US. The album was succeeded by R.O.O.T.S., the next year.",
+        "section_title": "Atlanta Hawks",
+        "context": "A crossroads or an intersection of rural roads is one of the few landmarks in the Mississippi Delta, a flat featureless plain between the Mississippi and Yazoo rivers. It is part of the local iconography and various businesses use the name, such as gas stations, banks, and retail shops. A crossroads is also where cars are more likely to slow down or stop, thus presenting the best opportunity for a hitchiker. In the simplest reading, Johnson describes his grief at being unable to catch a ride at an intersection before the sun sets. However, many see different levels of meaning and some have attached a supernatural significance to the song.  Both versions of the song open with the protagonist kneeling at a crossroads to ask God's mercy, while the second sections tells of his failed attempts to hitch a ride. In the third and fourth sections, he expresses apprehension at being stranded as darkness approaches and asks that his friend Willie Brown be advised that \"I'm sinkin' down\". The first take of the song, which was used for the single, includes a fifth verse that is not included in the second take. In it he laments not having a \"sweet woman\" in his distress.  The song has been used to perpetuate the myth of Johnson selling his soul to the Devil for his musical ability. The lyrics do not contain any references to Satan or a Faustian bargain, but they have been interpreted as a description of the singer's fear of losing his soul to the Devil (presumably in exchange for his talent). Music historian Elijah Wald believes that Johnson's verses do not support the idea. Delta bluesman Tommy Johnson promoted himself as having made a deal with the Devil and Southern folklore identifies a crossroads or graveyard as the site of such a pact, which Wald identifies as likely sources of the myth. However, musicologist Robert Palmer points out that Johnson was \"fascinated with and probably obsessed by supernatural imagery.\" His song \"Hellhound on My Trail\" tells of trying to stay ahead of the demon hound which is pursuing him and in \"Me and the Devil Blues\" he sings, \"Early this mornin' when you knocked upon my door, and I said 'Hello Satan I believe it's time to go'\". These songs contribute to the Faustian myth; how much Johnson promoted the idea is debated, although many agree \"the 'devil angle' made for good marketing\".  Blues historian Samuel Charters sees the song as having elements of protest and social commentary. The second verse includes \"the sun goin' down now boy, dark gon' catch me here\", a reference to the \"sundown laws\" or curfew during racial segregation in the United States. Signs in the rural South advised \"Nigger, don't let the sun set on you here\". Johnson may be expressing a real fear of trumped up vagrancy charges or even lynchings that still took place. Others suggest that the song is about a deeper and more personal loneliness. Writers Barry Lee Pearson and Bill McCulloch argue that the fifth verse in the single version captures the essence of the song: \"left alone, abandoned, or mistreated, he stands at the crossroad, looking this way or that for his woman\". CANNOTANSWER",
+        "turn_ids": [
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#0",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#1",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#2",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#3",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#4",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#5",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#6",
+            "C_162988766103442cb21c5d91f8a0cc48_0_q#7"
+        ],
+        "questions": [
+            "did she do anything besides sing",
+            "Was it a success",
+            "Did she do any acting?",
+            "Was this a success",
+            "Did she do any tours",
+            "Did she have any children"
+        ],
+        "followups": [
+            0,
+            2,
+            0,
+            0,
+            1,
+            2,
+            1,
+            2
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            0,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Baltimore, Maryland."
+                ],
+                [
+                    "Due to their home's proximity to the arsenal, which stored mustard gas, gas masks were kept in the home in case of an accident."
+                ],
+                [
+                    "moved to Monterey, California,"
+                ],
+                [
+                    "They soon moved to Claremont, California, then to El Cajon, before finally settling in San Diego."
+                ],
+                [
+                    "Frank, the eldest of four children,"
+                ],
+                [
+                    "Zappa's father"
+                ],
+                [
+                    "His mother, Rosemarie (nee Collimore) was of Italian (Neapolitan and Sicilian) and French ancestry;"
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    39
+                ],
+                [
+                    713
+                ],
+                [
+                    1825
+                ],
+                [
+                    1925
+                ],
+                [
+                    296
+                ],
+                [
+                    609
+                ],
+                [
+                    60
+                ],
+                [
+                    2023
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "1947, Heyerdahl and five fellow adventurers sailed from Peru to the Tuamotu Islands,",
+                "pae-pae raft that they had constructed from balsa wood and other native materials, christened the Kon-Tiki.",
+                "old reports and drawings made by the Spanish Conquistadors of Inca rafts, and by native legends and archaeological evidence suggesting contact between South America and Polynesia.",
+                "Heyerdahl had nearly drowned at least twice in childhood and did not take easily to water;",
+                "Kon-Tiki demonstrated that it was possible for a primitive raft to sail the Pacific with relative ease and safety, especially to the west (with the trade winds",
+                "raft proved to be highly manoeuvrable, and fish congregated between the nine balsa logs",
+                "ancient sailors could have possibly relied on fish for hydration in the absence of other sources of fresh water.",
+                "Other rafts have repeated the voyage, inspired by Kon-Tiki. Heyerdahl's book about The Kon-Tiki Expedition: By Raft Across the South Seas has been translated into 70 languages.",
+                "It was the first time that a Norwegian film was nominated for both an Oscar and a Golden Globe."
+            ],
+            "answer_starts": [
+                3,
+                110,
+                258,
+                614,
+                799,
+                965,
+                1074,
+                1187,
+                1691
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_3d4589656bd84462ad99147859f851e8_1",
+        "wikipedia_page_title": "Michael Laudrup",
+        "background": "Sam Benjamin Harris (born April 9, 1967) is an American author, philosopher, neuroscientist, blogger, and podcast host. He is a critic of religion and proponent of the liberty to criticize religion. He is concerned with matters that touch on spirituality, morality, neuroscience, free will, and terrorism. He is described as one of the \"Four Horsemen of atheism\", with Richard Dawkins, Christopher Hitchens and Daniel Dennett.",
+        "section_title": "Television",
+        "context": "In 1929, he became a member of Eva Le Gallienne's Civic Repertory Theatre company in New York City. Although best known to the larger world audience for his film and television work, Meredith was an influential actor and director for the stage. He made his Broadway debut as Peter in Le Gallienne's production of Romeo and Juliet (1930) and became a star in Maxwell Anderson's Winterset (1935), which became his film debut the following year. His early life and theatre work were the subject of a New Yorker profile.  He garnered critical acclaim in the 1935 Broadway revival of The Barretts of Wimpole Street starring Katharine Cornell. She subsequently cast him in several of her later productions. Other Broadway roles included Van van Dorn in High Tor (1937), Liliom in Liliom (1940), Christy Mahon in The Playboy of the Western World (1946), and Adolphus Cusins Major Barbara (1957). He created the role of Erie Smith in the English-language premiere of Eugene O'Neill's Hughie at the Theater Royal in Bath, England in 1963. He played Hamlet in avant garde theatrical and radio productions of the play.  A distinguished theatre director, he won a Tony Award nomination for his 1974 Broadway staging of Ulysses in Nighttown, a theatrical adaptation of the \"Nighttown\" section of James Joyce's Ulysses. Meredith also shared a Special Tony Award with James Thurber for their collaboration on A Thurber Carnival (1960). In the late seventies, he directed Fionnula Flanagan's one-woman multi-role play \"James Joyce's Women,\" which toured for several years. CANNOTANSWER",
+        "turn_ids": [
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#0",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#1",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#2",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#3",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#4",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#5",
+            "C_d92c56a96af84477b18e1991dfc68bf1_0_q#6"
+        ],
+        "questions": [
+            "What was Bobby Orr doing in 1966?",
+            "Had he played in exhibition games before that?",
+            "Where did he play before October 19, 1966?",
+            "What position did he play for the Bruins?",
+            "Did he set any records in his rookie season"
+        ],
+        "followups": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "yesnos": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "His work is the basis of the falling sphere viscometer, in which the fluid is stationary in a vertical glass tube."
+                ],
+                [
+                    "The CGS unit of kinematic viscosity was named \"stokes\" in recognition of his work."
+                ],
+                [
+                    "His work on fluid motion and viscosity led to his calculating the terminal velocity for a sphere falling in a viscous medium."
+                ],
+                [
+                    "the technique is used industrially to check the viscosity of fluids used in processes."
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    300
+                ],
+                [
+                    1409
+                ],
+                [
+                    0
+                ],
+                [
+                    1029
+                ],
+                [
+                    1492
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "confined their compositions to the relatively fixed mould of the classical suite.",
+                "Francois Couperin,",
+                "They seem not to have known one another",
+                "Rameau published his first book of harpsichord pieces in 1706",
+                "CANNOTANSWER",
+                "(\"Le rappel des oiseaux,\" \"La poule\")",
+                "(\"L'Enharmonique\", \"Les Cyclopes\"),",
+                "CANNOTANSWER",
+                "During his semiretirement in the years 1740 to 1744, he wrote the Pieces de clavecin en concert (1741),",
+                "some musicologists consider the pinnacle of French Baroque chamber music.",
+                "these pieces differ from trio sonatas"
+            ],
+            "answer_starts": [
+                226,
+                11,
+                610,
+                788,
+                2500,
+                1040,
+                1323,
+                2500,
+                1736,
+                1846,
+                1997
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_8b5a49a4558041a6855863e02046905e_0",
+        "wikipedia_page_title": "Mark Taylor (cricketer)",
+        "background": "Little Richard was born Richard Wayne Penniman on December 5, 1932, in Macon, Georgia. He was the third of twelve children of Leva Mae (nee Stewart) and Charles \"Bud\" Penniman. His father was a church deacon who sold bootlegged moonshine on the side and owned a nightclub, the Tip In Inn.",
+        "section_title": "Acting and Broadway",
+        "context": "Before the 2001 NBA draft, Parker was invited to the San Antonio Spurs' summer camp. Coach Gregg Popovich had him play against Spurs scout and ex-NBA player Lance Blanks. Parker was overwhelmed by Blank's tough and physical defense, and Popovich was ready to send him away after just 10 minutes. But after seeing a \"best of\" mix tape of Parker's best plays, Popovich decided to invite Parker a second time. This time, Parker made a better impression against Blanks; the Frenchman later described Blanks as a \"one-man wrecking crew\". But while Popovich decided that Parker was worth the gamble, the Spurs still had to hope that other teams would not pick Parker during the draft. Parker's name was barely mentioned in the pre-draft predictions, and the point guard was drafted 28th overall by the Spurs on draft day.  After initially playing backup to Antonio Daniels, Parker became a starter and made 77 regular-season appearances in his rookie season, averaging 9.2 points, 4.3 assists and 2.6 rebounds in 29.4 minutes per game. When he played against the Los Angeles Clippers on 30 November 2001, he became the third French player to play in an NBA game, after Tariq Abdul-Wahad and Jerome Moiso. By the end of the season, the rookie led San Antonio in assists and steals, and was named to the All-Rookie First Team for 2001-02, becoming the first foreign-born guard to earn the honor.  In 2002-03, Parker played in all 82 regular-season games as San Antonio's starting point guard on a team that was largely revamped from previous years. He improved his regular season statistics, averaging 15.5 points per game (ppg), 5.3 assists per game (apg) and 2.6 rebounds per game (rpg). Parker's role as the team's playmaker was reflected in his leading the team in assists on 49 occasions. During the 2003 NBA All-Star Weekend, Parker represented the Sophomores in the Rookie Challenge, and also participated in the inaugural Skills Challenge. In the post season, the Spurs, led by Tim Duncan, defeated the New Jersey Nets 4-2 in the finals, and Parker earned his first NBA championship ring. Despite the victory, Parker struggled with inconsistent play throughout the playoffs, and was often substituted for the more experienced guards Steve Kerr and Speedy Claxton late in the games. CANNOTANSWER",
+        "turn_ids": [
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#0",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#1",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#2",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#3",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#4",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#5",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#6",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#7",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#8",
+            "C_60a7a468107c4bf1b28957821ca24054_1_q#9"
+        ],
+        "questions": [
+            "Did she write any books during her later years?",
+            "What is the book synopsis?",
+            "Did the book sell well?",
+            "Where did she get the idea for this book?",
+            "Did she write any other books in her later life?",
+            "What was that book about?",
+            "Was the book highly political?",
+            "Was Sue a political person?",
+            "Did she write many books regarding politics?"
+        ],
+        "followups": [
+            0,
+            2,
+            0,
+            2,
+            1,
+            1
+        ],
+        "yesnos": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Kennedy's close ties with Republican (GOP) Senator Joseph McCarthy strengthened his family's position among Irish Catholics,"
+                ],
+                [
+                    "When McCarthy became a dominant voice of anti-Communism starting in 1950, Kennedy contributed thousands of dollars to McCarthy,"
+                ],
+                [
+                    "In the Senate race of 1952, Kennedy apparently worked a deal so that McCarthy, a Republican, would not make campaign speeches for the GOP ticket in Massachusetts."
+                ],
+                [
+                    "In return, Congressman John F. Kennedy, running for the Senate seat, would not give any anti-McCarthy speeches that his liberal supporters wanted to hear."
+                ],
+                [
+                    "At Kennedy's urging in 1953, McCarthy hired Robert Kennedy (age 27) as a senior staff member of the Senate's investigations subcommittee,"
+                ],
+                [
+                    "John Kennedy had a speech drafted calling for the censure of McCarthy but he never delivered it."
+                ],
+                [
+                    "Joe Kennedy strongly supported McCarthy to the end."
+                ],
+                [
+                    "When the Senate voted to censure McCarthy on December 2, 1954, Senator Kennedy was in the hospital and never indicated how he would cast his vote."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    0
+                ],
+                [
+                    446
+                ],
+                [
+                    614
+                ],
+                [
+                    777
+                ],
+                [
+                    933
+                ],
+                [
+                    1440
+                ],
+                [
+                    1684
+                ],
+                [
+                    1537
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Converge released their first compilation album,",
+                "Caring and Killing.",
+                "CANNOTANSWER",
+                "CANNOTANSWER",
+                "When Forever Comes Crashing"
+            ],
+            "answer_starts": [
+                8,
+                57,
+                2547,
+                2547,
+                1497
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_f72b22142867485089d0addaa85090bd_1",
+        "wikipedia_page_title": "Stephen E. Ambrose",
+        "background": "Thomas Michael Cousineau (born May 6, 1957) is an American former college and professional football player who was a linebacker in the Canadian Football League (CFL) and National Football League (NFL) for nine seasons during the 1970s and 1980s. He played college football for Ohio State University, and twice earned All-American honors. He was the first overall pick of the 1979 NFL Draft, and played professionally for the CFL's Montreal Alouettes and the NFL's Cleveland Browns and San Francisco 49ers. Cousineau is a member of the College Football Hall of Fame, elected in the class of 2016.",
+        "section_title": "Black metal and death metal",
+        "context": "Despite Louis's lucrative purses over the years, most of the proceeds went to his handlers. Of the over $4.6 million earned during his boxing career, Louis himself received only about $800,000. Louis was nevertheless extremely generous to his family, paying for homes, cars and education for his parents and siblings, often with money fronted by Jacobs. He invested in a number of businesses, all of which eventually failed, including the Joe Louis Restaurant, the Joe Louis Insurance Company, a softball team called the Brown Bombers, the Joe Louis Milk Company, Joe Louis pomade (hair product), Joe Louis Punch (a drink), the Louis-Rower P.R. firm, a horse farm and the Rhumboogie Cafe in Chicago. He gave liberally to the government as well, paying back the city of Detroit for any welfare money his family had received.  A combination of this largesse and government intervention eventually put Louis in severe financial straits. His entrusting of his finances to former manager Mike Jacobs haunted him. After the $500,000 IRS tax bill was assessed, with interest accumulating every year, the need for cash precipitated Louis's post-retirement comeback. Even though his comeback earned him significant purses, the incremental tax rate in place at the time (90%) meant that these boxing proceeds did not even keep pace with interest on Louis's tax debt. As a result, by the end of the 1950s, he owed over $1 million in taxes and interest. In 1953, when Louis's mother died, the IRS appropriated the $667 she had willed to Louis. To bring in money, Louis engaged in numerous activities outside the ring. He appeared on various quiz shows, and an old Army buddy, Ash Resnick, gave Louis a job greeting tourists to the Caesars Palace hotel in Las Vegas, where Resnick was an executive. For income, Louis even became a professional wrestler. He made his professional wrestling debut on March 16, 1956 in Washington, D.C., defeating Cowboy Rocky Lee. After defeating Lee in a few matches, Louis discovered he had a heart ailment and retired from wrestling competition. However, he continued as a wrestling referee until 1972.  Louis remained a popular celebrity in his twilight years. His friends included former rival Max Schmeling--who provided Louis with financial assistance during his retirement--and mobster Frank Lucas, who, disgusted with the government's treatment of Louis, once paid off a $50,000 tax lien held against him. These payments, along with an eventual agreement in the early 1960s by the IRS to limit its collections to an amount based on Louis's current income, allowed Louis to live comfortably toward the end of his life.  After the Louis-Schmeling fight, Jack Dempsey expressed the opinion that he was glad he never had to face Joe Louis in the ring. When Louis fell on hard financial times, Dempsey served as honorary chairman of a fund to assist Louis. CANNOTANSWER",
+        "turn_ids": [
+            "C_ea218ebaad6443488fbeb77341159951_1_q#0",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#1",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#2",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#3",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#4",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#5",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#6",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#7",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#8",
+            "C_ea218ebaad6443488fbeb77341159951_1_q#9"
+        ],
+        "questions": [
+            "What are the names of some of the songs from Dreamgirls?",
+            "Was there a soundtrack released for Dreamgirls?",
+            "Was the soundtrack a success?",
+            "Did Beyonce sing any of the songs on the soundtrack?",
+            "Were there any other Beyonce songs?",
+            "How long was the soundtrack on the Billboard 200?",
+            "Did the soundtrack chart on any other chart?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            2
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            0,
+            2,
+            2,
+            0
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "confined their compositions to the relatively fixed mould of the classical suite."
+                ],
+                [
+                    "Francois Couperin,"
+                ],
+                [
+                    "They seem not to have known one another"
+                ],
+                [
+                    "Rameau published his first book of harpsichord pieces in 1706"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "(\"Le rappel des oiseaux,\" \"La poule\")"
+                ],
+                [
+                    "(\"L'Enharmonique\", \"Les Cyclopes\"),"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "During his semiretirement in the years 1740 to 1744, he wrote the Pieces de clavecin en concert (1741),"
+                ],
+                [
+                    "some musicologists consider the pinnacle of French Baroque chamber music."
+                ],
+                [
+                    "these pieces differ from trio sonatas"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    226
+                ],
+                [
+                    11
+                ],
+                [
+                    610
+                ],
+                [
+                    788
+                ],
+                [
+                    2500
+                ],
+                [
+                    1040
+                ],
+                [
+                    1323
+                ],
+                [
+                    2500
+                ],
+                [
+                    1736
+                ],
+                [
+                    1846
+                ],
+                [
+                    1997
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Brazil national football team",
+                "debut in the South American Qualifier to the 1972 Summer Olympics playing 5 matches and scoring the qualifying goal against Argentina.",
+                "Having been cleared of all the tax evasion charges by Italian officials in 1988,",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                22,
+                118,
+                1744,
+                2035
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_636648bf2a724a31858fbd2f987982bb_0",
+        "wikipedia_page_title": "The Jack Benny Program",
+        "background": "Browning was born as Charles Albert Browning, Jr., in Louisville, Kentucky, the second son of Charles Albert and Lydia Browning, and the nephew of baseball star Pete Browning. As a young boy, he put on amateur plays in his backyard. He was fascinated by the circus and carnival life, and at the age of 16 he ran away from his well-to-do family to become a performer. Changing his name to \"Tod\", he traveled extensively with sideshows, carnivals, and circuses.",
+        "section_title": "First outlawing and parliamentary mandate",
+        "context": "Unlike the Doctor, the Master does not usually have companions. There have been times when he made exceptions, though in his case they are not so much \"companions\" as \"tools\". In Castrovalva, the Doctor's companion Adric was abducted by the Master and forced to create a block transfer computation. Later, in The King's Demons, Kamelion is controlled by the Master before the Doctor steals him away, with the Master regaining control of Kamelion in Planet of Fire. In the second episode of The Ultimate Foe, Sabalom Glitz chose to go with the Master in search of Time Lord secrets.  In the 1996 television movie, Chang Lee helps the Master because he has been duped into believing that the Doctor had stolen his body. When Lee begins to realise the truth behind the Master, his loyalty begins to falter, therefore the Master attempts to kill him without hesitation. In promotional media surrounding the movie, Lee is depicted more as a companion to the Eighth Doctor (alongside Grace Holloway), and was referred to as such in a documentary series released as part of the 50 year anniversary celebrations, The Doctors Revisited - The Eighth Doctor.  In \"Utopia\", Chantho plays a similar companion role to the Professor Yana persona. Chantho states that she has been with him for 17 years as a \"devoted assistant\". Later, when the Master persona resurfaces, he berates her for never freeing him from his confinement and the two fatally wound one another, resulting in Chantho's death and the Master's regeneration.  In \"The Sound of Drums\", the Master, as Harold Saxon, is married to Lucy Saxon, to whom he refers at one point as his \"faithful companion\". Lucy is aware of the nature of the Master's plans yet is still loyal to him. She has travelled with him to Utopia, the end of the universe, and thus believes \"there's no point to anything.\" Their relationship appears to be non-platonic; they kiss quite often and it seems as though their marriage is more than just a pretence. Lucy comments, \"I made my choice, for better or for worse.\" In \"Last of the Time Lords\" she is still present, but showing signs of apparent physical abuse, and her loyalty towards him begins to waver. She shoots the Master at the climax of the story, killing him. She is imprisoned, but when the Master's coven made the preparations for his resurrection in The End of Time, she is forced into giving the Master's biometric signature on her lips to complete the ritual. Having foreseen his return, Lucy threw a vial containing a chemical to disrupt the resurrection, killing herself in the resulting explosion while only succeeding in giving the Master a tentative life.  Although not a companion in the traditional sense, the Master allied himself with another evil renegade Time Lord, the Rani, in The Mark of the Rani to thwart the Doctor. The Master has also been known to ally himself with other villains of the series, including the Daleks, the Cybermen and the Autons. None of these alliances lasted past the Master achieving his own aims, or his being stopped by the Doctor. CANNOTANSWER",
+        "turn_ids": [
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#0",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#1",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#2",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#3",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#4",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#5",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#6",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#7",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#8",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#9",
+            "C_8dea77e9fe2742e5925cebb59f48da41_0_q#10"
+        ],
+        "questions": [
+            "When did harry play for the chicago clubs?",
+            "Was he a good player?",
+            "How long did he stay with the cubs?",
+            "How did he die?",
+            "Are there any other interesting aspects about this article"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Corr and her siblings formed a quartet called The Corrs."
+                ],
+                [
+                    "six instrumental selections"
+                ],
+                [
+                    "The album reached platinum status in the United Kingdom and Australia, and quadruple platinum in Ireland,"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "In Blue"
+                ],
+                [
+                    "In Blue moved towards mainstream pop, placing heavy emphasis on electronic synthesisers."
+                ],
+                [
+                    "Corr and her siblings formed a quartet called The Corrs."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Their sixth studio album, White Light, was released on 27 November 2015, and was accompanied by a world tour."
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    9
+                ],
+                [
+                    459
+                ],
+                [
+                    597
+                ],
+                [
+                    2572
+                ],
+                [
+                    854
+                ],
+                [
+                    1093
+                ],
+                [
+                    9
+                ],
+                [
+                    2572
+                ],
+                [
+                    2462
+                ],
+                [
+                    2572
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "formed in 1982 while the pair were attending high school in western Massachusetts.",
+                "The band was initially named Mogo, and played their first show on University of Massachusetts Amherst campus",
+                "CANNOTANSWER",
+                "After high school, they began exploring slower yet still aggressive music such as Black Sabbath, the Replacements, and Neil Young."
+            ],
+            "answer_starts": [
+                107,
+                1370,
+                2022,
+                190
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_fefb00d5264f4ecd82f4ae729ad25659_1",
+        "wikipedia_page_title": "Dana Rohrabacher",
+        "background": "The Macedonians (Greek: Makedones, Makedones) were an ancient tribe that lived on the alluvial plain around the rivers Haliacmon and lower Axios in the northeastern part of mainland Greece. Essentially an ancient Greek people, they gradually expanded from their homeland along the Haliacmon valley on the northern edge of the Greek world, absorbing or driving out neighbouring non-Greek tribes, primarily Thracian and Illyrian. They spoke Ancient Macedonian, a language closely related to Ancient Greek, perhaps a dialect, although the prestige language of the region was at first Attic and then Koine Greek. Their religious beliefs mirrored those of other Greeks, following the main deities of the Greek pantheon, although the Macedonians continued Archaic burial practices that had ceased in other parts of Greece after the 6th century BC.",
+        "section_title": "Early years",
+        "context": "In 1743-1745, Hogarth painted the six pictures of Marriage a-la-mode (National Gallery, London), a pointed skewering of upper-class 18th-century society. This moralistic warning shows the miserable tragedy of an ill-considered marriage for money. This is regarded by many as his finest project and may be among his best-planned story serials.  Marital ethics were the topic of much debate in 18th-century Britain. The many marriages of convenience and their attendant unhappiness came in for particular criticism, with a variety of authors taking the view that love was a much sounder basis for marriage. Hogarth here painted a satire - a genre that by definition has a moral point to convey - of a conventional marriage within the English upper class. All the paintings were engraved and the series achieved wide circulation in print form. The series, which is set in a Classical interior, shows the story of the fashionable marriage of Viscount Squanderfield, the son of bankrupt Earl Squander, to the daughter of a wealthy but miserly city merchant, starting with the signing of a marriage contract at the Earl's mansion and ending with the murder of the son by his wife's lover and the suicide of the daughter after her lover is hanged at Tyburn for murdering her husband.  William Makepeace Thackeray wrote:  This famous set of pictures contains the most important and highly wrought of the Hogarth comedies. The care and method with which the moral grounds of these pictures are laid is as remarkable as the wit and skill of the observing and dexterous artist. He has to describe the negotiations for a marriage pending between the daughter of a rich citizen Alderman and young Lord Viscount Squanderfield, the dissipated son of a gouty old Earl ... The dismal end is known. My lord draws upon the counselor, who kills him, and is apprehended while endeavouring to escape. My lady goes back perforce to the Alderman of the City, and faints upon reading Counsellor Silvertongue's dying speech at Tyburn (place of execution in old London), where the counselor has been 'executed for sending his lordship out of the world. Moral: don't listen to evil silver-tongued counselors; don't marry a man for his rank, or a woman for her money; don't frequent foolish auctions and masquerade balls unknown to your husband; don't have wicked companions abroad and neglect your wife, otherwise you will be run through the body, and ruin will ensue, and disgrace, and Tyburn. CANNOTANSWER",
+        "turn_ids": [
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#0",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#1",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#2",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#3",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#4",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#5",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#6",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#7",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#8",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#9",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#10",
+            "C_ce9c0a6e58fb4956a7b1aa750ba1c994_1_q#11"
+        ],
+        "questions": [
+            "What were the regular segments?",
+            "Who were the cofounders?",
+            "Around what year did these take place?",
+            "Did they ever have featured guests?",
+            "Any example names?",
+            "Were these segments well received?",
+            "Why?",
+            "Did they respond to this?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            2
+        ],
+        "yesnos": [
+            2,
+            0,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Waters was also dismayed by the \"executive approach"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "the lead character \"Pink\","
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "as Pink Floyd gained mainstream fame, Waters began feeling increasingly alienated from their audiences:"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    852
+                ],
+                [
+                    1475
+                ],
+                [
+                    1158
+                ],
+                [
+                    1475
+                ],
+                [
+                    18
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "he was responsible for reforming the hours and practices of the Commons and for leading the debate on reform of the House of Lords.",
+                "his efforts to reform the House of Lords and to persuade his ministerial colleagues, including Tony Blair, to distance the Labour Government from the foreign policy of the Bush administration.",
+                "Tony Blair",
+                "After the 2001 general election he was moved, against his wishes, from the Foreign Office to be Leader of the House of Commons. This was widely seen as a demotion",
+                "Cook was responsible for achieving the agreement between Britain and Iran that ended the Iranian death threat against author Salman Rushdie,",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                5138,
+                6190,
+                2813,
+                4533,
+                3745,
+                6716
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_3a65342461934ed5a0a18eced999a5a0_0",
+        "wikipedia_page_title": "Chris Christie",
+        "background": "Backlund was born in Princeton, Minnesota, in 1949. During his freshman year, Backlund was an All-American in both football and wrestling (191 lb [87 kg], finishing third) while at Waldorf Junior College in Forest City, Iowa. During his sophomore campaign, Backlund focused on wrestling and once again earned All American Honors (190 lb [86 kg] and national runner-up). Backlund was an amateur wrestler at North Dakota State University, winning the Division II NCAA Championship at 190 pounds in 1971.",
+        "section_title": "Final seasons in uniform",
+        "context": "In early appearances, Booth usually performed alongside his father, making his stage debut as Tressel or Tressil in Colley Cibber's version of Richard III in Boston in 1849. His first appearance in New York City was in the character of Wilford in The Iron Chest, which he played at the National Theatre in Chatham Street, on the 27th of September 1850. A year later, on the illness of the father, the son took his place in the character of Richard III.  After his father's death in 1852, Booth went on a worldwide tour, visiting Australia and Hawaii, and finally gaining acclaim of his own during an engagement in Sacramento, California, in 1856.  Before his brother assassinated Lincoln, Edwin had appeared with his two brothers, John Wilkes and Junius Brutus Booth Jr., in Julius Caesar in 1864. John Wilkes played Marc Antony, Edwin played Brutus, and Junius played Cassius. It was a benefit performance, and the only time that the three brothers appeared together on the same stage. The funds were used to erect a statue of William Shakespeare that still stands in Central Park just south of the Promenade. Immediately afterwards, Edwin Booth began a production of Hamlet on the same stage, which came to be known as the \"hundred nights Hamlet\", setting a record that lasted until John Barrymore broke the record in 1922, playing the title character for 101 performances.  From 1863 to 1867, Booth managed the Winter Garden Theatre in New York City, mostly staging Shakespearean tragedies. In 1863, he bought the Walnut Street Theatre in Philadelphia.  After John Wilkes Booth's assassination of President Lincoln in April 1865, the infamy associated with the Booth name forced Edwin Booth to abandon the stage for many months. Edwin, who had been feuding with John Wilkes before the assassination, disowned him afterward, refusing to have John's name spoken in his house. He made his return to the stage at the Winter Garden Theatre in January 1866, playing the title role in Hamlet, which would eventually become his signature role. CANNOTANSWER",
+        "turn_ids": [
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#0",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#1",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#2",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#3",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#4",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#5",
+            "C_5302d47f63e44faba394d447d9315cc6_0_q#6"
+        ],
+        "questions": [
+            "who did he save",
+            "where did this happen",
+            "What caused this",
+            "What happened next",
+            "Why did he fall",
+            "How was he helped",
+            "What year was this",
+            "Did Robert Know him"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "He moved into television with scripts for Danger, The Gulf Playhouse and Manhunt."
+                ],
+                [
+                    "producer Fred Coe saw the Danger and Manhunt episodes and enlisted Chayefsky to adapt the story It Happened on the Brooklyn Subway"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    0
+                ],
+                [
+                    110
+                ],
+                [
+                    2161
+                ],
+                [
+                    2161
+                ],
+                [
+                    2161
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "The band were sued by the parents of the Native American boy pictured on the cover of Ceremony,",
+                "for alleged exploitation and for the unauthorized use of the child's image.",
+                "This lawsuit delayed the release of Ceremony in many countries including",
+                "South Korea and Thailand, which did not see the record's release until late 1992, and it was unreleased in Turkey until the Cult played several shows in Istanbul in",
+                "world tour followed with backing from future Thin Lizzy drummer Michael Lee and bassist Kinley Wolfe, and keyboardist John Sinclair returning one last time,"
+            ],
+            "answer_starts": [
+                1472,
+                1568,
+                1718,
+                1791,
+                1970
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_90572187456a4b279f8c47e833e3b99d_1",
+        "wikipedia_page_title": "James May",
+        "background": "Yoko Ono (born February 18, 1933) is a Japanese multimedia artist, singer, songwriter, and peace activist who is also known for her work in performance art and filmmaking. She performs in both English and Japanese. She is known for being the second wife and widow of singer-songwriter John Lennon of the Beatles. Ono grew up in Tokyo and also spent several formative years in New York City.",
+        "section_title": "Pre-Columbian era",
+        "context": "In mid-1966, Schirra was assigned to command a three-man Apollo crew with Donn F. Eisele and R. Walter Cunningham to make the second manned flight test of the Apollo Command/Service Module, with a mission profile identical to Apollo 1. Schirra argued against a repeat mission, and his crew became the backup crew for Gus Grissom, Ed White and Roger Chaffee. Schirra's crew conducted tests in the command module on January 26, 1967, and were enroute to Houston the next day when Grissom, White, and Young were killed in a fire during a test. Schirra's crew became the prime crew of the first manned flight. This became Apollo 7 in the program's revised mission numbering plan, and was delayed to the fall of 1968 while safety improvements were made to the Command Module.  Schirra gained a sense of security from having Guenter Wendt, a McDonnell Aircraft employee, as the pad leader responsible for the spacecraft's launch readiness. But since the Apollo contractor was North American Aviation, Wendt was no longer pad leader. After the Apollo 1 accident, Schirra felt so strongly he wanted none other than Wendt as pad leader for his Apollo flight, that he pulled strings with his boss Deke Slayton and North American's launch operations manager Bastian \"Buzz\" Hello to hire Wendt as Apollo 7 pad leader. Wendt remained pad leader for the remainder of the Apollo and Skylab programs, and stayed on with NASA into the Space Shuttle program before retiring.  Apollo 7 was launched on October 11, 1968, making Schirra the first person to fly in space three times. Prior to launch, Schirra had objected because of high winds, which could have injured the astronauts in the event of an abort within the first minute of the mission. After reaching orbit, the Apollo 7 CSM performed space rendezvous and docking exercises with the S-4B stage to simulate retrieving the Lunar Module. On the second day of the mission, the crew conducted the first live television pictures publicly broadcast from inside a manned spacecraft.  During the mission, Schirra became sick with a head cold, which he passed to Eisele. Anticipating issues with congestion inside of a sealed spacesuit, Schirra proposed to Mission Control that they would not wear their helmets during reentry. Despite a request from Chris Kraft and Deke Slayton to wear helmets during reentry, Schirra, Eisele, and Cunningham refused and performed reentry without them. Apollo 7 landed southeast of Bermuda on October 22, 1968.  Prior to the Apollo 7 launch, Schirra had made the decision to retire after the flight, and left the NASA Astronaut Corps on July 1, 1969. Schirra's last assignment as an astronaut was to conduct the investigation into Neil Armstrong's Lunar Landing Research Vehicle crash. CANNOTANSWER",
+        "turn_ids": [
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#0",
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#1",
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#2",
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#3",
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#4",
+            "C_a11cfabddb7c4e03a51ec0d83540a0b3_0_q#5"
+        ],
+        "questions": [
+            "When did the prohibition of alcohol?",
+            "What part of the act was amended?",
+            "Are there any other interesting aspects about this article?",
+            "What act banned the sell of tobacco?",
+            "What was implemented to ban the sale of tobacco, and beddies?",
+            "Why did they decided to burn all the tobacco and beddies?",
+            "When dd the Holi fire occur?",
+            "How was the prohibition of alcohol implemented?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Helplessness Blues, was released on May 3, 2011 with"
+                ],
+                [
+                    "These sessions took place in a rented house outside Seattle, but"
+                ],
+                [
+                    "January 18, 2012, after the band had finished touring for the album, drummer Tillman announced that he had left the band."
+                ],
+                [
+                    "was nominated as Best Folk Album at the 2012 Grammy Awards,"
+                ],
+                [
+                    "but were mostly scrapped, losing the band $60,000 of their own money."
+                ],
+                [
+                    "Tillman announced that he had left the band. He"
+                ],
+                [
+                    "would go on to reinvent himself and record several albums"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    1720
+                ],
+                [
+                    167
+                ],
+                [
+                    2474
+                ],
+                [
+                    2851
+                ],
+                [
+                    228
+                ],
+                [
+                    2551
+                ],
+                [
+                    2599
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "a family cottage",
+                "Scott built a family cottage there in 1812 he named it \"Abbotsford\".",
+                "A Roman road with a ford near Melrose used in olden days by the abbots of Melrose suggested the name of Abbotsford.",
+                "CANNOTANSWER",
+                "downstream on the Tweed nearer Melrose.",
+                "CANNOTANSWER",
+                "It is estimated that the building cost Scott more than PS25,000 (equivalent to PS1,900,000 in 2016).",
+                "Panelling of oak and cedar and carved ceilings relieved by coats of arms in their correct colours added to the beauty of the house.",
+                "suits of armour, trophies of the chase, a library of more than 9,000 volumes, fine furniture, and still finer pictures."
+            ],
+            "answer_starts": [
+                595,
+                583,
+                1462,
+                1859,
+                490,
+                1859,
+                1289,
+                1156,
+                1036
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_df30359807ed477cb65127bce8505cbd_1",
+        "wikipedia_page_title": "Nick Griffin",
+        "background": "John Randall Hennigan (born October 3, 1979) is an American professional wrestler, actor and traceur, who currently wrestles for Impact Wrestling under the ring name Johnny Impact. He is best known for his tenure in WWE where he used the ring names John Morrison and Johnny Nitro. He is also known for wrestling in the independent circuit, Lucha Libre AAA Worldwide and Lucha Underground under the ring name Johnny Mundo. Hennigan was the winner of Tough Enough III, a televised competition that would award the winner a WWE contract, and was assigned to their developmental territory, Ohio Valley Wrestling (OVW), to continue his wrestling training.",
+        "section_title": "Congressional campaigns",
+        "context": "In 1953, Crewe met and partnered professionally with Frank Slay Jr., a young pianist from Texas. Their collaboration created several hit songs (as well as a small record label, XYZ), for which Crewe performed as the demo singer. Crewe and Slay's 1957 recording session with the Rays for XYZ (picked up nationally by Cameo Records) produced two major hit songs. \"Silhouettes\", produced by Crewe, became a doo-wop anthem of the era. Climbing to #3 on the Billboard Hot 100 in 1957, \"Silhouettes\" displayed the flair for story-driven lyrics, innovative musical hooks, and final lyrical twists that were to become known as Crewe trademarks. In 1965, with a slightly faster tempo, \"Silhouettes\" again became a hit, this time for the British group Herman's Hermits, reaching #5 on the Billboard Hot 100. Bob Dylan recorded \"Silhouettes\" during his legendary Basement Tapes sessions of the late 1960s, although his version was not released until 2014.  \"Daddy Cool\" was the B-side of the Rays' \"Silhouettes\" single. Written and produced by Crewe and Slay at the same 1957 session, it achieved considerable note. Both \"Daddy Cool\" and \"Silhouettes\" were covered the same year by the Canadian group the Diamonds, whose version of \"Daddy Cool\" reached #10 on the Billboard charts. In 1961, Guy \"Daddy Cool\" Darrell released another single version on the Warwick label, and in 1977, the UK band Darts made the song their first-ever studio recording, scoring a #6 hit.  Crewe and Slay built on their success by signing a deal with new, Philadelphia-based Swan Records. Sessions with Billy and Lillie (singers Billy Ford and Lillie Bryant) produced the 1958 hit \"Lah Dee Dah\", which reached the #9 position on the Billboard Hot 100; the following year, Billy and Lillie's recording of \"Lucky Ladybug\" hit #14. Crewe and Slay also wrote two Top 10 hits - \"Tallahassee Lassie\" and \"Okefenokee\" - for Swan's rising star Freddy Cannon. CANNOTANSWER",
+        "turn_ids": [
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#0",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#1",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#2",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#3",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#4",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#5",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#6",
+            "C_035bc1d0b6ed44e49143c657d1c7aff2_1_q#7"
+        ],
+        "questions": [
+            "When was the album Forever released ?",
+            "How was the album received by the critics ?",
+            "How well did the album do in the charts ?",
+            "Can you name a song from the album ?",
+            "How did the single Holler perform in the charts ?",
+            "Did they go on any tours in that period ?",
+            "Did they win any awards in that period ?"
+        ],
+        "followups": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "yesnos": [
+            0,
+            2,
+            0,
+            2,
+            0,
+            0,
+            2,
+            2,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Khanna campaigned for her father's election in New Delhi ("
+                ],
+                [
+                    "In 2000, she was part of the judges panel at Femina Miss India."
+                ],
+                [
+                    "Twinkle Khanna is a popular columnist at Daily News and Analysis after hours and The Times of India."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Khanna's second book The Legend of Lakshmi Prasad, a collection of four short stories, launched in November 2016 sold more than 1,00,000 copies."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    9
+                ],
+                [
+                    92
+                ],
+                [
+                    1796
+                ],
+                [
+                    2375
+                ],
+                [
+                    2230
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Turner was born in Springfield, Massachusetts",
+                "His mother was a teacher \"who taught a progressive curriculum\" and his father an author, \"mainly [of] non-fiction\".",
+                "CANNOTANSWER",
+                "He later moved to Boston to attend art school at the School of the Museum of Fine Arts,",
+                "CANNOTANSWER",
+                "he started a company that sold rare punk rock records via mail-order.",
+                "Hydra Head label",
+                "music. By 1997, the Hydra Head label was becoming a respectable small record label."
+            ],
+            "answer_starts": [
+                0,
+                137,
+                1932,
+                576,
+                1932,
+                506,
+                712,
+                692
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_76a36d00e68e48d39317b4213f94b23e_0",
+        "wikipedia_page_title": "Jacques Anquetil",
+        "background": "Born in 1921 on the south side of Chicago, Illinois, Shepherd briefly lived in East Chicago, Indiana, and was raised in Hammond, Indiana, where he graduated from Hammond High School in 1939. The movie A Christmas Story is loosely based on his days growing up in Hammond's southeast side neighborhood of Hessville. As a youth he worked briefly as a mail carrier in a steel mill and earned his Amateur radio license (W9QWN) at age 16, sometimes claiming he was even younger. He sporadically attended Indiana University, but never graduated.",
+        "section_title": "Los Angeles Dons (AAFC)",
+        "context": "Born to a prominent Ceylonese family with a strong association with the legal profession, Jayewardene was the eldest of 11 children, of Hon. Justice Eugene Wilfred Jayewardene KC, a Chief Justice of Ceylon and Agnes Helen Don Philip Wijewardena daughter of Tudugalage Muhandiram Don Philip Wijewardena a wealthy merchant. His younger brothers included Dr Hector Wilfred Jayewardene, QC and Dr Rolly Jayewardene, FRCP. His uncles were the Colonel Theodore Jayewarden, Justice Valentine Jayewardene and the Press Baron D. R. Wijewardena.  Raised by an English nanny, he received his primary education at Bishop's College, Colombo and attended Royal College, Colombo for his secondary education. At Royal College he played for the college cricket team, debuting in the Royal-Thomian series in 1925, and captained the rugby team at the annual \"Royal-Trinity Encounter\" (which later became known as the Bradby Shield Encounter). Excelling in both studies, sports and Club and Societies He was the first Chairman/Secretary in Royal College Social Services League in 1921 and he became the head prefect in 1925 and also represented the school in football and boxing; he was also a member of the cadet corps. He would later serve as the Secretary of the Royal College Union.  Jayewardene entered the University College, Colombo (University of London), in 1926 to read English, Latin, Logic and Economics; he attained a distinguished academic record and showed a keen interest in sports. In 1928 he transferred law by entering Colombo Law College and passed out as an advocate, starting his practice in the unofficial bar, for a brief period. Jayewardene converted from Christianity to Buddhism in his youth. CANNOTANSWER",
+        "turn_ids": [
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#0",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#1",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#2",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#3",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#4",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#5",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#6",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#7",
+            "C_3b8bd052b57b42c4beeadc63da4ab974_0_q#8"
+        ],
+        "questions": [
+            "What was a major foreign policy bill he introduced?",
+            "HOw did the Bush administration respond?",
+            "What were they concerned about?",
+            "Were there othe major bills he introduced?",
+            "was he involved in proposing or negotiating any treaties?",
+            "what did he say in his address?"
+        ],
+        "followups": [
+            2,
+            0,
+            1,
+            1,
+            2,
+            0,
+            2
+        ],
+        "yesnos": [
+            2,
+            1,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Carey's relationship with Mottola began to deteriorate, due to their growing creative differences in terms of her albums, as well as his controlling nature."
+                ],
+                [
+                    "On May 30, 1997, the couple announced their separation, with their divorce finalized by the time Mottola remarried on December 2, 2000."
+                ],
+                [
+                    "On April 30, 2008, Carey married Cannon in The Bahamas."
+                ],
+                [
+                    "In August 2014, Cannon confirmed he and Carey had separated a few months earlier. He filed for divorce on December 12, 2014. It was finalized in 2016."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    1738
+                ],
+                [
+                    240
+                ],
+                [
+                    397
+                ],
+                [
+                    751
+                ],
+                [
+                    942
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Dixon persuaded all nine justices of the Supreme Count to attend a screening of The Birth of a Nation",
+                "CANNOTANSWER",
+                "Dixon told him it was the \"true story\" of Reconstruction and the Klan's role in \"saving the South\",",
+                "Thomas Dixon, Jr. was a former classmate of then-president Woodrow Wilson at Johns Hopkins University."
+            ],
+            "answer_starts": [
+                922,
+                2858,
+                1274,
+                0
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_6ca24f11b8cb400e8b290c061d46eb46_0",
+        "wikipedia_page_title": "My Happiness (Powderfinger song)",
+        "background": "Alice Paul was born on January 11, 1885, at Paulsdale in Mount Laurel Township, New Jersey. She was the eldest of four children of William Mickle Paul I (1850-1902) and Tacie Paul (nee Parry), and a descendant of William Penn, the Quaker founder of Pennsylvania. Her siblings were Willam, Helen, and Parry. She grew up in the Quaker tradition of public service; her ancestors included participants in the New Jersey Committee of Correspondence in the Revolutionary era and a state legislative leader in the 19th century.",
+        "section_title": "Success",
+        "context": "Knight was born in Massillon, Ohio, and grew up in Orrville, Ohio. Knight began playing organized basketball at Orrville High School. He continued at Ohio State in 1958 when he played for Basketball Hall of Fame coach Fred Taylor. Despite being a star player in high school, he played a reserve role as a forward on the 1960 Ohio State Buckeyes team that won the NCAA Championship and featured future Hall of Fame players John Havlicek and Jerry Lucas. The Buckeyes lost to the Cincinnati Bearcats in each of the next two NCAA Championship games, of which Knight was also a part.  Due in part to the star power of those Ohio State teams, Knight usually received scant playing time, but that did not prevent him from making an impact. In the 1961 NCAA Championship game, Knight came off the bench with 1:41 on the clock and Cincinnati leading Ohio State, 61-59. In the words of then-Ohio State assistant coach Frank Truitt,  Knight got the ball in the left front court and faked a drive into the middle. Then [he] crossed over like he worked on it all his life and drove right in and laid it up. That tied the game for us, and Knight ran clear across the floor like a 100-yard dash sprinter and ran right at me and said, 'See there, coach, I should have been in that game a long time ago!'  To which Truitt replied, \"Sit down, you hot dog. You're lucky you're even on the floor.\"  In addition to lettering in basketball at Ohio State, it has been claimed that Knight also lettered in football and baseball; however, the official list of Ohio State football letter earners does not include Knight. Knight graduated with a degree in history and government in 1962. CANNOTANSWER",
+        "turn_ids": [
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#0",
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#1",
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#2",
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#3",
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#4",
+            "C_d7f8228c3bf54064bb1e372f6b0897b7_0_q#5"
+        ],
+        "questions": [
+            "Can you explain Time (The Revelator)?",
+            "How successful was his first release?",
+            "What else did it appear in?",
+            "Did many people like it?",
+            "Did it stay on the charts long?",
+            "Are there any other interesting aspects about this article?",
+            "Can you tell me how many copies of this album sold?",
+            "is there anything else important regarding the album?"
+        ],
+        "followups": [
+            0,
+            2,
+            0,
+            2,
+            1,
+            1
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            0,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "At the end of the Reconquista, only Granada was left for Isabella and Ferdinand to conquer."
+                ],
+                [
+                    "The Emirate of Granada had been held by the Muslim Nasrid dynasty"
+                ],
+                [
+                    "On 2 January 1492 Isabella and Ferdinand entered Granada to receive the keys of the city, and the principal mosque was reconsecrated as a church."
+                ],
+                [
+                    "the organisation and tactics of the emerging Spanish military, changing the nature of warfare and altering the European balance of power."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    0
+                ],
+                [
+                    92
+                ],
+                [
+                    1335
+                ],
+                [
+                    2078
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "The term is most often used with reference to medieval Western Europe.",
+                "the Arab conquests forced the medieval economy into even greater ruralization",
+                "it was possible to be described as servus et colonus, \"both slave and colonus\".",
+                "CANNOTANSWER",
+                "CANNOTANSWER",
+                "Successive administrations tried to stabilise the imperial economy by freezing the social structure into place:",
+                "The workers of the land were on their way to becoming serfs.",
+                "the cultivators of land, were not to move from the land they were attached to."
+            ],
+            "answer_starts": [
+                0,
+                1678,
+                732,
+                1893,
+                1893,
+                253,
+                544,
+                465
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_1007bfc715254d7798e1bd4f63b9b887_1",
+        "wikipedia_page_title": "Anna Hazare",
+        "background": "Phineas P. Gage (1823-1860) was an American railroad construction foreman remembered for his improbable[B1]:19 survival of an accident in which a large iron rod was driven completely through his head, destroying much of his brain's left frontal lobe, and for that injury's reported effects on his personality and behavior over the remaining 12 years of his life--effects sufficiently profound (for a time at least) that friends saw him as \"no longer Gage\". [H]:14 Long known as the \"American Crowbar Case\"--once termed \"the case which more than all others is calculated to excite our wonder, impair the value of prognosis, and even to subvert our physiological doctrines\" --Phineas Gage influenced 19th-century discussion about the mind and brain, particularly debate on cerebral localization,  [M]:ch7-9[B] and was perhaps the first case to suggest the brain's role in determining personality, and that damage to specific parts of the brain might induce specific personality changes.  [M]:1,378[M2]:C  :1347  :56",
+        "section_title": "Sound",
+        "context": "In 1977, he returned to Montreal as manager of the Expos, who had just come off 107 losses and a last-place finish in the NL East. Team president John McHale and general manager Jim Fanning had been impressed with Williams' efforts in Boston and Oakland, and thought he was what the Expos needed to finally become a winner.  After cajoling the Expos into improved, but below .500, performances in his first two seasons, Williams turned the 1979-80 Expos into pennant contenders. The team won over 90 games both years--the first winning seasons in franchise history. The 1979 unit won 95 games, the most that the franchise would win in Montreal. However, they finished second each time to the eventual World Champion (the Pittsburgh Pirates in 1979 and the Philadelphia Phillies in 1980). Williams was never afraid to give young players a chance to play, and his Expos teams were flush with young talent, including All-Stars such as outfielder Andre Dawson and catcher Gary Carter. With a solid core of young players and a fruitful farm system, the Expos seemed a lock to contend for a long time to come.  But Williams' hard edge alienated his players--especially his pitchers--and ultimately wore out his welcome. He labeled pitcher Steve Rogers a fraud with \"king of the mountain syndrome\" - meaning that Rogers had been a good pitcher on a bad team for so long that he was unable to \"step up\" when the team became good. Williams also lost confidence in closer Jeff Reardon, whom the Montreal front office had acquired in a much publicized trade with the Mets. When the 1981 Expos performed below expectations, Williams was fired during the pennant drive on September 7. With the arrival of his easy-going successor Jim Fanning, who restored Reardon to the closer's role, the inspired Expos made the playoffs for the only time in their 36-year history in Montreal. However, they fell in heartbreaking fashion to Rick Monday and the eventual World Champion Los Angeles Dodgers in a five-game NLCS. CANNOTANSWER",
+        "turn_ids": [
+            "C_fc93e98bcc7d4c99a714b7eee7f1103a_1_q#0",
+            "C_fc93e98bcc7d4c99a714b7eee7f1103a_1_q#1",
+            "C_fc93e98bcc7d4c99a714b7eee7f1103a_1_q#2",
+            "C_fc93e98bcc7d4c99a714b7eee7f1103a_1_q#3",
+            "C_fc93e98bcc7d4c99a714b7eee7f1103a_1_q#4"
+        ],
+        "questions": [
+            "How early were the first kingdoms mentioned?",
+            "Was Vijaya a king?",
+            "What year was this?",
+            "Were there any other kings mentioned?",
+            "How long did the kingdoms last?",
+            "Were there wars in the kingdom?"
+        ],
+        "followups": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Louise Mary Rose"
+                ],
+                [
+                    "They had three children:"
+                ],
+                [
+                    "soon after the ascent of Everest; he admitted he was terrified of proposing to her and relied on her mother to propose on his behalf."
+                ],
+                [
+                    "Peter (born 1954), Sarah (born 1955) and Belinda (1959-1975)."
+                ],
+                [
+                    "where he was helping to build a hospital, Louise and Belinda were killed in a plane crash near Kathmandu airport shortly after take-off."
+                ],
+                [
+                    "he enjoyed reading adventure and science fiction novels in his retirement."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "His son Peter Hillary also became a climber, summiting Everest in 1990. In May 2002 Peter climbed Everest as part of a 50th anniversary celebration;"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    16
+                ],
+                [
+                    188
+                ],
+                [
+                    54
+                ],
+                [
+                    213
+                ],
+                [
+                    341
+                ],
+                [
+                    940
+                ],
+                [
+                    1696
+                ],
+                [
+                    605
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Divac and former teammate Predrag Danilovic took over their former club KK Partizan.",
+                "In late 2000,",
+                "They did so on initiative by Ivica Dacic, the club's outgoing president and, more importantly, a suddenly marginalized politician who, due to his association with Milosevic,",
+                "Darko Russo, finished out the 2000-01 season before they decided in summer 2001 to bring back their mentor Dusko Vujosevic to be the new head coach.",
+                "CANNOTANSWER",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                139,
+                0,
+                224,
+                1012,
+                2254,
+                2254
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_2b281082a1c54e748f3450f6c3b355b4_1",
+        "wikipedia_page_title": "Charles Kennedy",
+        "background": "Gustaf V was born in Drottningholm Palace in Ekero, Stockholm County, the son of Prince Oscar and Princess Sofia of Nassau. At birth Gustaf was created Duke of Varmland. Upon his father's accession to the throne in 1872, Gustaf became crown prince of both Sweden and Norway. On 8 December 1907, he succeeded his father on the Swedish throne, which had been separated from the Norwegian throne two years earlier.",
+        "section_title": "2010-2011: Musical theatre and album releases",
+        "context": "Following the signing of Treaties of Nice in May 2001, which made Brussels the de facto capital of the European Union, the then President of the European Commission, Romano Prodi and the Belgian Prime Minister Guy Verhofstadt invited Koolhaas to discuss the necessities and requirements of a European capital.  During these talks and as an impetus for further discussion, Koolhaas and his think-tank AMO - an independent part of OMA - suggested the development of a visual language. This idea inspired a series of drawings and drafts, including the \"Barcode\". The barcode seeks to unite the flags of the EU member countries into a single, colourful symbol. In the current European flag, there is a fixed number of stars. In the barcode however, new Member States of the EU can be added without space constraints. Originally, the barcode displayed 15 EU countries. In 2004, the symbol was adapted to include the ten new Member States.  Since the time of the first drafts of the barcode it has very rarely been officially used by commercial or political institutions. During the Austrian EU Presidency 2006, it was officially used for the first time. The logo was used for the EU information campaign, but was very negatively criticized. In addition to the initial uproar caused by the Estonian flag stripes being displayed incorrectly, the proposed flag failed to achieve its main objective as a symbol. Critics pointed the lack of capability to relate the signified (the mental concept, the European Union) with the signifier (the physical image, the stripes) as the major problem, as well as the presented justification for the order in which the color stripes were displayed (as every country in the EU should be regarded as equal in importance and priority). CANNOTANSWER",
+        "turn_ids": [
+            "C_4f88b7f7d9d8433094be21af1c532e50_1_q#0",
+            "C_4f88b7f7d9d8433094be21af1c532e50_1_q#1",
+            "C_4f88b7f7d9d8433094be21af1c532e50_1_q#2",
+            "C_4f88b7f7d9d8433094be21af1c532e50_1_q#3",
+            "C_4f88b7f7d9d8433094be21af1c532e50_1_q#4"
+        ],
+        "questions": [
+            "What happened at the start of their career?",
+            "What did they become popular?",
+            "Did you find anything interesting in the article?",
+            "Did any scandals happen?",
+            "How did they start?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            2,
+            0,
+            2
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "In 1985, Haraway published the essay \"Manifesto for Cyborgs: Science, Technology, and Socialist-Feminism in the 1980s\" in Socialist Review."
+                ],
+                [
+                    "the Manifesto offered a response to the rising conservatism during the 1980s in the United States at a critical juncture at which feminists,"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Haraway's \"Manifesto\" is a thought experiment, defining what people think is most important about being and what the future holds for increased artificial intelligence."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    0
+                ],
+                [
+                    344
+                ],
+                [
+                    3618
+                ],
+                [
+                    3449
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Rowling said Voldemort was invented as a nemesis for Harry Potter (the protagonist of the novels), and she intentionally did not flesh out Voldemort's backstory at first.",
+                "The basic idea [was that Harry] didn't know he was a wizard ... And so then I kind of worked backwards from that position",
+                "When he was one year old, the most evil wizard for hundreds and hundreds of years attempted to kill him. He killed Harry's parents, and then",
+                "and then he tried to kill Harry--he tried to curse him. ... Harry has to find out, before we find out. And--so--but for some mysterious reason the curse",
+                "for some mysterious reason the curse didn't work on Harry. So he's left with this lightning bolt shaped scar on his forehead and the curse rebounded upon the evil wizard,",
+                "In the second book, Rowling establishes that Voldemort hates non-pure-blood wizards, despite being a half-blood himself.",
+                "Rowling described Voldemort as a self-hating bully: \"Well I think it is often the case that the biggest bullies take what they know to be their own defects,",
+                "She began to link him to real-life tyrants, describing him as \"a raging psychopath, devoid of the normal human responses to other people's suffering\". In",
+                "Rowling said that she did not base Voldemort on any real person. In 2006, Rowling told an interviewer that Voldemort at his core has a human fear:",
+                "\"Voldemort's fear is death, ignominious death. I mean, he regards death itself as ignominious. He thinks that it's a shameful human weakness, as you know. His worst fear is death.\"",
+                "Rowling establishes that Voldemort is so feared in the wizarding world that it is considered dangerous even to speak his name. Most characters in the novels refer to him",
+                "as \"You-Know-Who\" or \"He-Who-Must-Not-Be-Named\" rather than say his name aloud. In Harry Potter and the Deathly Hallows, a \"taboo\" spell is placed upon the name,"
+            ],
+            "answer_starts": [
+                21,
+                193,
+                385,
+                517,
+                633,
+                841,
+                996,
+                1345,
+                1513,
+                1689,
+                1894,
+                2064
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_da6a0f440dea4a23acec6efe7171249b_0",
+        "wikipedia_page_title": "Zheng He",
+        "background": "\"Red\" Grange was born on June 13, 1903, in Forksville, Pennsylvania, a village of about 200 people in an area of lumber camps. His father was the foreman of three lumber camps. His mother died when he was just five years old. For a number of years, the Grange family lived with relatives until they could finally afford a home of their own in Wheaton, Illinois.",
+        "section_title": "Education and military career",
+        "context": "Watt retired in 1800, the same year that his fundamental patent and partnership with Boulton expired. The famous partnership was transferred to the men's sons, Matthew Robinson Boulton and James Watt Jr. . Longtime firm engineer William Murdoch was soon made a partner and the firm prospered.  Watt continued to invent other things before and during his semi-retirement. Within his home in Handsworth, Staffordshire, Watt made use of a garret room as a workshop, and it was here that he worked on many of his inventions. Among other things, he invented and constructed several machines for copying sculptures and medallions which worked very well, but which he never patented. One of the first sculptures he produced with the machine was a small head of his old professor friend Adam Smith. He maintained his interest in civil engineering and was a consultant on several significant projects. He proposed, for example, a method for constructing a flexible pipe to be used for pumping water under the Clyde at Glasgow.  He and his second wife travelled to France and Germany, and he purchased an estate in mid-Wales at Doldowlod House, one mile south of Llanwrthwl, which he much improved.  In 1816 he took a trip on the paddle-steamer Comet, a product of his inventions, to revisit his home town of Greenock.  He died on 25 August 1819 at his home \"Heathfield\" in Handsworth, Staffordshire (now part of Birmingham) at the age of 83. He was buried on 2 September in the graveyard of St Mary's Church, Handsworth. The church has since been extended and his grave is now inside the church. CANNOTANSWER",
+        "turn_ids": [
+            "C_ef0cf39e324d4acbb81bb9b8a7566c28_0_q#0",
+            "C_ef0cf39e324d4acbb81bb9b8a7566c28_0_q#1",
+            "C_ef0cf39e324d4acbb81bb9b8a7566c28_0_q#2",
+            "C_ef0cf39e324d4acbb81bb9b8a7566c28_0_q#3",
+            "C_ef0cf39e324d4acbb81bb9b8a7566c28_0_q#4"
+        ],
+        "questions": [
+            "when did ilya first got into hockey",
+            "what was the anaheim tenure about?",
+            "what year was that",
+            "what were his stats during those years",
+            "how about in his early years?",
+            "how long was he with the anaheim ducks?",
+            "what else did he do in his early years?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+        ],
+        "yesnos": [
+            2,
+            0,
+            2,
+            2,
+            2,
+            0
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "The lyrics for \"My Happiness\" were written by Bernard Fanning, Powderfinger's lead singer and songwriter. The rest of the band are co-credited with Fanning for composing the track."
+                ],
+                [
+                    "The song describes feelings of love and separation;"
+                ],
+                [
+                    "The extensive time spent touring took its toll on the band, and it was on the back of this that Fanning wrote \"My Happiness\"."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "Much of Fanning's writing is inspired by non-rock music, and \"My Happiness\" is no exception."
+                ],
+                [
+                    "Gospel and soul music"
+                ],
+                [
+                    "he expressed confusion at its being considered a romantic song."
+                ],
+                [
+                    "Sain's Pennie Dennison said it described \"the pining feeling you experience when you spend time away from the one you love\"."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    383
+                ],
+                [
+                    564
+                ],
+                [
+                    831
+                ],
+                [
+                    2334
+                ],
+                [
+                    1592
+                ],
+                [
+                    1685
+                ],
+                [
+                    963
+                ],
+                [
+                    616
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "(SEC) filed a civil suit against Cuban relating to alleged insider trading in the shares of Mamma.com, now known as Copernic.",
+                "A federal jury in Texas found in favor of Cuban on October 16, 2013.",
+                "CANNOTANSWER",
+                "A federal jury in Texas found in favor of Cuban on October 16, 2013.",
+                "On November 17, 2008,",
+                "In March 2014, Cuban was on air at CNBC criticizing high-frequency trading (HFT). Those against HFT, such as Cuban, believe the technology is equivalent to automated insider trading.",
+                "CANNOTANSWER",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                87,
+                1317,
+                1653,
+                1317,
+                0,
+                1470,
+                1653,
+                1653
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_4d6e38301a82483cab0ff9378b6a238e_0",
+        "wikipedia_page_title": "Human Torch",
+        "background": "Richard was born on 2 October 1452 at Fotheringhay Castle, the twelfth of thirteen children of Richard Plantagenet, 3rd Duke of York and Cecily Neville at the beginning of what has traditionally been labelled the \"Wars of the Roses\", a period of \"three or four decades of political instability and periodic open civil war in the second half of the fifteenth century\", between supporters of Richard's father (a potential claimant to the throne of King Henry VI from birth)--\"Yorkists\"--in opposition to the regime of Henry VI and his wife, Margaret of Anjou, and those loyal to the crown (\"Lancastrians\"). When his father and the Nevilles were forced to flee to Ludlow in 1459, Richard and his older brother, George (later Duke of Clarence), were placed in the custody of the Duchess of Buckingham, and the Archbishop of Canterbury. When his father and elder brother Edmund, Earl of Rutland, were killed at the Battle of Wakefield on 30 December 1460, Richard, who was eight years old, and George were sent by his mother, the Duchess of York, to the Low Countries. They returned to England following the defeat of the Lancastrians at the Battle of Towton and participated in the coronation of Richard's eldest brother as King Edward IV in June 1461.",
+        "section_title": "First marriage",
+        "context": "Bassist/singer Tony Lewis, guitarist/keyboardist and songwriter John Spinks and drummer Alan Jackman played together in the late 1970s in a straightforward power pop band called Sirius B. After rehearsing for about six months and playing several gigs, their style did not match the punk rock that was surging in popularity in England and they broke up. Several years afterward, the three gathered back together in London's East End under the name The Baseball Boys. They performed in and around England until a demo got them signed to Columbia/CBS Records in 1984.  Spinks adopted the name 'Baseball Boys' from a teen gang called \"The Baseball Furies\" in the cult film The Warriors, a movie that he had just seen. Although he used the name as a joke and \"just to be outrageous\", record company people responded favourably. The band got a reputation as a very \"American-sounding\" group and signed in the US after playing for just a few months in England. Their manager, an American living in England, recommended a new band name with a similar attitude since 'Baseball Boys' seemed too \"tacky\" and \"tongue-in-cheek\". Spinks has said, \"the Outfield was the most left-wing kind of thing we liked.\"  Spinks expressed an interest for the American sport of baseball, while also being a devoted fan of association football. He claimed that the group \"didn't know what an outfield was\" until they came to the US, and that \"We're just learning about baseball. It's an acquired taste and we're trying to acquire a taste for it.\" He expounded upon this in a Chicago Tribune piece:  The thing about American sports - baseball and football - is that they're far more show business, far more a spectacle, than British sports. In England, it's just sort of everyday soccer matches. You get 30,000 people in the freezing cold in the middle of winter watching guys chase around in mud. In America, you have the sunny days, and the baseball diamond is really nicely laid out. In England, you'd see these guys covered in mud within 10 minutes. It's not such a nice spectacle to watch.  Their debut album, Play Deep, produced by William Wittman, was issued in 1985, and was a success. The album would go on to reach triple platinum sales status and the Top 10 in the US album charts; it also featured a Top 10 single entry with \"Your Love\", which peaked at No. 6. It went on to be featured in a number of 80s-themed compilation albums, and over 1,000 covers and remixes by other artists have been released physically and/or online. The band toured extensively, opening for Journey and Starship. Spinks made a point of mentioning in interviews that the band was \"totally into not smoking or doing drugs\". CANNOTANSWER",
+        "turn_ids": [
+            "C_dc5cd3fe8f3a4b57a8468f766a406c97_1_q#0",
+            "C_dc5cd3fe8f3a4b57a8468f766a406c97_1_q#1",
+            "C_dc5cd3fe8f3a4b57a8468f766a406c97_1_q#2",
+            "C_dc5cd3fe8f3a4b57a8468f766a406c97_1_q#3",
+            "C_dc5cd3fe8f3a4b57a8468f766a406c97_1_q#4"
+        ],
+        "questions": [
+            "Where did he begin his early career?",
+            "How long did he hold that position?",
+            "What else did he do?",
+            "Was he popular?"
+        ],
+        "followups": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            2,
+            1,
+            1
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Howard said that he wanted to use his NBA career and Christian faith to \"raise the name of God within the league and throughout the world"
+                ],
+                [
+                    "He has stated he believes in reaching out to his community and fans and thus contributes substantially in the field of philanthropy."
+                ],
+                [
+                    "An avid listener of Gospel music, he attends the Fellowship of Faith Church when he is back home in Atlanta"
+                ],
+                [
+                    "In 2014, Epix featured Howard as the focal point of a documentary about his life called In the Moment."
+                ],
+                [
+                    "The film was directed by Ross Greenburg and Executive Producers include Michael D. Ratner and Matthew Weaver."
+                ],
+                [
+                    "Within the NBA itself, Howard has participated in several NBA \"Read to Achieve\" assemblies encouraging children to make reading a priority."
+                ],
+                [
+                    "Howard also established the Dwight D. Howard Foundation Inc. in 2004. The Foundation provides scholarships for students who want to attend his alma mater,"
+                ],
+                [
+                    "Along with Sam Worthington and Jonah Hill, Howard appeared in a commercial for the video game Call of Duty: Modern Warfare 3."
+                ],
+                [
+                    "Howard, along with Carmelo Anthony and Scottie Pippen, also appeared in the 2013 Chinese film Amazing, a joint venture between the NBA and Shanghai Film Group Corporation."
+                ],
+                [
+                    "Home Edition that aired April 2, 2006, in which Ty Pennington and his team built a new home and ministry offices for Sadie Holmes, who operates a social services ministry"
+                ],
+                [
+                    "He made another appearance on the show in the October 9, 2011 episode."
+                ]
+            ],
+            "answer_starts": [
+                [
+                    31
+                ],
+                [
+                    171
+                ],
+                [
+                    304
+                ],
+                [
+                    2227
+                ],
+                [
+                    2330
+                ],
+                [
+                    1113
+                ],
+                [
+                    505
+                ],
+                [
+                    1927
+                ],
+                [
+                    2054
+                ],
+                [
+                    1663
+                ],
+                [
+                    1855
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Harburg and Gorney were offered a contract with Paramount: in Hollywood, Harburg worked with composers",
+                "CANNOTANSWER",
+                "Working in Hollywood did not stop Harburg's career on Broadway.",
+                "In the 1940s, he wrote a series of \"book\" musicals with social messages, including the successful Bloomer Girl (1944),",
+                "Harburg's best known Broadway show, Finian's Rainbow (1947) was, in its original production, possibly the first Broadway musical with a racially integrated chorus line,",
+                "\" It was made into a film in 1968 starring Fred Astaire and Petula Clark, directed by Francis Ford Coppola.",
+                "CANNOTANSWER",
+                "he won the Academy Award for Best Music, Original Song for \"Over the Rainbow.\""
+            ],
+            "answer_starts": [
+                0,
+                1576,
+                961,
+                1025,
+                1241,
+                1468,
+                1576,
+                280
+            ]
+        }
+    },
+    {
+        "dialogue_id": "C_9d3d06a2152c439b83b9a5b8855633c7_1",
+        "wikipedia_page_title": "Curtly Ambrose",
+        "background": "Arthur Antunes Coimbra (Portuguese pronunciation: [aR'tuR a'tunis ko'ibra], born 3 March 1953 in Rio de Janeiro), better known as Zico (['ziku]), is a Brazilian coach and former footballer, who played as an attacking midfielder. Often called the \"White Pele\", he was a creative playmaker, with excellent technical skills, vision, and an eye for goal, who is considered one of the most clinical finishers and best passers ever, as well as one of the greatest players of all time. Arguably the world's best player of the late 1970s and early 80s, he is regarded as one of the best playmakers and free kick specialists in history, able to bend the ball in all directions.",
+        "section_title": "Santa Fe Trail",
+        "context": "Reese was a strong supporter and good friend of the first ever black Major League Baseball player, Jackie Robinson. He was serving a stint in the Navy when the news of Robinson's signing came. Although he had little or no experience interacting with minorities--according to Reese, his meeting Robinson marked the first time in his life that he had shaken hands with a black man--he had no particular prejudices, either. It is reported that his father had made him starkly aware of racial injustice by showing him a tree where a lynching had occurred. The modest Reese, who typically downplayed his pioneering role in helping to ease the breaking of the 60-year-old color line, said that his primary concern with regard to Robinson's arrival was the possibility of Reese losing his shortstop job. Robinson was assigned to play as the team's first baseman, and Reese retained his position.  Reese refused to sign a petition that threatened a boycott if Robinson joined the team. When a sportswriter asked Reese if he was threatened by Robinson taking his position of shortstop, Reese simply responded, \"If he can take my job, he's entitled to it.\" When Robinson joined the Dodgers in 1947 and traveled with them during their first road trip, he was heckled by fans in Cincinnati. A myth has persisted that during pre-game infield practice at Crosley Field (the then-home of the Cincinnati Reds), Reese, the captain of the team, went over to Robinson, engaged him in conversation, and put his arm around his shoulder in a gesture of support which silenced the crowd. This incident however actually occurred in 1948 in Boston.[1] The gesture is depicted in a bronze sculpture of Reese and Robinson, created by sculptor William Behrends, which was placed at MCU Park in Brooklyn and unveiled on November 1, 2005.  Throughout that difficult first year in the major leagues, Reese helped keep Robinson's morale up amid all the abuse. As the 1947 season wore on, there was tacit acceptance of the fact that blacks were now playing big league ball and were probably there to stay. Robinson still got pitches thrown at him, but, as Reese recounted to author Roger Kahn, \"I told him, 'You know Jack, some of these guys are throwing at you because you're black. But others are doing it just because they plain don't like you.'\" His role in nurturing Jackie Robinson aside, 1947 was a superb year for Reese, as he batted .284 with a league-leading 104 walks. He also had a career best slugging average of .426. Their rapport soon led shortstop Reese and second baseman Robinson to become one of the most effective defensive pairs in the sport's history. The friendship between Reese and Robinson is prominent in Roger Kahn's classic work, The Boys of Summer. CANNOTANSWER",
+        "turn_ids": [
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#0",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#1",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#2",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#3",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#4",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#5",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#6",
+            "C_cef8a40f6d7c48078cd4e6b246638389_1_q#7"
+        ],
+        "questions": [
+            "When was the new material released?",
+            "What was the name of the album?",
+            "Did the album have any singles?",
+            "Did any of those songs chart on the billboards?",
+            "When did Putnam die?",
+            "How did Putnam die?",
+            "How did people react to his death?",
+            "Was Putnams funeral well attended?"
+        ],
+        "followups": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            2,
+            2,
+            0,
+            1
+        ],
+        "yesnos": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "answers": {
+            "texts": [
+                [
+                    "Black Flag played its final show on June 27, 1986,"
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "By 1986, Black Flag's members had grown tired of the tensions of their relentless touring schedule, infighting, and of living in near-poverty."
+                ],
+                [
+                    "The next album, In My Head, with its powerful bluesy proto-grunge-metal, did seem to finally be a cohesive follow-up"
+                ],
+                [
+                    "Black Flag played its final show on June 27, 1986, in Detroit, Michigan."
+                ],
+                [
+                    "CANNOTANSWER"
+                ],
+                [
+                    "The band had been together almost a decade, and true commercial success and stability had eluded them."
+                ],
+                [
+                    "By 1986, Black Flag's members had grown tired of the tensions of their relentless touring schedule, infighting, and of living in near-poverty."
+                ],
+                [
+                    "The band's erratic artistic changes were a barrier to their retaining an audience - Ginn was so creatively restless that Black Flag's albums were often very dissimilar."
+                ],
+                [
+                    "CANNOTANSWER"
+                ]
+            ],
+            "answer_starts": [
+                [
+                    1595
+                ],
+                [
+                    1899
+                ],
+                [
+                    836
+                ],
+                [
+                    1414
+                ],
+                [
+                    1595
+                ],
+                [
+                    1899
+                ],
+                [
+                    979
+                ],
+                [
+                    836
+                ],
+                [
+                    1082
+                ],
+                [
+                    1899
+                ]
+            ]
+        },
+        "orig_answers": {
+            "texts": [
+                "Angel performed in the ABC Family television special named Criss Angel Mindfreak: Postmodern",
+                "CANNOTANSWER",
+                "SciFi Channel aired the one-hour special Supernatural starring Angel.",
+                "CANNOTANSWER",
+                "Angel performed at the release of the new branding for Miller Lite beer",
+                "During this period Angel also earned money selling signed merchandise, making up to $50,000 a day.",
+                "CANNOTANSWER"
+            ],
+            "answer_starts": [
+                21,
+                2198,
+                907,
+                2198,
+                1772,
+                2099,
+                2198
+            ]
+        }
+    }
+]
