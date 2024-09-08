@@ -111,6 +111,12 @@ trivia_qa:
   hf_url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
   paper: https://arxiv.org/pdf/1705.03551
 
+squad_v2:
+  <<: *default
+  path: rajpurkar/squad_v2
+  hf_url: https://huggingface.co/datasets/rajpurkar/squad_v2
+  paper: https://arxiv.org/pdf/1806.03822
+
 
 
     

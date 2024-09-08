@@ -65,7 +65,7 @@ class Benchmark:
             self.dataset = self.datasetdict[self.prior_split]
         else:
             self.dataset = dataset
-        repr = f"\npath: {self.path}\n"
+        repr = f"path: {self.path}\n"
         repr += f"name: {self.name}\n"
         repr += f"total_split: {self.split}\n"
         repr += f"prior_split: {self.prior_split}\n"
@@ -232,7 +232,7 @@ class HFDatasets:
                         {key: "\n" + "\n".join([f"    + `{ele}`" for ele in value])}
                     )
                 # path, name은 backtick 처리
-                elif isinstance(value, str) and key in ('path', 'name'):
+                elif isinstance(value, str) and key in ("path", "name"):
                     on_the_fly.update({key: f"`{value}`"})
                 else:
                     on_the_fly.update({key: value})
