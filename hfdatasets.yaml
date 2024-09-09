@@ -11,7 +11,6 @@ mmlu:
   name: all
   hf_url: https://huggingface.co/datasets/cais/mmlu
   paper: https://arxiv.org/pdf/2009.03300
-  annotation:
   
 mmlu_pro:
   <<: *default
