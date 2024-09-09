@@ -1,0 +1,122 @@
+[
+    {
+        "premise": "If you know that the state lottery is likely to be rigged, you'll buy fewer tickets.",
+        "hypothesis": "The church can only be visited before 6 pm.",
+        "label": 2,
+        "idx": 156294
+    },
+    {
+        "premise": "yeah she's just not much at all  i mean i would get there at eight o'clock in the morning the children usually weren't awake by then and she would get home at like five thirty in the afternoon",
+        "hypothesis": "Adrin was angry.",
+        "label": 1,
+        "idx": 335594
+    },
+    {
+        "premise": "that's not really good i don't know i guess that's an invasion of privacy i'm not sure that that's an everyday thing though at least not for you know an individual",
+        "hypothesis": "Centralized models are not up to date.",
+        "label": 1,
+        "idx": 351017
+    },
+    {
+        "premise": "Simple wills cost $75 apiece.",
+        "hypothesis": "The woofer cone did not fit inside of the radio.",
+        "label": 0,
+        "idx": 316669
+    },
+    {
+        "premise": "Or, to quote Kael again, Mean Streets never loses touch with the ordinary look of things or with common experience.",
+        "hypothesis": "General Nelson A. Miles had 30,000 troops in his attack.",
+        "label": 0,
+        "idx": 200437
+    },
+    {
+        "premise": "Plaza de Armas, which surrounds a statue of the patriot Cespedes and is ringed by shaded marble benches and second-hand booksellers, is Havana's oldest square.",
+        "hypothesis": "The Coroner commented, \"That wouldn't have been near the bed.\"",
+        "label": 0,
+        "idx": 33512
+    },
+    {
+        "premise": "Very well, we must arrange a compromise.",
+        "hypothesis": "No fee is charged to visitors who wish to see the Last Judgement.",
+        "label": 0,
+        "idx": 46462
+    },
+    {
+        "premise": "I, for one, have renewed my membership.",
+        "hypothesis": "The views of the city are panoramic.",
+        "label": 2,
+        "idx": 29568
+    },
+    {
+        "premise": "Police recently arrested two other top politicians and raided the headquarters of the French Socialist Party in connection with bribes from another defense firm.",
+        "hypothesis": "Do not apply any of the skills used by a lawyer.",
+        "label": 0,
+        "idx": 364722
+    },
+    {
+        "premise": "um-hum except we call it Aspen but",
+        "hypothesis": "Scott Krueger has died after over-consuming alcohol.   ",
+        "label": 2,
+        "idx": 294080
+    },
+    {
+        "premise": "Wait a moment. He ran back to the station and tackled the porter anew.",
+        "hypothesis": "This was a waste of my time, do not call again. ",
+        "label": 0,
+        "idx": 143982
+    },
+    {
+        "premise": "Bigger leaves stuck together with bamboo toothpicks are sold as plates for temple offerings.",
+        "hypothesis": "The two of them were slashing at Thorn's thighs. ",
+        "label": 1,
+        "idx": 14323
+    },
+    {
+        "premise": "Before 1980, federal law prohibited interest to be generated on checking accounts maintained by federally insured banks.",
+        "hypothesis": "Rogers loves Gil Amelio because Gil Amelio supports clinton. ",
+        "label": 1,
+        "idx": 32816
+    },
+    {
+        "premise": "If this conjecture is correct, then Italy's delivery percentages could be adjusted upwards (by an unknown amount) towards the predicted value and their mail processing costs would then have to be adjusted downwards.",
+        "hypothesis": "The court had been told that this was a drug addict.",
+        "label": 2,
+        "idx": 379777
+    },
+    {
+        "premise": "He may not even know it's a religious cult or sect or whatever it is.",
+        "hypothesis": "A law school professor in New York will write a report on loan forgiveness. ",
+        "label": 0,
+        "idx": 258373
+    },
+    {
+        "premise": "Some questions are more complex, however, such as the  Are security procedures in U.S. airports sufficient to protect the safety of passengers and equipment?",
+        "hypothesis": "Texas' school system is the cheapest compared to the rest of the world. ",
+        "label": 1,
+        "idx": 354358
+    },
+    {
+        "premise": "These meetings offered a generally secure environment to share information, while also encouraging broader member participation.",
+        "hypothesis": "Journalists tend to stay away from publishing material on drug violence.",
+        "label": 1,
+        "idx": 128713
+    },
+    {
+        "premise": "You'll find the most diverse range of beach activities at Matala, Agaa Galani, and Plakias.",
+        "hypothesis": "The intention of Congress was for H-2A workers to have no access to representation.",
+        "label": 0,
+        "idx": 274659
+    },
+    {
+        "premise": "Rural vehicle cost per box or possible delivery is twice the average city carrier vehicle cost per possible delivery.",
+        "hypothesis": "I think the kids should help the community with a garden.",
+        "label": 0,
+        "idx": 149237
+    },
+    {
+        "premise": "Expendable.",
+        "hypothesis": "They are definitely friendly.",
+        "label": 2,
+        "idx": 292607
+    }
+]

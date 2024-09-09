@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "both sitcomishly predictable and cloying in its attempts ",
+        "label": 0,
+        "idx": 64530
+    },
+    {
+        "sentence": "should catch this imax offering . ",
+        "label": 1,
+        "idx": 12155
+    },
+    {
+        "sentence": "plaintiveness ",
+        "label": 0,
+        "idx": 28308
+    },
+    {
+        "sentence": "very ugly , ",
+        "label": 1,
+        "idx": 57034
+    },
+    {
+        "sentence": "good chance ",
+        "label": 1,
+        "idx": 61770
+    },
+    {
+        "sentence": "has n't been worth caring about ",
+        "label": 0,
+        "idx": 37184
+    },
+    {
+        "sentence": ", ivan is a prince of a fellow ",
+        "label": 0,
+        "idx": 22143
+    },
+    {
+        "sentence": "collapses like an overcooked soufflé . ",
+        "label": 0,
+        "idx": 67311
+    },
+    {
+        "sentence": "'s not an original character , siuation or joke in the entire movie ",
+        "label": 0,
+        "idx": 35398
+    },
+    {
+        "sentence": "lingerie models and bar dancers ",
+        "label": 1,
+        "idx": 7078
+    },
+    {
+        "sentence": "if the title is a jeopardy question , then the answer might be `` how does steven seagal come across these days ? '' ",
+        "label": 1,
+        "idx": 33877
+    },
+    {
+        "sentence": "savage full-bodied wit ",
+        "label": 1,
+        "idx": 51224
+    },
+    {
+        "sentence": "with fewer deliberate laughs , more inadvertent ones and stunningly trite songs ",
+        "label": 1,
+        "idx": 28990
+    },
+    {
+        "sentence": "assuming the bar of expectations has n't been raised above sixth-grade height ",
+        "label": 1,
+        "idx": 44329
+    },
+    {
+        "sentence": "has little insight ",
+        "label": 1,
+        "idx": 28340
+    },
+    {
+        "sentence": "modest , straight-ahead standards ",
+        "label": 1,
+        "idx": 57669
+    },
+    {
+        "sentence": "` if you are in the mood for an intelligent weepy , it can easily worm its way into your heart . ' ",
+        "label": 0,
+        "idx": 48338
+    },
+    {
+        "sentence": "unrelated shorts ",
+        "label": 1,
+        "idx": 65257
+    },
+    {
+        "sentence": "sc2 is an autopilot hollywood concoction lacking in imagination and authentic christmas spirit , yet it 's geared toward an audience full of masters of both . ",
+        "label": 0,
+        "idx": 54681
+    },
+    {
+        "sentence": "is n't this painfully forced , false and fabricated ",
+        "label": 1,
+        "idx": 1607
+    }
+]

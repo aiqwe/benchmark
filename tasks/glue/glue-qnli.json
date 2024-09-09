@@ -1,0 +1,122 @@
+[
+    {
+        "question": "How many people are in London's Metropolitan area?",
+        "sentence": "Montana did not see a large influx of immigrants from this act because 160 acres was usually insufficient to support a family in the arid territory.",
+        "label": 0,
+        "idx": 35767
+    },
+    {
+        "question": "What term is considered somewhat incongrous is a self-governing church?",
+        "sentence": "Paul VI was concerned but not surprised by the negative reaction in Western Europe and the United States.",
+        "label": 0,
+        "idx": 27267
+    },
+    {
+        "question": "When did India build the forth largest rail system in the world?",
+        "sentence": "The central norms of this tradition became codified between 1550 and 1900, which is known as the common practice period.",
+        "label": 1,
+        "idx": 8897
+    },
+    {
+        "question": "What is the one-party system often compared with?",
+        "sentence": "Through a process called synaptic pruning, unnecessary neuronal connections in the brain are eliminated and the amount of grey matter is pared down.",
+        "label": 1,
+        "idx": 92345
+    },
+    {
+        "question": "How long did Whitehead and Russell expect to spend creating Principia Mathematica?",
+        "sentence": "An elaborate public building, the United States Post Office and Courthouse, was completed by the federal government in 1896 in the heart of the city.",
+        "label": 0,
+        "idx": 75437
+    },
+    {
+        "question": "When was Smartzone rolled out to customers?",
+        "sentence": "From mid-May to September 1989, Ukrainian Greek-Catholic hunger strikers staged protests on Moscow's Arbat to call attention to the plight of their Church.",
+        "label": 0,
+        "idx": 92540
+    },
+    {
+        "question": "What did France fear by an alliance between Prussia and Spain?",
+        "sentence": "Another important building is the falekaupule or maneapa the traditional island meeting hall, where important matters are discussed and which is also used for wedding celebrations and community activities such as a fatele involving music, singing and dancing.",
+        "label": 0,
+        "idx": 22215
+    },
+    {
+        "question": "Who designed the Rialto Building in 1889?",
+        "sentence": "In the first incident, approximately one fifth of the Samoan population died in the influenza epidemic of 1918–1919.",
+        "label": 0,
+        "idx": 15493
+    },
+    {
+        "question": "What did SPECTRE originally stand for?",
+        "sentence": "During the mid-to-late Republic, the reformist Gaius Gracchus, the populist politician-general Gaius Marius and his antagonist Sulla, and the \"notorious Verres\" justified their very different policies by the divinely inspired utterances of private diviners.",
+        "label": 1,
+        "idx": 28806
+    },
+    {
+        "question": "What type of elevator is better suited for carrying freight?",
+        "sentence": "For instance, some political funding practices that are legal in one place may be illegal in another.",
+        "label": 0,
+        "idx": 66402
+    },
+    {
+        "question": "What did Gaddafi do in 1973?",
+        "sentence": "Gateway Community College has a campus in downtown New Haven, formerly located in the Long Wharf district; Gateway consolidated into one campus downtown into a new state-of-the-art campus (on the site of the old Macy's building) and was open for the Fall 2012 semester.",
+        "label": 0,
+        "idx": 23402
+    },
+    {
+        "question": "What tribe was Arsaces the leader of?",
+        "sentence": "The New York Times described the film as \"angry and painful, and the pain feels real.\"",
+        "label": 1,
+        "idx": 40771
+    },
+    {
+        "question": "What organization scores electronics manufacturers based on how environmentally friendly their products are?",
+        "sentence": "The humoral (antibody) response is defined as the interaction between antibodies and antigens.",
+        "label": 0,
+        "idx": 52206
+    },
+    {
+        "question": "What did Senator Heinrich's bill require?",
+        "sentence": "Insects are the only invertebrates to have developed active flight capability, and this has played an important role in their success.:186 Their muscles are able to contract multiple times for each single nerve impulse, allowing the wings to beat faster than would ordinarily be possible.",
+        "label": 1,
+        "idx": 69716
+    },
+    {
+        "question": "What percentage of Tennessee tourists daily spending in 2013 went toward accommodation?",
+        "sentence": "The groove usually starts near the periphery and ends near the center of the disc.",
+        "label": 1,
+        "idx": 44813
+    },
+    {
+        "question": "In 1863, why was Aboriginal population declining?",
+        "sentence": "These were Native Americans of the Laurentian valley—the Algonquin, the Abenaki, the Huron, and others.",
+        "label": 0,
+        "idx": 84767
+    },
+    {
+        "question": "What was a benedit of laser read discs?",
+        "sentence": "Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.",
+        "label": 1,
+        "idx": 19063
+    },
+    {
+        "question": "What was the capital of China?",
+        "sentence": "By the late 19th century, the most conservative elements within the Qing court could no longer ignore China's military weakness.",
+        "label": 0,
+        "idx": 58878
+    },
+    {
+        "question": "What is a vacuum?",
+        "sentence": "The first release of the 45 came in seven colors: black 47-xxxx popular series, yellow 47-xxxx juvenile series, green (teal) 48-xxxx country series, deep red 49-xxxx classical series, bright red (cerise) 50-xxxx blues/spiritual series, light blue 51-xxxx international series, dark blue 52-xxxx light classics.",
+        "label": 0,
+        "idx": 103505
+    },
+    {
+        "question": "Charles de La Valette was a devoted and leading member of what party?",
+        "sentence": "Baird Television Ltd. made Britain's first television broadcast, on 30 September 1929 from its studio in Long Acre, London, via the BBC's London transmitter, using the electromechanical system pioneered by John Logie Baird.",
+        "label": 0,
+        "idx": 81156
+    }
+]

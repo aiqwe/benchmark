@@ -1,0 +1,122 @@
+[
+    {
+        "premise": "Or they try to get another person to do something'to hand them an object or help them perform a task'by reaching, pointing, and making sounds at the same time.",
+        "hypothesis": "I read many real stories after that first one.",
+        "label": 2,
+        "idx": 3985
+    },
+    {
+        "premise": "They can change the tone of people's voice yes.",
+        "hypothesis": "This is his first poem that touches on subjects of overcrowding and congestion. ",
+        "label": 2,
+        "idx": 7085
+    },
+    {
+        "premise": "When a young, unmarried woman like Cecilia becomes pregnant, the risks to her unborn child are very serious.",
+        "hypothesis": "He is indeed naive about the generic man",
+        "label": 1,
+        "idx": 7341
+    },
+    {
+        "premise": "Although few retailers have embraced the complete set of forecasting and inventory models described in this chapter, lean retailers are moving in that direction.",
+        "hypothesis": "Kids never try to imagine what God looks like. ",
+        "label": 1,
+        "idx": 8751
+    },
+    {
+        "premise": "SPEA's enviable reputation benefits everyone connected to the school -students, faculty, and most importantly, alumni.",
+        "hypothesis": "A philosophical meaning can be taken from onomatopoeia,",
+        "label": 0,
+        "idx": 9295
+    },
+    {
+        "premise": "This was done because of the organization of work in clothing shops; the low capital costs and high proportion of labor costs, especially in women's wear for contract shops; the intense product competition among manufacturers within and among geographic markets; and the diversity of products and changing styles.",
+        "hypothesis": "The Vice President listened eagerly for orders from the President.",
+        "label": 1,
+        "idx": 8632
+    },
+    {
+        "premise": "Take a step toward making a difference in the lives of our young woman and recommit to the Girl Scout vision.",
+        "hypothesis": "This was done because of how workers in clothing shops were organized.",
+        "label": 1,
+        "idx": 2175
+    },
+    {
+        "premise": "Black cover with white, black and white.",
+        "hypothesis": "I know he had pants.",
+        "label": 2,
+        "idx": 3614
+    },
+    {
+        "premise": "Obese is a compound of two Latin words, the prefix, ob - `over' + “dere\" eat.",
+        "hypothesis": "Investing in cathedral High Schol will allow the school to keep on with ts tradition of excellence.",
+        "label": 0,
+        "idx": 3212
+    },
+    {
+        "premise": "Because my family is by no means rich, but we never had that much trouble, so--.",
+        "hypothesis": "Bin Ladin had grievances with the United States starting with U.S. foreign policy.",
+        "label": 0,
+        "idx": 6161
+    },
+    {
+        "premise": "The increased volatility of producer and consumer prices in a number of sectors since 1995 has been attributed in part to the adoption of new inventory polices related to lean retailing.",
+        "hypothesis": "Someone told me about someone they knew who read some books.",
+        "label": 1,
+        "idx": 2253
+    },
+    {
+        "premise": "An amusing example of this kind of semantic confusion will be found in Chapter XX of Aldous Huxley's Crome Yellow .  From boyhood the romantic, poetically inclined hero, Denis Stone, found the word carminative particularly evocative.",
+        "hypothesis": "What a disgraceful moment, for example, to discover that one who has been tagged out at home plate is the victim of an out-throw.",
+        "label": 0,
+        "idx": 7552
+    },
+    {
+        "premise": "It had resumed its flight to Minnesota and saw the smoke from the crash of United 93, less than two minutes after the plane went down.",
+        "hypothesis": "Bin Laden was the most radicalized Muslim.",
+        "label": 2,
+        "idx": 9170
+    },
+    {
+        "premise": "The message, again, that I get from the story, for me personally, was that there would always be a special connection between me and God, and actually was just another of the ways my grandmother put for me to learn, or believe, that I could do anything, I could be anything, because I had a special connection and special protection, um, from not only her, which was more important for me at the time.",
+        "hypothesis": "Middle English at + on is the origin of Atone.",
+        "label": 0,
+        "idx": 4431
+    },
+    {
+        "premise": "Consider the following conversation between Mel and his 4-year-old son, Ben, as the pair took a summer-evening walk on a California beach near their home.",
+        "hypothesis": "For several weeks, I worked between 60 and 90 hours a week. ",
+        "label": 0,
+        "idx": 5465
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "The cloth must be spread in a single layer of thickness.",
+        "label": 2,
+        "idx": 7135
+    },
+    {
+        "premise": "Well, this story, and I must tell you, I haven't read this in The Bible, so I don't know if it's totally accurate, but I prefer to get it like  There was a huge crowd of people, and, um, Jesus decided that what he wanted to do was to, uh, entertain the little children.",
+        "hypothesis": "The form is confusing and cannot be comprehended. ",
+        "label": 2,
+        "idx": 8476
+    },
+    {
+        "premise": "Not really, that's all.",
+        "hypothesis": "Retailers try to be conscious of their starting budgets when looking at this.",
+        "label": 2,
+        "idx": 1700
+    },
+    {
+        "premise": "Because introducing changes at any step may unbalance the system as a whole, technological innovations have not easily found their way into the sewing room'which may be out of sync with what an integrated retail-apparel-textile channel requires.",
+        "hypothesis": "The Cleveland Center took the responsibilities from the control tower.",
+        "label": 0,
+        "idx": 8217
+    },
+    {
+        "premise": "We had a large tractor-trailer parked out front and uh, these guys all assembled to take the pews out of the church.",
+        "hypothesis": "The field was made 100 years ago.",
+        "label": 0,
+        "idx": 4555
+    }
+]

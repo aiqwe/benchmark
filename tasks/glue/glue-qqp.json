@@ -1,0 +1,122 @@
+[
+    {
+        "question1": "Which iPad shoud I buy?",
+        "question2": "Can I make a dough with only water and flour?",
+        "label": 1,
+        "idx": 69374
+    },
+    {
+        "question1": "What is a plagiarism checker?",
+        "question2": "How do I gain access to a private Instagram account?",
+        "label": 1,
+        "idx": 73256
+    },
+    {
+        "question1": "What sort of questions should NOT be asked on Quora?",
+        "question2": "What happen to gtbit case today?",
+        "label": 0,
+        "idx": 224410
+    },
+    {
+        "question1": "How are prime and composite numbers related?",
+        "question2": "Why don't airlines have parachutes for passengers?",
+        "label": 1,
+        "idx": 82686
+    },
+    {
+        "question1": "Will accountants be replaced by computers in 10 years from now?",
+        "question2": "If radius of earth is R/4 then number of days in one year will be?",
+        "label": 0,
+        "idx": 49665
+    },
+    {
+        "question1": "Why is Twitter down?",
+        "question2": "How do I get over the depression that is caused by low self esteem?",
+        "label": 0,
+        "idx": 87399
+    },
+    {
+        "question1": "Is Martin Shkreli a bad guy?",
+        "question2": "Charging my phone takes nearly 3 hrs to full…problem is with my phone or charger?",
+        "label": 0,
+        "idx": 68837
+    },
+    {
+        "question1": "How do I change the language in WhatsApp?",
+        "question2": "Can a bound morpheme be more than one syllable in length?",
+        "label": 1,
+        "idx": 62874
+    },
+    {
+        "question1": "What universities does Mercury General recruit new grads from? What majors are they looking for?",
+        "question2": "\"What are the Danish words with a lot of \"\"ø\"\"?\"",
+        "label": 1,
+        "idx": 246680
+    },
+    {
+        "question1": "How does a recruiting office make money?",
+        "question2": "How is GBO course of SRCC in terms of placement and faculty?",
+        "label": 0,
+        "idx": 123385
+    },
+    {
+        "question1": "What should I know to learn Android development?",
+        "question2": "What does the puberty exam consist of?",
+        "label": 0,
+        "idx": 125987
+    },
+    {
+        "question1": "How are design decisions made at medium?",
+        "question2": "What are your views on demonetization of 500 and 1000 rupee notes by the Modi Government?",
+        "label": 0,
+        "idx": 291530
+    },
+    {
+        "question1": "How do I fix the mic problem in xiaomi redmi 2 prime, the other person in call cannot hear my voice, please find some solution?",
+        "question2": "What are some of the most useful apps available on the App Store?",
+        "label": 0,
+        "idx": 286054
+    },
+    {
+        "question1": "\"Why do people use \"\"No Fat Chicks\"\" stickers?\"",
+        "question2": "Should I stop loving someone who doesn't love me?",
+        "label": 1,
+        "idx": 251189
+    },
+    {
+        "question1": "What is the first thing men look for in a woman?",
+        "question2": "What is the best business school in England?",
+        "label": 0,
+        "idx": 58380
+    },
+    {
+        "question1": "What is the best pomade for thick hair?",
+        "question2": "What is CCTV? Why is there a need for CCTV?",
+        "label": 0,
+        "idx": 161120
+    },
+    {
+        "question1": "What did Queen Elizabeth do about tensions between Catholicism and Protestantism in England?",
+        "question2": "What is the most dangerous city in United States and why?",
+        "label": 1,
+        "idx": 65639
+    },
+    {
+        "question1": "Can the packed aloe vera gel by Patanjali Ayurveda be used as a herbal hair styling gel?",
+        "question2": "Marekting strategies used by google?",
+        "label": 0,
+        "idx": 31851
+    },
+    {
+        "question1": "What are the advantages of being ugly?",
+        "question2": "How can you focus sound?",
+        "label": 1,
+        "idx": 9612
+    },
+    {
+        "question1": "What is a linguist's salary?",
+        "question2": "What are the best places to visit in Spain?",
+        "label": 1,
+        "idx": 201537
+    }
+]

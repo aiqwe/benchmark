@@ -1,0 +1,122 @@
+[
+    {
+        "sentence1": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.",
+        "sentence2": "The pot was too tall.",
+        "label": 0,
+        "idx": 524
+    },
+    {
+        "sentence1": "I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.",
+        "sentence2": "The man lifted the boy onto the man's bunk bed.",
+        "label": 1,
+        "idx": 166
+    },
+    {
+        "sentence1": "Jane knocked on Susan's door but she did not get an answer.",
+        "sentence2": "The bag of flour had to be moved first.",
+        "label": 1,
+        "idx": 250
+    },
+    {
+        "sentence1": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed.",
+        "sentence2": "The train was short, so it worked out.",
+        "label": 1,
+        "idx": 243
+    },
+    {
+        "sentence1": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.",
+        "sentence2": "I couldn't hear the announcement.",
+        "label": 0,
+        "idx": 395
+    },
+    {
+        "sentence1": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.",
+        "sentence2": "The opponents were very much in the majority.",
+        "label": 1,
+        "idx": 414
+    },
+    {
+        "sentence1": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",
+        "sentence2": "She was careful not to disturb her, undressing and climbing back into her mother's berth.",
+        "label": 1,
+        "idx": 263
+    },
+    {
+        "sentence1": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",
+        "sentence2": "Emma's mother's education had been managed by an excellent woman as governess.",
+        "label": 0,
+        "idx": 64
+    },
+    {
+        "sentence1": "Bob paid for Charlie's college education. He is very generous.",
+        "sentence2": "The building is very good.",
+        "label": 1,
+        "idx": 577
+    },
+    {
+        "sentence1": "Joan made sure to thank Susan for all the help she had given.",
+        "sentence2": "The fish was tasty.",
+        "label": 1,
+        "idx": 351
+    },
+    {
+        "sentence1": "The firemen arrived before the police because they were coming from so far away.",
+        "sentence2": "The mouse was too impatient.",
+        "label": 1,
+        "idx": 3
+    },
+    {
+        "sentence1": "Sid explained his theory to Mark but he couldn't understand him.",
+        "sentence2": "Anyone who knew that he was 19 years old could take his claim away from the government official.",
+        "label": 0,
+        "idx": 228
+    },
+    {
+        "sentence1": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.",
+        "sentence2": "Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Grandma to the table.",
+        "label": 1,
+        "idx": 405
+    },
+    {
+        "sentence1": "The trophy doesn't fit into the brown suitcase because it is too small.",
+        "sentence2": "Mr. Schmidt needed to get him to finish his work, because his work was beautiful.",
+        "label": 1,
+        "idx": 254
+    },
+    {
+        "sentence1": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.",
+        "sentence2": "John was hungry.",
+        "label": 1,
+        "idx": 202
+    },
+    {
+        "sentence1": "Fred watched TV while George went out to buy groceries. After an hour he got up.",
+        "sentence2": "The journalists were very cooperative, so the interview lasted for a long time.",
+        "label": 0,
+        "idx": 164
+    },
+    {
+        "sentence1": "The fish ate the worm. It was hungry.",
+        "sentence2": "The painting is to the right of the bookcase.",
+        "label": 0,
+        "idx": 456
+    },
+    {
+        "sentence1": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.",
+        "sentence2": "Isn't it nice that the two guitars and a bag have come, Mama!\"",
+        "label": 1,
+        "idx": 410
+    },
+    {
+        "sentence1": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",
+        "sentence2": "Mary tucked her daughter Anne into bed, so that Mary could sleep.",
+        "label": 0,
+        "idx": 103
+    },
+    {
+        "sentence1": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",
+        "sentence2": "The axe is too small.",
+        "label": 0,
+        "idx": 354
+    }
+]

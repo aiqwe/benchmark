@@ -1,0 +1,342 @@
+[
+    {
+        "ind": 30312,
+        "activity_label": "Finance and Business",
+        "ctx_a": "A person picks up a cookie and holds it into a glass of milk. They mix ingredients into a large clear bowl. They add chocolate chunks to the dough.",
+        "ctx_b": "",
+        "ctx": "A man is working inside a garage. he",
+        "endings": [
+            "see the crowd set up holding microphones.",
+            "see the men play a hand of pong.",
+            "see another member of the band.",
+            "see the referee in the corner."
+        ],
+        "source_id": "activitynet~v_VR19Scunfhg",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 14225,
+        "activity_label": "Shuffleboard",
+        "ctx_a": "[header] How to measure the height of horses [title] Purchase a horse measuring stick marked with hand measures. [step] If a horse measuring stick is not available, a standard measuring tape is acceptable. [substeps] Horse measuring sticks can be found at equestrian supply stores (tack shops), farm supply stores and from various online retailers.",
+        "ctx_b": "",
+        "ctx": "[header] How to use plants to keep mosquitoes away [title] Grow catnip in your yard if you don't mind cats. [step] Some people find that catnip is even better at repelling mosquitoes than chemicals, such as deet. Best of all, catnip is safe.",
+        "endings": [
+            "then roll the dough into balls and wraps them around them.",
+            "add frosting to the balls.",
+            "twist the dough on a spatula to make them smoky.",
+            "put the cookie sheet into the oven."
+        ],
+        "source_id": "activitynet~v_1RQ27XZKU1E",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 8134,
+        "activity_label": "Health",
+        "ctx_a": "[header] How to live with allergies to pollen [title] Stay inside when pollen counts are high. [step] Check pollen forecasts to find out when there's a high pollen count in your area. When the pollen count is high, it's best for you to avoid outdoor activities as much as possible.",
+        "ctx_b": "the man",
+        "ctx": "The young man is wiping his hair with towel. The young man is blow drying his hair, rubbing his hair with blow dry. the young boy",
+        "endings": [
+            "On another hand, the description doesn't have to be lengthy. Using 3 to 4 paragraphs should be fine, but grab as many sentences as you can that express the benefits and conditions of your product.",
+            "If you are being told to buy something, write the introduction in a concise manner. [substeps] For example, you might write: \" this product will bring them pleasure for a long time.",
+            "[title] Describe the product in as much detail as possible. [step] If you don't include enough detail, you will appear overly vague.",
+            "Longer descriptions don't work because the important details get lost in the text and most customers won't read the whole thing. [title] Use vivid but simple words in the description."
+        ],
+        "source_id": "wikihow~18951",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 44113,
+        "activity_label": "Work World",
+        "ctx_a": "A person is riding inside a boat on the water.",
+        "ctx_b": "one man",
+        "ctx": "[header] How to accept that you don't make friends easily [title] Stop beating yourself up. [step] Worrying about your social life won't change anything, so try to relax. Think positively instead of punishing yourself with.",
+        "endings": [
+            "[substeps] You might hand the customer a copy of the title certificate before handing it back to the buyer. You want to make sure you have all the completed sections on the certificate to file with the court.",
+            "[title] Dispute any dispute you have with the other person's name. [step] Regardless of whether or not you want to sue, you should attempt to improve your chances of success with the name change by informing the person's owner that the name has not been removed.",
+            "You may choose to say \" john smith \" or \" hudson h. jackson \" separately if you wish to avoid additional confusion.",
+            "The new \" buyer \" will then take the completed title to the department of motor vehicles (dmv) and complete the steps for issuing a new title. [title] Check the names currently on the title."
+        ],
+        "source_id": "activitynet~v_IWuiVS3-Z7k",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 45248,
+        "activity_label": "Paintball",
+        "ctx_a": "They all begin their journey down the rapids as the water starts getting more turbulent. They continue going along the with water current as they flow steadily through the water.",
+        "ctx_b": "",
+        "ctx": "[header] How to check someone's breathing rate (rate of respiration ) [title] Count the breaths. [step] Breathing is measured in breaths per minute or bpm. To get an accurate measurement, the person must be at rest.",
+        "endings": [
+            "[title] While unplugging the tree from the power outlet, cut the strand of lights that you just disconnected from the power outlet. [step] Be very careful not to cut the wires off.",
+            "[step] They might not come off very easily, as they themselves may be wrapped up between the branches or may be stuck to some of the branches. As you pull the strand off from the tree, let these lay gently in an unused travel path that is free from the movement of any sources of other people.",
+            "[title] Remove any electrical lines from the circular tie that was holding the lights in place. [title] Cut the wrap that is being wrapped around the strand to prevent fraying.",
+            "[title] Take safety precautions : [step] If you leave a strand underneath a branch of a tree, it could tip and fall while you're using the cord. [substeps] While securing the strand, place a specific absorbent power cord around it so it is stationary and out of the way of nearby trees."
+        ],
+        "source_id": "wikihow~14664",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 249,
+        "activity_label": "Work World",
+        "ctx_a": "[header] How to appreciate curves on a woman [title] Dating a woman with a curvy figure feels better for you. [step] When you have a cuddle with her while watching a movie, for instance, it feels better without a bone jabbing you in your side. Appreciate that a woman with curves has a generally softer body with less bony areas making her more cuddly and huggable.",
+        "ctx_b": "",
+        "ctx": "[header] How to make pan sauce for chicken [title] Season the chicken breasts. [step] For a meal large enough for four, you'll need 4 chicken breasts. Sprinkle as much salt and freshly ground black pepper as you'd like over both sides of the breasts so they're nicely seasoned.",
+        "endings": [
+            "[substeps] The eyes serve as a guide since the goalie won't be able to accurately gauge which direction the ball will travel. It's also much easier to see a goalie shooting a penalty kick if he's holding a tennis ball in his hand.",
+            "Here's a refresher on how to spot the goalie's eyes : [substeps] Look at his chest. He usually has one arm in front of him, but you can watch his chest as well.",
+            "[substeps] If a shooter continually looks at a certain area of the goal, this could be where he intends to kick the ball. A shooter's eye may also give smaller clues.",
+            "Make some notes about how the shooter signals. [substeps] Studies have shown that while defenders are more prone to eye contact, goalies are more observant of their players."
+        ],
+        "source_id": "wikihow~7216",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 36554,
+        "activity_label": "Health",
+        "ctx_a": "A man drives his car to the beach. He gears up for the surf.",
+        "ctx_b": "",
+        "ctx": "[header] How to avoid feeding your cat harmful people foods [title] Do not give your cat onions, garlic, or chives. [step] Onions, garlic, and chives contain properties that can cause anemia if consumed by your cat. This can also lead to jaundice and damage your cat's red blood cells.",
+        "endings": [
+            "[step] Let the beef cook undisturbed. [title] Drain the oil from the flank steak.",
+            "[step] Spread each piece of steak slowly and evenly. [title] Lightly flip the steak slowly to prevent sticking in the pan.",
+            "[step] Check on the steak for doneness. Pierce the underside of the loin or flank meat with a dull knife, depending on preference.",
+            "[step] Remove the pan and steak and place the steak on a chopping board. [title] Rub the steak with the olive oil."
+        ],
+        "source_id": "wikihow~40585",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 39723,
+        "activity_label": "Clipping cat claws",
+        "ctx_a": "[header] How to fit golf clubs [title] Measure your height. [step] Clubs are matched to your height and the distance between your hands and the ground. To find the right size clubs for your body, use recent height measurement to determine the proper angle for your clubs.",
+        "ctx_b": "",
+        "ctx": "[header] How to get world series tickets [title] Be prepared to pay a large amount for tickets. [step] During some world series matches, a standing-room only ticket can go for $650 on the secondary market. This means that seats in the arcade can be sold for several thousand dollars.",
+        "endings": [
+            "does handstands and flips and jumps off to finish his routine.",
+            "jumps down with his arms down and then begins walking towards the center of the stage while changing his legs.",
+            "jumps up to the floor and hops up playing with stances and jumping in sequence for when.",
+            "finishes and walks away."
+        ],
+        "source_id": "activitynet~v_4Mo-IYfNKBo",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 588,
+        "activity_label": "Swimming",
+        "ctx_a": "[header] How to write a medical research proposal [title] Collect source material and potential project sources. [step] In this initial stage, you will be looking at how you will implement a project and from where you will get relevant data. [title] Develop a plan.",
+        "ctx_b": "",
+        "ctx": "An older man passes a ball to a group of small kids and eventually kicks the ball. The man runs as other kids run and runs all the way to home plate. a woman",
+        "endings": [
+            "takes the contact case out, checks the settings and cuts it.",
+            "then puts a contact into the lens and begins screwing it on.",
+            "then mixes the liquids with the contacts and puts them slowly into his eye while looking at the camera.",
+            "then puts the tool in his goggles and prints out the contact lenses."
+        ],
+        "source_id": "wikihow~52503",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 28073,
+        "activity_label": "Playing rubik cube",
+        "ctx_a": "The second woman is shown stretching her leg in the air. The first woman is shown performing gymnastics once more.",
+        "ctx_b": "",
+        "ctx": "A group of surfers are on their boards surfing waves. One of the surfers is swallowed by one of the waves. two surfers",
+        "endings": [
+            "continue playing for the remainder of the game.",
+            "compete again at the blue diamond, taking turns doing throw after throw after throw.",
+            "play arm wrestling for the camera.",
+            "return to the goal and fight to get to one another."
+        ],
+        "source_id": "activitynet~v_t-8wEopB3AQ",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 33943,
+        "activity_label": "Home and Garden",
+        "ctx_a": "[header] How to become a bail bondsman [title] Find out your state's private bail bond policy. [step] Check to see if the state where you plan to work as a bail bondsman allows private bail bonds for posting bail. Some states do not allow private bonds, and a few other states have special guidelines regarding private bonds.",
+        "ctx_b": "they",
+        "ctx": "There are several body builders showing their weight training exercises with weight bars and arm wrestling techniques. two of the body builders arm",
+        "endings": [
+            "[step] Place them together in a bowl and use a spoon to mix up the buds and butter, making sure each piece is coated with fat. You want the grounds to be completely coated, but not soaked in butter; too much will inhibit the release of thc.",
+            "[step] Combine two tablespoons (59.6 ml) of butter with 1 teaspoon (4 g) of ground black pepper. Spread this mixture over the marijuana buds, and let it sit for several minutes.",
+            "[step] Pour the liquid ingredients from the grinder into a blender or food processor, then pulse the contents until well mixed. [title] Punch holes in the buds with a fork.",
+            "[step] Pour the softened butter into the potting mix. Press the buds down with your finger to blend them together without flaking off."
+        ],
+        "source_id": "activitynet~v_1Cdqwg7Giv4",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 31547,
+        "activity_label": "Disc dog",
+        "ctx_a": "A young man is seen sitting in front of a drum kit and begins playing the set of drums for the camera.",
+        "ctx_b": "",
+        "ctx": "[header] How to locate the asin to an audible audiobook [title] Open up the audible website and log in to your account, if you haven't already done so. [step] The search box you'll need is only available if you log in to audible's site. However, this should be easy; if you have an amazon.com account, you'll also have access to audible.com.",
+        "endings": [
+            "[substeps] Fresh kefir seeds only come in 3 fresh to err. Powdered kefir grains can be purchased from either fresh red peppers or powdered ramekins.",
+            "[substeps] If you use debaters to buy kefir, you're not able to extract a whole kefir version. However, you can harvest kefir from storing foods such as canned beans, ice cream, produce, and cooked foods and produce.",
+            "Dried (kefir is hard but still absorbs many combats from the foods it eats), kefir diets are trans-processed and often cow's milk. Wheat the labels and source food allergens are soonized from the food.",
+            "Powdered cultures, consisting of dormant yeast and bacteria, are a more convenient option that can be stored easily and do not have to be monitored. However, the powdered form does expire and needs to be repurchased periodically."
+        ],
+        "source_id": "wikihow~34650",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 5155,
+        "activity_label": "Health",
+        "ctx_a": "A boy enters the scene and pulls on a pair of gloves while wearing a sports protective mask, turns on a blue machine on the back steps and picks up a solder.",
+        "ctx_b": "",
+        "ctx": "A person's feet is seen moving along the water and closes in on others riding in tubes. Two people are seen sitting in front riding tubes through the jungle. the person's feet",
+        "endings": [
+            "These situations include public speaking, presentations, meeting new people, and having social interactions. Someone who has sad might respond to such a situation by : [substeps] Experiencing intense anxiety avoiding the situation exhibiting physical symptoms of anxiety, such as blushing, shaking, or vomiting [title] Differentiate between normal anxiety and social anxiety.",
+            "Someone who has sad often experiences fear of being judged or seen. Sadness can be natural or manifest in a variety of ways.",
+            "[substeps] Sad symptoms are characterized by hyper-fear of situations or people. You may have marked bodily images of people or places you have met or tried to interact with.",
+            "Sad can be acquired from trauma, illness, and social situations, so it's important to learn about your symptoms. [substeps] There are six symptoms, or cases that begin with sadness and progress into depression: fear, panic, anxiety, loss of control, and extreme fatigue."
+        ],
+        "source_id": "wikihow~78385",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 29796,
+        "activity_label": "Hand car wash",
+        "ctx_a": "[header] How to make cream cheese icing [title] Choose full-fat cream cheese. [step] Avoid low-fat, whipped, or spreadable cream cheeses, as these can lead to runny frosting. This means neufchâtel cheese is out, too (you'll probably see it right next to the cream cheese), as its fat content is too low.",
+        "ctx_b": "",
+        "ctx": "[header] How to be a sugary sweet and lovable flirt [title] Wear colorful floral tops. [step] , hollister, urban outfitters, and forever 21. Outfit example: a cute floral tank top, a pair of denim short-shorts, pink flip-flops, and a fun necklace.",
+        "endings": [
+            ") by the year in which you obtained the land, and how long you wait for payment. [substeps] Once you have figured out the amount, use that as a guideline.",
+            ") in order to find the value of your property as a whole. Consider the following : [substeps] You cannot start with a simple down payment.",
+            "), as well as the months that you were unable to make the payments. [substeps] Each time you make a mortgage, you will need to subtract the following from your net expenses: home equity interest, vacation pay, expenses for meals and healthcare (e.g.",
+            ") and then will determine how much you can afford to spend on a monthly mortgage payment. These calculations also take into account interest rates, mortgage terms and amortization."
+        ],
+        "source_id": "wikihow~36815",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 24348,
+        "activity_label": "Health",
+        "ctx_a": "[header] How to clean food coloring off skin [title] Wash the stain with warm water and soap. [step] Be sure to rub the area with soap to get a good lather. Sometimes, this is all you need in order to get the dye off.",
+        "ctx_b": "",
+        "ctx": "[header] How to install ceramic wall tile [title] Make sure your wall is ready to go. [step] Once you've removed the current wall dressings and wall items, like light switch covers, you'll want to check the base layer that you will be building on to make sure that it is structurally sound. This is important, since a rotting or weak wall can cause your tiling job to warp, crack, or even break and fall down.",
+        "endings": [
+            "Remember to treat this puppy right, and in the coming weeks, you can ease his stress with some of these techniques : [substeps] Walk your dog to the vet for regular veterinary exams every so often to check on his health. Avoid places your dog usually associate with feeling anxiety.",
+            "However, just being present during an event offers a feeling of safety for your dog, and also enables him to feel less anxiety. [substeps] Your dog can learn to recognize you more in human interactions, if you make it a habit.",
+            "However, even needing to spend a few minutes every day protecting your dog during an operation can be reinforcing anxiety. Try training your dog to redirect his response to what is about to happen.",
+            "Unfortunately, your dog can pick up on your anxiety, making him feel like the situation is out of control, amplifying his anxiety. [substeps] Don't give your dog treats or respond with hugging or petting."
+        ],
+        "source_id": "wikihow~11495",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 6241,
+        "activity_label": "Finance and Business",
+        "ctx_a": "[header] How to wind up an estate [title] Pay executor fees. [step] As executor, you have the right to compensate yourself before distributing assets to the beneficiaries. This is usually discussed earlier in the estate settlement process, but it is crucial to make sure this is taken care of at this stage.",
+        "ctx_b": "the guys",
+        "ctx": "[header] How to make nettle tea [title] Gather young, spring nettles. [step] Plan your expedition in the spring, before they've flowered. Some think that nettles taste bitter and unpleasant after they've flowered.",
+        "endings": [
+            "( you shouldn't touch the brew, but washing your hands is a good idea too. ) [title] Using a clean 2 liter (0.53 us gal) bottle and a dry funnel, add the ingredients in sequence as stated in the steps that follow.",
+            "[title] Make sure you have a small bowl or cup as well as a pot large enough to hold the beer. [step] Ideally, you would have a larger pot, but measuring cups are better.",
+            "You can also boil them in boiling water if the pot gets a bit wet. [substeps] It is wise to sterilize all pots, such as hand soaker or evening soaker.",
+            "[title] Measure the current volume of the beer into a measuring cup. [step] Change the measuring cup every three days or whenever you acquire your desired quality of beer."
+        ],
+        "source_id": "wikihow~20948",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 27341,
+        "activity_label": "Zumba",
+        "ctx_a": "[header] How to use foursquare for business [title] Sign in to foursquare. [step] To use all the business features of foursquare, you must sign up with foursquare. [substeps] Visit the sign up page at https: // foursquare.com/signup to register an account with foursquare.",
+        "ctx_b": "",
+        "ctx": "A health professional washers her hands with soap in a sink. The woman scrubs between the fingers thoroughly. the hands",
+        "endings": [
+            "Instead, you'll need to watch and ensure that nothing goes wrong medically. Here are things to look for : [substeps] The kitten is not freed from the birth sac: the kittens usually emerge in individual birth sacs that the mother then licks away.",
+            "A mother will feed her kitten but really gives her the space she needs during the pregnancy. When a kitten is left alone in labor for more than 10 hours, she loses normal maternal control to all aspects of the pregnancy.",
+            "[substeps] If she always tries to head off labor at the same time as she stops nursing, which suggests she's absorbed a bit of milk, she may be a nursing kitten. If that's the case, that can be the sign of a nursing kitten because of the thickened placenta around the breast, also known as her uterus.",
+            "[substeps] Move with her close to the mother when she is pregnant and you will have more freedom during the birthing process. They will just be too fussy to manage once they get born."
+        ],
+        "source_id": "activitynet~v_ZYAY3TEUjGI",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 13884,
+        "activity_label": "Relationships",
+        "ctx_a": "[header] How to grow lavender from seed [title] Start the seeds 6 to 12 weeks before warm weather hits. [step] Lavender seeds can take a while to germinate and should be started early indoors so that they have plenty of time to grow into mature plants during the warm growing season. [title] Put the seeds through a process called \" cold stratifying.",
+        "ctx_b": "",
+        "ctx": "[header] How to find a path in life [title] Be positive. [step] You need to look at your choices with a good frame of mind. If you don't look for a solution to your problem, it will be difficult to find it.",
+        "endings": [
+            "[substeps] Too warm a soil environment can cause roots to rot quickly and harm the spaghetti squash once ready for seed. Despite their variety and with healthy root systems, potted squash doesn't take long to sprout.",
+            "[substeps] Always make sure your squash are given at least six to eight hours of sunlight a day while they're rooting. [title] Keep the squash out of direct sun.",
+            "But starting your seedlings indoors is a common way for gardeners to start their squash plants. [title] Plant your seeds inside about a month before your local last frost date.",
+            "Aim for 4-6 days in the summer and 3-4 days after. Temperatures will fluctuate on a year-round basis, so create a time chart to track how warm you are during the growing season."
+        ],
+        "source_id": "wikihow~65521",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 10042,
+        "activity_label": "Food and Entertaining",
+        "ctx_a": "A man is practicing hitting a ball with a stick on a field. He continues to hit the ball onto the field.",
+        "ctx_b": "she",
+        "ctx": "A man is seen kneeling in a gym. He leans forward several times. he",
+        "endings": [
+            "runs forward and kicks a football.",
+            "walks past a window.",
+            "runs around a field dodging a man in a red shirt.",
+            "throws a disc onto the field."
+        ],
+        "source_id": "wikihow~11189",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 17678,
+        "activity_label": "Education and Communications",
+        "ctx_a": "A man is shown clapping his arms up and down and holding a pole in his hands.",
+        "ctx_b": "a baking parchment",
+        "ctx": "Boats are going through the water. A storm hits and a man is crying. the boats",
+        "endings": [
+            "[step] Double check just to make sure the combined weight is proper. [title] Look at the weight on the scale and write it down on paper.",
+            "[step] Hold it until you feel confident that it is securely in your arms. [title] Compare it with your local weight and weigh you.",
+            "[title] Position your weight on top of the weight scale. [title] Scoop the rabbit up and place it on a scale small enough to weigh both you and the rabbit.",
+            "[step] The rabbit will lift your weight as though it were a newborn child. [title] Place the rabbit on the scale with its belly down."
+        ],
+        "source_id": "wikihow~35226",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    }
+]

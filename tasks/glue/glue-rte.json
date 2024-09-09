@@ -1,0 +1,122 @@
+[
+    {
+        "sentence1": "By the time a case of rabies is confirmed, the disease may have taken hold in the area.",
+        "sentence2": "Pamuk won a Nobel Prize.",
+        "label": 0,
+        "idx": 226
+    },
+    {
+        "sentence1": "Iran will hold the first runoff presidential election in its history, between President Akbar Hashemi Rafsanjani and Tehran's hard-line mayor, election officials said Saturday.",
+        "sentence2": "High-velocity clouds are made up of hydrogen.",
+        "label": 0,
+        "idx": 1276
+    },
+    {
+        "sentence1": "Rehnquist served longer as chief justice than anyone in a century, and his 33-year career as a justice was among the half-dozen longest in the court's history.",
+        "sentence2": "Yunus supported more than 50,000 Struggling Members.",
+        "label": 1,
+        "idx": 239
+    },
+    {
+        "sentence1": "Qwest's revised bid, which did not offer more cash for MCI stock as expected, was deemed disappointing by one major MCI shareholder, and Qwest's shares fell more than 8 percent.",
+        "sentence2": "Everglades National Park is located in Florida.",
+        "label": 0,
+        "idx": 1139
+    },
+    {
+        "sentence1": "The Salt Lake City 2002 Winter Olympics will take place from February 8th to February 24th 2002. The Paralympics will take place in Salt Lake City from March 7th to March 16th 2002.",
+        "sentence2": "There was an international book fair in Cuba in 2005.",
+        "label": 0,
+        "idx": 2344
+    },
+    {
+        "sentence1": "At approximately 3:20 p.m., an unnamed caller reported sight of the suspects on a near street, East 27th Street, causing police to create a blockade, surrounding the suspect. This is where the other two officers were shot, this time in an exchange of gunfire while attempting to take the alleged shooter of the two officers into custody. The suspect was killed by police gunfire. The suspects name was Lovelle Mixon, aged 26, who had a warrant issued for his arrest after his bail was revoked for violation of parole. All four of the officers were taken to Highland Hospital in critical condition where they all later died of their injuries. There names were: Sargent Erv Romans, aged 43, Sargent Dan Sakai, 35, John Hege aged 41 and Mark Dunakin, 40.",
+        "sentence2": "Three quarters of U.S. illegal immigrants have children.",
+        "label": 0,
+        "idx": 1958
+    },
+    {
+        "sentence1": "Typhoon Chanchu, packing winds up to 170 kph (106 mph) and the strongest typhoon on record to enter the South China Sea in May, made landfall between the cities of Shantou and Xiamen and was advancing northeast, the Hong Kong Observatory said.",
+        "sentence2": "Total participated in the oil-for-food programme.",
+        "label": 0,
+        "idx": 1560
+    },
+    {
+        "sentence1": "Heaney had joined 'a distinguished group of Irishmen , who have been honoured with this prize for their contribution to Irish literature in the twentieth century.'",
+        "sentence2": "Moussaoui participated in the Sept. 11 attacks.",
+        "label": 0,
+        "idx": 2020
+    },
+    {
+        "sentence1": "In 2005, Leland Yee, a California State Senator (in District 8 which includes the western half of San Francisco and most of San Mateo County), Speaker pro Tempore of the Assembly (D-San Francisco/Daly City), introduced California Assembly Bills 1792 & 1793 which barred \"ultra-violent\" video games from minors under the age of eighteen in California and mandated the application of ESRB ratings for video games. \"California Assembly Bills 1792 & 1793\" were commonly called the \"ultraviolent video games bills\" or simply \"video game ban\" bills. Bill 1792 banned the sales of such video games while Bill 1793 required signs explaining the regulations on said games to be placed where such were sold. Both bills were passed by the Assembly and signed by Governor Arnold Schwarzenegger into law (AB 1179) on October 7, 2005.",
+        "sentence2": "Doug Lawrence sold the impressionist oil landscape by J. Ottis Adams",
+        "label": 1,
+        "idx": 2170
+    },
+    {
+        "sentence1": "Reagan was seriously wounded by a bullet fired by John Hinckley Jr.",
+        "sentence2": "National pension systems currently adopted in Europe are in difficulties.",
+        "label": 0,
+        "idx": 418
+    },
+    {
+        "sentence1": "The sale was made to pay Yukos' US$ 27.5 billion tax bill, Yuganskneftegaz was originally sold for US$ 9.4 billion to a little known company Baikalfinansgroup which was later bought by the Russian state-owned oil company Rosneft .",
+        "sentence2": "Aldrich Hazen Ames is married to Rosario Casas Ames.",
+        "label": 1,
+        "idx": 1032
+    },
+    {
+        "sentence1": "Government forces killed the head of the Armed Islamic Group, or GIA, which has claimed responsibility for killing 61 foreigners in the last year.",
+        "sentence2": "French is the most widely spoken language in Québec.",
+        "label": 1,
+        "idx": 2298
+    },
+    {
+        "sentence1": "Harvey Weinstein, the co-chairman of Miramax, who was instrumental in popularizing both independent and foreign films with broad audiences, agrees.",
+        "sentence2": "Gbagbo is a competitor of Ouattara.",
+        "label": 1,
+        "idx": 1846
+    },
+    {
+        "sentence1": "Every year, about a quarter of all children sustain an injury serious enough to require medical attention, school absences, and/or bed rest.",
+        "sentence2": "Guillermo Ortiz was born in Mexico.",
+        "label": 0,
+        "idx": 617
+    },
+    {
+        "sentence1": "Vodafone's share of net new subscribers in Japan has dwindled in recent months.",
+        "sentence2": "Annual rate increase of 3% in second quarter much lower than forecasts.",
+        "label": 1,
+        "idx": 890
+    },
+    {
+        "sentence1": "In 1997, insurance companies paid out $51.6 billion for prescription drugs.",
+        "sentence2": "Arizona and 17 other states received a C in the field of mental-care health.",
+        "label": 0,
+        "idx": 322
+    },
+    {
+        "sentence1": "Scripps Memorial Hospital Encinitas emergency room doctors and nurses treat two to three injured surfers.",
+        "sentence2": "An Italian director is awarded an honorary Oscar.",
+        "label": 1,
+        "idx": 19
+    },
+    {
+        "sentence1": "In documents they filed with the U.S. District Court for the District of Columbia, government lawyers argued that three inmates who committed suicide last month by hanging themselves coordinated their actions by using attorney-client confidentiality to communicate with each other. Government officials said that among papers marked \"Attorney Client Privilege\" were instructions on how to tie knots and a classified memo on camp activities and inmate locations.",
+        "sentence2": "Sweden is the European country with the highest birth rate.",
+        "label": 0,
+        "idx": 765
+    },
+    {
+        "sentence1": "Most of Grameen Bank's borrowers use the small loans to start businesses by, for instance, buying a cow to produce milk, or a rickshaw, or materials to make cloth or pottery.",
+        "sentence2": "Lakers win the championship.",
+        "label": 0,
+        "idx": 1408
+    },
+    {
+        "sentence1": "Last week, LTTE leader Vilupillai Prabhakaran stated that the rebels are running out of patience and are prepared to go back to war.",
+        "sentence2": "Southwest Airlines operates in New Orleans.",
+        "label": 0,
+        "idx": 466
+    }
+]
