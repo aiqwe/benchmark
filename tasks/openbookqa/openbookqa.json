@@ -1,0 +1,382 @@
+[
+    {
+        "id": "12-444",
+        "question_stem": "A bee may be vital for",
+        "choices": {
+            "text": [
+                "penguins",
+                "snakes",
+                "turtles",
+                "kittens"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "7-525",
+        "question_stem": "if a person remotely controls a machine to do something, which of these is required?",
+        "choices": {
+            "text": [
+                "flying",
+                "money",
+                "restaurants",
+                "sustenance"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "12-960",
+        "question_stem": "If the trees in an area are growing in soil rich with a certain vitamin, what might happen?",
+        "choices": {
+            "text": [
+                "damp spot",
+                "a curl",
+                "some ice",
+                "a singe mark"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "11-446",
+        "question_stem": "What has a positive impact on a living things health?",
+        "choices": {
+            "text": [
+                "access to food lacking in nutrients",
+                "access to dirty, tainted water",
+                "access to viable and required items",
+                "access to roadways and highways"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "14-773",
+        "question_stem": "What will increase as the animal eats more food?",
+        "choices": {
+            "text": [
+                "one might happen upon a wild dinosaur in its home",
+                "one might happen upon a wild shark in a forest",
+                "one might happen upon a wild eagle in a van",
+                "one might happen upon a wild osprey in a forest"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "10-82",
+        "question_stem": "Because a logging company has been working here the area has more",
+        "choices": {
+            "text": [
+                "Is used for grinding metal",
+                "is an oil machine",
+                "is an electric Motor",
+                "is a battery operated machine"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "14-1355",
+        "question_stem": "A tree must die",
+        "choices": {
+            "text": [
+                "hot remains",
+                "fresh remains",
+                "wet remains",
+                "skeletal remains"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "13-120",
+        "question_stem": "If a tree is cut down what will happen to it?",
+        "choices": {
+            "text": [
+                "whimper",
+                "Rot",
+                "die",
+                "cook"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "12-772",
+        "question_stem": "Which relationship is accurate?",
+        "choices": {
+            "text": [
+                "air",
+                "hotness",
+                "electricity",
+                "cold"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "9-1106",
+        "question_stem": "Water vapor condensing in clouds may cause",
+        "choices": {
+            "text": [
+                "plants",
+                "eukaryotes",
+                "apes",
+                "amoebas"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "11-632",
+        "question_stem": "Winter in the Northern Hemisphere",
+        "choices": {
+            "text": [
+                "Run a mile",
+                "Swim",
+                "bake a bagel",
+                "Rock climb"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "12-367",
+        "question_stem": "An animal that perhaps uses light to it's advantage is",
+        "choices": {
+            "text": [
+                "living regions",
+                "time travel",
+                "space",
+                "Jupiter"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "14-538",
+        "question_stem": "Disregarding nuclear holocausts, how many suns will be in the sunset?",
+        "choices": {
+            "text": [
+                "a pond with more fish",
+                "a pond of less size",
+                "water level fluctuations constantly",
+                "frogs in the pond"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "11-652",
+        "question_stem": "High surface air temperatures, arid conditions, land overuse and over-population can all contribute to",
+        "choices": {
+            "text": [
+                "white paper",
+                "mirrors",
+                "coal",
+                "water"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "12-823",
+        "question_stem": "An Afghan Hound get all its hair from",
+        "choices": {
+            "text": [
+                "muscles crumple",
+                "ribs guard it",
+                "hearts are stone",
+                "hearts are hollow"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "12-258",
+        "question_stem": "If above your head in the out of doors is gray during the daylight hours then the likeliest need for your travels that day would be",
+        "choices": {
+            "text": [
+                "habits.",
+                "money",
+                "nose",
+                "thoughts"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "12-636",
+        "question_stem": "What could be a conductor of energy?",
+        "choices": {
+            "text": [
+                "Bees making nectar",
+                "bees making honey.",
+                "bees stinging human",
+                "Bees collecting nectar"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "13-156",
+        "question_stem": "What is least likely to absorb light?",
+        "choices": {
+            "text": [
+                "cloud formation",
+                "condensation",
+                "transpiration",
+                "precipitation"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "7-110",
+        "question_stem": "If you eat a lot of chicken your body has what it needs to",
+        "choices": {
+            "text": [
+                "cobalt",
+                "wood",
+                "styrofoam",
+                "paper"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "10-775",
+        "question_stem": "Which relationship is true?",
+        "choices": {
+            "text": [
+                "pluto",
+                "the moon",
+                "the milky way",
+                "the sun"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    }
+]

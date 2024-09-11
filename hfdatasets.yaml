@@ -327,7 +327,24 @@ bigbench:
   hf_url: https://huggingface.co/datasets/google/bigbench
   paper: https://arxiv.org/pdf/2206.04615
 
+logiqa:
+  <<: *default
+  path: EleutherAI/logiqa
+  name:
+  hf_url: https://huggingface.co/datasets/EleutherAI/logiqa
+  paper: https://arxiv.org/pdf/2007.08124
 
+lambada:
+  <<: *default
+  path: EleutherAI/lambada_openai
+  hf_url: https://huggingface.co/datasets/EleutherAI/lambada_openai
+  paper: https://arxiv.org/pdf/1606.06031
+
+openbookqa:
+  <<: *default
+  path: allenai/openbookqa
+  hf_url: https://huggingface.co/datasets/allenai/openbookqa
+  paper: https://arxiv.org/pdf/1809.02789
 
 
 
