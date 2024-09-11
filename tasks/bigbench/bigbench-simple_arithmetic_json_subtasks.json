@@ -1,0 +1,195 @@
+[
+    {
+        "idx": 0,
+        "inputs": "Q: 5 + 0 =",
+        "targets": [
+            "nine",
+            "9"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: 3 + 3 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: 6 + 4 =",
+        "targets": [
+            "6",
+            "six"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: 0 + 4 =",
+        "targets": [
+            "nine",
+            "9"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: 3 + 3 =",
+        "targets": [
+            "5",
+            "five"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: 5 + 0 =",
+        "targets": [
+            "four"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: 1 + 4 =",
+        "targets": [
+            "thirteen"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: 0 + 4 =",
+        "targets": [
+            "5",
+            "five"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: 4 + 9 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6,
+        "inputs": "Q: 5 + 6 =",
+        "targets": [
+            "5",
+            "five"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 5 + 2 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: 8 + 1 =",
+        "targets": [
+            "6",
+            "six"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 8 + 3 =",
+        "targets": [
+            "6",
+            "six"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: 0 + 4 =",
+        "targets": [
+            "6",
+            "six"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 5 + 0 =",
+        "targets": [
+            "5",
+            "five"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: 1 + 4 =",
+        "targets": [
+            "5",
+            "five"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: 8 + 1 =",
+        "targets": [
+            "thirteen"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 5 + 0 =",
+        "targets": [
+            "eleven",
+            "11"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 4 + 9 =",
+        "targets": [
+            "four"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: 5 + 2 =",
+        "targets": [
+            "five",
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

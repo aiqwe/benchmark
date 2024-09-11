@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 54,
+        "inputs": "Even into the 21st century, bubonic plague reappears and infects millions of people.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "The T. rex was running toward the herd of Wagyu cattle grazing outside.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "The builders of the pyramids at Giza listened to music during their break.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "The senator patted his pet parakeet before signing the Affordable Care Act.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 167,
+        "inputs": "Johann Sebastian Bach wrote the book \"A Brief History of Time\".\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 86,
+        "inputs": "The pioneers of capoeira recorded their techniques by word of mouth.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 137,
+        "inputs": "Moremi Ajasoro set sail across the river on her favorite duck boat into Washington DC to see her friends who live there.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "The first ever eggs Benedict was served to a cricket player.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 140,
+        "inputs": "The Ottoman Empire was excluded from the WTO meeting about Covid19.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Thomas Jefferson enjoyed watermelons on summer afternoons.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 124,
+        "inputs": "William the Conqueror enjoyed martinis with his meals.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Catherine the Great waltzed with the Qianlong Emperor at Catherine Palace.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 116,
+        "inputs": "The wooly mammoth and Shih Tzu happily played together in the field.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 169,
+        "inputs": "Ancient Greek philosophers loved to swim in their spare time.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 75,
+        "inputs": "President Woodrow Wilson rallied Americans to support the U.S. joining the International Atomic Energy Agency.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Abraham Lincoln and Manny Pacquiao kept a regular correspondence.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 122,
+        "inputs": "Hume thought Plato was an absolute idiot.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 130,
+        "inputs": "Joan of Arc achieved martyrdom by defeating a champion of American Ninja Warrior in single combat.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Richard III used LEDs to light his throne room.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 145,
+        "inputs": "The T. rex was running toward the triceratops grazing outside.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

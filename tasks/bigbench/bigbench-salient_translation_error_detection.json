@@ -1,0 +1,462 @@
+[
+    {
+        "idx": 418,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: In der Liste der Kulturdenkmale von Prenzlauer Berg sind die Kulturdenkmale des Berliner Ortsteils Prenzlauer Berg im Bezirk Pankow aufgeführt.\nTranslation: The list of cultural monuments of Prenzlauer Berg includes the cultural monuments of the Berlin district of Berg in the district of Pankow.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Numerical Values"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 298,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Das Naturdenkmal Čertovy skály ist eine 0,15 ha große durch starke Wassererosion gezeichnete Sandsteinformation, die in diesem Gebiet auch als Magura-Flysch bezeichnet wird.\nTranslation: The natural monument of the town is a 0.15 km sand stone information marked by severe water erosion, which in this area is also referred to as Magura-Flysch.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 289,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Die Liste enthält Käsesorten aus Frankreich.\nTranslation: The list excludes cheeses from France.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Numerical Values"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 239,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Bosmont-sur-Serre ist eine französische Gemeinde mit 196 Einwohnern im Département Aisne in der Region Hauts-de-France.\nTranslation: Bosmont-sur-Serre is a commune in the Aisne department of France.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Dropped Content"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 202,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Antje war ein pazifisches Walross des Hamburger Tierparks Hagenbeck, das lange Jahre das Maskottchen des NDR war.\nTranslation: Antje was a Pacific walrus of the Hamburg zoo Hagenbeck, which for many years was the mascot of the CVPR.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Modifiers or Adjectives"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 663,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Das Staatliche Vertragsgericht war ein staatliches Organ des Ministerrats der DDR, das – ähnlich wie ein Gericht – über Konflikte zwischen sozialistischen Wirtschaftseinheiten entschied.\nTranslation: The State Treaty Court was a state body, which, like a court, ruled on conflicts between socialist economic units.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Negation or Antonyms"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 61,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: In der Liste der Kulturdenkmäler in Frankfurt-Oberrad sind alle Kulturdenkmäler im Sinne des Hessischen Denkmalschutzgesetzes in Frankfurt-Oberrad, einem Stadtteil von Frankfurt am Main aufgelistet.\nTranslation: The list of cultural monuments in Frankfurt-Oberrad lists all cultural monuments within the meaning of the Monument Protection Act in Frankfurt-Oberrad, a district of Frankfurt am Main.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Numerical Values"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 582,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Annemarie Kesselring ist eine Schweizer Pflegefachfrau.\nTranslation: Annemarie Kesselring is a nurse.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Named Entities"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 705,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Boekelo ist ein Dorf mit 2.525 Einwohnern in der Gemeinde Enschede in der Provinz Overijssel in den Niederlanden.\nTranslation: Boekelo is a city in the municipality of Enschede in the province of Overijssel, Netherlands.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Modifiers or Adjectives"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 512,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Auf dieser Seite sind die Baudenkmäler des oberfränkischen Marktes Mainleus zusammengestellt.\nTranslation: On this page are the monuments of the Upper Draconian market Mainleus.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 612,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Studentenverbindungen entstanden an der Georg-August-Universität Göttingen, obwohl unerwünscht, im Zuge der Gründung als Landsmannschaft und auch in der zweiten Hälfte des 18.\nTranslation: Student associations were established at the Georg-August-Universität Göttingen, although undesirable, in the course of its founding as a country team and also in the second half of the 19th.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Modifiers or Adjectives"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 618,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Hans-Dietrich Genscher war ein deutscher Politiker der FDP.\nTranslation: Hans-Dietrich Genscher was a German politician of the GDP.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Named Entities"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 690,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Die Liste der Kulturdenkmale in Loschwitz umfasst sämtliche Kulturdenkmale der Dresdner Gemarkung Loschwitz.\nTranslation: The list of cultural monuments in Auschwitz includes all cultural monuments of the Dresden municipality of Loschwitz.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Modifiers or Adjectives"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 688,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Das Schwatte Gatt ist ein Naturschutz- und FFH-Gebiet in der Nähe von Vreden im münsterländischen Kreis Borken.\nTranslation: Schwatte Gatt is a nature conservation and FFH area far from Vreden in Borken County, Germany.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 774,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Nowy Zyzdrój ist ein kleines Dorf in der polnischen Woiwodschaft Ermland-Masuren und gehört zur Landgemeinde Piecki im Powiat Mrągowski.\nTranslation: Nowy Zyzdréj is a big village in the Polish voivodship of Ermland-Masuren, in the rural municipality of Piecki in the county of Mrégowski.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 452,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Die Liste von Aussichtstürmen in Bayern enthält Bauwerke, welche über für den Publikumsverkehr zugängliche Aussichtsmöglichkeiten verfügen.\nTranslation: The list of observation towers in Bavaria contains buildings that have views inaccessible to the public.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 650,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Die Liederabende der Salzburger Festspiele sind seit 1956 fester Bestandteil des Festivals.\nTranslation: The recitals of the Salzburg Festival have been an integral part of the festival since 1986.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Modifiers or Adjectives"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 418,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Tjeerd Daniel van Scheltinga war ein niederländischer Schachspieler.\nTranslation: Daniel was a Dutch chess player.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 164,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Die Schachblume, auch als Schachbrettblume oder Kiebitzei bezeichnet, ist in der Heraldik eine seltene Wappenfigur.\nTranslation: The chess flower, also referred to as a chessboard flower or kiebitzei, is a very common coat of arms in heraldry.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Facts"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 295,
+        "inputs": "The following translations from German to English contain a particular error. That error will be one of the following types:\nNamed Entities: An entity (names, places, locations, etc.) is changed to a different entity.\nNumerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed.\nModifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.\nNegation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.\nFacts: Trivial factual errors not pertaining to the above classes are introduced in the translations.\nDropped Content: A significant clause in the translation is removed.\nPlease identify that error.\n\nSource: Der Bahnhof Novi Beograd ist einer der drei zentralen Bahnhöfe Belgrads und momentan der einzige, der im Großprojekt des Eisenbahnknotens von Belgrad auch vom Fernverkehr bedient wird.\nTranslation: Novi Beograd station is currently the only one to be served by long-distance services in the major project of the Belgrade railway junction.\nThe translation contains an error pertaining to",
+        "targets": [
+            "Dropped Content"
+        ],
+        "multiple_choice_targets": [
+            "Modifiers or Adjectives",
+            "Numerical Values",
+            "Negation or Antonyms",
+            "Named Entities",
+            "Dropped Content",
+            "Facts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

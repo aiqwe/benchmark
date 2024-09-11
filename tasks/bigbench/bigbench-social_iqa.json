@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 1905,
+        "inputs": "Q: Sydney works as a preschool teacher, and helped trace Robin's fingers. Why did Sydney do this? \n  choice: Make artwork\n  choice: Make popcorn\n  choice: Teach her class the alphabet\nA:",
+        "targets": [
+            "Go to sleep"
+        ],
+        "multiple_choice_targets": [
+            "Bring a local attraction",
+            "Remove the artifacts",
+            "Find a new site"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1028,
+        "inputs": "Q: Ash had sandwiches to eat every day and he started to feel sick and bloated, and also feel tired. How would Ash feel afterwards? \n  choice: Energized\n  choice: Healthy and lean\n  choice: Sick and bloated\nA:",
+        "targets": [
+            "A person who can act the part if needed"
+        ],
+        "multiple_choice_targets": [
+            "Would need cash",
+            "Visit the poor people",
+            "Sydney would need to be evil"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 767,
+        "inputs": "Q: Robin swings the car door open after they arrive to the new mall in town. What does Robin need to do before this? \n  choice: Get into a car\n  choice: Go inside the mall\n  choice: Shop at the mall\nA:",
+        "targets": [
+            "Help skylar"
+        ],
+        "multiple_choice_targets": [
+            "Relieved that the process was over",
+            "Happy with motherhood",
+            "Ready to be a nurse"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 202,
+        "inputs": "Q: After seeing them go 95 mph, Aubrey pulled them over for speeding on a 55 mph highway. How would Others feel after? \n  choice: Happy about court\n  choice: Happy about the ticket\n  choice: More cautious\nA:",
+        "targets": [
+            "Get Kai a gift"
+        ],
+        "multiple_choice_targets": [
+            "Write a book",
+            "Audition for a musical",
+            "Sing to Remy"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1620,
+        "inputs": "Q: Kendall grabbed Jordan's hands tightly after Jordan proposed marriage to Kendall. How would Kendall feel afterwards? \n  choice: Cheated\n  choice: Happy\n  choice: Unappreciated\nA:",
+        "targets": [
+            "Take care of her baby"
+        ],
+        "multiple_choice_targets": [
+            "Thankful",
+            "Greedy",
+            "Giving"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1878,
+        "inputs": "Q: Aubrey wrote Tracy's novel because Tracy was a well known author but didn't have very much talent. What will Aubrey want to do next? \n  choice: Avoid taking credit for the work\n  choice: Read the novel\n  choice: Take credit for the work\nA:",
+        "targets": [
+            "Buy the food"
+        ],
+        "multiple_choice_targets": [
+            "Get some toys",
+            "Return the puppy",
+            "Go on a hunting trip"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 284,
+        "inputs": "Q: Remy gave the board Casey's interpretation of the facts about the case they had accepted. How would Casey feel as a result? \n  choice: Like running away\n  choice: Pleased of the presentation\n  choice: Relieved to have help\nA:",
+        "targets": [
+            "Go to Robin's house"
+        ],
+        "multiple_choice_targets": [
+            "Guilty",
+            "Indoctrinate a person",
+            "Kai will do something stupid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1260,
+        "inputs": "Q: Carson kissed Alex gently on the cheek and asked to go to dinner. What will happen to Carson? \n  choice: Go on a date\n  choice: Have a romantic meal\n  choice: Loved\nA:",
+        "targets": [
+            "Normal"
+        ],
+        "multiple_choice_targets": [
+            "Welcome friend",
+            "Would need to get a room ready for Robin",
+            "Caemron would need to find out what time Robin was arriving"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 524,
+        "inputs": "Q: Jordan brought a bag of food for their school lunch period today. Why did Jordan do this? \n  choice: Eat food\n  choice: Fulfill hunger\n  choice: Go to lunch period\nA:",
+        "targets": [
+            "He will have to pay back what he stole"
+        ],
+        "multiple_choice_targets": [
+            "Addison was law biding",
+            "Serious",
+            "Contemplative"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1925,
+        "inputs": "Q: Seeing that she was very nice and friendly, Jan made friends with Taylor. What will Jan want to do next? \n  choice: Go and greet Taylor nicely\n  choice: Ignore Taylor's calls\n  choice: Spend time with Taylor\nA:",
+        "targets": [
+            "Be able to help"
+        ],
+        "multiple_choice_targets": [
+            "Organize his clothes for each day of the week",
+            "Remove the tags from the clothes",
+            "Go to the store"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 227,
+        "inputs": "Q: Quinn realized their dog ran away in the middle of the night and cried their eyes out. What does Quinn do this? \n  choice: Are sad\n  choice: Get a new dog\n  choice: Wanted a new dog\nA:",
+        "targets": [
+            "Like a bad friend"
+        ],
+        "multiple_choice_targets": [
+            "Went there in the car",
+            "Could not remember the name of the restaurant",
+            "Got lost on the way"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 249,
+        "inputs": "Q: Carson was at a friend's house playing video games to get away from his arguing parents. What does Carson need to do before this? \n  choice: Run over to his friends house\n  choice: Stretch out the time at their friends\n  choice: Try a different game\nA:",
+        "targets": [
+            "Look at house details"
+        ],
+        "multiple_choice_targets": [
+            "Buy some board games",
+            "Clean up their house",
+            "Engage in conversation"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1625,
+        "inputs": "Q: Austin got extra help with the homework from his tutor since he was falling behind in class. What will the tutor want to do next? \n  choice: Do their own homework on time\n  choice: Realize he was doing poorly in class\n  choice: Review homework with Austin\nA:",
+        "targets": [
+            "He had no choice"
+        ],
+        "multiple_choice_targets": [
+            "Finish the job",
+            "Focus very hard",
+            "Work very hard"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1713,
+        "inputs": "Q: When Riley noticed Jesse, he stared at him with suspicious eyes. What will Jesse want to do next? \n  choice: Avoid Riley\n  choice: Saw Jesse wearing Riely's brand new sweater\n  choice: Thinks that Jesse stole their sex partner\nA:",
+        "targets": [
+            "Check the gas"
+        ],
+        "multiple_choice_targets": [
+            "Greet each other",
+            "Walk along the rim",
+            "Pack for the hike"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: Taylor was best friends with her childhood neighbor and after years of being such good friends, Taylor married the neighbor. How would Others feel as a result? \n  choice: A good friend\n  choice: Happy for the couple\n  choice: Happy for the house\nA:",
+        "targets": [
+            "Foster kids"
+        ],
+        "multiple_choice_targets": [
+            "Buy a cheap guitar",
+            "Move out of state",
+            "Be picked up by Austin"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1471,
+        "inputs": "Q: Carson was wrongfully convicted for a crime. Taylor proved Carson's point last night and the judge agreed. What will happen to Carson? \n  choice: Be released\n  choice: Be rewarded\n  choice: Be upset\nA:",
+        "targets": [
+            "Join the revolution"
+        ],
+        "multiple_choice_targets": [
+            "Relieved",
+            "Feeling proud",
+            "Like a pushover"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1259,
+        "inputs": "Q: Lee wore a jacket to school when everyone else was in t-shirts. How would Lee feel afterwards? \n  choice: Ashamed\n  choice: Like he fits in\n  choice: Silly\nA:",
+        "targets": [
+            "Be executed"
+        ],
+        "multiple_choice_targets": [
+            "Stay at home",
+            "Get a ride to the mall",
+            "Lose interest in interacting with others"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 383,
+        "inputs": "Q: Carson didn't get any candy so Carson ate Bailey's candy. What will Bailey want to do next? \n  choice: Criticize Carson's action\n  choice: Stop eating candy\n  choice: Tell on Carson\nA:",
+        "targets": [
+            "Show off their skills"
+        ],
+        "multiple_choice_targets": [
+            "Very grateful",
+            "Glad that they saved the town",
+            "Very bitter"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 738,
+        "inputs": "Q: Skylar put their mind to the task because it was complicated and required full attention. What will Skylar want to do next? \n  choice: Control time\n  choice: Review details\n  choice: Think\nA:",
+        "targets": [
+            "Very sad"
+        ],
+        "multiple_choice_targets": [
+            "Talk to their friend",
+            "Run away from them",
+            "Take their friend home"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1610,
+        "inputs": "Q: Feeling quite romantic over it all, Taylor gave their partner a kiss on the cheek. What will Others want to do next? \n  choice: Give it back\n  choice: Others will be angry with Taylor\n  choice: Others will be annoyed with Taylor\nA:",
+        "targets": [
+            "Nauseous"
+        ],
+        "multiple_choice_targets": [
+            "Buy the girl some shoes",
+            "Ask the girl on a date",
+            "Be kind"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 54,
+        "inputs": "Q: We finally get men on Mars, and they discover an old Soviet flag placed down decades ago. The Soviets won the space race but for whatever horrifying reason didn't say anything. What people got Mars first? Were Americans the first to go to Mars?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Q: When you die, you appear in a cinema with a number of other people who look like you. You find out that they are your previous reincarnations, and soon you all begin watching your next life on the big screen. When your next reincarnation dies, does the movie end, and everyone goes home?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: You, a young scientist have discovered time travel. You think it would be a great idea to go to medieval times, share your knowledge and become king. On your first visit, you meet a king, and he introduces himself with a polite fist bump and greets you in modern English. Has the king also traveled from the future?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 150,
+        "inputs": "Q: From birth, your parents have done everything they could to stop you from going out during a full moon. At the age of 16, curiosity overwhelms you and you sneak out of the house during a full moon. You take a peek at the moon, and suddenly you turn into a log cabin. You are a member of a lost species, the werehouse. Can everyone turn into a log cabin on a full moon?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: When you die, you appear in a cinema with a number of other people who look like you. You find out that they are your previous reincarnations, and soon you all begin watching your next life on the big screen. Are the people in the cinema linked to you because they are your friends from past lives?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: You never kill the spiders in your home, they can read your mind and teleport. Can you catch the spiders by chasing them until you catch them?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Q: A schizophrenic man gets sick of the voice in his head and asks it to start paying rent if it wants to live there. The next morning he finds an envelope filled with cash on his desk. Who is the rent payment from? Is it from the voice in the man's head?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "Q: You exist not as a genetic organism, but a memetic one. You exist not in physical form but as a thought, as long as someone possesses the knowledge of you - you are alive. Do you die when everyone forgets about you?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 104,
+        "inputs": "Q: Dwarves are notorious for their love of alcohol. One day a dwarf goes sober and discovers it grants them amazing powers such as being able to remember what happened the night before. Why do the other Dwarves forget what happened the night before because they are not very smart?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "Q: A barbarian warlord, a goblin king, a mighty necromancer, and a dark elven high priestess meet for one reason... To play Suburbs and SUVs, the hottest mundane suburban family Tabletop RPG! Did the warlord, the king, the mighty necromancer and the dark elven priestess play a sports game?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: A man is offered one wish and he says that he wants to be fire proof. His wish is granted. The same man and a woman are in a house. What will happen if the house lights up on fire and there is no escape route? Will both the man and woman survive?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: When you die, you appear in a cinema with a number of other people who look like you. You find out that they are your previous reincarnations, and soon you all begin watching your next life on the big screen. Does the main character on the screen look like your neighbour?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: A barbarian warlord, a goblin king, a mighty necromancer, and a dark elven high priestess meet for one reason... To play Suburbs and SUVs, the hottest mundane suburban family Tabletop RPG! Did the warlord, the king, the mighty necromancer and the dark elven priestess play a sports game?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: Long ago you had sold your soul to the devil, but the postal service was so utterly bad that they had lost the package where your soul was. Since the transaction was completed before it, you have the benefits of the deal while the devil still has no control over you. Does the devil exist in this context?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: We finally get men on Mars, and they discover an old Soviet flag placed down decades ago. The Soviets won the space race but for whatever horrifying reason didn't say anything. What people got Mars first? Were Americans the first to go to Mars?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Q: \"Is it true that you can only see three basic colors?\", the alien being asked \"It is.\" \"So, how do you communicate with the Ghoosha?\" \"With whom?\", I responded confused. \"The other major race on your planet.\" Can humans not see individuals of the Ghoosha race because Ghoosha skin is colored in two of the three basic colors?\nA:",
+        "targets": [
+            "Yes."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "Q: A man is offered one wish and he says that he wants to be fire proof. His wish is granted. The same man and a woman are in a house. What will happen if the house lights up on fire and there is no escape route? Will both the man and woman survive?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 99,
+        "inputs": "Q: In the year 2368, humanity has begun traveling the galaxies. They meet a vast coalition of thousands of allied alien species. Within less than 20 years, humans are in complete control of the entire alliance, as humans are the only know sentient species capable of lying. An alien child wants to avoid punishment from their parents when they did something bad. Can they ask their brother to tell their parents it was not them who did it?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 142,
+        "inputs": "Q: A schizophrenic man gets sick of the voice in his head and asks it to start paying rent if it wants to live there. The next morning he finds an envelope filled with cash on his desk. Who is the rent payment from? Is it from the voice in the man's head?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "Q: You discover a library with a biography for everyone on Earth. While reading your own, you notice that whenever someone else is mentioned, there's a footnote showing where you can find their biography. Its odd how someone named Tim Berner who was only a sentence in your book has a whole chapter for you. Can you read the biography of the President of the United States of America's life?\nA:",
+        "targets": [
+            "No."
+        ],
+        "multiple_choice_targets": [
+            "Yes.",
+            "No."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

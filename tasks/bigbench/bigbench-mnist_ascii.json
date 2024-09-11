@@ -1,0 +1,622 @@
+[
+    {
+        "idx": 2777,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n                   BBBBB    \n                BBBBBBBBB   \n               BBBBBBBBBB   \n             BBBBBBB BBBB   \n            BBBBB      BB   \n          BBBBB        BB   \n         BBBBB         BB   \n         BBBB         BBB   \n       BBBBB         BBB    \n       BBBB          BBB    \n      BBBB          BBBB    \n      BBBB          BBBB    \n     BBBB          BBBB     \n     BBB          BBBB      \n     BBB         BBBB       \n     BBB       BBBBB        \n     BBBBBBBBBBBBBB         \n      BBBBBBBBBBBB          \n       BBBBBBBB             \n                            \n                            \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "0"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@#+++++*@@@@@@@@@@\n@@@@@@@@@%:.....:=@@@@@@@@@@\n@@@@@@@@*...+#%@@@@@@@@@@@@@\n@@@@@@@#...#@@@@@@%#%@@@@@@@\n@@@@@@@=..+@@@*=......=#@@@@\n@@@@@@@:..%%-...:=+*+:..-@@@\n@@@@@@@=......=#@@@#-...+@@@\n@@@@@@@*..............=%@@@@\n@@@@@@@@@+:.=+++++++#@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 35931,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n                            \n    BBBBBBBBBBBBBBBB        \n    BBBBBBBBBBBBBBBBB       \n    BBBBBBBBBBBBBBBBB       \n     BBBBBBBBBBBBBBBB       \n               BBBBBB       \n              BBBBBB        \n             BBBBBB         \n            BBBBBBB         \n           BBBBBBB          \n         BBBBBBBBBBBBBB     \n        BBBBBBBBBBBBBBBB    \n        BBBBBBBBBBBBBBBB    \n        BBBBBBBBBBBBBBB     \n                  BBBBB     \n                 BBBBB      \n                BBBBBB      \n      BBB      BBBBBB       \n      BBBBBBBBBBBBBB        \n      BBBBBBBBBBBBB         \n       BBBBBBBBBB           \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "6"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 53533,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@#*@@@@@@@@\n@@@@@@@@@##@@@@@@=.-@@@@@@@@\n@@@@@@@@-..%@@@@@-.#@@@@@@@@\n@@@@@@%-.:%@@@@@-..#@@@@@@@@\n@@@@@@*..:#*=---...-+%@@@@@@\n@@@@@@#:..:-++#-.:#@@@@@@@@@\n@@@@@@@@@@@@@@*..-@@@@@@@@@@\n@@@@@@@@@@@@@@+.-#@@@@@@@@@@\n@@@@@@@@@@@@@@+:@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "6"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 21293,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@%*++====+%@@@@@@@@@\n@@@@@@@@-.-*###*=.:@@@@@@@@@\n@@@@@@@-.%@@@@@@+.-@@@@@@@@@\n@@@@@@@+.-=++=-:..@@@@@@@@@@\n@@@@@@@@@****@@+..@@@@@@@@@@\n@@@@@@@@@@@@@@@..-@@@@@@@@@@\n@@@@@@@@@@@@@@%..*@@@@@@@@@@\n@@@@@@@@@@@@@@*..%@@@@@@@@@@\n@@@@@@@@@@@@@@#==%@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "9"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 30208,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n    BBBBBB                  \n    BBBBBBB                 \n    BBBBBBBB                \n     BBBBBBBB               \n      BBBBBBBB              \n       BBBBBBB              \n        BBBBBBBB            \n          BBBBBBB           \n          BBBBBBB           \n          BBBBBBBB          \n          BBBBBBBB          \n           BBBBBBB          \n            BBBBBBB         \n             BBBBBBB BBB    \n              BBBBBBBBBB    \n               BBBBBBBBB    \n                BBBBBBBB    \n                 BBBBBBB    \n                 BBBBBBB    \n                  BBBBBB    \n                            \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "0"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17775,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n                            \n               BBBBB        \n              BBBBBBB       \n              BBBBBBB       \n             BBBBBBBB       \n            BBBB  BB        \n           BBBBB BBB        \n          BBBB   BBB        \n          BBBB   BBB        \n         BBBB   BBBB        \n        BBBB    BBB         \n       BBBB     BBB         \n      BBBBBBBBBBBBBBBB      \n      BBBBBBBBBBBBBBBB      \n      BBBBBBBBBBBBB         \n      BBBB     BBBB         \n               BBBB         \n               BBBB         \n               BBBB         \n               BBBB         \n               BBBB         \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4456,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@+%@@@@@@@\n@@@@@@@@@@@@#=**==::#@@@@@@@\n@@@@@@@@@@*:-*##%%@@@@@@@@@@\n@@@@@@@@*-.*@@*#%%@@@@@@@@@@\n@@@@@@@-...:+++++-.+@@@@@@@@\n@@@@@@@#*%@@@@@@@@=.=@@@@@@@\n@@@@@@@@@@@@@@@@@@@..@@@@@@@\n@@@@@@@-..%@@@@@@%=.-@@@@@@@\n@@@@@@@%*=-=-=----=*@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "1"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7301,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@%:=+:-@@@@@@@@@@@\n@@@@@@@@@@@==@@+.%@@@@@@@@@@\n@@@@@@@@@@@=-#+:.*@@@@@@@@@@\n@@@@@@@@@@@@#*#@:=@@@@@@@@@@\n@@@@@@@@@@@@@@@@=.@@@@@@@@@@\n@@@@@@@@@@%@@@@@+.%@@@@@@@@@\n@@@@@@@@@==@@@@@#.*@@@@@@@@@\n@@@@@@@@@%:*%%%#=:#@@@@@@@@@\n@@@@@@@@@@@#+++*%@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34189,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@%**#%@@#==#@@@@@@@\n@@@@@@@@@%...::....+@@@@@@@@\n@@@@@@@@@*..#@@#..+@@@@@@@@@\n@@@@@@@@@@%%@@#..*@@@@@@@@@@\n@@@@@@@@@@@@@%..#@@@@@@@@@@@\n@@@@@@@@@@@@@:.+@@@@@@@@@@@@\n@@@@@@@@@@@@-.=@@@@@@@@@@@@@\n@@@@@@@@@@@=..@@@@@@@@@@@@@@\n@@@@@@@@@@@==*@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35440,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@*%@@@@@@@@@@@@@@\n@@@+...........----=**%@@@@@\n@@@%****++*****==:....:@@@@@\n@@@@@@@@@@@@@@%*:...=#@@@@@@\n@@@@@@@@@@@@%-...-+%@@@@@@@@\n@@@@@@@@@@@@%+*#%@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 38453,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n                            \n       BBBBBBB              \n       BBBBBBBB             \n       BBBBBBBBB            \n       BBBBBBBBB            \n        B   BBBBB           \n             BBBB           \n             BBBB           \n             BBBB           \n           BBBBBB           \n           BBBBB            \n      BBBBBBBBBBBBBBB       \n      BBBBBBBBBBBBBBBBBBB   \n      BBBBBBBBBBBBBBBBBBBB  \n      BBBBBBBBBBBBBBBBBBBB  \n      BBBB BBB  BBBBBBBBBB  \n                     BBBBB  \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "3"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12704,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                  BB        \n                  BB        \n         B        BB        \n         BB       BB        \n        BBB      BBB        \n        BBB      BBB        \n        BBB      BBB        \n        BBB      BBB        \n        BBB      BBB        \n       BBBB      BBB        \n       BBBBBBBBBBBBB        \n       BBBBBBBBBBBBBBB      \n       BBBBBBBBBBBBBBBB     \n       BBBBBBBBBBBBBBB      \n       BBBBBBBBBBBBB        \n       BBBB BB  BBBB        \n                BBBB        \n                BBBB        \n                 BBB        \n                 BBB        \n                            \n                            \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4356,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n                            \n                 BB         \n                BBB         \n    B   BBB     BBB         \n       BBBB    BBBB         \n       BBBB    BBB BB       \n      BBBB     BBB BB       \n      BBB     BBBB BB       \n      BBB     BBBB BB       \n      BBBBBBBBBBBB BB       \n      BBBBBBBBBBBB BB       \n        BBBBBBBBB  BBB      \n             BBB   BBB      \n            BBBB   BBB      \n            BBBB   BBB      \n            BBB    BBB      \n            BBB    BBB      \n            BBB    BB       \n           BBBB             \n           BBB              \n           BBB              \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12138,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n                            \n                            \n                            \n                            \n            BBBBBBB         \n          BBBBBBBBB         \n         BBBBB  BBB         \n         BBBB    BB         \n         BB      BB         \n                BBB         \n                BBB         \n               BBB          \n               BBB          \n              BBBB          \n              BBB           \n             BBBB           \n            BBBB            \n           BBBB             \n           BBBB             \n          BBBBBBBBBB        \n         BBBBBBBBBBBB       \n       BBBBBBBBBBBBBB       \n       BBBBBB               \n       BBBB                 \n                            \n                            \n                            \n                            \n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "8"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 37391,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@#+*@@@@@@@@@@@\n@@@@@@@@@%==::..---:-+@@@@@@\n@@@@@@@@@%*@@@@@@+:..#@@@@@@\n@@@@@@@@@@####*-:..-#@@@@@@@\n@@@@@@@%-:=====:.-%@@@@@@@@@\n@@@@@@@@@@@@@@@@:.-@@@@@@@@@\n@@@@%@@@@@@@@@@-..#@@@@@@@@@\n@@@@=::+*%#**+-.-+@@@@@@@@@@\n@@@@@@#+=--.:-+%@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "1"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 11791,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@#*+=====+@@@@@@@@@\n@@@@@%:............:%@@@@@@@\n@@@@@@+...-=+%%%+...%@@@@@@@\n@@@@@@@@@@@@@@@*...+@@@@@@@@\n@@@@@@@@@@@@@@=...*@@@@@@@@@\n@@@@@@@@@@@@@=...-@@@@@@@@@@\n@@@@@@@@@@@*-...=@@@@@@@@@@@\n@@@@@@@@@@@=..:*@@@@@@@@@@@@\n@@@@@@@@@@@%==+@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "0"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 23430,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@#=:...-@@@@@@@@@\n@@@@@@@@@@%=..+@:..*@@@@@@@@\n@@@@@@@@@@:..-@#:..%@@@@@@@@\n@@@@@@@@@@-...=...+@@@@@@@@@\n@@@@@@@@@@@@+...:#@@@@@@@@@@\n@@@@@@@@@@@@#..-%@@@@@@@@@@@\n@@@@@@@@@@@*..=@@@@@@@@@@@@@\n@@@@@@@@@@%..:@@@@@@@@@@@@@@\n@@@@@@@@@@@%#%@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "6"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40246,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@#+#@@@@@@@@@@@@\n@@@@@@@@@@%=-**+:%@@@@@@@@@@\n@@@@@@@@@#.*@@@@:-@@@@@@@@@@\n@@@@@@@@@=:@@@@=:%@@@@@@@@@@\n@@@@@@@@@%++*-:=+-+@@@@@@@@@\n@@@@@@@@@@@@%.*@@:+@@@@@@@@@\n@@@@@@@@@@@@--@@-:@@@@@@@@@@\n@@@@@@@@@@@#.*@=-%@@@@@@@@@@\n@@@@@@@@@@@@--.*@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "8"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5762,
+        "inputs": "Please type the digit that you see in the following image: \nQ: \n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n@@@@@@@@@@@@@%=..:-+%@@@@@@@\n@@@@@@@@@@@@*....:...+@@@@@@\n@@@@@@@@@@*:....@@#..:@@@@@@\n@@@@@@@@%-....=@@@@...%@@@@@\n@@@@@@%=....+%@@@@@:..#@@@@@\n@@@@@%...:#@@@@@@%=..:@@@@@@\n@@@@@=...%@@@@@%+:..:#@@@@@@\n@@@@@%:...:--....:-*@@@@@@@@\n@@@@@@@#++++++*#%@@@@@@@@@@@\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  choice: 8\n  choice: 1\n  choice: 5\n  choice: 0\n  choice: 7\n  choice: 2\n  choice: 9\n  choice: 4\n  choice: 3\n  choice: 6\nA:",
+        "targets": [
+            "7"
+        ],
+        "multiple_choice_targets": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

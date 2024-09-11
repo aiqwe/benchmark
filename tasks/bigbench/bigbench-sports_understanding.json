@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 418,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Henry Ruggs launched a hail mary in the NFC championship\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 298,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Robin Lehner launched a hail mary\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 289,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Blake Wheeler maradona'd the defender in the Champions Leage Semifinal\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 703,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: John Tavares went five hole\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 810,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Kyrie Irving scored a reverse dunk\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 956,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Sterling Shepard hit the back of the rim\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 230,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Karl-Anthony Towns committed a blocking foul\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 846,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Darijo Srna eurostepped to the basket\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 811,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Juan Soto took a long two\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 582,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Max Scherzer was safe at first\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 479,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Ronald Acuna Jr. pitched a complete game in the World Series\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 965,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Kyle Tucker pitched a shutout\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 448,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Manny Machado hit into a double play\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 442,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Caris LeVert scored the easy layup\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Cam Newton killed the powerplay\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 856,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Xander Bogaerts eurostepped to the basket\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Brandon Lowe took a left footed shot\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 590,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Luis Suarez performed a give and go\nPlausible/implausible?",
+        "targets": [
+            "plausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 481,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Kenny Golladay took the snap\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 284,
+        "inputs": "Determine whether the following statement or statements are plausible or implausible:\nStatement: Diontae Johnson went for it on fourth down\nPlausible/implausible?",
+        "targets": [
+            "implausible"
+        ],
+        "multiple_choice_targets": [
+            "plausible",
+            "implausible"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

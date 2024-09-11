@@ -49,8 +49,17 @@ class Benchmark:
             self.path = hf_conf.config[benchmark_name]["path"]
         if not name:
             self.name = hf_conf.config[benchmark_name]["name"]
-        if not isinstance(self.path, str) and not isinstance(self.name, str):
-            raise ValueError("path and name must be strings")
+        if not isinstance(self.name, str):
+            if isinstance(self.name, list):
+                self.name_list = hf_conf.config[benchmark_name]["name"]
+                self.name = hf_conf.config[benchmark_name]["name"][
+                    random.randint(0, len(self.name) - 1)
+                ]
+                logger.info(
+                    f"name is type of list. randomly picked '{self.name}'\nall names are saved within 'self.name_list':\n{hf_conf.config[benchmark_name]['name']}"
+                )
+        if not isinstance(self.path, str):
+            raise ValueError("path must be strings")
         if not self.name:
             self.datasetdict = load_dataset(
                 self.path, num_proc=num_proc, **self.dataset_option
@@ -62,6 +71,9 @@ class Benchmark:
         if not dataset:
             self.split = list(self.datasetdict.keys())
             self.prior_split = "train" if "train" in self.split else self.split[0]
+            self.prior_split = (
+                "default" if "default" in self.split else self.split[0]
+            )  # bigbench case
             self.dataset = self.datasetdict[self.prior_split]
         else:
             self.dataset = dataset

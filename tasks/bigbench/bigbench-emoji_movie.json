@@ -1,0 +1,422 @@
+[
+    {
+        "idx": 27,
+        "inputs": "Q: What movie does this emoji describe? 👦🚗🕶☀️\n  choice: ferris bueller's day off\n  choice: the princess and the frog\n  choice: home alone\n  choice: 2001: a space odyssey\n  choice: the great dictator\nA:",
+        "targets": [
+            "happy feet"
+        ],
+        "multiple_choice_targets": [
+            "fight club",
+            "witness for the prosecution",
+            "paths of glory",
+            "frozen",
+            "memories of murder"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 50,
+        "inputs": "Q: What movie does this emoji describe? 🐰🦊🚔🏙\n  choice: strangers on a train\n  choice: zootopia\n  choice: the apartment\n  choice: incendies\n  choice: the sound of music\nA:",
+        "targets": [
+            "hidden figures"
+        ],
+        "multiple_choice_targets": [
+            "101 dalmatians",
+            "the help",
+            "you've got mail",
+            "a clockwork orange",
+            "it"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Q: What movie does this emoji describe? 👳‍♂️🧞‍♂️\n  choice: cast away\n  choice: ted\n  choice: inglourious basterds\n  choice: aladdin\n  choice: lolita\nA:",
+        "targets": [
+            "one flew over the cuckoo's nest"
+        ],
+        "multiple_choice_targets": [
+            "101 dalmatians",
+            "the help",
+            "you've got mail",
+            "a clockwork orange",
+            "it"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "Q: What movie does this emoji describe? 🦍🏙🦍🦍\n  choice: gone girl\n  choice: planet of the apes\n  choice: hidden figures\n  choice: fanny and alexander\n  choice: inception\nA:",
+        "targets": [
+            "the matrix"
+        ],
+        "multiple_choice_targets": [
+            "whiplash",
+            "high school musical",
+            "the thing",
+            "get out",
+            "unforgiven"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: What movie does this emoji describe? 👧🔄👩\n  choice: freaky friday\n  choice: the princess and the frog\n  choice: oldeuboi\n  choice: antz\n  choice: snow white and the seven dwarfs\nA:",
+        "targets": [
+            "high school musical"
+        ],
+        "multiple_choice_targets": [
+            "cast away",
+            "the maltese falcon",
+            "mary poppins",
+            "slumdog millionaire",
+            "elite squad: the enemy within"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: What movie does this emoji describe? 👴➡️👶\n  choice: interstellar\n  choice: the wages of fear\n  choice: papillon\n  choice: bicycle thieves\n  choice: the curious case of benjamin button\nA:",
+        "targets": [
+            "crouching tiger hidden dragon"
+        ],
+        "multiple_choice_targets": [
+            "home alone",
+            "once upon a time in the west",
+            "downfall",
+            "big",
+            "a bug's life"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: What movie does this emoji describe? 🧜‍♀️❤️🤴\n  choice: it\n  choice: the little mermaid\n  choice: lolita\n  choice: indiana jones and the last crusade\n  choice: snatch.\nA:",
+        "targets": [
+            "the lord of the rings"
+        ],
+        "multiple_choice_targets": [
+            "the greatest showman",
+            "it happened one night",
+            "schindler's list",
+            "to kill a mockingbird",
+            "touch of evil"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 67,
+        "inputs": "Q: What movie does this emoji describe? 👨‍👩‍👧🐷🐷🐉\n  choice: some like it hot\n  choice: terminator 2: judgment day\n  choice: spirited away\n  choice: roman holiday\n  choice: taxi driver\nA:",
+        "targets": [
+            "finding nemo"
+        ],
+        "multiple_choice_targets": [
+            "ted",
+            "gone with the wind",
+            "elite squad: the enemy within",
+            "chinatown",
+            "rebecca"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Q: What movie does this emoji describe? 😈👠\n  choice: batman begins\n  choice: whiplash\n  choice: brokeback mountain\n  choice: 8½\n  choice: the devil wears prada\nA:",
+        "targets": [
+            "brokeback mountain"
+        ],
+        "multiple_choice_targets": [
+            "trainspotting",
+            "raya and the last dragon",
+            "mulan",
+            "a clockwork orange",
+            "3 idiots"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "Q: What movie does this emoji describe? 👨🗡👩🎋\n  choice: groundhog day\n  choice: the thing\n  choice: how to train your dragon\n  choice: crouching tiger hidden dragon\n  choice: the good, the bad and the ugly\nA:",
+        "targets": [
+            "zootopia"
+        ],
+        "multiple_choice_targets": [
+            "cinderella",
+            "crouching tiger hidden dragon",
+            "the green mile",
+            "incendies",
+            "ran"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "Q: What movie does this emoji describe? 👸💇‍♀️\n  choice: gandhi\n  choice: thelma & louise\n  choice: interstellar\n  choice: forrest gump\n  choice: tangled\nA:",
+        "targets": [
+            "wall-e"
+        ],
+        "multiple_choice_targets": [
+            "the tale of the princess kaguya",
+            "donnie darko",
+            "v for vendetta",
+            "the silence of the lambs",
+            "for a few dollars more"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "Q: What movie does this emoji describe? 👧🦁🤖🧙‍♂️\n  choice: high noon\n  choice: the wizard of oz\n  choice: inception\n  choice: anatomy of a murder\n  choice: oldeuboi\nA:",
+        "targets": [
+            "you've got mail"
+        ],
+        "multiple_choice_targets": [
+            "the curious case of benjamin button",
+            "the wages of fear",
+            "bicycle thieves",
+            "papillon",
+            "interstellar"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: What movie does this emoji describe? 😴🏢🏢⏳\n  choice: inception\n  choice: the sting\n  choice: princess mononoke\n  choice: cast away\n  choice: the help\nA:",
+        "targets": [
+            "interstellar"
+        ],
+        "multiple_choice_targets": [
+            "cinderella",
+            "crouching tiger hidden dragon",
+            "the green mile",
+            "incendies",
+            "ran"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Q: What movie does this emoji describe? 👨🔨🏨👯‍♀️\n  choice: life is beautiful\n  choice: trainspotting\n  choice: the avengers\n  choice: jurassic park\n  choice: the shining\nA:",
+        "targets": [
+            "jaws"
+        ],
+        "multiple_choice_targets": [
+            "trainspotting",
+            "raya and the last dragon",
+            "mulan",
+            "a clockwork orange",
+            "3 idiots"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "Q: What movie does this emoji describe? 👧🏽🏝⛵️🌋\n  choice: shutter island\n  choice: wall-e\n  choice: there will be blood\n  choice: moana\n  choice: throne of blood\nA:",
+        "targets": [
+            "up"
+        ],
+        "multiple_choice_targets": [
+            "moana",
+            "wall-e",
+            "there will be blood",
+            "shutter island",
+            "throne of blood"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: What movie does this emoji describe? 👦💀🎸\n  choice: das boot\n  choice: underground\n  choice: mulan\n  choice: coco\n  choice: the big sleep\nA:",
+        "targets": [
+            "the shining"
+        ],
+        "multiple_choice_targets": [
+            "the incredibles",
+            "barry lyndon",
+            "guardians of the galaxy",
+            "mr. smith goes to washington",
+            "pinocchio"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Q: What movie does this emoji describe? 👳‍♂️🛶🐯\n  choice: mad max: fury road\n  choice: the sixth sense\n  choice: singin' in the rain\n  choice: life of pi\n  choice: the secret in their eyes\nA:",
+        "targets": [
+            "charlotte's web"
+        ],
+        "multiple_choice_targets": [
+            "finding nemo",
+            "the wolf of wall street",
+            "se7en",
+            "the shining",
+            "mr. smith goes to washington"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: What movie does this emoji describe? 👨‍🚀⏱🌎👩‍🔬\n  choice: interstellar\n  choice: toy story\n  choice: planet of the apes\n  choice: alice's adventures in wonderland\n  choice: the sound of music\nA:",
+        "targets": [
+            "the wizard of oz"
+        ],
+        "multiple_choice_targets": [
+            "home alone",
+            "once upon a time in the west",
+            "downfall",
+            "big",
+            "a bug's life"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "Q: What movie does this emoji describe? 📬👩‍❤️‍👨\n  choice: snatch.\n  choice: you've got mail\n  choice: the thing\n  choice: inception\n  choice: the truman show\nA:",
+        "targets": [
+            "the lion king"
+        ],
+        "multiple_choice_targets": [
+            "the matrix",
+            "the great escape",
+            "raging bull",
+            "whiplash",
+            "get out"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "Q: What movie does this emoji describe? 👸😘🐸\n  choice: monsters inc.\n  choice: the princess and the frog\n  choice: reservoir dogs\n  choice: american history x\n  choice: stand by me\nA:",
+        "targets": [
+            "king kong"
+        ],
+        "multiple_choice_targets": [
+            "moonlight",
+            "ikiru",
+            "twelve monkeys",
+            "monsters, inc.",
+            "up"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "idx": 17,
+        "inputs": "Q: The coyote, having noticed a lamb that strayed far away from her flock, decided that he should justify to the lamb his right to eat her, instead of simply attacking her. Therefore, he said to the lamb: \"I remember that you insulted me most gravely last year!\". The lamb replied that she was not even born back then. The coyote thus came up with another lie: \"Clearly, you are grazing on my pasture!\" The lamb, however, retorted that she has never even tasted grass, due to her young age. Exasperated, the coyote said: \"Well, then you’re drinking from my well!\" In response, the lamb pointed out that she only drank her mother’s milk. Fed up, the coyote picked up the lamb and swallowed her, saying: \"Well, despite your convincing arguments, I choose not to remain without dinner.\" What is the moral of this story?\n  choice: Every one is more or less master of his own fate.\n  choice: We often give our enemies the means for our own destruction.\n  choice: Liberty is too huge a price to pay for revenge.\n  choice: Any excuse will serve a tyrant.\n  choice: Vanity carries its own punishment.\nA:",
+        "targets": [
+            "Whatever you do, do with all your might."
+        ],
+        "multiple_choice_targets": [
+            "A bribe in hand betrays mischief at heart.",
+            "Beware lest you lose the substance by grasping at the shadow.",
+            "Fine clothes may disguise, but silly words will disclose a fool.",
+            "Pleasure bought with pains, hurts.",
+            "Whatever you do, do with all your might."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "Q: A shepherd longed to make a journey across the sea that often occupied his thoughts while he was herding his sheep. Thus, he sold his flock and invested the proceeds in crates of dates, to sell at his destination. While the first days of the voyage were calm, a violent storm soon caught up with the ship. To prevent the ship from sinking, the shepherd threw all of the cargo overboard, barely escaping with his life on the empty vessel. Having at last arrived at his destination, he heard a passerby remark how calm the sea is. \"Aye, the sea wants more dates and thus pretends to be quiet.\", was his reply. What is the moral of this story?\n  choice: Distrust interested advice.\n  choice: Trust not in him that seems a saint.\n  choice: It is too late to whet the sword when the trumpet sounds.\n  choice: Attempt not impossibilities.\n  choice: Look before you leap.\nA:",
+        "targets": [
+            "In time of dire need, clever thinking is key."
+        ],
+        "multiple_choice_targets": [
+            "He that finds discontentment in one place is not likely to find happiness in another.",
+            "It shows an evil disposition to take advantage of a friend in distress.",
+            "One man's pleasure may be another's pain.",
+            "Revenge will hurt the avenger.",
+            "They who act without sufficient thought, will often fall into unsuspected danger."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 155,
+        "inputs": "Q: The rabbit was a very popular animal and many of the forest creatures claimed to be her friends. One day, she heard the sound of dogs approaching from a distance which scared her greatly, as it was rabbit hunting season. Thus, she decided to escape them with the help of her many friends. First, she asked the horse to carry her to safety. The horse, however, refused his help, since he had work to do and felt sure that the rabbit would be helped by her other friends. Next, she asked the oxen to drive away the dogs away with his mighty horns, but he, too, refused to help, saying that he had already made plans with a lady friend of his. \"The ram will certainly help you\", he said, before turning away from the rabbit. The ram refused to help, as well, since the same dogs were known to attack sheep as well as rabbits. Almost out of time and options, the rabbit finally asked the calf for his help, but the young animal was uncomfortable with accepting such responsibility, seeing as so many adults declined to take on the task. Soon enough, the dogs arrived in the forest, but by then the rabbit had run away without anyone’s assistance. What is the moral of this story?\n  choice: He that has many friends, has no friends.\n  choice: We must make friends in prosperity if we would have their help in adversity.\n  choice: Little friends may prove great friends.\n  choice: Equals make the best friends.\n  choice: Old friends cannot with impunity be sacrificed for new ones.\nA:",
+        "targets": [
+            "Pleasure bought with pains, hurts."
+        ],
+        "multiple_choice_targets": [
+            "Be on guard against men who can strike from a distance.",
+            "If words suffice not, blows must follow.",
+            "It is useless attacking the insensible.",
+            "Love can tame the wildest.",
+            "Self-interest alone moves some men."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 176,
+        "inputs": "Q: An antelope pursued by hunters was forced to hide in a cave known to belong to a tiger. Once she had entered the cave, the tiger pounced from the shadows and bit her neck. The antelope, with her dying breath, proclaimed:\"Just my luck, to escape from man, only to fall victim to a wild beast.\" What is the moral of this story?\n  choice: Greed often overreaches itself.\n  choice: Love can tame the wildest.\n  choice: In avoiding one evil, care must be taken not to fall into another.\n  choice: Evil wishes, like chickens, come home to roost.\n  choice: It shows an evil disposition to take advantage of a friend in distress.\nA:",
+        "targets": [
+            "Those who suffer most cry out the least."
+        ],
+        "multiple_choice_targets": [
+            "Even the wildest can be tamed by love.",
+            "In avoiding one evil, care must be taken not to fall into another.",
+            "Spare the rod and spoil the child.",
+            "The best intentions will not always ensure success.",
+            "Youth's first duty is reverence to parents."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 171,
+        "inputs": "Q: During one of their regular gatherings, the animals of the forest entertained each other with song and dance. When it was his turn, the orangutan stood up and performed a beautiful and complex dance. The audience, dazzled, showered him in applause as he sat back down. The sloth, envious of the attention the orangutan was receiving and wanting it for himself, stood up and danced next. But, his movements were so ridiculous and uncoordinated that the other animals, offended by such mockery, attacked him and drove him out of their gathering. What is the moral of this story?\n  choice: He who plays a trick must be prepared to take a joke.\n  choice: Men often applaud an imitation and hiss the real thing.\n  choice: He winds up friendless who plays both sides against the middle.\n  choice: He laughs best that laughs last.\n  choice: It is absurd to ape our betters.\nA:",
+        "targets": [
+            "He that is neither one thing nor the other has no friends."
+        ],
+        "multiple_choice_targets": [
+            "Better starve free than be a fat slave.",
+            "Clumsy jesting is no joke.",
+            "Even a fool is wise - when it is too late!",
+            "Fine clothes may disguise, but silly words will disclose a fool.",
+            "There is as much malice in a wink as in a word."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 115,
+        "inputs": "Q: A raccoon invited a stork for dinner and, for his own amusement, served nothing but soup made of pulse, which he poured into a flat stone dish. The soup fell out of the stork’s long bill, and the bird’s frustration was a great source of fun for the raccoon. To return the favour, the stork invited the raccoon for lunch and placed before him a jug with a long and narrow mouth - perfectly suited for the bird’s bill, but useless to the raccoon who was unable to taste the jug's contents. What is the moral of this story?\n  choice: Do unto others what you would have them do unto you.\n  choice: Little by little does the trick.\n  choice: Fine clothes may disguise, but silly words will disclose a fool.\n  choice: Better beans and bacon in peace than cakes and ale in fear.\n  choice: Fine feathers don't make fine birds.\nA:",
+        "targets": [
+            "What is most truly valuable is often underrated."
+        ],
+        "multiple_choice_targets": [
+            "Abstain and enjoy.",
+            "It shows an evil disposition to take advantage of a friend in distress.",
+            "It sometimes happens that one man has all the toil, and another all the profit.",
+            "One man's pleasure may be another's pain.",
+            "Some begrudge others what they cannot enjoy themselves."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 86,
+        "inputs": "Q: A farmer covered his wheat field with nets in order to catch some of the storks who had been eating the freshly sown seeds. Among the storks, he also caught a robin, who broke his little leg. The robin asked the farmer to spare and release him. \"Please let me go, as my broken limb is most pitiful and I am not a stork, but a robin - a good and honest bird. I love my father and mother and have a plumage quite unlike that of a stork.\" The farmer laughed at that, saying \"This may all well be true, but I only know that I caught you together with the other thieves, and now you must perish together with them, as well.\" What is the moral of this story?\n  choice: In serving the wicked, expect no reward, and be thankful if you escape injury for your pains.\n  choice: Pleasure bought with pains, hurts.\n  choice: Injuries may be forgiven, but not forgotten.\n  choice: Birds of a feather flock together.\n  choice: Physician, heal yourself!\nA:",
+        "targets": [
+            "The ignorant despise what is precious only because they cannot understand it."
+        ],
+        "multiple_choice_targets": [
+            "Better beans and bacon in peace than cakes and ale in fear.",
+            "Better no rule than cruel rule.",
+            "Better starve free than be a fat slave.",
+            "Do not be in a hurry to change one evil for another.",
+            "We often give our enemies the means for our own destruction."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 150,
+        "inputs": "Q: While fleeing from a pack of dogs, the raccoon came across a woodsman felling a tree and begged him for a safe hiding place. The woodsman offered him his hut, so the raccoon quickly ran inside and hid in a corner. A hunter with his dogs soon arrived at the scene and asked the woodsman whether he had seen a raccoon run by. The woodsman replied that he had not, but kept pointing at the hut as he spoke. The hunter, however, remained oblivious to his signs, and continued with his chase past the hut. Once the air had cleared, the raccoon left the hut and was about to depart, when the woodsman reprimanded him: \"How ungrateful of you to leave without a word of thanks, even though I saved your life.\" To that, the raccoon replied: \"I would have thanked you if your actions had been as good as your words, and your speech had not been betrayed by your hands.\" What is the moral of this story?\n  choice: One good turn deserves another.\n  choice: We would often be sorry if our wishes were gratified.\n  choice: The greatest kindness will not bind the ungrateful.\n  choice: A bribe in hand betrays mischief at heart.\n  choice: There is as much malice in a wink as in a word.\nA:",
+        "targets": [
+            "Necessity is the mother of invention."
+        ],
+        "multiple_choice_targets": [
+            "A liar will not be believed, even when he speaks the truth.",
+            "Any fool can despise what he cannot get.",
+            "He who plays a trick must be prepared to take a joke.",
+            "Not everything you see is what it appears to be.",
+            "Physician, heal yourself!"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 161,
+        "inputs": "Q: When first the raccoon encountered the tiger he was very frightened, so he ran away and hid himself in the woods. Next time, however, he came near the tiger, but stopped at a safe distance, watching the majestic beast pass him by. The third time they came near one another the raccoon went right up to the tiger, asking him how his family were, and when they may come across each other again. Once their conversation was concluded, he parted from the tiger without much ceremony or reverence. What is the moral of this story?\n  choice: Do not blindly trust gossipers.\n  choice: One story is good, till another is told.\n  choice: Familiarity breeds contempt.\n  choice: Be on guard against men who can strike from a distance.\n  choice: Look before you leap.\nA:",
+        "targets": [
+            "You cannot escape your fate."
+        ],
+        "multiple_choice_targets": [
+            "Destroy the seed of evil, or it will grow up to your ruin.",
+            "How sorry we would be if many of our wishes were granted.",
+            "Regardless of our wishes, or even our intent, it is to our nature alone that we will be faithful.",
+            "The gods help them that help themselves.",
+            "They are foolish who give their enemy the means of destroying them."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 84,
+        "inputs": "Q: An elderly woman who lost sight in both of her eyes called a doctor, agreeing that if he cures her blindness, he would receive a generous payment; but should his treatment fail then he would get nothing. The doctor visited the woman several times, applying a healing salve to her eyes and stealing a little of her valuables on each visit. Once he took everything of value, he healed her and asked to be paid. The woman refused, having noticed that her valuables are missing. Angered, the doctor summoned the woman before a judge, where she argued: \" It is true that I promised to pay the doctor once I recover my sight. He now declares that I am healed, but I claim that I remain blind. You see, before I lost my sight, I saw in my house various valuable items: but now, although the doctor claims to have cured me, I see none of my prized possessions.\" What is the moral of this story?\n  choice: Any fool can despise what he cannot get.\n  choice: Physician, heal yourself!\n  choice: He who plays a trick must be prepared to take a joke.\n  choice: A liar will not be believed, even when he speaks the truth.\n  choice: Not everything you see is what it appears to be.\nA:",
+        "targets": [
+            "In quarreling about the shadow we often lose the substance."
+        ],
+        "multiple_choice_targets": [
+            "Birds of a feather flock together.",
+            "Evil wishes, like chickens, come home to roost.",
+            "Harm hatch, harm catch.",
+            "It is too late to whet the sword when the trumpet sounds.",
+            "Those who assume a character which does not belong to them, only make themselves ridiculous."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 171,
+        "inputs": "Q: A boy, nearly drowning in a river after having exerted himself too much, called out to a passerby for help. Instead of reaching out and pulling the boy ashore, the passerby scolded him for his thoughtlessness, telling the boy that he should have been more careful. The boy replied while trying to stay afloat: \"Please, help me first and scold me later all you want!\" What is the moral of this story?\n  choice: Counsel without help is useless.\n  choice: Those who pretend to be what they are not, sooner or later, find themselves in deep water.\n  choice: He winds up friendless who plays both sides against the middle.\n  choice: Clumsy jesting is no joke.\n  choice: It shows an evil disposition to take advantage of a friend in distress.\nA:",
+        "targets": [
+            "Pleasure bought with pains, hurts."
+        ],
+        "multiple_choice_targets": [
+            "Be on guard against men who can strike from a distance.",
+            "If words suffice not, blows must follow.",
+            "It is useless attacking the insensible.",
+            "Love can tame the wildest.",
+            "Self-interest alone moves some men."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 185,
+        "inputs": "Q: When he first encountered a camel, the man was frightened by his size and quickly ran away. After a while, he noticed that the animal was exceptionally gentle and did not wish him any harm, and summoned enough courage to finally approach him. Marvelling at how placid and passive the camel was, the man eventually put a bridle in his mouth and let children ride around on his back. What is the moral of this story?\n  choice: Evil tendencies are shown in early life.\n  choice: Use helps to overcome dread.\n  choice: The hero is brave in deeds as well as words.\n  choice: A willful beast must go his own way.\n  choice: Trust not in him that seems a saint.\nA:",
+        "targets": [
+            "Every man for himself."
+        ],
+        "multiple_choice_targets": [
+            "Better no rule than cruel rule.",
+            "Birds of a feather flock together.",
+            "Do not count your chickens before they are hatched.",
+            "Necessity is the mother of invention.",
+            "Necessity knows no law."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "Q: In a war between mice and cats, the cats were always victorious. The mice assumed that the reason for their defeats was the lack of military leadership to command them and improve their morale. Thus, they elected those among them known for their heritage, strength, and wisdom as their leaders, as well as those who were the bravest fighters, to train up the mouse army. Once the mice completed their drills and felt sufficiently disciplined, they challenged the cats to another battle. Prior to the engagement, the newly elected mouse generals bound straws around their heads to be better seen by their troops on the battlefield. Yet despite all the preparations, the cats emerged victorious yet again, quickly routing the mice who retreated to their holes. The generals, however, could not fit inside the holes due to their headdress and were eaten by the cats as a result. What is the moral of this story?\n  choice: Strife feeds on conflict.\n  choice: Wit always has an answer ready.\n  choice: The more honor the more danger.\n  choice: Men often bear little grievances with less courage than they do large misfortunes.\n  choice: The strong and the weak cannot keep company.\nA:",
+        "targets": [
+            "Beware of a friend with an ulterior motive."
+        ],
+        "multiple_choice_targets": [
+            "He who incites to strife is worse than he who takes part in it.",
+            "If words suffice not, blows must follow.",
+            "It is too late to whet the sword when the trumpet sounds.",
+            "Only cowards insult dying majesty.",
+            "Pride goes before destruction."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 168,
+        "inputs": "Q: It happened once that a tiger fell in love with a young woman and proposed a marriage to her parents. Understandably, the old couple didn’t want to give up their daughter to the tiger, but also didn’t want to anger the dangerous predator. Thus, they offered him a compromise: \"While we are very honored by you offer, we are afraid that you might injure our daughter when showing your affection, as she is young and tender. We would feel much safer and happily reconsider your proposal if you had your teeth and claws removed to reduce the possible dangers to her.\" The tiger, blind with love, promptly had his claws cut and teeth taken out. When he next met the parents of his beloved, they laughed at him and simply ignored him, as he no longer posed any threat. What is the moral of this story?\n  choice: It shows an evil disposition to take advantage of a friend in distress.\n  choice: Youth's first duty is reverence to parents.\n  choice: Love can tame the wildest.\n  choice: Do unto others what you would have them do unto you.\n  choice: We would often be sorry if our wishes were gratified.\nA:",
+        "targets": [
+            "Appearances are deceptive."
+        ],
+        "multiple_choice_targets": [
+            "Equals make the best friends.",
+            "He that has many friends, has no friends.",
+            "Little friends may prove great friends.",
+            "Old friends cannot with impunity be sacrificed for new ones.",
+            "We must make friends in prosperity if we would have their help in adversity."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 119,
+        "inputs": "Q: One evening, a goatherd was driving his flock towards the farm and noticed that a couple of wild goats had joined the flock during the day. Happy about the newcomers, he led them into the enclosure with the rest of the goats and closed it overnight. Next day, the goats were unable to go to the pasture due to a heavy storm, so the goatherd supplied them with hay for the day, giving the wild goats plenty of food to entice them to stay, while only giving just enough to the rest of the flock. The day after, just as the goatherd opened the enclosure to bring the goats to the pasture, the wild goats stormed out and ran away as fast as they could. Upset, the goatherd shouted after them, accusing them of ingratitude. The goats replied: \"The very reason why we do not want to stay is that you gave us more food than your own flock! If we stayed and some new goats came along, you would treat us badly just to impress the new arrivals.\" What is the moral of this story?\n  choice: Persuasion is better than force.\n  choice: We should bear our troubles bravely rather than try to escape them.\n  choice: Some men are of more consequence in their own eyes than in the eyes of their neighbors.\n  choice: Old friends cannot with impunity be sacrificed for new ones.\n  choice: Trouble comes from the direction we least expect it.\nA:",
+        "targets": [
+            "Self-help is the best help."
+        ],
+        "multiple_choice_targets": [
+            "Better starve free than be a fat slave.",
+            "Contentment with our lot is an element of happiness.",
+            "Evil wishes, like chickens, come home to roost.",
+            "Grasp at the shadow and you will lose the substance.",
+            "Greed often overreaches itself."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 165,
+        "inputs": "Q: A pilgrim about to set out on a long journey noticed his mutt standing at the door and stretching himself. Thus, he asked the mutt: \"Why do you stand there doing nothing? Everything is ready but you, so come with me without any more delay.\" The mutt, wagging his tail, replied: \"But master, I have been ready for some time and have been waiting for you.\" What is the moral of this story?\n  choice: Every man for himself.\n  choice: Whatever you do, do with all your might.\n  choice: Nothing escapes the master's eye.\n  choice: Even a fool is wise - when it is too late!\n  choice: The loiterer often blames delay on his more active friend.\nA:",
+        "targets": [
+            "Familiarity breeds contempt."
+        ],
+        "multiple_choice_targets": [
+            "Beware of a friend with an ulterior motive.",
+            "Destroy the seed of evil, or it will grow up to your ruin.",
+            "Fine feathers don't make fine birds.",
+            "In avoiding one evil, care must be taken not to fall into another.",
+            "Never trust the advice of a man in difficulties."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 86,
+        "inputs": "Q: Playing near a pond, a group of children spotted some toads swimming in the water and began to pelt them with rocks. After they killed several, one of the toads lifted his head out of the water and spoke to them: \"Please stop, my children: what is a game to you, is deadly to us.\" What is the moral of this story?\n  choice: One man's pleasure may be another's pain.\n  choice: Those who pretend to be what they are not, sooner or later, find themselves in deep water.\n  choice: Revenge will hurt the avenger.\n  choice: Harm hatch, harm catch.\n  choice: Stoop to conquer.\nA:",
+        "targets": [
+            "What is most truly valuable is often underrated."
+        ],
+        "multiple_choice_targets": [
+            "Clothes may disguise a fool, but his words will give him away.",
+            "Destroy the seed of evil, or it will grow up to your ruin.",
+            "It shows an evil disposition to take advantage of a friend in distress.",
+            "Only cowards insult dying majesty.",
+            "Spare the rod and spoil the child."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 137,
+        "inputs": "Q: Witnessing his might, a hawk proposed an alliance to a tiger, so that they may help each other with hunting their prey. The tiger had no objections, but required some proof of the hawk’s good intentions, saying: \"How can I trust someone to be a friend who could simply fly away from this alliance whenever it suits him?\" What is the moral of this story?\n  choice: Never trust the advice of a man in difficulties.\n  choice: Try before you trust.\n  choice: No arguments will give courage to the coward.\n  choice: A bribe in hand betrays mischief at heart.\n  choice: Trust not in him that seems a saint.\nA:",
+        "targets": [
+            "Regardless of our wishes, or even our intent, it is to our nature alone that we will be faithful."
+        ],
+        "multiple_choice_targets": [
+            "Equals make the best friends.",
+            "He that has many friends, has no friends.",
+            "Little friends may prove great friends.",
+            "Old friends cannot with impunity be sacrificed for new ones.",
+            "We must make friends in prosperity if we would have their help in adversity."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Q: An angler, after spending the whole day fishing, only caught one small fish. The fish begged him to spare her, saying: \"I am far too small to make a filling meal for you right now. Let me go and I will grow, so that you can catch me later when I can satisfy your hunger.\" The angler smiled and replied: \"I think I will keep you, little fish. I have you now, but I may not be able to catch you later.\" What is the moral of this story?\n  choice: Better starve free than be a fat slave.\n  choice: You may share the labours of the great, but you will not share the spoil.\n  choice: Sorrow not over what is lost forever.\n  choice: A little thing in hand is worth more than a great thing in prospect.\n  choice: Try before you trust.\nA:",
+        "targets": [
+            "What is most truly valuable is often underrated."
+        ],
+        "multiple_choice_targets": [
+            "Distrust interested advice.",
+            "He who is once deceived is doubly cautious.",
+            "It is useless attacking the insensible.",
+            "No arguments will give courage to the coward.",
+            "Your pride is just the prologue of your shame."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 140,
+        "inputs": "Q: A pilgrim about to set out on a long journey noticed his mutt standing at the door and stretching himself. Thus, he asked the mutt: \"Why do you stand there doing nothing? Everything is ready but you, so come with me without any more delay.\" The mutt, wagging his tail, replied: \"But master, I have been ready for some time and have been waiting for you.\" What is the moral of this story?\n  choice: Every man for himself.\n  choice: Whatever you do, do with all your might.\n  choice: Nothing escapes the master's eye.\n  choice: Even a fool is wise - when it is too late!\n  choice: The loiterer often blames delay on his more active friend.\nA:",
+        "targets": [
+            "To be satisfied with one's lot is better than to desire something which one is not fitted to receive."
+        ],
+        "multiple_choice_targets": [
+            "He laughs best that laughs last.",
+            "He who plays a trick must be prepared to take a joke.",
+            "He winds up friendless who plays both sides against the middle.",
+            "It is absurd to ape our betters.",
+            "Men often applaud an imitation and hiss the real thing."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    }
+]

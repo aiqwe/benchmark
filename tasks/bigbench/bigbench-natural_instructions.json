@@ -1,0 +1,212 @@
+[
+    {
+        "idx": 1515,
+        "inputs": "Definition: You are given a background paragraph that describes one or more causal or qualitative relationships such as a relationship in economics or a scientific law and a story that makes use of the concepts or the relationship described in the provided paragraph. You are also given a question about the story that requires understanding of the relationship described in the background paragraph and the story. You need to come up with an answer to the given question; the answer will be a span from either the question or the story. In order to correctly answer the given question, you need to understand the relationship mentioned in the background paragraph and should be able to use it to understand that in the story.  Things to Avoid: Your answer can not consist of any word that is not mentioned in any of these: the background paragraph, the story or the question. Emphasis/Caution: You can directly copy and paste a span from the story or the question while answering the given question. Prompt: Answer the given question by generating a span from the provided story or the question.\nQ: Background Paragraph: Ocean acidification occurs when excess carbon dioxide in the atmosphere causes the oceans to become acidic. Burning fossil fuels has led to an increase in carbon dioxide in the atmosphere. This carbon dioxide is then absorbed by the oceans, which lowers the pH of the water. Ocean acidification can kill corals and shellfish. It may also cause marine organisms to reproduce less, which could harm other organisms in the food chain. As a result, there also may be fewer marine organisms for humans to consume. \nStory: The biologists found out that the Indian Ocean had a lower water pH than it did a decade ago, and it became acidic. The water in the Arctic ocean still had a neutral to basic pH. \nQuestion: Which ocean had more instances of marine organisms reproducing less?\nA:",
+        "targets": [
+            "Frozen.",
+            "Solid."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2181,
+        "inputs": "Definition: A question that is free of any grammatical or logcal errors, should be labeled 'yes', otherwise it should be indicated as 'no'. A question is grammatically correct if all its entities i.e. nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position. A question is logically correct if the semantic makes sense. Things to Avoid: - Emphasis/Caution: - Prompt: Do you think the given question is a valid question and free of grammatical and logical errors? \nQ: Sentence: If you have ever heard, \"\"Eat a good breakfast\"\", thats why. \nQuestion: What time do you eat a good breakfast?\nA:",
+        "targets": [
+            "The highlands were a lot colder than the beaches because the _ were lower down in elevation."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 414,
+        "inputs": "Definition: You need to read the given passage and construct a question about the information present in the passage. The question should be answerable from the passage. Most importantly, only those questions are allowed whose answer cannot be determined from a single sentence. Things to Avoid: (i) Do not generate questions that require only a single sentence to answer. Instead, try to combine two sentences and create a question from that combination. (ii) Do not create questions which are open-ended i.e the answers of which can not be found precisely from the information provided in the passage. Emphasis/Caution: -  Prompt: Write a valid question.\nQ: Paragraph- Sent 1: Casey Bowman is an American orphan who was adopted into a martial arts dojo in Japan .Sent 2: Because of his perseverance and desire to master bushido , he earns the respect of the dojo 's sensei and his daughter Namiko .Sent 3: However , the dojo 's top student Masazuka becomes bitter over Namiko 's friendship with Casey until one morning , during a sparring match , he loses his temper and nearly kills Casey by throwing a katana at him .Sent 4: In defense , Casey scars Masazuka below his right eye .Sent 5: As a result of his actions , Masazuka is banished from the dojo by the sensei .Sent 6: Years later , Masazuka becomes an assassin under contract with an American conglomerate called Temple Industries , which itself runs an underground criminal cult known as `` The Ring '' .Sent 7: He returns to his former dojo and claims in vain the sensei 's succession as s ke , but the sensei refuses to oblige .Sent 8: Anticipating an invasion by Masazuka , the sensei assigns Casey and Namiko to guard an old chest called the Yoroi Bitsu , which contains the suit and weapons of an ancient ninja .Sent 9: Before Masazuka storms through the dojo and murders the sensei , Casey and Namiko manage to take the Yoroi Bitsu to New York City , where they keep it safe at Triborough University 's vault with the help of the sensei 's friend Professor Garrison .Sent 10: They are tracked down by Masazuka , who sends Temple 's thugs to take down the couple .Sent 11: While Casey and Namiko are on the run from the thugs , they are framed for the murder of Professor Garrison and arrested .\nA:",
+        "targets": [
+            "What is the last name of the person whose humanitarian themes later became a recurring theme in his lyrics and public persona?",
+            "What is the first name of the person who said Beat It was Jackson's first successful rock cross-over piece?",
+            "What is the first name of the person who observed that the title track \"Thriller\" began Jackson's interest with the theme of the supernatural?",
+            "What is the name of the person that released Off the Wall?",
+            "What album featured the song Wanna Be Startin' Somethin'?",
+            "What is the name of the person that created the track Billie Jean?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 655,
+        "inputs": "Definition: Generate an overlapping word between the given two sentences. When you find the overlapping words, they don't have to match exactly, e.g., \"survival\" and \"survive\" are valid overlapping words. Things to Avoid: Little words like \"the\" or \"of\" don't count! You must generate significant words which are not the stop words. Emphasis/Caution: - Prompt: Write down an overlapping word between the given two sentences.\nQ: Sentence1: Cells are the microscopic building blocks of organisms. \nSentence2: proteins are the building blocks of organisms.\nA:",
+        "targets": [
+            "Spades.",
+            "hearts."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4114,
+        "inputs": "Definition: You need to create a question containing a blank (_), based on the given context word. Your question must contain two persons --PersonX and PersonY. The expected answer to your question must be PersonX. Things to Avoid: 1. PersonX and PersonY should not be equally likely to fill the blank. There should be an agreed upon answer to fill in the blank. 2. Your generations should NOT contain potentially explicit, offensive, or adult content. 3. Do not use names of real people (e.g., Donald Trump, Putin, etc.) in your question. 4. Avoid repeating the same style, pattern or phrases in each question, try to increase diversity by varying sentence structure, blank placement etc. Emphasis/Caution: 1. Your question must contain at least 15 and at most 30 words. 2. You must utilize the given context word while writing the question. 3. Your question must contain only one blank. 4. Make sure that Person X and Person Y have the same gender. 5. In your question, PersonX and PersonY should be used only ONCE and PersonX should appear earlier than PersonY. Prompt: Write a fill in the blank question based on the provided context word.\nQ: Context Word: biased.\nA:",
+        "targets": [
+            "What helps maintain body temperature?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1084,
+        "inputs": "Definition: Write the sentence numbers which are needed to answer the given question. Separate multiple sentence numbers with comma (\", \"). E.g. \"1, 2\" would be the correct response if Sent 1 and Sent 2 are needed to answer the given question.  Things to Avoid: Your answer should not contain anything than the sentence numbers separated by comma (e.g 1, 2, 3, 4). Emphasis/Caution: The given question requires more than one sentences to answer. So, your answer must contain atleast one comma (\", \"). Prompt: Write the sentences needed to answer the question.\nQ: Paragraph- Sent 1: Mr. Neville ( ( ( Anthony Higgins , a young and arrogant artist and something of a Byronic hero , is contracted to produce a series of 12 landscape drawings of an estate by Mrs. Virginia Herbert for her absent and estranged husband . Sent 2: Part of the contract is that Mrs. Herbert agrees `` to meet Mr. Neville in private and to comply with his requests concerning his pleasure with me . '' Sent 3: Several sexual encounters between them follow , each of them acted in such a way as to emphasise reluctance or distress on the part of Mrs Herbert and sexual aggression or insensitivity on the part of Mr Neville . Sent 4: Meanwhile , whilst living on the estate , Mr. Neville gains quite a reputation with its dwellers , especially with Mrs. Herbert 's son-in-law , Mr. Talmann . Sent 5: Mrs. Herbert , wearied of meeting Mr. Neville for his pleasure , tries to terminate the contract before all of the drawings are completed and orders Mr. Neville to stop . Sent 6: But he refuses to void the contract and continues as before . Sent 7: Then Mrs. Herbert 's married , but as yet childless , daughter , Mrs. Talmann , who has apparently become attracted to Mr. Neville , seems to blackmail him into making a second contract in which he agrees to comply with what is described as her pleasure , rather than his a reversal of the position in regard to her mother . Sent 8: A number of curious objects appear in Neville 's drawings , which point ultimately to the murder of Mr. Herbert , whose body is discovered in the moat of the house . Sent 9: Mr. Neville completes his twelve drawings and leaves the house . \nQuestion: Where was Mrs. Talmann's absent father found?.\nA:",
+        "targets": [
+            "De Broglie equation.",
+            "Einstein equation."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 866,
+        "inputs": "Definition: You are given a sentence and a question in the input. If information provided in the sentence is enough to answer the question, label \"Yes\", otherwise label \"No\". Things to Avoid: Do not use any facts other than those provided in the sentence while labelling \"Yes\" or \"No\" . Emphasis/Caution: There are only 2 types of valid responses: Yes and No. Prompt: Can the above question be answered using only the information provided in the given sentence?\nQ: Sentence: They saw deer, a moose, a fox, and a bear. \nQuestion: Who did the whistle belong to?\nA:",
+        "targets": [
+            "Date.",
+            "Event."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 111,
+        "inputs": "Definition: You need to create a question containing a blank (_), based on the given context word. Your question must contain two persons --PersonX and PersonY. The expected answer to your question must be PersonX. Things to Avoid: 1. PersonX and PersonY should not be equally likely to fill the blank. There should be an agreed upon answer to fill in the blank. 2. Your generations should NOT contain potentially explicit, offensive, or adult content. 3. Do not use names of real people (e.g., Donald Trump, Putin, etc.) in your question. 4. Avoid repeating the same style, pattern or phrases in each question, try to increase diversity by varying sentence structure, blank placement etc. Emphasis/Caution: 1. Your question must contain at least 15 and at most 30 words. 2. You must utilize the given context word while writing the question. 3. Your question must contain only one blank. 4. Make sure that Person X and Person Y have the same gender. 5. In your question, PersonX and PersonY should be used only ONCE and PersonX should appear earlier than PersonY. Prompt: Write a fill in the blank question based on the provided context word.\nQ: Context Word: crises.\nA:",
+        "targets": [
+            "Deserts.",
+            "Season climate.",
+            "Sub-tropical.",
+            "Climates near north and south poles."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 961,
+        "inputs": "Definition: Write a correct answer to the given question based on its associated fact. Make sure that your answer is contained in the associated fact. Things to Avoid: Don't be creative and introduce any new word that is not mentioned in the associated fact! Remember that, the associated fact has been rearranged to form the question. So, the correct answer words must lie within the associated fact. Emphasis/Caution: The correct answer can be a word, phrase, or even a sentence. Prompt: Write a correct answer to the given question based on the associated fact.\nQ: Fact: Humans depend on sunlight. \nQuestion: What depends on sunlight?\nA:",
+        "targets": [
+            "Number."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 241,
+        "inputs": "Definition: Generate an overlapping word between the given two sentences. When you find the overlapping words, they don't have to match exactly, e.g., \"survival\" and \"survive\" are valid overlapping words. Things to Avoid: Little words like \"the\" or \"of\" don't count! You must generate significant words which are not the stop words. Emphasis/Caution: - Prompt: Write down an overlapping word between the given two sentences.\nQ: Sentence1: Carbon Monoxide Carbon monoxide is a health hazard. \nSentence2: Furnaces and other devices that burn fuel are health hazards.\nA:",
+        "targets": [
+            "PersonX loved to eat spicy curry but PersonY liked tacos better. _ took a trip to Mexico instead of India."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1852,
+        "inputs": "Definition: A question that is free of any grammatical or logcal errors, should be labeled 'yes', otherwise it should be indicated as 'no'. A question is grammatically correct if all its entities i.e. nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position. A question is logically correct if the semantic makes sense. Things to Avoid: - Emphasis/Caution: - Prompt: Do you think the given question is a valid question and free of grammatical and logical errors? \nQ: Sentence: The leaders of the Department of Homeland Security now appear before 88 committees and subcommittees of Congress. \nQuestion: Will they continue to appear before the committees and subcommittees next year?\nA:",
+        "targets": [
+            "fences."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 666,
+        "inputs": "Definition: In this task, you're given a fill-in-the-blank question which contains two object names. Additionally, you're given one answer which is one of the objects present in the question. In this task, you need to minimally change the given question so that the answer flips to another object in the question. Remember the question has to be about both objects which are related but different; for example, \"trophy\" and \"suitcase\". This task typically involves replacing one word i.e. the 'trigger word' by its antonym (e.g. changing from \"small\" to \"big\"). Things to Avoid: 1. You should not change any content in the given question beyond a word or two, i.e., the trigger word/phrase. 2. The expected answer to your question must not be associated with just the trigger word; instead it should depend on the context present in the question. 3. The expected answer should not be ambiguous. For your question, there should be an agreed upon answer to fill in the blank. 4. Your generations should NOT contain potentially explicit, offensive, or adult content. 5. In your generated question, retain the object names from the input question. 6. Avoid repeating the same style or phrase in generating your modified question e.g. this task can be always solved using a simple negation i.e. by adding not, never, etc. Instead, try to increase the word diversity. Emphasis/Caution: 1. Your question must contain at least 15 and at most 30 words. 2. Your question must have atleast 70% overlapping words with the given question 3. You must utilize the given context word while writing the question. 4. Your question must contain only one blank. 5. The two objects should be used ONCE in your question. 6. Here is a list of attributes and associated contrastive words that may be helpful for writing contrastive trigger words. Note that contrastive trigger words help in flipping the label.\n| Attribute | triggerword | contrastive triggerword | \n| age | old | new | \n| altitude | low | high |\n| area | small | vast | \n| brightness | dark | light | \n| clarity | obscure | clear | \n| cleanness | dirty | clean | \n| complexity | simple | complex | \n| cost | cheap | expensive |\n| density | sparse | dense |\n| depth | shallow | deep |\n| distance | near | far |  \n| electric conductivity | low | high |\n| flexibility | rigid | flexible |\n| granularity | fine | coarse | \n| hardness | soft | hard | \n| length | short | long | \n| magnitude | small | large | \n| mass | small | large | \n| odor | weak | strong | \n| pressure | low | high | \n| resistance | low | high | \n| shape | round | sharp |\n| shape | flat | spiky |\n| size | small | large | \n| sound | quiet | loud | \n| sound pitch | low | high | \n| speed | slow | fast | \n| stability | unstable | stable | \n| strength | weak | strong | \n| temperature | low | high | \n| texture | smooth | rough | \n| thermal conductivity | low | high |\n| thickness | thin | thick | \n| volume | small | large |\n| weight | light | heavy | \n| width | narrow | wide | \n| location | in | out |\n| location | up | down |\n| location | above | below |\n| location | on | off |\n| location | to | from |\n Prompt: Minimally change the given fill in the blank question so that its answer flips to the another object mentioned in the question.\nQ: Context Word: disposable. \nQuestion: The drying machine was disposable at this point, but we still relied on the washboard, as the _ was antiquated at this point. \nAnswer: drying machine.\nA:",
+        "targets": [
+            "He decided to disconnect the controller and hook up the remote, because the _ was dead."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 572,
+        "inputs": "Definition: This task involves creating questions from a given passage that involve some kind of complex reasoning (including numerical reasoning). \nThe generated questions must require looking at more than one part of the passage to answer. Try to use a variety of reasoning types in your questions (some of sample reasoning types are illustrated in the 'postive examples' field) and also have a variety of answer types (spans, numbers, dates). \nA span is a continuous phrase taken directly from the passage or question. In such questions, the answer spans are recommended to be five words. \nQuestions with answer type \"number\", are expected to start with \"How many\". For instance, \"How long did an event last?\" can be phrased as \"How many years did an event last?\". \n Things to Avoid: - Emphasis/Caution: In order to incrase diversity, try to create more questions for which the answer will be multiple spans. Please create questions that require AT LEAST 2 arithmetic operations as illustrated in the 'positive examples' field. You are encouraged to try DIFFERENT COMBINATIONS of operations and not just limit to the combinations shown in those examples. The more challenging questions you create, the better it is.  Prompt: Type a question based on the input passage.\nQ: Passage: Playing in their second game of the season, the Cincinnati Bengals had a lot of things go wrong. Playing Ohio state rivals Cleveland Browns, the defense looked the exact opposite as they did in week one. Browns quarterback Derek Anderson started and threw for 328 yards and five touchdowns. It was only the third time in NFL history that two quarterbacks had thrown at least five touchdown passes in the same game. Jamal Lewis had 215 yards rushing with one touchdown and the Browns had two receivers with over 100 yards, Braylon Edwards and Kellen Winslow. The Bengals offense tried their best to keep the team in the game, however, as Carson Palmer threw for 6 TD's and Chad Johnson caught for 209 yards. The game started out slowly in the first quarter but the second quarter saw a combined 35 points scored. It was close in the end, when the Bengals started a drive with under one minute left. They managed to get the ball to the 50-yard line when Carson Palmer was intercepted by Leigh Bodden on an intended pass for Chad Johnson. This game ended up being the eighth highest scoring game in NFL history, but not the highest scoring game between these two teams. In 2004, the Bengals beat the Browns 58-48 for the second-most combined points. The Redskins (72) and Giants (41) combined for 113 points in 1966 for the most. Q1 - CIN - 10:40 - 13-yard TD pass from Carson Palmer to Rudi Johnson (Shayne Graham kick) (CIN 7-0) Q1 - CLE - 5:02 - Phil Dawson 39-yard FG (CIN 7-3) Q1 - CLE - 0:09 - Phil Dawson 39-yard FG (CIN 7-6) Q2 - CLE - 11:02 - 17-yard TD pass from Derek Anderson to Joe Jurevicius (Dawson kick) (CLE 13-7) Q2 - CIN - 7:40 - 23-yard TD pass from Carson Palmer to T. J. Houshmandzadeh (Graham kick) (CIN 14-13) Q2 - CLE - 6:37 - 9-yard TD pass from Derek Anderson to Joe Jurevicius (Dawson kick) (CLE 20-14) Q2 - CIN - 3:12 - 22-yard TD pass from Carson Palmer to Chad Johnson (Graham kick) (CIN 21-20) Q2 - CLE - 1:11 - 25-yard TD pass from Derek Anderson to Kellen Winslow (Dawson kick) (CLE 27-21) Q3 - CIN - 12:13 - Shayne Graham 20-yard FG (CLE 27-24) Q3 - CLE - 8:24 - 34-yard TD pass from Derek Anderson to Braylon Edwards (Dawson kick) (CLE 34-24) Q3 - CIN - 6:18 - 14-yard TD pass from Carson Palmer to Chad Johnson (Graham kick) (CLE 34-31) Q3 - CLE - 6:04 - Jamal Lewis 66-yard TD run (Dawson kick) (CLE 41-31) Q3 - CIN - 0:53 - 5-yard TD pass from Carson Palmer to T. J. Houshmandzadeh (Graham kick) (CLE 41-38) Q4 - CLE - 10:07 - 37-yard TD pass from Derek Anderson to Braylon Edwards (Dawson kick) (CLE 48-38) Q4 - CLE - 5:47 - Phil Dawson 18-yard FG (CLE 51-38) Q4 - CIN - 3:45 - 7-yard TD pass from Carson Palmer to Glenn Holt (Graham kick) (CLE 51-45).\nA:",
+        "targets": [
+            "Mr. Jamison has a low BMI .",
+            "Mr. Jamison is over 5'10 \" ."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3151,
+        "inputs": "Definition: Write an incorrect answer to the given question based on the associated fact. You are also provided with the correct answer to the given question. Make sure that your incorrect answer is relevant and similar to the associated fact.  Also try to make the incorrect answer similar to the correct answer so that distinguishing correct answer from the incorrect answer is not very easy. Things to Avoid: Make sure you don't accidentally provide another correct answer! Also make sure they sound reasonable (e.g., might be on a school pop quiz). Emphasis/Caution: A good incorrect answer can be constructed using words associated with the question, but not the correct answer. For example, for the question \"What helps plants survive?\", using words like \"weeds\", \"vase\", \"bee\" (associated with \"plant\"), or \"first aid\", \"parachute\", \"accident\" (associated with \"survive\") etc. in your incorrect answers makes the question hard, so these results in good incorect answers. Prompt: Write an incorrect answer to the provided question and its associated fact.\nQ: Fact: a spider web is used to capture that which can be organic. \nQuestion: a spider web is used to capture that which is what? \nCorrect Answer: can be organic.\nA:",
+        "targets": [
+            "As part of the deal, PersonX got 50% of PersonY 's earnings.  _ was a greedy type.",
+            "PersonX always saved more money shopping than PersonY did, since _ could always spot a great deal .",
+            "PersonX made a deal that PersonY couldn't refuse, because _ was good at creative appealing offers.",
+            "PersonX made a deal with PersonY's parents that once dinner was over _ would put their child to bed.",
+            "PersonX made a great deal for PersonY, after _ used their professional negotiation skills at the meeting.",
+            "PersonX wanted to do a deal to sort out a problem but PersonY would not because _ was a very peaceful person.",
+            "PersonX was unable to deal with PersonY's incessant talking, so _ declined to answer questions."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4185,
+        "inputs": "Definition: Write a fact related to the given fact, based on the given topic word. Note that, your fact should have at least one word in common with the given fact. All facts in this task refer to science facts. Your related fact must form a chain with the given fact. Chains form when two facts connect together to produce a third fact. An example of a chain is: \"pesticides cause pollution\" (given fact) + \"pollution can harm animals\" (related fact) → \"pesticides can harm animals\" (connected chain) Things to Avoid: Avoid creating simple paraphrases of the given fact. While your generated fact should be related to the input fact, they must describe slightly different scientific phenomenon.  Emphasis/Caution: It's okay if your related fact includes some irrelevant information, provided that it has some overlap with the given fact and it contains some words corresponding to the provided  topic.  Prompt: Write a related fact to a given fact, based on the provided topic word.\nQ: Fact: Frogs also have a larynx, or voice box, to make sounds. \nTopic: larynx.\nA:",
+        "targets": [
+            "Fungi include yeasts, molds, and fleshy fungi."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2162,
+        "inputs": "Definition: In this task, based on the given context word, you are asked to create a pair of sentences each containing a blank (_). The sentence pair should look similar, and should be about two different persons (PersonX and PersonY). Additionally, the two sentences must be different in terms of trigger words (e.g., \"sympathetic\" and \"stern\") which express contrasting attributes about the two persons. The answer to the first and the second sentence must be PersonX and PersonY, respectively. Things to Avoid: 1. PersonX and PersonY should not be equally likely to fill the blank. For each sentence, there should be an agreed upon answer to fill in the blank. 2. Your generations should NOT contain potentially explicit, offensive, or adult content. 3. Do not use names of real people (e.g., Donald Trump, Putin, etc.) in your sentences. 4. Avoid repeating the same style or phrase in twin sentences e.g., a contrasting sentence can always be created using simple negation i.e. by adding not, never, etc. Instead, try to increase diversity. Emphasis/Caution: 1. Both twin sentences must contain at least 15 and at most 30 words. 2. Twin sentences must  have at least 70% overlapping words. 3. You must utilize the given context word while writing the twin sentences. 4. Each of the twin sentences must contain only one blank. 5. Make sure that PersonX and PersonY have the same gender. 6. In each sentence, PersonX and PersonY should be used only ONCE and PersonX should appear earlier than PersonY. Prompt: Create a pair of fill in the blanks questions based on the context word.\nQ: Context Word: howling.\nA:",
+        "targets": [
+            "How many incomplete passes did Alex Smith have?",
+            "How many more touchdowns did Frank Gore have compared to Vernon Davis?",
+            "How many points did the 49ers lose by?",
+            "Which team allowed the least points at the end of the game?",
+            "Which team scored the most in the game?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1767,
+        "inputs": "Definition: This task involves creating questions from a given passage that involve some kind of complex reasoning (including numerical reasoning). \nThe generated questions must require looking at more than one part of the passage to answer. Try to use a variety of reasoning types in your questions (some of sample reasoning types are illustrated in the 'postive examples' field) and also have a variety of answer types (spans, numbers, dates). \nA span is a continuous phrase taken directly from the passage or question. In such questions, the answer spans are recommended to be five words. \nQuestions with answer type \"number\", are expected to start with \"How many\". For instance, \"How long did an event last?\" can be phrased as \"How many years did an event last?\". \n Things to Avoid: - Emphasis/Caution: In order to incrase diversity, try to create more questions for which the answer will be multiple spans. Please create questions that require AT LEAST 2 arithmetic operations as illustrated in the 'positive examples' field. You are encouraged to try DIFFERENT COMBINATIONS of operations and not just limit to the combinations shown in those examples. The more challenging questions you create, the better it is.  Prompt: Type a question based on the input passage.\nQ: Passage: Coming off their road win over the Texans, the Ravens flew to Giants Stadium for a Week 11 interconference duel with the defending Super Bowl champions, the New York Giants.  In the first quarter, Baltimore trailed early as Giants RB Brandon Jacobs got back-to-back 1-yard TD runs (with a failed PAT on the latter).  In the second quarter, the Ravens continued to struggle as quarterback Eli Manning completed a 1-yard TD pass to TE Darcy Johnson.  Baltimore closed out the half with kicker Matt Stover getting a 38-yard field goal. In the third quarter, the Ravens tried to rally as rookie quarterback Joe Flacco completed a 10-yard TD pass to FB Le'Ron McClain.  However, New York answered with CB Aaron Ross returning an interception 50 yards for a touchdown.  In the fourth quarter, the Giants closed out the game as kicker Lawrence Tynes nailed a 19-yard field goal. The Ravens' top-ranked rushing defense gave up 207 yards, which is the most since October 1997 against the Pittsburgh Steelers.\nA:",
+        "targets": [
+            "microscopic eye.",
+            "microscopic see small.",
+            "mollusks microscopic.",
+            "mollusks."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5128,
+        "inputs": "Definition: This task involves annotating the answer type to a given question that involve some kind of complex reasoning (including numerical reasoning). Note that the questions require looking at more than one part of the passage to answer. There are 3 possible answer types (i) spans, (ii) numbers and (iii) dates. If the answer can be found in the passage, label it as \"span\". If the answer is a number, label as \"number\". Similarly, label \"date\" if you think the answer to the given question is a date. Things to Avoid: - Emphasis/Caution: - Prompt: What is the type of the answer corresponding to the given question? Number, Date, or Span?\nQ: Passage: The Livonian Master, like the grandmaster of the Teutonic Order, was elected by his fellow knights for a life term. The grandmaster exercised supervisory powers and his advice was considered equal to a command. The grandmaster of Teutonic knights did not limit local autonomy, he rarely visited Livonia or sent ambassadors for oversight.   ●  Hermann Balk 1237-1238  ●  Dietrich von Grüningen 1238-1242  ●  Dietrich von Grüningen 1244-1246   ●  Andreas von Stierland 1248-1253  ●  Anno von Sangershausen 1253-1256  ●  Burchard von Hornhausen 1256-1260  ●  Werner von Breithausen 1261-1263  ●  Konrad von Mandern 1263-1266  ●  Otto von Lutterberg 1266-1270  ●  Walther von Nortecken 1270-1273  ●  Ernst von Rassburg  1273-1279   ●  Konrad von Feuchtwangen 1279-1281  ●  Wilken von Endorp 1281-1287  ●  Konrad von Herzogenstein 1288-1290  ●  Halt von Hohembach -1293  ●  Heinrich von Dinkelaghe 1295-1296  ●  Bruno 1296-1298  ●  Gottfried von Rogga 1298-1307  ●  Gerhard van Joeck 1309-1322  ●  Johannes Ungenade 1322-1324  ●  Reimar Hane 1324-1328  ●  Everhard von Monheim 1328-130  ●  Burchard von Dreileben 1340-1345  ●  Goswin von Hercke 1345-1359  ●  Arnold von Vietinghof 1359-1364  ●  Wilhelm von Vrymersheim 1364-1385  ●  Robin von Eltz 1385-1389  ●  Wennemar Hasenkamp von Brüggeneye 1389-1401  ●  Konrad von Vietinghof 1401-1413  ●  Diderick Tork 1413-1415  ●  Siegfried Lander von Spanheim 1415-1424  ●  Zisse von Rutenberg 1424-1433  ●  Franco Kerskorff 1433-1435  ●  Heinrich von Bockenvorde 1435-1437  ●  Heinrich Vinke von Overbergen 1438-1450  ●  Johann Osthoff von Mengede 1450-1469  ●  Johann Wolthuss von Herse 1470-1471  ●  Bernd von der Borch 1471-1483  ●  Johann Freytag von Loringhoven 1483-1494  ●  Wolter von Plettenberg 1494-1535  ●  Hermann Hasenkamp von Brüggeneye 1535-1549  ●  Johann von der Recke 1549-1551  ●  Heinrich von Galen 1551-1557  ●  Johann Wilhelm von Fürstenberg 1557-1559  ●  Godert  Kettler 1559-1561. \nQuestion: How many years was Godert Kettler a Livonian Master?\nA:",
+        "targets": [
+            "Thomas and Joseph, two experienced squash players, are having a disagreement about which types of squash balls they should use in their match. Both have different preferences for the type of ball used. Joseph prefers a ball that bounces less and travels more slowly. Thomas, on the other hand, prefers a ball that travels more quickly and bounces more."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 996,
+        "inputs": "Definition: You are given a paragraph, a question and some answer options (associated with \"A\", \"B\", \"C\", \"D\", etc.) You need to list all the correct answer options with their associated letters (e.g. \"A\" can be a valid answer). Note that sometimes, more than one option can answer the question correctly and completely. In those cases, please generate all such options separated by comma (e.g. \"A, B\" is a valid answer). Things to Avoid: Do not generate anything else apart from one or more of the following characters: 'A', 'B, 'C', 'D', etc. Emphasis/Caution: -  Prompt: List all the correct answers for the given question based on the provided paragraph.\nQ: Paragraph- Sent 1: (CNN) -- As Iranian President Mahmoud Ahmadinejad visited the U.N. General Assembly in New York last month, the spotlight was once again on Iran.Sent 2: And true to form, the Iranian president made his fair share of provocative statements for the Western media.Sent 3: But while Ahmadinejad's mercurial rants captured our media's attention, back in Iran a coordinated strategy against the women's movement continued.Sent 4: On the eve of Ahmadinejad's arrival to New York, Shiva Nazar Ahari, a prominent young female defender of human rights, received a heavy sentence of six years in prison on charges including the vague crime of \"waging war against God\" -- a convenient catch-all offense for anyone who criticizes the regime and its human rights record.Sent 5: There's no denying it -- Iran's women have had a bad year.Sent 6: Nazar Ahari joins a steadily increasing number of other women's rights activists who are in prison for no greater crime than their attempt to fight for the rights of the women.Sent 7: Hengameh Shahidi, Alieh Eghdam Doust, Bahareh Hedayat and Mahdiyeh Golrou have all been sent to Tehran's notorious Evin Prison on trumped-up charges related to their activism.Sent 8: And while Nobel Peace Prize laureate Shirin Ebadi, arguably the most internationally recognized Iranian women's rights activist, remains unable to safely return to her country, the government is targeting those affiliated with her for arrest and imprisonment, including her lawyer Nasrin Sotoudeh and her former aide Jinous Sobhani.Sent 9: Since the 2009 disputed elections and associated government crackdown on the overall reform movement, the government has increasingly targeted women activists.Sent 10: The reasons behind this go well beyond the misogynist nature of Iran's religious leadership.Sent 11: Rather, it is more part of a deliberate and calculated strategy of the Iranian authorities to strike at the heart of the regime's greatest vulnerability -- internal legitimacy with its own people.Sent 12: See more CNN.com opinion articles Iran's government recognizes and fears the broader power of the women activists who have been on the front line of reform in Iran for more than a decade.Sent 13: One can roughly draw an analogy between the women's movement in Iran to movements of religious groups in Burma or Tibet, or the labor \"solidarity\" movements in the former Eastern bloc and associated labor-Roman Catholic solidarity in Poland -- all advocating initially for the freedoms of a specific group but which provoked government fears for their transformative power to promote broader human rights progress.Sent 14: While the outside world occasionally reacts to the most egregious manifestations of Iran's repression of women -- such as the international condemnation associated with Sakineh Mohammadi Ashtiani, an Iranian widow sentenced to stoning on charges of alleged adultery -- these events are often portrayed simply as a consequence of the regime's archaic viewpoint about gender. \nQuestion: Who received a prison sentence on the eve of Ahmadinejad's arrival to New York? (A) Mahmoud Ahmadinejad (B) Nazar Ahari (C) Shiva Nazar Ahari, a young female defender of human rights, received a sentence of six years in prison.\nA:",
+        "targets": [
+            "Ike, Leo, and Arrowtongue.",
+            "Arrowtongue, Sapien, and Balboa.",
+            "Leonardo d Vinci, Isaac Newton, and Sapien.",
+            "Darwin Reconnaisance Orbiter, Horus, and Balboa.",
+            "Balboa, Leonardo da Vinci and Sapien."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1646,
+        "inputs": "Definition: This task involves annotating the answer type to a given question that involve some kind of complex reasoning (including numerical reasoning). Note that the questions require looking at more than one part of the passage to answer. There are 3 possible answer types (i) spans, (ii) numbers and (iii) dates. If the answer can be found in the passage, label it as \"span\". If the answer is a number, label as \"number\". Similarly, label \"date\" if you think the answer to the given question is a date. Things to Avoid: - Emphasis/Caution: - Prompt: What is the type of the answer corresponding to the given question? Number, Date, or Span?\nQ: Passage: Hoping to keep slim playoff hopes alive, the Bengals traveled to the Louisiana Superdome for a Week 11 fight with the Saints. In the first quarter, the Bengals drew first blood as quarterback Carson Palmer completed a 41-yard touchdown pass to wide receiver Chad Johnson. The Saints would reply when quarterback Drew Brees completed a 72-yard touchdown strike to wide receiver Joe Horn. Midway through the second quarter, Cincinnati took the lead, when kicker Shayne Graham booted a 21-yard field goal. After a scoreless third quarter, New Orleans still trailed by three points. In the fourth quarter, Saints kicker John Carney tied the game with a 24-yard field goal. The Bengals offense awoke, and Palmer and Johnson connected with each other two times on 60-yard and 4-yard touchdown passes. The Bengal defense scored too, when rookie defensive back Ethan Kilmer returned a Brees interception 52 yards for a touchdown.  The Saints offense could only manage one more score , when Brees completed a 27-yard touchdown pass to wide receiver Terrance Copper. The Bengal defense then blocked the extra point attempt. Even though the Bengals were out-gained 595 yards to 385 yards, the Bengals snapped their three-game skid, and their record improved to 5-5. \nQuestion: How many touchdowns were scored in the first half?\nA:",
+        "targets": [
+            "My Arms, Your Hearse."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

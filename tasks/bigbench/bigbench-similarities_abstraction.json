@@ -1,0 +1,393 @@
+[
+    {
+        "idx": 42,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a blanket and a pair of mittens are alike.\nA:",
+        "targets": [
+            "Both are flowers."
+        ],
+        "multiple_choice_targets": [
+            "Both have wheels.",
+            "Both float on water.",
+            "Both have seats for people.",
+            "Both are modes of transportation."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a dentist and a podiatrist are alike.\nA:",
+        "targets": [
+            "Both are musical instruments."
+        ],
+        "multiple_choice_targets": [
+            "Both involve the face.",
+            "Both use the mouth.",
+            "Both are on the head.",
+            "Both are expressions of emotion."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a stopwatch and an hourglass are alike.\nA:",
+        "targets": [
+            "Both inform about current events."
+        ],
+        "multiple_choice_targets": [
+            "Both are pointy.",
+            "Both are sharp.",
+            "Both are made of metal.",
+            "Both are shiny and reflect light.",
+            "Both are struck with a hammer.",
+            "Both fasten objects together."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a blanket and a pair of mittens are alike.\nA:",
+        "targets": [
+            "Both are modes of transportation."
+        ],
+        "multiple_choice_targets": [
+            "Both involve the face.",
+            "Both use the mouth.",
+            "Both are on the head.",
+            "Both are expressions of emotion."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how lactose and sucrose are alike.\nA:",
+        "targets": [
+            "Both produce sound."
+        ],
+        "multiple_choice_targets": [
+            "Both are made of wood.",
+            "Both are made of leather.",
+            "Both are worn on the feet.",
+            "Both are kinds of shoes."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 49,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how cricket and rugby are alike.\nA:",
+        "targets": [
+            "Both protect occupants."
+        ],
+        "multiple_choice_targets": [
+            "Both taste sweet.",
+            "Both are found in food.",
+            "Both come in a powder.",
+            "Both are disaccharides."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a mannequin and a shoe tree are alike.\nA:",
+        "targets": [
+            "Both are kinds of shoes."
+        ],
+        "multiple_choice_targets": [
+            "Both are shiny.",
+            "Both are round.",
+            "Both are made of metal.",
+            "Both are coins."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how sauerkraut and kimchi are alike.\nA:",
+        "targets": [
+            "Both are Wonders of the Ancient World."
+        ],
+        "multiple_choice_targets": [
+            "Both are white substances.",
+            "Both are purchased from the store.",
+            "Both are long and flexible.",
+            "Both are round and flat.",
+            "Both are cooked before eating."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how clogs and oxfords are alike.\nA:",
+        "targets": [
+            "Both are pickled vegetables."
+        ],
+        "multiple_choice_targets": [
+            "Both having rhyming lines.",
+            "Both are framed.",
+            "Both depict a landscape or still life.",
+            "Both show portraits of famous people.",
+            "Both are works of art."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how collard greens and a head of lettuce are alike.\nA:",
+        "targets": [
+            "Both are Wonders of the Ancient World."
+        ],
+        "multiple_choice_targets": [
+            "Both having rhyming lines.",
+            "Both are framed.",
+            "Both depict a landscape or still life.",
+            "Both show portraits of famous people.",
+            "Both are works of art."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how relish and mayo are alike.\nA:",
+        "targets": [
+            "Both are beverages."
+        ],
+        "multiple_choice_targets": [
+            "Both are printed on paper.",
+            "Both are on TV.",
+            "Both contain advertisements.",
+            "Both inform about current events."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a baseball bat and a hockey stick are alike.\nA:",
+        "targets": [
+            "Both are condiments."
+        ],
+        "multiple_choice_targets": [
+            "Both have numbers.",
+            "Both tell time.",
+            "Both give you temperature.",
+            "Both are used to measure."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how George Washington and Abraham Lincoln are alike.\nA:",
+        "targets": [
+            "Both are weapons."
+        ],
+        "multiple_choice_targets": [
+            "Both are shiny.",
+            "Both are round.",
+            "Both are made of metal.",
+            "Both are coins."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a milkshake and fruit juice are alike.\nA:",
+        "targets": [
+            "Both provide electricity."
+        ],
+        "multiple_choice_targets": [
+            "Both have buttons with letters on them.",
+            "Both are very expensive.",
+            "Both consume electricity.",
+            "Both provide input."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how seatbelts and air bags are alike.\nA:",
+        "targets": [
+            "Both are modes of air transport."
+        ],
+        "multiple_choice_targets": [
+            "Both are made of metal.",
+            "Both are shiny.",
+            "Both are sharp.",
+            "Both are eating utensils."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how nails and screws are alike.\nA:",
+        "targets": [
+            "Both are severe weather."
+        ],
+        "multiple_choice_targets": [
+            "Both are round.",
+            "Both can be worn on the head.",
+            "Both start with the same letter.",
+            "Both produce sound."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a dentist and a podiatrist are alike.\nA:",
+        "targets": [
+            "Both are surrounded by something else."
+        ],
+        "multiple_choice_targets": [
+            "Both are bodies of fresh water.",
+            "Both have palm trees.",
+            "Both can rise and fall with the tide.",
+            "Both are surrounded by something else."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how Betamax and HD DVD are alike.\nA:",
+        "targets": [
+            "Both are condiments."
+        ],
+        "multiple_choice_targets": [
+            "Both are long.",
+            "Both are straight.",
+            "Both are narrow.",
+            "Both are made of metal.",
+            "Both are made of marble.",
+            "Both are structural elements."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how stereo headphones and a speaker are alike.\nA:",
+        "targets": [
+            "Both measure time."
+        ],
+        "multiple_choice_targets": [
+            "Both are made of metal.",
+            "Both are shiny.",
+            "Both are sharp.",
+            "Both are eating utensils."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n\nQ: Tell me how a baseball bat and a hockey stick are alike.\nA:",
+        "targets": [
+            "Both are baked goods."
+        ],
+        "multiple_choice_targets": [
+            "Both are soft to the touch.",
+            "Both are made of cotton.",
+            "Both are made of wool.",
+            "Both keep you warm."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 15,
+        "inputs": "the input string/s 'Maecenas ut urna euismod,YZ, dapibus ex' is/are formatted as",
+        "targets": [
+            "'56L'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 23,
+        "inputs": "the input string/s 'Amr.Zita@northwindtraders.com' is/are formatted as",
+        "targets": [
+            "'85 KG'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 20,
+        "inputs": "Input: '[iu-345' Output:",
+        "targets": [
+            "'Drew@domain.com'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "the input string/s '09:50-08:30' is/are formatted as",
+        "targets": [
+            "'(36) 734-2192'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "the input string/s 'newsproducer@WJM.com' is/are formatted as",
+        "targets": [
+            "'17jun11'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 17,
+        "inputs": "the input string/s 'Durban Gig-Verde' is/are formatted as",
+        "targets": [
+            "'maria@gmail.com'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 15,
+        "inputs": "the input string/s '07:05', '30' is/are formatted as",
+        "targets": [
+            "'15:20'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "the input string/s '1-7895' is/are formatted as",
+        "targets": [
+            "'11aug10'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 21,
+        "inputs": "the input string/s '(481)-352-7960' is/are formatted as",
+        "targets": [
+            "'1'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Input: 'aleix', 'gmail' Output:",
+        "targets": [
+            "'Meryl@domain.com'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "the input string/s '20040720' is/are formatted as",
+        "targets": [
+            "'E.Davis'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Input: '31/08/2010' Output:",
+        "targets": [
+            "'9226'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "the input string/s '12:55 AM CET' is/are formatted as",
+        "targets": [
+            "'31th'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6,
+        "inputs": "the input string/s 'Mr. Arnold Sagar' is/are formatted as",
+        "targets": [
+            "'15:10'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6,
+        "inputs": "Input: 'Ad meliora.' Output:",
+        "targets": [
+            "'AQUILA NON CAPIT MUSCAS'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "the input string/s 'Mea navis volitans anguillis plena est' is/are formatted as",
+        "targets": [
+            "'Germany'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "the input string/s 'Garet Anderson, PhD' is/are formatted as",
+        "targets": [
+            "'65-846-2732'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "the input string/s '10:05:00 AM' is/are formatted as",
+        "targets": [
+            "'hotmail.com'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "the input string/s '21-465-81-39', 'France' is/are formatted as",
+        "targets": [
+            "'22:15:00'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Input: '39.88 mA' Output:",
+        "targets": [
+            "'(+254) 25-427-12-20'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

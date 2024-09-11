@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 1071,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: So, Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Huntley. \nB: Sure, what's up? \nA: Basically, I'Ve got a few concerns about him, and the bottom line is, I don't think he's a good fit for our company. \nB: Okay... what makes you say that? I thought you were pleased with his overall performance. Didn't you just tell me last week how impressed you were with his attitude? \nA: Yeah, his attitude is great, but he's really unreliable. Sometimes he's really productive, but then other times... take last Tuesday for instance, he was <MASK> late for our morning meeting ! \nB: Well, I'm sure he had a perfectly good reason... \nA: But that's not the only thing... you know, he really doesn't have the best work ethic, I'm constantly catching him on MSN and Facebook when he should be talking to clients. \nB: Yeah, but come on, Geoff, as if you don't check Facebook at work. Look, you hired this guy, we'Ve invested a lot of time and money in his training, so now it's up to you to coach him. Make it work, Geoff ! \n  choice: forty-five minutes\n  choice: four minutes\n  choice: twenty seconds\n<MASK> phrase:",
+        "targets": [
+            "one week"
+        ],
+        "multiple_choice_targets": [
+            "six months",
+            "10 days",
+            "3 years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1906,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: so, are you enjoying the performance so far? \nB: well, the costumes and the set are marvellous, but the acting is a bit stiff. What do you think? \nA: I think you're being a little critical. The actor in the lead role is fantastic. I suppose the chorus could be a bit better, though. \nB: do you know anyone in the play? \nA: actually, the woman playing Ophelia is a past classmate of mine. \nB: really? Is that why you wanted to come to the play? \nA: that's only part of it. I absolutely adore this director. Every play he works on turns out great. \nB: so you've seen other plays that he's directed? \nA: quite a few actually. By the way, after the play, there's always a big party for the cast and their friends. My friend has invited us. Do you want to go? \nB: sure, I'd love to meet the cast ! Have you ever been in a play? \nA: I've never had a part in a play before, but I used to be a part of the stage crew in high school. \nB: what did you do? \nA: I helped build the sets and find props for the plays. What about you? \nB: I once helped out with costumes, but I didn't enjoy it very much. \nA: why not? \nB: I spent over <MASK> sewing sequins on a coat. \nA: that sounds kind of boring. Oh, look. They're dimming the lights. I think we should get back to our seats for the second half of the play. \n  choice: one year\n  choice: three weeks\n  choice: two minutes\n<MASK> phrase:",
+        "targets": [
+            "one month"
+        ],
+        "multiple_choice_targets": [
+            "200 months",
+            "Two days",
+            "Six months"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1273,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Good morning, Miss Cai. Congratulations ! You'Ve passed the interview. \nB: Good morning, Mr. Yang. Thank you very much. Can I work now? \nA: Oh. Take it easy. As I'Ve said in the interview, once you are employed, we'll give you a probation period of <MASK>. And now we need to sign a draft agreement for the probation period. \nB: I am sorry, I am just too excited and forget it. Can I look it through? \nA: Of course, here you are. And you can ask me any question. \nB: Well, I am sorry that I have a question. There is no remuneration item in this agreement. Can you tell me something about it? \nA: Well, according to the principle of our company, employees like you have no remuneration during the probation period. \nB: But you didn't tell me in the interview. \nA: I am sorry, it's not decided by me but by the company. \nB: Okay, I can't decide whether sign or not now. Can you give me some time to think it over? \nA: Okay. Can you give me a reply tomorrow? \nB: Yes. Thank you very much. Mr. Yang.\n  choice: one-day\n  choice: six months \n  choice: three months\n<MASK> phrase:",
+        "targets": [
+            "The last five months"
+        ],
+        "multiple_choice_targets": [
+            "one year",
+            "8 hours",
+            "one day"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 904,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context:\nA: Good afternoon. I believe that this house is for sale.\nB: That's right.\nA: May I have a look at it please?\nB: Yes, of course. Come in.\nA: How long have you lived here?\nB: I have lived here for twenty years.\nA: Twenty years ! That's a long time.\nB: Yes, I have been here since <MASK>.\nA: Then why do you want to sell it?\nB: Because I have just retired. I want to buy a small house in the country.\nA: How much does this house cost?\nB: 6850 pound.\nA: That's a lot of money !\nB: It's worth every penny of it.\nA: Well, I like the house, but I can't decide yet. My wife must see it first.\nB: Women always have the last word.\n  choice: 1975\n  choice: 2020\n  choice: 6850\n<MASK> phrase:",
+        "targets": [
+            "every three hours"
+        ],
+        "multiple_choice_targets": [
+            "two decades ago",
+            "a week ago",
+            "five years ago"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1863,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Excuse me.May I see the manager of your store? \nB: I am the manager.Can I help you? \nA: Oh, great, I saw a job ad outside your store. I am interested in the job advertised. I am coming to see if there is any opportunity available for me. \nB: All right.Take a seat, please.Would you like to be a shop assistant or a cashier? \nA: I can do the work of shop assistant and I worked part time in a small department store during my summer vocation last year. \nB: So now do you want a full-time job or part-time job? \nA: At present, both are OK for me.What do you need most, then? \nB: Now we really need some part-time workers.You see, our full-time staff knocks off at five pm, but now we hope to extend the hours to eight pm.We need some part-time shop assistants to work 3 hours a day from five pm to eight pm.But I am not sure if you are qualified for the job.Since most of our customers are foreign, competence of good communication in English is necessary here. \nA: I think I can. I have been learning English for almost <MASK> and especially I am fluent at speaking English.Also, I have made some foreigners friends during the experience of learning English. \nB: That is fine. I think you have the qualifications needed for the job, so I will let you have the job.Does the work schedule suit you? \nA: It quite suits me. I am free in the evening these days, I will have no difficulty starting at five pm. \nB: Good.There is only thing to be settled.Ten RIB an hour is the maximum we can pay you.Is the rate of pay acceptable to you? \nA: It seems reasonable.By the way, I can get my earning raised with a excellent performance, can't I? \nB: Sure.You will get more if you can invite more customers with your good service. \nA: I see. I will try my best to do the job well. \nB: That is good of you to say so.When can you start working? \nA: How about next monday? \nB: Ok.Let's make is next Monday. I n the end, you need to fill out the application form. \nA: Thank you for your kindness, ma'am. See you next Monday. \n  choice: 3 hours \n  choice: 5 years\n  choice: 8 days \n<MASK> phrase:",
+        "targets": [
+            "2 weeks"
+        ],
+        "multiple_choice_targets": [
+            "7:00 PM",
+            "12:00 AM",
+            "About 6 in the morning"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1928,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Where are you going for your holidays, Charles? \nB: To Australia. I'm going to visit my uncle in Brisbane for <MASK>. \nA: Good gracious ! You certainly are lucky. How are you going there? \nB: By air, of course. It takes over two weeks to go by sea. \nA: I once went to Singapore by air. It was very exciting-but never again. \nB: Why? Did you feel frightened? \nA: For a short time. One of the engines caught fire. \nB: What did the pilot do? \nA: He put it out and flew back to the airport. Then he asked the people at the airport where the emergency runway was. \nB: Did you land safely? \nA: Yes, we did. But I shall never fly again. \n  choice: one year\n  choice: three weeks\n  choice: two days\n<MASK> phrase:",
+        "targets": [
+            "fifteen minutes"
+        ],
+        "multiple_choice_targets": [
+            "Seven years",
+            "Five months",
+            "Three and half years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 335,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Hi, Anna. I haven't seen you for ages. Where have you been? \nB: I'Ve been away on holidays for sometime. \nA: No wonder I haven't seen you recently. Where did you spend your holidays? \nB: I went with my husband. Our first stop was Bangkok. We stayed there for 5 days. Then we flew to Hong Kong, stopover for <MASK>. Our last stop was China. We visited the Great Wall. \nA: You must have a wonderful time. \nB: Yes. We enjoyed ourselves very much. Have you traveled much, Luke? \nA: No, my wife doesn't like traveling. We haven't been traveling for more than ten years. The first time we traveled together was in 1978 when we just got married. We spent our honeymoon in the Alps. \n  choice: 1978 seconds \n  choice: 3 days\n  choice: more than ten years \n<MASK> phrase:",
+        "targets": [
+            "15 mins"
+        ],
+        "multiple_choice_targets": [
+            "3 years",
+            "two hours",
+            "two months"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 319,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: I know that you are interested in our washers. \nB: Yes, we are thinking of placing an order. However we would like to know what kinds of machines are available for export and in addition your sales terms, including mode of payment, discount and possible date of delivery. \nA: We supply washers of all types and sizes. We have years of experience in the manufacture of washers. \nB: We have read about this in your sales literature. Could you give us some idea of your prices? \nA: Our prices compare favorably with those offered by other manufactures either in Europe or anywhere else. Here are our latest price lists. You will see that our prices are very attractive. \nB: Do you take special orders? That is, do you make machines according to the specific requirements from clients? \nA: Sure, we do. \nB: How long does it usually take you to make delivery? \nA: As a rule, we deliver all our orders within <MASK> after receipt of relevant L / C. It takes longer, of course, for special orders. In no case would it take longer than six months. \nB: Good. One more thing, we'd like you to quote us on CIF basis. \nA: Okay. No problem. \n  choice: Five days\n  choice: Two years\n  choice: three months\n<MASK> phrase:",
+        "targets": [
+            "six days"
+        ],
+        "multiple_choice_targets": [
+            "2:00 PM",
+            "9:00 PM",
+            "12:00 AM"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2070,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Good morning. I understand that you'Ve got a problem with your washing machine. I'm from the repair company. \nB: Excellent. Come in please. The washing machine is in the bathroom upstairs. It keeps breaking down. \nA: When did it first break down? \nB: <MASK>. I'Ve tried to use it since then. Sometimes it works and sometimes it doesn't. it's very frustrating. \nA: Is it still under warranty. If it is and I can't fix it, it would be quicker and easier to exchange it for a new one. \nB: Yes, it's still under warranty. Over the last few weeks, it's also been making a high-pitch noise when it's in use. \nA: Ok. I'll start by looking at the motor. I'll just unplug it and take a look inside the machine... oh, yes. There's the problem. It's quite simple. I'll sort it out in a few minutes. \nB: What's wrong with it? \nA: Part of the motor is loose. I can put it back in place quite easily. \nB: That's great. Thanks very much. Would you like a cup of tea or coffee? \n  choice: About one hour ago\n  choice: About one year ago\n  choice: About ten days ago\n<MASK> phrase:",
+        "targets": [
+            "two-week"
+        ],
+        "multiple_choice_targets": [
+            "15 months",
+            "3 months",
+            "6 months"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 673,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Good morning, Sir. Where are you going? \nB: I'm going to England by flight BE987. \nA: When is your flight? \nB: 10:00 AM. When am I supposed to check in? \nA: we are checking in. May I have your ticket and your health certificate and your luggage please. \nB: Here you are. \nA: Are you keeping the small bag as carry-on luggage, sir? \nB: Yes. \nA: You must weigh that as well. \nB: all right. \nA: Your luggage is two pounds over. I'm afraid They'll be in excess luggage charge, Sir. \nB: How much must I pay? \nA: It's ten yuan. \nB: Here you are. \nA: This is your luggage check Which You must show when you disembark at your destination and here is your boarding pass and your ticket. \nB: Thanks. \nA: Now, please wait until your flight is called. There's <MASK> to go. \nB: I'm a little nervous. I'Ve never flown before. \nA: There's nothing at all to worry about. Once you are in the air, it's just like sitting at your sitting room. It's going to be a very pleasant flight. \n  choice: about 10 hours\n  choice: about twenty-five minutes\n  choice: about two hours\n<MASK> phrase:",
+        "targets": [
+            "90 - day"
+        ],
+        "multiple_choice_targets": [
+            "15 Hours",
+            "12 seconds",
+            "10 minutes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 841,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: If I understand the terms correctly, the length of the contract would be one year with a one-year option. Is that correct? \nB: Do you mean the contract for equipment rental or the one for training? \nA: I was under the impression that both contracts had the same terms. \nB: Yes and no. Let me see if I can clarify that. The terms are the same except that the contract for training has a clause that allows for the cancellation after <MASK>. \nA: Could you elaborate on that? \nB: Sure. What I mean is that either side could cancel the training contract after the six months as long as it's in writing. \nA: Let me see if I have that right. This contract is for six months of training, but if it isn't cancelled, continues for another six months. Is that right? \nB: Yes, that's right. \nA: Okay, that's clear enough. Let's move on to the other terms. \n  choice: one year \n  choice: the first six months\n  choice: the first two days \n<MASK> phrase:",
+        "targets": [
+            "Twelve hours"
+        ],
+        "multiple_choice_targets": [
+            "the next 97 years",
+            "the next 19 minutes",
+            "the next one month"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1824,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context:\nA: Tell me a little bit about yourself, please.\nB: My name is Steven and I live in Beijing. I was born in 1980. I have graduated from Peking University. I majored in business administration.\nA: What kind of jobs have you had?\nB: I have been a production manager.\nA: Would you like to tell me something about your outstanding achievements?\nB: I introduced an advanced product line, which increased the output and lessened the cost.\nA: What special skills do you have, can you tell me?\nB: I have experience in computer operation, proficiency in Microsoft Word and Microsoft Excel.\nA: I know in your resume that you have worked in your present company for <MASK>. Can you tell me why you want to leave your present job and join us?\nB: Because the job I am doing in my present company is of no challenge, but I like challenge. Your firm is a young organization with many innovative ideas. It has been very successful in expanding market since its establishment 10 years ago. Working for you would be exactly the sort of challenge I am looking for.\nA: Well, I think our interview is complete then. We will give you a call in ten days or so.\nB: Thank you, Mr. Smith.\n  choice: 10 years\n  choice: 4 years\n  choice: ten days\n<MASK> phrase:",
+        "targets": [
+            "1200"
+        ],
+        "multiple_choice_targets": [
+            "about 15 days",
+            "about 5 minutes",
+            "about 4 hours"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1701,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Good morning Mr Smith. My name is Susan and I am a reporter for the Evening Star. \nB: Good morning. How can I help you? \nA: I was hoping to talk to you today about your business. \nB: Very well. \nA: How long have you been the owner of your computer shop? \nB: <MASK>. \nA: And how many staff do you employ? \nB: There is my wife who does the accounts and my brother who helps with the sales. \nA: So this is a family business. \nB: Yes, we are a small family business. \nA: And how many computers do you sell each day? \nB: That depends on the day. We sell from here and on the Internet. I would say about twenty to thirty per week. \nA: That about one hundred a month. \nB: That's correct. \nA: Thank you B for your time. \nB: Thank you and goodbye. \n  choice: About a month\n  choice: About five years\n  choice: About one hundred years\n<MASK> phrase:",
+        "targets": [
+            "Three days"
+        ],
+        "multiple_choice_targets": [
+            "20 years",
+            "6 days",
+            "two years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1893,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: are your ready to go to the supermarket? \nB: yes, are you? \nA: I've got my money and my keys, so I'm ready. \nB: you do know that it's absolutely freezing out, don't you? I'd put a coat on if I were you. \nA: it wasn't cold out this morning. \nB: well, it's started raining since then. Look out the window ! It's pouring rain out there ! \nA: well, I guess we'd better grab our umbrellas then, as well. \nB: have a look outside for me. Does that look like hail to you? \nA: it does, actually. Maybe we should wait for it to clear up before we go shopping. \nB: that's a good idea. But maybe we should move the car so that the hail doesn't dent it. \nA: ok. I'll go move the car if you turn the heat on. It's a bit chilly in here. \nB: how long do you think this hailstorm is supposed to last? \nA: I don't know. The weatherman didn't say anything about this in his weather report last night. \nB: maybe we should turn on the news in case it's supposed to get worse. \nA: I don't think we have anything to worry about. Do you want to put on a cup of tea as well? \nB: good idea. That will help us to warm up. \nA: if I'm not back in <MASK>, come and find me. \nB: alright. I'll have a cup of tea waiting for you. \n  choice: fifteen seconds\n  choice: ten hours\n  choice: ten minutes\n<MASK> phrase:",
+        "targets": [
+            "4:00 am"
+        ],
+        "multiple_choice_targets": [
+            "20 decades",
+            "a week",
+            "5 years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context:\nA: when do most children start school in your country?\nB: In America, most children start primary school at the age of five.\nA: How much time do primary school students usually spend at school every day?\nB: Kindergarten students usually only go to school for about four hours every day, but after that, they spend <MASK> in school every day.\nA: do they have to go to school on Saturdays?\nB: no, most children in America only go to school Monday through Friday.\nA: how many subjects do they have to study?\nB: In most schools, they study about nine subjects.\nA: do students have to wear uniforms in schools in America?\nB: some private schools require their students to wear uniforms, but public schools don't.\nA: did you go to a public school or a private school?\nB: I went to a private school for elementary school and university, but went to a public school for high school. What about you?\nA: I went to a boarding school from nursery school to senior high school.\nB: did you have to wear uniforms?\nA: yes, they were horrible. We had to wear green every day !\nB: at least you didn't waste time thinking about what you were going to wear every day !\nA: that's true !\n  choice: about four hours\n  choice: about nine hours\n  choice: about one hour\n<MASK> phrase:",
+        "targets": [
+            "one-week"
+        ],
+        "multiple_choice_targets": [
+            "six months",
+            "30 minutes",
+            "30 days"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1735,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Linda, this is Todd calling. \nB: Todd, I am so happy you called ! \nA: Linda, I wanted to tell you how much I enjoyed our time together last Friday night. \nB: Boy, Todd, that was one great movie you picked out ! Thanks for asking me to go with you ! \nA: I had a great time too and was thinking that maybe you might want to join me for a hike to the waterfalls on Saturday. \nB: A hike would be great ! Let me pack us a nice picnic lunch, OK? \nA: Linda, that would be a perfect addition. \nB: I'll take care of the lunch then, and you can take care of the other plans. What time would you like to pick me up? \nA: I was hoping to leave by <MASK> so that it won \\'t be too hot for the hike. \nB: Nine is a great time to get started. I'll see you on Saturday ! \n  choice: 11 o'clock\n  choice: 3 o'clock\n  choice: 9 o'clock\n<MASK> phrase:",
+        "targets": [
+            "four years"
+        ],
+        "multiple_choice_targets": [
+            "10 seconds",
+            "12 hours",
+            "20 minutes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 282,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: What upsets you? \nB: My parents called. As usual, they reminded me again that I should have a plan to marry by my late 20s. Easier said then done. Who should I marry? I have no time to go on a date. \nA: It is not your mother finding one for you? \nB: I will find one myself, of course. I'm a modern girl. \nA: Perhaps you can try <MASK> date, the latest type. \nB: You mean dozens of the opposite sex meet each other for three minutes in a dimly bar serving alcohol, I hate that idea. \nA: No, there is an updated virgin, three minutes video date. I know an online dating website providing such service with a microphone and webcam, you can sigh for it. You can be face-to-face with a guy talking for maximum three minutes. \nB: I don't think it makes sense. Three minutes is such a short time. \nA: I think you can find out if there is a possibility of romance within the first second of meeting someone, so-called love at first sight. \nB: Anyway, I don't want to post my face up for sale on the internet like that. \nA: Don't worry. There are many other options using the internet as dating methods. Some sites operate at international standard even have got certifications. Of course, for these sites, you have to pay a membership fee. But all in all, it is more serious and professional. The chance of meeting a good and serious person who does not play games is higher. \nB: I don't want to post my personal information on the internet. I'm not knowing who is reading it. \n  choice: the 20 minutes\n  choice: the one hour\n  choice: the three minutes\n<MASK> phrase:",
+        "targets": [
+            "10 o'clock in the morning to 2 o'clock in the afternoon"
+        ],
+        "multiple_choice_targets": [
+            "30 day of eleventh month",
+            "15 day of first month",
+            "27th day of the fourth month"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 737,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Hello Mr. Jones, please have a seat. Thank you for coming in today. I have read your resume. You completed University in England? \nB: Yes, I went to Cambridge. After graduation, I started right away into the advertising industry. Later, I made a bit of a switch to focus on marketing research. \nA: So, what experience do you have? \nB: I have ten years marketing experience. This includes both entry level and management positions. In my last position, I worked my way up to being director of the marking department. \nA: I can see that from your resume.Your last position was marketing director for a pharmaceutical company, is that right? Later, why did you decide to leave your former post? \nB: I felt after <MASK> in one place, I was ready for something new. I would like to have a job that is challenging, something that I can see and do new things every day. I loved many things about my former job, and I left with amiable feelings on both sides. I was just ready for something new. \nA: I see. Do you want to work full-time or part-time? \nB: I would rather work full-time. \nA: I'll make note of that. Now, what are your salary expectations? \nB: I am willing to negotiate, but I expect at least $ 40,000 a year.\n  choice: 40 years \n  choice: five years\n  choice: ten days \n<MASK> phrase:",
+        "targets": [
+            "two years"
+        ],
+        "multiple_choice_targets": [
+            "one day",
+            "sixty-eight years",
+            "three years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1837,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context:\nA: Tell me something about yourself and your past experience.\nB: I have <MASK> of experience working in the IT industry. For the past two years, I have been working as a project manager for a dotcom. I am also MI certified. I'm looking for a team environment where I can join the excitement of building a company.\nA: What experience have you had that qualifies you for this position?\nB: I have worked on a variety of projects and jobs in the high tech industry. I wanted to have the experience of working for a dotcom and have learned something about being in on the ground floor of a business.\nA: What attracted you to this job?\nB: I've been searching for a while now to find a company that had a business model and corporate philosophy like yours. I am interested in working for a company that provides products and services to the K - 12 education market. My background is in this field, and my strength is in building relationships and solving problems. I am excited and interested in the idea of developing business relationships through e-commerce.\nA: What qualities do you think are important to this position?\nB: To have a combination of technical and business knowledge and to be very results-oriented. My past record shows that I have those qualities and more. Because of my business acumen and technical know-how, the teams I have managed accomplished outstanding results, including booking more than $ 50 million in online revenue.\nA: When have you been most motivated?\nB: When I have a specific project to complete, I like to know the specifics of a project from beginning to end. I like definite deadlines and I like to meet those deadlines. I expect some deviation from the original plan, but I try to stay focused and not let myself drift too far. I have great attention to detail and like to take my time and do it right the first time.\nA: Why did you leave your last position?\nB: I've set some goals for myself and my career, and unfortunately I'm at a standstill in my current situation. I have begun to explore options available before I spend too much time in a job where I can't advance. My goal is to continue to take on new responsibilities and be a key contributor to the success of an online venture.\nA: What are your salary expectations?\nB: I really need more information about the job before we start to discuss salary. I'd like to postpone that discussion until later.\nA: Do you have any questions?\nB: Yes, I do. Who are your financial backers? Who are the key competitors? Does the company have a plan for the IPO? What would you say is the best thing about your product or service?\n  choice: 23 years \n  choice: 50 days \n  choice: five years \n<MASK> phrase:",
+        "targets": [
+            "1955"
+        ],
+        "multiple_choice_targets": [
+            "12:00 AM",
+            "10:00 PM",
+            "8 o'clock"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 544,
+        "inputs": "Question: Which phrase best fits the <MASK> span? Context: \nA: Did you feed the puppies today? \nB: Yes, I have. \nA: That's good ! Just make sure to bathe them later. \nB: No problem. I can do that for you. \nA: Thank you ! You know they have to go to the vet on Saturday? \nB: I know. What time do they go? \nA: Their appointment is at <MASK>. \nB: Okay, I won't forget. \n  choice: eleven o'clock in the morning\n  choice: four o'clock in the morning\n  choice: nine o'clock in the evening\n<MASK> phrase:",
+        "targets": [
+            "6 o'clock in the afternoon"
+        ],
+        "multiple_choice_targets": [
+            "ten hours later",
+            "one second later",
+            "ten minutes later"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    }
+]

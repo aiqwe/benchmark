@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 27,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: flight hours\n  choice: experience\n  choice: time\n  choice: air\n  choice: flying time\nA:",
+        "targets": [
+            "Wind energy"
+        ],
+        "multiple_choice_targets": [
+            "developing software",
+            "employment",
+            "vision",
+            "understanding"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 50,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: health professional\n  choice: medical practitioner\n  choice: scores\n  choice: lawyer\n  choice: organization\nA:",
+        "targets": [
+            "STD"
+        ],
+        "multiple_choice_targets": [
+            "Psilocybin",
+            "Coercion",
+            "Conviction",
+            "Corporal punishment in the home"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Conservation movement\n  choice: Endangered species\n  choice: Trophic level\n  choice: Aid\n  choice: Law\nA:",
+        "targets": [
+            "woman"
+        ],
+        "multiple_choice_targets": [
+            "Psilocybin",
+            "Coercion",
+            "Conviction",
+            "Corporal punishment in the home"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: greenhouse gases\n  choice: burning fossils fuels\n  choice: route\n  choice: api\n  choice: extraction\nA:",
+        "targets": [
+            "videotape"
+        ],
+        "multiple_choice_targets": [
+            "manometer",
+            "gage",
+            "pipe",
+            "dead"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Ageing\n  choice: Physical education\n  choice: Tax rate\n  choice: Indecent exposure\n  choice: Retirement age\nA:",
+        "targets": [
+            "School"
+        ],
+        "multiple_choice_targets": [
+            "Portuguese language",
+            "Sport",
+            "Law",
+            "Bullfighting"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: refugees\n  choice: country\n  choice: home affairs\n  choice: asylum applications\n  choice: criminal casework team\nA:",
+        "targets": [
+            "academic study"
+        ],
+        "multiple_choice_targets": [
+            "working area",
+            "labour force",
+            "site work",
+            "location"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Quantum computing\n  choice: Embryonic stem cell\n  choice: Science\n  choice: Biological system\n  choice: Fingerprint\nA:",
+        "targets": [
+            "government"
+        ],
+        "multiple_choice_targets": [
+            "School uniform",
+            "Equestrianism",
+            "Act of Parliament",
+            "Bullfighting"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 67,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: software systems\n  choice: package\n  choice: source\n  choice: computer program\n  choice: product\nA:",
+        "targets": [
+            "native city"
+        ],
+        "multiple_choice_targets": [
+            "Stomach",
+            "Resin",
+            "Electron configuration",
+            "Zinc"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Fertility\n  choice: Bleeding\n  choice: Fallopian tube\n  choice: Agriculture\n  choice: Cognition\nA:",
+        "targets": [
+            "Coin flipping"
+        ],
+        "multiple_choice_targets": [
+            "subsidize",
+            "states",
+            "smoking",
+            "marketing"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: school education\n  choice: analysis\n  choice: trial\n  choice: academic study\n  choice: case study\nA:",
+        "targets": [
+            "medical practitioner"
+        ],
+        "multiple_choice_targets": [
+            "United States",
+            "Public company",
+            "Gambling",
+            "Randomness"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: effects of smoking\n  choice: restaurants\n  choice: subsidize\n  choice: lung diseases\n  choice: states\nA:",
+        "targets": [
+            "Cars"
+        ],
+        "multiple_choice_targets": [
+            "proliferation",
+            "trident",
+            "ussr",
+            "party talks"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: front entrance\n  choice: main\n  choice: visitor\n  choice: foyer\n  choice: main gate\nA:",
+        "targets": [
+            "megawatts"
+        ],
+        "multiple_choice_targets": [
+            "country",
+            "home affairs",
+            "criminal casework team",
+            "asylum applications"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Clothing\n  choice: Award\n  choice: Sock\n  choice: Association football\n  choice: Marriage in Islam\nA:",
+        "targets": [
+            "Sewer"
+        ],
+        "multiple_choice_targets": [
+            "United States",
+            "Public company",
+            "Gambling",
+            "Randomness"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: flight training\n  choice: examination\n  choice: training flight\n  choice: aircraft\n  choice: flying instruction\nA:",
+        "targets": [
+            "Agriculture"
+        ],
+        "multiple_choice_targets": [
+            "subsidize",
+            "states",
+            "smoking",
+            "marketing"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Love\n  choice: Marriage\n  choice: Tetragrammaton\n  choice: Drug injection\n  choice: Righteousness\nA:",
+        "targets": [
+            "go-ahead"
+        ],
+        "multiple_choice_targets": [
+            "Tetragrammaton",
+            "Righteousness",
+            "Drug injection",
+            "Marriage"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: east coast\n  choice: remains\n  choice: stand\n  choice: eastern shore\n  choice: shore\nA:",
+        "targets": [
+            "flying instruction"
+        ],
+        "multiple_choice_targets": [
+            "Geneva Conventions",
+            "Violence",
+            "Blasphemy",
+            "Hurricane Katrina"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: power system\n  choice: electrical network\n  choice: powerball\n  choice: air system\n  choice: farming\nA:",
+        "targets": [
+            "science lab"
+        ],
+        "multiple_choice_targets": [
+            "town center",
+            "location",
+            "native city",
+            "home run"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Wastewater\n  choice: Fog\n  choice: Shortness of breath\n  choice: Copyright\n  choice: Sewer\nA:",
+        "targets": [
+            "main gate"
+        ],
+        "multiple_choice_targets": [
+            "working area",
+            "labour force",
+            "site work",
+            "location"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: power capacity\n  choice: operations and maintenance\n  choice: storage capacity\n  choice: megawatts\n  choice: plant\nA:",
+        "targets": [
+            "myanmar"
+        ],
+        "multiple_choice_targets": [
+            "registration system",
+            "videotape",
+            "registration process",
+            "land registry"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Oil well\n  choice: Rain\n  choice: Wind power\n  choice: Natural gas\n  choice: Wastewater\nA:",
+        "targets": [
+            "endangered species"
+        ],
+        "multiple_choice_targets": [
+            "boxing",
+            "process",
+            "hand",
+            "body"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    }
+]

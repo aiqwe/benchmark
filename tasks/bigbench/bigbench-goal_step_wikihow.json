@@ -1,0 +1,346 @@
+[
+    {
+        "idx": 99,
+        "inputs": "Q: The most reasonable step of 'Be a New Mom' is \n  choice: Ensure that you have support from a family member\n  choice: Help out with their other kids\n  choice: Back away slowly and carefully from the coyote\n  choice: Get out and do things\nA:",
+        "targets": [
+            "Write a market analysis"
+        ],
+        "multiple_choice_targets": [
+            "Leave the vomit for someone to find.",
+            "Add something mushy and smelly."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1554,
+        "inputs": "Q: The most reasonable step of 'Work Out at Home Using Hand Weights' is \n  choice: Do the Lying Fly exercise\n  choice: Tighten up the plastic bottle caps on both light bulbs\n  choice: Do a small man bun for a popular men's updo\n  choice: Shave the poodle’s snout\nA:",
+        "targets": [
+            "Place the bondaweb cut out on the scrap of fabric"
+        ],
+        "multiple_choice_targets": [
+            "Mend the binding first, if necessary",
+            "Rinse away lime juice with soapy water after removing rust",
+            "Wear the blade down with regular use",
+            "Replace the tank parts"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "Q: The most reasonable step of 'Be a Good Little Sister' is \n  choice: Identify if your friend's borrowing is a regular trend\n  choice: Take phone conversations in a private room\n  choice: Do not bother them when they have company\n  choice: Post flyers around the school and town requesting donations\nA:",
+        "targets": [
+            "Get a Degree in Nutrition"
+        ],
+        "multiple_choice_targets": [
+            "Get your result.",
+            "Multiply that value by the height."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1688,
+        "inputs": "Q: In order to 'Care for an Injured Wild Bird That Cannot Fly', one can 'Put the bird in the box' and 'Pick the bird up gently'. Which should happen first? \n  choice: Put the bird in the box.\n  choice: Pick the bird up gently.\nA:",
+        "targets": [
+            "Get the work appraised"
+        ],
+        "multiple_choice_targets": [
+            "Wait for the bus at a designated bus stop.",
+            "Pay the appropriate fee."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 220,
+        "inputs": "Q: In order to 'Bend Fork Tines Back Into Shape', one can 'Remove from the water and quickly dry' and 'Wrap a cloth around the fork tines'. Which should happen first? \n  choice: Wrap a cloth around the fork tines.\n  choice: Remove from the water and quickly dry.\nA:",
+        "targets": [
+            "Unscrew the needle cap, then remove the nozzle cap"
+        ],
+        "multiple_choice_targets": [
+            "Go home, and copy your photographs to your computer.",
+            "Take your photographs."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 566,
+        "inputs": "Q: In order to 'Change a Common Fraction Into a Decimal', one can 'Write down your answer' and 'Divide the numerator by the denominator'. Which should happen first? \n  choice: Write down your answer.\n  choice: Divide the numerator by the denominator.\nA:",
+        "targets": [
+            "Move the knife toward the fillet’s opposite end to skin it."
+        ],
+        "multiple_choice_targets": [
+            "Attach sticky tack or painter's tape to the other end of the string.",
+            "Glue or tape string to the backside of the flower."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2025,
+        "inputs": "Q: The most reasonable step of 'Start a Text Conversation' is \n  choice: Don't be disappointed if it doesn't work\n  choice: Listen to what she says\n  choice: Ask them questions about themselves\n  choice: Don't be upset if she doesn't want to talk to you\nA:",
+        "targets": [
+            "Stay away from any weapons and ordnance you come across"
+        ],
+        "multiple_choice_targets": [
+            "Write your own articles",
+            "Write to the Pope",
+            "Explain some of the common subtypes of letters",
+            "Experiment with different writing utensils"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1262,
+        "inputs": "Q: In order to 'Paint Furniture White', one can 'Use latex paint' and 'Apply the first coat of paint with a roller or synthetic brush'. Which should happen first? \n  choice: Use latex paint.\n  choice: Apply the first coat of paint with a roller or synthetic brush.\nA:",
+        "targets": [
+            "Read your posts' comments"
+        ],
+        "multiple_choice_targets": [
+            "Travel to India",
+            "Travel Independently in China",
+            "Travel Responsibly in Myanmar",
+            "Travel for Free"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1735,
+        "inputs": "Q: In order to 'Download Music', one can 'Click Save link as…' and 'Save the file'. Which should happen first? \n  choice: Save the file.\n  choice: Click Save link as….\nA:",
+        "targets": [
+            "Flush."
+        ],
+        "multiple_choice_targets": [
+            "Look up the substance's density.",
+            "Convert the density into g/mL if necessary."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 987,
+        "inputs": "Q: In order to 'Calculate Clothing Donations for Taxes', one can 'Complete Form 8283 for goods valued at over $500' and 'Double check the accuracy of your information'. Which should happen first? \n  choice: Double check the accuracy of your information.\n  choice: Complete Form 8283 for goods valued at over $500.\nA:",
+        "targets": [
+            "Screw 2 brackets into the bookcase’s top trim."
+        ],
+        "multiple_choice_targets": [
+            "Install Solar Panels to Heat a Pool",
+            "Install Vinyl Plank Flooring on Concrete",
+            "Salvage Things in Old Houses",
+            "Clean Oil Paintings to Preserve It for Years"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1235,
+        "inputs": "Q: In order to 'Buy Movie Tickets Early', one can 'Enter your zip code in the search bar' and 'Choose a website to buy your tickets from'. Which should happen first? \n  choice: Enter your zip code in the search bar.\n  choice: Choose a website to buy your tickets from.\nA:",
+        "targets": [
+            "Search for the book listing (which could very well be in the Read folder found under \"My Books\" tab at the top of the web page) the incorrectly-marked date for the unread book."
+        ],
+        "multiple_choice_targets": [
+            "Get Your Dog to Eat the Dog Food It Does Not Like",
+            "Determine Why Your Cat Does Not Groom Itself",
+            "Keep a Fish from Dying While You Are on Holiday",
+            "Determine Whether to Have Your Rabbit Neutered"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 670,
+        "inputs": "Q: In order to 'Make a Galaxy Model', one can 'Paint extra details with the violet paint and watercolor' and 'Paint the paper with the dark purple paint'. Which should happen first? \n  choice: Paint the paper with the dark purple paint.\n  choice: Paint extra details with the violet paint and watercolor.\nA:",
+        "targets": [
+            "Wear a dust mask and safety glasses before cleaning the concrete."
+        ],
+        "multiple_choice_targets": [
+            "Wash your hands after touching a marine animal",
+            "Maintain equal weight on the bow and the stern",
+            "Turn the controller all the way to the other side",
+            "Rotate the seat toward the legs"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2137,
+        "inputs": "Q: In order to 'Find the Correlation Coefficient', one can 'Find the correlation coefficient' and 'Interpret your result'. Which should happen first? \n  choice: Interpret your result.\n  choice: Find the correlation coefficient.\nA:",
+        "targets": [
+            "Cut a Pumpkin"
+        ],
+        "multiple_choice_targets": [
+            "Stop the process.",
+            "Let the mixture ferment."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2386,
+        "inputs": "Q: In order to 'Wash Memory Foam', one can 'Sprinkle baking soda over the surface' and 'Remove any covers or cases to wash separately'. Which should happen first? \n  choice: Sprinkle baking soda over the surface.\n  choice: Remove any covers or cases to wash separately.\nA:",
+        "targets": [
+            "Insert the announcement and anything else you want to include."
+        ],
+        "multiple_choice_targets": [
+            "Turn utensils into airplanes or birds",
+            "Ask the right questions",
+            "Make it your life's mission to kill that final boss",
+            "Lobby for more trash receptacles around your town"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 867,
+        "inputs": "Q: The most reasonable goal of 'Repeat this process with different containers until everything is filed away' is \n  choice: Develop a Code of Ethics\n  choice: Organize Medical Supplies\n  choice: Develop Training Materials\n  choice: Organize Craft Supplies\nA:",
+        "targets": [
+            "Protect Your Skin While Swimming"
+        ],
+        "multiple_choice_targets": [
+            "Research Famous Singers/Bands: Learn about some of music's biggest idols such as Elvis Presley, Michael Jackson or Bob Marley",
+            "Play recordings of canaries singing",
+            "Contact event promoters over the phone or by email",
+            "Get several classic clothing items"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1020,
+        "inputs": "Q: In order to 'Do a Flip Turn (Freestyle)', one can 'Straighten your legs as your push yourself off the wall' and 'Rotate onto your stomach'. Which should happen first? \n  choice: Straighten your legs as your push yourself off the wall.\n  choice: Rotate onto your stomach.\nA:",
+        "targets": [
+            "Wrap aluminum foil around each finger to hold the acetone in place."
+        ],
+        "multiple_choice_targets": [
+            "Complete an application.",
+            "Find out when you can begin serving."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1549,
+        "inputs": "Q: The most reasonable step of 'Get a Liquor License' is \n  choice: Know your state's alcohol laws\n  choice: Negotiate the interest rate\n  choice: Find the corresponding current (in amps)\n  choice: Know your state's definition of abandoned vehicles\nA:",
+        "targets": [
+            "Find the knob on the screen frame."
+        ],
+        "multiple_choice_targets": [
+            "Pick artwork that is unique and appealing to a specific customer",
+            "Decide whether the cut piece will be used as a vase, candle holder or glass",
+            "Put in a vanity desk",
+            "Send electronic or paper invitations with a nautical theme"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 630,
+        "inputs": "Q: In order to 'Add Tables to a wikiHow Article', one can 'End your section with a closing </ol> tag' and 'Designate substep sections with the <ul></ul> tags'. Which should happen first? \n  choice: End your section with a closing </ol> tag.\n  choice: Designate substep sections with the <ul></ul> tags.\nA:",
+        "targets": [
+            "Gather Supplies."
+        ],
+        "multiple_choice_targets": [
+            "Shampoo the dog.",
+            "Rinse its coat."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1462,
+        "inputs": "Q: The most reasonable goal of 'Once foam is dry, mix the portland in a five-gallon bucket with enough water to create a paint-like texture' is \n  choice: Make a Fence Gate\n  choice: Make a Pilot Hole\n  choice: Make a Fake Rock Wall\n  choice: Make a Grappling Hook\nA:",
+        "targets": [
+            "Submit your application and documents to the Jewish Agency."
+        ],
+        "multiple_choice_targets": [
+            "Recognize Enabling Behaviors",
+            "Develop a Skincare Routine for Dry Skin",
+            "Identify Strategy with a SWOT Analysis",
+            "Develop Behavioral Interviewing Questions"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 244,
+        "inputs": "Q: The most reasonable goal of 'Take action only when a contributor specifically states their age as under 13' is \n  choice: Respond to Someone Being Disrespectful About Gender Identity or Sexuality\n  choice: Respond to an Underage User Illegally Using wikiHow\n  choice: Respond to False Accusations\n  choice: Respond to a Chemical Threat\nA:",
+        "targets": [
+            "Calculate Your Real Hourly Wage"
+        ],
+        "multiple_choice_targets": [
+            "Not Be Gullible",
+            "Not Be Controlled by Your Best Friend",
+            "Not Be Sexist",
+            "Not Be Affected by Your Friends Insulting Your Views on Religion"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+]

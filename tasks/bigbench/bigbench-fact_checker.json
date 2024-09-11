@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 4026,
+        "inputs": "On June 2017, the following claim was made: Google Search can return information about finance.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 5082,
+        "inputs": "On June 2017, the following claim was made: Jarhead, a 2005 American biographical war drama, was directed by Jim Jarmusch.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2618,
+        "inputs": "On June 2017, the following claim was made: Azithromycin is not sold under many trade names worldwide.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3505,
+        "inputs": "On June 2017, the following claim was made: Bob Ross hosted a show.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 802,
+        "inputs": "On June 2017, the following claim was made: Louis Malle produced only German language films.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 181,
+        "inputs": "On June 2017, the following claim was made: Younger is a series.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3406,
+        "inputs": "On June 2017, the following claim was made: Half Girlfriend was partially filmed in Delhi.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 212,
+        "inputs": "On June 2017, the following claim was made: Aeneas appeared in an ancient Egyptian epic poem by Homer.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "On June 2017, the following claim was made: Carey Hayes is only a German lawyer.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4970,
+        "inputs": "On June 2017, the following claim was made: Laura Robson lost the Wimbledon Junior Girls' Championship.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3263,
+        "inputs": "On June 2017, the following claim was made: Japan national football team had second round advancements in 2010.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 83,
+        "inputs": "On June 2017, the following claim was made: Therasia is a piece of land.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3019,
+        "inputs": "On June 2017, the following claim was made: Amancio Ortega (businessman) is a business tycoon.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3656,
+        "inputs": "On June 2017, the following claim was made: The Battle of the Trebia took place in the province of Cisalpine Gaul.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 79,
+        "inputs": "On April 24 2015, the following claim was made: Hillary Clintons State Department sent three comedians to India on the Make Chai, Not War tour.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2168,
+        "inputs": "On June 2017, the following claim was made: Mars is in the Andromeda galaxy.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4059,
+        "inputs": "On June 2017, the following claim was made: Sydney is where Michael Hutchence died.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 112,
+        "inputs": "On June 2017, the following claim was made: Levoamphetamine improves the ability to focus on tasks.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2060,
+        "inputs": "On June 2017, the following claim was made: William Blackstone attended Charterhouse School, where he was educated.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2717,
+        "inputs": "On June 2017, the following claim was made: China is a major country with high economic growth.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "false"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

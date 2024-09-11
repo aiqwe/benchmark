@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 2068,
+        "inputs": "Q: Multiply a matrix of shape (2,2,3,2) with a matrix of shape (2,2,2,3). Compute the kronecker product of the result with a matrix of shape (2,4,4,4). Compute the hadamard product of the result with a matrix of shape (4,8,12,12). Add the result to a matrix of shape (4,8,12,12). Subtract the result from a matrix of shape (4,8,12,12). Transpose the result.\nA:",
+        "targets": [
+            "(24,18)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 125,
+        "inputs": "Q: Compute the hadamard product of a matrix of shape (2,3) with a matrix of shape (2,3). Add the result to a matrix of shape (2,3). Compute the kronecker product of the result with a matrix of shape (3,2). Compute the hadamard product of the result with a matrix of shape (6,6).\nA:",
+        "targets": [
+            "(12,12)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1827,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (2,2,3,2) with a matrix of shape (3,4,2,3). Subtract the result from a matrix of shape (6,8,6,6). Multiply the result with a matrix of shape (6,8,6,1). Multiply the result with a matrix of shape (6,8,1,4). Subtract the result from a matrix of shape (6,8,6,4). Transpose the result.\nA:",
+        "targets": [
+            "(6,8)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2258,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (2,3,2,3) with a matrix of shape (4,4,4,3).\nA:",
+        "targets": [
+            "(4,8,6)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1059,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (3,3,2,2) with a matrix of shape (2,3,3,2). Compute the hadamard product of the result with a matrix of shape (6,9,6,4). Subtract the result from a matrix of shape (6,9,6,4). Transpose the result. Sum the result over the second axis.\nA:",
+        "targets": [
+            "(18,18,24)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1167,
+        "inputs": "Q: Take a matrix of shape (3,3,3,2) and sum over the third axis. Multiply the result with a matrix of shape (3,2,4). Transpose the result. Multiply the result with a matrix of shape (4,3,2).\nA:",
+        "targets": [
+            "(4,9)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3497,
+        "inputs": "Q: Multiply a matrix of shape (3,3) with a matrix of shape (3,2). Add the result to a matrix of shape (3,2). Subtract the result from a matrix of shape (3,2). Compute the kronecker product of the result with a matrix of shape (3,4). Transpose the result.\nA:",
+        "targets": [
+            "(3,3,3)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 906,
+        "inputs": "Q: Add a matrix of shape (2,2,3) to a matrix of shape (2,2,3). Compute the hadamard product of the result with a matrix of shape (2,2,3). Compute the hadamard product of the result with a matrix of shape (2,2,3). Subtract the result from a matrix of shape (2,2,3). Compute the kronecker product of the result with a matrix of shape (2,3,2).\nA:",
+        "targets": [
+            "(72,72)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1102,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (3,3,2) with a matrix of shape (2,3,3). Multiply the result with a matrix of shape (6,6,3). Transpose the result. Multiply the result with a matrix of shape (3,6,2).\nA:",
+        "targets": [
+            "(2,2)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3541,
+        "inputs": "Q: Take a matrix of shape (3,2,3,3) and sum over the first axis. Subtract the result from a matrix of shape (2,3,3). Transpose the result. Multiply the result with a matrix of shape (3,2,1). Transpose the result.\nA:",
+        "targets": [
+            "(9,4,9)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1941,
+        "inputs": "Q: Transpose a matrix of shape (3,2,2,3). Compute the kronecker product of the result with a matrix of shape (3,4,3,3). Transpose the result. Compute the hadamard product of the result with a matrix of shape (9,6,8,9). Sum the result over the second axis.\nA:",
+        "targets": [
+            "(4,6,6)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3280,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (3,3,3) with a matrix of shape (2,4,4).\nA:",
+        "targets": [
+            "(2,2)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3297,
+        "inputs": "Q: Compute the hadamard product of a matrix of shape (2,2) with a matrix of shape (2,2). Transpose the result. Compute the hadamard product of the result with a matrix of shape (2,2). Transpose the result.\nA:",
+        "targets": [
+            "(6,12)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1127,
+        "inputs": "Q: Compute the kronecker product of a matrix of shape (3,2,2,3) with a matrix of shape (4,3,4,4). Compute the kronecker product of the result with a matrix of shape (2,3,3,2). Multiply the result with a matrix of shape (24,18,24,4). Compute the kronecker product of the result with a matrix of shape (2,4,3,3).\nA:",
+        "targets": [
+            "(2,3)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1880,
+        "inputs": "Q: Compute the hadamard product of a matrix of shape (3,3) with a matrix of shape (3,3). Compute the kronecker product of the result with a matrix of shape (2,4).\nA:",
+        "targets": [
+            "(1,4)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2773,
+        "inputs": "Q: Transpose a matrix of shape (3,2,3,2). Subtract the result from a matrix of shape (2,3,2,3).\nA:",
+        "targets": [
+            "(2,3,3,3)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2394,
+        "inputs": "Q: Take a matrix of shape (2,2,3,3) and sum over the third axis. Sum the result over the second axis. Transpose the result. Subtract the result from a matrix of shape (3,2). Add the result to a matrix of shape (3,2). Multiply the result with a matrix of shape (2,3).\nA:",
+        "targets": [
+            "(9,9,2)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3454,
+        "inputs": "Q: Multiply a matrix of shape (2,2,2) with a matrix of shape (2,2,2). Compute the hadamard product of the result with a matrix of shape (2,2,2).\nA:",
+        "targets": [
+            "(2,3,2,3)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2432,
+        "inputs": "Q: Add a matrix of shape (2,3,3) to a matrix of shape (2,3,3). Sum the result over the third axis. Transpose the result.\nA:",
+        "targets": [
+            "(3,2)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 442,
+        "inputs": "Q: Add a matrix of shape (3,3,3,3) to a matrix of shape (3,3,3,3). Sum the result over the first axis. Multiply the result with a matrix of shape (3,3,2).\nA:",
+        "targets": [
+            "(4,2,2,4)"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

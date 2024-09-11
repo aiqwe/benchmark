@@ -1,0 +1,622 @@
+[
+    {
+        "idx": 40,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Dear love, please don't shoot me with your Cupid's bow.\nFigure of speech:",
+        "targets": [
+            "Personification"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: I dropped an electron somewhere! -Are you sure!  -Yes, I’m positive!\nFigure of speech:",
+        "targets": [
+            "Personification"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: I gave the berserk baboon a banana and tried to pacify the bawdy beast.\nFigure of speech:",
+        "targets": [
+            "Euphemism"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Michael insisted that his brother act naturally when they were confronted by their mother.\nFigure of speech:",
+        "targets": [
+            "Personification"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Mike Ross from Suits (American drama series) was a walking encyclopedia.\nFigure of speech:",
+        "targets": [
+            "Personification"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: A pessimist's blood type is always B-negative.\nFigure of speech:",
+        "targets": [
+            "Oxymoron"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Are you afraid of things that go bump in the night?\nFigure of speech:",
+        "targets": [
+            "Pun"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: After running a marathon, a marathoner eats like a horse.\nFigure of speech:",
+        "targets": [
+            "Alliteration"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: I dropped an electron somewhere! -Are you sure!  -Yes, I’m positive!\nFigure of speech:",
+        "targets": [
+            "Onomatopoeia"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Mike Ross from Suits (American drama series) was a walking encyclopedia.\nFigure of speech:",
+        "targets": [
+            "Personification"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: The fair breeze blew, the white foam flew.\nFigure of speech:",
+        "targets": [
+            "Oxymoron"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Oh, rose, how sweet you smell and how bright you look.\nFigure of speech:",
+        "targets": [
+            "Simile"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Oh, rose, how sweet you smell and how bright you look.\nFigure of speech:",
+        "targets": [
+            "Alliteration"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Time flew, and before we knew it, it was time for me to go home.\nFigure of speech:",
+        "targets": [
+            "Alliteration"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: It cuts like butter.\nFigure of speech:",
+        "targets": [
+            "Metaphor"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Are you afraid of things that go bump in the night?\nFigure of speech:",
+        "targets": [
+            "Hyperbole"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Ding dong! The bells are gonna chime.\nFigure of speech:",
+        "targets": [
+            "Pun"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: After running a marathon, a marathoner eats like a horse.\nFigure of speech:",
+        "targets": [
+            "Apostrophe"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: The cat meowed incessantly when it saw a lion outside the window.\nFigure of speech:",
+        "targets": [
+            "Simile"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Please identify the figure of speech embodied by the following English sentences.\nSentence: Are you afraid of things that go bump in the night?\nFigure of speech:",
+        "targets": [
+            "Pun"
+        ],
+        "multiple_choice_targets": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Apostrophe",
+            "Oxymoron",
+            "Hyperbole",
+            "Pun",
+            "Euphemism",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

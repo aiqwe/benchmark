@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 34445,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Michał di Rumi Doctor Adam ha intrapreso il trattamento di un dente, quello superiore dopo 4 resezioni con una significativa perdita ossea.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 15700,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Il y a déjà des commentaires sur cet orateur sur le site du CENEO, veuillez vous renseigner à ce sujet.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 5726,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: El complejo hotelero tiene una gran ubicación, limpieza, hermosa arquitectura y excelente cocina.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1966,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Он был выложен грязной стороной вниз, так что человек, спящий внизу, должен был \"наслаждаться\" своим видом.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18895,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Uno standard piuttosto ostello.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14672,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: And how can a doctor like that help me?negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 38025,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Quando, no seu próprio casamento, ela até teve uma enxaqueca pouco antes de ir à igreja, ela disse basta!negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17003,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: The tumors were coming out of the ovaries, the Doctor didn't see them, which surprised the gynaecologists, whom she then went to remove the tumors.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "ambivalent"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7407,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: \"Согласно нашим методам, время, когда происходит желаемая химическая реакция, составляет несколько минут, а в некоторых случаях всего несколько десятков секунд.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 8925,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: 明確な良心を持って、私は非常にあなたをお勧めします。ソロモン.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35444,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Le décor de la pièce était de mauvais goût.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12704,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: 我应该在三周前收到细胞学检查结果 - 我今天才拿到结果!negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "negative"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 34391,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: This is not why you come to such a secluded place that such \"attractions\" wake us up.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 15361,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Dzisiaj przyszły wyniki - jestem zdrowy .negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1396,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Sie glaubte daran und machte mich krank.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 40386,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Il y a quelques jours, il a été opéré au WIM à Varsovie à cause d'une acromégalie et je dois avouer que le traitement du tuitaj est un pur plaisir par rapport à votre opération.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2381,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Creo que el multicooker hace que cocinar sea muy fácil y relajante.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5000,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Anestesia sem muita excitação (o dentista é pior), basta acostumar-se aos estranhos sons mesmo atrás do ouvido.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4883,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Dans des études sur les animaux, on a observé que les souris consomment 50 % de thé vert. Elle a inhibé le développement du cancer de l'intestin.negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "ambivalent"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 6544,
+        "inputs": "Determine whether given opinion is positive, negative, neutral or ambivalent in terms of its sentiment.\nQ: Ze werd verontschuldigd door de receptie en weer naar boven gestuurd (ze verspilde ongeveer 60min alleen vanwege de dokter).negativepositiveambivalentneutral\nA:",
+        "targets": [
+            "positive"
+        ],
+        "multiple_choice_targets": [
+            "ambivalent",
+            "positive",
+            "negative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    }
+]

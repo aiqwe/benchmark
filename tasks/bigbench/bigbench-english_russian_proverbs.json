@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 31,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: One drop of poison infects the whole tun of wine\n  choice: Было бы вино а пьяны будем\n  choice: Одна паршивая овца все стадо портит\n  choice: Бочка крепка обручами\n  choice: И было да неправда\nRussian proverb:",
+        "targets": [
+            "Это ещё цветочки а ягодки впереди"
+        ],
+        "multiple_choice_targets": [
+            "Не всё бьёт что гремит",
+            "В очи льстит а за глаза костит",
+            "Не имей сто рублей а имей сто друзей",
+            "Что у кого болит тот о том и говорит"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Speak of the devil and he will appear\n  choice: Божье крепко а дьявольское лепко\n  choice: Ямщик в дороге пайщик\n  choice: Авирону чёрт дал оборону сову да ворону\n  choice: Про волка речь а он навстречь\nRussian proverb:",
+        "targets": [
+            "Мешай дело с бездельем проживешь век с весельем"
+        ],
+        "multiple_choice_targets": [
+            "Хвали день до заката",
+            "С вестей пошлины не берут",
+            "Воскресный день не нам а господам",
+            "Не всё коту масленица"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Every dog is a lion at home\n  choice: Всяк кулик своё болото хвалит\n  choice: Не из корысти собака кусает из лихости\n  choice: Всяк кулик в своем болоте велик\n  choice: Долгие сборы на короткий век\nRussian proverb:",
+        "targets": [
+            "Кручина иссушит и лучину"
+        ],
+        "multiple_choice_targets": [
+            "Петь хорошо вместе а говорить порознь",
+            "Скоро хорошо не родиться",
+            "Азбуки не знает а читать садится",
+            "Не учись пиво пить учись деньги копить"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: No fence against ill fortune\n  choice: Без столбов и забор не стоит\n  choice: От тюрьмы да от сумы не зарекайся\n  choice: Беда не приходит одна\n  choice: Кому повезёт у того и петух снесёт\nRussian proverb:",
+        "targets": [
+            "Веером туман разгонять"
+        ],
+        "multiple_choice_targets": [
+            "Шила в мешке не утаишь",
+            "Рука согрешит а голова в ответе",
+            "Береги бровь глаз цел будет",
+            "Не пуля а человек человека из ружья убивает"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Wise after the event\n  choice: Где дёшево там и дорого\n  choice: Много думается мало сбывается\n  choice: Во всяком мудреце довольно простоты\n  choice: Догадался как проигрался\nRussian proverb:",
+        "targets": [
+            "Видит око да зуб неймет"
+        ],
+        "multiple_choice_targets": [
+            "Коней на переправе не меняют",
+            "Сытый голодного не разумеет",
+            "Невелик зверь да лапист",
+            "Горбатого могила исправит"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Every dog is a lion at home\n  choice: Всяк кулик своё болото хвалит\n  choice: Не из корысти собака кусает из лихости\n  choice: Всяк кулик в своем болоте велик\n  choice: Долгие сборы на короткий век\nRussian proverb:",
+        "targets": [
+            "Сидеть как на иголках"
+        ],
+        "multiple_choice_targets": [
+            "Когда рак на горе свистнет",
+            "На кнуте далеко не уедешь",
+            "Бог не выдаст свинья не съест",
+            "На безрыбье и рак рыба"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: By hook or by crook\n  choice: Не мытьем так катаньем\n  choice: Сто рублей есть так и правда твоя\n  choice: Не до шуток рыбке коли крючком под жабру хватают\n  choice: Не страшись да и не хвались\nRussian proverb:",
+        "targets": [
+            "Звону много да толку мало"
+        ],
+        "multiple_choice_targets": [
+            "Бедному одеться только подпоясаться",
+            "Кому повезёт у того и петух снесёт",
+            "Кому повешену быть тот не утонет",
+            "На бедного Макара все шишки валятся"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: To use a steam hammer to crack nuts\n  choice: Комар парню ногу отдавил\n  choice: Стрелять из пушек по воробьям\n  choice: Колотись бейся а всё надейся\n  choice: Охоча жаба до орехов да зубов нет\nRussian proverb:",
+        "targets": [
+            "Азбуки не знает а читать садится"
+        ],
+        "multiple_choice_targets": [
+            "Оно бы и очень можно да никак нельзя",
+            "Дурака учить что мёртвого лечить",
+            "Больному и золотая кровать не поможет",
+            "По Сеньке и шапка"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Like cures like\n  choice: Клин клином вышибается\n  choice: Страшно дело до начала\n  choice: Два сапога пара\n  choice: Не лечиться худо а лечиться ещё хуже\nRussian proverb:",
+        "targets": [
+            "Между молотом и наковальней"
+        ],
+        "multiple_choice_targets": [
+            "Бедному одеться только подпоясаться",
+            "Кому повезёт у того и петух снесёт",
+            "Кому повешену быть тот не утонет",
+            "На бедного Макара все шишки валятся"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 43,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Unfortunate man would be drowned in a teacup\n  choice: Кому повезёт у того и петух снесёт\n  choice: На бедного Макара все шишки валятся\n  choice: Бедному одеться только подпоясаться\n  choice: Кому повешену быть тот не утонет\nRussian proverb:",
+        "targets": [
+            "Есть еще порох в пороховницах"
+        ],
+        "multiple_choice_targets": [
+            "К чему охота к тому и смысл",
+            "Легко найти счастье а потерять и того легче",
+            "Была бы охота заладится любая работа",
+            "Концы в воду и пузыри вверх"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 58,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Life is not all cakes and ale\n  choice: Жизнь прожить не поле перейти\n  choice: Хвали жизнь при смерти а день вечером\n  choice: Жизнь измеряется не годами а трудами\n  choice: Не учись пиво пить учись деньги копить\nRussian proverb:",
+        "targets": [
+            "Догадался как проигрался"
+        ],
+        "multiple_choice_targets": [
+            "Одна голова хорошо а двух не бывает",
+            "Февраль богат снегом апрель водою",
+            "Бери в работе умом а не горбом",
+            "Рука руку моет а две руки лицо"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: New lords new laws\n  choice: Новая метла чисто метет\n  choice: Старый друг лучше новых двух\n  choice: Закон что дышло куда повернешь туда и вышло\n  choice: По погудке и пляска\nRussian proverb:",
+        "targets": [
+            "Штопай дыру пока невелика"
+        ],
+        "multiple_choice_targets": [
+            "Тришкин кафтан",
+            "Красиво да животу тоскливо",
+            "Не из таких чтобы грабить нагих",
+            "Отец Макар трапезует а послушник Назар запахом сыт"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Speak of the devil and he will appear\n  choice: Божье крепко а дьявольское лепко\n  choice: Ямщик в дороге пайщик\n  choice: Авирону чёрт дал оборону сову да ворону\n  choice: Про волка речь а он навстречь\nRussian proverb:",
+        "targets": [
+            "Со времен царя Гороха"
+        ],
+        "multiple_choice_targets": [
+            "Один в поле не воин",
+            "Коли с правдой так не один",
+            "Не место место красит человека а человек место",
+            "И в пир и в мир и в добрые люди"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 46,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Much coin much care\n  choice: Деньги счет любят\n  choice: У Бога денег много\n  choice: Больше денег больше и хлопот\n  choice: Забот полон рот а перекусить нечего\nRussian proverb:",
+        "targets": [
+            "Овчинка выделки не стоит"
+        ],
+        "multiple_choice_targets": [
+            "Кто везде тот нигде",
+            "Делу время потехе час",
+            "Каков мастер такова и работа",
+            "Мешай дело с бездельем проживешь век с весельем"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Make hay while the sun shines\n  choice: Куй железо пока горячо\n  choice: Худо сено половина травы\n  choice: И в мое оконце засветит солнце\n  choice: Сам не ем и другим не даю\nRussian proverb:",
+        "targets": [
+            "Со времен царя Гороха"
+        ],
+        "multiple_choice_targets": [
+            "Петь хорошо вместе а говорить порознь",
+            "Скоро хорошо не родиться",
+            "Азбуки не знает а читать садится",
+            "Не учись пиво пить учись деньги копить"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: There is no royal road to learning\n  choice: Дорога в ад вымощена добрыми намерениями\n  choice: Царские глаза далеко видят\n  choice: Без муки нет и науки\n  choice: Ученье и труд всё перетрут\nRussian proverb:",
+        "targets": [
+            "Утро вечера мудренее"
+        ],
+        "multiple_choice_targets": [
+            "Много думается мало сбывается",
+            "Догадался как проигрался",
+            "Во всяком мудреце довольно простоты",
+            "Где дёшево там и дорого"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: New lords new laws\n  choice: Новая метла чисто метет\n  choice: Старый друг лучше новых двух\n  choice: Закон что дышло куда повернешь туда и вышло\n  choice: По погудке и пляска\nRussian proverb:",
+        "targets": [
+            "Больше денег больше и хлопот"
+        ],
+        "multiple_choice_targets": [
+            "Всяк кулик в своем болоте велик",
+            "Долгие сборы на короткий век",
+            "Всяк кулик своё болото хвалит",
+            "Не из корысти собака кусает из лихости"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: There is small choice in rotten apples\n  choice: Нет дыма без огня\n  choice: Хрен редьки не слаще\n  choice: Здоровое яблоко не падает с ветки\n  choice: Осина не родит апельсина\nRussian proverb:",
+        "targets": [
+            "Перемелется мука будет"
+        ],
+        "multiple_choice_targets": [
+            "Коней на переправе не меняют",
+            "Сытый голодного не разумеет",
+            "Невелик зверь да лапист",
+            "Горбатого могила исправит"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: Still waters run deep \n  choice: Глубокая вода не мутится\n  choice: Как аукнется так и откликнется\n  choice: В тихом омуте черти водятся\n  choice: Живи тихо не увидишь лиха\nRussian proverb:",
+        "targets": [
+            "Один в поле не воин"
+        ],
+        "multiple_choice_targets": [
+            "Хвали день до заката",
+            "С вестей пошлины не берут",
+            "Воскресный день не нам а господам",
+            "Не всё коту масленица"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "For the given proverb/idiom in English, give a proverb/idiom in Russian which is close to it in meaning.\n\nEnglish proverb: The grass is always greener on the other side of the fence\n  choice: За морем веселье да чужое а у нас и горе да своё\n  choice: Худая трава из поля вон\n  choice: Без корня и полынь не растет\n  choice: Хорошо там где нас нет\nRussian proverb:",
+        "targets": [
+            "Мешай дело с бездельем проживешь век с весельем"
+        ],
+        "multiple_choice_targets": [
+            "Хвали день до заката",
+            "С вестей пошлины не берут",
+            "Воскресный день не нам а господам",
+            "Не всё коту масленица"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    }
+]

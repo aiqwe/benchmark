@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 211,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'braveheart'?\n  choice: braveheafrt\n  choice: graveheart\n  choice: brasveheart\n  choice: bravehearts\nA:",
+        "targets": [
+            "top gin"
+        ],
+        "multiple_choice_targets": [
+            "bliack panther",
+            "block panther",
+            "black panthers",
+            "black panthek"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 342,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the sisterhood of the traveling pants'?\n  choice: the sisterhood of the traveling pnants\n  choice: the sisterhootd of the traveling pants\n  choice: the sisterhood of the traveling pints\n  choice: the sisterhood vf the traveling pants\nA:",
+        "targets": [
+            "schindler's lift"
+        ],
+        "multiple_choice_targets": [
+            "dib hard",
+            "die haard",
+            "die hare",
+            "die sard"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 195,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'bon iver'?\n  choice: bion iver\n  choice: bon liver\n  choice: ban iver\n  choice: bon ivee\nA:",
+        "targets": [
+            "it's a wonderful line"
+        ],
+        "multiple_choice_targets": [
+            "the meatles",
+            "the beatles",
+            "tje beatles",
+            "the beatnles"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 235,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the dark knight'?\n  choice: the dark ksight\n  choice: tie dark knight\n  choice: the dark knigst\n  choice: the dork knight\nA:",
+        "targets": [
+            "hen in black"
+        ],
+        "multiple_choice_targets": [
+            "barman begins",
+            "batman bewins",
+            "hatman begins",
+            "batman begin"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: '50 cent'?\n  choice: 50 scent\n  choice: 5d cent\n  choice: 50 ecent\n  choice: 50q cent\nA:",
+        "targets": [
+            "belly and sebastian"
+        ],
+        "multiple_choice_targets": [
+            "the third mans",
+            "the third men",
+            "the jhird man",
+            "the third nan"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 142,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'fall out boy'?\n  choice: fall out bot\n  choice: faqll out boy\n  choice: falbl out boy\n  choice: fall outt boy\nA:",
+        "targets": [
+            "dank williams"
+        ],
+        "multiple_choice_targets": [
+            "the dark knigst",
+            "the dark ksight",
+            "tie dark knight",
+            "the dork knight"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 260,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the third man'?\n  choice: the third mans\n  choice: the third nan\n  choice: the jhird man\n  choice: the third men\nA:",
+        "targets": [
+            "mullet for my valentine"
+        ],
+        "multiple_choice_targets": [
+            "stare wars",
+            "stariwars",
+            "stars wars",
+            "star was"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'ice cube'?\n  choice: ice cunbe\n  choice: lice cube\n  choice: ice cmbe\n  choice: icep cube\nA:",
+        "targets": [
+            "a view to a krill"
+        ],
+        "multiple_choice_targets": [
+            "tzop gun",
+            "top gin",
+            "toup gun",
+            "toh gun"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 135,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'bon iver'?\n  choice: bion iver\n  choice: bon liver\n  choice: ban iver\n  choice: bon ivee\nA:",
+        "targets": [
+            "ricky"
+        ],
+        "multiple_choice_targets": [
+            "there will bez blood",
+            "there awill be blood",
+            "there will be flood",
+            "tkere will be blood"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 176,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'thin lizzy'?\n  choice: thin fizzy\n  choice: thiny lizzy\n  choice: ghin lizzy\n  choice: thin lpzzy\nA:",
+        "targets": [
+            "the man with two drains"
+        ],
+        "multiple_choice_targets": [
+            "pinks floyd",
+            "pink floayd",
+            "prnk floyd",
+            "pine floyd"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'talking heads'?\n  choice: talking had\n  choice: talrking heads\n  choice: stalking heads\n  choice: talking head\nA:",
+        "targets": [
+            "modern walking"
+        ],
+        "multiple_choice_targets": [
+            "tdream theater",
+            "dreaml theater",
+            "cream theater",
+            "dream theatpr"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the man with two brains'?\n  choice: the man with two bvrains\n  choice: the man wwith two brains\n  choice: the man with tgo brains\n  choice: the man with two drains\nA:",
+        "targets": [
+            "ruin man"
+        ],
+        "multiple_choice_targets": [
+            "made max",
+            "madc max",
+            "mad mix",
+            "mjad max"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 351,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the thing'?\n  choice: the thing\n  choice: the thong\n  choice: phe thing\n  choice: the things\nA:",
+        "targets": [
+            "the cattle of britain"
+        ],
+        "multiple_choice_targets": [
+            "fullmmetal jacket",
+            "full mpetal jacket",
+            "full metal jactet",
+            "dull metal jacket"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'con air'?\n  choice: con gair\n  choice: cov air\n  choice: can air\n  choice: conb air\nA:",
+        "targets": [
+            "lift of brian"
+        ],
+        "multiple_choice_targets": [
+            "phillips, craig,a and dean",
+            "phillips, craig, and deans",
+            "phillips, craig, and dead",
+            "phillips, craiig, and dean"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 339,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'mad max'?\n  choice: madq max\n  choice: sad max\n  choice: mada max\n  choice: mud max\nA:",
+        "targets": [
+            "pig country"
+        ],
+        "multiple_choice_targets": [
+            "ghostvbusters",
+            "ghost bustqrs",
+            "ghost buster",
+            "ghost lusters"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 341,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'goo goo dolls'?\n  choice: goo goo dills\n  choice: goo goto dolls\n  choice: goo gfoo dolls\n  choice: goo goo dohlls\nA:",
+        "targets": [
+            "monk"
+        ],
+        "multiple_choice_targets": [
+            "notting hills",
+            "nothing hill",
+            "nottirg hill",
+            "notting hill"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 151,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the right stuff'?\n  choice: the right snuff\n  choice: tve right stuff\n  choice: othe right stuff\n  choice: thewright stuff\nA:",
+        "targets": [
+            "i spit on your gravy"
+        ],
+        "multiple_choice_targets": [
+            "belle and sebasrtian",
+            "belly and sebastian",
+            "belle and sebajtian",
+            "ibelle and sebastian"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 340,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'run dmc'?\n  choice: run dac\n  choice: runxdmc\n  choice: rqn dmc\n  choice: run dnc\nA:",
+        "targets": [
+            "dangerous pies"
+        ],
+        "multiple_choice_targets": [
+            "tye police",
+            "the polite.",
+            "nhe police",
+            "twhe police"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 291,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: '12 angry men'?\n  choice: 12 hangry men\n  choice: 2 angry men\n  choice: 12 angry mhen\n  choice: 12oangry men\nA:",
+        "targets": [
+            "good will punting"
+        ],
+        "multiple_choice_targets": [
+            "ofinding dory",
+            "finding tory",
+            "finding dorp",
+            "finding bdory"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 155,
+        "inputs": "Q: Which of the following is a humorous edit of this artist or movie name: 'the sound of music'?\n  choice: the sound of muasic\n  choice: them sound of music\n  choice: the hound of music\n  choice: the ssund of music\nA:",
+        "targets": [
+            "the smash"
+        ],
+        "multiple_choice_targets": [
+            "ublur",
+            "blue",
+            "blucr",
+            "blnur"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

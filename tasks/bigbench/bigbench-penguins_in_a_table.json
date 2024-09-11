@@ -1,0 +1,422 @@
+[
+    {
+        "idx": 20,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhat is the name of the penguin that is 9 years old? Answer:",
+        "targets": [
+            "James"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 92,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nAnd here is a similar table, but listing giraffes:\n\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nWhat is the name of the last giraffe? Answer:",
+        "targets": [
+            "67"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhich penguin is younger than Louis? Answer:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nHow many penguins are more than 5 years old and weight more than 12 kg? Answer:",
+        "targets": [
+            "Gwen"
+        ],
+        "multiple_choice_targets": [
+            "26",
+            "29",
+            "41",
+            "55",
+            "67"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe then delete the penguin named Bernard from the table.\nWhich is the younest penguin? Answer:",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhat is the name of the 60 cm tall penguin? Answer:",
+        "targets": [
+            "2"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nHow many penguins are less than 8 years old and weight less than 12 kg? Answer:",
+        "targets": [
+            "3"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nHow many penguins are less than 8 years old? Answer:",
+        "targets": [
+            "Gladys"
+        ],
+        "multiple_choice_targets": [
+            "50",
+            "80",
+            "60",
+            "70",
+            "90"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 103,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhat is the name of the 0.6 m tall penguin? Answer:",
+        "targets": [
+            "Donna"
+        ],
+        "multiple_choice_targets": [
+            "Jody",
+            "Gladys",
+            "Marian",
+            "Donna",
+            "Louise"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 112,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhich is the second youngest penguin? Answer:",
+        "targets": [
+            "1"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 62,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nAnd here is a similar table, but listing giraffes:\n\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many species are listed in the tables? Answer:",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 98,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe now add a penguin to the table:\nJames, 12, 90, 12\nAnd here is a similar table, but listing giraffes:\n\nname, age, height (cm), weight (kg)\nJody, 5, 430, 620\nGladys, 10, 420, 590\nMarian, 2, 310, 410\nDonna, 9, 440, 650\nHow many giraffes are more than 5 years old? Answer:",
+        "targets": [
+            "2"
+        ],
+        "multiple_choice_targets": [
+            "26",
+            "29",
+            "41",
+            "55",
+            "67"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 70,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe now add a penguin to the table:\nJames, 12, 90, 12\nWhat is the cumulated weight of the penguins? Answer:",
+        "targets": [
+            "Donna"
+        ],
+        "multiple_choice_targets": [
+            "Louis",
+            "Bernard",
+            "Vincent",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 77,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe now add a penguin to the table:\nJames, 12, 90, 12\n\nWe then delete the penguin named Bernard from the table.\nWhat is the name of the last penguin? Answer:",
+        "targets": [
+            "1"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 96,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe then delete the penguin named Bernard from the table.\nWhat is the name of the last penguin? Answer:",
+        "targets": [
+            "2"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhich is the shortest penguin? Answer:",
+        "targets": [
+            "Vincent"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhat is the name of the second penguin? Answer:",
+        "targets": [
+            "Gwen"
+        ],
+        "multiple_choice_targets": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe now add a penguin to the table:\nJames, 12, 90, 12\nWhat is the name of the 60 cm tall penguin? Answer:",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 75,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\n\nWe now add a penguin to the table:\nJames, 12, 90, 12\n\nWe then delete the penguin named Bernard from the table.\nHow many animals are listed in the table? Answer:",
+        "targets": [
+            "Donna"
+        ],
+        "multiple_choice_targets": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Here is a table where the first line is a header and each subsequent line is a penguin:\n\nname, age, height (cm), weight (kg)\nLouis, 7, 50, 11\nBernard, 5, 80, 13\nVincent, 9, 60, 11\nGwen, 8, 70, 15\n\nFor example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.\n\nWhich penguin has the first name of a famous jazzman? Answer:",
+        "targets": [
+            "Louis"
+        ],
+        "multiple_choice_targets": [
+            "Bernard",
+            "Donna",
+            "Gladys",
+            "Gwen",
+            "James"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+]

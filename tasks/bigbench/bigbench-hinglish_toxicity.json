@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 54,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  24 marcha 1977 ko kendra men janta parti ki sarkar बनी..\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  balatkari aatanki hote hai unhein saream mar dena chahiyal aap neta mishra.\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  jo vidyaarthi jeee edvansam auma aulamuram kraik nahin kar pate un vidyaarthiyon ko jeee memens auma aulamuam sckor ke aadhaar par nit umaurnational institut off technology aulamuala aulamuram aum aulamuralam ke sansthaanon men pravesh milta है. nit ke kalayojon men pravesh hetu pratyek varsh 18,013 vidyaarthiyon ka selection kiya jata है..\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 150,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  yahaan aapko bata den ki ke naam se banae gaye ek twitter handal se yah tweets kiye gaye the twitter par eke khaan naam se ekount chalaane vale ne tweeter par khud ko sambhal yuppi nivasi likh rakha hai sapana chaudhari ne is mamle ko lekar uttar pradesh pulishasambhal pulis ur aum upi ko tweet kar karvai ki mang ki thie sapana ne bola tha ki ki soshal media par abhadra bhasha ka prayog kar striyon aurbahanon ko galiyan dene vale ke viruddh karvai ki jaee tweet karane vala shakhs sambhal ka hai is vajah se ucchh star se sambhal pulis ko tatkal karvai ke lie aadesh die ge.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  madhyapradesh ke mukhyamantri kamalanath apne bete nakulanath ke साथ..\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  kimat hi nahin balki is kar ko vailu for mani maana jata hai kyonki tata ki is kar men aulamu aulamu ur aulamuam se na sirf jyada space milta hai balki pover ke mamle men bhi tata baji marta hai aapko malum ho ki aumaul men 84 Bhp-115 aum pover vala injan laga hai jabki aulamu ur aulamuam men 67 Bhp-90 aum pover vala injan laga hai.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  unhone rangbhed ke khilaf ladai men dakshin afriki logon ki madad karane men antarrashtriya manchon par bharat ki bhumika ko yad kiya.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  sangdah men naukariyon ke naam par berojgaron se 500-500 rupaye ki vasuli ko lekar shetra ki swayansevi sanstha sara dvara mukhyamantri ko likh ja chuka hai tatha sara ke sachiv bine sharma ne patra ki prati adivya himachala ko bhi jari ki.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 104,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  jansangh se lekar bhajpa tak pradesh ke kaddavar netaon men se ek raghvaji ne char imli sthit apne sarkari bangle men sarkari naukari dilaane ka lalch dekarapane naukar ke sath an naicharal sex kiya thai.\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  aatankiyon ne mahilaon se jihad men shamil hone ke bhi aadesh die हैं..\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  aa shaandar shuruaat ke bad ganbhir pevelian laute (लीड-1).\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  maine halka sa dhakka lagaya to mera land ka topa uske andar ghus gayaai kamini ne halki si siskari bhari maine fir se thoya tor se dhakka lagaya to mera aadha land uski gand men ghus gayaai kamini bolie dheere sameerala.\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  aatankiyon ne mahilaon se jihad men shamil hone ke bhi aadesh die हैं..\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  yahi modi ki shaili है..\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  24 marcha 1977 ko kendra men janta parti ki sarkar बनी..\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  saakshi aa nahin vo akele men hi karta hai harami leckin ek bar om mere bubs daba rha thaaa to krishna ne dekh liyaam jo serial men mujhe badi maan bulata hai.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  aa shaandar shuruaat ke bad ganbhir pevelian laute (लीड-1).\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 99,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  nirav modi ghotale ke khulase ke bad videsh bhag gaya thaaa jiske bad use bhagoda ghoshit kar diya gaya thai.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 142,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  unhone rangbhed ke khilaf ladai men dakshin afriki logon ki madad karane men antarrashtriya manchon par bharat ki bhumika ko yad kiya.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "Is the sentence given below toxic?\n\nQ:  lagatar dusari bar purn bahumat se satta men vapasi karane vali modi sarkar 5 julai ko apne dusare karyakal ka pahla purn bajat pesh karegi.\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

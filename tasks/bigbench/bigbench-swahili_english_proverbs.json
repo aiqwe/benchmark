@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 128,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Debe tupu haliachi kuvuma\n  choice: Honesty is the best policy\n  choice: The good die young\n  choice: Empty vessels make the most noise\n  choice: Many hands make light work\nEquivalent English proverb:",
+        "targets": [
+            "You are never too old to learn"
+        ],
+        "multiple_choice_targets": [
+            "To each his own",
+            "A penny saved is a penny earned",
+            "You can catch more flies with honey than with vinegar",
+            "It's better to give than to receive"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 129,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Furaha hukolea mkiwa wengi\n  choice: An idle brain is the devil's workshop\n  choice: Shared joy is double joy\n  choice: A leopard cannot change its spots\n  choice: Great boast, small roast\nEquivalent English proverb:",
+        "targets": [
+            "One man's meat is another man's poison"
+        ],
+        "multiple_choice_targets": [
+            "Once bitten twice shy",
+            "Hunger breaks stone walls",
+            "Facts are stubborn things",
+            "Feed a cold and starve a fever"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 138,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Akili ni nywele, kila mtu ana zake\n  choice: It takes all sorts to make a world\n  choice: Nothing is impossible to a willing heart\n  choice: A watched pot never boils\n  choice: Never write what you dare not sign\nEquivalent English proverb:",
+        "targets": [
+            "A bad beginning makes a bad ending"
+        ],
+        "multiple_choice_targets": [
+            "Many hands make light work",
+            "Agnes come on horseback, but go away on foot",
+            "A thief passes for a gentleman when stealing has made him rich",
+            "Ignorance is bliss"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Asio bahati habahatishi\n  choice: There's no fool like an old fool\n  choice: You can't have your cake and eat it too\n  choice: Misfortunes seldome come alone\n  choice: Virtue is its own reward\nEquivalent English proverb:",
+        "targets": [
+            "When in Rome, do as the romans do"
+        ],
+        "multiple_choice_targets": [
+            "Birds in their little nests agree",
+            "Nothing is impossible to a willing heart",
+            "Never write what you dare not sign",
+            "A watched pot never boils"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Kifaa kufanana tui na maziwa\n  choice: Every one's faults are not written in their foreheads\n  choice: Two peas in a pod\n  choice: A city that parleys is half gotten\n  choice: The opera ain't over till the fat lady sings\nEquivalent English proverb:",
+        "targets": [
+            "If you play with fire, you will get burned"
+        ],
+        "multiple_choice_targets": [
+            "Change of fortune is the lot of life",
+            "Once bitten, twice shy",
+            "A burnt child dreads fire",
+            "Horses for courses"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 124,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Akutendaye mtende, mche asiyekutenda\n  choice: A volunteer is worth twenty pressed men\n  choice: Too many cooks spoil the broth\n  choice: A man is known by his friends\n  choice: Better the devil you know than the angel you do not know\nEquivalent English proverb:",
+        "targets": [
+            "A penny saved is a penny gained"
+        ],
+        "multiple_choice_targets": [
+            "Seldom seen, soon forgotten",
+            "A dog is a man's best friend",
+            "A penny saved is a penny earned",
+            "A golden key can open any door"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Ahadi ni deni\n  choice: A promise is a debt\n  choice: It takes a thief to catch a thief\n  choice: A great dowry is a bed full of brambles\n  choice: Brevity is the soul of wit\nEquivalent English proverb:",
+        "targets": [
+            "A good day is seen in the morning"
+        ],
+        "multiple_choice_targets": [
+            "He who loves roses must keep up with the thorns too",
+            "He that goes a-borrowing, goes a-sorrowing",
+            "All the world loves a lover",
+            "A fool and his money are soon parted"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Hapana marefu yasiyo mapana.\n  choice: He who lives by the sword shall die by the sword\n  choice: Walls have ears\n  choice: After a storm comes a calm\n  choice: Tastes differ\nEquivalent English proverb:",
+        "targets": [
+            "Too much water drowned the miller"
+        ],
+        "multiple_choice_targets": [
+            "A bad apple spoils the bunch",
+            "The work shows the workman",
+            "It's the singer not the song",
+            "Time cures all things"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Mwenye kuumwa na nyoka akiona jani hushtuka\n  choice: Feed a cold and starve a fever\n  choice: Once bitten twice shy\n  choice: Facts are stubborn things\n  choice: Hunger breaks stone walls\nEquivalent English proverb:",
+        "targets": [
+            "Where there’s a will there’s a way"
+        ],
+        "multiple_choice_targets": [
+            "What goes up, must come down",
+            "When the oak is before the ash, then you will only get a splash; when the ash is before the oak, then you may expect a soak",
+            "Every cloud has a silver lining",
+            "Time and tide wait for no man"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 30,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Kila kitu chageuka isipoku wa kitu kimoja tu\n  choice: That's where the shoe pinches\n  choice: The exception proves the rule\n  choice: A leopard cannot change its spots\n  choice: The bottom line is the bottom line\nEquivalent English proverb:",
+        "targets": [
+            "Experience is the best teacher"
+        ],
+        "multiple_choice_targets": [
+            "A good dog deserves a good bone",
+            "Mighty oaks from little acorns grow",
+            "You pays your money and you takes your choice",
+            "Old soldiers never die, they simply fade away"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Si kila mwenye makucha huwa simba\n  choice: He who fights and runs away, may live to fight another day\n  choice: There is no rose without a thorn\n  choice: All that glitters is not gold\n  choice: It is a long lane that has no turning\nEquivalent English proverb:",
+        "targets": [
+            "Once bitten, twice shy"
+        ],
+        "multiple_choice_targets": [
+            "Man proposes, God disposes",
+            "As snug as a bug in a rug",
+            "He that commits a fault thinks everyone speaks of it",
+            "The longest day has an end"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Ada ya mja hunena, muungwana ni kitendo\n  choice: Birds of a feather flock together\n  choice: Little things please little minds\n  choice: Actions speak louder than words\n  choice: Christmas comes but once a year\nEquivalent English proverb:",
+        "targets": [
+            "Let the sleeping dogs lie"
+        ],
+        "multiple_choice_targets": [
+            "Spare the rod, spoil the child",
+            "There are more ways of killing a cat than choking it with cream",
+            "All is grist that comes to the mill",
+            "All's fair in love and war"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Akina kuku mtegemeo wao mmoja\n  choice: Birds of a feather, flock together\n  choice: You can't hold with the hare and run with the hounds\n  choice: A prophet is not recognized in his own land\n  choice: It's an ill wind that blows no one any good\nEquivalent English proverb:",
+        "targets": [
+            "A bad workman blames his tools"
+        ],
+        "multiple_choice_targets": [
+            "Let the sleeping dogs lie",
+            "Money talks",
+            "Monday's child is fair of face",
+            "Crime doesn't pay"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 60,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Kuku na mwewe haweshi kiwewe\n  choice: Fortune favors the brave\n  choice: Once bitten, twice shy\n  choice: For everything there is a season\n  choice: Lease said, soonest mended\nEquivalent English proverb:",
+        "targets": [
+            "Don't bite more than you can chew"
+        ],
+        "multiple_choice_targets": [
+            "After a storm comes a calm",
+            "Tastes differ",
+            "Walls have ears",
+            "He who lives by the sword shall die by the sword"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Mnyamaa kadumbu\n  choice: Draw not your bow till your arrow is fixed\n  choice: Silence is golden\n  choice: A heavy purse makes a light heart\n  choice: He works best who knows his trade\nEquivalent English proverb:",
+        "targets": [
+            "It’s an ill wind that blows nobody any good"
+        ],
+        "multiple_choice_targets": [
+            "As you sow, so you shall reap",
+            "A new broom sweeps clean",
+            "Money isn't everything",
+            "Money is a good servant but a bad master"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Ngoja ngoja huumiza matumbo\n  choice: Be careful what you wish for\n  choice: Time and tide wait for no man\n  choice: A shy cat makes a proud mouse\n  choice: The fat is in the fire\nEquivalent English proverb:",
+        "targets": [
+            "A journey of thousand miles begins with a single step"
+        ],
+        "multiple_choice_targets": [
+            "Walls have ears",
+            "You can't win them all",
+            "There's nowt so queer as folk",
+            "There are two sides to every question"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 110,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Mtaka yote hukosa yote\n  choice: Grasp all, lose all\n  choice: To the victor go the spoils\n  choice: An empty hand is no lure for a hawk\n  choice: The more the merrier\nEquivalent English proverb:",
+        "targets": [
+            "It's easy to see the mote in your brother's eye and not the rafter in your own"
+        ],
+        "multiple_choice_targets": [
+            "The pitcher goes so often to the well that it is broken at last",
+            "Sweep before your own door",
+            "The wy to a man's heart is through his stomach",
+            "A soft answer turneth away wrath"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Anayetaka hachoki, hata akichoka keshapata\n  choice: Fall seven times, stand up eight\n  choice: You can't run with the hare and hunt with the hounds\n  choice: A chain is only as strong as its weakest link\n  choice: Tit for tat\nEquivalent English proverb:",
+        "targets": [
+            "Spare the rod, spoil the child"
+        ],
+        "multiple_choice_targets": [
+            "Blood is thicker than water",
+            "Mend or end",
+            "Many words hurt more than swords",
+            "There are two sides to every question"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Kila kitu chageuka isipoku wa kitu kimoja tu\n  choice: That's where the shoe pinches\n  choice: The exception proves the rule\n  choice: A leopard cannot change its spots\n  choice: The bottom line is the bottom line\nEquivalent English proverb:",
+        "targets": [
+            "Better alone than in bad company"
+        ],
+        "multiple_choice_targets": [
+            "A journey of thousand miles begins with a single step",
+            "Every bullet has its billet",
+            "Only the wearer knows where the shoe pinches",
+            "Tastes differ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 114,
+        "inputs": "For the given proverb/idiom in Swahili, give the proverb/idiom in English which is closest to it in meaning.\n\nSwahili proverb: Baa hukutia mtu wako\n  choice: It's one's tooth that bites one's tongue\n  choice: You can't make a silk purse out of a sow's ear\n  choice: Beauty is in the eye of the beholder\n  choice: Seek and you shall find\nEquivalent English proverb:",
+        "targets": [
+            "It's easy to see the mote in your brother's eye and not the rafter in your own"
+        ],
+        "multiple_choice_targets": [
+            "A bird in hand is worth two in the bush",
+            "The work shows the workman",
+            "Don't keep a dog and bark yourself",
+            "Dumb dogs are dangerous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

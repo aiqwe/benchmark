@@ -1,0 +1,190 @@
+[
+    {
+        "idx": 214,
+        "inputs": "Q: EverQuest II, Ikaruga, and State of Decay can be classified as",
+        "targets": [
+            "religions"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 122,
+        "inputs": "Q: What are the commonality of Pablo Picasso, Gustav Klimt, and Diego Velazquez? Answer: They are all",
+        "targets": [
+            "female artist"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 234,
+        "inputs": "Q: EverQuest II, Ikaruga, and State of Decay can be classified as",
+        "targets": [
+            "periods of Japanese history"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 51,
+        "inputs": "Q: What are the commonality of Nara period, Azuchi-Momoyama period, and Kamakura period? Answer: They are all",
+        "targets": [
+            "continents"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 67,
+        "inputs": "Q: svcinfo, dpr, and ses can be classified as",
+        "targets": [
+            "the media",
+            "news outlet"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 145,
+        "inputs": "Q: The similarity among Ethiopia, Nigeria, and Mauritania is that they are all",
+        "targets": [
+            "accessories"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 153,
+        "inputs": "Q: Philippines, Brazil, and India are examples of",
+        "targets": [
+            "extinct languages",
+            "endangered languages"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 54,
+        "inputs": "Q: The similarity among Kyle Zahacefski, Linus F. Phillip, and Joe Charboneau is that they are all",
+        "targets": [
+            "presidents of the U.S"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 175,
+        "inputs": "Q: fart, rotten eggs, skunks all",
+        "targets": [
+            "artists"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 128,
+        "inputs": "Q: Rust, TypeScript, and C/C++ are examples of",
+        "targets": [
+            "tech companies",
+            "software companies"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: Domoic Acid Poisoning, Spotted Fever Rickettsiosis, and Brucellosis can be classified as",
+        "targets": [
+            "pokeman"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 82,
+        "inputs": "Q: Salamence, Zapdos, and Moltres are all",
+        "targets": [
+            "tourist_attractions",
+            "architecture in Russia",
+            "buildings in Russia"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 38,
+        "inputs": "Q: xml, s1, and fti are all",
+        "targets": [
+            "presidents of the U.S"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 220,
+        "inputs": "Q: Indonesia, Ethiopia, and Bangladesh are all",
+        "targets": [
+            "chemical elements with high density"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: water, glass, air are all",
+        "targets": [
+            "American universities founded before the states they reside in were created"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 181,
+        "inputs": "Q: Andy Lucero, Cody McCaulou, and Dale Maverick Hudson are all",
+        "targets": [
+            "people shot by police"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 90,
+        "inputs": "Q: What are the commonality of Sharanahua, Chairel, and Tafi? Answer: They are all",
+        "targets": [
+            "Computer Science books",
+            "Programming books"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 210,
+        "inputs": "Q: The similarity among Cape Town, Apia, and Conakry is that they are all",
+        "targets": [
+            "presidents of the U.S"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 195,
+        "inputs": "Q: Jeans, Tops, and Suits are examples of",
+        "targets": [
+            "extinct languages",
+            "endangered languages"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 235,
+        "inputs": "Q: The similarity among Progress in Energy and Combustion Science, Nature Energy, and Chemical Reviews is that they are all",
+        "targets": [
+            "Computer Science books",
+            "Programming books"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

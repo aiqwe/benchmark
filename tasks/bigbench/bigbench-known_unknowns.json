@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 25,
+        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "July 20, 1969",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: How many people literally cried when Seinfeld went off the air?\n  choice: Unknown\n  choice: 32 million\nA:",
+        "targets": [
+            "Heron"
+        ],
+        "multiple_choice_targets": [
+            "2,160,000",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: On average, how many times did Albert Einstein touch his nose each day?\n  choice: Unknown\n  choice: 40 times a day\nA:",
+        "targets": [
+            "Between 7 and 9 hours"
+        ],
+        "multiple_choice_targets": [
+            "July 31, 2009",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Who was the most recent person in the world to break their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
+        "targets": [
+            "Maple tree"
+        ],
+        "multiple_choice_targets": [
+            "Florida, Missouri",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "65,000",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: How many steps did Mark Twain take in his life?\n  choice: Unknown\n  choice: 2,160,000\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "65,000",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "July 20, 1969",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: Who was the most recent person in the world to break their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
+        "targets": [
+            "The future ain't what it used to be"
+        ],
+        "multiple_choice_targets": [
+            "Ariana Grande",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 6,
+        "inputs": "Q: Who had the nickname \"the pogo stick\" when they attended Vallecito Elementary School in 1990?\n  choice: Unknown\n  choice: Lee Taylor\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "250 calories",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Q: How many hours of sleep a night is considered healthy for an adult?\n  choice: Unknown\n  choice: Between 7 and 9 hours\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "July 31, 2009",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "65,000",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "32 million",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
+        "targets": [
+            "65,000"
+        ],
+        "multiple_choice_targets": [
+            "Lee Taylor",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: What is the color of Jesse Engel's second-favorite guitar?\n  choice: Unknown\n  choice: Blue\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Ronnie Ronalde",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Bowler hat",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: How many steps did Mark Twain take in his life?\n  choice: Unknown\n  choice: 2,160,000\nA:",
+        "targets": [
+            "Florida, Missouri"
+        ],
+        "multiple_choice_targets": [
+            "32 million",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "Q: How much food does the cat Tinyman Zhengel eat every day?\n  choice: Unknown\n  choice: 250 calories\nA:",
+        "targets": [
+            "Bowler hat"
+        ],
+        "multiple_choice_targets": [
+            "Florida, Missouri",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
+        "targets": [
+            "Jimmy Carter"
+        ],
+        "multiple_choice_targets": [
+            "32 million",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: What color was the guitar Jimi Hendrix played at Woodstock?\n  choice: White\n  choice: Unknown\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "White",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
+        "targets": [
+            "Evan Ross"
+        ],
+        "multiple_choice_targets": [
+            "AIBO—the interactive pet",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

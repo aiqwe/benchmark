@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 989,
+        "inputs": "Question: When did the Treaty of Versailles no the Germany army enter Rhineland ?  \ncontext: At the end of World War I , the Rhineland was subject to the Treaty of Versailles . This decreed that it would be occupied by the allies , until 1935 and after that , it would be a demilitarised zone , with the German army forbidden to enter . The Treaty of Versailles and this particular provision , in general , caused much resentment in Germany and is often cited as helping Adolf Hitler ' s rise to power . The allies left the Rhineland , in 1930 and the German army re - occupied it in 1936 , which was enormously popular in Germany . Although the allies could probably have prevented the re - occupation , Britain and France were not inclined to do so , a feature of their policy of appeasement to Hitler . \nAnswer:",
+        "targets": [
+            "Dorotheenstadt and Friedrichstadt"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1376,
+        "inputs": "Question: What are begun or uh established at the end of each parliamentary session ?  \ncontext: Subject Committees are established at the beginning of each parliamentary session , and again the members on each committee reflect the balance of parties across Parliament . Typically each committee corresponds with one ( or more ) of the departments ( or ministries ) of the Scottish Government . The current Subject Committees in the fourth Session are : Economy , Energy and Tourism ; Education and Culture ; Health and Sport ; Justice ; Local Government and Regeneration ; Rural Affairs , Climate Change and Environment ; Welfare Reform ; and Infrastructure and Capital Investment . \nAnswer:",
+        "targets": [
+            "Warszawa"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3593,
+        "inputs": "Question: What ' s the name no the major conquest that Tancred played a roll in ?  \ncontext: In 1096 , Crusaders passing by the siege of Amalfi were joined by Bohemond of Taranto and his nephew Tancred with an army of Italo - Normans . Bohemond was the de facto leader of the Crusade during its passage through Asia Minor . After the successful Siege of Antioch in 1097 , Bohemond began carving out an independent principality around that city . Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee . [ citation needed ] \nAnswer:",
+        "targets": [
+            "vast areas"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 818,
+        "inputs": "Question: What dual titles did Duchy no sorry Frederick William hold ?  \ncontext: Around 1685 , Huguenot refugees found a safe haven in the Lutheran and Reformed states in Germany and Scandinavia . Nearly 50 , 000 Huguenots established themselves in Germany , 20 , 000 of whom were welcomed in Brandenburg - Prussia , where they were granted special privileges ( Edict of Potsdam ) and churches in which to worship ( such as the Church of St . Peter and St . Paul , Angermünde ) by Frederick William , Elector of Brandenburg and Duke of Prussia . The Huguenots furnished two new regiments of his army : the Altpreußische Infantry Regiments No . 13 ( Regiment on foot Varenne ) and 15 ( Regiment on foot Wylich ) . Another 4 , 000 Huguenots settled in the German territories of Baden , Franconia ( Principality of Bayreuth , Principality of Ansbach ) , Landgraviate of Hesse - Kassel , Duchy of Württemberg , in the Wetterau Association of Imperial Counts , in the Palatinate and Palatinate - Zweibrücken , in the Rhine - Main - Area ( Frankfurt ) , in modern - day Saarland ; and 1 , 500 found refuge in Hamburg , Bremen and Lower Saxony . Three hundred refugees were granted asylum at the court of George William , Duke of Brunswick - Lüneburg in Celle . \nAnswer:",
+        "targets": [
+            "unknown"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1292,
+        "inputs": "Question: What does each packet label include in connectionless mode or rather each packet ?  \ncontext: In connectionless mode each packet includes complete addressing information . The packets are routed individually , sometimes resulting in different paths and out - of - order delivery . Each packet is labeled with a destination address , source address , and port numbers . It may also be labeled with the sequence number of the packet . This precludes the need for a dedicated path to help the packet find its way to its destination , but means that much more information is needed in the packet header , which is therefore larger , and this information needs to be looked up in power - hungry content - addressable memory . Each packet is dispatched and may go via different routes ; potentially , the system has to do as much work for every packet as the connection - oriented system has to do in connection set - up , but with less information as to the application ' s requirements . At the destination , the original message / data is reassembled in the correct order , based on the packet sequence number . Thus a virtual connection , also known as a virtual circuit or byte stream is provided to the end - user by a transport layer protocol , although intermediate network nodes only provides a connectionless network layer service . \nAnswer:",
+        "targets": [
+            "Konsumentombudsmannen v De Agostini"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 59,
+        "inputs": "Question: How was the no who has elected the President of Warsaw since 1990 ?  \ncontext: The mayor of Warsaw is called President . Generally , in Poland , the mayors of bigger cities are called presidents – i . e . such cities , which have over 100 , 000 people or these , where already was president before 1990 . The first Warsaw President was Jan Andrzej Menich ( 1695 – 1696 ) . Between 1975 and 1990 the Warsaw Presidents was simultaneously the Warsaw Voivode . Since 1990 the President of Warsaw had been elected by the City council . In the years of 1994 – 1999 the mayor of the district Centrum automatically was designated as the President of Warsaw : the mayor of Centrum was elected by the district council of Centrum and the council was elected only by the Centrum residents . Since 2002 the President of Warsaw is elected by all of the citizens of Warsaw . \nAnswer:",
+        "targets": [
+            "public-key cryptography"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4863,
+        "inputs": "Question: What organization runs the public schools in Victoria no sorry not the public schools but the waste management ?  \ncontext: Victorian schools are either publicly or privately funded . Public schools , also known as state or government schools , are funded and run directly by the Victoria Department of Education . Students do not pay tuition fees , but some extra costs are levied . Private fee - paying schools include parish schools run by the Roman Catholic Church and independent schools similar to British public schools . Independent schools are usually affiliated with Protestant churches . Victoria also has several private Jewish and Islamic primary and secondary schools . Private schools also receive some public funding . All schools must comply with government - set curriculum standards . In addition , Victoria has four government selective schools , Melbourne High School for boys , MacRobertson Girls ' High School for girls , the coeducational schools John Monash Science School , Nossal High School and Suzanne Cory High School , and The Victorian College of the Arts Secondary School . Students at these schools are exclusively admitted on the basis of an academic selective entry test . \nAnswer:",
+        "targets": [
+            "unknown"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3899,
+        "inputs": "Question: What is the only form potential energy can make that kinetic can change into ?  \ncontext: A conservative force that acts on a closed system has an associated mechanical work that allows energy to convert only between kinetic or potential forms . This means that for a closed system , the net mechanical energy is conserved whenever a conservative force acts on the system . The force , therefore , is related directly to the difference in potential energy between two different locations in space , and can be considered to be an artifact of the potential field in the same way that the direction and amount of a flow of water can be considered to be an artifact of the contour map of the elevation of an area . \nAnswer:",
+        "targets": [
+            "southern"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5241,
+        "inputs": "Question: Who was the successors of Khan um wait no the Kublai Khan ' s grandfather ?  \ncontext: The Yuan dynasty is considered both a successor to the Mongol Empire and an imperial Chinese dynasty . It was the khanate ruled by the successors of Möngke Khan after the division of the Mongol Empire . In official Chinese histories , the Yuan dynasty bore the Mandate of Heaven , following the Song dynasty and preceding the Ming dynasty . The dynasty was established by Kublai Khan , yet he placed his grandfather Genghis Khan on the imperial records as the official founder of the dynasty as Taizu . [ b ] In the Proclamation of the Dynastic Name ( 《 建國號詔 》 ) , Kublai announced the name of the new dynasty as Great Yuan and claimed the succession of former Chinese dynasties from the Three Sovereigns and Five Emperors to the Tang dynasty . \nAnswer:",
+        "targets": [
+            "unknown"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1959,
+        "inputs": "Question: What is a regulatory factor I meant to say are two types of phagocytes that travel through the body to find invading pathogens ?  \ncontext: Neutrophils and macrophages are phagocytes that travel throughout the body in pursuit of invading pathogens . Neutrophils are normally found in the bloodstream and are the most abundant type of phagocyte , normally representing 50 % to 60 % of the total circulating leukocytes . During the acute phase of inflammation , particularly as a result of bacterial infection , neutrophils migrate toward the site of inflammation in a process called chemotaxis , and are usually the first cells to arrive at the scene of infection . Macrophages are versatile cells that reside within tissues and produce a wide array of chemicals including enzymes , complement proteins , and regulatory factors such as interleukin 1 . Macrophages also act as scavengers , ridding the body of worn - out cells and other debris , and as antigen - presenting cells that activate the adaptive immune system . \nAnswer:",
+        "targets": [
+            "Switzerland and the Netherlands"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4884,
+        "inputs": "Question: Amazon rain forest experienced another mild drought in which or rather what year ?  \ncontext: In 2010 the Amazon rainforest experienced another severe drought , in some ways more extreme than the 2005 drought . The affected region was approximate 1 , 160 , 000 square miles ( 3 , 000 , 000 km2 ) of rainforest , compared to 734 , 000 square miles ( 1 , 900 , 000 km2 ) in 2005 . The 2010 drought had three epicenters where vegetation died off , whereas in 2005 the drought was focused on the southwestern part . The findings were published in the journal Science . In a typical year the Amazon absorbs 1 . 5 gigatons of carbon dioxide ; during 2005 instead 5 gigatons were released and in 2010 8 gigatons were released . \nAnswer:",
+        "targets": [
+            "Richard I"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 721,
+        "inputs": "Question: The counter flow or sorry I mean the horizontal engine , what was its ultimate development ?  \ncontext: The acme of the horizontal engine was the Corliss steam engine , patented in 1849 , which was a four - valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff . When Corliss was given the Rumford medal the committee said that \" no one invention since Watt ' s time has so enhanced the efficiency of the steam engine \" . In addition to using 30 % less steam , it provided more uniform speed due to variable steam cut off , making it well suited to manufacturing , especially cotton spinning . \nAnswer:",
+        "targets": [
+            "connect two PDP-11 minicomputers"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 37,
+        "inputs": "Question: How many earthquakes does Northridge , I mean the state of California have each year ?  \ncontext: Each year , the southern California area has about 10 , 000 earthquakes . Nearly all of them are so small that they are not felt . Only several hundred are greater than magnitude 3 . 0 , and only about 15 – 20 are greater than magnitude 4 . 0 . The magnitude 6 . 7 1994 Northridge earthquake was particularly destructive , causing a substantial number of deaths , injuries , and structural collapses . It caused the most property damage of any earthquake in U . S . history , estimated at over $ 20 billion . \nAnswer:",
+        "targets": [
+            "viral antigens"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4343,
+        "inputs": "Question: What does Shia or I mean Salafism in its harshest form encourage its followers to view others religions ?  \ncontext: The interpretation of Islam promoted by this funding was the strict , conservative Saudi - based Wahhabism or Salafism . In its harshest form it preached that Muslims should not only \" always oppose \" infidels \" in every way , \" but \" hate them for their religion . . . for Allah ' s sake , \" that democracy \" is responsible for all the horrible wars of the 20th century , \" that Shia and other non - Wahhabi Muslims were infidels , etc . While this effort has by no means converted all , or even most Muslims to the Wahhabist interpretation of Islam , it has done much to overwhelm more moderate local interpretations , and has set the Saudi - interpretation of Islam as the \" gold standard \" of religion in minds of some or many Muslims . \nAnswer:",
+        "targets": [
+            "value added by different classifications of workers"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4421,
+        "inputs": "Question: What percentage of oxygen is usually supplied by a mechanical ventilator no not that but by a medical mask ?  \ncontext: Oxygen gas ( O 2 ) can be toxic at elevated partial pressures , leading to convulsions and other health problems . [ j ] Oxygen toxicity usually begins to occur at partial pressures more than 50 kilopascals ( kPa ) , equal to about 50 % oxygen composition at standard pressure or 2 . 5 times the normal sea - level O 2 partial pressure of about 21 kPa . This is not a problem except for patients on mechanical ventilators , since gas supplied through oxygen masks in medical applications is typically composed of only 30 % – 50 % O 2 by volume ( about 30 kPa at standard pressure ) . ( although this figure also is subject to wide variation , depending on type of mask ) . \nAnswer:",
+        "targets": [
+            "Pacific Ocean"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5131,
+        "inputs": "Question: Where did Kublai move the Yuan , scratch that , the Mongol capital to ?  \ncontext: Kublai readied the move of the Mongol capital from Karakorum in Mongolia to Khanbaliq in 1264 , constructing a new city near the former Jurchen capital Zhongdu , now modern Beijing , in 1266 . In 1271 , Kublai formally claimed the Mandate of Heaven and declared that 1272 was the first year of the Great Yuan ( Chinese : 大元 ) in the style of a traditional Chinese dynasty . The name of the dynasty originated from the I Ching and describes the \" origin of the universe \" or a \" primal force \" . Kublai proclaimed Khanbaliq the \" Great Capital \" or Daidu ( Dadu , Chinese : 大都 in Chinese ) of the dynasty . The era name was changed to Zhiyuan to herald a new era of Chinese history . The adoption of a dynastic name legitimized Mongol rule by integrating the government into the narrative of traditional Chinese political succession . Khublai evoked his public image as a sage emperor by following the rituals of Confucian propriety and ancestor veneration , while simultaneously retaining his roots as a leader from the steppes . \nAnswer:",
+        "targets": [
+            "the most efficient algorithm"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1586,
+        "inputs": "Question: What is the transposed law no the lowest court in the European Union ?  \ncontext: European Union law is applied by the courts of member states and the Court of Justice of the European Union . Where the laws of member states provide for lesser rights European Union law can be enforced by the courts of member states . In case of European Union law which should have been transposed into the laws of member states , such as Directives , the European Commission can take proceedings against the member state under the Treaty on the Functioning of the European Union . The European Court of Justice is the highest court able to interpret European Union law . Supplementary sources of European Union law include case law by the Court of Justice , international law and general principles of European Union law . \nAnswer:",
+        "targets": [
+            "Evita and The Wiz"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4075,
+        "inputs": "Question: The presence or absence of who no I mean of what can be used to determine the relative age of the formations in which they are found ?  \ncontext: The principle of faunal succession is based on the appearance of fossils in sedimentary rocks . As organisms exist at the same time period throughout the world , their presence or ( sometimes ) absence may be used to provide a relative age of the formations in which they are found . Based on principles laid out by William Smith almost a hundred years before the publication of Charles Darwin ' s theory of evolution , the principles of succession were developed independently of evolutionary thought . The principle becomes quite complex , however , given the uncertainties of fossilization , the localization of fossil types due to lateral changes in habitat ( facies change in sedimentary strata ) , and that not all fossils may be found globally at the same time . \nAnswer:",
+        "targets": [
+            "unknown"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 442,
+        "inputs": "Question: Ciliary rosettes pump water into sea water no that ' s no right I mean into what to control buoyancy ?  \ncontext: It is uncertain how ctenophores control their buoyancy , but experiments have shown that some species rely on osmotic pressure to adapt to water of different densities . Their body fluids are normally as concentrated as seawater . If they enter less dense brackish water , the ciliary rosettes in the body cavity may pump this into the mesoglea to increase its bulk and decrease its density , to avoid sinking . Conversely if they move from brackish to full - strength seawater , the rosettes may pump water out of the mesoglea to reduce its volume and increase its density . \nAnswer:",
+        "targets": [
+            "Ruhr"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3560,
+        "inputs": "Question: Why does What does the highest level of the Vistula plateau contain ?  \ncontext: The plain moraine plateau has only a few natural and artificial ponds and also groups of clay pits . The pattern of the Vistula terraces is asymmetrical . The left side consist mainly of two levels : the highest one contains former flooded terraces and the lowest one the flood plain terrace . The contemporary flooded terrace still has visible valleys and ground depressions with water systems coming from the Vistula old – riverbed . They consist of still quite natural streams and lakes as well as the pattern of drainage ditches . The right side of Warsaw has a different pattern of geomorphological forms . There are several levels of the plain Vistula terraces ( flooded as well as former flooded once ) and only small part and not so visible moraine escarpment . Aeolian sand with a number of dunes parted by peat swamps or small ponds cover the highest terrace . These are mainly forested areas ( pine forest ) . \nAnswer:",
+        "targets": [
+            "optimisation of a drug treatment for an individual"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

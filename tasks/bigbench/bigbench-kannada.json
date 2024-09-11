@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 217,
+        "inputs": "Q: ನಾನು ಸದಾ ಕಾಲ ನಿನ್ನ ಮುಂದಿದ್ದರು ನೀ ನನ್ನ ಕಾಣಲಾರೆ.  ನಾನು ಯಾರು?\n  choice: ಕಾಲ\n  choice: ಮುಂದೆ\n  choice: ಕಣ್ಣು\n  choice: ಭವಿಷ್ಯ\nA:",
+        "targets": [
+            "ಗಜರಿ"
+        ],
+        "multiple_choice_targets": [
+            "ಪುಸ್ತಕ",
+            "ನಾಣ್ಯ",
+            "ಸಿಂಹ",
+            "ಚಕ್ರ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 172,
+        "inputs": "Q: ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು.  ನಾನು ಯಾರು?\n  choice: ನಾಯಿ\n  choice: ಹೇನು\n  choice: ನವಿಲು\n  choice: ಮೊಟ್ಟೆ\nA:",
+        "targets": [
+            "ಒಣಗಲು-ಹಾಕಿದ-ಬಟ್ಟೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಕೀರ್ತಿ",
+            "ಜೀವಂತ",
+            "ಹೆಚ್ಚು",
+            "ಸಾವು"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 241,
+        "inputs": "Q: ಸುದ್ದಿ ಸೂರಪ್ಪ ದೇಶವೆಲ್ಲಾ ಸುತ್ತಾಡ್ತಾನೆ.  ನಾನು ಯಾರು?\n  choice: ಪುಸ್ತಕ-ಮತ್ತು-ಅಕ್ಷರಗಳು\n  choice: ಹಚ್ಚೆ\n  choice: ಗರಗಸ\n  choice: ಪೋಸ್ಟ್-ಕಾರ್ಡ್\nA:",
+        "targets": [
+            "ಛಾಯೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಮಸಾಲಾ",
+            "ದೋಸೆ",
+            "ಆಲೂಗೆಡ್ಡೆ",
+            "ದೃಷ್ಟಿಹೀನ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 152,
+        "inputs": "Q: ನನಗೆ ಬಹಳಾರು ಶಾಖೆಗಳು.  ಆದರೆ ನನಗೆ ಬುಡ ಇಲ್ಲ, ಎಲೆಗಳು ಇಲ್ಲ.  ನನಗೆ ನೀರುಕೂಡ ಬೇಡ.  ನಾನು ಯಾರು?\n  choice: ಬುಡ\n  choice: ಶಾಖೆ\n  choice: ಎಲೆ\n  choice: ಬ್ಯಾಂಕ್\nA:",
+        "targets": [
+            "ಸಗಣಿ"
+        ],
+        "multiple_choice_targets": [
+            "ಕಪ್ಪು",
+            "ಮಸ್ಕ್",
+            "ಕಣ್ಣು",
+            "ಸುಣ್ಣ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 168,
+        "inputs": "Q: ತಮ್ಮಂಗೆ ಮೂರು ಕಣ್ಣು ಅಮ್ಮಂಗೆ ಒಂದೇ ಕಣ್ಣು.  ನಾನು ಯಾರು?\n  choice: ತೆಂಗಿನ-ಕಾಯಿ\n  choice: ಮೂಲಂಗಿ\n  choice: ಎಳೆನೀರು\n  choice: ಮಡಿಕೆ\nA:",
+        "targets": [
+            "ಕಪ್ಪೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಕುಂಕುಮ",
+            "ನಕ್ಷೆ",
+            "ಆಕಾಶ-ನಕ್ಷತ್ರಗಳು",
+            "ಒಂದರಿ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 239,
+        "inputs": "Q: ಅಣ್ಣ ತಮ್ಮ ಇಬ್ಬರೂ ನಾ ಮುಂದೆ ತಾ ಮುಂದೆ ಎನ್ನುತ್ತಾರೆ!  ಆದರೆ ಯಾರೂ ಮುಂದೆ ಹೋಗುವುದಿಲ್ಲ!  ನಾನು ಯಾರು?\n  choice: ಗೂಬೆ\n  choice: ಸಹೋದರರು\n  choice: ಕಾಲುಗಳು\n  choice: ಪ್ಯಾಂಟ್\nA:",
+        "targets": [
+            "ಮೆಣಸಿನ-ಕಾಯಿ"
+        ],
+        "multiple_choice_targets": [
+            "ಗುಲಗಂಜಿ",
+            "ದಾಳಿಂಬೆ-ಹಣ್ಣು",
+            "ಬಾಳೆಲೆ",
+            "ಲವಂಗ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 80,
+        "inputs": "Q: ಬಿಡಿಸಿದರೆ ಹೂವು, ಮದಚಿದರೆ ಮೊಗ್ಗು.  ನಾನು ಯಾರು?\n  choice: ಛತ್ರಿ\n  choice: ಹಲ್ಲುಪುಡಿ\n  choice: ಎಣ್ಣೆ-ದೀಪ\n  choice: ಬಿಂದಿಗೆ\nA:",
+        "targets": [
+            "ಪೆನ್ನು"
+        ],
+        "multiple_choice_targets": [
+            "ವಿಷ",
+            "ಬೆರಣಿ",
+            "ಗಾಳಿ",
+            "ಸುಣ್ಣ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 171,
+        "inputs": "Q: ಒಳ್ಳೆ ಕೋಳಿ ಮುಳ್ಳಲಿ ಮೊಟ್ಟೆ ಇಕ್ಕದೆ.  ನಾನು ಯಾರು?\n  choice: ನೆರಳೆ-ಹಣ್ಣು\n  choice: ಹುರಳಿಕಾಯಿ\n  choice: ನಿಂಬೆಹಣ್ಣು\n  choice: ಬೆಲ್ಲದ-ಅಚ್ಚು\nA:",
+        "targets": [
+            "ಹಲ್ಲು-ನಾಲಿಗೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಸೂಜಿ-ದಾರ",
+            "ದೀಪದ-ಬೆಳಕು",
+            "ರೈಲು",
+            "ಭೂಪಟ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 237,
+        "inputs": "Q: ಹಗಲಲ್ಲಿ ಮಾಯಾ ರಾತ್ರಿಯಲ್ಲಿ ಪ್ರತ್ಯಕ್ಷ?  ನಾನು ಯಾರು?\n  choice: ನಕ್ಷತ್ರ\n  choice: ಬೆಟ್ಟ\n  choice: ಕಪ್ಪೆ\n  choice: ನಕ್ಷತ್ರ-ಆಕಾಶ\nA:",
+        "targets": [
+            "ಬಾಳೆ-ಗೊನೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಹಲಸು",
+            "ಹಲಸಿನ-ಹಣ್ಣು",
+            "ಬದನೆಕಾಯಿ",
+            "ಬೆಳ್ಳುಳ್ಳಿ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 117,
+        "inputs": "Q: ಕುತ್ತಿಗೆ ಇದೆ ತಲೆ ಇಲ್ಲ, ತೋಳಿದೆ ಬೆರಳಿಲ್ಲ, ದಡಾ ಇದೆ, ಕಾಲಿಲ್ಲ.  ನಾನು ಯಾರು?\n  choice: ಚಪ್ಪಲಿ\n  choice: ಮಡಿಕೆ\n  choice: ಅಂಗಿ\n  choice: ಬಿಂದಿಗೆ\nA:",
+        "targets": [
+            "ಕಪ್ಪೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಧ್ವಜ",
+            "ಕನ್ನಡಿ",
+            "ಬೆಂಕಿ-ಕಡ್ಡಿ",
+            "ಬಸ್"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 137,
+        "inputs": "Q: ಆಕಾಶದಲ್ಲಿ ಕೊಡಲಿಗಳು ತೇಲಾಡುತ್ತವೆ.  ನಾನು ಯಾರು?\n  choice: ಪರಂಗಿ-ಹಣ್ಣು\n  choice: ಹುಣಸೇಹಣ್ಣು\n  choice: ಗುಲಗಂಜಿ\n  choice: ಹಲಸು\nA:",
+        "targets": [
+            "ನರಿ"
+        ],
+        "multiple_choice_targets": [
+            "ಪೆನ್ನು",
+            "ಬಂದೂಕ",
+            "ಕೋಟು-ಅಂಗಿ",
+            "ಕಸಪೊರಕೆ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 238,
+        "inputs": "Q: ಕಿರಿ ಮನೆಗೆ ಚಿನ್ನದ ಬೀಗ.  ನಾನು ಯಾರು?\n  choice: ಬೆಟ್ಟ\n  choice: ಸೂರ್ಯ\n  choice: ಆಕಾಶ\n  choice: ಮೂಗುತಿ\nA:",
+        "targets": [
+            "ಮಡಿಕೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಗಜರಿ",
+            "ಕಿರೀಟ",
+            "ಅಂಗಿ",
+            "ಕಪಿ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 62,
+        "inputs": "Q: ಹಸಿರು ಕೋಟೆ, ಬಿಳಿ ಕೋಟೆ, ಕೆಂಪಿನ ಕೋಟೆ ಈ ಕೋಟೆಯೊಳಗೆ ಕಪ್ಪು ಸಿಪಾಯಿಗಳು.  ನಾನು ಯಾರು?\n  choice: ಪರಂಗಿ-ಹಣ್ಣು\n  choice: ಬಾಳೆ-ಹಣ್ಣು\n  choice: ಸೂಜಿ\nA:",
+        "targets": [
+            "ಶ್ರೀಗಂಧ"
+        ],
+        "multiple_choice_targets": [
+            "ಚುಕ್ಕಿ",
+            "ನಕ್ಷತ್ರ",
+            "ಆಕಾಶ-ನಕ್ಷತ್ರ-ಚಂದ್ರ",
+            "ಸೂಜಿ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 213,
+        "inputs": "Q: ಅಬ್ಬಬ್ಬ ಹಬ್ಬ ಬಂತು, ಸಿಹಿಕಹಿ ಎರಡೂ ತಂತು.  ನಾನು ಯಾರು?\n  choice: ಯುಗಾದಿ\n  choice: ಹಬ್ಬ\n  choice: ಕಹಿ\n  choice: ಸಿಹಿತಿಂಡಿ\nA:",
+        "targets": [
+            "ಹೆಗ್ಗಣ"
+        ],
+        "multiple_choice_targets": [
+            "ಕಲ್ಲಂಗಡಿ",
+            "ಕಿತ್ತಳೆ",
+            "ಬಾಳೆಹಣ್ಣು",
+            "ಸೀಬೆಕಾಯ್"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 251,
+        "inputs": "Q: ಬಂಗಾರದ ಗುಬ್ಬಿ ಬಾಲದಲ್ಲೇ ನೀರನ್ನು ಕುಡಿಯುತ್ತೆ.  ನಾನು ಯಾರು?\n  choice: ತೊಟ್ಟಿಲು\n  choice: ಬೆಂಕಿಕಡ್ಡಿ\n  choice: ಚಿಮಿಣಿ\n  choice: ಬಸ್\nA:",
+        "targets": [
+            "ಬಳೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಈರುಳ್ಳಿ",
+            "ಶ್ರೀಗಂಧ",
+            "ಬಾಳೆಹಣ್ಣು",
+            "ಕಮಲ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: ಬರೋದ ಕಂಡು ಕೈ ಒಡ್ತಾರೆ.  ನಾನು ಯಾರು?\n  choice: ಕಸಪೊರಕೆ\n  choice: ಬಸ್\n  choice: ಎಣ್ಣೆ-ದೀಪ\n  choice: ಕೊಡೆ\nA:",
+        "targets": [
+            "ಮೂಗು"
+        ],
+        "multiple_choice_targets": [
+            "ಸಿಗರೇಟ್-ಹೊಗೆ",
+            "ಒಂದರಿ",
+            "ಪೆನ್ನು",
+            "ಗಾಣ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 238,
+        "inputs": "Q: ರಾಮನಂತ ಸಮುದ್ರ ರತ್ನದಂತ ಮೀನು ನೀರು ಬತ್ತಿಹೋದ್ರೆ ಮೀನು ಸತ್ತು ಹೋಗುತ್ತೆ.  ನಾನು ಯಾರು?\n  choice: ದೀಪ-ಹಣತೆ\n  choice: ಬಂದೂಕ\n  choice: ಚಪ್ಪಲಿ\n  choice: ನಕ್ಷೆ\nA:",
+        "targets": [
+            "ಈರುಳ್ಳಿ"
+        ],
+        "multiple_choice_targets": [
+            "ಸೂಜಿ",
+            "ದಾಳಿಂಬೆ-ಹಣ್ಣು",
+            "ಹಲಸಿನ-ಹಣ್ಣು",
+            "ಕಳ್ಳಿ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Q: ನಾಲಿಗೆಯುಂಟು, ಮಾತಾಡುವುದಿಲ್ಲ!  ಮುಳ್ಳುಂಟು, ಪೊದೆಯಲ್ಲ!  ನಾನು ಯಾರು?\n  choice: ಕೋಟು-ಅಂಗಿ\n  choice: ಬಂದೂಕ\n  choice: ಕಸಪೊರಕೆ\n  choice: ಪೆನ್ನು\nA:",
+        "targets": [
+            "ಮಳೆ"
+        ],
+        "multiple_choice_targets": [
+            "ಪೋಸ್ಟ್-ಕಾರ್ಡ್",
+            "ಪುಸ್ತಕ-ಮತ್ತು-ಅಕ್ಷರಗಳು",
+            "ಹಚ್ಚೆ",
+            "ಗರಗಸ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 190,
+        "inputs": "Q: ಬಿಳಿ ಲಂಗದ ಹುಡುಗಿ!  ಎಳೆದರೆ ಬರ್ತಾಳೆ!  ಬಿಟ್ಟರೆ ಓಡ್ತಾಳೆ.  ನಾನು ಯಾರು?\n  choice: ಗಾಣ\n  choice: ಸಿಗರೇಟ್-ಹೊಗೆ\n  choice: ಒಂದರಿ\n  choice: ಪೆನ್ನು\nA:",
+        "targets": [
+            "ಅನಾನಸ್‌ ಹಣ್ಣು"
+        ],
+        "multiple_choice_targets": [
+            "ಛತ್ರಿ",
+            "ಬಂದೂಕ",
+            "ಎಣ್ಣೆ-ದೀಪ",
+            "ಧ್ವಜ"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 154,
+        "inputs": "Q: ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಮದುವೆಗೆ.  ನಾನು ಯಾರು?\n  choice: ದಾಳಿಂಬೆ-ಹಣ್ಣು\n  choice: ಶ್ರೀಗಂಧ\n  choice: ಅಡಿಕೆ-ಮರ\n  choice: ಬಾಳೆ-ಹಣ್ಣು\nA:",
+        "targets": [
+            "ನೆನಪು"
+        ],
+        "multiple_choice_targets": [
+            "ಕೋಳಿ-ಮೊಟ್ಟೆ",
+            "ನೊಣ",
+            "ಕೋಳಿ",
+            "ಸೊಳ್ಳೆ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

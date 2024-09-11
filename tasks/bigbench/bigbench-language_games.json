@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 577,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) Layla went to college.\n (Pig Latin)",
+        "targets": [
+            "Tom found a stray dog in the barn."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 388,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) Do you exist?\n (Pig Latin)",
+        "targets": [
+            "Tom thought that Mary might not be allowed to do that anymore."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 726,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Omtay entway otay eakspay otay ishay ossbay.\n (English)",
+        "targets": [
+            "I stayed in bed because I had a bit of a fever."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 489,
+        "inputs": "Respond in pig Latin to the following questions written in pig Latin:\n\nQ: atwhay isyay ethay ensesay associatedyay ithway ethay osenay?\nA:",
+        "targets": [
+            "Have you proposed to Mary yet?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 246,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Omtay ockedmay Arymay orfay erhay ailurefay.\n (English)",
+        "targets": [
+            "The baby takes after his mother."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 548,
+        "inputs": "Respond in English to the following questions written in pig Latin:\n\nQ: atwhay olorcay isyay ethay yskay atyay ightnay?\nA:",
+        "targets": [
+            "Omtay isyay obablypray oinggay otay elphay usyay odaytay."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 330,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Iyay ogay outyay orfay unchlay atyay elvetway.\n (English)",
+        "targets": [
+            "Ehay usuallyay etsgay upyay atyay ixsay."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 502,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Iyay entway otay Australiayay eethray earsyay agoyay.\n (English)",
+        "targets": [
+            "Idday ouyay earhay Omtay eavelay isthay orningmay?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 424,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Eway owknay atthay eshay asway ornbay inyay Anadacay.\n (English)",
+        "targets": [
+            "I think that Tom is absolutely right."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 449,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Iyay ikelay ingingsay oudlay andyay outyay ofyay unetay.\n (English)",
+        "targets": [
+            "She helped her mother clean the house."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 377,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) We use computers to solve problems and to put information in order.\n (Pig Latin)",
+        "targets": [
+            "The entrée includes a beverage."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 475,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Eshay evernay omplainscay aboutyay erhay objay.\n (English)",
+        "targets": [
+            "Iyay evernay ouldshay avehay eftlay ouyay."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 241,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) Tom and Mary live at the back of beyond.\n (Pig Latin)",
+        "targets": [
+            "That was the most difficult part of the job."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 725,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Omtay ooktay offyay ishay eatersway andyay utpay ityay inyay ishay ockerlay.\n (English)",
+        "targets": [
+            "Omtay asway ethay oneyay owhay ealtday ithway atthay oblempray."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 397,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) How many hours a week do you work?\n (Pig Latin)",
+        "targets": [
+            "I can never stay angry at Tom for very long."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 62,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Amisay iedtray everythingyay otay ixfay atthay.\n (English)",
+        "targets": [
+            "Two."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 594,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Atwhay isyay ifelay?\n (English)",
+        "targets": [
+            "It was a laborious process."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 309,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin.\n (English) Mennad and Baya moved away.\n (Pig Latin)",
+        "targets": [
+            "I regretted saying that."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 170,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Idday Omtay aysay owhay anymay eoplepay avehay agreedyay otay oday atthay?\n (English)",
+        "targets": [
+            "Onlyay ayay ewfay ildrenchay ereway inyay ethay arkpay."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 490,
+        "inputs": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate Pig Latin into English.\n (Pig Latin) Owhay oday ouyay usuallyay eatyay unchlay ithway?\n (English)",
+        "targets": [
+            "What do you say to going out for a short walk?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

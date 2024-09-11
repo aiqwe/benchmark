@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 61,
+        "inputs": "Q: Which statement is sarcastic? (a) People never foment wars to relinquish territory. (b) People never foment wars to conquer territory. \nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: Which statement is sarcastic? (a) don't forget there are people in Antarctica (b) don't forget there are people in suffering\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "Q: Which statement is sarcastic? (a) Ah yes, late night vote on a bill written behind closed doors by one party. How undemocratic. (b) Ah yes, late night vote on a bill written behind closed doors by one party. How democratic.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 155,
+        "inputs": "Q: Which statement is sarcastic? (a) Well, Alabama did beat the 1st ranked team. Surely that should be enough to get them in. (b) Well, Alabama did beat the 17th ranked team. Surely that should be enough to get them in.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 51,
+        "inputs": "Q: Which statement is sarcastic? (a) One of my least-favorite things to do working was taking out and smelling the trash. (b) One of my favorite things to do working was taking out and smelling the trash.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Q: Which statement is sarcastic? (a) Every package I get from Amazon is 2 to 3 days late, busted up, doesn't work right, and sometimes not even what I ordered. So disappointed I pay for free shipping with Prime. (b) Every package I get from Amazon is 2 to 3 days late, busted up, doesn't work right, and sometimes not even what I ordered. So happy I pay for free shipping with Prime.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: Which statement is sarcastic? (a) With new designs coming ten times slower than their competitors, Honda will soon be at the top of the market. (b) With new designs coming ten times faster than their competitors, Honda will soon be at the top of the market.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 150,
+        "inputs": "Q: Which statement is sarcastic? (a) But America is a more free country because they have democracy to protect them from that sort of tyranny. (b) But America is a more free country because they have guns to protect them from that sort of tyranny.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: Which statement is sarcastic? (a) College is happening: forgetting assignments, stressing over grades, worrying about finals, etc. It's been a stressful semester. (b) College is happening: forgetting assignments, stressing over grades, worrying about finals, etc. It's been a fun semester.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: Which statement is sarcastic? (a) Anyone can be successful without having inherited all their money first. (b) Nobody can be successful without having inherited all their money first.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 60,
+        "inputs": "Q: Which statement is sarcastic? (a) One failed test 6 years ago is simply insufficient proof of her cheating in last night's fight. (b) One failed test 6 years ago is simply devastating proof of her cheating in last night's fight.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 138,
+        "inputs": "Q: Which statement is sarcastic? (a) Armed revolutionaries have not been making a lot of change for middle class Americans lately. (b) Armed revolutionaries have been making a lot of change for middle class Americans lately.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 62,
+        "inputs": "Q: Which statement is sarcastic? (a) Yeah, anarchism is taught as a prime example of a governing system (b) Yeah, democracy is taught as a prime example of a governing system\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: Which statement is sarcastic? (a) How could Government control of the internet be bad? (b) How could Government control of the internet be beneficial?\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 105,
+        "inputs": "Q: Which statement is sarcastic? (a) My laptop didn't work when I brought it underwater, therefore it must be Asus's fault that it broke down. (b) My laptop didn't work when I brought it underwater, therefore it must be my fault that it broke down.\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 165,
+        "inputs": "Q: Which statement is sarcastic? (a) You mean Knuth up arrow notation isn't unfamiliar for you? (b) You mean Knuth up arrow notation isn't normal for you?\nA:",
+        "targets": [
+            "(a)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Which statement is sarcastic? (a) Never had as much fun in my life as when the cops found my backpack of weed in my car trunk. (b) Never had as much anxiety in my life when the cops found my backpack of weed in my car trunk.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 114,
+        "inputs": "Q: Which statement is sarcastic? (a) Quit fat-shaming the cat! They're people, too, you know. (b) Quit fat-shaming the cat! They're sensitive, too, you know.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 118,
+        "inputs": "Q: Which statement is sarcastic? (a) Never had as much fun in my life as when the cops found my backpack of weed in my car trunk. (b) Never had as much anxiety in my life when the cops found my backpack of weed in my car trunk.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: Which statement is sarcastic? (a) It means if small businesses start struggling, the government ramps up their spending to help out. (b) It means if small businesses start struggling, the government ramps up their taxes to help out.\nA:",
+        "targets": [
+            "(b)"
+        ],
+        "multiple_choice_targets": [
+            "(a)",
+            "(b)"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

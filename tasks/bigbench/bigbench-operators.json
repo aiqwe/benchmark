@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 30,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the difference of i and j.\n176 op -176 =",
+        "targets": [
+            "12"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the remainder of the integer division of i by the integer division of i by j.\n37 op 7 =",
+        "targets": [
+            "17"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 56,
+        "inputs": "Given the definition of the op operator, compute the result.\nop n1 n2 ... nn extracts the last multiple of 8 from the n listed numbers.\nop 4 32 128 132 =",
+        "targets": [
+            "11"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 58,
+        "inputs": "Given the definition of the op operator, compute the result.\nop i is the ith prime number.\nop 50 =",
+        "targets": [
+            "0"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 131,
+        "inputs": "Given the definition of the op operator, compute the result.\nop i is the ith odd positive number.\nop 1 =",
+        "targets": [
+            "13"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 138,
+        "inputs": "Given the definition of the op operator, compute the result.\nop n1 n2 ... nn multiplies the n listed numbers.\nop (op -16 1 10) -5 =",
+        "targets": [
+            "35"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 62,
+        "inputs": "Given the definition of the op operator, compute the result.\nop n1 n2 ... nn averages the n listed numbers.\nop (op 16 1) (op 10 5) =",
+        "targets": [
+            "352"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 24,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the product of j copies of i.\n17 op 1 =",
+        "targets": [
+            "1256"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 119,
+        "inputs": "Given the definition of the op operator, compute the result.\nop i is the ith even positive number.\nop 1 =",
+        "targets": [
+            "0"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 15,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op1 j is the product of i and j; op2 i j selects i when greater than j, j otherwise.\nop2 (10 op1 5) (12 op1 4) =",
+        "targets": [
+            "17"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 49,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op1 j is the product of i and j; i op2 j is the integer division of i by j.\n12 op2 6 op2 2 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 108,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the product of i and j.\n5 op 7 =",
+        "targets": [
+            "13"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 19,
+        "inputs": "Given the definition of the op operator, compute the result.\nop i is the ith power of 10.\nop 1 =",
+        "targets": [
+            "50"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 166,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the positive number l such that the product of j copies of l is i.\n64 op 2 =",
+        "targets": [
+            "2"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 42,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the number l such that the addition of j and l is i.\n176 op -176 =",
+        "targets": [
+            "135"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 102,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j subtracts j from i.\n7 op 3 =",
+        "targets": [
+            "1"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 99,
+        "inputs": "Given the definition of the op operator, compute the result.\nop n1 n2 ... nn multiplies the n listed numbers.\nop -16 1 10 -5 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 142,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j concatenates the operands in a new number.\n1 op 3 op 5 =",
+        "targets": [
+            "171"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 55,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the difference of i and j.\n7 op 3 =",
+        "targets": [
+            "160"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 80,
+        "inputs": "Given the definition of the op operator, compute the result.\ni op j is the difference of i and j.\n7 op 3 =",
+        "targets": [
+            "9"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

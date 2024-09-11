@@ -1,0 +1,312 @@
+[
+    {
+        "idx": 2659,
+        "inputs": "How much is 0 kph in ft/s?",
+        "targets": [
+            "5998.0"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1336,
+        "inputs": "In Curies, how much is 473Ci?",
+        "targets": [
+            "4.1 daPa."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2273,
+        "inputs": "When converted to units of A, 15.7 hA is",
+        "targets": [
+            "142 regas."
+        ],
+        "multiple_choice_targets": [
+            "0.107 hectoliters.",
+            "0.107 hectometers.",
+            "0.107 hectohertz."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2688,
+        "inputs": "Define the unit conversion: 16 blerbs is 160 swerts. When converted to units of swerts, 3 blerbs is",
+        "targets": [
+            "280.0 pints."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2774,
+        "inputs": "12.6 hectoamps expressed in units of kiloamps is",
+        "targets": [
+            "-0.10814358506350293"
+        ],
+        "multiple_choice_targets": [
+            "0.00554 hectograms.",
+            "0.021 hectograms.",
+            "0.0131 hectograms.",
+            "2.1 hectograms.",
+            "210.0 hectograms."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 491,
+        "inputs": "When expressed in units of millihertz^2 Newton pounds-force per square inch, 27.5 hectohertz^2 decanewton bar is",
+        "targets": [
+            "2.3e-05 kilometers^2."
+        ],
+        "multiple_choice_targets": [
+            "0.0012 kilomoles.",
+            "0.401 decamoles.",
+            "0.0363 decamoles.",
+            "1.2 centimoles.",
+            "0.12 decamoles."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2793,
+        "inputs": "Define the unit conversion: 20 regas is 140 yots. 44 regas expressed in units of yots is",
+        "targets": [
+            "0.000797 decaliters."
+        ],
+        "multiple_choice_targets": [
+            "42000.0 mHz.",
+            "32300.0 mHz.",
+            "0.42 RPM.",
+            "33300.0 mHz.",
+            "420.0 daHz."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 140,
+        "inputs": "2575 J - 5371 J = ____ joules",
+        "targets": [
+            "-222739996.39443308"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1793,
+        "inputs": "How many weeks do I have if I add 818 days to 866 hours?",
+        "targets": [
+            "14000000.0 grams."
+        ],
+        "multiple_choice_targets": [
+            "329.0 yards per year.",
+            "59.0 miles per year.",
+            "3290.0 miles per year.",
+            "4400.0 miles per year.",
+            "32900.0 millimeters per day."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2597,
+        "inputs": "How much is 4kg in metric tons?",
+        "targets": [
+            "12600.0 in."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1630,
+        "inputs": "50 m/s - 69 m/s = ____ ft/s",
+        "targets": [
+            "388.0 feet^2."
+        ],
+        "multiple_choice_targets": [
+            "88.3 daHz.",
+            "2.9 hHz.",
+            "176.0 daHz.",
+            "2900000.0 dHz.",
+            "290.0 daHz."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 707,
+        "inputs": "When expressed in units of hmol^2, 24 mol^2 is",
+        "targets": [
+            "275.0 decinewtons."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 744,
+        "inputs": "What is 5937 m/s plus 2730 m/s in m/s?",
+        "targets": [
+            "130000.0 mA."
+        ],
+        "multiple_choice_targets": [
+            "0.029 kg.",
+            "0.029 km.",
+            "0.029 kN."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2554,
+        "inputs": "54.4 hPa expressed in units of kPa is",
+        "targets": [
+            "747 swerts."
+        ],
+        "multiple_choice_targets": [
+            "47.3 Amps.",
+            "0.037 decaamps.",
+            "37000.0 milliamps.",
+            "370.0 Amps.",
+            "194.0 Amps."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1160,
+        "inputs": "When expressed in units of seconds, 29.9 days is",
+        "targets": [
+            "3.6 mN / cm^2."
+        ],
+        "multiple_choice_targets": [
+            "51200.0 hectopascals.",
+            "16000.0 hectopascals.",
+            "451000.0 pascals.",
+            "45100.0 hectopascals.",
+            "451.0 pounds-force per square inch."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 42,
+        "inputs": "If I add 5612 kilograms to 3543 grams how many kilograms do I have?",
+        "targets": [
+            "147.0 cA."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2833,
+        "inputs": "Define the unit conversion: 13 yots is 52 rigas. When expressed in units of rigas, 52 yots is",
+        "targets": [
+            "34 regas."
+        ],
+        "multiple_choice_targets": [
+            "45000.0 milligrams.",
+            "45000.0 millimeters.",
+            "45000.0 millihertz."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1248,
+        "inputs": "How much is 229 Ci in Curies?",
+        "targets": [
+            "7660000000.0"
+        ],
+        "multiple_choice_targets": [
+            "72 blerbs.",
+            "56 blerbs.",
+            "48 blerbs.",
+            "16 blerbs.",
+            "80 blerbs."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 505,
+        "inputs": "When expressed in units of metric tons, 26.9 grams is",
+        "targets": [
+            "2100.0 decakelvin."
+        ],
+        "multiple_choice_targets": [
+            "11100000000.0 dm^2.",
+            "7510000000.0 dm^2.",
+            "751000.0 km^2.",
+            "75100.0 dm^2.",
+            "426000000.0 dm^2."
+        ],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1886,
+        "inputs": "In cups, how much is 1486 L?",
+        "targets": [
+            "-5.9999628387840005"
+        ],
+        "multiple_choice_targets": [
+            "0.00207 kPa.",
+            "2.68e-05 cPa.",
+            "0.00268 kPa.",
+            "0.00138 kPa.",
+            "26.8 hPa."
+        ],
+        "multiple_choice_scores": []
+    }
+]

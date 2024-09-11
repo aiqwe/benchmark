@@ -1,0 +1,662 @@
+[
+    {
+        "idx": 4742,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Эллинмудн Π, π (пи) гидг үзгин сүүрәс экилнә.\n  choice: Ilocano\n  choice: Ashaninka\n  choice: Sorani\n  choice: Tatar\n  choice: Camsa\n  choice: Bukiyip\n  choice: Nakanai\n  choice: Gwichin\n  choice: Karelian\n  choice: Eastern Bolivian Guarani\n  choice: Kalmyk\nLanguage:",
+        "targets": [
+            "Saraiki"
+        ],
+        "multiple_choice_targets": [
+            "Zaramo",
+            "Cajamarca Quechua",
+            "Nakanai",
+            "Bunama",
+            "Mekeo",
+            "Chacobo",
+            "Bisnupriyan",
+            "Pangasinan",
+            "Colorado",
+            "Bukiyip",
+            "Sanskrit"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7509,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Mänitä Juan ñøcxøøyy maa jaꞌa Jordánmøjnøø mäwiingoṉän. Jaduhṉä tsaanguꞌug hänajty yajwiingapxøꞌøy coo hajxy ñäbétät, coo jaꞌa yhaxøøgwiinmahñdy hajxy ñajtshixǿꞌøwät, nebiä piojpä quiädieey hajxy jaduhṉ ñähwáꞌadsät.\n  choice: Malinaltepec Mephaa\n  choice: Ampeeli-Wojokeso\n  choice: Sorani\n  choice: Takia\n  choice: Carpathian Romani\n  choice: Aneme Wake\n  choice: Sichuan Yi\n  choice: Isthmus Mixe\n  choice: Penoles Mixtec\n  choice: Huaylas Ancash Quechua\n  choice: Paumari\nLanguage:",
+        "targets": [
+            "Nomatsiguenga"
+        ],
+        "multiple_choice_targets": [
+            "West Central Oromo",
+            "Galician",
+            "Min Dong",
+            "Acatepec Mephaa",
+            "Maasina Fulfulde",
+            "Burkina Fulfulde",
+            "Newar",
+            "Santa Maria Quiegolani Zapotec",
+            "Saint Lucian Creole French",
+            "Friulian",
+            "Mape"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 6944,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: 永安元年冬十月壬午，詔封大將軍綝為丞相、荊州牧，增食五縣。\n  choice: Mirandese\n  choice: Central Huasteca Nahuatl\n  choice: Southern Nambikuara\n  choice: Tenango Otomi\n  choice: Coatzospan Mixtec\n  choice: Classical Chinese\n  choice: Santa Maria de Jesus Kaqchikel\n  choice: Interlingua\n  choice: Ngindo\n  choice: Guambiano\n  choice: Ngaanyatjarra\nLanguage:",
+        "targets": [
+            "Sylheti"
+        ],
+        "multiple_choice_targets": [
+            "Yiddish",
+            "Biangai",
+            "Gan",
+            "Santo Domingo Albarradas Zapotec",
+            "Kanela",
+            "Huarijio",
+            "Bariba",
+            "Buamu",
+            "Tabo Fly River dialect",
+            "Siberian Tatar",
+            "Southern Pastaza Quechua"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 507,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: बेङ्गलूरुविभागः\n  choice: Carapana\n  choice: Amganad Ifugao\n  choice: Sanskrit\n  choice: Tabasco Chontal\n  choice: Asheninka Pajonal\n  choice: Arapaho\n  choice: Northern Sami\n  choice: Bo-Ung aka Mara-Gomu\n  choice: Nagamese\n  choice: Binukid\n  choice: Chol-Tumbala\nLanguage:",
+        "targets": [
+            "Pali"
+        ],
+        "multiple_choice_targets": [
+            "Kuanua aka Tolai",
+            "Highland Popoluca",
+            "Tataltepec Chatino",
+            "Kouya",
+            "Vasui aka Tinputz",
+            "Lithuanian",
+            "Nend",
+            "Bandial",
+            "Umiray Dumaget Agta",
+            "Faiwol",
+            "Yagua"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2469,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Wáina mengga menmen tángga hála erawinán tát kápángga tewe ámna yáin yáni táwi málám Pol unuyin tát rákitang kámuriwon ingga pikpito hánám narángga ku tewe ámna yánán hahatingga hang orek yáni hára Pol tángga engotang yánin it káin kuráng.\n  choice: Nukna\n  choice: Bambam\n  choice: Western Armenian\n  choice: Xicotepec de Juarez Totonac\n  choice: Busa\n  choice: Bislama\n  choice: Tosk Albanian\n  choice: Mengen\n  choice: Tawala\n  choice: Ixil Cotzal\n  choice: Tarifit\nLanguage:",
+        "targets": [
+            "Maltese"
+        ],
+        "multiple_choice_targets": [
+            "Malagasy",
+            "Usan",
+            "Xavante",
+            "Kuo",
+            "Wolaytta",
+            "Southern Puebla Mixtec",
+            "Lithuanian",
+            "Dan Blowo",
+            "Kyenele",
+            "Sulka",
+            "Sheshi Kham"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 834,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Dapot, e ku malyaring mamulayi.\n  choice: Nogai\n  choice: Aymara\n  choice: Susu\n  choice: Wayampi\n  choice: Icelandic\n  choice: Dhao\n  choice: Piedmontese\n  choice: Mato\n  choice: Pele-Ata\n  choice: Kapampangan\n  choice: Novial\nLanguage:",
+        "targets": [
+            "Angaataha"
+        ],
+        "multiple_choice_targets": [
+            "Motu",
+            "Tagabawa",
+            "Yanyuwa",
+            "Venda",
+            "Hmar",
+            "San Marcos Tlalcoyalco Popoloca",
+            "Siroi",
+            "Sambali Botolan",
+            "Chumburung",
+            "Salasaca Highland Quichua",
+            "Bora"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2415,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Aso nishqan puertucho tincuriyaptïnam, barcuman lloqaramorqan, tsenam ewacuyarqä Mitilene marcaman.\n  choice: Lote\n  choice: Au\n  choice: Uzbek\n  choice: Yakan\n  choice: Huaylas Ancash Quechua\n  choice: Burmese\n  choice: Ottoman Turkish\n  choice: Kalmyk\n  choice: Mokilese\n  choice: Kabyle\n  choice: Matses\nLanguage:",
+        "targets": [
+            "Belarusian"
+        ],
+        "multiple_choice_targets": [
+            "Bukawa",
+            "Finnish",
+            "Xavante",
+            "Kamula",
+            "Atatlahuca Mixtec",
+            "Gwichin",
+            "Sulka",
+            "Suau",
+            "Lower Sorbian",
+            "Kwaraae",
+            "Guevea de Humboldt Zapotec"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5056,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Gedeón tsi' ch'ʌmʌ jini uc'um tac yic'ot trompeta tac ti' tojlel winicob. Tsi' cha' choco majlel ili israelob ti' yototob. Cojach tsa' cʌleyob jini jo'lujunc'al winicob. Ya' much'ulob jini madiañob ti joctʌl, ya' ti entʌl.\n  choice: Maung\n  choice: Apalai\n  choice: Punjabi\n  choice: Sanskrit\n  choice: Czech\n  choice: Chol-Tumbala\n  choice: Paama\n  choice: Finnish\n  choice: Norman\n  choice: Fijian\n  choice: Ngangam\nLanguage:",
+        "targets": [
+            "Pangasinan"
+        ],
+        "multiple_choice_targets": [
+            "Tatar",
+            "Omwunra Toqura",
+            "Southern Luri",
+            "Icelandic",
+            "Bukiyip",
+            "Hawu",
+            "Mansaka",
+            "Ladin",
+            "Gela",
+            "Kwaio",
+            "Yareba"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4911,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Caohachaain inara suujua coaraain canacaanu aonacuche. Coatiha chuni rai baaso ichaain, chuni cairichaain, chuni coritaain, naaonjoahaacaanulu.\n  choice: Malagasy\n  choice: Abau\n  choice: Urarina\n  choice: Veqaura\n  choice: Eastern Highland Otomi\n  choice: Aymara\n  choice: Sylheti\n  choice: Lacandon\n  choice: Nagamese\n  choice: Irigwe\n  choice: Mayoyao Ifugao\nLanguage:",
+        "targets": [
+            "Highland Puebla Nahuatl"
+        ],
+        "multiple_choice_targets": [
+            "Ladino",
+            "Lote",
+            "Shona",
+            "Zealandic",
+            "Atayal",
+            "Yamba",
+            "Shan",
+            "Yucuna",
+            "Irish Gaelic",
+            "Ilianen Manobo",
+            "Kalmyk"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 3714,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Sapos em i laik mekim\n  choice: Ludari Romanian\n  choice: Aguaruna\n  choice: Pwo Eastern Karen\n  choice: Tok Pisin\n  choice: Busa\n  choice: Borei\n  choice: Nogai\n  choice: Kalmyk\n  choice: Ngepma Kwundi\n  choice: Kabyle\n  choice: Maung\nLanguage:",
+        "targets": [
+            "Metlatonoc Mixtec"
+        ],
+        "multiple_choice_targets": [
+            "Walmajarri",
+            "Venda",
+            "Cherokee",
+            "Lingua Franca Nova",
+            "Macushi",
+            "Pamona",
+            "Meriam Mir",
+            "Norwegian Bokmal",
+            "Gofa",
+            "Wayuu",
+            "Siane Komongu dialect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 7208,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: I den aktuelle økonomiske og finansielle krise, hvor arbejdsløshedssatsen, navnlig blandt unge er på over 20 % på EU-plan og endog over 30 % i nogle medlemsstater, er forbedring af erhvervsuddannelse blevet en prioritet for EU. I denne forbindelse er ungdomsmobilitet i EU kombineret med større fleksibilitet på arbejdsmarkedet og i den erhvervsuddannelse, der udbydes, vigtige elementer, som bør udvikles på EU-plan og på nationalt plan.\n  choice: Kayapo\n  choice: Agarabi\n  choice: Pfaelzisch\n  choice: Uzbek\n  choice: Dhuwaya\n  choice: Danish\n  choice: Paez\n  choice: Jamiltepec Mixtec\n  choice: Ladino\n  choice: Huallaga Huanuco Quechua\n  choice: Kikuyu\nLanguage:",
+        "targets": [
+            "Sindhi"
+        ],
+        "multiple_choice_targets": [
+            "Kuo",
+            "Mixtepec Mixtec",
+            "Bosnian",
+            "Yele Rossel",
+            "Guevea de Humboldt Zapotec",
+            "Rapa Nui",
+            "Caquinte",
+            "Interlingua",
+            "Tatuyo",
+            "Kashubian",
+            "Ancient Hebrew"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5332,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Akha' hats ƚenikfe'lets kekhewe' wenit'ij: “Hasu'uj eqek'ui. Hasu'uj mowo'oi efu qu' hats ewhe'yei qa hik ƚunye'j iye ne'ej efu, hasu'uj ejtenkii, hasu'uj mowotk'onƚi'imkii pe'qu' netnek'enhei, hasu'uj awitji'iji' pe'ye' pakhape', ek'enets qa' iwqinhet iye atata qa enene iye.”—\n  choice: Kankanaey\n  choice: Bariba\n  choice: Rapa Nui\n  choice: Santo Domingo Albarradas Zapotec\n  choice: Chamorro\n  choice: Caribbean Javanese\n  choice: Ngepma Kwundi\n  choice: Ilianen Manobo\n  choice: Montenegrin\n  choice: Huarijio\n  choice: Maka\nLanguage:",
+        "targets": [
+            "Swahili"
+        ],
+        "multiple_choice_targets": [
+            "Chumburung",
+            "Kalaallisut",
+            "Western Apache",
+            "Dinka",
+            "Yareni Zapotec",
+            "Ekajuk",
+            "Omwunra Toqura",
+            "Cajonos Zapotec",
+            "Ambulas Wosera dialect",
+            "Bolinao",
+            "Lak"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 3719,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Mach, Jisasɨv aŋkwañi kamar. Ndɨn oreŋgɨmŋgɨn aiz amar. Mach, wɨram ampɨn kɨvahɨnsɨnd mban oreŋge mbanave kamŋgɨmar. Amɨ aŋkarɨpɨr ñɨmb arɨmŋgɨmar. Amɨ ŋaiahav arɨmŋgɨmar. Nan oreŋgi arɨmŋgɨmar.\n  choice: Keyagana\n  choice: Caribbean Javanese\n  choice: Tabo Fly River dialect\n  choice: Xerente\n  choice: Indonesian\n  choice: Danish\n  choice: Nend\n  choice: Kalam\n  choice: Mufian\n  choice: Iwal\n  choice: Livvi\nLanguage:",
+        "targets": [
+            "Choapan Zapotec"
+        ],
+        "multiple_choice_targets": [
+            "Udmurt",
+            "Maasina Fulfulde",
+            "Huambisa",
+            "Amanab",
+            "San Marcos Tlalcoyalco Popoloca",
+            "Slovak",
+            "Krikati Gaviao",
+            "Min Nan",
+            "Nafaanra",
+            "Nopala Chatino",
+            "Doromu-Koki"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 884,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Vov biyandilo pe 18 Aprilo 1971, ko Belgrado.\n  choice: Oksapmin\n  choice: Bora\n  choice: Yaweyuha\n  choice: portugues\n  choice: Cora-Presidio-de-Los-Reyes\n  choice: Cherokee\n  choice: Yalalag Zapotec\n  choice: Nakanai\n  choice: Upper Tanana\n  choice: Monkole\n  choice: Romani\nLanguage:",
+        "targets": [
+            "German"
+        ],
+        "multiple_choice_targets": [
+            "Siona",
+            "Eastern Bolivian Guarani",
+            "Dedua",
+            "Barasana-Eduria",
+            "Highland Totonac",
+            "San Jeronimo Tecoatl Mazatec",
+            "Kotava",
+            "Kazahk",
+            "Saraiki",
+            "Sochiapam Chinantec",
+            "Martu Wangka"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 553,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Ata tamoata ngaedi nge pile nem-nem be diemaki. Pile nedi labudi tago tekedia-doi.\n  choice: Manam\n  choice: Azerbaijani\n  choice: Waima\n  choice: Western Panjabic\n  choice: Kandas\n  choice: Filipino\n  choice: Tabaa Zapotec\n  choice: Kurdish\n  choice: Paumari\n  choice: Korean\n  choice: Matupi Chin\nLanguage:",
+        "targets": [
+            "Usila Chinantec"
+        ],
+        "multiple_choice_targets": [
+            "Oriya",
+            "Helong",
+            "Guarani",
+            "Paranan",
+            "Epena",
+            "Yaminahua",
+            "Rote Dela",
+            "Indonesian",
+            "Italian",
+            "Telugu",
+            "Yatee Zapotec"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7408,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: —Capednaun yacno nidnu —quec cano antabëdtoshon potenubi inchëshpondash Esus acte bëntse chopanushta.\n  choice: Nabak\n  choice: Gan\n  choice: Waima\n  choice: Wuvalu-Aua\n  choice: Jamaican Patois\n  choice: Huaylla Wanca Quechua\n  choice: Tuma-Irumu\n  choice: Mayo\n  choice: Saterland Frisian\n  choice: Matses\n  choice: Numangan\nLanguage:",
+        "targets": [
+            "Kwamera"
+        ],
+        "multiple_choice_targets": [
+            "Angal Heneng",
+            "Sranan",
+            "Mufian",
+            "Isthmus Zapotec",
+            "Slovak",
+            "Western Armenian-1853",
+            "San Juan Atzingo Popoloca",
+            "Catalan",
+            "Cebuano",
+            "Yessan-Mayo Yamano dialect",
+            "Sharanahua"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2099,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Omoɨ uri illa facaise illena, Jusiñamui omoɨ dɨga illena, iena fɨno. Jusiñamui Jesucristona omoɨ dɨne dane oretallena, iena fɨno. Naimɨedɨ omoɨ Jilloitaraɨma.\n  choice: Nomatsiguenga\n  choice: Akan\n  choice: Udmurt\n  choice: Yaweyuha\n  choice: Boharic Coptic\n  choice: Alamblak\n  choice: Tsonga\n  choice: Murui Huitoto\n  choice: Pontic\n  choice: Cherokee\n  choice: Ozolotepec Zapotec\nLanguage:",
+        "targets": [
+            "Fijian"
+        ],
+        "multiple_choice_targets": [
+            "Tay",
+            "Bukiyip",
+            "Shona",
+            "Koreguaje",
+            "Lak",
+            "Ampeeli-Wojokeso",
+            "Umanakaina",
+            "Mixtepec Zapotec",
+            "Siroi",
+            "Naro",
+            "Epena"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5086,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: भरतपुर N.Z.A.  भारतया उत्तराखण्ड राज्यया  कुमाँउ मण्डलया  नैनीताल जनपदया  नैनीताल तहसीलया छगु गां ख।\n  choice: Newar\n  choice: Gela\n  choice: Warlpiri\n  choice: Yagua\n  choice: Kosrae\n  choice: Guahibo\n  choice: Ubir\n  choice: Maale\n  choice: Sawiyanu\n  choice: Kurdish\n  choice: Northern Tepehuan\nLanguage:",
+        "targets": [
+            "Hiri Motu"
+        ],
+        "multiple_choice_targets": [
+            "Siberian Tatar",
+            "Sio",
+            "Francisco Leon Zoque",
+            "Guerrero Nahuatl",
+            "Mufian",
+            "Isthmus Mixe",
+            "Karkar-Yuri",
+            "Tojolabal",
+            "Coyutla Totonac",
+            "Norwegian Bokmal",
+            "Bengali"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 6529,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Erimba nongue que tu ñee ee cote ra. “Aque mɨɨ ngue eremee ndei seje nyii, ambaatate que se cote ra. Cinco que cote ra”, ɨ que nguerecua je cote ra.\n  choice: Siriono\n  choice: Angaataha\n  choice: Waffa\n  choice: Yucuna\n  choice: Eastern Tamang\n  choice: Bimin\n  choice: Tzotzil\n  choice: Mapudungun\n  choice: Sudest\n  choice: Hawaiian Pidgin\n  choice: Sourthern Kurdish\nLanguage:",
+        "targets": [
+            "Ido"
+        ],
+        "multiple_choice_targets": [
+            "Cavinena",
+            "Moose Cree",
+            "Sinaugoro",
+            "Tay",
+            "Ampeeli-Wojokeso",
+            "Numangan",
+            "Daga",
+            "Ghayavi",
+            "Natqgu",
+            "Ewage-Notu",
+            "Akan"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4788,
+        "inputs": "Given a sentence, select the correct language among the choices\nSentence: Iesude eudige abi ikaidari, “10 lepera le ge bakeri sikak berda; wader 9 pe nade uridli?\n  choice: Meriam Mir\n  choice: Aboriginal English\n  choice: Tabo Fly River dialect\n  choice: Uare\n  choice: Lopit\n  choice: Boko\n  choice: San Juan Colorado Mixtec\n  choice: Mansaka\n  choice: Noone\n  choice: Manam\n  choice: Mokilese\nLanguage:",
+        "targets": [
+            "Buamu"
+        ],
+        "multiple_choice_targets": [
+            "Ottoman Turkish",
+            "Pfaelzisch",
+            "Karo Rawa",
+            "Vietnamese",
+            "Komba",
+            "Assamese",
+            "Zaiwa",
+            "Misima-Paneati",
+            "North Junin Quechua",
+            "Xavante",
+            "Northern Tepehuan"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+]

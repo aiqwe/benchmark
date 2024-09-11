@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 6,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Ed, Jeff, and Michael are in a circle. Ed is on Jeff's left. Is Mike on Ed's left?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Kim and Danny were born in the same year. Who is older?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Greg lives on the fourth floor. Claire lives above Greg. Does Claire live below the tenth floor?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: I have many books but lose half. How many books do I have?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Sam and Julia are brother and sister. Who is taller?\nA:",
+        "targets": [
+            "Three"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 29,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Ed, Jeff, and Michael are in a line. Ed is on Jeff's left. Is Mike on Ed's left?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 13,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Danny is the older brother of Mike and Annie. Is Mike older than Annie?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 34,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Spencer is Elyse's older sister. Who was born first?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 17,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Greg lives on the fourth floor. Claire lives above Greg. Does Claire live below the tenth floor?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: If I put two books away, how many books do I have left?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Sam and Julia are brother and sister. Who is older?\nA:",
+        "targets": [
+            "Seventy"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 31,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Tom knows Kathryn. Kathryn knows Emily. Does Tom know Emily?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Spencer is Elyse's older sister. Who was born first?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 37,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Tom, Kathryn, and Emily do not know each other. Does Kathryn know Emily?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: My favorite peppers are red peppers. What color are my least favorite peppers?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: My favorite peppers are yellow, then red, then green peppers. What color are my favorite peppers?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 38,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: I have many books but lose half. How many books do I have?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 29,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Genna lives on the fourth floor. Christina lives above Genna. Does Christina live above the second floor?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Alex lives on the fourth floor. Brendan lives above Alex. Does Brendan live below the third floor?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 18,
+        "inputs": "Answer the question based on the provided context. If it cannot be answered, respond with 'I do not know'. Spell out all numbers.\nQ: Tom, Kathryn, and Emily do not know each other. Does Kathryn know Emily?\nA:",
+        "targets": [
+            "I do not know"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

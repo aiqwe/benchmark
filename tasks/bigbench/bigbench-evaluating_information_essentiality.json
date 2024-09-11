@@ -1,0 +1,422 @@
+[
+    {
+        "idx": 6,
+        "inputs": "Question: Each of A, B, C and D play exactly one sport among football, cricket, hockey and chess. Who plays cricket? Which of the following statements is/are sufficient to answer the previous question?\n1. A plays hockey.\n2. C plays neither chess nor football.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "Question: What is the number of people in Ramya's restaurant? Which of the following statements is/are sufficient to answer the previous question? \n1. The number of people in Abhinav's restaurant is at least 10 less than the number of people in Ramya's restaurant. \n2. The sum of the number of people in Ramya's restaurant and Abhinav's restaurant is equal to 70.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 and statement 2 taken together are sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Question: P is towards which direction of Q? Which of the following statements is/are sufficient to answer the previous question?\n1. Q is to the north of R, who is to the west of P.\n2. P is to the north-west of S.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 and statement 2 taken together are sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Question: Is A B's brother? Which of the following statements is/are sufficient to answer the previous question?\n1. C is B's spouse.\n2. A is C's relative.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 46,
+        "inputs": "Question: How many pages of a history textbook were read on Thursday? Which of the following statements is/are sufficient to answer the previous question?\n1. The last 54 pages were read after lunch on Friday.\n2. The book has 380 pages out of which three-fifths were read by Wednesday.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Question: Is x divisible by 2? Which of the following statements is/are sufficient to answer the previous question? \n1. x is an even number. \n3. The square root of x is greater than 4.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 and statement 2 taken together are sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 43,
+        "inputs": "Question: Is circle A smaller than circle B? Which of the following statements is/are sufficient to answer the previous question? \n1. The area of circle B is two times the area of circle A. \n2. The radius of circle B is less than the radius of circle A.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Question: There are 50 cowsheds on a farm. How many cows live on the farm? Which of the following statements is/are sufficient to answer the previous question? \n1. Each cowshed contains one cow. \n2. There are at least 60 cows.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Either statement 1 or statement 2 is sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Question: Will the building contractor need a special license? Which of the following statements is/are sufficient to answer the previous question? \n. All buildings with more than 20 floors need a special license. \n The building contractor wants to build a 30-storey building.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "The question can be answered without either statement"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Question: Neha looks at a cup of water and says “This cup is more than half full.” Vighnesh looks at it and says, “No, it’s at least half empty.” Who is right?\nWhich of the following statements is/are sufficient to answer the previous question?\n1. You are allowed to pour water out of the cup into a measuring cylinder or any other container.\n2. You are allowed to use a ruler or measuring tape.\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: The question can be answered without either statement\n  choice: Statement 1 and statement 2 taken together are sufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\nA:",
+        "targets": [
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Question: How much does a clock lose in a day? Which of the following statements is/are sufficient to answer the previous question?\n1. The clock shows 7:45 a.m.\n2. The hour and minute hands coincide every 63 minutes starting at noon.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "The question can be answered without either statement"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Question: Alina wants to read an adventure book. She is given a book titled \"Under the Sun\". Will Alina want to read \"Under the Sun\"? Which of the following statements is/are sufficient to answer the previous question?\n1. The author of \"Under the Sun\" only writes adventure books. \n2. Alina is only offered adventure and mystery books and \"Under the Sun\" is not a mystery book.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 47,
+        "inputs": "Question: A water pump pumps water at a uniform rate. How long does it take to fill the tank? Which of the following statements is/are sufficient to answer the previous question?\n1. In half an hour, seven-twelfths of the tank is filled.\n2. The pump is switched on at 9:00 a.m.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "Question: A student needs to get at least 70% to pass the test. Does Student X pass the test? Which of the following statements is/are sufficient to answer the previous question? \n1. Student X got 7 questions correct. \n2. Student X got all the questions correct.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Question: Socks P, Q, R, S, T and U form 3 pairs. P pairs with neither Q nor R. What are the pairs? Which of the following statements is/are sufficient to answer the previous question?\n1. Neither S nor T pairs with either Q or R.\n2. Neither P nor Q pairs with either S or U.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Question: What is the number of people in Ramya's restaurant? Which of the following statements is/are sufficient to answer the previous question? \n1. The number of people in Abhinav's restaurant is at least 10 less than the number of people in Ramya's restaurant. \n2. The sum of the number of people in Ramya's restaurant and Abhinav's restaurant is equal to 70.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 and statement 2 taken together are sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "Question: Will the building contractor need a special license? Which of the following statements is/are sufficient to answer the previous question? \n. All buildings with more than 20 floors need a special license. \n The building contractor wants to build a 30-storey building.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 and statement 2 taken together are sufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Question: On which date of the month was Jayant born in December 2012? Which of the following statements is/are sufficient to answer the previous question?\n1. Jayant's birthday is on an even date of the month.\n2. The day of the month on which Jayant was born is a prime number.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 43,
+        "inputs": "Question: What time does the clock show? Which of the following statements is/are sufficient to answer the previous question?\n1. The hour hand is between 5 and 6.\n2. The clock shows a quarter past five.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Question: P is towards which direction of Q? Which of the following statements is/are sufficient to answer the previous question?\n1. Q is to the north of R, who is to the west of P.\n2. P is to the north-west of S.\n  choice: Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient\n  choice: Statement 2 alone is sufficient while statement 1 alone is insufficient\n  choice: Statement 1 alone is sufficient while statement 2 alone is insufficient\n  choice: Either statement 1 or statement 2 is sufficient\n  choice: Statement 1 and statement 2 taken together are sufficient\nA:",
+        "targets": [
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient"
+        ],
+        "multiple_choice_targets": [
+            "Statement 1 alone is sufficient while statement 2 alone is insufficient",
+            "Statement 2 alone is sufficient while statement 1 alone is insufficient",
+            "Either statement 1 or statement 2 is sufficient",
+            "Statement 1 and statement 2 taken together are sufficient",
+            "Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+]

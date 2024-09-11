@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 20,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Cuál es la causa común de isquemia en el contexto de la criopreservación?\n  choice: la falta de flujo sanguineo\n  choice: el calor\nA:",
+        "targets": [
+            "Sobreexposición a concentraciones altas (tóxicas) de soluto"
+        ],
+        "multiple_choice_targets": [
+            "annealing",
+            "choque"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 92,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué es la cristalización?\n  choice: Cuando hay cristal\n  choice: Cuando el agua se congela.\nA:",
+        "targets": [
+            "-40ºC"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 64,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿En el suero protador hay glucosa?\n  choice: si\n  choice: no\nA:",
+        "targets": [
+            "suero portador"
+        ],
+        "multiple_choice_targets": [
+            "que más del 50% de sus celulas haya sobrevivido",
+            "el 2º de sus células viva"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿En que organismo se acumula glicerina y fructosa en sus tejidos\n  choice: rana de la madera de Alaska\n  choice: lagarto australiano\nA:",
+        "targets": [
+            "por debajo de 0º C"
+        ],
+        "multiple_choice_targets": [
+            "-40ºC",
+            "ni idea"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Combinar CPAs reduce la toxicidad?\n  choice: si\n  choice: depende\nA:",
+        "targets": [
+            "si"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿El mannitol previene el edema?\n  choice: si\n  choice: no\nA:",
+        "targets": [
+            "no penetrante"
+        ],
+        "multiple_choice_targets": [
+            "Sobreexposición a concentraciones altas (tóxicas) de soluto",
+            "pincha"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué es la vitrificación?\n  choice: nada que no sepa\n  choice: la propiedad de tener una consistencia vitrea\nA:",
+        "targets": [
+            "se continua enfriando hasta la temperatura de NL2"
+        ],
+        "multiple_choice_targets": [
+            "efectivamente",
+            "no lo sé"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 112,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Cuál de estos organismos es un modelo animal habitual en la investigación de la criobiología en 2020?\n  choice: gato\n  choice: C. elegans\nA:",
+        "targets": [
+            "Tg"
+        ],
+        "multiple_choice_targets": [
+            "Romper fibras de colageno o celulas",
+            "tiritan"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué es la hipótesis de dos factores?\n  choice: hambre\n  choice: Muerte celular por formación de hielo intracelular si el enfriamiento es demasiado rápido o por toxicidad si el enfriamiento es demasiado lento\nA:",
+        "targets": [
+            "Es un sólo tipo de CPA"
+        ],
+        "multiple_choice_targets": [
+            "forma hielo extracelularsecando las celulas",
+            "nada"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿el incremento lineal de CPA es superior al incrmento por fases?\n  choice: si\n  choice: no\nA:",
+        "targets": [
+            "la propiedad de tener una consistencia vitrea"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 97,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿1º de PVP en una solución portadora con un 55% de GLY, qué produce?\n  choice: contracción\n  choice: Vitrificación\nA:",
+        "targets": [
+            "Se fractura por las tensiones"
+        ],
+        "multiple_choice_targets": [
+            "alcohol de polivinilo",
+            "pl"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 84,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué técnica médica aprovecha la criobiología?\n  choice: limpieza de superficies\n  choice: la reproducción asisitida\nA:",
+        "targets": [
+            "dewar"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 67,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Cuál es el criterio de supervivencia de un embrión?\n  choice: que más del 50% de sus celulas haya sobrevivido\n  choice: el 2º de sus células viva\nA:",
+        "targets": [
+            "si"
+        ],
+        "multiple_choice_targets": [
+            "NP CPA, P CPA",
+            "nada"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué nematodos sobreviven por debajo de 0ºC?\n  choice: pajaro\n  choice: Trichostrongylus colubriformis y Panagrolaimus davidi\nA:",
+        "targets": [
+            "si"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 91,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué hace la recristalizacion en el calentamiento?\n  choice: tiritan\n  choice: Romper fibras de colageno o celulas\nA:",
+        "targets": [
+            "el embrión"
+        ],
+        "multiple_choice_targets": [
+            "soporte vital celular",
+            "transporte"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 47,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué permite la vitrificación el agua?\n  choice: el aire\n  choice: Una cierta concetracion de CPAs\nA:",
+        "targets": [
+            "trehalosa"
+        ],
+        "multiple_choice_targets": [
+            "60%",
+            "8%"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿El suero portador puede llevar PBS?\n  choice: si\n  choice: no\nA:",
+        "targets": [
+            "ceras"
+        ],
+        "multiple_choice_targets": [
+            "Renal preservation Serum",
+            "raposa"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Cuál es la solución de congelación standard de espermatozoide?\n  choice: tampón pH, antibióticos y  glicerol\n  choice: agua\nA:",
+        "targets": [
+            "dewar"
+        ],
+        "multiple_choice_targets": [
+            "Transplante de riñones",
+            "repasar"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Qué hace el enfriameinto rápido a una célula?\n  choice: pincha\n  choice: Sobreexposición a concentraciones altas (tóxicas) de soluto\nA:",
+        "targets": [
+            "PROH"
+        ],
+        "multiple_choice_targets": [
+            "si",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Responda a la siguiente pregunta del ámbito de la criobiología. \nQ: ¿Para que se usa en conjunción con la hipotermia el RPS?\n  choice: repasar\n  choice: Transplante de riñones\nA:",
+        "targets": [
+            "Renal preservation Serum"
+        ],
+        "multiple_choice_targets": [
+            "trehalosa",
+            "mi casa"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

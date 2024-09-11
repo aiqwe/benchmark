@@ -1,0 +1,412 @@
+[
+    {
+        "idx": 41,
+        "inputs": "Q: Pick the odd word out: jump, clap, pencil, read, run\nA:",
+        "targets": [
+            "three"
+        ],
+        "multiple_choice_targets": [
+            "Albania",
+            "Asia",
+            "Africa",
+            "America"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 51,
+        "inputs": "Q: Pick the odd word out: bus, van, car, fly\nA:",
+        "targets": [
+            "hospital"
+        ],
+        "multiple_choice_targets": [
+            "grape",
+            "plum",
+            "fig",
+            "potato",
+            "peach"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Pick the odd word out: table, rabbit, cow, hen\nA:",
+        "targets": [
+            "May"
+        ],
+        "multiple_choice_targets": [
+            "white",
+            "black",
+            "red",
+            "apple"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: Pick the odd word out: Michael Jordan, machine learning, basketball, baseball, black\nA:",
+        "targets": [
+            "June"
+        ],
+        "multiple_choice_targets": [
+            "bath",
+            "sink",
+            "fridge",
+            "oven",
+            "stove"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "Q: Pick the odd word out: table, pen, armchair, wardrobe\nA:",
+        "targets": [
+            "glass"
+        ],
+        "multiple_choice_targets": [
+            "doll",
+            "snow",
+            "rain",
+            "wind"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 65,
+        "inputs": "Q: Pick the odd word out: table, rabbit, cow, hen\nA:",
+        "targets": [
+            "white"
+        ],
+        "multiple_choice_targets": [
+            "Ames",
+            "Iowa",
+            "Des Moines",
+            "Story County",
+            "machine learning"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Q: Pick the odd word out: rectangle, circle, book, triangle, heptagon, tetrahedron\nA:",
+        "targets": [
+            "cup"
+        ],
+        "multiple_choice_targets": [
+            "dentist",
+            "doctor",
+            "postman",
+            "hospital",
+            "cashier"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Q: Pick the odd word out: your, book, phone, fan, fame, photo\nA:",
+        "targets": [
+            "mouse"
+        ],
+        "multiple_choice_targets": [
+            "dress",
+            "jeans",
+            "blouse",
+            "grey",
+            "socks",
+            "shirt"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Pick the odd word out: bath, sink, fridge, oven, stove\nA:",
+        "targets": [
+            "fly"
+        ],
+        "multiple_choice_targets": [
+            "pens",
+            "notebook",
+            "pencils",
+            "erasers",
+            "papers"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 37,
+        "inputs": "Q: Pick the odd word out: football, tennis, basketball, water, water polo, baseball\nA:",
+        "targets": [
+            "book"
+        ],
+        "multiple_choice_targets": [
+            "white",
+            "black",
+            "red",
+            "apple"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: Pick the odd word out: boil, type, fry, chop, steam, rinse\nA:",
+        "targets": [
+            "star"
+        ],
+        "multiple_choice_targets": [
+            "boil",
+            "type",
+            "fry",
+            "chop",
+            "steam",
+            "rinse"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 38,
+        "inputs": "Q: Pick the odd word out: boil, type, fry, chop, steam, rinse\nA:",
+        "targets": [
+            "white"
+        ],
+        "multiple_choice_targets": [
+            "bread",
+            "bakery",
+            "butcher's",
+            "market"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: Pick the odd word out: mouse, dragonfly, ladybug, ant, beetle\nA:",
+        "targets": [
+            "happy"
+        ],
+        "multiple_choice_targets": [
+            "lamb",
+            "sock",
+            "duck",
+            "horse",
+            "rooster"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: Pick the odd word out: Monday, spring, summer, winter, fall\nA:",
+        "targets": [
+            "glass"
+        ],
+        "multiple_choice_targets": [
+            "eighty",
+            "seven",
+            "twenty",
+            "fifty"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Q: Pick the odd word out: oil, garlic, skirt, basil\nA:",
+        "targets": [
+            "arm"
+        ],
+        "multiple_choice_targets": [
+            "eyebrow",
+            "nose",
+            "arm",
+            "eyelash"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: Pick the odd word out: bath, sink, fridge, oven, stove\nA:",
+        "targets": [
+            "France"
+        ],
+        "multiple_choice_targets": [
+            "Dublin",
+            "France",
+            "Tokyo",
+            "Athens",
+            "Paris",
+            "San Francisco"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Q: Pick the odd word out: in, boy, or, under\nA:",
+        "targets": [
+            "mouse"
+        ],
+        "multiple_choice_targets": [
+            "mother",
+            "cousin",
+            "aunt",
+            "cup",
+            "uncle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: Pick the odd word out: eighty, seven, twenty, fifty\nA:",
+        "targets": [
+            "pen"
+        ],
+        "multiple_choice_targets": [
+            "Europe",
+            "Greece",
+            "Italy",
+            "Germany",
+            "Spain"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 66,
+        "inputs": "Q: Pick the odd word out: train, cream, airplane, helicopter, ship\nA:",
+        "targets": [
+            "water"
+        ],
+        "multiple_choice_targets": [
+            "June",
+            "four",
+            "seventy",
+            "twelve",
+            "thousand"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: Pick the odd word out: pens, notebook, pencils, erasers, papers\nA:",
+        "targets": [
+            "cow"
+        ],
+        "multiple_choice_targets": [
+            "actor",
+            "doctor",
+            "teacher",
+            "three",
+            "plumber",
+            "proctor"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

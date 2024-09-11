@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 17,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. George has little control over his shots. He tries to aim at the low point region of the dart board. As he sets up his shot, however, he loses his balance. The dart slips out of his hand and wobbles toward the board. The dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 140,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Tom works for a demolition company, and today he is demolishing a building by implosion. The building will implode automatically at 5:00 PM if both the safety switch is off and knob A is switched on. At 4:00 PM, the safety switch is off, and knob A is on. At that time, Tom checks to see if knob A is on, and he sees that it's on. So, he does not change the position of knob A at all. Because the building would implode if both the safety switch is off and knob A is switched on, the building implodes at 5:00 PM. Did the building implode because Tom did not change the position of knob A?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Laurie likes GC brand coffee. GC is doing a new promotion for their new coffee flavor where customers can receive a free sample. Customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list. Laurie has previously purchased coffee beans from GC, and she is subscribed to the GC email list. When she hears about the promotion, Laurie checks to see if she is subscribed to the email list, and she sees that she is. So, she does not change her subscription status, and she remains subscribed to the email list. Because customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list, Laurie receives a free sample. Did Laurie receive a free sample because she did not change her subscription status?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Laurie likes GC brand coffee. GC is doing a new promotion for their new coffee flavor where customers can receive a free sample. Customers will receive a free sample if both they have previously purchased coffee beans from GC and they are subscribed to the GC email list. Laurie has previously purchased coffee beans from GC, and she is subscribed to the GC email list. When she hears about the promotion, Laurie checks to see if she is subscribed to the email list, and she sees that she is. So, she does not change her subscription status, and she remains subscribed to the email list. Because customers will receive a free sample if both they have previously purchased coffee beans from GC and they are subscribed to the GC email list, Laurie receives a free sample. Did Laurie receive a free sample because she did not change her subscription status?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Imagine that there is a man out in the woods who is participating in a hunting competition. After spending hours waiting for a deer to cross his path, the hunter suddenly sees the largest deer he has ever seen. If he can only kill this deer, he will surely win the competition. So, the hunter gets the deer in his sights -- but at the last second, he notices that there is a beautiful eagle perched in a tree nearby. The hunter realizes that if he shoots the deer, the sound of the gunfire will definitely cause the eagle to fly away. But he does not care at all about the eagle -- he just wants to win the competition. So, he shoots and kills the deer. And as expected, the sound of the gunfire causes the eagle to fly away. Did the man intentionally cause the eagle to fly away?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 150,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: In Nazi Germany, there was a law called the 'racial identification law.' The purpose of the law was to help identify people of certain races so that they could be rounded up and sent to concentration camps. Shortly after this law was passed, the CEO of a small corporation decided to make certain organizational changes. The Vice-President of the corporation said: \"By making those changes, you'll definitely be increasing our profits. But you'll also be fulfilling the requirements of the racial identification law.\" The CEO said: \"Look, I know that I'll be fulfilling  the requirements of the law, but I don't care one bit about that. All I care about is making as much profit as I can. Let's make those organizational changes!\" As soon as the CEO gave this order, the corporation began making the organizational changes. Did the CEO intentionally fulfill the requirements of the law?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: The receptionist in the philosophy department keeps her desk stocked with pens. The administrative assistants are allowed to take the pens, but faculty members are supposed to buy their own. The administrative assistants typically do take the pens. Unfortunately, so do the faculty members. The receptionist has repeatedly emailed them reminders that only administrative assistants are allowed to take the pens. On Monday morning, one of the administrative assistants encounters Professor Smith walking past the receptionist's desk. Both take pens. Later that day, the receptionist needs to take an important message... but she has a problem. There are no pens left on her desk. Did the administrative assistant cause the problem?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Sara has an electric guitar that she plays through an amplifier. The guitar will play through the amplifier if either the amplifier is set to channel A or the power mixer is turned on. Today, the amplifier is set to channel A. Sara checks to see if the power mixer is on. She sees that the power mixer is turned on, and she does not turn off the power mixer or adjust it at all. Because the guitar will play through the amplifier if either the amplifier is set to channel A or the power mixer is turned on, Sara's guitar plays through the amplifier. Did the guitar play through the amplifier because Sara did not turn off the power mixer?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Tom has a huge garden and loves flowers. He employed two gardeners who take care of the plants on his 30 flower beds: Alex and Benni. Both can independently decide on their working hours and arrange who cares for which flower beds. Alex and Benni are very reliable and Tom is satisfied with their work. Nevertheless he wants to optimize the plant growth. Since Tom has read in a magazine that plants grow better when they are fertilized, he decides to let Alex and Benni fertilize his plants. The magazine recommends the use of the chemicals A X200R or B Y33R, since both are especially effective. However, Tom also read that it can damage plants when they are exposed to multiple different types of chemicals. Tom therefore decides that he only wants to use one fertilizer. He goes for A X200R. When Tom meets Alex in the garden shortly afterwards, he instructs him to buy the chemical A X200R and to use only this fertilizer. He also explicitly instructs him to tell Benni to only use A X200R. Alex volunteers to buy several bottles of this chemical for Benni and himself and to tell Benni about Tom's instruction. After a few weeks, Tom goes for a walk in his garden. He realizes that some of his plants are much prettier and bigger than before. However, he also realizes that some of his plants have lost their beautiful color and are dried up. That makes Tom very sad and reflective. He wonders whether the drying of his plants might have something to do with the fertilization. He wants to investigate this matter and talks to Alex and Benni. Alex immediately starts apologizing: \"I am sorry! I completely forgot to tell Benni about the rule! I bought and used the chemical A X200R but Benni must have used something else because he did not know about the new rule.\" Benni tells Tom that Alex had not told him that they were only supposed to use A X200R. He explains: \"I have used the fertilizer I previously used; it is called B Y33R!\" Tom remembers that he had filled B Y33R in a green can - long before he had read about the chemicals in his magazine. He had never used it. So Benni must have accidentally, without knowing it, applied the chemical B Y33R, whereas only Alex applied A X200R. Tom realizes that the plants dried up in the flower beds on which both A X200R and B Y33R were applied by the gardeners. Did the fertilization by Benni cause the plant to dry out?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Alex is playing a board game. Every turn in the game, you simultaneously roll two six-sided dice and spin a spinner. Alex will either win or lose the game on his next turn. Alex will only win the game if the total of dice roll is greater than 11 or the spinner lands on green. It is very unlikely that he will roll higher than 11. Normally, the spinner does land on green. Alex rolls his dice and spins the spinner at exactly the same time. He rolls a 12, so amazingly, he rolled greater than 11, and the spinner lands on green. Alex wins the game. Did Alex spinning result cause him to win the game?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 104,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: The CEO of a company is sitting in his office when his Vice President of R&D comes in and says, 'We are thinking of starting a new programme. It will help us increase profits, but it will also harm the environment.' The CEO responds that he doesn't care about harming the environment and just wants to make as much profit as possible. The programme is carried out, profits are made and the environment is harmed. Did the CEO intentionally harm the environment?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: In a particular building there are two businesses, a travel agency and a graphic design studio. The building's climate control system is a new design that saves energy by keeping track of the number of people in the building, and only turning on when enough people have entered the building. The climate control system will only turn on when the people who work at the travel agency and the people who work in the design studio arrive for work. Neither office has enough employees to turn on the climate control system on their own. The travel agency employees almost always arrive at 8:45 am, but the design studio employees almost always arrive at 10 am. Today, the travel agency employees arrived at 8:45 am. Unexpectedly, the design studio employees also arrived at 8:45 am to meet a deadline. So, today, the climate control system turned on at 8:45 am. Did the design studio agents cause the climate control system to turn on at 8:45 am?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Imagine that there is a man out in the woods who is participating in a hunting competition. After spending hours waiting for a deer to cross his path, the hunter suddenly sees the largest deer he has ever seen. If he can only kill this deer, he will surely win the competition. So, the hunter gets the deer in his sights and pulls the trigger-thereby killing the deer. Unfortunately, the bullet exited the deer's body and struck a hunter who was hiding nearby. Did the man intentionally shoot the hunter?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: A bear and a hedgehog were shown a box full of colored pencils. Only bears were allowed to take pencils, whereas hedgehogs were not allowed to take them. The hedgehog was absent when the new rule about pencil use was announced. Therefore, the hedgehog did not know about the new norm. Both animals alternately took pencils out of the box six times. At last, the hedgehog and the bear came to the box and simultaneously took a pencil. A short time later, another animal, a polar bear, approached the box seeking a pencil to do his homework with. However, there were no pencils left in the box. The polar bear could not finish his homework. Did the hedgehog cause the problem?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: In a particular building there are two businesses, a travel agency and a graphic design studio. The building's climate control system is a new design that saves energy by keeping track of the number of people in the building, and only turning on when enough people have entered the building. The climate control system will only turn on when the people who work at the travel agency and the people who work in the design studio arrive for work. Neither office has enough employees to turn on the climate control system on their own. The travel agency employees almost always arrive at 8:45 am, but the design studio employees almost always arrive at 10 am. Today, the travel agency employees arrived at 8:45 am. Unexpectedly, the design studio employees also arrived at 8:45 am to meet a deadline. So, today, the climate control system turned on at 8:45 am. Did the design studio agents cause the climate control system to turn on at 8:45 am?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Bill's wife, Sue, is out of town for the weekend. She leaves Bill a message that says, 'I just saw this marvelous bookend. It's called a Bartlett bookend. So pretty! I'm going to go back tomorrow and get one. It will be perfect for the left side of our bookshelf'. Bill goes and visits his friend. Bill and his friend talk for a while, and when Bill asks if his friend is willing to sell the bookend, his friend is happy to sell it. Bill makes an offer, but his friend insists on him not paying so much. Finally, Bill buys the right-side Bartlett bookend from his friend and goes home. Then the next day, Sue goes and buys the left-side Bartlett bookend. So, when Sue got home, they had the paired set of bookends. Did Bill cause them to possess the paired set of bookends?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Laurie likes GC brand coffee. GC is doing a new promotion for their new coffee flavor where customers can receive a free sample. Customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list. Laurie has previously purchased coffee beans from GC, and she is subscribed to the GC email list. When she hears about the promotion, Laurie checks to see if she is subscribed to the email list, and she sees that she is. So, she does not change her subscription status, and she remains subscribed to the email list. Because customers will receive a free sample if either they have previously purchased coffee beans from GC or they are subscribed to the GC email list, Laurie receives a free sample. Did Laurie receive a free sample because she did not change her subscription status?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Imagine that there is a man out in the woods who is participating in a hunting competition. After spending hours waiting for a deer to cross his path, the hunter suddenly sees the largest deer he has ever seen. If he can only kill this deer, he will surely win the competition. So, the hunter gets the deer in his sights and pulls the trigger-thereby killing the deer. Unfortunately, the bullet exited the deer's body and struck a hunter who was hiding nearby. Did the man intentionally shoot the hunter?\nA:",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 99,
+        "inputs": "How would a typical person answer each of the following questions about causation?\n\n\nQ: Billy and Suzy are freight train conductors. One day, they happen to approach an old two-way rail bridge from opposite directions at the same time. There are signals on either side of the bridge. Billy's signal is green, so he is supposed to drive across the bridge immediately. Suzy's signal is green, so she is also supposed to drive across immediately. Neither of them realizes that the bridge is on the verge of collapse. If either of them drives their train onto the bridge, it will collapse. Either train is heavy enough on its own to break the bridge. Billy follows his signal and drives his train onto the bridge immediately at the same time that Suzy follows her signal and drives her train onto the bridge. Both trains move onto the bridge at the same time, and at that moment the bridge collapses. Did Billy cause the bridge to collapse?\nA:",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

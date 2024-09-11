@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 2523,
+        "inputs": "Giza Governorate is located in",
+        "targets": [
+            "Swedish"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 15406,
+        "inputs": "The country of citizenship of Michaëlle Jean is",
+        "targets": [
+            "pitcher"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2875,
+        "inputs": "Hugo Pratt given name [MASK]",
+        "targets": [
+            "Asia"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5579,
+        "inputs": "The original country of sashimi is",
+        "targets": [
+            "Iran"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8340,
+        "inputs": "The place of publication of Le Figaro is",
+        "targets": [
+            "piano"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1782,
+        "inputs": "Spring and Autumn Annals named after",
+        "targets": [
+            "Brazil"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6954,
+        "inputs": "The country of Kannada is",
+        "targets": [
+            "Italy"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2336,
+        "inputs": "The historic county of Brighton is",
+        "targets": [
+            "Italy"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 13621,
+        "inputs": "The religion of Bairam Khan is",
+        "targets": [
+            "France"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 660,
+        "inputs": "Niger shares a border with",
+        "targets": [
+            "opera"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9085,
+        "inputs": "The original broadcaster of Coronation Street is",
+        "targets": [
+            "California"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7330,
+        "inputs": "The color of the flag of Jamaica is",
+        "targets": [
+            "Spanish"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3889,
+        "inputs": "The native language of Viktor Orbán is",
+        "targets": [
+            "baseball"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9015,
+        "inputs": "The religion of Dodi Fayed is",
+        "targets": [
+            "Canada"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6675,
+        "inputs": "The native language of Reg E. Cathey is",
+        "targets": [
+            "baseball"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6132,
+        "inputs": "The country of Islamabad is",
+        "targets": [
+            "Jerusalem"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1678,
+        "inputs": "The official language of Guntur is",
+        "targets": [
+            "Scotland"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11369,
+        "inputs": "The native language of 50 Cent is",
+        "targets": [
+            "Mali"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8313,
+        "inputs": "The continent of Himalayas is",
+        "targets": [
+            "Sudan"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1062,
+        "inputs": "The genre of Abraham Cowley is",
+        "targets": [
+            "Dutch"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "idx": 6,
+        "inputs": "Q: What is the longest river in the world?\n  choice: Congo\n  choice: Sutlej\n  choice: Amazon\n  choice: Yangtze\n  choice: Mississippi\n  choice: Rio Grande\n  choice: Nile\n  choice: Volga\nA:",
+        "targets": [
+            "Beijing"
+        ],
+        "multiple_choice_targets": [
+            "woof",
+            "quack",
+            "moo",
+            "roar",
+            "meow",
+            "bleat",
+            "caw",
+            "cry"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 53,
+        "inputs": "Q: Which gas is generally used to fill balloons to make them rise?\n  choice: one\n  choice: carbon dioxide\n  choice: nitrogen\n  choice: air\n  choice: oxygen\n  choice: chlorine\n  choice: helium\n  choice: di-hydrogen monoxide\n  choice: none\nA:",
+        "targets": [
+            "Venus"
+        ],
+        "multiple_choice_targets": [
+            "helium",
+            "air",
+            "oxygen",
+            "di-hydrogen monoxide",
+            "nitrogen",
+            "one",
+            "none",
+            "carbon dioxide",
+            "chlorine"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Q: What is the largest continent on Earth, by area?\n  choice: Africa\n  choice: Antarctica\n  choice: North America\n  choice: Asia\n  choice: Europe\n  choice: Australia\n  choice: South America\nA:",
+        "targets": [
+            "Beijing"
+        ],
+        "multiple_choice_targets": [
+            "anthropology",
+            "chemistry",
+            "computer science",
+            "physics",
+            "mathematics",
+            "research",
+            "taxonomy"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Q: How many whiskers does a human have?\n  choice: four\n  choice: nine\n  choice: three\n  choice: none\n  choice: six\n  choice: one\n  choice: two\nA:",
+        "targets": [
+            "East"
+        ],
+        "multiple_choice_targets": [
+            "East",
+            "North",
+            "South",
+            "West"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Q: Which liquid is usually used to fill swimming pools?\n  choice: carbon dioxide\n  choice: chlorine\n  choice: oil\n  choice: glycerol\n  choice: none\n  choice: nitrogen\n  choice: water\nA:",
+        "targets": [
+            "moo"
+        ],
+        "multiple_choice_targets": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto",
+            "Ceres"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: What is the capital of China?\n  choice: Barcelona\n  choice: Beijing\n  choice: Tokyo\n  choice: Chengdu\n  choice: Tianjin\n  choice: Madrid\n  choice: Washington, D.C.\nA:",
+        "targets": [
+            "West"
+        ],
+        "multiple_choice_targets": [
+            "anthropology",
+            "chemistry",
+            "computer science",
+            "physics",
+            "mathematics",
+            "research",
+            "taxonomy"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Which country is Sardinia part of?\n  choice: Italy\n  choice: Sardinia\n  choice: France\n  choice: Yangtze\n  choice: Mississippi\n  choice: Rome\n  choice: Rio Grande\n  choice: Spain\nA:",
+        "targets": [
+            "temperature"
+        ],
+        "multiple_choice_targets": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto",
+            "Ceres"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 49,
+        "inputs": "Q: Which is the name of the study of the heart and circulatory system?\n  choice: cardiology\n  choice: physics\n  choice: anthropology\n  choice: taxonomy\n  choice: chemistry\n  choice: mathematics\n  choice: computer science\n  choice: research\nA:",
+        "targets": [
+            "Africa"
+        ],
+        "multiple_choice_targets": [
+            "North America",
+            "Africa",
+            "Asia",
+            "South America",
+            "Europe"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 51,
+        "inputs": "Q: What does a thermometer measure?\n  choice: pressure\n  choice: velocity\n  choice: humidity\n  choice: temperature\nA:",
+        "targets": [
+            "restaurant"
+        ],
+        "multiple_choice_targets": [
+            "Beijing",
+            "Chengdu",
+            "Tianjin",
+            "Tokyo",
+            "Washington, D.C.",
+            "Madrid",
+            "Barcelona"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Q: How many tails do humans have?\n  choice: four\n  choice: nine\n  choice: three\n  choice: none\n  choice: six\n  choice: one\n  choice: two\nA:",
+        "targets": [
+            "doctor"
+        ],
+        "multiple_choice_targets": [
+            "humidity",
+            "velocity",
+            "temperature",
+            "pressure"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Q: How many meters are in one kilometer?\n  choice: 100\n  choice: 1,000\n  choice: 1,609\n  choice: 1\n  choice: 10\n  choice: 1,000,000\n  choice: 23,134\n  choice: 1,234\n  choice: 1,024\n  choice: 1,760\nA:",
+        "targets": [
+            "restaurant"
+        ],
+        "multiple_choice_targets": [
+            "Sol",
+            "Mercury",
+            "Venus",
+            "Moon",
+            "Proxima Centauri",
+            "Alpha Centauri",
+            "Sirius"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: What is the capital of Spain?\n  choice: Barcelona\n  choice: Berlin\n  choice: Paris\n  choice: Brussels\n  choice: Moscow\n  choice: Madrid\n  choice: Rome\nA:",
+        "targets": [
+            "foot"
+        ],
+        "multiple_choice_targets": [
+            "woof",
+            "quack",
+            "moo",
+            "roar",
+            "meow",
+            "bleat",
+            "caw",
+            "cry"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: What is a chicken hatched from?\n  choice: broiler\n  choice: caviar\n  choice: rooster\n  choice: egg\n  choice: pouch\n  choice: hen\nA:",
+        "targets": [
+            "Madrid"
+        ],
+        "multiple_choice_targets": [
+            "sight",
+            "hearing",
+            "smell",
+            "taste",
+            "touch"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: How many legs do horses have?\n  choice: four\n  choice: none\n  choice: two\n  choice: one\n  choice: three\n  choice: six\nA:",
+        "targets": [
+            "restaurant"
+        ],
+        "multiple_choice_targets": [
+            "helium",
+            "air",
+            "oxygen",
+            "di-hydrogen monoxide",
+            "nitrogen",
+            "one",
+            "none",
+            "carbon dioxide",
+            "chlorine"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: What is rain made of?\n  choice: air\n  choice: cats\n  choice: water\n  choice: clouds\n  choice: snow\n  choice: ice\nA:",
+        "targets": [
+            "1,000"
+        ],
+        "multiple_choice_targets": [
+            "366",
+            "365",
+            "364",
+            "31",
+            "29",
+            "30",
+            "123",
+            "1"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: What color is the sky on a clear sunny day?\n  choice: no color\n  choice: black\n  choice: white\n  choice: yellow\n  choice: cyan\n  choice: blue\n  choice: transparent\n  choice: grey\n  choice: red\n  choice: green\n  choice: purple\nA:",
+        "targets": [
+            "1,760"
+        ],
+        "multiple_choice_targets": [
+            "East",
+            "North",
+            "South",
+            "West"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 50,
+        "inputs": "Q: Which country is Sardinia part of?\n  choice: Italy\n  choice: Sardinia\n  choice: France\n  choice: Yangtze\n  choice: Mississippi\n  choice: Rome\n  choice: Rio Grande\n  choice: Spain\nA:",
+        "targets": [
+            "two"
+        ],
+        "multiple_choice_targets": [
+            "East",
+            "North",
+            "South",
+            "West"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: What is the longest river in the world?\n  choice: Congo\n  choice: Sutlej\n  choice: Amazon\n  choice: Yangtze\n  choice: Mississippi\n  choice: Rio Grande\n  choice: Nile\n  choice: Volga\nA:",
+        "targets": [
+            "East"
+        ],
+        "multiple_choice_targets": [
+            "woof",
+            "quack",
+            "moo",
+            "roar",
+            "meow",
+            "bleat",
+            "caw",
+            "cry"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Q: How many cups are in one quart?\n  choice: 2\n  choice: 8\n  choice: 1\n  choice: 4\nA:",
+        "targets": [
+            "eyes"
+        ],
+        "multiple_choice_targets": [
+            "Italy",
+            "Spain",
+            "Sardinia",
+            "Rome",
+            "France",
+            "Yangtze",
+            "Mississippi",
+            "Rio Grande"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Q: Which country is Sardinia part of?\n  choice: Italy\n  choice: Sardinia\n  choice: France\n  choice: Yangtze\n  choice: Mississippi\n  choice: Rome\n  choice: Rio Grande\n  choice: Spain\nA:",
+        "targets": [
+            "egg"
+        ],
+        "multiple_choice_targets": [
+            "12",
+            "1",
+            "2",
+            "3",
+            "6",
+            "24"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

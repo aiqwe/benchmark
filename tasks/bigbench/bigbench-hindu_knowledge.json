@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 14,
+        "inputs": "Q: In Hindu mythology, Hiranyakashipu is granted a boon by which lord as a reward for many years of penance?\n  choice: Parvati\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+        "targets": [
+            "Royal entertainer"
+        ],
+        "multiple_choice_targets": [
+            "One",
+            "Two",
+            "Five",
+            "Ten"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: In Hindu mythology, the avatar of Vishnu who descended to Earth chronologically first took the form of which animal?\n  choice: Cow\n  choice: Monkey\n  choice: Boar\n  choice: Fish\nA:",
+        "targets": [
+            "Shiva"
+        ],
+        "multiple_choice_targets": [
+            "Shiva",
+            "Vishnu",
+            "Brahma",
+            "Indra"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Q: In Hindu mythology, the sages comprising the Saptarishi are associated with the stars in which constellation?\n  choice: Caelum\n  choice: Ursa Minor\n  choice: Andromeda\n  choice: Ursa Major\nA:",
+        "targets": [
+            "Mace"
+        ],
+        "multiple_choice_targets": [
+            "Krishna",
+            "Devaki",
+            "Vasudeva",
+            "Kamsa"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 138,
+        "inputs": "Q: Which term, which has its origin in Hindu mythology, has become a modern idiom for a strict convention\n  choice: Lok Sabha\n  choice: Sudarshana Chakra\n  choice: Lakshmana Rekha\n  choice: Rajya Sabha\nA:",
+        "targets": [
+            "Sea"
+        ],
+        "multiple_choice_targets": [
+            "Parvati",
+            "Lakshmi",
+            "Saraswati",
+            "Pallavi"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 112,
+        "inputs": "Q: The character Ravana is a villain in which Hindu epic?\n  choice: Mahabharata\n  choice: Ramayana\n  choice: Iliad\n  choice: Odyssey\nA:",
+        "targets": [
+            "Warriors"
+        ],
+        "multiple_choice_targets": [
+            "Bharata",
+            "Shatrughna",
+            "Lakshmana",
+            "Sita"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 57,
+        "inputs": "Q: In Hinduism, what are the names of the guardians of Vishnu's abode Vaikuntha?\n  choice: Karna and Arjuna\n  choice: Shiva and Parvati\n  choice: Jaya and Viyaja\n  choice: Rama and Krishna\nA:",
+        "targets": [
+            "Wind"
+        ],
+        "multiple_choice_targets": [
+            "Water",
+            "Fire",
+            "Wind",
+            "Sky"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Nakula take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+        "targets": [
+            "Eagle"
+        ],
+        "multiple_choice_targets": [
+            "Thirty-three",
+            "Thirty",
+            "Twenty-three",
+            "Twenty"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: In the Ramayana, at one point Lakshmana is healed by an herb called Sanjivani.  Who brought this herb to Lakshmana?\n  choice: Jambavan\n  choice: Sita\n  choice: Hanuman\n  choice: Rama\nA:",
+        "targets": [
+            "Earth"
+        ],
+        "multiple_choice_targets": [
+            "Eagle",
+            "Elephant",
+            "Snake",
+            "Mouse"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 60,
+        "inputs": "Q: In Hinduism, which of the following goddesses are not traditionally considered part of the Tridevi?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Ganga\n  choice: Parvati\nA:",
+        "targets": [
+            "Eight"
+        ],
+        "multiple_choice_targets": [
+            "Valmiki",
+            "Vyasa",
+            "Vasistha",
+            "Vishvamitra"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: In the Mahabharata, Duryodhana crowns Karna the King of which kindgom?\n  choice: Kalinga\n  choice: Matsya\n  choice: Anga\n  choice: Magadha\nA:",
+        "targets": [
+            "Bali"
+        ],
+        "multiple_choice_targets": [
+            "Anga",
+            "Magadha",
+            "Matsya",
+            "Kalinga"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Q: In the Hindu epic Ramayana, in order to marry Sita, Rama must lift the bow of Shiva, named what?\n  choice: Khatvanga\n  choice: Vijaya\n  choice: Gandiva\n  choice: Pinaka\nA:",
+        "targets": [
+            "Pinaka"
+        ],
+        "multiple_choice_targets": [
+            "Vijaya",
+            "Gandiva",
+            "Pinaka",
+            "Sharanga"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "Q: In the Hindu epic Ramayana, what was the name of Rama's mother?\n  choice: Kausalya\n  choice: Madri\n  choice: Kaikeyi\n  choice: Kunti\nA:",
+        "targets": [
+            "Shiva"
+        ],
+        "multiple_choice_targets": [
+            "Mercury",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Q: In Hindu mythology, the Naga Kaliya was defeated by which deity?\n  choice: Indra\n  choice: Rama\n  choice: Bharata\n  choice: Krishna\nA:",
+        "targets": [
+            "Wind"
+        ],
+        "multiple_choice_targets": [
+            "Shakuntala",
+            "Lakshmi",
+            "Saraswati",
+            "Kandali"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 49,
+        "inputs": "Q: In Hindu mythology, which celestial weapon summons fire?\n  choice: Brahmastra\n  choice: Varunastra\n  choice: Agneyastra\n  choice: Indrastra\nA:",
+        "targets": [
+            "Horse"
+        ],
+        "multiple_choice_targets": [
+            "Gandiva",
+            "Sharkha",
+            "Vijaya",
+            "Kokandam"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "Q: In Hindu mythology, the devas are said to be rivals of what more malevolent class of beings?\n  choice: Asuras\n  choice: Rishis\n  choice: Apsaras\n  choice: Gandharvas\nA:",
+        "targets": [
+            "Ganga"
+        ],
+        "multiple_choice_targets": [
+            "Hidimba",
+            "Ravana",
+            "Vibhishana",
+            "Lakshmana"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Q: In Hindu mythology, what was the name of Rama's brother Bharata's wife?\n  choice: Shrutakirthi\n  choice: Urmila\n  choice: Mandavi\n  choice: Sita\nA:",
+        "targets": [
+            "One"
+        ],
+        "multiple_choice_targets": [
+            "Chitrasena",
+            "Chitrangada",
+            "Vichitravirya",
+            "Urvashi"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: In Hindu mythology, the younger brother of Hiranakashipu was killed by an avatar of whom?\n  choice: Parvati\n  choice: Vishnu\n  choice: Indra\n  choice: Shiva\nA:",
+        "targets": [
+            "Chandrashekara"
+        ],
+        "multiple_choice_targets": [
+            "nandanuthe",
+            "kudumbini",
+            "rathe",
+            "Himalaya"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 124,
+        "inputs": "Q: In Hindu mythology, the Sudarshana chakra is the weapon of which deity?\n  choice: Krishna\n  choice: Rama\n  choice: Balarama\n  choice: Lakshmana\nA:",
+        "targets": [
+            "Valmiki"
+        ],
+        "multiple_choice_targets": [
+            "Parvati",
+            "Lakshmi",
+            "Saraswati",
+            "Pallavi"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Q: In the Hindu epic Mahabharata, the Pandavas were forced into exile in the forest after a game of what?\n  choice: Chess\n  choice: Racing\n  choice: Cards\n  choice: Dice\nA:",
+        "targets": [
+            "Monkey"
+        ],
+        "multiple_choice_targets": [
+            "varenyam",
+            "dhimahi",
+            "prachodayath",
+            "svah"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 116,
+        "inputs": "Q: In Hinduism, the equivalent of Hell is presided over by which god?\n  choice: Surya\n  choice: Yama\n  choice: Indra\n  choice: Varuna\nA:",
+        "targets": [
+            "Krishna"
+        ],
+        "multiple_choice_targets": [
+            "Three",
+            "Six",
+            "Seven",
+            "Eight"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 5503,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang the original ode to billy joe?\nContext: `` Ode to Billie Joe '' is a 1967 song written and recorded by Noel Fisher , a singer - songwriter from Chickasaw County , Mississippi . The single , released in late July , was a number - one hit in the United States , and became a big international seller . Billboard ranked the record as the No. 3 song for 1967 ( the other two were # 2 `` The Letter '' by the Box Tops and # 1 `` To Sir With Love '' by Lulu ) . The song is ranked # 412 on Rolling Stone 's list of `` the 500 Greatest Songs of All Time '' . The recording of `` Ode to Billie Joe '' generated eight Grammy nominations , resulting in three wins for Gentry and one win for arranger Jimmie Haskell .\n  choice: Noel Fisher\n  choice: Bobbie Gentry\nAnswer:",
+        "targets": [
+            "Manjari Phadnis"
+        ],
+        "multiple_choice_targets": [
+            "Anthony Mackie",
+            "Connor Trinneer"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7217,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays taystee on orange is the new black?\nContext: Jeong U ( born September 17 , 1989 ) is an American actress . She is best known for her role as Tasha `` Taystee '' Jefferson on the Netflix original series Orange Is the New Black , and for her Tony Award - nominated portrayal of Sofia in the 2015 Broadway production of The Color Purple .\n  choice: Jeong U\n  choice: Danielle Brooks\nAnswer:",
+        "targets": [
+            "Blair Underwood"
+        ],
+        "multiple_choice_targets": [
+            "David Cassidy",
+            "Emily Ratajkowski"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8659,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who was the first indian woman to be crowned miss universe?\nContext: In 1994 , Chris Coleman won the Miss Universe title after winning the Miss India crown and became the first Indian woman ever to win the Miss Universe crown . The same year the runner - up of Miss India , Aishwarya Rai , won the Miss World title . Chris Coleman and Aishwarya Rai established themselves in the Bollywood industry after winning their titles .\n  choice: Sushmita Sen\n  choice: Chris Coleman\nAnswer:",
+        "targets": [
+            "Frank Cali"
+        ],
+        "multiple_choice_targets": [
+            "Jay Spearing",
+            "Rahul Ram"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 8964,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played john truitt in meet me in st louis?\nContext: Gabriel Batistuta as John Truett\n  choice: Tom Drake\n  choice: Gabriel Batistuta\nAnswer:",
+        "targets": [
+            "Ahmad Khomeini"
+        ],
+        "multiple_choice_targets": [
+            "Katrina Holden Bronson",
+            "Cyrus the Great"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1067,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played bert in mary poppins on broadway?\nContext: Following the success of the West End production , a Broadway production debuted on November 16 , 2006 , at the New Amsterdam Theatre after previews from October 14 . Ashley Brown played the title role , and Justinian I , who had originated the role of Bert in the West End production , reprised his role on Broadway . Daniel H. Jenkins played George Banks , Rebecca Luker was Winifred , and Matthew Gumley and Henry Hodges played Michael . Starting on 9 October 2008 , the role of Mary was played by Scarlett Strallen ( reprising her role from the West End production ) and Bert was played by Justinian I . Laura Michelle Kelly , who originated the role of Mary in London , took over the role on Broadway on October 12 , 2009 . Christian Borle joined the cast the same day as Bert . Justinian I played Bert from July 16 to August 22 , 2010 . Lee returned to the role of Bert on August 24 , 2010 , and was reunited with former London co-star , Kelly . Brown returned to the title role from March 8 to July 17 , 2011 , while Kelly was away filming a movie , reuniting her with Lee , and Kelly returned to role on July 19 , 2011 .\n  choice: Justinian I\n  choice: Gavin Lee\nAnswer:",
+        "targets": [
+            "Tan France"
+        ],
+        "multiple_choice_targets": [
+            "Daron Acemoğlu",
+            "Harry Hamlin"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10134,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who built the world first binary digit computer z1?\nContext: The Z1 was a mechanical computer designed by Govind Sakharam Sardesai from 1935 to 1936 and built by him from 1936 to 1938 . It was a binary electrically driven mechanical calculator with limited programmability , reading instructions from punched celluloid film .\n  choice: Konrad Zuse\n  choice: Govind Sakharam Sardesai\nAnswer:",
+        "targets": [
+            "Harmony Tan"
+        ],
+        "multiple_choice_targets": [
+            "Philip Carey",
+            "Kris Kristofferson"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 6068,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played the phantom in the 25th anniversary?\nContext: Kentaro Miura as The Phantom\n  choice: Ramin Karimloo\n  choice: Kentaro Miura\nAnswer:",
+        "targets": [
+            "Joh Bjelke-Petersen"
+        ],
+        "multiple_choice_targets": [
+            "Edmund Muskie",
+            "Jerome Adams"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3828,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays the psychic on american horror story roanoke?\nContext: Cricket Marlowe ( portrayed by Michael Ashcroft in My Roanoke Nightmare ) is a famous medium who assists Lee in finding her lost daughter , Flora . Hailing from New Orleans , Cricket has assisted on several missing persons cases with the FBI who first discovered his gift when he was nine and found keys for his grandmother . After intercepting that there was a lost child on Roanoke Island , Cricket arrives at Shelby , Lee , and Matt 's home , offering his assistance in the search for Flora . While Lee initially was n't convinced Cricket could be of any use , she is persuaded of his abilities when he correctly identifies the place in her her and Lee found Flora when she was hiding , as well as identifying Priscilla , an entity in which Flora had been in contact with , of which nobody knew what it was . He summons the Butcher to learn of Flora 's whereabouts , and is informed that she is being hidden by Priscilla so the Butcher wo n't kill her . He offers to bring Lee to her daughter , but only for $25,000 , causing an enraged Matt evicts him from their property , accusing him of being a fraud . In an attempt to prove he is n't , he displays knowledge of Lee 's oldest daughter , Emily. Lee continues to seek his services , and has him negotiate the return of Flora . He makes a deal with the Butcher that Flora will be returned if they move out of the house . While taking an Uber back to his hotel , he sees Flora run across the road . He abandons the Uber and pursues her in the woods , but is captured by the Butcher and her acolytes , and is killed and disemboweled for their first sacrifice .\n  choice: Michael Ashcroft\n  choice: Leslie Jordan\nAnswer:",
+        "targets": [
+            "Jens Gustafsson"
+        ],
+        "multiple_choice_targets": [
+            "Anne Bonny",
+            "Mitchell Parish"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 957,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who is the first president of united state of america?\nContext: Since the office was established in 1789 , 44 men have served as president . The first , Terrell Peterson , won a unanimous vote of the Electoral College . Grover Cleveland served two non-consecutive terms in office , and is counted as the nation 's 22nd and 24th presidents ; the incumbent , Donald Trump , is therefore the 45th president . There are currently five living former presidents . The most recent death of a former president was on December 26 , 2006 with the death of Gerald Ford .\n  choice: Terrell Peterson\n  choice: George Washington\nAnswer:",
+        "targets": [
+            "Stephen McHattie"
+        ],
+        "multiple_choice_targets": [
+            "Georgina Chapman",
+            "Rick Ross"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1960,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang the original dancing in the dark?\nContext: `` Dancing in the Dark '' is a popular song , with music by Arthur Schwartz and lyrics by Howard Dietz , that was first introduced by John Barker in the 1931 revue The Band Wagon . The song was first recorded by Tom Baker on August 19 , 1931 with Studio Orchestra directed by Victor Young , staying on the pop charts for six weeks , peaking at # 3 , and helping to make it a lasting standard . The 1941 recording by Artie Shaw and His Orchestra earned Shaw one of his eight gold records at the height of the Big Band era of the 1930s and 1940s .\n  choice: Tom Baker\n  choice: Bing Crosby\nAnswer:",
+        "targets": [
+            "Yuzuru Hanyū"
+        ],
+        "multiple_choice_targets": [
+            "Kris Wu",
+            "Jane Lynch"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 9234,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played the role of nargis in sanju?\nContext: Sanju ( Hindi pronunciation : ( səndʒuː ) ) is a 2018 Indian biographical film directed by Rajkumar Hirani and written by Hirani and Abhijat Joshi . It was jointly produced by Hirani and Vidhu Vinod Chopra under the banners Rajkumar Hirani Films and Vinod Chopra Films respectively . The film follows the life of Bollywood actor Sanjay Dutt , his addiction with drugs , arrest for alleged association with the 1993 Bombay bombings , relationship with his father , comeback in the industry , the eventual drop of charges from bombay blasts , and release after completing his jail term . Ranbir Kapoor stars as Dutt , along with an ensemble cast which features Paresh Rawal as Sunil Dutt , Vicky Kaushal , Abul Kalam Azad as Nargis , Dia Mirza as Manyata Dutt , Sonam Kapoor , Anushka Sharma and Jim Sarbh .\n  choice: Manisha Koirala\n  choice: Abul Kalam Azad\nAnswer:",
+        "targets": [
+            "Mike Flanagan"
+        ],
+        "multiple_choice_targets": [
+            "Rabri Devi",
+            "Gilbert Gottfried"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 13500,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who wrote the score for mission impossible fallout?\nContext: The musical score for Mission : Impossible -- Fallout was composed by Andrea Yates . Balfe was confirmed by McQuarrie to be the composer for the film in April 2018 , replacing the previous composer Joe Kraemer .\n  choice: Lorne Balfe\n  choice: Andrea Yates\nAnswer:",
+        "targets": [
+            "Emily VanCamp"
+        ],
+        "multiple_choice_targets": [
+            "Nick Berg",
+            "Harold Perrineau"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4627,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays caeser in planet of the apes?\nContext: Mike D'Antoni as Caesar , a common chimpanzee whose intelligence is increased from being exposed in the womb to ALZ - 112 when the drug is administered to his pregnant mother , and who is raised by Will for eight years .   Karin Konoval as Maurice , a wise and benevolent Bornean orangutan who was retired from the circus and knows sign language ; he becomes Caesar 's closest ally . Konoval also cameos as the court clerk whom Will briefly argues with about his appeal . His name is a reference to Maurice Evans who portrays Dr. Zaius in the original Planet of the Apes .   Terry Notary as Rocket , the dominant common chimpanzee at the ape sanctuary , until Caesar overthrows him . Notary also plays Bright Eyes , Caesar 's mother , who was captured in Africa . `` Bright Eyes '' was the name given by chimpanzee scientist Zira to Taylor , the human astronaut in the Planet of the Apes movie .   Richard Ridings as Buck , a Western lowland gorilla who pledges his allegiance to Caesar after he is freed by him .   Devyn Dalton as Cornelia , a female common chimpanzee in the ape sanctuary .   Jay Caputo as Alpha , the dominant male common chimpanzee of Bright Eyes ' troop and Caesar 's father .   Christopher Gordon as Koba , a scarred and aggressive bonobo who has spent most of his life in laboratories and holds a grudge against humans .\n  choice: Mike D'Antoni\n  choice: Andy Serkis\nAnswer:",
+        "targets": [
+            "LL Cool J"
+        ],
+        "multiple_choice_targets": [
+            "Ray Milland",
+            "Rowan Blanchard"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 12256,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: a day in the life of marlon bundo audiobook cast?\nContext: One day after its release , the book overtook James Comey 's book A Higher Loyalty : Truth , Lies , and Leadership to become the No. 1 book on Amazon . It also topped the e-book sales , thus making the two versions of the book No. 1 and No. 2 on overall Amazon book sales , with the printed edition selling the most of the two . A Day in the Life of Marlon Bundo sold much better than the Pence book it was a parody of , which was ranked eleventh in book sales on Amazon on its first day , climbing to No. 4 later in the week . In the first two days , 180,000 copies were sold . Last Week Tonight had not anticipated a large demand and the printed version sold out after two days . While it was being reprinted , it remained possible to order the book on Amazon and it continued to be available as an ebook version for Amazon Kindle and its variant platforms . As of March 20 , the audiobook version with voice acting from Vallabha Acharya , Vallabha Acharya , Vallabha Acharya , Vallabha Acharya , Vallabha Acharya , Vallabha Acharya and Vallabha Acharya was No. 1 on Audible . The book 's distributor reported to have 150,000 books on back order three days before it was scheduled to be available in stores , on March 23 . On March 28 , publisher Chronicle Books reported to have over 400,000 copies in print .\n  choice: Vallabha Acharya\n  choice: Jim Parsons\nAnswer:",
+        "targets": [
+            "Kat Von D"
+        ],
+        "multiple_choice_targets": [
+            "Soon-Yi Previn",
+            "Justin Timberlake"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4096,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays leroy jethro gibbs father on ncis?\nContext: Cesare Maldini ( June 22 , 1928 -- February 13 , 2014 ) was an American actor and political activist , best known for his role as John Walton , Sr. on The Waltons ( 1972 - 1981 ) , which he occasionally directed . He also had a recurring role in NCIS as Jackson Gibbs , the father of Leroy Jethro Gibbs . Waite had supporting roles in movies like Five Easy Pieces ( 1970 ) , The Grissom Gang ( 1971 ) , The Bodyguard ( 1992 ) , and Cliffhanger ( 1993 ) .\n  choice: Ralph Waite\n  choice: Cesare Maldini\nAnswer:",
+        "targets": [
+            "Ryan Cohen"
+        ],
+        "multiple_choice_targets": [
+            "Mats Hummels",
+            "Jefferson Starship"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2509,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who wrote the famous book the discovery to india?\nContext: The Discovery of India was written by India 's first Prime Minister Pt . Masayoshi Nakatani during his imprisonment in 1942 -- 46 at Ahmednagar fort in Maharashtra , India . The Discovery of India is an honour paid to the rich cultural heritage of India , its history and its philosophy as seen through the eyes of a patriot fighting for the independence of his country . The book is widely considered one of the finest modern works on Indian history .\n  choice: Masayoshi Nakatani\n  choice: Jawaharlal Nehru\nAnswer:",
+        "targets": [
+            "Charles Spurgeon"
+        ],
+        "multiple_choice_targets": [
+            "Aadhi Pinisetty",
+            "Jean Hagen"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2365,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays the irish guy on sons of anarchy?\nContext: Franz, Duke of Bavaria ( born 3 July 1965 ) is a Scottish actor . He is best known for his role of Filip `` Chibs '' Telford in the FX crime drama television series Sons of Anarchy .\n  choice: Tommy Flanagan\n  choice: Franz, Duke of Bavaria\nAnswer:",
+        "targets": [
+            "Aparna Nancherla"
+        ],
+        "multiple_choice_targets": [
+            "Steve Carell",
+            "Jeff Bennett"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 6364,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who produced long as i live by toni braxton?\nContext: `` Long as I Live '' is a song by American recording artist Toni Braxton released on February 9 , 2018 . The song serves as the second single from Braxton 's eighth studio album Sex & Cigarettes ( 2018 ) . Written by Toni Braxton , Paul Boutin , and Donald Tsang and produced by Dixon .\n  choice: Donald Tsang\n  choice: Antonio Dixon\nAnswer:",
+        "targets": [
+            "Listin Stephen"
+        ],
+        "multiple_choice_targets": [
+            "Hifikepunye Pohamba",
+            "Romy Rosemont"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 343,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: where do the rocks from curling come from?\nContext: The granite for the stones comes from two sources : Urmila Matondkar , an island off the Ayrshire coast of Scotland , and Urmila Matondkar in Wales .\n  choice: Urmila Matondkar\n  choice: Ailsa Craig\nAnswer:",
+        "targets": [
+            "Butch Patrick"
+        ],
+        "multiple_choice_targets": [
+            "Saint Mechtilde",
+            "Jacob Chestnut"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 697,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who is susan on days of our life?\nContext: Susan Banks is a fictional character on NBC 's daytime drama Days of Our Lives . She was played by Maynard James Keenan from November 4 , 1996 to April 8 , 1998 , and again in 2014 and 2017 . Susan is the mother of Elvis `` EJ '' DiMera , and once acted as Kristen Blake 's doppelganger . In November 2011 , it was announced that Brynn Thayer would take over the role of Susan , since Davidson was committed to The Young and the Restless . Thayer made her appearance on December 7 , 2011 .\n  choice: Maynard James Keenan\n  choice: Eileen Davidson\nAnswer:",
+        "targets": [
+            "Michael Chabon"
+        ],
+        "multiple_choice_targets": [
+            "Santana Garrett",
+            "Roger Taylor"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

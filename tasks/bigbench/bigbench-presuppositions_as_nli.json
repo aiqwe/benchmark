@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 123,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: It was hard to think of Larry as being from Wyoming. He had no mystique. Sometimes in the early morning I woke up to the sound of the bells on the lead horses as they came in from the open range. \nSentence 2: I wasn't awake before early morning.\n\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 438,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: All these details result in the three scenes being naturally paralleled to each other. The parallelism itself does not manage to bind the novel's exposition with its denouement by means of the reappearance of the motif in the middle. \nSentence 2: Binding the novel's exposition with its denouement would take effort.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: Kids as young as ten are using illegal bodybuilding drugs to improve their athletic performance as well. A government study from 2000 reported that an average of six out of one hundred twelfth-grade males had used steroids at least once. the study also found that three of one hundred twelfth-grade females had tried them as well. \nSentence 2: three of one hundred eleventh-grade females had tried them as well.\n\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 370,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  Still, after Johnson was fired he didn't get another big league managerial job until the Cincinnati Reds hired him in May 1993. He didn't take them to the NL Championship Series last year before being swept by the Atlanta Braves. \nSentence 2: Johnson was swept by the Atlanta Braves.\n\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 534,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  The company denies that it found any problems with designs for the waste vessels before commissioning their construction. Project manager Craig Albert said Bechtel decided to install one vessel before fixing all the welds because the repairs would be better performed after installation. \nSentence 2: Craig Albert fixed all the welds\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 446,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: The number of outlets selling Huawei globally increased by 116% to 35,000 stores as of May this year, the company said.  That explains why Huawei's operating margins plummeted six percentage points to 12% the first half of this year compared to the same period in 2015. \nSentence 2: Huawei's operating margins somehow plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.\n\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 285,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  After all, once businesses have a full range of tech tools, they don't need to keeping boosting budgets to buy tons of new stuff. They didn't use to change so fast that they lasted only about three years before needing an upgrade. \nSentence 2: They used an upgrade.\n\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 388,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: J. SCOTT TRUBEY AGRICULTURE Bird flu spreads at Minn. turkey farms A ninth Minnesota turkey farm has been hit by a form of bird flu that's deadly to poultry, this time in a large Jennie-O-Turkey Store operation that has 310,000 turkeys, federal authorities and company officials said Wednesday. The U.S. Department of Agriculture said tests confirmed it was the same highly pathogenic H5N2 strain of avian influenza that infected eight other farms in Minnesota, the country's top turkey-producing state. \nSentence 2: Something infected eight other farms in Minnesota.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 186,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: \" I said. I didn't think that she would refuse me. She told me that it wasn't usually the old people who recited things to them in Redtown. \nSentence 2: Vocal people recited things to them in Redtown.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 348,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: Sometimes she came right from the set, still flushed, stinking of sex, in shorts and a halter top, and she held his hand until his racing heart slowed to a regular pace. He didn't like it, his peek into her world; it scared the hell out of him. He didn't know how she did it. \nSentence 2: She did it somehow.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 529,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  Many strands of contemporary thought, including those embraced by \"deep greens\" and the far left, express aspects of such discontent. But it is radical Islam that has become the lightning rod for this fury. \nSentence 2: Something has become the lighting rod for this fury.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 500,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  Many strands of contemporary thought, including those embraced by \"deep greens\" and the far left, express aspects of such discontent. But it is radical Islam that has become the lightning rod for this fury. \nSentence 2: The far left has become the lighting rod for this fury.\n\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 458,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: voice-over Micki wrote to the friend she had not seen since age 12, to find out how Sonia's life had taken such a disastrous turn. Sonia began writing back. \nSentence 2: Sonia's friend didn't write back in the past.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 414,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  \"Let the little children come to me,\" thought Fleur, rubbing her hands over her goosefleshed arms. \"There is no smaller child than I,\" and Fleur let herself heavily down onto the pavement once more, to venture toward the church. \nSentence 2: Fleur is a child.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 566,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: * 28;332;TOOLONG, two science historians, and two forest historians ) each recommended by independent professional associations. All nine on the committee, whose statements will be incorporated into the EIS, pronounced the goats exotic. \nSentence 2: There were nine people on the committee.\n\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 338,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1:  This approach is suitable if TP data are available from a random subset of lakes, and if the percentage of lakes above minimum impact levels is known; the 25th percentile is most appropriate where 75% of the lakes exceed minimal impact levels. In practice, both of these conditions are rarely met (Herlihy and Sifneos 2008). \nSentence 2: Exactly two impacts are being discussed.\n\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 257,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: I was locked up when I was 20 years old--just turned 20 years old, and I'm 42 now. So I've been in a little over 22 years, convicted for rape and sentenced to two life sentences. I understand how I was even brought to court \nSentence 2: I was sentenced to court.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 122,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: Greed exists everywhere, Weber says, but the rational and methodical pursuit of profit is the essence of capitalism, and distinctive to it. And apart from the causal connection between capitalism and modern technology, each phenomenon, considered separately, is driven by the application of rational method to limitless purposes, whether limitless profit or limitless technical achievement. Both purposes Weber discusses do not signify the presence of the inexhaustible, the insatiable, the unappeasable. \nSentence 2: Weber discusses two purposes.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 495,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: Bea Gaddy, activist for the homeless, Baltimore, Maryland A woman who had been with my grandparents for years came to help out with our holiday dinner. As she carried the turkey to the dining table, it didn't fall onto the floor. \nSentence 2: The dining table was not on the floor beforehand.\n\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 198,
+        "inputs": "This is a natural language inference task. There are two sentences in English. The answer is \"entailment\" if the first sentence entails the second, \"contradiction\" if the second sentence contradicts the first, and \"neutral\" if neither is of those two cases holds.\n\n\nSentence 1: Hey, Karyn. That s right. Crowe reunites with director Ron Howard for this one. \nSentence 2: Crowe and Ron Howard hadn't previously worked together.\n\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "neutral",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    }
+]

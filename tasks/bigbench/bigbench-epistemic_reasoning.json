@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 488,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Robert knows that a toddler sits on a stone wall surrounded by fallen leaves. Hypothesis: Richard knows that a little child sits quietly on a hand built rock wall in autumn.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 128,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Amelia suspects that David knows that two men holding a Chinese lantern that's yellow and red, one man has a drill and the other is smiling. Hypothesis: David knows that two men holding a Chinese lantern that's yellow and red, one man has a drill and the other is smiling.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Abigail remembers that three people are riding a carriage pulled by four horses. Hypothesis: Abigail remembers that the people are taking a carriage ride.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1471,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charlotte remembers that Evelyn thinks that two men are standing in a freshly razed field at the boundary of a forest, while a bulldozer sits idling nearby. Hypothesis: Evelyn thinks that two men are standing in a freshly razed field at the boundary of a forest, while a bulldozer sits idling nearby.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1259,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Isabella knows that John assumes that two women wearing ballerina attire are conversing with one another. Hypothesis: John assumes that two women wearing ballerina attire are conversing with one another.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 383,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Taylor assumes that John understands that a woman with a bag, talking on her cellphone, standing on the corner of the street, waiting to cross. Hypothesis: Taylor assumes that a woman with a bag, talking on her cellphone, standing on the corner of the street, waiting to cross.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 738,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: William remembers that Thomas believes that a little boy with a red baseball cap is on a bus with boys with yellow baseball caps on. Hypothesis: Thomas believes that a little boy with a red baseball cap is on a bus with boys with yellow baseball caps on.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1039,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: David learns that Joseph thinks that police are setting up a barricade due to a fire. Hypothesis: Joseph thinks that David learns that police are setting up a barricade due to a fire.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 89,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Abigail believes that Taylor understands that a man is sitting at a restaurant table outdoors. Hypothesis: Taylor understands that a man is sitting at a restaurant table outdoors.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1530,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Abigail assumes that the tennis player spikes the tennis ball on the boundary line. Hypothesis: Abigail assumes that tennis player is playing tennis.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 493,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: John believes that William learns that while one man, in the white cap, is golfing, three other men are in the middle of a conversation. Hypothesis: William learns that while one man, in the white cap, is golfing, three other men are in the middle of a conversation.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1580,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: David assumes that William believes that a woman with a black and white dress on is carrying a green plastic laundry basket in front of an apartment building. Hypothesis: David assumes that a woman with a black and white dress on is carrying a green plastic laundry basket in front of an apartment building.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 273,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: William learns that a man throws his young boy playfully into the air standing on a beach. Hypothesis: Evelyn learns that a stranger is playing on the beach with a boy.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1316,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Richard thinks that Isabella thinks that five young indian girls dress in colorful dresses are holding hands and smiling forming a circle. Hypothesis: Isabella thinks that five young indian girls dress in colorful dresses are holding hands and smiling forming a circle.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1424,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Sophia suspects that Amelia sees that a person lies in a grassy area near a building. Hypothesis: Amelia sees that a person lies in a grassy area near a building.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 129,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Olivia remembers that David assumes that men wearing hats walk on the street. Hypothesis: David assumes that Olivia remembers that men wearing hats walk on the street.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 600,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: William believes that David believes that a woman is leaning against a wall with her shoe off. Hypothesis: David believes that a woman is leaning against a wall with her shoe off.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 646,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Amelia remembers that Evelyn assumes that a little girl in a gray jacket is riding her bicycle. Hypothesis: Evelyn assumes that a little girl in a gray jacket is riding her bicycle.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 969,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charles believes that a dog is running parallel with the ocean waves. Hypothesis: Charles believes that a dog is on the beach.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 391,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Abigail thinks that 3 people are shopping in a market. Hypothesis: David thinks that there are people at a market.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

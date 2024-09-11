@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 10,
+        "inputs": "```\nsum = 0\nfor i in range(100, 0, -2):\n\tsum += i\n```\nWhat is the value of sum at the end of this program?",
+        "targets": [
+            "None"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of x.param at the end of this program?",
+        "targets": [
+            "array([1., 1., 1., 1., 1., 1., 1., 1., 1., 1.])"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11,
+        "inputs": "```\nsum = 0\nfor i in range(100, 0, -2):\n\tsum += i\n```\nWhat is the value of sum at the end of this program?",
+        "targets": [
+            "hellogood morning"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "```\nimport numpy\nx = numpy.zeros(10)\nx += 1\n```\nWhat is the value of x at the end of this program?",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11,
+        "inputs": "```\nsum = 0\nfor i in range(100):\n\tsum += i\n```\nWhat is the value of sum immediately after the 10th time line 3 is executed?",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of x.param at the end of this program?",
+        "targets": [
+            "ValueError: invalid literal for int() with base 10: 'hello'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "```\nx = [1, 2, 3]\nprint(x[4])\n```\nWhat error does this program produce?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11,
+        "inputs": "```\nsum = 0\nfor i in range(100):\n\tsum += i\n```\nWhat is the value of sum immediately after the 10th time line 3 is executed?",
+        "targets": [
+            "2550"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 17,
+        "inputs": "```\ny = list(map(int, ['1', 'hello', '2']))\n```\nWhat error does this program produce?",
+        "targets": [
+            "SyntaxError: invalid syntax"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of y.param at the end of this program?",
+        "targets": [
+            "ValueError: invalid literal for int() with base 10: 'hello'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "```\nd = {1: 'hello', 2: 'bye', 3: 'good morning'}\nstr_ = ''\nfor i in range(len(d)):\n\tif i % 2 == 1:\n\t\tstr_ += d[i]\n```\nWhat is the value of str_ after this program executes?",
+        "targets": [
+            "NameError: name 'numpy' is not defined"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "```\nsum = 0\nfor i in range(100):\n\tsum += i\n```\nWhat is the value of sum immediately after the 10th time line 3 is executed?",
+        "targets": [
+            "NameError: name 'numpy' is not defined"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "```\nx = [1, 2, 3]\nprint(x[4])\n```\nWhat error does this program produce?",
+        "targets": [
+            "None"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of y.param at the end of this program?",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "```\ndef test(x):\n\tfor i in range(2, x**(0.5)):\n\t\tif x % int(i) == 0:\n\t\t\treturn False\n\treturn True\n```\nWhat is test(101)?",
+        "targets": [
+            "ValueError: invalid literal for int() with base 10: 'hello'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 15,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of x.param at the end of this program?",
+        "targets": [
+            "hellogood morning"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "```\nx = [1, 2, 3]\nprint(x[2])\n```\nWhat is the output of this program?",
+        "targets": [
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "```\nx = [2*i for i in range(10)]\n```\nWhat is x[7] after this program executes?",
+        "targets": [
+            "2550"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "```\nclass MyClass():\n\tdef __init__(self, param):\n\t\tself.param = param\nx = MyClass(5)\ny = MyClass(x.param)\n```\nWhat is the value of y.param at the end of this program?",
+        "targets": [
+            "2550"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9,
+        "inputs": "```\nx = [1, 2, 3]\nprint(x[2])\n```\nWhat is the output of this program?",
+        "targets": [
+            "SyntaxError: invalid syntax"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

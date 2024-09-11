@@ -1,0 +1,201 @@
+[
+    {
+        "idx": 35,
+        "inputs": "Q: A fire breaks out on a high rise building and a rescue helicopter is called to the scene. The helicopter is equipped with a rescue basket attached by a strong cable to a winch on the helicopter. The rescue basket is lowered to the roof and some occupants of the top floor escape to the roof and enter the basket. As the helicopter takes off, the cable momentarily makes a 80° angle to the horizontal, imparting a slight horizontal acceleration to the 654-kg basket and occupants across the roof top. The coefficient of friction between the basket and the roof top is 0.6 and the tension in the cable is 5250 N. Determine the acceleration of the basket and occupants.\nA:",
+        "targets": [
+            "7.22 m/s/s",
+            "7.2 m/s/s",
+            "7 m/s/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: A California Condor is approaching its nest with a large chunk of carrion in its beak. As it approaches, it makes an upward swoop, achieving a momentary upward velocity of 9.4 m/s when the carrion falls from its mouth, hitting a cliff outcropping 45.4 m below. Determine the speed of the carrion upon hitting the outcropping.\nA:",
+        "targets": [
+            "1100.1 J",
+            "1100 J"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: A 0.25-kg model rocket accelerates at 58 m/s/s on takeoff. Determine the upward thrust experienced by the rocket.\nA:",
+        "targets": [
+            "9.16 J",
+            "9.2 J",
+            "9 J"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 23,
+        "inputs": "Q: An African elephant can reach heights of 3.96 meters and possess a mass of as much as 6000 kg. Determine the weight of an African elephant in Newtons.\nA:",
+        "targets": [
+            "7.22 m/s/s",
+            "7.2 m/s/s",
+            "7 m/s/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: Ima Rilla Saari rushes to her car in order to hurry home and get dressed for work. Failing to realize the dangers of driving under slick and icy conditions, she collides her 950-kg Mazda Miata into the rear of a 2600-kg pick-up truck which was at rest at the light on Lake Avenue. Ima's pre-collision speed was 11.5 m/s. Determine the post-collision speed of the two entangled cars as they slide across the ice.\nA:",
+        "targets": [
+            "58800 N"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: During an in-class demonstration of momentum change and impulse, Mr. H asks Jerome (67 kg) and Michael (82 kg) to sit on a large 18-kg skate cart. Mr. H asks Suzie (45 kg) to sit on a second 10-kg skate cart. The two carts are placed on low friction boards in the hallway. Jerome pushes off of Suzie's cart. Measurements are made to determine that Suzie's cart acquired a post-impulse speed of 7.2 m/s. Determine the expected recoil speed of Jerome and Michael's cart.\nA:",
+        "targets": [
+            "9.16 J",
+            "9.2 J",
+            "9 J"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: The custodians clean the field house gym floor between games at the annual Holiday Basketball Classic. Chuck exerts a force on a 1.25-kg push broom as he walks across the floor at a constant speed. The coefficient of friction between the floor and the broom is 0.4 and the broom handle makes an angle of 35° with the horizontal. Determine the amount of force with which Chuck pushes downward (along the handle of the broom) in order to achieve this constant speed motion.\nA:",
+        "targets": [
+            "11.46 kg",
+            "11.5 kg",
+            "12 kg"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: \nA:",
+        "targets": [
+            "5.01 m/s",
+            "5.0 m/s",
+            "5 m/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 36,
+        "inputs": "Q: The custodians clean the field house gym floor between games at the annual Holiday Basketball Classic. Chuck exerts a force on a 1.25-kg push broom as he walks across the floor at a constant speed. The coefficient of friction between the floor and the broom is 0.4 and the broom handle makes an angle of 35° with the horizontal. Determine the amount of force with which Chuck pushes downward (along the handle of the broom) in order to achieve this constant speed motion.\nA:",
+        "targets": [
+            "85 mi"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 29,
+        "inputs": "Q: During their physics field trip to the amusement park, Tyler and Maria took a rider on the Whirligig. The Whirligig ride consists of long swings which spin in a circle at relatively high speeds. As part of their lab, Tyler and Maria estimate that the riders travel through a circle with a radius of 5.7 m and make one turn every 7.1 seconds. Determine the speed of the riders on the Whirligig.\nA:",
+        "targets": [
+            "165 kg",
+            "165.1 kg"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: Helen is parasailing. She sits in a seat harness which is attached by a tow rope to a speedboat. The rope makes an angle of 62° with the horizontal and has a tension of 300 N. Determine the horizontal components of the tension force.\nA:",
+        "targets": [
+            "165 kg",
+            "165.1 kg"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 37,
+        "inputs": "Q: \nA:",
+        "targets": [
+            "7.22 m/s/s",
+            "7.2 m/s/s",
+            "7 m/s/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 32,
+        "inputs": "Q: Aaron Agin nodded off while driving home from play practice this past Sunday evening. His 1650-kg car hit a series of guardrails while moving at 18.5 m/s. The first guard rail delivered a resistive impulse of 4780 N*s. The second guard rail pushed against his car with a force of 84000 N for 0.1 seconds. The third guard rail collision lowered the car's velocity by 2.6 m/s. Determine the final velocity of the car.\nA:",
+        "targets": [
+            "0.9 m"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: An African elephant can reach heights of 3.96 meters and possess a mass of as much as 6000 kg. Determine the weight of an African elephant in Newtons.\nA:",
+        "targets": [
+            "25.2 m/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: During an in-class demonstration of momentum change and impulse, Mr. H asks Jerome (67 kg) and Michael (82 kg) to sit on a large 18-kg skate cart. Mr. H asks Suzie (45 kg) to sit on a second 10-kg skate cart. The two carts are placed on low friction boards in the hallway. Jerome pushes off of Suzie's cart. Measurements are made to determine that Suzie's cart acquired a post-impulse speed of 7.2 m/s. Determine the expected recoil speed of Jerome and Michael's cart.\nA:",
+        "targets": [
+            "268 N"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: Hector is walking his dog (Fido) around the neighborhood. Upon arriving at Fidella's house (a friend of Fido's), Fido turns part mule and refuses to continue on the walk. Hector yanks on the chain with a 72.0 N force at an angle of 35.0° above the horizontal. Determine the horizontal components of the tension force.\nA:",
+        "targets": [
+            "141 N",
+            "140.8 N"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "Q: A fire breaks out on a high rise building and a rescue helicopter is called to the scene. The helicopter is equipped with a rescue basket attached by a strong cable to a winch on the helicopter. The rescue basket is lowered to the roof and some occupants of the top floor escape to the roof and enter the basket. As the helicopter takes off, the cable momentarily makes a 80° angle to the horizontal, imparting a slight horizontal acceleration to the 654-kg basket and occupants across the roof top. The coefficient of friction between the basket and the roof top is 0.6 and the tension in the cable is 5250 N. Determine the acceleration of the basket and occupants.\nA:",
+        "targets": [
+            "25.2 m/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: About twenty percent of the National Football League weighs more than 300 pounds. At this weight, their Body Mass Index (BMI) places them at Grade 2 obesity, which is one step below morbid obesity. Determine the mass of a 364 pound football player in kg.\nA:",
+        "targets": [
+            "116.6 kg*m/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6,
+        "inputs": "Q: Hans Full is pulling on a rope to drag his backpack to school across the ice. He pulls upwards and rightwards with a force of 16.7 Newtons at an angle of 18 degrees above the horizontal to drag his backpack a horizontal distance of 72 meters to the right. Determine the work (in Joules) done upon the backpack.\nA:",
+        "targets": [
+            "116.6 kg*m/s"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 23,
+        "inputs": "Q: An African elephant can reach heights of 3.96 meters and possess a mass of as much as 6000 kg. Determine the weight of an African elephant in Newtons.\nA:",
+        "targets": [
+            "141 N",
+            "140.8 N"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "idx": 53,
+        "inputs": "Q: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "09/06/2003"
+        ],
+        "multiple_choice_targets": [
+            "04/10/1984",
+            "04/12/1986",
+            "04/10/1985",
+            "04/07/1985",
+            "03/10/1986",
+            "05/13/1985"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 283,
+        "inputs": "Q: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date a month ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "09/15/2021"
+        ],
+        "multiple_choice_targets": [
+            "02/16/2009",
+            "02/16/2004",
+            "08/16/2009",
+            "01/26/2009",
+            "03/13/2009",
+            "02/15/2009"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 175,
+        "inputs": "Q: Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date a month ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "09/06/2003"
+        ],
+        "multiple_choice_targets": [
+            "11/04/2019",
+            "03/04/2020",
+            "10/30/2019",
+            "02/04/2020",
+            "11/07/2019",
+            "11/04/2103"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 128,
+        "inputs": "Q: The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?\nA:",
+        "targets": [
+            "12/30/1899"
+        ],
+        "multiple_choice_targets": [
+            "02/06/2010",
+            "02/06/1967",
+            "01/06/2010",
+            "01/27/2010",
+            "01/31/2010",
+            "02/06/1984"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one year ago from today in MM/DD/YYYY?\nA:",
+        "targets": [
+            "01/02/1961"
+        ],
+        "multiple_choice_targets": [
+            "03/02/1965",
+            "03/02/2012",
+            "11/02/1964",
+            "03/01/1965",
+            "01/07/1965",
+            "03/12/1965"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 82,
+        "inputs": "Q: Today is the last day of the first quarter of 2008. What is the date tomorrow in MM/DD/YYYY?\nA:",
+        "targets": [
+            "02/29/2008"
+        ],
+        "multiple_choice_targets": [
+            "06/12/2019",
+            "08/25/2019",
+            "06/12/2022",
+            "06/13/2019",
+            "06/11/2019",
+            "03/24/2019"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 24 hours later in MM/DD/YYYY?\nA:",
+        "targets": [
+            "03/05/1973"
+        ],
+        "multiple_choice_targets": [
+            "02/17/2010",
+            "02/14/2010",
+            "02/26/2010",
+            "11/17/2009",
+            "02/17/2096",
+            "02/16/2010"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?\nA:",
+        "targets": [
+            "02/29/2008"
+        ],
+        "multiple_choice_targets": [
+            "11/15/2002",
+            "11/15/2009",
+            "02/10/2003",
+            "11/15/1961",
+            "12/06/2002",
+            "12/13/2002"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 65,
+        "inputs": "Q: Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY?\nA:",
+        "targets": [
+            "01/31/2012"
+        ],
+        "multiple_choice_targets": [
+            "08/04/2002",
+            "10/22/2002",
+            "06/03/2002",
+            "08/03/2002",
+            "07/04/2003",
+            "08/04/1930"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 183,
+        "inputs": "Q: Today is 9/7. Jane is watching NFL 2003. What is the date one week ago from today in MM/DD/YYYY?\nA:",
+        "targets": [
+            "12/22/2014"
+        ],
+        "multiple_choice_targets": [
+            "04/10/1985",
+            "04/11/1985",
+            "04/13/1985",
+            "04/07/1985",
+            "03/10/1986",
+            "01/02/2071"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 286,
+        "inputs": "Q: Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "02/12/2002"
+        ],
+        "multiple_choice_targets": [
+            "11/15/1933",
+            "11/06/1933",
+            "11/21/1933",
+            "11/15/1936",
+            "11/15/1860",
+            "11/14/1933"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "Q: Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 10 days ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "02/03/2020"
+        ],
+        "multiple_choice_targets": [
+            "12/24/1936",
+            "10/24/1936",
+            "01/10/1937",
+            "03/24/1936",
+            "12/24/1862",
+            "12/29/1936"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 210,
+        "inputs": "Q: 2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?\nA:",
+        "targets": [
+            "03/01/2016"
+        ],
+        "multiple_choice_targets": [
+            "04/26/2002",
+            "04/26/2007",
+            "04/25/2002",
+            "04/18/2002",
+            "05/01/2002",
+            "08/26/2001"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 195,
+        "inputs": "Q: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date yesterday in MM/DD/YYYY?\nA:",
+        "targets": [
+            "04/30/2021"
+        ],
+        "multiple_choice_targets": [
+            "05/06/2002",
+            "05/06/1912",
+            "05/06/2095",
+            "08/06/2002",
+            "05/06/1964",
+            "05/06/1935"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 235,
+        "inputs": "Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one year ago from today in MM/DD/YYYY?\nA:",
+        "targets": [
+            "07/08/1972"
+        ],
+        "multiple_choice_targets": [
+            "03/31/1985",
+            "04/10/1986",
+            "04/13/1985",
+            "04/07/1985",
+            "03/10/1986",
+            "05/13/1985"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: Today is the second day of the third month of 1966. What is the date tomorrow in MM/DD/YYYY?\nA:",
+        "targets": [
+            "11/25/1933"
+        ],
+        "multiple_choice_targets": [
+            "06/18/2016",
+            "06/25/2016",
+            "06/22/2016",
+            "09/18/2016",
+            "07/18/2015",
+            "06/18/2030"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: Today is the second day of the third month of 1966. What is the date 24 hours later in MM/DD/YYYY?\nA:",
+        "targets": [
+            "01/07/2018"
+        ],
+        "multiple_choice_targets": [
+            "05/04/2004",
+            "05/11/2004",
+            "05/03/2004",
+            "04/28/2004",
+            "05/04/2005",
+            "05/05/2004"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 274,
+        "inputs": "Q: 2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?\nA:",
+        "targets": [
+            "05/23/1943"
+        ],
+        "multiple_choice_targets": [
+            "04/10/1984",
+            "04/12/1986",
+            "04/10/1985",
+            "04/07/1985",
+            "03/10/1986",
+            "05/13/1985"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 91,
+        "inputs": "Q: Today is 9/7. Jane is watching NFL 2003. What is the date yesterday in MM/DD/YYYY?\nA:",
+        "targets": [
+            "01/01/2008"
+        ],
+        "multiple_choice_targets": [
+            "09/08/1909",
+            "08/11/1909",
+            "07/24/1909",
+            "09/08/1962",
+            "09/09/1909",
+            "09/15/1909"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 176,
+        "inputs": "Q: Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week from today in MM/DD/YYYY?\nA:",
+        "targets": [
+            "05/01/2021"
+        ],
+        "multiple_choice_targets": [
+            "05/05/2004",
+            "05/07/2004",
+            "05/06/2004",
+            "06/10/2004",
+            "03/18/2004"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]

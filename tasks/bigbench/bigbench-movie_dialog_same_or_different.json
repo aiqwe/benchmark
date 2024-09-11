@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 38211,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: There are two million people in there with you. Yes. They have nothing to do with this -- -- Two million people lost in the digital night. What do they seek? ----- In the preceding conversation, were the sentences \"There are two million people in there with you.\" and \"Yes.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25771,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Thought it was my week for that. I needed to think. It was either this or the weather channel. ----- In the preceding conversation, were the sentences \"I needed to think.\" and \"It was either this or the weather channel.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25812,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Nick, he just came back. From Nam? Fucking A. See that ribbon in the left. That's Quan Son. That fucking guy was at Quan Son! ----- In the preceding conversation, were the sentences \"See that ribbon in the left.\" and \"That's Quan Son.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3526,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Got to be Comb Bluff. Acknowledge. Winds are too strong to get a chopper up there, Are you near any natural shelter? Over. ----- In the preceding conversation, were the sentences \"Got to be Comb Bluff.\" and \"Acknowledge.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3701,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: What? What are you doing, Keitel Blacksmith? Get away, Snorri. What have you got there? ----- In the preceding conversation, were the sentences \"Get away, Snorri.\" and \"What have you got there?\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 19690,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: You don't want to know. You called Caitlin again? She called me. Did you tell Veronica? One fight a day with Veronica is about all I can stomach, thanks. What do you two fight about? I guess it's not really fighting. She just wants me to leave here, go back to school, get some direction. I'll bet the most frequent topic of arguments is Caitlin Bree. You win. I'm going to offer you some advice, my friend: let the past be the past. Forget Caitlin Bree. You've been with Veronica for how long now? Seven months. Chick's nuts about you. How long did you date Caitlin? Five years. Chick only made you nuts. She cheated on you how many times? Eight and a half. Eight and a half? Party at John K's-senior year. I get blitzed and pass out in his bedroom. Caitlin comes in and dives all over me. That's cheating? In the middle of it, she calls me Brad. She called you Brad? She called me Brad. That's not cheating. People say crazy shit during sex. One time, I called this girl \"Mom.\" I hit the lights and she freaks. Turns out she thought I was Brad Michaelson. What do you mean? She was supposed to meet Brad Michaelson in a bedroom. She picked the wrong one. She had no idea I was even at the party. Oh, my God. Great story, isn't it? That girl was vile to you. Interesting postscript to that story: Do you know who wound up going with Brad Michaelson in the other dark bedroom? Your mother. Allan Harris. Chess team Allan Harris? ! The two moved to Idaho together after graduation. They raise sheep. That's frightening. It takes different strokes to move the world. In light of this lurid tale, I don't see how you could even romanticize your relationship with Caitlin-she broke your heart and inadvertently drove men to deviant lifestyles. Because there was a lot of good in our relationship. Oh yeah. I'm serious. Aside from the cheating, we were a great couple. That's what high school's all about-algebra, bad lunch, and infidelity. You think things would be any different now? They are. When she calls me now, she's a different person-she's frightened and vulnerable. She's about to finish college and enter the real world. That's got to be scary for anyone. Oh shit, I've got to place an order. I'm talking to myself here. No, no, I'm listening. She's leaving college, and...? ...and she's looking to me for support. And I think that this is leading our relationship to a new level. What about Veronica? I think the arguments Veronica and I are having are some kind of manifestation of a subconscious desire to break away from her so that I can pursue the possibility of a more meaningful relationship with Caitlin. Caitlin's on the same wave-length? I think it's safe to say yes. Then I think all four of you had better sit down and talk it over. All four? You, Veronica, Caitlin...  ...and Caitlin's fiancé. ----- In the preceding conversation, were the sentences \"Forget Caitlin Bree.\" and \"You've been with Veronica for how long now?\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 23851,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: This is the LAPD, if anyone is in the closet I want you to come out and show yourself to me, slowly and with your hands up -- THERE'S NO ONE IN THERE! Marcie - quiet down! Now if anyone is in the closet, come out now -- THERE'S NO ONE IN MY MOTHERFUCKIN CLOSET AND STAY OUT OF MY BEDROOM, STAY OUT OF MY GOD DAMN BEDROOM. -- do not do this -- my gun is drawn and If I Have To Open That Closet you will get shot -- Step Out Now. ----- In the preceding conversation, were the sentences \"Marcie - quiet down!\" and \"Now if anyone is in the closet, come out now --\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 27237,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: No, I said I'm never goin' to bed. There's a difference. See, the article says most people die in their beds. I figure long as I stay outta bed, I'm safe. That's the dumbest thing I ever heard. Where do you sleep? In an armchair. Or I go to a coffee shop, sleep there. Sit in a booth, pull my hat down. ----- In the preceding conversation, were the sentences \"See, the article says most people die in their beds.\" and \"I figure long as I stay outta bed, I'm safe.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 39039,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Hold out your hands. I didn't come here to get my palms read. I need something translated. Show me. ----- In the preceding conversation, were the sentences \"I didn't come here to get my palms read.\" and \"I need something translated.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 28879,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: We should stay here until we can define the extent of our changes... This place is deluxe. You got cable? ...and figure out how to reverse them. Let me show you to your rooms. ----- In the preceding conversation, were the sentences \"You got cable?\" and \"...and figure out how to reverse them.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 23628,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: They show extreme intelligence, even problem solving. Especially the big one. We bred eight originally, but when she came in, she took over the pride and killed all but two of the others. That one - -when she looks at you, you can see she's thinking  working things out. She's the reason we have to feed 'em like this. She had them all attacking the fences when the feeders came. The fences are electrified, right? That's right. But they never attack the same place twice. They were testing the fences for weaknesses. Systematically. They remembered. ----- In the preceding conversation, were the sentences \"She had them all attacking the fences when the feeders came.\" and \"The fences are electrified, right?\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2420,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: How the hell long it take <u>you</u> to change a tire? Just about too damn long. Bolt pattern's probably wrong anyway. We need another plan. ----- In the preceding conversation, were the sentences \"How the hell long it take <u>you</u> to change a tire?\" and \"Just about too damn long.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 39659,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Well kids...have the bans been announced yet? Don't be smart. I'm not smart...I'm stupid, remember. I'm so stupid that you have to look out for me, remember? ----- In the preceding conversation, were the sentences \"Well kids...have the bans been announced yet?\" and \"Don't be smart.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 21342,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Eddie, is it all right if I get personal? Whaddya been so far? Eddie, you're a born loser. What's that supposed to mean? First time in ten years I ever saw Minnesota Fats hooked, really hooked. But you let him off. I told you. I got drunk. Sure, you got drunk. That's the best excuse in the world for losing. No trouble losing when you got a good excuse. And winning! That can be heavy on your back too. Like a monkey. You drop that load too when you got an excuse. All you gotta do is learn to feel sorry for yourself. It's one of the best indoor sports: feeling sorry for yourself -- a sport enjoyed by all, especially the born losers. Thanks for the drink. Wait a minute. Maybe I can help you. To do what? Get the three thousand. Play Minnesota Fats again. Why? Ten reasons. Maybe fifteen. And also there's something in it for me. Oh yeah, I figured that. How much? Seventy-five per cent. For who? For me. That's a -- that's a pretty big slice. Who do you think you are, General Motors? How much you think you're worth these days? I'm puttin' up the money, I'm puttin' up the time. For that I get seventy-five per cent return on my money -- if you win. You think I can lose? I never saw you do anything else. You saw me beat Minnesota Fats for eighteen thousand dollars. Look, you wanna hustle pool, don't you? This game isn't like football. Nobody pays you for yardage. When you hustle you keep score real simple. The end of the game you count up your money. That's how you find out who's best. That's the only way. Why back me then? Why not back yourself? Go find yourself a big fat poker game and get rich. You know all the angles. I'm already rich. But I like action. That's one thing I think you're good for is action. Besides, like I say... you got talent. Yeah, you already told me that. You cut that slice down to bite-size and maybe we can talk. No, we don't talk. I don't make bad bets. Seventy-five, twenty-five. That's it. Kiss off. ----- In the preceding conversation, were the sentences \"Like a monkey.\" and \"You drop that load too when you got an excuse.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 620,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: You better watch yourself. There's a lot of heat on you already. Why, somebody's complaining? I'm - I'm hearin' things from security. They're all ex-cops. The Sheriff's lookin' to bust your balls. They want to put you in the Black Book. That Black Book is a bunch of bullshit. They got two names in there for the whole country and one of them is still Al Capone. Bullshit or no bullshit, they put you in that book, you're gonna be in a lot of trouble. You will not be able to walk into the casino. I'm tellin' you. What am I doin' out here? I'm tryin' to make a livin', that's all. I'm just tellin' you. Don't say I didn't warn you. All right. ----- In the preceding conversation, were the sentences \"You better watch yourself.\" and \"There's a lot of heat on you already.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14214,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: We're alike. We are hunters. We have the gift. It's ancient times all over again. We stand between order and chaos. I need help. I can't carry on alone. Maybe you should back off. This guy, Zero, he drifts around, that's how they all start, drifting around, their minds filling up with fantasies. He thinks he's real smart, laughs at us, laughs at his victims. But he has left a trail, and the trail is somewhere in those names. You know how to reach me. Take my advice, when dealing with these FBI tight-asses, go by the book. That's what I did. You? You went by the book? Yeah, problem was, I had the only copy. See ya. ----- In the preceding conversation, were the sentences \"It's ancient times all over again.\" and \"We stand between order and chaos.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 33378,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: Not anymore, Mr. O'Brien. The nanobot has changed that. If you think I would ever give you the nanobot after this, you are deluding yourself. You don't have to give it to us because Dr. Nebbleman can just cut it out of him. ----- In the preceding conversation, were the sentences \"If you think I would ever give you the nanobot after this, you are deluding yourself.\" and \"You don't have to give it to us because Dr. Nebbleman can just cut it out of him.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 27570,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: It's still on. What? His camera... it's still recording. ----- In the preceding conversation, were the sentences \"What?\" and \"His camera... it's still recording.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 28479,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: You see, I've got this honest streak in me -- in its own way, a sort of curse. Oh, and there's the fact that you have no choice. I'll torture it out of you. You left me on a desert island -- what worse can you do? ----- In the preceding conversation, were the sentences \"I'll torture it out of you.\" and \"You left me on a desert island -- what worse can you do?\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 23573,
+        "inputs": "The following is a conversation between two people, but the transcript doesn't mark who said what: What does it say? Let this locket be a token of the vow we took the night I left. He's coming home to marry me. ----- In the preceding conversation, were the sentences \"Let this locket be a token of the vow we took the night I left.\" and \"He's coming home to marry me.\" said by the same or different individuals?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "idx": 49,
+        "inputs": "paraphrase: \nQ: He can't bear novelty or originalities. option: He can't endure novelty or originalities. option: He can't support novelty or originalities. option: He can't carry novelty or originalities. option: He can't produce novelty or originalities.\nA:",
+        "targets": [
+            "The Scarman Report, for example, contained the following policy proposal …."
+        ],
+        "multiple_choice_targets": [
+            "Women marry and use their husband's last names.",
+            "Women marry and convert their names.",
+            "Women marry and replace their names.",
+            "Women marry and transfer their names."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "paraphrase: \nQ: He looked neither one way nor the other way but sat like a carved image. option: He looked neither one way nor the other way but sat for a long time. option: He looked neither one way nor the other way but sat with his eyes closed. option: He looked neither one way nor the other way but sat completely still. option: He looked neither one way nor the other way but sat next to the painting.\nA:",
+        "targets": [
+            "I think we might be able to manage that."
+        ],
+        "multiple_choice_targets": [
+            "He joined William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
+            "He attached William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
+            "He entered William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
+            "He connected William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 36,
+        "inputs": "paraphrase: \nQ: She didn't buy any toys for Josh because she had decided to open a toy shop. option: She didn't buy any toys for Josh because she had decided to let a toy shop start admitting customers. option: She didn't buy any toys for Josh because she had decided to start a toy shop. option: She didn't buy any toys for Josh because she had decided to inaugurate a toy shop. option: She didn't buy any toys for Josh because she had decided to let a toy shop start allowing customers in.\nA:",
+        "targets": [
+            "I have not yet joined the party."
+        ],
+        "multiple_choice_targets": [
+            "Like most shows, this one will probably fail.",
+            "Like most shows, this one probably will not succeed in it.",
+            "Like most shows, this one will probably not be successful.",
+            "Like most shows, this one will probably malfunction."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "paraphrase: \nQ: So in 1911 Steel-Maitland offered to join the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to become part of the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to enter the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to attach the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to come with the Halsbury Club and was accused of disloyalty by Walter Long.\nA:",
+        "targets": [
+            "So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could manage to think a bit more positively."
+        ],
+        "multiple_choice_targets": [
+            "He is in such a hurry that he runs extremely fast",
+            "He is in such a hurry that he travels on a plane",
+            "He is in such a hurry that he runs to the airport",
+            "He is in such a hurry that he uses a helicopter"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 58,
+        "inputs": "paraphrase: \nQ: His condescending attitude made me really angry. option: His condescending attitude made my blood clutter. option: His condescending attitude made my heart boil. option: His condescending attitude made my blood boil. option: His condescending attitude made my blood vanish.\nA:",
+        "targets": [
+            "to let a new category become available"
+        ],
+        "multiple_choice_targets": [
+            "a man who can not endure the fact",
+            "a man who can not contain the fact",
+            "a man who can not support the fact",
+            "a man who can not retain the fact"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "paraphrase: \nQ: He felt a dark sexual desire option: He felt a sincere and sinless sexual desire option: He felt an obscure and disquieting sexual desire option: He felt a common and warm sexual desire option: He felt an immature and good-natured sexual desire\nA:",
+        "targets": [
+            "I knew almost nothing about physics but we shared some jokes about the Rome telephone system."
+        ],
+        "multiple_choice_targets": [
+            "It may also be possible to claim damages against a local authority for negligently not succeeding in ensuring that.",
+            "It may also be possible to claim damages against a local authority for being negligently unable to ensure that.",
+            "It may also be possible to claim damages against a local authority for negligently doing badly in ensuring that.",
+            "It may also be possible to claim damages against a local authority for faltering negligently."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 80,
+        "inputs": "paraphrase: \nQ: And now they were leaking all kinds of documents option: And now all kinds of documents were being disclosed option: And now all kinds of documents were being written option: And now all kinds of documents were being announced option: And now all kinds of documents were being presented\nA:",
+        "targets": [
+            "His Lordship reached that decision without enthusiasm."
+        ],
+        "multiple_choice_targets": [
+            "He is in such a hurry that he runs extremely fast",
+            "He is in such a hurry that he travels on a plane",
+            "He is in such a hurry that he runs to the airport",
+            "He is in such a hurry that he uses a helicopter"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "paraphrase: \nQ: That they shared, along with all other participants in the crusade, a fervent devotion is certain. option: That they and all other participants in the crusade told each other about a fervent devotion is certain. option: That they, along with all other participants in the crusade, manifested the same fervent devotion is certain. option: That a fervent devotion was divide between them and all other participants in the crusade is certain. option: That they had in common, along with all other participants in the crusade, a fervent devotion is certain.\nA:",
+        "targets": [
+            "The Conservative manifesto contained a commitment."
+        ],
+        "multiple_choice_targets": [
+            "It may also be possible to claim damages against a local authority for negligently failing to ensure that.",
+            "It may also be possible to claim damages against a local authority for being negligently unable to ensure that.",
+            "It may also be possible to claim damages against a local authority for negligently doing badly in ensuring that.",
+            "It may also be possible to claim damages against a local authority for faltering negligently."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "paraphrase: \nQ: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could succeed in thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could afford to think a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could organise thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could administer thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could manage to think a bit more positively.\nA:",
+        "targets": [
+            "You ought to keep them wooden type of things for it."
+        ],
+        "multiple_choice_targets": [
+            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably changes its number at the top of a hill to D115.",
+            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably replaces its number at the top of a hill to D115.",
+            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably converts its number at the top of a hill to D115.",
+            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably puts on a different number at the top of a hill to D115."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "paraphrase: \nQ: The Scarman Report, for example, included the following policy proposal …. option: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, controlled the following policy proposal ….\nA:",
+        "targets": [
+            "Initially the analyst does all the work, encouraging the user towards a system he thinks is right for the business."
+        ],
+        "multiple_choice_targets": [
+            "He knew how to write sweet words",
+            "He knew how to write sour words",
+            "He knew how to write bitter words",
+            "He knew how to write spicy words"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "paraphrase: \nQ: So in 1911 Steel-Maitland offered to join the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to become part of the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to enter the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to attach the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to come with the Halsbury Club and was accused of disloyalty by Walter Long.\nA:",
+        "targets": [
+            "He looked neither one way nor the other way but sat like a carved image."
+        ],
+        "multiple_choice_targets": [
+            "the right to govern their own sex lives",
+            "the right to operate their own sex lives",
+            "the right to prevent their own sex lives",
+            "the right to manage their own sex lives"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 61,
+        "inputs": "paraphrase: \nQ: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to provide a visual example of Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to demonstrate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to illustrate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to decorate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to draw pictures in Lombroso's theory.\nA:",
+        "targets": [
+            "During the conflict the seeds of peace were planted."
+        ],
+        "multiple_choice_targets": [
+            "He was worried they might tell everything about him",
+            "He was worried they might drown him",
+            "He was worried they might be mad at him",
+            "He was worried they might end his life"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 44,
+        "inputs": "paraphrase: \nQ: He felt a dark sexual desire option: He felt a sincere and sinless sexual desire option: He felt an obscure and disquieting sexual desire option: He felt a common and warm sexual desire option: He felt an immature and good-natured sexual desire\nA:",
+        "targets": [
+            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably changes its number at the top of a hill to D115."
+        ],
+        "multiple_choice_targets": [
+            "a good enough reason to transform his mind",
+            "a good enough reason to convert his mind",
+            "a good enough reason to replace his mind",
+            "a good enough reason to transfer his mind"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "paraphrase: \nQ: He said the NHS should discuss more about the needs of cancer patients. option: He said the NHS should communicate the needs of cancer patients to itself. option: He said the NHS should speak more to the public about the needs of cancer patients. option: He said the NHS should address itself more to the needs of cancer patients. option: He said the NHS should label itself more with the needs of cancer patients.\nA:",
+        "targets": [
+            "It may also be possible to claim damages against a local authority for negligently failing to ensure that."
+        ],
+        "multiple_choice_targets": [
+            "I think we might be able to manage that.",
+            "I think we might be able to organise that.",
+            "I think we might be able to schedule that.",
+            "I think we might be able to afford that."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 61,
+        "inputs": "paraphrase: \nQ: This is not an office block, nor a church—although its sublime form might give rise to the idea that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might propose that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might suggest that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might imply that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might recommend that its architect was adept at designing cathedrals.\nA:",
+        "targets": [
+            "You've got four hundred pound really to play with."
+        ],
+        "multiple_choice_targets": [
+            "He had a lot of memories to unload.",
+            "He had no memories to unload.",
+            "He had specific memories to unload.",
+            "He had new memories to unload."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "paraphrase: \nQ: He felt a wave of excitement option: He felt barely any excitement option: He felt very little excitement option: He felt an intense excitement option: He felt subtle excitement\nA:",
+        "targets": [
+            "Just before the court was due to preside over the request her solicitor received a cheque for £2,400."
+        ],
+        "multiple_choice_targets": [
+            "He felt a sudden red pain through his leg",
+            "He felt a sudden light pain through his leg.",
+            "He felt a sudden soft pain through his leg",
+            "He felt a sudden weak pain through his leg"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 32,
+        "inputs": "paraphrase: \nQ: 'If totalization really is an ongoing process', Sartre writes, 'then it takes effect everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it functions everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it works everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it does surgery everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it operates everywhere.'\nA:",
+        "targets": [
+            "He said the leaders will have to deal with a large amount of resentment"
+        ],
+        "multiple_choice_targets": [
+            "I have not yet been inducted into the party.",
+            "I have not yet attached the party.",
+            "I have not yet connected the party.",
+            "I have not been with the party yet."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "paraphrase: \nQ: The Scarman Report, for example, included the following policy proposal …. option: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, controlled the following policy proposal ….\nA:",
+        "targets": [
+            "He felt an obscure and disquieting sexual desire"
+        ],
+        "multiple_choice_targets": [
+            "They were, however, an all-White group, working without directly involving parents and were generally committed to specialist care in the community.",
+            "They were, however, an all-White group, doing surgery without directly involving parents and were generally committed to specialist care in the community.",
+            "They were, however, an all-White group, taking effect without directly involving parents and were generally committed to specialist care in the community.",
+            "They were, however, an all-White group, functioning without directly involving parents and were generally committed to specialist care in the community."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "paraphrase: \nQ: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, controlled the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, included the following policy proposal ….\nA:",
+        "targets": [
+            "cutting where the stem comes with the main branch"
+        ],
+        "multiple_choice_targets": [
+            "He was received warmly",
+            "He was received quickly",
+            "He was received slowly",
+            "He was received softly"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 88,
+        "inputs": "paraphrase: \nQ: the right to govern their own sex lives option: the right to manage their own sex lives option: the right to prevent their own sex lives option: the right to control their own sex lives option: the right to operate their own sex lives\nA:",
+        "targets": [
+            "He looked neither one way nor the other way but sat completely still."
+        ],
+        "multiple_choice_targets": [
+            "You've got four hundred pound really to do something with.",
+            "You've got four hundred pound really to enjoy yourself with.",
+            "You've got four hundred pound really to perform music with.",
+            "You've got four hundred pound really to compete with."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+]

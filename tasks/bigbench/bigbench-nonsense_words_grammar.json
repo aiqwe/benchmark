@@ -1,0 +1,409 @@
+[
+    {
+        "idx": 7,
+        "inputs": "Q: Does the following sentence describe events which take place in the past, present, or future? The widdtrance holofolors will filfeyatrim quilliancerously.\nA:",
+        "targets": [
+            "2"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: Which word in the following sentence is a verb? Some oywoyami are prillecent every time they caterethen.\nA:",
+        "targets": [
+            "Pottishive"
+        ],
+        "multiple_choice_targets": [
+            "Every",
+            "jomollhop",
+            "needs",
+            "a",
+            "vandartache"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Q: What is the grammatical object of the following sentence? Every jomollhop needs a vandartache.\nA:",
+        "targets": [
+            "Adjective"
+        ],
+        "multiple_choice_targets": [
+            "Past",
+            "Present",
+            "Future"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Q: What describes the action of the frithaers in the next sentence? Wendulating frithaers beneath a low sky skwrurrow browringly.\nA:",
+        "targets": [
+            "Verb"
+        ],
+        "multiple_choice_targets": [
+            "Wendulating",
+            "beneath",
+            "low",
+            "sky",
+            "skwrurrow",
+            "browringly"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Q: What part of speech is the word \"filhoosey\" in the following sentence? Through the valley shone the filhoolsy moon.\nA:",
+        "targets": [
+            "caterethen"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: Does the following sentence describe events which take place in the past, present, or future? The sentinel malagarams with great valhelisep.\nA:",
+        "targets": [
+            "Future"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: Which word in the following sentence is a noun? Kollasheps are umliloful and sckroove.\nA:",
+        "targets": [
+            "vandartache"
+        ],
+        "multiple_choice_targets": [
+            "Pottishive",
+            "kallipsons",
+            "are",
+            "on",
+            "display"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: What part of speech is the word \"filhoosey\" in the following sentence? Through the valley shone the filhoolsy moon.\nA:",
+        "targets": [
+            "caterethen"
+        ],
+        "multiple_choice_targets": [
+            "I'd",
+            "gralsillit",
+            "onto",
+            "the",
+            "tall",
+            "felisheret"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Q: What is the grammatical subject of the following sentence? The paratrelalot prorotrated fereliciantly.\nA:",
+        "targets": [
+            "Verb"
+        ],
+        "multiple_choice_targets": [
+            "Past",
+            "Present",
+            "Future"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Q: What part of speech is the word \"hithertrither\" in the following sentence? Ants hithertrither without pause, like tiny machines.\nA:",
+        "targets": [
+            "polderiot"
+        ],
+        "multiple_choice_targets": [
+            "Gralliciously",
+            "recarpilate",
+            "the",
+            "brooktoine"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 25,
+        "inputs": "Q: What describes the action of the frithaers in the next sentence? Wendulating frithaers beneath a low sky skwrurrow browringly.\nA:",
+        "targets": [
+            "vandartache"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Q: How many adverbs does the following sentence contain? Hafteringly, molohorshly, Mei interocolated her preparations for the olumolent event.\nA:",
+        "targets": [
+            "Kollasheps"
+        ],
+        "multiple_choice_targets": [
+            "The",
+            "wind",
+            "rohomnelled",
+            "lotterishly",
+            "in",
+            "the",
+            "stickerslacks"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: What part of speech is the word \"tirraghat\" in the following sentence? Some tirraghat is always voorhosem.\nA:",
+        "targets": [
+            "caterethen"
+        ],
+        "multiple_choice_targets": [
+            "Past",
+            "Present",
+            "Future"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Q: How many things does the following sentence describe? The balforator, heddleilwilder and the sminniging crolostat operate superbly and without interrtulation.\nA:",
+        "targets": [
+            "brooktoine"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: Which word in the following sentence is an adjective? Isaac will never woloheep a fatalascav so sciaptractilant.\nA:",
+        "targets": [
+            "lotterishly"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: Does the following sentence describe events which take place in the past, present, or future? The sentinel malagarams with great valhelisep.\nA:",
+        "targets": [
+            "Adjective"
+        ],
+        "multiple_choice_targets": [
+            "Gralliciously",
+            "recarpilate",
+            "the",
+            "brooktoine"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 11,
+        "inputs": "Q: What part of speech is the word \"retremantly\" in the following sentence? Peace and war follow each other retremantly. \nA:",
+        "targets": [
+            "Adjective"
+        ],
+        "multiple_choice_targets": [
+            "The",
+            "grilshaws",
+            "bolheavened",
+            "whincely"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: Which word in the following sentence is an adjective? Procaliff stefiliously held the brizzerous box.\nA:",
+        "targets": [
+            "browringly"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Q: How many people does the following sentence mention? The stillefector carried out her duty while Prtishoost waited prostillitly.\nA:",
+        "targets": [
+            "paratrelalot"
+        ],
+        "multiple_choice_targets": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Adverb"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "Q: Which word in the following sentence is a verb? The grilshaws bolheavened whincely.\nA:",
+        "targets": [
+            "polderiot"
+        ],
+        "multiple_choice_targets": [
+            "Kollasheps",
+            "are",
+            "umliloful",
+            "and",
+            "sckroove"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    }
+]

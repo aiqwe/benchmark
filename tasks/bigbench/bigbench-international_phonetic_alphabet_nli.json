@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 17,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: əm ˈpɑrdən mi\nSentence 2: aɪ doʊnt əˈpɑləˌʤaɪz.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 6,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ðə kæmˈpeɪnz sim tɪ riʧ ə nu pul əv kənˈtrɪbjətərz.\nSentence 2: nu ˈpipəl ʧoʊz tɪ ˈdoʊˌneɪt tɪ ðə kɔz\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 87,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: wət ʧeɪnʤd?\nSentence 2: wət wɑz juˈnik?\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ðə ˈdætə ˈwɛˌrhaʊzɪŋ ˈɪnstɪˌtut prəˈvaɪdz ˌɛʤəˈkeɪʃən ənd ˈtreɪnɪŋ ɪn ðə ˈdætə ˈwɛˌrhaʊzɪŋ ənd ˈbɪznɪs ˌɪnˈtɛləʤəns ˈɪndəstri.\nSentence 2: ˈbɪznɪs ˌɪnˈtɛləʤəns ˈɪndəstri ɪz ə nu ənd ˈprɑməsɪŋ fild əv ˈstədi.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 70,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ðə bɛst biʧ ɪn ˈjʊrəp  æt list ðæts ðə ˈvərdɪkt əv ɪts ˈrɛgjələrz.\nSentence 2: ˈrɛgjələrz seɪ ðət ɪt ɪz ˈtoʊtəli fri əv ˈlɪtər ənd pəˈluʃən.\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 87,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ˈproʊtoʊˌtaɪpɪŋ, fər ɪgˈzæmpəl, meɪ ækt ɛz pɑrt əv ðə rɪkˈwaɪrmənts ˌdɛfəˈnɪʃən ˈprɔˌsɛs, ˈhɛlpɪŋ ðə ˈeɪʤənsi aɪˈdɛntəˌfaɪ ənd kənˈtroʊl ˈɛriəz əv haɪ ənˈsərtənti ənd ˈtɛknɪkəl rɪsk.\nSentence 2: ˈproʊtoʊˌtaɪpɪŋ ɪz nɑt ˌɪmˈpɔrtənt, ˈtɛstɪŋ wɪθ ðə ˈækʧəwəl ˈfɪnɪʃt ˈprɑdəkt ɪz ˈbɛtər.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 82,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: oʊ aɪ doʊnt noʊ ˈiðər ðə ˈəðər groʊɪŋ əp ɔl aɪ nu wɑz\nSentence 2: aɪ noʊ bɪˈkəz aɪ ˈlərnɪd ɪt groʊɪŋ əp\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ɪf ðət ˌɪnˈvɛstər wər ˈwɪlɪŋ tɪ peɪ ˈɛkstrə fər ðə sɪˈkjʊrəti əv ˈlɪmɪtɪd ˈdaʊnˌsaɪd, ʃi kʊd baɪ pʊt ˈɔpʃənz wɪθ ə straɪk praɪs əv 98 wɪʧ wʊd lɑk ɪn hər ˈprɑfɪt ɔn ðə ʃɛrz æt 18 lɛs ˌwəˈtɛvər ðə ˈɔpʃənz kɔst.\nSentence 2: ðə straɪk praɪs kʊd bi 8\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ˈɔlsoʊ, læk əv ˈwɪntər ˈfrizɪz minz ðət maɪts ˈnɔrməli kɪld ɔf baɪ ðə koʊld wɪl sərˈvaɪv.\nSentence 2: ðeɪ ˈwɔntɪd tɪ wɔrn ˈpipəl tɪ lʊk fər maɪts bɪˈkəz əv ðə maɪld ˈwɪntər.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: soʊ aɪ gɛs maɪ ɪkˈspɪriəns ɪz ɪz ʤɪst wɪθ wət wi dɪd ənd ənd soʊ ðeɪ ˈdɪdənt ˈrɪli goʊ θru ðə ʧaɪld kɛr rut ðeɪ wər ˈeɪbəl tɪ bi hoʊm təˈgɛðər\nSentence 2: ðeɪ wər ˈeɪbəl tɪ bi hoʊm ˈrəðər ðən ˈhævɪŋ tɪ ˈwəri əˈbaʊt ˈgɪtɪŋ ʧaɪld kɛr.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 77,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: tɪ ˈpleɪsɪz wɛr ˈsərfəs ˌtrænspərˈteɪʃən ɪz nɑt əˈveɪləbəl, ˈsɛndərz wʊd bi rikˈwaɪərd tɪ peɪ ɛr reɪts, ənd ˈpɑsəbli ɛr reɪts kid tɪ ðə ˌkɛrɪktərˈɪstɪks əv ðə əˈlæskən ɛr ˈsɪstəm.\nSentence 2: ðə əˈlæskən ɛr ˈsɪstəm ɪz ən ˈifɛktɪv ˈmɛθəd əv ˈʃɪpɪŋ.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ðɛr ər noʊ ʃɛrz əv ə stɑk ðət maɪt ˈsəmˌdeɪ kəm bæk, ʤɪst paɪlz əv ˈɔpʃənz ɛz ˈwərθləs ɛz ðoʊz ʃɛrz əv kʊks əˈmɛrɪkən ˈbɪznɪs əˈlaɪəns.\nSentence 2: kʊks əˈmɛrɪkən ˈbɪznɪs əˈlaɪəns kɔzd ʃɛrz əv stɑk tɪ kəm bæk.\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 76,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ˈɪzənt ə ˈwʊmənz ˈbɑdi hər moʊst ˈpərsɪnəl ˈprɑpərti?\nSentence 2: ˈwɪmənz ˈbɑdiz bɪˈlɔŋ tɪ ðɛmˈsɛlvz, ðeɪ ʃʊd ˌdɪˈsaɪd wət tɪ du wɪθ ɪt.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 46,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: jæ ˈrɪli noʊ ˈkɪdɪŋ\nSentence 2: ˈrɪli? noʊ ˈkɪdɪŋ!\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 72,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: boʊts ɪn ˈdeɪli juz laɪ wɪˈθɪn fit əv ðə ˈfæʃənəbəl bɑrz ənd ˈrɛˌstrɑnts.\nSentence 2: bɑrz ənd ˈrɛˌstrɑnts ər ˈɪntəˌrɛstɪŋ ˈpleɪsɪz.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ˈivɪn ðə loʊər ˈlɪmət əv ðət ˌdɪfərˈɛnʃəl ˈkɑmpaʊndz tɪ ə ˈhɛfti səm ˈoʊvər taɪm.\nSentence 2: ðə ˌdɪfərˈɛnʃəl wɪl nɑt groʊ.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: jæ wɛl ˈrɑˌʧɛstərz laɪk raɪt ɔn ðə ʃɔrz ˈɪzənt ɪt\nSentence 2: ˈrɑˌʧɛstər ɪz raɪt ɔn ðə ʃɔrz.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: bət ə ðiz gaɪz wər ˈæˌkʧuəli ɔn ðə roʊd ə tu ˈθaʊzənd maɪəlz frəm frəm hoʊm wɪn ðeɪ hæd tɪ faɪl ðɛr ə ðɛr ˈfaɪnəl ɪgˈzæmz ənd sɛnd ðɛm ɪn\nSentence 2: ðiz mɛn faɪld ðɛr ˈmɪdˌtərm ɪgˈzæmz frəm hoʊm.\nThe answer is:",
+        "targets": [
+            "contradiction"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: ɛz bɛn jəˈgoʊdə raɪts ɪn ðə nu jɔrk taɪmz bʊk ˌrivˈju  ˈsəmˌwɛr əˈlɔŋ ðə weɪ, ˈkɪdər məst hæv ˌdɪˈsaɪdɪd nɑt tɪ raɪt ə bʊk əˈbaʊt ˈtɑmi oʊˈkɑnər.\nSentence 2: bɛn jəˈgoʊdə ɪz ə ˈfeɪməs bʊk rivˈjuər.\nThe answer is:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 91,
+        "inputs": "This is a natural language inference test. Below are two English sentences translated to the International Phonetic Alphabet. The answer is \"entailment\" if the first sentence implies the second, \"contradiction\" if the two sentences conflict, and \"neutral\" if neither is true.\n\n\nSentence 1: jæ ˈrɪli noʊ ˈkɪdɪŋ\nSentence 2: ˈrɪli? noʊ ˈkɪdɪŋ!\nThe answer is:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "neutral",
+            "entailment",
+            "contradiction"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    }
+]

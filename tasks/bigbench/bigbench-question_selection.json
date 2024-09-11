@@ -1,0 +1,328 @@
+[
+    {
+        "idx": 848,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: The logo for the Twelfth Doctor Context: The original logo used for the First Doctor (and briefly for the Second Doctor) was reused in a slightly modified format for the 50th anniversary special \"The Day of the Doctor\" during the Eleventh Doctor's run. The logo used in the television movie featuring the Eighth Doctor was an updated version of the logo used for the Third Doctor. The logo from 1973–80 was used for the Third Doctor's final season and for the majority of the Fourth Doctor's tenure. The following logo, while most associated with the Fifth Doctor, was also used for the Fourth Doctor's final season. The logo used for the Ninth Doctor was slightly edited for the Tenth Doctor, but it retained the same general appearance. The logo used for the Eleventh Doctor had the \"DW\" TARDIS insignia placed to the right in 2012, but the same font remained, albeit with a slight edit to the texture every episode, with the texture relating to some aspect of the story. The logo for the Twelfth Doctor had the \"DW\" TARDIS insignia removed and the font was subtly altered, as well as made slightly larger. As of 2014, the logo used for the Third and Eighth Doctors is the primary logo used on all media and merchandise relating to past Doctors, and the current Doctor Who logo is used for all merchandise relating to the current Doctor.\n  choice: During the 50th anniversary special, who was the new doctor?\n  choice: The dw tardis insignia was stripped from the logo?\n  choice: Which logo was used for the final season of doctor who?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Which logo was used for the final season of doctor who?"
+        ],
+        "multiple_choice_targets": [
+            "What is the material used to make the gloucester candlestick?",
+            "What is the substance of the becket casket?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 706,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Al-Muwaffaq Context: The advances made in the Middle East in botany and chemistry led medicine in medieval Islam substantially to develop pharmacology. Muhammad ibn Zakarīya Rāzi (Rhazes) (865–915), for instance, acted to promote the medical uses of chemical compounds. Abu al-Qasim al-Zahrawi (Abulcasis) (936–1013) pioneered the preparation of medicines by sublimation and distillation. His Liber servitoris is of particular interest, as it provides the reader with recipes and explains how to prepare the `simples’ from which were compounded the complex drugs then generally used. Sabur Ibn Sahl (d 869), was, however, the first physician to initiate pharmacopoedia, describing a large variety of drugs and remedies for ailments. Al-Biruni (973–1050) wrote one of the most valuable Islamic works on pharmacology, entitled Kitab al-Saydalah (The Book of Drugs), in which he detailed the properties of drugs and outlined the role of pharmacy and the functions and duties of the pharmacist. Avicenna, too, described no less than 700 preparations, their properties, modes of action, and their indications. He devoted in fact a whole volume to simple drugs in The Canon of Medicine. Of great impact were also the works by al-Maridini of Baghdad and Cairo, and Ibn al-Wafid (1008–1074), both of which were printed in Latin more than fifty times, appearing as De Medicinis universalibus et particularibus by 'Mesue' the younger, and the Medicamentis simplicibus by 'Abenguefit'. Peter of Abano (1250–1316) translated and added a supplement to the work of al-Maridini under the title De Veneris. Al-Muwaffaq’s contributions in the field are also pioneering. Living in the 10th century, he wrote The foundations of the true properties of Remedies, amongst others describing arsenious oxide, and being acquainted with silicic acid. He made clear distinction between sodium carbonate and potassium carbonate, and drew attention to the poisonous nature of copper compounds, especially copper vitriol, and also lead compounds. He also describes the distillation of sea-water for drinking.[verification needed]\n  choice: Who was the author of liber servitoris?\n  choice: Who was the first to write about distilling drinking water from seawater?\n  choice: Who were the people who pushed for the use of chemical compounds as medicines?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Other than a school, where can a teacher find an indoor location?"
+        ],
+        "multiple_choice_targets": [
+            "Who invented the 50?",
+            "What is the name of the award awarded to the super bowl champion?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 996,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Prince Louis de Condé Context: Prince Louis de Condé, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbrücken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism and welcomed technically skilled immigrants into his lands, regardless of their religion. The Condés established a thriving glass-making works, which provided wealth to the principality for many years. Other founding families created enterprises based on textiles and such traditional Huguenot occupations in France. The community and its congregation remain active to this day, with descendants of many of the founding families still living in the region. Some members of this community emigrated to the United States in the 1890s.\n  choice: With which count did the prince reach an agreement?\n  choice: Which noble helped create the saarland huguenot settlement?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "In super bowl 50, which nfl team represented the nfc?"
+        ],
+        "multiple_choice_targets": [
+            "Who was responsible for the construction of the sage gateshead music center?",
+            "Who commissioned the millennium bridge in gateshead?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 809,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: George Frampton Context: Sculptors both British and Europeans who were based in Britain and whose work is in the collection include Nicholas Stone, Caius Gabriel Cibber, Grinling Gibbons, John Michael Rysbrack, Louis-François Roubiliac, Peter Scheemakers, Sir Henry Cheere, Agostino Carlini, Thomas Banks, Joseph Nollekens, Joseph Wilton, John Flaxman, Sir Francis Chantrey, John Gibson, Edward Hodges Baily, Lord Leighton, Alfred Stevens, Thomas Brock, Alfred Gilbert, George Frampton, and Eric Gill. A sample of some of these sculptors' work is on display in the British Galleries.\n  choice: Which british sculptor is portrayed in the v&a collection as a key figure in the new sculpture movement?\n  choice: Which british sculptor's work is included in the v&a series, including the queen victoria memorial in front of buckingham palace?\n  choice: Which english sculptor rose to prominence as britain's foremost portrait sculptor during the regency period is depicted in the v&a collection?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who were the sideline announcers for westwood one?"
+        ],
+        "multiple_choice_targets": [
+            "According to reuters, who received the nobel prize in physics in 1915?",
+            "Who was the lucky winner of the prize?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 617,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: a modern context Context: Sayyid Abul Ala Maududi was an important early twentieth-century figure in the Islamic revival in India, and then after independence from Britain, in Pakistan. Trained as a lawyer he chose the profession of journalism, and wrote about contemporary issues and most importantly about Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but liberal modernizer Islamists such as al-Faruqi, whose \"Islamization of Knowledge\" carried forward some of Maududi's key principles.\n  choice: Where did maududi have the greatest influence?\n  choice: What role did islam play in maududi's books?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "In which book was the theory about the amazon rainforest's low population discussed?"
+        ],
+        "multiple_choice_targets": [
+            "In may of 2000, where was parliament temporarily relocated?",
+            "Where did parliament stay while the permanent structure was being built?",
+            "Where did the interviews take place when the parliament was housed in a makeshift structure?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 671,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: platyctenids Context: Most species are hermaphrodites—a single animal can produce both eggs and sperm, meaning it can fertilize its own egg, not needing a mate. Some are simultaneous hermaphrodites, which can produce both eggs and sperm at the same time. Others are sequential hermaphrodites, in which the eggs and sperm mature at different times. Fertilization is generally external, although platyctenids' eggs are fertilized inside their parents' bodies and kept there until they hatch. The young are generally planktonic and in most species look like miniature cydippids, gradually changing into their adult shapes as they grow. The exceptions are the beroids, whose young are miniature beroids with large mouths and no tentacles, and the platyctenids, whose young live as cydippid-like plankton until they reach near-adult size, but then sink to the bottom and rapidly metamorphose into the adult form. In at least some species, juveniles are capable of reproduction before reaching the adult size and shape. The combination of hermaphroditism and early reproduction enables small populations to grow at an explosive rate.\n  choice: Which species' eggs are fertilized and held within the body of their parents until they hatch?\n  choice: Which community has babies born without tentacles and with a big mouth?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "According to reuters, who received the nobel prize in physics in 1915?"
+        ],
+        "multiple_choice_targets": [
+            "What year did the national highway designated act become law?",
+            "When was the energy department established at the cabinet level?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 359,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 487 Context: The Panthers beat the Seattle Seahawks in the divisional round, running up a 31–0 halftime lead and then holding off a furious second half comeback attempt to win 31–24, avenging their elimination from a year earlier. The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49–15, racking up 487 yards and forcing seven turnovers.\n  choice: During the nfc championship game, how many turnovers did the panthers force?\n  choice: In the nfc championship game, how many yards did the carolina panthers earn in the 487?\n  choice: In the nfc championship, how many times did arizona turn the ball over?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "When was the v&a's ceramics and glass collection's main gallery redesigned?"
+        ],
+        "multiple_choice_targets": [
+            "Which genghis khan descendant sacked baghdad?",
+            "Which of genghis khan's descendants was responsible for driving the mamluks from palestine?",
+            "Which of eastern europe's big cities survived the mongol invasion?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1024,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Prince Frederick III Context: The enforcement of the ban on the 95 Theses fell to the secular authorities. On 18 April 1521, Luther appeared as ordered before the Diet of Worms. This was a general assembly of the estates of the Holy Roman Empire that took place in Worms, a town on the Rhine. It was conducted from 28 January to 25 May 1521, with Emperor Charles V presiding. Prince Frederick III, Elector of Saxony, obtained a safe conduct for Luther to and from the meeting.\n  choice: Who gave luther a safe conduct pass so he could enter and exit the event?\n  choice: What is the order behind the assembly?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "On westwood one, who was in charge of pre-game coverage?"
+        ],
+        "multiple_choice_targets": [
+            "At 0 degrees celsius, how much more oxygen dissolves than at 20 degrees celsius?",
+            "Under normal circumstances, how much oxygen can be contained in a liter of fresh water?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 86,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 5½ Context: The Broncos' defense ranked first in the NFL yards allowed (4,530) for the first time in franchise history, and fourth in points allowed (296). Defensive ends Derek Wolfe and Malik Jackson each had 5½ sacks. Pro Bowl linebacker Von Miller led the team with 11 sacks, forced four fumbles, and recovered three. Linebacker DeMarcus Ware was selected to play in the Pro Bowl for the ninth time in his career, ranking second on the team with 7½ sacks. Linebacker Brandon Marshall led the team in total tackles with 109, while Danny Trevathan ranked second with 102. Cornerbacks Aqib Talib (three interceptions) and Chris Harris, Jr. (two interceptions) were the other two Pro Bowl selections from the defense.\n  choice: Derek wolfe racked up how many sacks?\n  choice: What was the total number of yards allowed by the broncos' defense?\n  choice: During the regular season, how many interceptions did aqib talib have?\n  choice: Aqib talib had how many picks?\n  choice: What was the total number of points allowed by the broncos defense?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Victoria has how many full-time teachers?"
+        ],
+        "multiple_choice_targets": [
+            "When was levi's stadium given final approval to host super bowl 50?",
+            "Prior to super bowl 50, when was the last time a super bowl was held in the san francisco bay area?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 641,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: James Gamble & Reuben Townroe Context: An ambitious scheme of decoration was developed for these new areas: a series of mosaic figures depicting famous European artists of the Medieval and Renaissance period. These have now been removed to other areas of the museum. Also started were a series of frescoes by Lord Leighton: Industrial Arts as Applied to War 1878–1880 and Industrial Arts Applied to Peace, which was started but never finished. To the east of this were additional galleries, the decoration of which was the work of another designer Owen Jones, these were the Oriental Courts (covering India, China and Japan) completed in 1863, none of this decoration survives, part of these galleries became the new galleries covering the 19th century, opened in December 2006. The last work by Fowke was the design for the range of buildings on the north and west sides of the garden, this includes the refreshment rooms, reinstated as the Museum Café in 2006, with the silver gallery above, (at the time the ceramics gallery), the top floor has a splendid lecture theatre although this is seldom open to the general public. The ceramic staircase in the northwest corner of this range of buildings was designed by F. W. Moody and has architectural details of moulded and coloured pottery. All the work on the north range was designed and built in 1864–69. The style adopted for this part of the museum was Italian Renaissance, much use was made of terracotta, brick and mosaic, this north façade was intended as the main entrance to the museum with its bronze doors designed by James Gamble & Reuben Townroe having six panels depicting: Humphry Davy (chemistry); Isaac Newton (astronomy); James Watt (mechanics); Bramante (architecture); Michelangelo (sculpture); Titian (painting); thus representing the range of the museums collections, Godfrey Sykes also designed the terracotta embellishments and the mosaic in the pediment of the North Façade commemorating the Great Exhibition the profits from which helped to fund the museum, this is flanked by terracotta statue groups by Percival Ball. This building replaced Brompton Park House, which could then be demolished to make way for the south range.\n  choice: Who created the bronze doors that serve as the museum's main entrance?\n  choice: Who built the oriental courts and how did they come to be?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "What year was newcomen's engine used to pump water in a mine?"
+        ],
+        "multiple_choice_targets": [
+            "What happened to the rhine?",
+            "What is the starting point for the rhine?",
+            "What is the location of the rhine's apex?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 855,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Devin Funchess Context: There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.\n  choice: On this drive, who caught a 16-yard pass?\n  choice: Who was the first to recover a manning fumble?\n  choice: On the next play, who snatched the ball from manning's grip?\n  choice: On this drive, who had a 12-yard rush?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Emma's brother, who was he?"
+        ],
+        "multiple_choice_targets": [
+            "In 2015, the panthers defense was credited with how many interceptions?",
+            "What was the total number of points allowed by the panthers defense?",
+            "Jared allen had how many sacks in his career?",
+            "Luke kuechly racked up how many tackles?",
+            "Josh norman intercepted how many balls?",
+            "How many members of the panthers' defense have been named to the pro bowl?",
+            "Thomas davis had how many forced fumbles?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 665,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1938 Context: In 1934, Mutual filed a complaint with the Federal Communications Commission (FCC) regarding its difficulties in establishing new stations, in a radio market that was already being saturated by NBC and CBS. In 1938, the FCC began a series of investigations into the practices of radio networks and published its report on the broadcasting of network radio programs in 1940. The report recommended that RCA give up control of either NBC Red or NBC Blue. At that time, the NBC Red Network was the principal radio network in the United States and, according to the FCC, RCA was using NBC Blue to eliminate any hint of competition. Having no power over the networks themselves, the FCC established a regulation forbidding licenses to be issued for radio stations if they were affiliated with a network which already owned multiple networks that provided content of public interest.\n  choice: What year did the federal communications commission issue its report?\n  choice: In what year did the federal communications commission (fcc) launch an investigation into the activity of radio networks in the united states?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "What is the number of vocational schools at the university of chicago?"
+        ],
+        "multiple_choice_targets": [
+            "When did the first episode of general hospital air?",
+            "When did the first episode of good morning america air?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 180,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: March 2011 Context: Originating as the Jama'at al-Tawhid wal-Jihad in 1999, it pledged allegiance to al-Qaeda in 2004, participated in the Iraqi insurgency that followed the March 2003 invasion of Iraq by Western forces, joined the fight in the Syrian Civil War beginning in March 2011, and was expelled from al-Qaeda in early 2014, (which complained of its failure to consult and \"notorious intransigence\"). The group gained prominence after it drove Iraqi government forces out of key cities in western Iraq in a 2014 offensive. The group is adept at social media, posting Internet videos of beheadings of soldiers, civilians, journalists and aid workers, and is known for its destruction of cultural heritage sites. The United Nations has held ISIL responsible for human rights abuses and war crimes, and Amnesty International has reported ethnic cleansing by the group on a \"historic scale\". The group has been designated a terrorist organisation by the United Nations, the European Union and member states, the United States, India, Indonesia, Turkey, Saudi Arabia, Syria and other countries.\n  choice: When did syria's civil war start?\n  choice: When did the islamic state of iraq and the levant (isil) swear allegiance to al-qaeda?\n  choice: When did the united states and its allies occupy iraq?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "In the game, how many tackles did von miller make by himself?"
+        ],
+        "multiple_choice_targets": [
+            "When was the warsaw royal university founded?",
+            "When did warsaw become the capital of poland's congress?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1206,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: several Context: There are 13 natural reserves in Warsaw – among others, Bielany Forest, Kabaty Woods, Czerniaków Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw – mainly the oxbow lakes, like Czerniaków Lake, the lakes in the Łazienki or Wilanów Parks, Kamionek Lake. There are lot of small lakes in the parks, but only a few are permanent – the majority are emptied before winter to clean them of plants and sediments.\n  choice: In warsaw, how many natural reserves are there?\n  choice: In warsaw, how many lakes are there?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who did the mongols appoint as administrators in bukhara?"
+        ],
+        "multiple_choice_targets": [
+            "Which player was chastised for not diving into the muck to retrieve the ball?",
+            "Which panthers player was penalized, resulting in a new set of downs for the broncos?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 635,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1977 Context: To help reduce consumption, in 1974 a national maximum speed limit of 55 mph (about 88 km/h) was imposed through the Emergency Highway Energy Conservation Act. Development of the Strategic Petroleum Reserve began in 1975, and in 1977 the cabinet-level Department of Energy was created, followed by the National Energy Act of 1978.[citation needed] On November 28, 1995, Bill Clinton signed the National Highway Designation Act, ending the federal 55 mph (89 km/h) speed limit, allowing states to restore their prior maximum speed limit.\n  choice: When was the energy department established at the cabinet level?\n  choice: What year did the national highway designated act become law?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "How many nfl teams have just lost one game during the regular season?"
+        ],
+        "multiple_choice_targets": [
+            "What is the most likely location for a teacher to teach?",
+            "Where do the majority of teachers get their credentials?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 156,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Hoelun Context: For the next several years, Hoelun and her children lived in poverty, surviving primarily on wild fruits and ox carcasses, marmots, and other small game killed by Temüjin and his brothers. Begter, Temujin's older half-brother, began to exercise the power of the eldest male in the family and eventually Temujin's mother Hoelun (not Begter's mother) would have to accept him as her husband if and when he became an adult. Temujin's resentment erupted during one hunting excursion that Temüjin and his brother Khasar killed their half-brother Begter.\n  choice: Who assassinated tem jin's half-brother, begter?\n  choice: When begter reached marriageable age, who would he have married?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "How many times has the plague struck venice?"
+        ],
+        "multiple_choice_targets": [
+            "Who was the iranian revolution's ideologue?",
+            "Who was it appropriate for muslims to imitate?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 397,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 6,000 square kilometres Context: More than 26,000 square kilometres (10,000 sq mi) of Victorian farmland are sown for grain, mostly in the state's west. More than 50% of this area is sown for wheat, 33% for barley and 7% for oats. A further 6,000 square kilometres (2,300 sq mi) is sown for hay. In 2003–04, Victorian farmers produced more than 3 million tonnes of wheat and 2 million tonnes of barley. Victorian farms produce nearly 90% of Australian pears and third of apples. It is also a leader in stone fruit production. The main vegetable crops include asparagus, broccoli, carrots, potatoes and tomatoes. Last year, 121,200 tonnes of pears and 270,000 tonnes of tomatoes were produced.\n  choice: How many australian pears does victoria produce?\n  choice: How much grain is grown on victorian farmland?\n  choice: How much hay is grown on victoria's farmland?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "On westwood one, who did the play-by-play?"
+        ],
+        "multiple_choice_targets": [
+            "Who else was on the sidelines with evan washburn?",
+            "Who were the super bowl 50 announcers?",
+            "Who were the sideline announcers for super bowl 50?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 210,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Franz Pieper Context: The Lutheran theologian Franz Pieper observed that Luther's teaching about the state of the Christian's soul after death differed from the later Lutheran theologians such as Johann Gerhard. Lessing (1755) had earlier reached the same conclusion in his analysis of Lutheran orthodoxy on this issue.\n  choice: Who might have guessed luther's perspective on the soul after death differed from that of later theologians?\n  choice: Who else noticed that luther's perspective on souls differed from later views?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Since the 2005 christmas special, who has performed all of the doctor who music?"
+        ],
+        "multiple_choice_targets": [
+            "Pharmacists are what kind of professionals?",
+            "What types of treatments do pharmacists play a role in?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1233,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Diarmaid MacCulloch Context: On 17 December 1941, seven Protestant regional church confederations issued a statement agreeing with the policy of forcing Jews to wear the yellow badge, \"since after his bitter experience Luther had already suggested preventive measures against the Jews and their expulsion from German territory.\" According to Daniel Goldhagen, Bishop Martin Sasse, a leading Protestant churchman, published a compendium of Luther's writings shortly after Kristallnacht, for which Diarmaid MacCulloch, Professor of the History of the Church in the University of Oxford argued that Luther's writing was a \"blueprint.\" Sasse applauded the burning of the synagogues and the coincidence of the day, writing in the introduction, \"On 10 November 1938, on Luther's birthday, the synagogues are burning in Germany.\" The German people, he urged, ought to heed these words \"of the greatest antisemite of his time, the warner of his people against the Jews.\"\n  choice: Who said that luther's writings were a model for anti-semitic behavior?\n  choice: Who was in favor of burning synagogues?\n  choice: Who, according to the churches, advocated for the removal of jews from germany?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who was the one who came up with the theory of relativity?"
+        ],
+        "multiple_choice_targets": [
+            "Kublai had a preference for which faith?",
+            "Which khanates had become muslim?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 950,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Sherwood Boehlert Context: On 23 June 2005, Rep. Joe Barton, chairman of the House Committee on Energy and Commerce wrote joint letters with Ed Whitfield, Chairman of the Subcommittee on Oversight and Investigations demanding full records on climate research, as well as personal information about their finances and careers, from Mann, Bradley and Hughes. Sherwood Boehlert, chairman of the House Science Committee, said this was a \"misguided and illegitimate investigation\" apparently aimed at intimidating scientists, and at his request the U.S. National Academy of Sciences arranged for its National Research Council to set up a special investigation. The National Research Council's report agreed that there were some statistical failings, but these had little effect on the graph, which was generally correct. In a 2006 letter to Nature, Mann, Bradley, and Hughes pointed out that their original article had said that \"more widespread high-resolution data are needed before more confident conclusions can be reached\" and that the uncertainties were \"the point of the article\".\n  choice: Who denied barton's investigation was illegitimate?\n  choice: Who was the chairman of the house energy and commerce committee?\n  choice: Who was the chairman of the oversight and investigations subcommittee?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Which mls team has been suspended?"
+        ],
+        "multiple_choice_targets": [
+            "Who was the chairman of the house energy and commerce committee?",
+            "Who was the chairman of the oversight and investigations subcommittee?",
+            "What was the name of the house science committee's chairman?",
+            "Who denied barton's investigation was illegitimate?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    }
+]

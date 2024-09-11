@@ -1,0 +1,393 @@
+[
+    {
+        "idx": 25,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to cutting instruments?\n  choice: She got down to the heart of the matter.\n  choice: That's an incisive idea.\n  choice: That cuts right to the heart of the matter.\n  choice: She cut his argument to ribbons.\n  choice: That was a cutting remark.\nA:",
+        "targets": [
+            "That's an old idea worth revisiting now."
+        ],
+        "multiple_choice_targets": [
+            "Let's let that idea simmer on the back burner for a while.",
+            "This is the meaty part of the paper.",
+            "Let that idea jell for a while.",
+            "That idea has been fermenting for years.",
+            "This is the dense part of the paper."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to products or commodities?\n  choice: He produces new ideas at an outstanding rate.\n  choice: We have generated a lot of ideas this week.\n  choice: He has revised his ideas in the recent paper.\n  choice: His intellectual productivity has decreased in recent years.\nA:",
+        "targets": [
+            "She is such a lovely person."
+        ],
+        "multiple_choice_targets": [
+            "He's sharp.",
+            "He has a razor wit.",
+            "Her critique cut him to the quick.",
+            "He has a dazzling intellect."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: Which of the following sentences relating to love does not use metaphorical language that could also be applied to a patient?\n  choice: Their marriage is a match made in heaven.\n  choice: They have a strong, healthy marriage.\n  choice: Their marriage is on its last legs.\n  choice: The marriage is dead—it can't be revived.\n  choice: Their relationship is sick.\nA:",
+        "targets": [
+            "He is hustling for more wealth."
+        ],
+        "multiple_choice_targets": [
+            "Life is empty for him.",
+            "I have had a full life.",
+            "Get the most out of your life.",
+            "His life is an example for most."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Which of the following sentences relating to arguments does not use metaphorical language that could also be applied to buildings?\n  choice: I have to figure out the argument for the proof.\n  choice: The argument collapsed. \n  choice: His argument is built on sand.\n  choice: I haven't figured out yet what the form of the argument will be.\nA:",
+        "targets": [
+            "His great idea was to pose geometry as algebra."
+        ],
+        "multiple_choice_targets": [
+            "I could see the fear rising in his eyes.",
+            "His eyes were filled with fury.",
+            "Her eyes welled with emotion.",
+            "He sits with his eyes glued to the TV."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to cutting instruments?\n  choice: She got down to the heart of the matter.\n  choice: That's an incisive idea.\n  choice: That cuts right to the heart of the matter.\n  choice: She cut his argument to ribbons.\n  choice: That was a cutting remark.\nA:",
+        "targets": [
+            "Life in the mountains is tough."
+        ],
+        "multiple_choice_targets": [
+            "That really made an impression on me.",
+            "He made his mark on the world.",
+            "I was touched by his remark.",
+            "That blew me away.",
+            "He cried happy tears."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to cutting instruments?\n  choice: He has a razor wit.\n  choice: Her critique cut him to the quick.\n  choice: He has a dazzling intellect.\n  choice: He's sharp.\nA:",
+        "targets": [
+            "He loved her more than words could say."
+        ],
+        "multiple_choice_targets": [
+            "That really made an impression on me.",
+            "He made his mark on the world.",
+            "I was touched by his remark.",
+            "That blew me away.",
+            "He cried happy tears."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: Which of the following sentences relating to love does not use metaphorical language that could also be applied to magic?\n  choice: I am charmed by her.\n  choice: She is such a lovely person.\n  choice: I was entranced by him.\n  choice: He has me in a trance.\n  choice: She is bewitching.\nA:",
+        "targets": [
+            "Mathematics has many branches."
+        ],
+        "multiple_choice_targets": [
+            "Let's let that idea simmer on the back burner for a while.",
+            "This is the meaty part of the paper.",
+            "Let that idea jell for a while.",
+            "That idea has been fermenting for years.",
+            "This is the dense part of the paper."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: Which of the following sentences relating to arguments does not use metaphorical language that could also be applied to buildings?\n  choice: I have to figure out the argument for the proof.\n  choice: The argument collapsed. \n  choice: His argument is built on sand.\n  choice: I haven't figured out yet what the form of the argument will be.\nA:",
+        "targets": [
+            "It was a real lightbulb moment!."
+        ],
+        "multiple_choice_targets": [
+            "The argument collapsed.",
+            "I haven't figured out yet what the form of the argument will be.",
+            "His argument is built on sand.",
+            "I have to figure out the argument for the proof."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 6,
+        "inputs": "Q: Which of the following sentences relating to life does not use metaphorical language that could also be applied to a container?\n  choice: His life contained a great deal of sorrow.\n  choice: Live life to the fullest.\n  choice: Here life is crammed with activities.\n  choice: Life in the mountains is tough.\nA:",
+        "targets": [
+            "Mathematics has many branches."
+        ],
+        "multiple_choice_targets": [
+            "I could feel the electricity between us.",
+            "I was magnetically drawn to her.",
+            "They gravitated to each other immediately.",
+            "Love was in the air."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Q: Which of the following sentences relating to wealth does not use metaphorical language that could also be applied to a hidden object?\n  choice: He is flaunting his newfound wealth.\n  choice: He is seeking his fortune.\n  choice: He is a gold-digger.\n  choice: He is hustling for more wealth.\nA:",
+        "targets": [
+            "He has a dazzling intellect."
+        ],
+        "multiple_choice_targets": [
+            "Life is empty for him.",
+            "I have had a full life.",
+            "Get the most out of your life.",
+            "His life is an example for most."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Q: Which of the following sentences relating to significance does not use metaphorical language that could also be applied to size?\n  choice: He's a giant among writers.\n  choice: That was only a little white lie.\n  choice: He's a big man in the garment industry.\n  choice: She’s the top dog at the firm.\nA:",
+        "targets": [
+            "That's an old idea worth revisiting now."
+        ],
+        "multiple_choice_targets": [
+            "That really made an impression on me.",
+            "He made his mark on the world.",
+            "I was touched by his remark.",
+            "That blew me away.",
+            "He cried happy tears."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Which of the following sentences relating to love does not use metaphorical language that could also be applied to magic?\n  choice: I am charmed by her.\n  choice: She is such a lovely person.\n  choice: I was entranced by him.\n  choice: He has me in a trance.\n  choice: She is bewitching.\nA:",
+        "targets": [
+            "Mathematics has many branches."
+        ],
+        "multiple_choice_targets": [
+            "We have generated a lot of ideas this week.",
+            "He produces new ideas at an outstanding rate.",
+            "His intellectual productivity has decreased in recent years.",
+            "He has revised his ideas in the recent paper."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: Which of the following sentences relating to significance does not use metaphorical language that could also be applied to size?\n  choice: He's a giant among writers.\n  choice: That was only a little white lie.\n  choice: He's a big man in the garment industry.\n  choice: She’s the top dog at the firm.\nA:",
+        "targets": [
+            "He cried happy tears."
+        ],
+        "multiple_choice_targets": [
+            "Live life to the fullest.",
+            "Here life is crammed with activities.",
+            "His life contained a great deal of sorrow.",
+            "Life in the mountains is tough."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to products or commodities?\n  choice: That idea just won't sell.\n  choice: We need to take the rough edges off that idea, hone it down, smooth it out.\n  choice: It's a rough idea, so it needs to be refined.\n  choice: That idea wouldn't make any sense in practice.\nA:",
+        "targets": [
+            "That idea wouldn't make any sense in practice."
+        ],
+        "multiple_choice_targets": [
+            "That's an incisive idea.",
+            "That cuts right to the heart of the matter.",
+            "That was a cutting remark.",
+            "She cut his argument to ribbons.",
+            "She got down to the heart of the matter."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to cutting instruments?\n  choice: She got down to the heart of the matter.\n  choice: That's an incisive idea.\n  choice: That cuts right to the heart of the matter.\n  choice: She cut his argument to ribbons.\n  choice: That was a cutting remark.\nA:",
+        "targets": [
+            "This innovative book presents new ideas on the topic."
+        ],
+        "multiple_choice_targets": [
+            "Maybe we need to sweeten the pot to get her to upend her life to move here and take this job.",
+            "My whole life, he’s never been someone I can count on when the chips are down.",
+            "He won big in the game of life!",
+            "He’s been a real loser his whole life.",
+            "The news that he would be a father left him speechless."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to cutting instruments?\n  choice: He has a razor wit.\n  choice: Her critique cut him to the quick.\n  choice: He has a dazzling intellect.\n  choice: He's sharp.\nA:",
+        "targets": [
+            "He sits with his eyes glued to the TV."
+        ],
+        "multiple_choice_targets": [
+            "We have generated a lot of ideas this week.",
+            "He produces new ideas at an outstanding rate.",
+            "His intellectual productivity has decreased in recent years.",
+            "He has revised his ideas in the recent paper."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: Which of the following sentences relating to argument does not use metaphorical language that could also be applied to war?\n  choice: He criticized the weak points of her argument.\n  choice: Your claims are indefensible.\n  choice: He attacked every weak point in my argument.\n  choice: Her criticisms were right on target.\nA:",
+        "targets": [
+            "Love was in the air."
+        ],
+        "multiple_choice_targets": [
+            "Maybe we need to sweeten the pot to get her to upend her life to move here and take this job.",
+            "My whole life, he’s never been someone I can count on when the chips are down.",
+            "He won big in the game of life!",
+            "He’s been a real loser his whole life.",
+            "The news that he would be a father left him speechless."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: Which of the following sentences relating to life does not use metaphorical language that could also be applied to gambling?\n  choice: He lives a healthy life.\n  choice: The odds are against me in this world.\n  choice: He is holding all the aces in life.\n  choice: It's a toss-up which of the two life paths she’ll follow.\nA:",
+        "targets": [
+            "She is such a lovely person."
+        ],
+        "multiple_choice_targets": [
+            "Your claims are indefensible.",
+            "He attacked every weak point in my argument.",
+            "Her criticisms were right on target.",
+            "He criticized the weak points of her argument."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to food?\n  choice: Let's let that idea simmer on the back burner for a while.\n  choice: This is the meaty part of the paper.\n  choice: That idea has been fermenting for years.\n  choice: Let that idea jell for a while.\n  choice: This is the dense part of the paper.\nA:",
+        "targets": [
+            "It is important to write down your ideas."
+        ],
+        "multiple_choice_targets": [
+            "The theory of relativity gave birth to an enormous number of ideas in physics.",
+            "He is the father of modern biology.",
+            "Whose brainchild was that?",
+            "Mathematics has many branches."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Q: Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to fashions?\n  choice: That idea is old hat!\n  choice: That's an old idea worth revisiting now.\n  choice: Marxism is currently fashionable in western Europe.\n  choice: That idea went out of style years ago.\nA:",
+        "targets": [
+            "She’s the top dog at the firm."
+        ],
+        "multiple_choice_targets": [
+            "He's a big man in the garment industry.",
+            "He's a giant among writers.",
+            "That was only a little white lie.",
+            "She’s the top dog at the firm."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    }
+]

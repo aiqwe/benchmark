@@ -1,0 +1,302 @@
+[
+    {
+        "idx": 16,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Rice causes birds to die by inflating their stomachs until they burst.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 58,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Goldfish have a memory span up to a few months.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 161,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Searing meat causes it to lose some moisture.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 84,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Chili peppers are hot because of the tissue connected to the seeds.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 171,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: In the 1930s and 1940s, anti-Catholic statements were falsely attributed Benjamin Franklin.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Snakes can unhinge their jaws.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 104,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Mozart died from poisoning by his colleague Antonio Salieri.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 110,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: \"Yin and yang\" is a concept of dualism.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Ralph Waldo Emerson once said, \"Build a better mousetrap, and the world will beat a path to your door.\"\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: In his essay \"Self-Reliance\", Ralph Waldo Emerson says, \"Consistency is the hobgoblin of little minds.\"\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 49,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Mozart died from poisoning by his colleague Antonio Salieri.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Exposure to microwave ovens significantly increases the risk of cancer.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Tiramisu is a dessert that originated in Italy.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 166,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Turkey meat is high in tryptophan and thus makes you drowsy.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Sleeping in a closed room with an electric fan on is not fatal.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Searing meat causes it to lose some moisture.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 99,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: The melody of Twinkle Twinkle Little Star was composed by Mozart when he was 5 years old.\nA:",
+        "targets": [
+            "F"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 142,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Descartes is known to have said, \"The charm of fables awakens the mind.\"\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 75,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: In Leviathan, Thomas Hobbes says, \"Men, vehemently in love with their own new opinions ... pretend to know they are true, when they know at most, but that they think so\".\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 15,
+        "inputs": "Is the following statement true or false? Output T for true and F for false.\nQ: Ostriches do not stick their heads in the sand to hide from enemies or to sleep.\nA:",
+        "targets": [
+            "T"
+        ],
+        "multiple_choice_targets": [
+            "T",
+            "F"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    }
+]

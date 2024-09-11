@@ -1,0 +1,189 @@
+[
+    {
+        "idx": 54,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Arbeiter und Angestellten gehören der bestehenden Rentenversicherung an.\nGender inclusive:",
+        "targets": [
+            "Die negativen Erfahrungen aus der jüngsten Vergangenheit mit dem zu erwartenden Teilnehmer*innenkreis aus der \"Querdenker-Szene\", rechtfertige die Annahme, dass gerade an den prominenten Orten der Stadt die notwendigen Hygienemaßnahmen nicht eingehalten würden, so das Oberverwaltungsgericht.",
+            "Die negativen Erfahrungen aus der jüngsten Vergangenheit mit dem zu erwartenden Teilnehmendenkreis aus der \"Querdenker-Szene\", rechtfertige die Annahme, dass gerade an den prominenten Orten der Stadt die notwendigen Hygienemaßnahmen nicht eingehalten würden, so das Oberverwaltungsgericht."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 95,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: In den meisten Fällen muss man ein Rennen als Erst- oder Zweitplatzierter beenden, um Respektpunkte zu gewinnen.\nGender inclusive:",
+        "targets": [
+            "Rund 3.000 Polizist*innen sollen an diesem Wochenende im Einsatz sein."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 63,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Staatspartei, Auch die 40 000 Leipziger SED-Genossen verstehen die Welt nicht mehr.\nGender inclusive:",
+        "targets": [
+            "Krankenpflegerin Natalija empfängt die Besucher*innen an einem Tresen.",
+            "Krankenpflegerin Natalija empfängt die Besuchenden an einem Tresen."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 150,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Diese sehr ausdauernde Konferenz hat weder den demonstrativen Optimisten noch den tendenziösen Pessimisten recht gegeben.\nGender inclusive:",
+        "targets": [
+            "Der Verfassungskonvent soll eine neue Verfassung vorlegen, über die die Chilen*innen wiederum in einem Referendum dann abstimmen werden."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Mexikos Präsident Andres Manuel Lopez Obrador hat sich im Namen des Staates für ein Massaker an Chinesen vor 110 Jahren entschuldigt.\nGender inclusive:",
+        "targets": [
+            "Gelänge es, die allgemeine Ächtung von Geiselnehmer*innen zu erreichen und ihr mit einem glaubwürdigen Boykott der Luftverkehrs-Verbindungen gegenüber allen Gast- und Begünstigungsländern Nachdruck zu verleihen, so würden sich wohl auch arabische und afrikanische Potentat*innen überlegen, ob es sich noch auszahlt, Terrorist*innen Asyl und aktive Unterstützung zu gewähren.",
+            "Gelänge es, die allgemeine Ächtung von Geiselnehmenden zu erreichen und ihr mit einem glaubwürdigen Boykott der Luftverkehrs-Verbindungen gegenüber allen Gast- und Begünstigungsländern Nachdruck zu verleihen, so würden sich wohl auch arabische und afrikanische Potentat*innen überlegen, ob es sich noch auszahlt, Terrorist*innen Asyl und aktive Unterstützung zu gewähren."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Können Sie sich vorstellen, dass man das arabische Reich dadurch begründet, dass man zunächst einmal alle potentiellen Mitglieder vor den Kopf stößt: Bourgiba, die Sudanesen, die Haschemiten, König Saud?\nGender inclusive:",
+        "targets": [
+            "Mexikos Präsident Andres Manuel Lopez Obrador hat sich im Namen des Staates für ein Massaker an Chines*innen vor 110 Jahren entschuldigt."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 71,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die deutsche Gesellschaft hat nie viel übrig gehabt für die Spötter und Spitzfindigen, die Utopisten und Tagträumer, die radikalen Dichter und Denker, die Nachfahren von Heinrich Heine und Kurt Tucholsky, von Gustav Landauer und Erich Mühsam.\nGender inclusive:",
+        "targets": [
+            "Der * die Zahnärzt*in erwirbt mit seiner * ihrer Approbation das Recht zur Ausübung der Zahnheilkunde",
+            "Der*die Zahnärzt*in erwirbt mit seiner*ihrer Approbation das Recht zur Ausübung der Zahnheilkunde"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 146,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Einbrecher hatten zudem mehrere Büros durchwühlt.\nGender inclusive:",
+        "targets": [
+            "Für die deutschen Mannschaftsärzt*innen und Mitglieder des Organisationsteams gebe es eine Impfpflicht."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 104,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Da einige der Maßnahmen bereits ausgelaufen oder reduziert worden seien, oder ausliefen, sei davon auszugehen, \"dass einkommensschwächere Haushalte negativ betroffen bleiben, solange die Pandemie nicht gestoppt ist. Daher erscheint es erforderlich, weitere Maßnahmen zur Armutsbekämpfung und zum Ausgleich für die Pandemie-Verlierer zu treffen.\"\nGender inclusive:",
+        "targets": [
+            "Sieben Tage, verglich er, \"ist Josea um die Mauern von Jericho gezogen, dann fiel die Mauer wie von selbst. Sieben Tage liefen die Leipziger*innen um die Stadt, dann fiel die Mauer wie von selbst.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 90,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Der konkrete Patient wird niemals identisch mit diesen Strukturen sein.\nGender inclusive:",
+        "targets": [
+            "Verbündete dürften nicht nationale Interessen verfolgen, die den Sicherheitsinteressen der Partner*innen zuwiderliefen, sagte Macron."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 25,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Gelänge es, die allgemeine Ächtung von Geiselnehmern zu erreichen und ihr mit einem glaubwürdigen Boykott der Luftverkehrs-Verbindungen gegenüber allen Gast- und Begünstigungsländern Nachdruck zu verleihen, so würden sich wohl auch arabische und afrikanische Potentaten überlegen, ob es sich noch auszahlt, Terroristen Asyl und aktive Unterstützung zu gewähren.\nGender inclusive:",
+        "targets": [
+            "Dieselben Kritiker*innen haben stets behauptet, die Deutschen seien unfähig, eine Revolution zu machen – aber stimmt das eigentlich?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 63,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Amerikaner sollten bei den europäischen Allianzpartnern Abschussbasen für ihre Raketen einhandeln.\nGender inclusive:",
+        "targets": [
+            "Da einige der Maßnahmen bereits ausgelaufen oder reduziert worden seien, oder ausliefen, sei davon auszugehen, \"dass einkommensschwächere Haushalte negativ betroffen bleiben, solange die Pandemie nicht gestoppt ist. Daher erscheint es erforderlich, weitere Maßnahmen zur Armutsbekämpfung und zum Ausgleich für die Pandemie-Verlierer*innen zu treffen.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 35,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Der konkrete Patient wird niemals identisch mit diesen Strukturen sein.\nGender inclusive:",
+        "targets": [
+            "Solche Zwischenrufer*innen – Maul-Anarchist*innen – würde man auch nicht mit einer Geldbuße im Werte eines halben Tagesgeldes treffen",
+            "Solche Zwischenrufenden – Maul-Anarchist*innen – würde man auch nicht mit einer Geldbuße im Werte eines halben Tagesgeldes treffen"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 63,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: So behaupten die Autoren etwa, offizielle Statistiken seien falsch oder im Nachhinein korrigiert worden.\nGender inclusive:",
+        "targets": [
+            "Beim Film und beim Theater gibt's ja immer eine*n Regisseur*in, der * die mir sagt, was ich machen soll.",
+            "Beim Film und beim Theater gibt's ja immer eine*n Regisseur*in, der*die mir sagt, was ich machen soll."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Arbeiter und Angestellten gehören der bestehenden Rentenversicherung an.\nGender inclusive:",
+        "targets": [
+            "Egon Krenz ist mit Sicherheit kein Hoffnungsträger seiner Leipziger Parteifreund*innen."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 42,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: In Istanbul hat unter großem Andrang von Medienvertretern und Beobachtern die Neuverhandlung des sogenannten Gezi-Prozesses begonnen.\nGender inclusive:",
+        "targets": [
+            "Die deutsche Gesellschaft hat nie viel übrig gehabt für die Spottenden und Spitzfindigen, die Utopist*innen und Tagträumenden, die radikalen Dichtenden und Denkenden, die Nachfahr*innen von Heinrich Heine und Kurt Tucholsky, von Gustav Landauer und Erich Mühsam.",
+            "Die deutsche Gesellschaft hat nie viel übrig gehabt für die Spötter*innen und Spitzfindigen, die Utopist*innen und Tagträumer*innen, die radikalen Dichter*innen und Denker*innen, die Nachfahr*innen von Heinrich Heine und Kurt Tucholsky, von Gustav Landauer und Erich Mühsam."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 102,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Gelänge es, die allgemeine Ächtung von Geiselnehmern zu erreichen und ihr mit einem glaubwürdigen Boykott der Luftverkehrs-Verbindungen gegenüber allen Gast- und Begünstigungsländern Nachdruck zu verleihen, so würden sich wohl auch arabische und afrikanische Potentaten überlegen, ob es sich noch auszahlt, Terroristen Asyl und aktive Unterstützung zu gewähren.\nGender inclusive:",
+        "targets": [
+            "Bei \"Cum-Ex\"-Geschäften nutzten Investor*innen eine Lücke im Gesetz, um den Staat über Jahre hinweg um Milliarden-Beträge zu prellen."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 99,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Wie die Polizei mitteilte, brachen die Täter am Wochenende über ein gekipptes Fenster in das Gebäude ein und errichteten einen Seilzug, über den sie den Tresor ins Freie brachten.\nGender inclusive:",
+        "targets": [
+            "Und die geforderte zentrale Auswahl der Bundestagskandidat*innen (zur qualitativen Verbesserung der Fraktion) ist schon im Parteistatut geregelt."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 142,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die deutsche Gesellschaft hat nie viel übrig gehabt für die Spötter und Spitzfindigen, die Utopisten und Tagträumer, die radikalen Dichter und Denker, die Nachfahren von Heinrich Heine und Kurt Tucholsky, von Gustav Landauer und Erich Mühsam.\nGender inclusive:",
+        "targets": [
+            "Sie sprengten Häuser und Menschen in die Luft, erschossen Polizist*innen und nahmen Geiseln, um sie als Austauschobjekte gegen die Freilassung von Mittäter*innen zu verwenden."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 55,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Man muss seine Wähler schon sehr hassen, wenn man ihnen diesen Sehnsuchtsort verbieten will, oder?\nGender inclusive:",
+        "targets": [
+            "Politiker*innen von SPD und Union haben sich für eine Verlängerung der epidemischen Lage von nationaler Tragweite als Grundlage zahlreicher Grundrechtseinschränkungen in der Pandemie über den Juni hinaus ausgesprochen."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    }
+]

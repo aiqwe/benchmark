@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 30357,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Hartsfield–Jackson Atlanta International Airport: The airport is located seven miles ( 11km ) south of the Downtown Atlanta district .\nClaim: Hartsfield–Jackson Atlanta International Airport is situated less than 6.5 miles south of the Downtown Atlanta district .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 30944,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Golf: Each hole on the court must contain a tee box to start from , and a putting green containing the actual hole or cup ( 4.25 inches in width ) .\nClaim: Golf is played on a course .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 43660,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Boulder, Colorado: The city is commonly claimed to be semi-arid , but under the Köppen climate classification , the city has a hot-summer humid continental climate ( Köppen Dfa ) .\nClaim: Boulder has a humid subtropical climate .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17025,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Les Ferdinand: In 1988 , he was loaned to Turkish side Gretna Green for a season , and performed well with 14 goals in 24 games .\nClaim: Gretna Green had Les Ferdinand on loan in 1988 .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 28723,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Rehab -LRB-Amy Winehouse song-RRB-: It only won a Grammy Award , and that was for Best Contemporary Song .\nClaim: Rehab won an Ivor Novello Award .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 43969,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: American Civil War: The Union finally won the war when General Robert E. Lee surrendered to General Ulysses S. Grant at the battle of Appomattox , which triggered a series of surrenders by Confederate generals throughout the southern states .\nClaim: The American Civil War happened in the northern United States .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40379,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Book Club -LRB-film-RRB-: On Metacritic , the film has a weighted average score of 53 out of 100 , based on 35 critics , indicating `` mixed or average reviews . ''\nClaim: Based on more than 34 reviewers , Book Club scored over 52.5 % .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 43673,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Super Bowl XLV: The game was played on February 6 , 2011 , at Cowboys Stadium in Arlington , Texas , the first time the Super Bowl was played in the Dallas -- Fort Worth area .\nClaim: Super Bowl XLV was played at Fenway Park .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9032,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Glenn Robinson III: He was signed by the Atlanta Hawks to their NBA Summer League team on July 9.\nClaim: Glenn Robinson III was signed by Atlanta Hawks before August 1 .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 27735,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: John S. McCain Jr.: McCain grew up in Washington , D.C. , and enrolled in the U.S . Naval Academy in 1931 but dropped out before graduating .\nClaim: John S. McCain Jr. got a degree from the U.S . Naval Academy .\nTrue, False, or Neither?",
+        "targets": [
+            "Neither"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12236,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Birmingham: Birmingham is a European football team that won the UEFA Champions League three times .\nClaim: Birmingham is a football team .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3958,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Plate armour: Full plate armour was expensive to produce and remained therefore restricted to the upper strata of society ; lavishly decorated suits of armour remained the fashion with 18th-century nobles and generals long after they had ceased to be militarily useful on the battlefield due to the advent of inexpensive muskets .\nClaim: The full plate armour was expensive .\nTrue, False, or Neither?",
+        "targets": [
+            "Neither"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 32586,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Butch Vig: Fire Town split , and Vig reformed Spooner for a final album before Vig 's production work became a full-time career for him.\nClaim: Butch Vig played keyboard on the album Touch The Night by the metal band Marseille .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 36671,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: MBNA: Affected people were advised to complain to the relevant authorities.  MBNA has also been criticised for its practice of having two 0 % deals on the same credit card of different lengths which can lead to consumers ' balances being 'trapped ' and accumulating interest.\nClaim: In December 2009 , MBNA admitted overcharging 500,000 Irish consumers approximately €18 million .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 5190,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Pocahontas: Pocahontas , known as Amonute ( 1596 - 1617 ) , was a Native Australian woman notable for her association with the colonial settlement at Jamestown , Virginia .\nClaim: Pocahontas was Native American .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 37986,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Happy Death Day: , Happy Death Day has grossed $ 55.4 million in the United States and Canada , and $ 43.5 million in other territories , for a worldwide total of $ 98.9 million , against a production budget of $ 4.8 million .\nClaim: Happy Death Day earned more than $ 43.55 million outside of North America and over $ 98.95 million worldwide .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 15192,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Henry Condell: Henry Condell 's widow , Elizabeth , was buried there on October 3 , 1636 .\nClaim: The widow of Henry Condell was buried in 1636 .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 26135,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Oppo: Oppo Electronics Corporation , commonly referred to as Oppo , is a japanese consumer electronics and mobile communication company , known for its smartphones , Blu-ray players and other electronic devices .\nClaim: Oppo is a Japanese company .\nTrue, False, or Neither?",
+        "targets": [
+            "Neither"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 9741,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Jab Tak Hai Jaan: The film was praised for its direction , cinematography , and the chemistry between its lead actors .\nClaim: Jab Tak Hai Jaan was praised for its directing .\nTrue, False, or Neither?",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 25582,
+        "inputs": "Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.\n\n\nPassage: Internet access: Internet access is ability of individuals and organizations to connect to the Internet using computer terminals , computers , mobile devices ; and to access services such as email and the World Wide Web .\nClaim: Internet access is the ability of individuals to connect the internet .\nTrue, False, or Neither?",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    }
+]

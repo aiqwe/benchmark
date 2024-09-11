@@ -1,0 +1,342 @@
+[
+    {
+        "idx": 168,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The reporter and the chef discuss her favorite dishes.\n  choice: Ambiguous\n  choice: They discuss the chef's favorite dishes\n  choice: They discuss the reporter's favorite dishes\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "The developer made a mistake",
+            "The secretary made a mistake",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 119,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: My parent called their secretary for more information\n  choice: Ambiguous\n  choice: They were my parent's secretary\n  choice: They were the secretary's secretary\nPronoun identification:",
+        "targets": [
+            "They were the writer's friends"
+        ],
+        "multiple_choice_targets": [
+            "The librarian asked",
+            "The CEO asked",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 165,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The technician told the customer that she had completed the repair.\n  choice: Ambiguous\n  choice: The customer completed the repair\n  choice: The technician completed the repair\nPronoun identification:",
+        "targets": [
+            "The homeowner had purchased"
+        ],
+        "multiple_choice_targets": [
+            "The taxpayer could help",
+            "The accountant could help",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 86,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The cook is always teaching the assistant new techniques because she likes to teach others.\n  choice: Ambiguous\n  choice: The assistant likes to teach\n  choice: The cook likes to teach\nPronoun identification:",
+        "targets": [
+            "The secretary understood the problem"
+        ],
+        "multiple_choice_targets": [
+            "The patient is an expert",
+            "The specialist is an expert",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The reporter and the chef will discuss his favorite dishes.\n  choice: Ambiguous\n  choice: They will discuss the chef's favorite dishes\n  choice: They will discuss the reporter's favorite dishes\nPronoun identification:",
+        "targets": [
+            "The technician completed the repair"
+        ],
+        "multiple_choice_targets": [
+            "They were my parent's secretary",
+            "They were the secretary's secretary",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 46,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The developer met with the secretary because she made a mistake.\n  choice: Ambiguous\n  choice: The developer made a mistake\n  choice: The secretary made a mistake\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "The patient is an expert",
+            "The specialist is an expert",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 113,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The customer and the chef discussed his culinary training.\n  choice: Ambiguous\n  choice: It was the chef's culinary training\n  choice: It was the customer's culinary training\nPronoun identification:",
+        "targets": [
+            "It is Sam's office"
+        ],
+        "multiple_choice_targets": [
+            "The technician completed the repair",
+            "The customer completed the repair",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 166,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The hygienist told the patient that he should floss every day.\n  choice: Ambiguous\n  choice: The hygienist should floss\n  choice: The patient should floss\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "The cook likes to teach",
+            "The assistant likes to teach",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 60,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The mechanic greets the receptionist because he is standing in front of the door.\n  choice: Ambiguous\n  choice: The mechanic is standing in front of the door\n  choice: The receptionist is standing in front of the door\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "They were my cousin's boss",
+            "They were the boss's boss",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: Alex did not know Taylor until she sent a letter.\n  choice: Alex sent the letter\n  choice: Ambiguous\n  choice: Taylor sent the letter\nPronoun identification:",
+        "targets": [
+            "The homeowner had purchased"
+        ],
+        "multiple_choice_targets": [
+            "The mechanic is standing in front of the door",
+            "The receptionist is standing in front of the door",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The designer collaborated with the carpenter and gave them a blueprint.\n  choice: Ambiguous\n  choice: Gave the carpenter a blueprint\n  choice: Gave the designer a blueprint\nPronoun identification:",
+        "targets": [
+            "It was the pathologist's microscope"
+        ],
+        "multiple_choice_targets": [
+            "Asked the designer",
+            "Asked the janitor",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 116,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The writer tried to fool the salesperson and told him a fake story.\n  choice: Ambiguous\n  choice: Told the salesperson a fake story\n  choice: Told the writer a fake story\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "The customer would send the prices",
+            "The salesperson would send the prices",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 200,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The developer was unable to communicate with the writer because they focus on code.\n  choice: Ambiguous\n  choice: The developer focuses on code\n  choice: The writer focuses on code\nPronoun identification:",
+        "targets": [
+            "Ambiguous"
+        ],
+        "multiple_choice_targets": [
+            "It will be Bailey's office",
+            "It will be the director's office",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: This story could not be published without the writer and his friends' support.\n  choice: They were the friends' friends\n  choice: They were the writer's friends\n  choice: Ambiguous\n  choice: They were the story's friends\nPronoun identification:",
+        "targets": [
+            "Gave the clerk a discount"
+        ],
+        "multiple_choice_targets": [
+            "Alex could not meet",
+            "We could not meet",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 148,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The visitor tells the teacher that she likes the cake.\n  choice: Ambiguous\n  choice: The teacher likes the cake\n  choice: The visitor likes the cake\nPronoun identification:",
+        "targets": [
+            "The patient should floss"
+        ],
+        "multiple_choice_targets": [
+            "The homeowner had purchased",
+            "The inspector had purchased",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 80,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The chief thanked the housekeeper and gave her some tips.\n  choice: Ambiguous\n  choice: Gave the chief some tips\n  choice: Gave the housekeeper some tips\nPronoun identification:",
+        "targets": [
+            "Told the salesperson a fake story"
+        ],
+        "multiple_choice_targets": [
+            "Asked the guard",
+            "Asked the cleaner",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 128,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The nurse stayed away from the laborer because she was very busy.\n  choice: Ambiguous\n  choice: The laborer was busy\n  choice: The nurse was busy\nPronoun identification:",
+        "targets": [
+            "Asked if the assistant could borrow money"
+        ],
+        "multiple_choice_targets": [
+            "Gave the chief some tips",
+            "Gave the housekeeper some tips",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The nurse was running from the laborer because he smelled awful.\n  choice: Ambiguous\n  choice: The laborer smelled awful\n  choice: The nurse smelled awful\nPronoun identification:",
+        "targets": [
+            "It was the employee's performance"
+        ],
+        "multiple_choice_targets": [
+            "It was the pathologist's microscope",
+            "It was the victim's microscope",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 172,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: The developer corrected the secretary because she better understood the problem.\n  choice: Ambiguous\n  choice: The developer understood the problem\n  choice: The secretary understood the problem\nPronoun identification:",
+        "targets": [
+            "The accountant could help"
+        ],
+        "multiple_choice_targets": [
+            "Sold the salesperson some garbage",
+            "Sold the writer some garbage",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\n\nSentence: My parent called her secretary for more information\n  choice: Ambiguous\n  choice: They were my parent's secretary\n  choice: They were the secretary's secretary\nPronoun identification:",
+        "targets": [
+            "It was the pathologist's microscope"
+        ],
+        "multiple_choice_targets": [
+            "The mechanic is arrogant",
+            "The cashier is arrogant",
+            "Ambiguous"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    }
+]
