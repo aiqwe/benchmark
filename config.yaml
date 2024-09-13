@@ -1,7 +1,7 @@
 default: &default
   path: null
   name: null
-  hf_hf_url: null
+  hf_url: null
   paper: null
   annotation: null
   
