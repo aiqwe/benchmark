@@ -8,6 +8,7 @@ from loguru import logger
 from pygments import highlight, lexers, formatters
 from typing import Union
 from template import README_TEMPLATE
+import requests
 
 
 def show(obj, colored: bool = True):
@@ -22,7 +23,7 @@ def show(obj, colored: bool = True):
     print(encoded)
 
 
-class Benchmark:
+class HFReader:
     def __init__(
         self,
         benchmark_name: str,
@@ -40,7 +41,7 @@ class Benchmark:
             name: config로 전달되는 path값, ARC-Challenge, ARC-easy, logiqa-en ... 등
             num_proc: 작업 프로세스 수
         """
-        hf_conf = HFDatasets()
+        hf_conf = Config()
         self.benchmark_name = benchmark_name
         self.path = path
         self.name = name
@@ -108,7 +109,7 @@ class Benchmark:
             dataset = self.datasetdict[split]
 
         if not sample:
-            samples = self.sample(dataset=dataset, category=category)
+            samples = self.sampling(dataset=dataset, category=category)
 
         if not idx:
             idx = random.randint(0, len(samples) - 1)
@@ -135,7 +136,7 @@ class Benchmark:
             dataset = self.datasetdict[split]
 
         if not samples:
-            samples = self.sample(dataset=dataset, category=category)
+            samples = self.sampling(dataset=dataset, category=category)
         if not path:
             file_name = f"{self.path.split('/')[-1] + '-' + self.name if self.name else self.path.split('/')[-1]}"
             path = f"./tasks/{self.benchmark_name}/{file_name}.json"
@@ -149,7 +150,7 @@ class Benchmark:
         return f"{self.repr}"
 
     @lru_cache
-    def sample(self, split: str = None, dataset=None, category: str = None):
+    def sampling(self, split: str = None, dataset=None, category: str = None):
         """
         dataset에서 sampling하기, 카테고리가 있으면 카테고리마다 1개씩 샘플링함
         Args:
@@ -191,8 +192,8 @@ class Benchmark:
         return self.samples
 
 
-class HFDatasets:
-    def __init__(self, path: str = "hfdatasets.yaml"):
+class Config:
+    def __init__(self, path: str = "config.yaml"):
         with open(path, "r") as f:
             file = f.read()
             conf = list(load_all(file, Loader=Loader))[0]
@@ -271,4 +272,63 @@ class HFDatasets:
                 logger.info(f"{guide_doc}을 초기화합니다")
 
     def __repr__(self):
-        return f"HFDatasets:\n{self.get_all_names()}\nMore Details in self.config"
+        return "Benchmark List:\n{}---------- More details in self.config".format(
+            "\n".join([f"  - {name}" for name in self.get_all_names()])
+        )
+
+
+class GithubReader:
+    def __init__(self, user: str, repo: str, fpath: str = None):
+        """
+        Github 파일을 읽어옴
+
+        Args:
+            user: github user명, ex) 'aiqwe'
+            repo: repo 이름 ex) 'papers', 'benchmark'
+            fpath: 파일의 위치. ex) 'tasks/arc/ai2-arc-ARC-Challenge.json'
+        """
+        self.url = f"https://raw.githubusercontent.com/{user}/{repo}/master"
+        self.user = user.lower()
+        self.repo = repo.lower()
+        self.fpath = fpath
+
+    @lru_cache
+    def get_jsonl(self, fpath: None):
+        if not self.fpath:
+            if not fpath:
+                raise ValueError(
+                    "if self.fpath is None, argument 'fpath' from 'get' should be passed"
+                )
+        else:
+            if fpath:
+                logger.info(f"{self.fpath} will be overwritten by {fpath}")
+        self.fpath = fpath
+        url = self.url + f"/{self.fpath}"
+        response = requests.get(url)
+        if self.fpath.endswith("jsonl"):
+            self.data = [json.loads(obj) for obj in response.text.splitlines()]
+        if self.fpath.endswith("json"):
+            self.data = json.loads(response.text)
+        return self.data
+
+    def sampling(self, fpath=None, n: int = 1000):
+        return self.get_jsonl(fpath)[:n]
+
+    def show(self, fpath=None, idx=None, colored=True):
+        samples = self.sampling(fpath)
+
+        if not idx:
+            idx = random.randint(0, len(samples) - 1)
+        show(samples[idx], colored=colored)
+
+    def save(self, fpath: str = None, path: str = None, n: int = 20):
+        total = self.get_jsonl(fpath)
+        samples = random.sample(total, k=n)
+        if not path:
+            file_name = self.repo + "-" + os.path.basename(self.fpath).split(".")[0]
+            path = f"./tasks/{self.repo}/{file_name}.json"
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w") as f:
+            logger.info(f"{path}에 저장합니다.")
+            logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
+            json.dump(samples, f, ensure_ascii=False, indent=4)
