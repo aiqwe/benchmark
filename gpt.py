@@ -11,7 +11,7 @@ DEFAULT_ROLE = {
 
 def chat(
     text: str,
-    model="gpt-4o-2024-08-06",
+    model="o1-preview-2024-09-12",
     role: str = DEFAULT_ROLE["translator"],
     api_key: str = None,
 ):
@@ -22,10 +22,9 @@ def chat(
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": role},
+            {"role": "assistant", "content": role},
             {"role": "user", "content": text},
-        ],
-        temperature=0,
+        ]
     )
 
     return completion.choices[0].message.content

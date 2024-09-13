@@ -1,15 +1,19 @@
 import json
 from functools import lru_cache
-from datasets import load_dataset
 import os
 import random
-from yaml import load_all, CLoader as Loader
-from loguru import logger
-from pygments import highlight, lexers, formatters
+import re
 from typing import Union
-from template import README_TEMPLATE
 from textwrap import dedent, indent
 import requests
+
+from loguru import logger
+from datasets import load_dataset
+from pygments import highlight, lexers, formatters
+from yaml import load_all, CLoader as Loader
+from fsspec.implementations.github import GithubFileSystem
+
+from template import README_TEMPLATE
 
 
 def show(obj, colored: bool = True):
@@ -23,6 +27,110 @@ def show(obj, colored: bool = True):
         )
     print(encoded)
 
+class Config:
+    def __init__(self, path: str = "config.yaml"):
+        with open(path, "r") as f:
+            file = f.read()
+            conf = list(load_all(file, Loader=Loader))[0]
+        self.config = {k: v for k, v in conf.items() if not k.startswith("default")}
+        for k, v in self.config.items():
+            setattr(self, k, v)
+
+    @property
+    def all_names(self):
+        return self.get_all_names()
+
+    def get_all_names(self):
+        """yaml내 벤치마크들의 전체 이름 출력"""
+        return list(self.config.keys())
+
+    def get_all_values(self, key: str):
+        """벤치마크들의 key로 전달된 값의 value들만 출력"""
+        return {
+            k: v_v
+            for k, v in self.config.items()
+            for v_k, v_v in v.items()
+            if v_k == key
+        }
+
+    def get_benchmark(self, name: str):
+        """벤치마크의 전체 정보 출력"""
+        return self.config[name]
+
+    def make_folder_tree(self, key: Union[list, str] = None, overwrite: bool = False):
+        # if key is none, make all benchmark folder tree
+        if not key:
+            key = self.get_all_names()
+
+        if isinstance(key, str):
+            key = [key]
+        # Guide Markdown within the folder
+        for k in key:
+            # Make Folder Tree and README.md
+            os.makedirs(f"tasks/{k}", exist_ok=True)
+            guide_doc = f"tasks/{k}/README.md"
+            if not overwrite and os.path.exists(f"tasks/{k}/README.md"):
+                continue
+
+            # Make default Markdown
+            on_the_fly = {}
+            for key, value in self.config[k].items():
+                if isinstance(value, list):
+                # toggle should be written in html tag like below:
+                # <details>
+                #    <summary> click </summary>
+                #    <div>- <code>value</code></div>
+                # </details>
+                    lines = []
+                    for idx, ele in enumerate(value):
+                        if idx == 0:
+                            indent_num= 8 # 첫번째 라인은 prefix = " "*4를 적용받으므로 8칸만 indent
+                        else:
+                            indent_num = 12 # 두번째 라인부터는 prefix를 적용받지 않으므로 12칸 indent
+                        lines.append(indent(f"<div>  -  <code>{ele}</code></div>", prefix=" " * indent_num))
+                    on_the_fly.update(
+                                {key: indent(dedent(
+                                """
+                                    <details>
+                                        <summary>Click</summary>
+                                    {}
+                                    </details>
+                                """), prefix = " " * 4).format('\n'.join(lines))
+                                })
+                # path, name은 backtick 처리
+                elif isinstance(value, str) and key in ("path", "name"):
+                    on_the_fly.update({key: f"`{value}`"})
+                else:
+                    on_the_fly.update({key: value})
+            # README_TEMPLATE:
+            # {benchmark_name}
+            # + ** source **: {source}
+            # + ** hf_path **: {hf_path}
+            # + ** hf_url **: {hf_url}
+            # + ** url **: {url}
+            # + ** name **: {name}
+            # + ** hf_url **: [{hf_url}]({hf_url})
+            # + ** paper **: [{paper}]({paper})
+            # + ** annotation **: [{annotation}]({annotation})
+            guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)
+            # None이 있으면 해당 줄 삭제처리
+            guide_doc_md_processed = []
+            for line in guide_doc_md.split("\n"):
+                if "None" in line:
+                    continue
+                else:
+                    guide_doc_md_processed.append(line)
+            guide_doc_md = "\n".join(guide_doc_md_processed)
+
+            # 저장
+            with open(f"tasks/{k}/README.md", "w") as f:
+                f.write(guide_doc_md)
+                logger.info(f"{guide_doc}을 초기화합니다")
+
+    def __repr__(self):
+        return "Benchmark List:\n{}---------- More details in self.config".format(
+            "\n".join([f"  - {name}" for name in self.get_all_names()])
+        )
 
 class HFReader:
     def __init__(
@@ -48,17 +156,17 @@ class HFReader:
         self.name = name
         self.dataset_option = dataset_option or {}
         if not path:
-            self.path = hf_conf.config[benchmark_name]["path"]
+            self.path = hf_conf.config[benchmark_name]["hf_path"]
         if not name:
-            self.name = hf_conf.config[benchmark_name]["name"]
+            self.name = hf_conf.config[benchmark_name]["hf_name"]
         if not isinstance(self.name, str):
             if isinstance(self.name, list):
-                self.name_list = hf_conf.config[benchmark_name]["name"]
-                self.name = hf_conf.config[benchmark_name]["name"][
+                self.name_list = hf_conf.config[benchmark_name]["hf_name"]
+                self.name = hf_conf.config[benchmark_name]["hf_name"][
                     random.randint(0, len(self.name) - 1)
                 ]
                 logger.info(
-                    f"name is type of list. randomly picked '{self.name}'\nall names are saved within 'self.name_list':\n{hf_conf.config[benchmark_name]['name']}"
+                    f"name is type of list. randomly picked '{self.name}'\nall names are saved within 'self.name_list':\n{hf_conf.config[benchmark_name]['hf_name']}"
                 )
         if not isinstance(self.path, str):
             raise ValueError("path must be strings")
@@ -192,115 +300,8 @@ class HFReader:
         self.samples = samples
         return self.samples
 
-
-class Config:
-    def __init__(self, path: str = "config.yaml"):
-        with open(path, "r") as f:
-            file = f.read()
-            conf = list(load_all(file, Loader=Loader))[0]
-        self.config = {k: v for k, v in conf.items() if not k.startswith("default")}
-        for k, v in self.config.items():
-            setattr(self, k, v)
-
-    @property
-    def all_names(self):
-        return self.get_all_names()
-
-    def get_all_names(self):
-        """yaml내 벤치마크들의 전체 이름 출력"""
-        return list(self.config.keys())
-
-    def get_all_values(self, key: str):
-        """벤치마크들의 key로 전달된 값의 value들만 출력"""
-        return {
-            k: v_v
-            for k, v in self.config.items()
-            for v_k, v_v in v.items()
-            if v_k == key
-        }
-
-    def get_benchmark(self, name: str):
-        """벤치마크의 전체 정보 출력"""
-        return self.config[name]
-
-    def make_folder_tree(self, key: Union[list, str] = None, overwrite: bool = False):
-        # if key is none, make all benchmark folder tree
-        if not key:
-            key = self.get_all_names()
-
-        if isinstance(key, str):
-            key = [key]
-        # Guide Markdown within the folder
-        for k in key:
-            # Make Folder Tree and README.md
-            os.makedirs(f"tasks/{k}", exist_ok=True)
-            guide_doc = f"tasks/{k}/README.md"
-            if not overwrite and os.path.exists(f"tasks/{k}/README.md"):
-                continue
-
-            # Make default Markdown
-            on_the_fly = {}
-            for key, value in self.config[k].items():
-                if isinstance(value, list):
-                # toggle should be written in html tag like below:
-                # <details>
-                #    <summary> click </summary>
-                #    <div>- <code>value</code></div>
-                # </details>
-                    lines = []
-                    for idx, ele in enumerate(value):
-                        if idx == 0:
-                            indent_num= 8 # 첫번째 라인은 prefix = " "*4를 적용받으므로 8칸만 indent
-                        else:
-                            indent_num = 12 # 두번째 라인부터는 prefix를 적용받지 않으므로 12칸 indent
-                        lines.append(indent(f"<div>  -  <code>{ele}</code></div>", prefix=" " * indent_num))
-                    on_the_fly.update(
-                                {key: indent(dedent(
-                                """
-                                    <details>
-                                        <summary>Click</summary>
-                                    {}
-                                    </details>
-                                """), prefix = " " * 4).format('\n'.join(lines))
-                                })
-                # path, name은 backtick 처리
-                elif isinstance(value, str) and key in ("path", "name"):
-                    on_the_fly.update({key: f"`{value}`"})
-                else:
-                    on_the_fly.update({key: value})
-            # README_TEMPLATE:
-            # {benchmark_name}
-            # + ** source **: {source}
-            # + ** hf_path **: {hf_path}
-            # + ** hf_url **: {hf_url}
-            # + ** url **: {url}
-            # + ** name **: {name}
-            # + ** hf_url **: [{hf_url}]({hf_url})
-            # + ** paper **: [{paper}]({paper})
-            # + ** annotation **: [{annotation}]({annotation})
-            guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)
-            # None이 있으면 해당 줄 삭제처리
-            guide_doc_md_processed = []
-            for line in guide_doc_md.split("\n"):
-                if "None" in line:
-                    continue
-                else:
-                    guide_doc_md_processed.append(line)
-            guide_doc_md = "\n".join(guide_doc_md_processed)
-
-            # 저장
-            with open(f"tasks/{k}/README.md", "w") as f:
-                f.write(guide_doc_md)
-                logger.info(f"{guide_doc}을 초기화합니다")
-
-    def __repr__(self):
-        return "Benchmark List:\n{}---------- More details in self.config".format(
-            "\n".join([f"  - {name}" for name in self.get_all_names()])
-        )
-
-
 class GithubReader:
-    def __init__(self, user: str, repo: str, fpath: str = None):
+    def __init__(self, benchmark_name: str, user: str = None, repo: str = None, fpath: str = None):
         """
         Github 파일을 읽어옴
 
@@ -309,10 +310,30 @@ class GithubReader:
             repo: repo 이름 ex) 'papers', 'benchmark'
             fpath: 파일의 위치. ex) 'tasks/arc/ai2-arc-ARC-Challenge.json'
         """
-        self.url = f"https://raw.githubusercontent.com/{user}/{repo}/master"
+        conf = Config()
+        pattern = r"https://github.com/(.*)/(.*)"
+        benchmark_url = conf.config[benchmark_name]['url']
+        matched = re.match(pattern, benchmark_url)
+        if not user:
+            user = matched.group(1)
+        if not repo:
+            repo = matched.group(2)
+
+        self.benchmark_name = benchmark_name
+        self.download_url = f"https://raw.githubusercontent.com/{user}/{repo}/master"
         self.user = user.lower()
         self.repo = repo.lower()
         self.fpath = fpath
+
+    def get_files(self, folder: str, pattern = None):
+        fs = GithubFileSystem(org=self.user, repo=self.repo)
+        if not pattern:
+            logger.info("searching for '*.json' and '*.jsonl' patterns")
+            result = fs.glob(fs.sep.join([folder, "*.json"])) + fs.glob(fs.sep.join([folder, "*.jsonl"]))
+        else:
+            result = fs.glob(fs.sep.join([folder, pattern]))
+        result = [f.split("/")[-1].split(".")[0] for f in result]
+        return result
 
     @lru_cache
     def get_jsonl(self, fpath: None):
@@ -325,7 +346,7 @@ class GithubReader:
             if fpath:
                 logger.info(f"{self.fpath} will be overwritten by {fpath}")
         self.fpath = fpath
-        url = self.url + f"/{self.fpath}"
+        url = self.download_url + f"/{self.fpath}"
         response = requests.get(url)
         if self.fpath.endswith("jsonl"):
             self.data = [json.loads(obj) for obj in response.text.splitlines()]
@@ -333,22 +354,32 @@ class GithubReader:
             self.data = json.loads(response.text)
         return self.data
 
-    def sampling(self, fpath=None, n: int = 1000):
-        return self.get_jsonl(fpath)[:n]
+    def sampling(self, data: list = None, fpath=None, n: int = 1000):
+        self.get_jsonl(fpath)
+        if isinstance (self.data, list):
+            return self.data[:n]
+        else:
+            logger.info("samples are not list. please check self.data and pass sample manually through self.show")
 
-    def show(self, fpath=None, idx=None, colored=True):
-        samples = self.sampling(fpath)
 
+    def show(self, data: list = None, fpath=None, idx=None, colored=True):
+        if not data:
+            samples = self.sampling(fpath)
+        else:
+            samples = data
         if not idx:
             idx = random.randint(0, len(samples) - 1)
         show(samples[idx], colored=colored)
 
-    def save(self, fpath: str = None, path: str = None, n: int = 20):
-        total = self.get_jsonl(fpath)
+    def save(self, data: list = None, fpath: str = None, path: str = None, n: int = 20):
+        if not data:
+            total = self.get_jsonl(fpath)
+        else:
+            total = data
         samples = random.sample(total, k=n)
         if not path:
             file_name = self.repo + "-" + os.path.basename(self.fpath).split(".")[0]
-            path = f"./tasks/{self.repo}/{file_name}.json"
+            path = f"./tasks/{self.benchmark_name}/{file_name}.json"
             os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
             logger.info(f"{path}에 저장합니다.")
