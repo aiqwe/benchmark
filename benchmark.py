@@ -8,6 +8,7 @@ from loguru import logger
 from pygments import highlight, lexers, formatters
 from typing import Union
 from template import README_TEMPLATE
+from textwrap import dedent, indent
 import requests
 
 
@@ -241,9 +242,27 @@ class Config:
             on_the_fly = {}
             for key, value in self.config[k].items():
                 if isinstance(value, list):
+                # toggle should be written in html tag like below:
+                # <details>
+                #    <summary> click </summary>
+                #    <div>- <code>value</code></div>
+                # </details>
+                    lines = []
+                    for idx, ele in enumerate(value):
+                        if idx == 0:
+                            indent_num= 8 # 첫번째 라인은 prefix = " "*4를 적용받으므로 8칸만 indent
+                        else:
+                            indent_num = 12 # 두번째 라인부터는 prefix를 적용받지 않으므로 12칸 indent
+                        lines.append(indent(f"<div>  -  <code>{ele}</code></div>", prefix=" " * indent_num))
                     on_the_fly.update(
-                        {key: "\n" + "\n".join([f"    + `{ele}`" for ele in value])}
-                    )
+                                {key: indent(dedent(
+                                """
+                                    <details>
+                                        <summary>Click</summary>
+                                    {}
+                                    </details>
+                                """), prefix = " " * 4).format('\n'.join(lines))
+                                })
                 # path, name은 backtick 처리
                 elif isinstance(value, str) and key in ("path", "name"):
                     on_the_fly.update({key: f"`{value}`"})
@@ -251,9 +270,12 @@ class Config:
                     on_the_fly.update({key: value})
             # README_TEMPLATE:
             # {benchmark_name}
-            # + ** path **: `{path}`
-            # + ** name **: `{name}`
-            # + ** url **: [{hf_url}]({hf_url})
+            # + ** source **: {source}
+            # + ** hf_path **: {hf_path}
+            # + ** hf_url **: {hf_url}
+            # + ** url **: {url}
+            # + ** name **: {name}
+            # + ** hf_url **: [{hf_url}]({hf_url})
             # + ** paper **: [{paper}]({paper})
             # + ** annotation **: [{annotation}]({annotation})
             guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)

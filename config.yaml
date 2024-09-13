@@ -1,26 +1,31 @@
 default: &default
-  path: null
-  name: null
+  source: null
+  hf_path: null
+  hf_name: null
   hf_url: null
+  url: null
   paper: null
   annotation: null
   
 mmlu:
   <<: *default
-  path: cais/mmlu
-  name: all
+  source: huggingface
+  hf_path: cais/mmlu
+  hf_name: all
   hf_url: https://huggingface.co/datasets/cais/mmlu
   paper: https://arxiv.org/pdf/2009.03300
   
 mmlu_pro:
   <<: *default
-  path: TIGER-Lab/MMLU-Pro
+  source: huggingface
+  hf_path: TIGER-Lab/MMLU-Pro
   hf_url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
   paper: https://arxiv.org/pdf/2406.01574
   
 agi_eval:
   <<: *default
-  path:
+  source: huggingface
+  hf_path:
     - hails/agieval-lsat-rc
     - hails/agieval-logiqa-en
     - hails/agieval-gaokao-english
@@ -36,14 +41,16 @@ agi_eval:
 
 commonsense_qa:
   <<: *default
-  path: tau/commonsense_qa
+  source: huggingface
+  hf_path: tau/commonsense_qa
   hf_url: https://huggingface.co/datasets/tau/commonsense_qa
   paper: https://arxiv.org/pdf/1811.00937
 
 winogrande:
   <<: *default
-  path: allenai/winogrande
-  name:
+  source: huggingface
+  hf_path: allenai/winogrande
+  hf_name:
     - winogrande_s
     - winogrande_m
     - winogrande_l
@@ -54,8 +61,9 @@ winogrande:
 
 bigbenchhard:
   <<: *default
-  path: maveriq/bigbenchhard
-  name:
+  source: huggingface
+  hf_path: maveriq/bigbenchhard
+  hf_name:
     - boolean_expressions
     - causal_judgement
     - date_understanding
@@ -88,8 +96,9 @@ bigbenchhard:
 
 arc:
   <<: *default
-  path: allenai/ai2_arc
-  name:
+  source: huggingface
+  hf_path: allenai/ai2_arc
+  hf_name:
     - ARC-Challenge
     - ARC-Easy
   hf_url: https://huggingface.co/datasets/allenai/ai2_arc
@@ -97,8 +106,9 @@ arc:
 
 trivia_qa:
   <<: *default
-  path: mandarjoshi/trivia_qa
-  name:
+  source: huggingface
+  hf_path: mandarjoshi/trivia_qa
+  hf_name:
     - rc
     - rc.nocontext
     - rc.web
@@ -112,50 +122,57 @@ trivia_qa:
 
 squad_v2:
   <<: *default
-  path: rajpurkar/squad_v2
+  source: huggingface
+  hf_path: rajpurkar/squad_v2
   hf_url: https://huggingface.co/datasets/rajpurkar/squad_v2
   paper: https://arxiv.org/pdf/1806.03822
 
 quac:
   <<: *default
-  path: allenai/quac
+  source: huggingface
+  hf_path: allenai/quac
   hf_url: https://huggingface.co/datasets/allenai/quac
   paper: https://arxiv.org/pdf/1808.07036
 
 boolq:
   <<: *default
-  path: google/boolq
+  source: huggingface
+  hf_path: google/boolq
   hf_url: https://huggingface.co/datasets/google/boolq
   paper: https://arxiv.org/pdf/1905.10044
 
 drop:
   <<: *default
-  path: ucinlp/drop
+  source: huggingface
+  hf_path: ucinlp/drop
   hf_url: https://huggingface.co/datasets/ucinlp/drop
   paper: https://arxiv.org/pdf/1903.00161
 
 haerae:
   <<: *default
-  path: HAERAE-HUB/HAE_RAE_BENCH_1.1
+  source: huggingface
+  hf_path: HAERAE-HUB/HAE_RAE_BENCH_1.1
   hf_url: https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.1
   paper: https://arxiv.org/pdf/2309.02706
 
 kmmlu:
   <<: *default
-  path: HAERAE-HUB/KMMLU
+  source: huggingface
+  hf_path: HAERAE-HUB/KMMLU
   hf_url: https://huggingface.co/datasets/HAERAE-HUB/KMMLU
   paper: https://arxiv.org/pdf/2402.11548
 
 hellaswag:
   <<: *default
-  path: Rowan/hellaswag
-  hf_url: https://huggingface.co/datasets/Rowan/hellaswag
+  source: github
+  url: https://github.com/rowanz/hellaswag
   paper: https://arxiv.org/pdf/1905.07830
 
 glue:
   <<: *default
-  path: nyu-mll/glue
-  name:
+  source: huggingface
+  hf_path: nyu-mll/glue
+  hf_name:
     - ax
     - cola
     - mnli_matched
@@ -173,8 +190,9 @@ glue:
 
 bigbench:
   <<: *default
-  path: google/bigbench
-  name:
+  source: huggingface
+  hf_path: google/bigbench
+  hf_name:
     - abstract_narrative_understanding
     - anachronisms
     - analogical_similarity
@@ -347,20 +365,23 @@ bigbench:
 
 logiqa:
   <<: *default
-  path: EleutherAI/logiqa
-  name:
+  source: huggingface
+  hf_path: EleutherAI/logiqa
+  hf_name:
   hf_url: https://huggingface.co/datasets/EleutherAI/logiqa
   paper: https://arxiv.org/pdf/2007.08124
 
 lambada:
   <<: *default
-  path: EleutherAI/lambada_openai
+  source: huggingface
+  hf_path: EleutherAI/lambada_openai
   hf_url: https://huggingface.co/datasets/EleutherAI/lambada_openai
   paper: https://arxiv.org/pdf/1606.06031
 
 openbookqa:
   <<: *default
-  path: allenai/openbookqa
+  source: huggingface
+  hf_path: allenai/openbookqa
   hf_url: https://huggingface.co/datasets/allenai/openbookqa
   paper: https://arxiv.org/pdf/1809.02789
 

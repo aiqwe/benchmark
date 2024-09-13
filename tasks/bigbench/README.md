@@ -1,173 +1,179 @@
 
 # bigbench
-+ **path**: `google/bigbench`  
-+ **name**: 
-    + `abstract_narrative_understanding`
-    + `anachronisms`
-    + `analogical_similarity`
-    + `analytic_entailment`
-    + `arithmetic`
-    + `ascii_word_recognition`
-    + `authorship_verification`
-    + `auto_categorization`
-    + `auto_debugging`
-    + `bbq_lite_json`
-    + `bridging_anaphora_resolution_barqa`
-    + `causal_judgment`
-    + `cause_and_effect`
-    + `checkmate_in_one`
-    + `chess_state_tracking`
-    + `chinese_remainder_theorem`
-    + `cifar10_classification`
-    + `code_line_description`
-    + `codenames`
-    + `color`
-    + `common_morpheme`
-    + `conceptual_combinations`
-    + `conlang_translation`
-    + `contextual_parametric_knowledge_conflicts`
-    + `crash_blossom`
-    + `crass_ai`
-    + `cryobiology_spanish`
-    + `cryptonite`
-    + `cs_algorithms`
-    + `dark_humor_detection`
-    + `date_understanding`
-    + `disambiguation_qa`
-    + `discourse_marker_prediction`
-    + `disfl_qa`
-    + `dyck_languages`
-    + `elementary_math_qa`
-    + `emoji_movie`
-    + `emojis_emotion_prediction`
-    + `empirical_judgments`
-    + `english_proverbs`
-    + `english_russian_proverbs`
-    + `entailed_polarity`
-    + `entailed_polarity_hindi`
-    + `epistemic_reasoning`
-    + `evaluating_information_essentiality`
-    + `fact_checker`
-    + `fantasy_reasoning`
-    + `few_shot_nlg`
-    + `figure_of_speech_detection`
-    + `formal_fallacies_syllogisms_negation`
-    + `gem`
-    + `gender_inclusive_sentences_german`
-    + `general_knowledge`
-    + `geometric_shapes`
-    + `goal_step_wikihow`
-    + `gre_reading_comprehension`
-    + `hhh_alignment`
-    + `hindi_question_answering`
-    + `hindu_knowledge`
-    + `hinglish_toxicity`
-    + `human_organs_senses`
-    + `hyperbaton`
-    + `identify_math_theorems`
-    + `identify_odd_metaphor`
-    + `implicatures`
-    + `implicit_relations`
-    + `intent_recognition`
-    + `international_phonetic_alphabet_nli`
-    + `international_phonetic_alphabet_transliterate`
-    + `intersect_geometry`
-    + `irony_identification`
-    + `kanji_ascii`
-    + `kannada`
-    + `key_value_maps`
-    + `known_unknowns`
-    + `language_games`
-    + `language_identification`
-    + `linguistic_mappings`
-    + `linguistics_puzzles`
-    + `list_functions`
-    + `logic_grid_puzzle`
-    + `logical_args`
-    + `logical_deduction`
-    + `logical_fallacy_detection`
-    + `logical_sequence`
-    + `mathematical_induction`
-    + `matrixshapes`
-    + `metaphor_boolean`
-    + `metaphor_understanding`
-    + `minute_mysteries_qa`
-    + `misconceptions`
-    + `misconceptions_russian`
-    + `mnist_ascii`
-    + `modified_arithmetic`
-    + `moral_permissibility`
-    + `movie_dialog_same_or_different`
-    + `movie_recommendation`
-    + `mult_data_wrangling`
-    + `multiemo`
-    + `natural_instructions`
-    + `navigate`
-    + `nonsense_words_grammar`
-    + `novel_concepts`
-    + `object_counting`
-    + `odd_one_out`
-    + `operators`
-    + `paragraph_segmentation`
-    + `parsinlu_qa`
-    + `parsinlu_reading_comprehension`
-    + `penguins_in_a_table`
-    + `periodic_elements`
-    + `persian_idioms`
-    + `phrase_relatedness`
-    + `physical_intuition`
-    + `physics`
-    + `physics_questions`
-    + `play_dialog_same_or_different`
-    + `polish_sequence_labeling`
-    + `presuppositions_as_nli`
-    + `qa_wikidata`
-    + `question_selection`
-    + `real_or_fake_text`
-    + `reasoning_about_colored_objects`
-    + `repeat_copy_logic`
-    + `rephrase`
-    + `riddle_sense`
-    + `ruin_names`
-    + `salient_translation_error_detection`
-    + `scientific_press_release`
-    + `semantic_parsing_in_context_sparc`
-    + `semantic_parsing_spider`
-    + `sentence_ambiguity`
-    + `similarities_abstraction`
-    + `simp_turing_concept`
-    + `simple_arithmetic_json`
-    + `simple_arithmetic_json_multiple_choice`
-    + `simple_arithmetic_json_subtasks`
-    + `simple_arithmetic_multiple_targets_json`
-    + `simple_ethical_questions`
-    + `simple_text_editing`
-    + `snarks`
-    + `social_iqa`
-    + `social_support`
-    + `sports_understanding`
-    + `strange_stories`
-    + `strategyqa`
-    + `sufficient_information`
-    + `suicide_risk`
-    + `swahili_english_proverbs`
-    + `swedish_to_german_proverbs`
-    + `symbol_interpretation`
-    + `temporal_sequences`
-    + `tense`
-    + `timedial`
-    + `topical_chat`
-    + `tracking_shuffled_objects`
-    + `understanding_fables`
-    + `undo_permutation`
-    + `unit_conversion`
-    + `unit_interpretation`
-    + `unnatural_in_context_learning`
-    + `vitaminc_fact_verification`
-    + `what_is_the_tao`
-    + `which_wiki_edit`
-    + `winowhy`
-    + `word_sorting`
-    + `word_unscrambling` 
++ **source**: huggingface
++ **hf_path**: google/bigbench
++ **hf_url**: https://huggingface.co/datasets/google/bigbench
++ **hf_name**: 
+    <details>
+        <summary>Click</summary>
+            <div>  -  <code>abstract_narrative_understanding</code></div>
+            <div>  -  <code>anachronisms</code></div>
+            <div>  -  <code>analogical_similarity</code></div>
+            <div>  -  <code>analytic_entailment</code></div>
+            <div>  -  <code>arithmetic</code></div>
+            <div>  -  <code>ascii_word_recognition</code></div>
+            <div>  -  <code>authorship_verification</code></div>
+            <div>  -  <code>auto_categorization</code></div>
+            <div>  -  <code>auto_debugging</code></div>
+            <div>  -  <code>bbq_lite_json</code></div>
+            <div>  -  <code>bridging_anaphora_resolution_barqa</code></div>
+            <div>  -  <code>causal_judgment</code></div>
+            <div>  -  <code>cause_and_effect</code></div>
+            <div>  -  <code>checkmate_in_one</code></div>
+            <div>  -  <code>chess_state_tracking</code></div>
+            <div>  -  <code>chinese_remainder_theorem</code></div>
+            <div>  -  <code>cifar10_classification</code></div>
+            <div>  -  <code>code_line_description</code></div>
+            <div>  -  <code>codenames</code></div>
+            <div>  -  <code>color</code></div>
+            <div>  -  <code>common_morpheme</code></div>
+            <div>  -  <code>conceptual_combinations</code></div>
+            <div>  -  <code>conlang_translation</code></div>
+            <div>  -  <code>contextual_parametric_knowledge_conflicts</code></div>
+            <div>  -  <code>crash_blossom</code></div>
+            <div>  -  <code>crass_ai</code></div>
+            <div>  -  <code>cryobiology_spanish</code></div>
+            <div>  -  <code>cryptonite</code></div>
+            <div>  -  <code>cs_algorithms</code></div>
+            <div>  -  <code>dark_humor_detection</code></div>
+            <div>  -  <code>date_understanding</code></div>
+            <div>  -  <code>disambiguation_qa</code></div>
+            <div>  -  <code>discourse_marker_prediction</code></div>
+            <div>  -  <code>disfl_qa</code></div>
+            <div>  -  <code>dyck_languages</code></div>
+            <div>  -  <code>elementary_math_qa</code></div>
+            <div>  -  <code>emoji_movie</code></div>
+            <div>  -  <code>emojis_emotion_prediction</code></div>
+            <div>  -  <code>empirical_judgments</code></div>
+            <div>  -  <code>english_proverbs</code></div>
+            <div>  -  <code>english_russian_proverbs</code></div>
+            <div>  -  <code>entailed_polarity</code></div>
+            <div>  -  <code>entailed_polarity_hindi</code></div>
+            <div>  -  <code>epistemic_reasoning</code></div>
+            <div>  -  <code>evaluating_information_essentiality</code></div>
+            <div>  -  <code>fact_checker</code></div>
+            <div>  -  <code>fantasy_reasoning</code></div>
+            <div>  -  <code>few_shot_nlg</code></div>
+            <div>  -  <code>figure_of_speech_detection</code></div>
+            <div>  -  <code>formal_fallacies_syllogisms_negation</code></div>
+            <div>  -  <code>gem</code></div>
+            <div>  -  <code>gender_inclusive_sentences_german</code></div>
+            <div>  -  <code>general_knowledge</code></div>
+            <div>  -  <code>geometric_shapes</code></div>
+            <div>  -  <code>goal_step_wikihow</code></div>
+            <div>  -  <code>gre_reading_comprehension</code></div>
+            <div>  -  <code>hhh_alignment</code></div>
+            <div>  -  <code>hindi_question_answering</code></div>
+            <div>  -  <code>hindu_knowledge</code></div>
+            <div>  -  <code>hinglish_toxicity</code></div>
+            <div>  -  <code>human_organs_senses</code></div>
+            <div>  -  <code>hyperbaton</code></div>
+            <div>  -  <code>identify_math_theorems</code></div>
+            <div>  -  <code>identify_odd_metaphor</code></div>
+            <div>  -  <code>implicatures</code></div>
+            <div>  -  <code>implicit_relations</code></div>
+            <div>  -  <code>intent_recognition</code></div>
+            <div>  -  <code>international_phonetic_alphabet_nli</code></div>
+            <div>  -  <code>international_phonetic_alphabet_transliterate</code></div>
+            <div>  -  <code>intersect_geometry</code></div>
+            <div>  -  <code>irony_identification</code></div>
+            <div>  -  <code>kanji_ascii</code></div>
+            <div>  -  <code>kannada</code></div>
+            <div>  -  <code>key_value_maps</code></div>
+            <div>  -  <code>known_unknowns</code></div>
+            <div>  -  <code>language_games</code></div>
+            <div>  -  <code>language_identification</code></div>
+            <div>  -  <code>linguistic_mappings</code></div>
+            <div>  -  <code>linguistics_puzzles</code></div>
+            <div>  -  <code>list_functions</code></div>
+            <div>  -  <code>logic_grid_puzzle</code></div>
+            <div>  -  <code>logical_args</code></div>
+            <div>  -  <code>logical_deduction</code></div>
+            <div>  -  <code>logical_fallacy_detection</code></div>
+            <div>  -  <code>logical_sequence</code></div>
+            <div>  -  <code>mathematical_induction</code></div>
+            <div>  -  <code>matrixshapes</code></div>
+            <div>  -  <code>metaphor_boolean</code></div>
+            <div>  -  <code>metaphor_understanding</code></div>
+            <div>  -  <code>minute_mysteries_qa</code></div>
+            <div>  -  <code>misconceptions</code></div>
+            <div>  -  <code>misconceptions_russian</code></div>
+            <div>  -  <code>mnist_ascii</code></div>
+            <div>  -  <code>modified_arithmetic</code></div>
+            <div>  -  <code>moral_permissibility</code></div>
+            <div>  -  <code>movie_dialog_same_or_different</code></div>
+            <div>  -  <code>movie_recommendation</code></div>
+            <div>  -  <code>mult_data_wrangling</code></div>
+            <div>  -  <code>multiemo</code></div>
+            <div>  -  <code>natural_instructions</code></div>
+            <div>  -  <code>navigate</code></div>
+            <div>  -  <code>nonsense_words_grammar</code></div>
+            <div>  -  <code>novel_concepts</code></div>
+            <div>  -  <code>object_counting</code></div>
+            <div>  -  <code>odd_one_out</code></div>
+            <div>  -  <code>operators</code></div>
+            <div>  -  <code>paragraph_segmentation</code></div>
+            <div>  -  <code>parsinlu_qa</code></div>
+            <div>  -  <code>parsinlu_reading_comprehension</code></div>
+            <div>  -  <code>penguins_in_a_table</code></div>
+            <div>  -  <code>periodic_elements</code></div>
+            <div>  -  <code>persian_idioms</code></div>
+            <div>  -  <code>phrase_relatedness</code></div>
+            <div>  -  <code>physical_intuition</code></div>
+            <div>  -  <code>physics</code></div>
+            <div>  -  <code>physics_questions</code></div>
+            <div>  -  <code>play_dialog_same_or_different</code></div>
+            <div>  -  <code>polish_sequence_labeling</code></div>
+            <div>  -  <code>presuppositions_as_nli</code></div>
+            <div>  -  <code>qa_wikidata</code></div>
+            <div>  -  <code>question_selection</code></div>
+            <div>  -  <code>real_or_fake_text</code></div>
+            <div>  -  <code>reasoning_about_colored_objects</code></div>
+            <div>  -  <code>repeat_copy_logic</code></div>
+            <div>  -  <code>rephrase</code></div>
+            <div>  -  <code>riddle_sense</code></div>
+            <div>  -  <code>ruin_names</code></div>
+            <div>  -  <code>salient_translation_error_detection</code></div>
+            <div>  -  <code>scientific_press_release</code></div>
+            <div>  -  <code>semantic_parsing_in_context_sparc</code></div>
+            <div>  -  <code>semantic_parsing_spider</code></div>
+            <div>  -  <code>sentence_ambiguity</code></div>
+            <div>  -  <code>similarities_abstraction</code></div>
+            <div>  -  <code>simp_turing_concept</code></div>
+            <div>  -  <code>simple_arithmetic_json</code></div>
+            <div>  -  <code>simple_arithmetic_json_multiple_choice</code></div>
+            <div>  -  <code>simple_arithmetic_json_subtasks</code></div>
+            <div>  -  <code>simple_arithmetic_multiple_targets_json</code></div>
+            <div>  -  <code>simple_ethical_questions</code></div>
+            <div>  -  <code>simple_text_editing</code></div>
+            <div>  -  <code>snarks</code></div>
+            <div>  -  <code>social_iqa</code></div>
+            <div>  -  <code>social_support</code></div>
+            <div>  -  <code>sports_understanding</code></div>
+            <div>  -  <code>strange_stories</code></div>
+            <div>  -  <code>strategyqa</code></div>
+            <div>  -  <code>sufficient_information</code></div>
+            <div>  -  <code>suicide_risk</code></div>
+            <div>  -  <code>swahili_english_proverbs</code></div>
+            <div>  -  <code>swedish_to_german_proverbs</code></div>
+            <div>  -  <code>symbol_interpretation</code></div>
+            <div>  -  <code>temporal_sequences</code></div>
+            <div>  -  <code>tense</code></div>
+            <div>  -  <code>timedial</code></div>
+            <div>  -  <code>topical_chat</code></div>
+            <div>  -  <code>tracking_shuffled_objects</code></div>
+            <div>  -  <code>understanding_fables</code></div>
+            <div>  -  <code>undo_permutation</code></div>
+            <div>  -  <code>unit_conversion</code></div>
+            <div>  -  <code>unit_interpretation</code></div>
+            <div>  -  <code>unnatural_in_context_learning</code></div>
+            <div>  -  <code>vitaminc_fact_verification</code></div>
+            <div>  -  <code>what_is_the_tao</code></div>
+            <div>  -  <code>which_wiki_edit</code></div>
+            <div>  -  <code>winowhy</code></div>
+            <div>  -  <code>word_sorting</code></div>
+            <div>  -  <code>word_unscrambling</code></div>
+    </details>
+ 
 + **hf_url**: [https://huggingface.co/datasets/google/bigbench](https://huggingface.co/datasets/google/bigbench)  
 + **paper**: [https://arxiv.org/pdf/2206.04615](https://arxiv.org/pdf/2206.04615)  
