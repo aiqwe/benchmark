@@ -128,6 +128,24 @@ boolq:
   hf_url: https://huggingface.co/datasets/google/boolq
   paper: https://arxiv.org/pdf/1905.10044
 
+drop:
+  <<: *default
+  path: ucinlp/drop
+  hf_url: https://huggingface.co/datasets/ucinlp/drop
+  paper: https://arxiv.org/pdf/1903.00161
+
+haerae:
+  <<: *default
+  path: HAERAE-HUB/HAE_RAE_BENCH_1.1
+  hf_url: https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.1
+  paper: https://arxiv.org/pdf/2309.02706
+
+kmmlu:
+  <<: *default
+  path: HAERAE-HUB/KMMLU
+  hf_url: https://huggingface.co/datasets/HAERAE-HUB/KMMLU
+  paper: https://arxiv.org/pdf/2402.11548
+
 hellaswag:
   <<: *default
   path: Rowan/hellaswag
