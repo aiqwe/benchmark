@@ -2,7 +2,6 @@
 # winogrande
 + **source**: huggingface
 + **hf_path**: allenai/winogrande
-+ **hf_url**: https://huggingface.co/datasets/allenai/winogrande
 + **hf_name**: 
     <details>
         <summary>Click</summary>
@@ -13,5 +12,5 @@
             <div>  -  <code>winogrande_debiased</code></div>
     </details>
  
-+ **hf_url**: [https://huggingface.co/datasets/allenai/winogrande](https://huggingface.co/datasets/allenai/winogrande)  
++ **url**: [https://huggingface.co/datasets/allenai/winogrande](https://huggingface.co/datasets/allenai/winogrande)  
 + **paper**: [https://arxiv.org/pdf/1907.10641](https://arxiv.org/pdf/1907.10641)  

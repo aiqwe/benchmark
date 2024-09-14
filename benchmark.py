@@ -106,10 +106,8 @@ class Config:
             # {benchmark_name}
             # + ** source **: {source}
             # + ** hf_path **: {hf_path}
-            # + ** hf_url **: {hf_url}
-            # + ** url **: {url}
-            # + ** name **: {name}
-            # + ** hf_url **: [{hf_url}]({hf_url})
+            # + ** hf_name **: {hf_name}
+            # + ** url **: [{url}]({url})
             # + ** paper **: [{paper}]({paper})
             # + ** annotation **: [{annotation}]({annotation})
             guide_doc_md = README_TEMPLATE.format(benchmark_name=k, **on_the_fly)
@@ -136,8 +134,8 @@ class HFReader:
     def __init__(
         self,
         benchmark_name: str,
-        path: str = None,
-        name: str = None,
+        hf_path: str = None,
+        hf_name: str = None,
         num_proc: int = 6,
         dataset=None,
         dataset_option: dict = None,
@@ -152,12 +150,12 @@ class HFReader:
         """
         hf_conf = Config()
         self.benchmark_name = benchmark_name
-        self.path = path
-        self.name = name
+        self.path = hf_path
+        self.hf_name = hf_name
         self.dataset_option = dataset_option or {}
-        if not path:
+        if not hf_path:
             self.path = hf_conf.config[benchmark_name]["hf_path"]
-        if not name:
+        if not hf_name:
             self.name = hf_conf.config[benchmark_name]["hf_name"]
         if not isinstance(self.name, str):
             if isinstance(self.name, list):

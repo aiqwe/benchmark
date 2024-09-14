@@ -2,7 +2,6 @@ default: &default
   source: null
   hf_path: null
   hf_name: null
-  hf_url: null
   url: null
   file: null
   paper: null
@@ -13,14 +12,14 @@ mmlu:
   source: huggingface
   hf_path: cais/mmlu
   hf_name: all
-  hf_url: https://huggingface.co/datasets/cais/mmlu
+  url: https://huggingface.co/datasets/cais/mmlu
   paper: https://arxiv.org/pdf/2009.03300
   
 mmlu_pro:
   <<: *default
   source: huggingface
   hf_path: TIGER-Lab/MMLU-Pro
-  hf_url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+  url: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
   paper: https://arxiv.org/pdf/2406.01574
   
 agi_eval:
@@ -37,14 +36,14 @@ agi_eval:
     - hails/agieval-sat-en-without-passage
     - hails/agieval-sat-en
     - hails/agieval-math
-  hf_url: https://huggingface.co/hails
+  url: https://huggingface.co/hails
   paper: https://arxiv.org/pdf/2304.06364
 
 commonsense_qa:
   <<: *default
   source: huggingface
   hf_path: tau/commonsense_qa
-  hf_url: https://huggingface.co/datasets/tau/commonsense_qa
+  url: https://huggingface.co/datasets/tau/commonsense_qa
   paper: https://arxiv.org/pdf/1811.00937
 
 winogrande:
@@ -57,7 +56,7 @@ winogrande:
     - winogrande_l
     - winogrande_xl
     - winogrande_debiased
-  hf_url: https://huggingface.co/datasets/allenai/winogrande
+  url: https://huggingface.co/datasets/allenai/winogrande
   paper: https://arxiv.org/pdf/1907.10641
 
 bigbenchhard:
@@ -92,7 +91,6 @@ bigbenchhard:
     - tracking_shuffled_objects_three_objects
     - web_of_lies
     - word_sorting
-  hf_url: https://huggingface.co/datasets/maveriq/bigbenchhard
   paper: https://arxiv.org/pdf/2210.09261
 
 arc:
@@ -102,7 +100,7 @@ arc:
   hf_name:
     - ARC-Challenge
     - ARC-Easy
-  hf_url: https://huggingface.co/datasets/allenai/ai2_arc
+  url: https://huggingface.co/datasets/allenai/ai2_arc
   paper: https://arxiv.org/pdf/1803.05457
 
 trivia_qa:
@@ -118,49 +116,49 @@ trivia_qa:
     - rc.wikipedia.nocontext
     - unfiltered
     - unfiltered.nocontext
-  hf_url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
+  url: https://huggingface.co/datasets/mandarjoshi/trivia_qa
   paper: https://arxiv.org/pdf/1705.03551
 
 squad_v2:
   <<: *default
   source: huggingface
   hf_path: rajpurkar/squad_v2
-  hf_url: https://huggingface.co/datasets/rajpurkar/squad_v2
+  url: https://huggingface.co/datasets/rajpurkar/squad_v2
   paper: https://arxiv.org/pdf/1806.03822
 
 quac:
   <<: *default
   source: huggingface
   hf_path: allenai/quac
-  hf_url: https://huggingface.co/datasets/allenai/quac
+  url: https://huggingface.co/datasets/allenai/quac
   paper: https://arxiv.org/pdf/1808.07036
 
 boolq:
   <<: *default
   source: huggingface
   hf_path: google/boolq
-  hf_url: https://huggingface.co/datasets/google/boolq
+  url: https://huggingface.co/datasets/google/boolq
   paper: https://arxiv.org/pdf/1905.10044
 
 drop:
   <<: *default
   source: huggingface
   hf_path: ucinlp/drop
-  hf_url: https://huggingface.co/datasets/ucinlp/drop
+  url: https://huggingface.co/datasets/ucinlp/drop
   paper: https://arxiv.org/pdf/1903.00161
 
 haerae:
   <<: *default
   source: huggingface
   hf_path: HAERAE-HUB/HAE_RAE_BENCH_1.1
-  hf_url: https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.1
+  url: https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.1
   paper: https://arxiv.org/pdf/2309.02706
 
 kmmlu:
   <<: *default
   source: huggingface
   hf_path: HAERAE-HUB/KMMLU
-  hf_url: https://huggingface.co/datasets/HAERAE-HUB/KMMLU
+  url: https://huggingface.co/datasets/HAERAE-HUB/KMMLU
   paper: https://arxiv.org/pdf/2402.11548
 
 hellaswag:
@@ -186,7 +184,7 @@ glue:
     - sst2
     - stsb
     - wnli
-  hf_url: https://huggingface.co/datasets/nyu-mll/glue
+  url: https://huggingface.co/datasets/nyu-mll/glue
   paper: https://openreview.net/pdf?id=rJ4km2R5t7
 
 bigbench:
@@ -361,7 +359,7 @@ bigbench:
     - winowhy
     - word_sorting
     - word_unscrambling
-  hf_url: https://huggingface.co/datasets/google/bigbench
+  url: https://huggingface.co/datasets/google/bigbench
   paper: https://arxiv.org/pdf/2206.04615
 
 logiqa:
@@ -369,22 +367,29 @@ logiqa:
   source: huggingface
   hf_path: EleutherAI/logiqa
   hf_name:
-  hf_url: https://huggingface.co/datasets/EleutherAI/logiqa
+  url: https://huggingface.co/datasets/EleutherAI/logiqa
   paper: https://arxiv.org/pdf/2007.08124
 
 lambada:
   <<: *default
   source: huggingface
   hf_path: EleutherAI/lambada_openai
-  hf_url: https://huggingface.co/datasets/EleutherAI/lambada_openai
+  url: https://huggingface.co/datasets/EleutherAI/lambada_openai
   paper: https://arxiv.org/pdf/1606.06031
 
 openbookqa:
   <<: *default
   source: huggingface
   hf_path: allenai/openbookqa
-  hf_url: https://huggingface.co/datasets/allenai/openbookqa
+  url: https://huggingface.co/datasets/allenai/openbookqa
   paper: https://arxiv.org/pdf/1809.02789
+
+drop:
+  <<: *default
+  source: huggingface
+  hf_path: ucinlp/drop
+  url: https://huggingface.co/datasets/ucinlp/drop
+  paper: https://arxiv.org/pdf/1903.00161
 
 
 

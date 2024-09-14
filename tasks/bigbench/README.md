@@ -2,7 +2,6 @@
 # bigbench
 + **source**: huggingface
 + **hf_path**: google/bigbench
-+ **hf_url**: https://huggingface.co/datasets/google/bigbench
 + **hf_name**: 
     <details>
         <summary>Click</summary>
@@ -175,5 +174,5 @@
             <div>  -  <code>word_unscrambling</code></div>
     </details>
  
-+ **hf_url**: [https://huggingface.co/datasets/google/bigbench](https://huggingface.co/datasets/google/bigbench)  
++ **url**: [https://huggingface.co/datasets/google/bigbench](https://huggingface.co/datasets/google/bigbench)  
 + **paper**: [https://arxiv.org/pdf/2206.04615](https://arxiv.org/pdf/2206.04615)  

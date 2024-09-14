@@ -2,10 +2,12 @@ import os
 from openai import OpenAI
 
 DEFAULT_ROLE = {
-    "translator": "I want you to ac as an English translator and NLP engineer. \
+    "translator": "I want you to act as an English translator and NLP engineer also. \
      Translate the text that I give you from English to Korean. \
-     Respond in Markdown. \
-     output format should be splitted by new line and mark '\n' delimeter each end of line."
+     You should keep lexical nuance and vocabularies when translating from English to. \
+     Output format should be follwed below: \
+     - Respond in Markdown. \
+     - output format should be splitted by new line each sentence."
 }
 
 
@@ -22,8 +24,7 @@ def chat(
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "assistant", "content": role},
-            {"role": "user", "content": text},
+            {"role": "user", "content": "{role}\n---\n{text}".format(role=role, text=text)},
         ]
     )
 

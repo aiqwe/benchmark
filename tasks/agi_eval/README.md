@@ -16,6 +16,5 @@
             <div>  -  <code>hails/agieval-math</code></div>
     </details>
 
-+ **hf_url**: https://huggingface.co/hails
-+ **hf_url**: [https://huggingface.co/hails](https://huggingface.co/hails)  
++ **url**: [https://huggingface.co/hails](https://huggingface.co/hails)  
 + **paper**: [https://arxiv.org/pdf/2304.06364](https://arxiv.org/pdf/2304.06364)  

@@ -2,7 +2,6 @@
 # glue
 + **source**: huggingface
 + **hf_path**: nyu-mll/glue
-+ **hf_url**: https://huggingface.co/datasets/nyu-mll/glue
 + **hf_name**: 
     <details>
         <summary>Click</summary>
@@ -20,5 +19,5 @@
             <div>  -  <code>wnli</code></div>
     </details>
  
-+ **hf_url**: [https://huggingface.co/datasets/nyu-mll/glue](https://huggingface.co/datasets/nyu-mll/glue)  
++ **url**: [https://huggingface.co/datasets/nyu-mll/glue](https://huggingface.co/datasets/nyu-mll/glue)  
 + **paper**: [https://openreview.net/pdf?id=rJ4km2R5t7](https://openreview.net/pdf?id=rJ4km2R5t7)  
