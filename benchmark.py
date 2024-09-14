@@ -324,14 +324,14 @@ class GithubReader:
         self.user = user.lower()
         self.repo = repo.lower()
         self.fpath = fpath
+        self.fs = GithubFileSystem(org=self.user, repo=self.repo)
 
     def get_files(self, folder: str, pattern = None):
-        fs = GithubFileSystem(org=self.user, repo=self.repo)
         if not pattern:
             logger.info("searching for '*.json' and '*.jsonl' patterns")
-            result = fs.glob(fs.sep.join([folder, "*.json"])) + fs.glob(fs.sep.join([folder, "*.jsonl"]))
+            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(self.fs.sep.join([folder, "*.jsonl"]))
         else:
-            result = fs.glob(fs.sep.join([folder, pattern]))
+            result = self.fs.glob(self.fs.sep.join([folder, pattern]))
         result = [f.split("/")[-1].split(".")[0] for f in result]
         return result
 
