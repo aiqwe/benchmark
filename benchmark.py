@@ -157,25 +157,25 @@ class HFReader:
         if not hf_path:
             self.path = hf_conf.config[benchmark_name]["hf_path"]
         if not hf_name:
-            self.name = hf_conf.config[benchmark_name]["hf_name"]
-        if not isinstance(self.name, str):
-            if isinstance(self.name, list):
-                self.name_list = hf_conf.config[benchmark_name]["hf_name"]
-                self.name = hf_conf.config[benchmark_name]["hf_name"][
-                    random.randint(0, len(self.name) - 1)
+            self.hf_name = hf_conf.config[benchmark_name]["hf_name"]
+        if not isinstance(self.hf_name, str):
+            if isinstance(self.hf_name, list):
+                self.hf_name_list = hf_conf.config[benchmark_name]["hf_name"]
+                self.hf_name = hf_conf.config[benchmark_name]["hf_name"][
+                    random.randint(0, len(self.hf_name) - 1)
                 ]
                 logger.info(
-                    f"name is type of list. randomly picked '{self.name}'\nall names are saved within 'self.name_list':\n{hf_conf.config[benchmark_name]['hf_name']}"
+                    f"name is type of list. randomly picked '{self.hf_name}'\nall names are saved within 'self.hf_name_list':\n{hf_conf.config[benchmark_name]['hf_name']}"
                 )
         if not isinstance(self.path, str):
             raise ValueError("path must be strings")
-        if not self.name:
+        if not self.hf_name:
             self.datasetdict = load_dataset(
                 self.path, num_proc=num_proc, **self.dataset_option
             )
         else:
             self.datasetdict = load_dataset(
-                self.path, self.name, num_proc=num_proc, **self.dataset_option
+                self.path, self.hf_name, num_proc=num_proc, **self.dataset_option
             )
         if not dataset:
             self.split = list(self.datasetdict.keys())
@@ -187,7 +187,7 @@ class HFReader:
         else:
             self.dataset = dataset
         repr = f"path: {self.path}\n"
-        repr += f"name: {self.name}\n"
+        repr += f"name: {self.hf_name}\n"
         repr += f"total_split: {self.split}\n"
         repr += f"prior_split: {self.prior_split}\n"
         for s in self.split:
@@ -246,7 +246,7 @@ class HFReader:
         if not samples:
             samples = self.sampling(dataset=dataset, category=category)
         if not path:
-            file_name = f"{self.path.split('/')[-1] + '-' + self.name if self.name else self.path.split('/')[-1]}"
+            file_name = f"{self.path.split('/')[-1] + '-' + self.hf_name if self.hf_name else self.path.split('/')[-1]}"
             path = f"./tasks/{self.benchmark_name}/{file_name}.json"
             os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
