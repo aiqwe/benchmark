@@ -12,6 +12,7 @@ from datasets import load_dataset
 from pygments import highlight, lexers, formatters
 from yaml import load_all, CLoader as Loader
 from fsspec.implementations.github import GithubFileSystem
+from fsspec.implementations.local import LocalFileSystem
 
 from template import README_TEMPLATE
 
@@ -354,6 +355,85 @@ class GithubReader:
 
     def sampling(self, data: list = None, fpath=None, n: int = 1000):
         self.get_jsonl(fpath)
+        if isinstance (self.data, list):
+            return self.data[:n]
+        else:
+            logger.info("samples are not list. please check self.data and pass sample manually through self.show")
+
+
+    def show(self, data: list = None, fpath=None, idx=None, colored=True):
+        if not data:
+            samples = self.sampling(fpath)
+        else:
+            samples = data
+        if not idx:
+            idx = random.randint(0, len(samples) - 1)
+        show(samples[idx], colored=colored)
+
+    def save(self, data: list = None, fpath: str = None, path: str = None, n: int = 20):
+        if not data:
+            total = self.get_jsonl(fpath)
+        else:
+            total = data
+        samples = random.sample(total, k=n)
+        if not path:
+            file_name = self.repo + "-" + os.path.basename(self.fpath).split(".")[0]
+            path = f"./tasks/{self.benchmark_name}/{file_name}.json"
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w") as f:
+            logger.info(f"{path}에 저장합니다.")
+            logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
+            json.dump(samples, f, ensure_ascii=False, indent=4)
+
+class LocalReader:
+    def __init__(self, benchmark_name: str, fpath: str = None):
+        """
+        Github 파일을 읽어옴
+
+        Args:
+            user: github user명, ex) 'aiqwe'
+            repo: repo 이름 ex) 'papers', 'benchmark'
+            fpath: 파일의 위치. ex) 'tasks/arc/ai2-arc-ARC-Challenge.json'
+        """
+        conf = Config()
+        benchmark_url = conf.config[benchmark_name]['url']
+
+        self.benchmark_name = benchmark_name
+        self.fpath = fpath
+        self.fs = LocalFileSystem()
+
+    def get_files(self, folder: str, pattern = None):
+        if not pattern:
+            logger.info("searching for '*.json' and '*.jsonl' patterns")
+            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(self.fs.sep.join([folder, "*.jsonl"]))
+        else:
+            result = self.fs.glob(self.fs.sep.join([folder, pattern]))
+        result = [f.split("/")[-1].split(".")[0] for f in result]
+        return result
+
+    @lru_cache
+    def get_jsonl(self, fpath: None):
+        if not self.fpath:
+            if not fpath:
+                raise ValueError(
+                    "if self.fpath is None, argument 'fpath' in 'get_jsonl' should be passed"
+                )
+        else:
+            if fpath:
+                logger.info(f"{self.fpath} will be overwritten by {fpath}")
+        self.fpath = fpath
+        text = self.fs.read_text(self.fpath)
+        if self.fpath.endswith("jsonl"):
+            self.data = [json.loads(obj) for obj in text.splitlines()]
+        if self.fpath.endswith("json"):
+            self.data = json.loads(text)
+        return self.data
+
+    def sampling(self, data: list = None, fpath=None, n: int = 1000):
+        if fpath:
+            self.get_jsonl(fpath=fpath)
+        if data:
+            return data[:n]
         if isinstance (self.data, list):
             return self.data[:n]
         else:

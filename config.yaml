@@ -391,6 +391,13 @@ drop:
   url: https://huggingface.co/datasets/ucinlp/drop
   paper: https://arxiv.org/pdf/1903.00161
 
+math:
+  <<: *default
+  source: huggingface
+  hf_path: lighteval/MATH
+  url: https://huggingface.co/datasets/lighteval/MATH
+  paper:
+
 
 
     
