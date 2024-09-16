@@ -1,122 +1,122 @@
 [
     {
-        "premise": "A faint constellation, its three brightest stars—Alpha, Beta and Gamma Pyxidis—are in a rough line.",
-        "hypothesis": "We consider some context words as positive examples and sample negatives at random from the dictionary.",
+        "premise": "He deceitfully proclaimed: \"This is all I ever really wanted.\"",
+        "hypothesis": "He was dissatisfied.",
         "label": -1,
-        "idx": 448
+        "idx": 1042
     },
     {
-        "premise": "The reaction was strongly exothermic.",
-        "hypothesis": "Tom and Adam were whispering in the theater.",
+        "premise": "After quoting Abraham Lincoln, he portrayed the American public's violent tendencies as undermining its national ideals.",
+        "hypothesis": "After quoting Abraham Lincoln, he portrayed the American public as a people increasingly succumbing to its violent tendencies that undermined its national ideals.",
         "label": -1,
-        "idx": 523
+        "idx": 747
     },
     {
-        "premise": "I ate pizza with olives.",
-        "hypothesis": "And if both apply, they are essentially possible.",
+        "premise": "If the pipeline tokenization scheme does not correspond to the one that was used when a model was created, a negative impact on the pipeline results would not be unexpected.",
+        "hypothesis": "If the pipeline tokenization scheme does not correspond to the one that was used when a model was created, a negative impact on the pipeline results would be expected.",
         "label": -1,
-        "idx": 86
+        "idx": 31
     },
     {
-        "premise": "The combination of mentos and diet coke caused the explosion.",
-        "hypothesis": "We propose models from which the attested vowel inventories have been drawn.",
+        "premise": "None of the graduates of my program have moved on to other things because the jobs suck.",
+        "hypothesis": "Most of the graduates of my program have moved on to other things because the jobs suck.",
         "label": -1,
-        "idx": 495
+        "idx": 69
     },
     {
-        "premise": "The Sydney area has been inhabited by indigenous Australians for at least 30,000 years.",
-        "hypothesis": "Relation extraction systems populate knowledge bases with facts from unstructured text corpora.",
+        "premise": "George fell into the water.",
+        "hypothesis": "George went to the lake to catch a fish, but he fell into the water.",
         "label": -1,
-        "idx": 380
+        "idx": 273
     },
     {
-        "premise": "They should be attached to the lifting mechanism.",
-        "hypothesis": "Throughout the Raffles stories patriotism runs as an intermittent theme—to such an extent that the writer William Vivian Butler describes him as a \"anti-patriot\".",
+        "premise": "If Pedro has a donkey, then he beats it.",
+        "hypothesis": "Pedro doesn't have a donkey.",
         "label": -1,
-        "idx": 498
+        "idx": 428
     },
     {
-        "premise": "Lavrov insisted that Russian experts should be able to examine the British evidence but again denied Russian responsibility for last week’s attack.",
-        "hypothesis": "The timing of the meeting has not been set, according to a Starbucks spokesperson.",
-        "label": -1,
-        "idx": 837
-    },
-    {
-        "premise": "We propose models of the probability distribution.",
-        "hypothesis": "Temple said that the business was facing difficulties, but didn't have a chance of going into the red.",
-        "label": -1,
-        "idx": 1005
-    },
-    {
-        "premise": "Relation extraction systems populate knowledge bases with facts from unstructured text corpora.",
-        "hypothesis": "Thought this was super cool, and a really important step in preserving all the physical books.",
-        "label": -1,
-        "idx": 482
-    },
-    {
-        "premise": "By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of the civil rights leader's assassin.",
-        "hypothesis": "Airplanes do not follow the same rules as bees.",
-        "label": -1,
-        "idx": 916
-    },
-    {
-        "premise": "Chicago City Hall is the official seat of government of the City of Chicago.",
-        "hypothesis": "The topic for the current sentence is drawn based on the topic of the preceding sentence (or word) rather than on the global document-level topic distribution in vanilla LDA.",
-        "label": -1,
-        "idx": 567
-    },
-    {
-        "premise": "Notorious B.I.G.'s funeral procession was attended by the general public.",
-        "hypothesis": "This problem has been studied before for zero-shot object recognition, but there are several key differences.",
-        "label": -1,
-        "idx": 450
-    },
-    {
-        "premise": "Prismatic appeared in high frequencies after the transition between the Middle and Upper Paleolithic.",
-        "hypothesis": "Jacob did not see Tex sign the contract.",
-        "label": -1,
-        "idx": 379
-    },
-    {
-        "premise": "Pursuing a strategy of violent protest, Gandhi took the administration by surprise and won concessions from the authorities.",
-        "hypothesis": "Joan knows that all speech is political speech.",
-        "label": -1,
-        "idx": 1018
-    },
-    {
-        "premise": "All speech is political speech.",
-        "hypothesis": "In this PC game, Shredder fights the turtles in his Manhattan hideout.",
+        "premise": "During World War II, the five remaining Greek boats were sunk by Axis aircraft during the German invasion of Greece in April 1941.",
+        "hypothesis": "During World War II, the five remaining Greek boats were sunk by Axis aircraft when the Germans invaded Greece in April 1941.",
         "label": -1,
         "idx": 178
     },
     {
-        "premise": "A general artificial intelligence should always come with an off switch.",
-        "hypothesis": "It is the clearest evidence yet that Xi plans to rule beyond the end of this second term, in 2023, taking China back to the era of one-man rule just as it steps up its role in global politics.",
+        "premise": "Falcon Heavy is the smallest rocket since NASA's Saturn V booster, which was used for the Moon missions in the 1970s.",
+        "hypothesis": "Falcon Heavy is the largest rocket since NASA's Saturn V booster, which was used for the Moon missions in the 1970s.",
         "label": -1,
-        "idx": 315
+        "idx": 39
     },
     {
-        "premise": "An easterly wind rolled across the glade.",
-        "hypothesis": "From a quick Google search, Bitcoin Cash was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin Cash.",
+        "premise": "In construction of the Empire State Building, Bass River timber was used.",
+        "hypothesis": "Bass River timber was used in construction of the Empire State Building.",
         "label": -1,
-        "idx": 14
+        "idx": 227
     },
     {
-        "premise": "This problem will be studied for zero-shot object recognition, but there are several key differences.",
-        "hypothesis": "This attribute group specifies prominent body parts involved in carrying out the action.",
+        "premise": "Russia’s ruling system, while projecting an image of unity, is divided along many lines — between security hawks and economic liberals, between people with personal vendettas, and between competing business interests.",
+        "hypothesis": "Russia’s ruling projects an image of unity, but is divided along many lines — between security hawks and economic liberals, between people with personal vendettas, and between competing business interests.",
         "label": -1,
-        "idx": 1053
+        "idx": 534
     },
     {
-        "premise": "All of these are today seen as younger synonyms of other species or as nomina dubia, and are distinguished from Albertosaurus.",
-        "hypothesis": "Understanding a long document requires understanding how entities are introduced.",
+        "premise": "There are some amazing hikes around Mt. Fuji.",
+        "hypothesis": "There are some strenuous hikes around Mt. Fuji.",
         "label": -1,
-        "idx": 708
+        "idx": 1072
     },
     {
-        "premise": "Grisham won the popular vote.",
-        "hypothesis": "I did not fail my resolutions in 1995.",
+        "premise": "Two of the trees outside my window, with their branches dangling and swaying in the wind, have already bloomed, and it's not even April.",
+        "hypothesis": "Of the trees outside my window, with their branches dangling and swaying in the wind, three have already bloomed, and it's not even April.",
         "label": -1,
-        "idx": 956
+        "idx": 1082
+    },
+    {
+        "premise": "Makers of chocolate confectioneries use at least 25% of the global supply of hazelnuts.",
+        "hypothesis": "Ferrero SpA, the maker of Nutella and Ferrero Rocher, uses 25% of the global supply of hazelnuts.",
+        "label": -1,
+        "idx": 755
+    },
+    {
+        "premise": "American ambassadors to Riyadh denied to NBC the claims that the princess is separated from her husband or under house arrest.",
+        "hypothesis": "The Saudi Embassy in Washington denied to NBC the claims that the princess is separated from her husband or under house arrest.",
+        "label": -1,
+        "idx": 567
+    },
+    {
+        "premise": "Russia vowed Tuesday to retaliate if Britain imposes sanctions in response to a suspected chemical attack on British soil and demanded access to samples of a nerve agent that British investigators say they have identified as Russian.",
+        "hypothesis": "Russia vowed Tuesday to retaliate if Britain imposes sanctions in response to an attack on British soil and demanded access to samples of a nerve agent that British investigators say they have identified as Russian.",
+        "label": -1,
+        "idx": 488
+    },
+    {
+        "premise": "That perspective makes it sound gigantic.",
+        "hypothesis": "That perspective makes it look gigantic.",
+        "label": -1,
+        "idx": 603
+    },
+    {
+        "premise": "Hazelnuts have often been found on other Mesolithic sites, but rarely in such quantities or concentrated in one pit.",
+        "hypothesis": "Hazelnuts have often been found on other Mesolithic sites concentrated in one pit, but rarely in such quantities.",
+        "label": -1,
+        "idx": 750
+    },
+    {
+        "premise": "He is someone of many talents.",
+        "hypothesis": "His talents are many.",
+        "label": -1,
+        "idx": 1004
+    },
+    {
+        "premise": "Mueller’s team asked former senior Justice Department officials for information.",
+        "hypothesis": "Mueller’s team was asked for information by former senior Justice Department officials.",
+        "label": -1,
+        "idx": 114
+    },
+    {
+        "premise": "It being his first night in the US, he eagerly got a drink at the bar after showing his ID.",
+        "hypothesis": "He is under 21 years of age.",
+        "label": -1,
+        "idx": 1024
     }
 ]

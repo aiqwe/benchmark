@@ -1,18 +1,18 @@
 [
     {
-        "idx": 274,
-        "inputs": "Q: What is 1746 times 3763?\n  choice: 46906\n  choice: 4835828\n  choice: banana\n  choice: 5622659\n  choice: 930963498\n  choice: 6570198\n  choice: house\nA:",
+        "idx": 846,
+        "inputs": "Q: What is 86 minus 95?\n  choice: -9\n  choice: 28\n  choice: banana\n  choice: 4826\n  choice: 94\n  choice: 8\n  choice: house\nA:",
         "targets": [
-            "2328"
+            "-9"
         ],
         "multiple_choice_targets": [
-            "1182",
-            "9200",
-            "75",
-            "757369",
+            "28",
+            "94",
+            "8",
+            "4826",
             "banana",
             "house",
-            "6407"
+            "-9"
         ],
         "multiple_choice_scores": [
             0,
@@ -25,46 +25,20 @@
         ]
     },
     {
-        "idx": 752,
-        "inputs": "Q: What is 53 plus 33?\n  choice: 16\n  choice: 2869\n  choice: banana\n  choice: 42\n  choice: 86\n  choice: 8\n  choice: house\nA:",
+        "idx": 715,
+        "inputs": "Q: What is 87 minus 85?\n  choice: 2\n  choice: 3\n  choice: house\n  choice: 722\n  choice: banana\n  choice: 9\nA:",
         "targets": [
-            "274"
+            "2"
         ],
         "multiple_choice_targets": [
-            "780274",
-            "211048",
-            "2075",
-            "80138869",
-            "banana",
-            "house",
-            "316914"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 613,
-        "inputs": "Q: What is 23809 minus 16025?\n  choice: 2640\n  choice: 48\n  choice: banana\n  choice: 6790\n  choice: 7784\n  choice: 728616\n  choice: house\nA:",
-        "targets": [
-            "10920195"
-        ],
-        "multiple_choice_targets": [
-            "6",
             "9",
-            "679",
+            "3",
+            "722",
             "banana",
             "house",
-            "5"
+            "2"
         ],
         "multiple_choice_scores": [
-            0,
             0,
             0,
             0,
@@ -74,18 +48,19 @@
         ]
     },
     {
-        "idx": 205,
-        "inputs": "Q: What is 162 times 164?\n  choice: 17675\n  choice: 26568\n  choice: banana\n  choice: 295\n  choice: 90236\n  choice: 3167660\n  choice: house\nA:",
+        "idx": 198,
+        "inputs": "Q: What is 788 times 379?\n  choice: 192494\n  choice: 298652\n  choice: banana\n  choice: 52586197\n  choice: 9240\n  choice: 748478\n  choice: house\nA:",
         "targets": [
-            "111"
+            "298652"
         ],
         "multiple_choice_targets": [
-            "5",
-            "4",
-            "520",
+            "748478",
+            "192494",
+            "9240",
+            "52586197",
             "banana",
             "house",
-            "7"
+            "298652"
         ],
         "multiple_choice_scores": [
             0,
@@ -98,10 +73,35 @@
         ]
     },
     {
-        "idx": 422,
-        "inputs": "Q: What is 6825 divided by 75?\n  choice: 1096\n  choice: 2\n  choice: banana\n  choice: 79\n  choice: 91\n  choice: 81\n  choice: house\nA:",
+        "idx": 647,
+        "inputs": "Q: What is 1286 times 6107?\n  choice: 42865\n  choice: 465485813\n  choice: banana\n  choice: 5621679\n  choice: 7853602\n  choice: 7462043\n  choice: house\nA:",
         "targets": [
-            "6636"
+            "7853602"
+        ],
+        "multiple_choice_targets": [
+            "7462043",
+            "5621679",
+            "42865",
+            "465485813",
+            "banana",
+            "house",
+            "7853602"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 944,
+        "inputs": "Q: What is 73738 plus 59563?\n  choice: 133301\n  choice: 385514\n  choice: banana\n  choice: 396525\n  choice: 8472\n  choice: 48130237\n  choice: house\nA:",
+        "targets": [
+            "133301"
         ],
         "multiple_choice_targets": [
             "385514",
@@ -123,42 +123,19 @@
         ]
     },
     {
-        "idx": 191,
-        "inputs": "Q: What is 56 minus 53?\n  choice: 3\n  choice: 5\n  choice: house\n  choice: 7\n  choice: banana\n  choice: 737\nA:",
+        "idx": 750,
+        "inputs": "Q: What is 1286 plus 3783?\n  choice: 14\n  choice: 250456\n  choice: banana\n  choice: 5069\n  choice: 7068\n  choice: 6270\n  choice: house\nA:",
         "targets": [
-            "423356"
+            "5069"
         ],
         "multiple_choice_targets": [
-            "99",
-            "64",
-            "5",
-            "9212",
+            "6270",
+            "7068",
+            "14",
+            "250456",
             "banana",
             "house",
-            "17"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 718,
-        "inputs": "Q: What is 89 minus 44?\n  choice: 4\n  choice: 45\n  choice: banana\n  choice: 59\n  choice: 9873\n  choice: 82\n  choice: house\nA:",
-        "targets": [
-            "-314"
-        ],
-        "multiple_choice_targets": [
-            "693",
-            "768",
-            "2",
-            "55310",
-            "banana",
-            "house",
-            "267"
+            "5069"
         ],
         "multiple_choice_scores": [
             0,
@@ -171,19 +148,19 @@
         ]
     },
     {
-        "idx": 709,
-        "inputs": "Q: What is 3168 divided by 792?\n  choice: 4\n  choice: 416\n  choice: house\n  choice: 5\n  choice: banana\n  choice: 7\nA:",
+        "idx": 4,
+        "inputs": "Q: What is 296 minus 613?\n  choice: -317\n  choice: 2823\n  choice: banana\n  choice: 2994\n  choice: 931251\n  choice: 54\n  choice: house\nA:",
         "targets": [
-            "-20"
+            "-317"
         ],
         "multiple_choice_targets": [
-            "75921745",
-            "95225553",
-            "732511",
-            "6306974606",
+            "2823",
+            "2994",
+            "54",
+            "931251",
             "banana",
             "house",
-            "10369992"
+            "-317"
         ],
         "multiple_choice_scores": [
             0,
@@ -196,19 +173,19 @@
         ]
     },
     {
-        "idx": 163,
-        "inputs": "Q: What is 92868 minus 43144?\n  choice: 14073\n  choice: 3404576\n  choice: banana\n  choice: 49724\n  choice: 71437\n  choice: 550\n  choice: house\nA:",
+        "idx": 579,
+        "inputs": "Q: What is 172 times 453?\n  choice: 294\n  choice: 29576\n  choice: banana\n  choice: 3009285\n  choice: 77916\n  choice: 44929\n  choice: house\nA:",
         "targets": [
-            "1202"
+            "77916"
         ],
         "multiple_choice_targets": [
-            "56458",
-            "67622",
-            "366",
-            "6578848",
+            "29576",
+            "44929",
+            "294",
+            "3009285",
             "banana",
             "house",
-            "91020"
+            "77916"
         ],
         "multiple_choice_scores": [
             0,
@@ -221,19 +198,44 @@
         ]
     },
     {
-        "idx": 28,
-        "inputs": "Q: What is 7214 minus 9742?\n  choice: -2528\n  choice: 1080505\n  choice: banana\n  choice: 25101\n  choice: 98612\n  choice: 485\n  choice: house\nA:",
+        "idx": 432,
+        "inputs": "Q: What is 4157 minus 3803?\n  choice: 349\n  choice: 354\n  choice: banana\n  choice: 579\n  choice: 88614\n  choice: 6\n  choice: house\nA:",
         "targets": [
-            "700"
+            "354"
         ],
         "multiple_choice_targets": [
-            "425",
-            "581",
+            "349",
+            "579",
+            "6",
+            "88614",
+            "banana",
+            "house",
+            "354"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 725,
+        "inputs": "Q: What is 81 minus 56?\n  choice: 1566\n  choice: 16\n  choice: banana\n  choice: 25\n  choice: 7\n  choice: 40\n  choice: house\nA:",
+        "targets": [
+            "25"
+        ],
+        "multiple_choice_targets": [
+            "16",
+            "40",
             "7",
-            "56878",
+            "1566",
             "banana",
             "house",
-            "533"
+            "25"
         ],
         "multiple_choice_scores": [
             0,
@@ -246,19 +248,19 @@
         ]
     },
     {
-        "idx": 394,
-        "inputs": "Q: What is 1305 divided by 45?\n  choice: 1\n  choice: 27\n  choice: banana\n  choice: 29\n  choice: 9543\n  choice: 34\n  choice: house\nA:",
+        "idx": 698,
+        "inputs": "Q: What is 35943 minus 97332?\n  choice: -61389\n  choice: 212885\n  choice: banana\n  choice: 30844067\n  choice: 878322\n  choice: 4291\n  choice: house\nA:",
         "targets": [
-            "526"
+            "-61389"
         ],
         "multiple_choice_targets": [
-            "9824",
-            "7255",
-            "80",
-            "930808",
+            "878322",
+            "212885",
+            "4291",
+            "30844067",
             "banana",
             "house",
-            "3954"
+            "-61389"
         ],
         "multiple_choice_scores": [
             0,
@@ -271,19 +273,42 @@
         ]
     },
     {
-        "idx": 164,
-        "inputs": "Q: What is 78 times 81?\n  choice: 12\n  choice: 2681\n  choice: banana\n  choice: 340986\n  choice: 6318\n  choice: 4651\n  choice: house\nA:",
+        "idx": 31,
+        "inputs": "Q: What is 3 minus 1?\n  choice: 2\n  choice: 3\n  choice: house\n  choice: 4\n  choice: banana\n  choice: 597\nA:",
         "targets": [
-            "203"
+            "2"
         ],
         "multiple_choice_targets": [
-            "3382007914",
-            "2692848913",
-            "41271665",
-            "606580821881",
+            "3",
+            "4",
+            "597",
             "banana",
             "house",
-            "1176204375"
+            "2"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 66,
+        "inputs": "Q: What is 66264 times 46735?\n  choice: 13472962\n  choice: 3096848040\n  choice: banana\n  choice: 7513089571\n  choice: 8543442108\n  choice: 773162612839\n  choice: house\nA:",
+        "targets": [
+            "3096848040"
+        ],
+        "multiple_choice_targets": [
+            "7513089571",
+            "8543442108",
+            "13472962",
+            "773162612839",
+            "banana",
+            "house",
+            "3096848040"
         ],
         "multiple_choice_scores": [
             0,
@@ -296,19 +321,19 @@
         ]
     },
     {
-        "idx": 0,
-        "inputs": "Q: What is 60 plus 78?\n  choice: 138\n  choice: 187\n  choice: banana\n  choice: 37532\n  choice: 660\n  choice: 5\n  choice: house\nA:",
+        "idx": 570,
+        "inputs": "Q: What is 86 minus 12?\n  choice: 21\n  choice: 3\n  choice: banana\n  choice: 4650\n  choice: 84\n  choice: 74\n  choice: house\nA:",
         "targets": [
-            "1342931590"
+            "74"
         ],
         "multiple_choice_targets": [
-            "316661",
-            "811371",
-            "2311",
-            "41529216",
+            "84",
+            "21",
+            "3",
+            "4650",
             "banana",
             "house",
-            "671751"
+            "74"
         ],
         "multiple_choice_scores": [
             0,
@@ -321,19 +346,19 @@
         ]
     },
     {
-        "idx": 400,
-        "inputs": "Q: What is 263 plus 685?\n  choice: 1\n  choice: 323\n  choice: banana\n  choice: 706\n  choice: 948\n  choice: 77213\n  choice: house\nA:",
+        "idx": 847,
+        "inputs": "Q: What is 41 times 30?\n  choice: 114601\n  choice: 1230\n  choice: banana\n  choice: 4355\n  choice: 8709\n  choice: 56\n  choice: house\nA:",
         "targets": [
-            "11701020"
+            "1230"
         ],
         "multiple_choice_targets": [
-            "2190",
-            "7784",
-            "78",
-            "499726",
+            "4355",
+            "8709",
+            "56",
+            "114601",
             "banana",
             "house",
-            "5092"
+            "1230"
         ],
         "multiple_choice_scores": [
             0,
@@ -346,19 +371,19 @@
         ]
     },
     {
-        "idx": 26,
-        "inputs": "Q: What is 201 times 788?\n  choice: 115659\n  choice: 158388\n  choice: banana\n  choice: 19982037\n  choice: 710606\n  choice: 4892\n  choice: house\nA:",
+        "idx": 548,
+        "inputs": "Q: What is 823 times 332?\n  choice: 14644682\n  choice: 273236\n  choice: banana\n  choice: 6709\n  choice: 831213\n  choice: 775401\n  choice: house\nA:",
         "targets": [
-            "1133"
+            "273236"
         ],
         "multiple_choice_targets": [
-            "703682",
-            "499808",
-            "7505",
-            "50545437",
+            "831213",
+            "775401",
+            "6709",
+            "14644682",
             "banana",
             "house",
-            "111003"
+            "273236"
         ],
         "multiple_choice_scores": [
             0,
@@ -371,19 +396,42 @@
         ]
     },
     {
-        "idx": 781,
-        "inputs": "Q: What is 7549 minus 8556?\n  choice: -1007\n  choice: 604\n  choice: banana\n  choice: 66055\n  choice: 8989997\n  choice: 78113\n  choice: house\nA:",
+        "idx": 875,
+        "inputs": "Q: What is 6766 divided by 6766?\n  choice: 1\n  choice: 681\n  choice: house\n  choice: 8\n  choice: banana\n  choice: 9\nA:",
         "targets": [
-            "3168"
+            "1"
         ],
         "multiple_choice_targets": [
-            "44693564",
-            "11915785",
-            "916981",
-            "4794650015",
+            "8",
+            "9",
+            "681",
             "banana",
             "house",
-            "47282424"
+            "1"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 437,
+        "inputs": "Q: What is 31981 plus 58343?\n  choice: 171\n  choice: 37413\n  choice: banana\n  choice: 47737\n  choice: 9821924\n  choice: 90324\n  choice: house\nA:",
+        "targets": [
+            "90324"
+        ],
+        "multiple_choice_targets": [
+            "47737",
+            "37413",
+            "171",
+            "9821924",
+            "banana",
+            "house",
+            "90324"
         ],
         "multiple_choice_scores": [
             0,
@@ -396,19 +444,19 @@
         ]
     },
     {
-        "idx": 271,
-        "inputs": "Q: What is 638 minus 221?\n  choice: 417\n  choice: 61413\n  choice: banana\n  choice: 623\n  choice: 902\n  choice: 8\n  choice: house\nA:",
+        "idx": 602,
+        "inputs": "Q: What is 92 minus 51?\n  choice: 3617\n  choice: 41\n  choice: banana\n  choice: 5\n  choice: 95\n  choice: 59\n  choice: house\nA:",
         "targets": [
-            "728"
+            "41"
         ],
         "multiple_choice_targets": [
-            "5059063138",
-            "7634113053",
-            "86966320",
-            "723340385320",
+            "95",
+            "59",
+            "5",
+            "3617",
             "banana",
             "house",
-            "2192310678"
+            "41"
         ],
         "multiple_choice_scores": [
             0,
@@ -421,69 +469,19 @@
         ]
     },
     {
-        "idx": 615,
-        "inputs": "Q: What is 179 minus 180?\n  choice: -1\n  choice: 7538\n  choice: banana\n  choice: 86\n  choice: 98\n  choice: 9\n  choice: house\nA:",
+        "idx": 387,
+        "inputs": "Q: What is 85221 times 25260?\n  choice: 2152682460\n  choice: 53982721\n  choice: banana\n  choice: 6159658374\n  choice: 744188159155\n  choice: 6165826102\n  choice: house\nA:",
         "targets": [
-            "105"
+            "2152682460"
         ],
         "multiple_choice_targets": [
-            "590023",
-            "691396",
-            "6674",
-            "48941046",
+            "6159658374",
+            "6165826102",
+            "53982721",
+            "744188159155",
             "banana",
             "house",
-            "-44292"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 703,
-        "inputs": "Q: What is 75280 times 15662?\n  choice: 1179035360\n  choice: 313598404807\n  choice: banana\n  choice: 3511114592\n  choice: 6854191999\n  choice: 46134797\n  choice: house\nA:",
-        "targets": [
-            "4166"
-        ],
-        "multiple_choice_targets": [
-            "462009",
-            "234430",
-            "9135",
-            "12293584",
-            "banana",
-            "house",
-            "172707"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 232,
-        "inputs": "Q: What is 32 times 66?\n  choice: 2112\n  choice: 412594\n  choice: banana\n  choice: 6468\n  choice: 99\n  choice: 7462\n  choice: house\nA:",
-        "targets": [
-            "687"
-        ],
-        "multiple_choice_targets": [
-            "375836",
-            "309751",
-            "5491",
-            "86158678",
-            "banana",
-            "house",
-            "202880"
+            "2152682460"
         ],
         "multiple_choice_scores": [
             0,

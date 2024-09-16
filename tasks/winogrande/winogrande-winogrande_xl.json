@@ -1,122 +1,122 @@
 [
     {
-        "sentence": "Jennifer can sleep anywhere but Amy needs a good matress as _ has serious back problems.",
-        "option1": "roses",
-        "option2": "Elena",
-        "answer": "2"
-    },
-    {
-        "sentence": "James hit the wall with a club but the club got broken instead. The _ must be pretty strong.",
-        "option1": "sofa",
-        "option2": "Laura",
+        "sentence": "I tried sweepin outside of a house with  a broom but it took me several minutes because the _ was too small.",
+        "option1": "broom",
+        "option2": "Outside of a House",
         "answer": "1"
     },
     {
-        "sentence": "Samantha couldn't stop oogling at Cynthia's new and sexy dress so _ got out a little further.",
-        "option1": "xylophone",
-        "option2": "Angela",
+        "sentence": "My sister liked to stay in the hotel instead of the house when she visited us because the _ was more spacious.",
+        "option1": "hotel",
+        "option2": "house",
         "answer": "1"
     },
     {
-        "sentence": "Bugsy did not like to eat sugar and eats lots of salads as he was too fat, and the _ has a lot of calories.",
-        "option1": "Adam",
-        "option2": "Craig",
+        "sentence": "I poured the brown gravy from the pot into serving dish until the _ was empty.",
+        "option1": "pot",
+        "option2": "dish",
         "answer": "1"
     },
     {
-        "sentence": "Taking a trip around the globe is a dream of Tanya and a reality for Mary, _ is proof  dreams comes true.",
-        "option1": "meeting",
-        "option2": "Carrie",
-        "answer": "1"
-    },
-    {
-        "sentence": "Alexi wanted to trade in the computer for a typewriter for his classwork because the _ was getting old.",
-        "option1": "hole",
-        "option2": "hot green tea",
-        "answer": "1"
-    },
-    {
-        "sentence": "Justin needed to trap Jeffrey, because _ was looking to destroy the neighborhood with vandalism.",
-        "option1": "cotton",
-        "option2": "flowers",
-        "answer": "1"
-    },
-    {
-        "sentence": "Leslie is known to be a rude person as compared to Christopher because _ has a hard heart.",
-        "option1": "Emily",
-        "option2": "stick",
-        "answer": "1"
-    },
-    {
-        "sentence": "The scarf was cute, but she opted for the hat instead, as the _ was a perfect match for her wardrobe.",
-        "option1": "backpack",
+        "sentence": "It was harder for Laura to write a book than Patricia because _ had a better imagination.",
+        "option1": "Laura",
         "option2": "Patricia",
+        "answer": "2"
+    },
+    {
+        "sentence": "Bob went out fishing on the pier and bought new rods but kept the same lures because the _ were on sale.",
+        "option1": "rods",
+        "option2": "lures",
         "answer": "1"
     },
     {
-        "sentence": "The librarian removed the books from the shelves and put them into the cart. The _ were now mobile.",
-        "option1": "Jason",
-        "option2": "Nelson",
-        "answer": "2"
-    },
-    {
-        "sentence": "Nelson was nice and Kyle was mean, which explains why _ had all the contrary friends.",
-        "option1": "Jennifer",
-        "option2": "Ryan",
-        "answer": "2"
-    },
-    {
-        "sentence": "Elena was excited to try out the hammock that Samantha had bought them, and _ was glad their friend liked it.",
-        "option1": "dog",
-        "option2": "doll",
-        "answer": "2"
-    },
-    {
-        "sentence": "William was very haphazard about safe sex but Derrick was very careful. _ had two planned children to care for.",
-        "option1": "Joel",
-        "option2": "Felicia",
-        "answer": "2"
-    },
-    {
-        "sentence": "It was easy for Adam but not Samuel to get text messages because _ had a smart phone.",
-        "option1": "Joseph",
-        "option2": "Brett",
+        "sentence": "My sister's children are really tech-savvy. They asked me for a tablet instead of a lego set because the _ is more advanced.",
+        "option1": "tablet",
+        "option2": "lego set",
         "answer": "1"
     },
     {
-        "sentence": "Ian babbled on and on to William about his new wood floors.  _ was enthusiastic.",
-        "option1": "Katrina",
-        "option2": "Kyle",
-        "answer": "1"
-    },
-    {
-        "sentence": "The scientist used the microscope to study the beetle instead of the butterfly. The _ was too wide to fit on the slide.",
-        "option1": "Samantha",
-        "option2": "electric",
-        "answer": "1"
-    },
-    {
-        "sentence": "Lawrence was trying to spray Hunter with the hose while they were washing the car so _ got in trouble by their parents.",
-        "option1": "Ian",
-        "option2": "Brian",
+        "sentence": "Jessica's pot scrubber needed to be replaced soon because the _ was becoming increasingly harder to clean.",
+        "option1": "scrubber",
+        "option2": "pot",
         "answer": "2"
     },
     {
-        "sentence": "Ian had a great credit history but Benjamin did not, so _ had to buy the house alone.",
-        "option1": "Kayla",
-        "option2": "muffins",
+        "sentence": "The writer tried to write the paragraph on the paper but the _ was too long.",
+        "option1": "paragraph",
+        "option2": "paper",
         "answer": "1"
     },
     {
-        "sentence": "Lindsey was ready to sign the contract but not Betty because _ thought it was fair.",
-        "option1": "Elena",
-        "option2": "soup",
+        "sentence": "Cynthia can't live their life as freely as Mary can because _ wants to be a politician when they grow up.",
+        "option1": "Cynthia",
+        "option2": "Mary",
+        "answer": "1"
+    },
+    {
+        "sentence": "Jessica wants to write an alien sci fi story and asks for a help from her role model Angela, because _ is professional writer.",
+        "option1": "Jessica",
+        "option2": "Angela",
         "answer": "2"
     },
     {
-        "sentence": "Brian bet a lot of money on the sports while Leslie bet a small amount beacuse _ knew very little about sports.",
-        "option1": "kitchen",
-        "option2": "box",
+        "sentence": "The system that Randy used was worse than that of Adam, because _ company was broke.",
+        "option1": "Randy",
+        "option2": "Adam",
+        "answer": "1"
+    },
+    {
+        "sentence": "I wanted to buy a car that runs on electricity and not gasoline because the price of the _ is so cheap.",
+        "option1": "gasoline",
+        "option2": "electricity",
+        "answer": "2"
+    },
+    {
+        "sentence": "Craig did not share Adam's dream of competing in the Olympics, because _ loved playing sports.",
+        "option1": "Craig",
+        "option2": "Adam",
+        "answer": "2"
+    },
+    {
+        "sentence": "Christopher waited in line at the passport office until they got to see Leslie at the booth, and _ distributed  the passport at last.",
+        "option1": "Christopher",
+        "option2": "Leslie",
+        "answer": "2"
+    },
+    {
+        "sentence": "Justin was a natural optimist but not Neil. _ found expressing gratitude came easily.",
+        "option1": "Justin",
+        "option2": "Neil",
+        "answer": "1"
+    },
+    {
+        "sentence": "Everyone liked the library more than the city hall because the _ was regarded as corrupt.",
+        "option1": "hall",
+        "option2": "library",
+        "answer": "1"
+    },
+    {
+        "sentence": "All administrative functions were handled by the office rather than the computer, as the _ was reliable to do it right.",
+        "option1": "office",
+        "option2": "computer",
+        "answer": "1"
+    },
+    {
+        "sentence": "John sealed the vegetables in a plastic bag but left the fruits on the table. That is why the _ are fresh.",
+        "option1": "vegetables",
+        "option2": "fruits",
+        "answer": "1"
+    },
+    {
+        "sentence": "When James was in the room, he moved close to the computer to feel warmer. The _ is hot.",
+        "option1": "computer",
+        "option2": "room",
+        "answer": "1"
+    },
+    {
+        "sentence": "After Samuel made the best brownies ever and gave one to Nick, _ decided to rest.",
+        "option1": "Samuel",
+        "option2": "Nick",
         "answer": "1"
     }
 ]

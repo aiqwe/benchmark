@@ -1,7 +1,34 @@
 [
     {
-        "idx": 64,
-        "inputs": "INPUT: service name=Services_2,description=The go-to service for finding and booking appointments with top rated dentists | request,name=appointment_time,description=Time for the appointment | request,name=dentist_name,description=Name of the dentist |  | context = user:I need to go to the dentist\nOUTPUT:",
+        "idx": 121,
+        "inputs": "INPUT: service name=Flights_2,description=Search for cheap flights across multiple providers | inform,name=is_redeye,description=Boolean flag indicating whether the flight is a red-eye flight,examples =True,False, values = False | inform,name=number_stops,description=Number of stopovers made by the flight,examples =0,1, values = 1 |  | context = user:Is it a redeye? And does it have stops?\nOUTPUT:",
+        "targets": [
+            "It's not a redeye and it does have 1 stop."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 20,
+        "inputs": "INPUT: service name=Events_1,description=The comprehensive portal to find and reserve seats at events near you | inform,name=address_of_location,description=Street address of event location, values = 261 Driggs Avenue, Brooklyn | inform,name=subcategory,description=Subcategory of event, either a music genre or sport name, values = pop |  | context = user:I would like more information on this event. What is the Warsaw address?\nOUTPUT:",
+        "targets": [
+            "This is a pop music concert. Warsaw is located in 261 Driggs Avenue, Brooklyn."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 43,
+        "inputs": "INPUT: service name=Services_3,description=A popular provider for finding the right doctor for your needs. Also allows you to schedule your visit to the doctor | offer,name=doctor_name,description=Name of the doctor or the medical practice, values = alchemy john md | offer,name=city,description=City where the doctor is located, values = santa rosa | offer,name=type,description=Speciality of the doctor,examples =Gynecologist,ENT Specialist,Ophthalmologist,General Practitioner,Dermatologist, values = General Practitioner | inform_count,count, values = 10 |  | context = user:general practitioner santa rosa\nOUTPUT:",
+        "targets": [
+            "10 results alchemy john md santa rosa general practitioner"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 125,
+        "inputs": "INPUT: service name=Flights_1,description=Find your next flight | request,name=inbound_departure_time,description=Departure time for the return leg flight | request,name=departure_date,description=Start date for the trip |  | context = user:I would like to return around the 14th of March from Seattle and I would like to go to Sydney, NSW.\nOUTPUT:",
         "targets": [
             "What time would you like the return flight to be?"
         ],
@@ -9,62 +36,107 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 13,
-        "inputs": "INPUT: service name=Events_2,description=Get tickets for the coolest concerts and sports in your area | request,name=event_type,description=Type of event,examples =Music,Sports, values = Music,Sports | request,name=city,description=City where the event is taking place |  | context = user:I want to find something to do on the 3rd of this month please.\nOUTPUT:",
+        "idx": 148,
+        "inputs": "INPUT: service name=Music_1,description=A popular provider of a wide range of music content for searching and listening | inform,name=genre,description=Genre of the song, values = Rock | inform,name=year,description=Year in which the song was released,examples =2010,2011,2012,2013,2014,2015,2016,2017,2018,2019, values = 2012 |  | context = user:What genre is it and when was it released?\nOUTPUT:",
         "targets": [
-            "Okay, I have 6 cars for you. How about an Altima from SFO International Airport. It's a standard car available from March 8th."
+            "It is from the Rock genre and was released in 2012."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 81,
-        "inputs": "INPUT: service name=RideSharing_1,description=On-demand taxi calling service | confirm,name=destination,description=Destination for taxi ride, values = 7880 Wren Ave | confirm,name=number_of_riders,description=Number of riders to call taxi for,examples =1,2,3,4, values = 3 | confirm,name=shared_ride,description=Boolean flag whether ride is shared with other passengers,examples =True,False, values = True |  | context = user:That is correct.\nOUTPUT:",
+        "idx": 3,
+        "inputs": "INPUT: service name=Travel_1,description=The biggest database of tourist attractions and points of interest | offer,name=attraction_name,description=Common name of the attraction, values = Angels Flight Railway | offer,name=category,description=Category to which the attraction belongs,examples =Place of Worship,Theme Park,Museum,Historical Landmark,Park,Tourist Attraction,Sports Venue,Shopping Area,Performing Arts Venue,Nature Preserve, values = Historical Landmark |  | context = user:Thanks. Can you help me find some nearby attractions for my visit?\nOUTPUT:",
         "targets": [
-            "Which date will you be leaving and how many in your party?"
+            "Angels Flight Railway is a Historical Landmark in the area."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 47,
-        "inputs": "INPUT: service name=Services_2,description=The go-to service for finding and booking appointments with top rated dentists | request,name=appointment_time,description=Time for the appointment | request,name=dentist_name,description=Name of the dentist |  | context = user:I need to go to the dentist\nOUTPUT:",
+        "idx": 43,
+        "inputs": "INPUT: service name=Services_3,description=A popular provider for finding the right doctor for your needs. Also allows you to schedule your visit to the doctor | offer,name=doctor_name,description=Name of the doctor or the medical practice, values = alchemy john md | offer,name=city,description=City where the doctor is located, values = santa rosa | offer,name=type,description=Speciality of the doctor,examples =Gynecologist,ENT Specialist,Ophthalmologist,General Practitioner,Dermatologist, values = General Practitioner | inform_count,count, values = 10 |  | context = user:general practitioner santa rosa\nOUTPUT:",
         "targets": [
-            "I found a bus leaving at 8:30 am. It is $21 for a economy ticket."
+            "10 results alchemy john md santa rosa general practitioner"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 99,
-        "inputs": "INPUT: service name=Restaurants_1,description=A leading provider for restaurant search and reservations | request,name=time,description=Time for the reservation or to find availability | request,name=restaurant_name,description=Name of the restaurant | request,name=city,description=City in which the restaurant is located |  | context = user:Thank you! Can you make a reservation at a restaurant around there?\nOUTPUT:",
+        "idx": 129,
+        "inputs": "INPUT: service name=Media_1,description=A leading provider of movies for searching and watching on-demand | inform,name=genre,description=Genre of the movie, values = Drama | inform,name=directed_by,description=Name of the director of the movie, values = Garth Davis | notify_success |  | context = user:Yes. What type of genre it is? Who is the director?\nOUTPUT:",
         "targets": [
-            "There is a flight leaving 4:45 pm on American Airlines with 0 stops. The ticket fare is $171."
+            "Movie started. It is a Drama movie directed by Garth Davis."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 76,
-        "inputs": "INPUT: service name=Services_3,description=A popular provider for finding the right doctor for your needs. Also allows you to schedule your visit to the doctor | confirm,name=doctor_name,description=Name of the doctor or the medical practice, values = bastoni kelly a md | confirm,name=appointment_time,description=Time for the appointment with the doctor, values = 4 pm | confirm,name=appointment_date,description=Date for scheduling the appointment with the doctor, values = march 14th |  | context = user:14th of this month\nOUTPUT:",
+        "idx": 59,
+        "inputs": "INPUT: service name=Restaurants_1,description=A leading provider for restaurant search and reservations | inform,name=serves_alcohol,description=Boolean flag indicating if the restaurant serves alcohol,examples =True,False, values = False | inform,name=has_live_music,description=Boolean flag indicating if the restaurant has live music,examples =True,False, values = False |  | context = user:Do they serve alcohol and do they have live music?\nOUTPUT:",
         "targets": [
-            "You would be leaving from Intercity terminal and stopping off at port authority station."
+            "Sorry, they neither serve alcohol nor do they have live music."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 118,
-        "inputs": "INPUT: service name=Calendar_1,description=Calendar service to manage personal events and reservations | request,name=event_time,description=Start time of event |  | context = user:It's a General Practitioner appointment with John Toth, D.O. at 401 Gregory Ln # 248.\nOUTPUT:",
+        "idx": 126,
+        "inputs": "INPUT: service name=Calendar_1,description=Calendar service to manage personal events and reservations | request,name=event_date,description=Date of event or for checking availability |  | context = user:thanks a lot\nOUTPUT:",
         "targets": [
-            "I'd be happy to help. Where should I search for events?"
+            "what date then?"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 39,
-        "inputs": "INPUT: service name=RentalCars_2,description=Car rental service, available worldwide | inform,name=car_name,description=Name of car model, values = Nissan Leaf | inform,name=total_price,description=Total price of rental reservation, values = $52 | notify_success |  | context = user:Yes that's perfect. How much does that cost and what car is that?\nOUTPUT:",
+        "idx": 72,
+        "inputs": "INPUT: service name=Restaurants_1,description=A leading provider for restaurant search and reservations | request,name=cuisine,description=Cuisine of food served in the restaurant,examples =Mexican,Chinese,Indian,American,Italian, values = Mexican,Chinese |  | context = user:Perfect. Let's also find a restaurant in the area.\nOUTPUT:",
+        "targets": [
+            "What cuisine would you prefer? Maybe Chinese, Mexican or maybe something else?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 82,
+        "inputs": "INPUT: service name=Banks_1,description=Manage bank accounts and transfer money | request,name=amount,description=The amount of money to transfer |  | context = user:I wish to make a transfer amount from my checking account to savings account of Jerry.\nOUTPUT:",
+        "targets": [
+            "How much to be transferred?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 19,
+        "inputs": "INPUT: service name=Events_2,description=Get tickets for the coolest concerts and sports in your area | inform,name=venue_address,description=Address of event venue, values = 170 Princes' Boulevard | inform,name=venue,description=Exact venue of event, values = BMO Field |  | context = user:Can you tell me the location of the venue?\nOUTPUT:",
+        "targets": [
+            "The address of the venue is 170 Princes' Boulevard at BMO Field."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 51,
+        "inputs": "INPUT: service name=Events_1,description=The comprehensive portal to find and reserve seats at events near you | inform,name=event_location,description=Name of event location, values = Guaranteed Rate Field | inform,name=time,description=Time when the event is scheduled to start, values = 6:30 pm |  | context = user:Where is that? When is first pitch?\nOUTPUT:",
+        "targets": [
+            "Its at Guaranteed Rate Field at 6:30 pm."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 126,
+        "inputs": "INPUT: service name=Calendar_1,description=Calendar service to manage personal events and reservations | request,name=event_date,description=Date of event or for checking availability |  | context = user:thanks a lot\nOUTPUT:",
+        "targets": [
+            "what date then?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 144,
+        "inputs": "INPUT: service name=Weather_1,description=Check the weather for any place and any date | offer,name=temperature,description=Temperature in Fahrenheit, values = 82 | offer,name=precipitation,description=The possibility of rain or snow in percentage, values = 15 |  | context = user:Can you check the weather in El Sobrante on March 13th?\nOUTPUT:",
         "targets": [
             "The temperature will reach 82 and there is a 15 perent chance for rain."
         ],
@@ -72,109 +144,37 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 72,
-        "inputs": "INPUT: service name=Services_3,description=A popular provider for finding the right doctor for your needs. Also allows you to schedule your visit to the doctor | offer,name=doctor_name,description=Name of the doctor or the medical practice, values = alchemy john md | offer,name=city,description=City where the doctor is located, values = santa rosa | offer,name=type,description=Speciality of the doctor,examples =Gynecologist,ENT Specialist,Ophthalmologist,General Practitioner,Dermatologist, values = General Practitioner | inform_count,count, values = 10 |  | context = user:general practitioner santa rosa\nOUTPUT:",
+        "idx": 123,
+        "inputs": "INPUT: service name=Buses_2,description=Find a bus to take you to the city you want | request,name=origin,description=Origin city for journey | request,name=departure_time,description=Time of bus departure | request,name=destination,description=Destination city for journey |  | context = user:Hello! Can you help me find bus tickets?\nOUTPUT:",
         "targets": [
-            "What movie do you wish to watch?"
+            "I'd be happy to help. Where will you be departing from and traveling to? Do you have a preference on time?"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 62,
-        "inputs": "INPUT: service name=RideSharing_1,description=On-demand taxi calling service | inform,name=ride_fare,description=Total fare for taxi ride, values = $19.14 | inform,name=approximate_ride_duration,description=Approximate duration of ride to the destination, values = 11 |  | context = user:What is the cost and how long will it take to get there?\nOUTPUT:",
+        "idx": 33,
+        "inputs": "INPUT: service name=Events_1,description=The comprehensive portal to find and reserve seats at events near you | request,name=city_of_event,description=City where event is happening |  | context = user:Hello! I'd like to find something to do. Can you tell me what upcoming events are happening around here?\nOUTPUT:",
         "targets": [
-            "The hotel has a 1 star rating."
+            "I'd be happy to help. Where should I search for events?"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 98,
-        "inputs": "INPUT: service name=Restaurants_1,description=A leading provider for restaurant search and reservations | confirm,name=restaurant_name,description=Name of the restaurant, values = Go Vegan | confirm,name=city,description=City in which the restaurant is located, values = Antioch | confirm,name=time,description=Time for the reservation or to find availability, values = 5 pm | confirm,name=date,description=Date for the reservation or to find availability, values = March 1st | confirm,name=party_size,description=Party size for a reservation,examples =1,2,3,4,5,6, values = 4 |  | context = user:Five pm, please.\nOUTPUT:",
+        "idx": 71,
+        "inputs": "INPUT: service name=Restaurants_1,description=A leading provider for restaurant search and reservations | offer,name=restaurant_name,description=Name of the restaurant, values = Go Vegan | offer,name=city,description=City in which the restaurant is located, values = Antioch |  | context = user:Vegetarian would be perfect.\nOUTPUT:",
         "targets": [
-            "Can you please confirm that you want a table for 4 at Go Vegan in Antioch on March 1st at 5 pm?"
+            "In Antioch there's Go Vegan."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 121,
-        "inputs": "INPUT: service name=Flights_1,description=Find your next flight | confirm,name=origin_city,description=Starting city for the trip, values = Los Angeles | confirm,name=destination_city,description=Ending city for the trip, values = Paris | confirm,name=airlines,description=Name of airline,examples =United Airlines,American Airlines,Delta Airlines,Southwest Airlines,Alaska Airlines,British Airways,Air Canada,Air France, values = Delta Airlines | confirm,name=departure_date,description=Start date for the trip, values = March 1st | confirm,name=return_date,description=Date of the return flight, values = March 11th | confirm,name=outbound_departure_time,description=Departure time for the outbound leg flight, values = 8:25 am | confirm,name=inbound_departure_time,description=Departure time for the return leg flight, values = 5:35 pm | confirm,name=passengers,description=Number of passengers in the booking,examples =1,2,3,4, values = 4 | confirm,name=seating_class,description=Seating class for the booking,examples =Economy,Premium Economy,Business,First Class, values = Economy |  | context = user:Yes, please buy the tickets. I'll need 4 tickets in Economy.\nOUTPUT:",
-        "targets": [
-            "5.0 is the rating"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 111,
-        "inputs": "INPUT: service name=Buses_2,description=Find a bus to take you to the city you want | request,name=departure_date,description=Date of bus departure | request,name=group_size,description=Size of group for the booking,examples =1,2,3,4,5 |  | context = user:Yes, I'd like to leave SD in the afternoon 3:45 and travel to Long Beach.\nOUTPUT:",
-        "targets": [
-            "Shall I purchase tickets for the game now?"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 69,
-        "inputs": "INPUT: service name=Hotels_1,description=A popular service for searching and reserving rooms in hotels | confirm,name=hotel_name,description=Name of the hotel, values = Best Western Mission Bay | confirm,name=check_in_date,description=Start date for the reservation, values = March 3rd | confirm,name=number_of_days,description=Number of days in the reservation, values = 3 | confirm,name=destination,description=Location of the hotel, values = San Diego | confirm,name=number_of_rooms,description=Number of rooms in the reservation,examples =1,2,3, values = 3 |  | context = user:For three days.\nOUTPUT:",
-        "targets": [
-            "No, the apartment isn't furnished."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 91,
-        "inputs": "INPUT: service name=Flights_1,description=Find your next flight | request,name=return_date,description=Date of the return flight |  | context = user:I want to go to San Francisco to New York on Monday next week. I need tickets for two people.\nOUTPUT:",
+        "idx": 25,
+        "inputs": "INPUT: service name=RentalCars_1,description=Car rental service with extensive coverage of locations and cars | confirm,name=pickup_location,description=Location of rental car pickup, values = Salesforce Transit Center | confirm,name=pickup_date,description=Date of rental car pickup, values = March 8th | confirm,name=pickup_time,description=Time of rental car pickup, values = 11 am | confirm,name=dropoff_date,description=Date of rental car drop-off, values = March 9th | confirm,name=type,description=Category to which rental car belongs,examples =Compact,Standard,Full-size, values = Standard |  | context = user:Nice, sounds perfect. Please reserve it.\nOUTPUT:",
         "targets": [
             "Okay, please confirm that you'd like a standard car from Salesforce Transit Center from 11 am March 8th until March 9th."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 47,
-        "inputs": "INPUT: service name=Hotels_3,description=A leading provider for searching and booking hotel rooms | offer,name=hotel_name,description=Name of the hotel, values = Ac Hotel By Marriott Beverly Hills | offer,name=average_rating,description=Average review rating for the hotel, values = 4.4 | inform_count,count, values = 10 |  | context = user:Can you help me find a hotel in Los Angeles?\nOUTPUT:",
-        "targets": [
-            "Where are you leaving from and going to? When do you want to visit?"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 15,
-        "inputs": "INPUT: service name=Travel_1,description=The biggest database of tourist attractions and points of interest | offer,name=attraction_name,description=Common name of the attraction, values = Angels Flight Railway | offer,name=category,description=Category to which the attraction belongs,examples =Place of Worship,Theme Park,Museum,Historical Landmark,Park,Tourist Attraction,Sports Venue,Shopping Area,Performing Arts Venue,Nature Preserve, values = Historical Landmark |  | context = user:Thanks. Can you help me find some nearby attractions for my visit?\nOUTPUT:",
-        "targets": [
-            "What city would you like to stay in?"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2,
-        "inputs": "INPUT: service name=Calendar_1,description=Calendar service to manage personal events and reservations | offer,name=event_date,description=Date of event or for checking availability, values = March 3rd | offer,name=available_start_time,description=Starting time of available time slot, values = 2:30 pm | offer,name=available_end_time,description=Ending time of available time slot, values = 7 pm |  | context = user:This is exactly what I want. When am I free that day?\nOUTPUT:",
-        "targets": [
-            "I'll get you 4 Economy ticket for Los Angeles to Paris on Delta Airlines. Departure is on March 1st at 8:25 am. Return is on March 11th at 5:35 pm. Is everything correct?"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 28,
-        "inputs": "INPUT: service name=Calendar_1,description=Calendar service to manage personal events and reservations | request,name=event_name,description=Title of event | request,name=event_location,description=Location of event |  | context = user:Yes, I would.\nOUTPUT:",
-        "targets": [
-            "Sure. It looks like Ash Is Purest White, Captain Marvel, and Citizen Kane are all pretty popular right now."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 7,
-        "inputs": "INPUT: service name=Services_3,description=A popular provider for finding the right doctor for your needs. Also allows you to schedule your visit to the doctor | inform,name=average_rating,description=Average review rating of the doctor, values = 4.6 | inform,name=type,description=Speciality of the doctor,examples =Gynecologist,ENT Specialist,Ophthalmologist,General Practitioner,Dermatologist, values = Ophthalmologist | notify_success |  | context = user:Yes. What is her specialty, and her rating?\nOUTPUT:",
-        "targets": [
-            "The hotel has a 1 star rating."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

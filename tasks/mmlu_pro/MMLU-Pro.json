@@ -1,0 +1,856 @@
+[
+    {
+        "question_id": 72,
+        "question": "Mrs. Hilton wishes to save $10,000 to purchase a new car 10 years from now. If she can get 5% per year compounded quarterly in her savings account, what must her quarterly deposits be?",
+        "options": [
+            "GAP 5-the gap between perceived service and expected service.",
+            "GAP1-the gap between the customer's expectations and management perception.",
+            "GAP 10-the gap between management perception and customer satisfaction.",
+            "GAP 7-the gap between customer expectations and perceived service.",
+            "GAP 8-the gap between service delivery and customer satisfaction.",
+            "GAP 4-the gap between service delivery and external communications.",
+            "GAP 6-the gap between service design and service standards.",
+            "GAP 9-the gap between customer perception and service expectation.",
+            "GAP 2-the gap between management perception and service-quality specification.",
+            "GAP 3-the gap between service-quality specifications and service delivery."
+        ],
+        "answer": "H",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "business",
+        "src": "stemez-Business"
+    },
+    {
+        "question_id": 288,
+        "question": "A $225 refrigerator can be purchased on the installment plan for 15% down. The balance due, along with a 7% a year service charge, is to be paid in 18 equal monthly payments. If Mr.Trautenpurchased the refrigerator on the installment plan, what was his down-payment? What was the amount of each monthly payment?",
+        "options": [
+            "Integrity",
+            "Adaptability",
+            "Accountability",
+            "Openness",
+            "Dependability",
+            "Acceptability"
+        ],
+        "answer": "F",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "business",
+        "src": "stemez-Business"
+    },
+    {
+        "question_id": 809,
+        "question": "Jim Miller bought a vacuum cleaner priced at $69.75, with a 5% discount. The state sales tax was 3% and the city sales tax was 4%. How much did Jim pay for the cleaner?",
+        "options": [
+            "USCA = 4.3500, CR = 0.2825, USPW = 3.5121",
+            "USCA = 4.3422, CR = 0.2833, USPW = 3.5051",
+            "USCA = 4.3103, CR = 0.2833, USPW = 3.5031",
+            "USCA = 4.3422, CR = 0.2853, USPW = 3.5021",
+            "USCA = 4.2303, CR = 0.2853, USPW = 3.5051",
+            "USCA = 4.3422, CR = 0.2900, USPW = 3.4001",
+            "USCA = 4.3303, CR = 0.2800, USPW = 3.6001",
+            "USCA = 4.3422, CR = 0.2853, USPW = 3.5051",
+            "USCA = 4.3652, CR = 0.2888, USPW = 3.4950",
+            "USCA = 4.2222, CR = 0.2753, USPW = 3.5751"
+        ],
+        "answer": "I",
+        "answer_index": 6,
+        "cot_content": "",
+        "category": "business",
+        "src": "stemez-Business"
+    },
+    {
+        "question_id": 1565,
+        "question": "What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?",
+        "options": [
+            "Since Ann did not expressly promise to forbear to sue Carla to collect the antecedent $4,000 debt, Ann's forbearance for six months could not constitute consideration for Bea's promise.",
+            "Since the written agreement between Bea and Ann shows a gross imbalance between the values of the promises exchanged, the consideration for Bea's promise was legally insufficient to support it.",
+            "Since Carla, when the agreement between Ann and Bea was made, had a pre-existing duty to repay the $4,000 debt to Ann, there was no consideration for Bea's promise to Ann.",
+            "Since Ann had a pre-existing duty to return Bea's golf clubs to her when the agreement between Ann and Bea was made, there was no consideration for Bea's promise to Ann."
+        ],
+        "answer": "I",
+        "answer_index": 9,
+        "cot_content": "",
+        "category": "law",
+        "src": "ori_mmlu-professional_law"
+    },
+    {
+        "question_id": 938,
+        "question": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+        "options": [
+            "admitted, because the plaintiff's statement to the investigator is a prior inconsistent statement.",
+            "excluded, because the plaintiff's statement to the investigator is hearsay.",
+            "admitted, because the plaintiff's cell phone use is relevant to the issue of negligence.",
+            "excluded, because the investigator's testimony is second-hand information and therefore unreliable.",
+            "admitted, because the accident investigator gathered the information in the course of his official duties.",
+            "admitted, because the plaintiff's inconsistent statement has bearing on her credibility.",
+            "admitted, because it is a statement against interest and therefore an exception to the hearsay rule.",
+            "excluded, because the statement was not made under oath and therefore may not be truthful.",
+            "excluded, because the defendant did not have the opportunity to cross-examine the plaintiff at the time she made the statement."
+        ],
+        "answer": "I",
+        "answer_index": 5,
+        "cot_content": "",
+        "category": "law",
+        "src": "ori_mmlu-professional_law"
+    },
+    {
+        "question_id": 1967,
+        "question": "A defendant was suspected of having burglarized his neighbor's apartment. The neighbor reported that his apartment had been ransacked and several items of clothing had been stolen. During the course of their investigation, two police detectives went to the defendant's place of work to interview him. After being advised of his Miranda rights, the defendant requested permission to call his attorney. Although his attorney was unavailable, the attorney's receptionist admonished him not to say anything. The defendant told the detectives he would have nothing further to say unless his attorney was present. The detectives then asked him if he would accompany them to the police station to answer some questions about an unrelated robbery. The defendant agreed. As they were driving to the police station, the defendant was asked where he had purchased the boots that he was wearing. He refused to answer. When they arrived at the police station, the detectives requested that he sign a waiver of his right to counsel. The defendant replied that he would not sign anything in the absence of his attorney. He was then placed in an interrogation room. Shortly thereafter, the defendant was told he could leave if he would be willing to say where he had purchased his boots. The defendant admitted that he had bought the boots and some shirts from a friend. From this information, the detectives obtained a search warrant and went to the defendant's home where they found the stolen clothing. The defendant is charged with burglarizing the apartment. At trial, the court should",
+        "options": [
+            "$75,000, or the commission equivalent of 5 percent on the sale of the property for$1,500,000, plus punitive damages for breach of contract.",
+            "Nothing, because the owner has the right to withdraw the property from the market at any time.",
+            "$75,000, or the commission equivalent of 5 percent on the sale of the property for$1,500,000, since all conditions precedent to the owner's duty to pay the commission were fulfilled when the broker produced a buyer who was ready, willing and able to perform.",
+            "The broker can seek recovery for any expenses incurred during the process of finding a buyer.",
+            "Nothing, because a condition precedent, namely the consummation of the sale and transfer of title, has failed to occur.",
+            "$75,000, or the commission equivalent of 5 percent on the sale of the property for$1,500,000, since the consummation condition to the owner's duty to pay the commission was excused by the owner's refusal without cause to accept the buyer's offer and perform the land sale contract.",
+            "Quantum meruit for the reasonable value for services rendered in obtaining a buyer for the property.",
+            "$75,000, or the commission equivalent of 5 percent on the sale of the property for$1,500,000, since the broker had obtained a buyer who was willing and able to purchase at a price higher than the minimum set in the brokerage agreement.",
+            "$62,500, or the commission equivalent of 5 percent on the original minimum sale price of the property for $1,250,000, since the broker had fulfilled her duty by finding a potential buyer.",
+            "A court injunction forcing the owner to complete the sale, thus entitling the broker to the full commission."
+        ],
+        "answer": "G",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "law",
+        "src": "ori_mmlu-professional_law"
+    },
+    {
+        "question_id": 2634,
+        "question": "The information that family members continuously exchange and that helps minimize deviation and maintain the family's stability is referred to as ________ feedback.",
+        "options": [
+            "on the “honor system” only",
+            "protected by state/provincial laws",
+            "less of an issue than it is in individual therapy",
+            "mandated by federal law",
+            "the legal responsibility of the therapist",
+            "only applicable to the therapist",
+            "only necessary if sensitive information is shared",
+            "dependent on the group's consensus",
+            "not applicable in group settings"
+        ],
+        "answer": "B",
+        "answer_index": 8,
+        "cot_content": "",
+        "category": "psychology",
+        "src": "ori_mmlu-professional_psychology"
+    },
+    {
+        "question_id": 2531,
+        "question": "Jim and Tim are identical (monozygotic) twins that were reared together. Scott and Michael are fraternal (dizygotic) twins that were reared together. Given the results of heritability studies of intelligence, which of the following outcomes are most likely to emerge?",
+        "options": [
+            "not mentioned in the ethical guidelines.",
+            "ethically acceptable, as it provides opportunities for those with lower income.",
+            "explicitly recommended in the ethical guidelines.",
+            "ethically acceptable since it serves the best interests of his clients.",
+            "explicitly recommended in the legal guidelines.",
+            "ethically unacceptable, as it can be considered discriminatory.",
+            "ethically questionable, as it may not consider a client's overall financial situation.",
+            "explicitly prohibited in the ethical guidelines.",
+            "a common practice, but not explicitly mentioned in the ethical guidelines.",
+            "ethically unacceptable since it treats clients inequitably."
+        ],
+        "answer": "C",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "psychology",
+        "src": "stemez-Psychology"
+    },
+    {
+        "question_id": 2332,
+        "question": "A 16-month-old child who calls her pet cat “kitty” sees a dog for the first time and calls it “kitty.” In terms of Piaget’s theory of cognitive development, the child is displaying:",
+        "options": [
+            "short-term memory",
+            "sensory memory",
+            "eidetic memory",
+            "episodic memory",
+            "explicit memory",
+            "procedural memory",
+            "semantic memory",
+            "working memory",
+            "implicit memory",
+            "long-term memory"
+        ],
+        "answer": "H",
+        "answer_index": 3,
+        "cot_content": "",
+        "category": "psychology",
+        "src": "stemez-Psychology"
+    },
+    {
+        "question_id": 3085,
+        "question": "The leaf colors resulting from crosses between different branches on variegated Mirabilisjalapa(\\textquotedblleftfour o'clock\\textquotedblright) plants are shown below: Branch of Origin of the Male parent Branch of Origin of the Female parent Progeny Green Green Pale Variegated Green Pale Green, pale, variegated Pale Green Pale Variegated Green Pale Green, pale, variegated Variegated Green Pale Variegated Green Pale Green, pale, variegated What is the most likely mode of inheritance?",
+        "options": [
+            "It is typically associated with small secretory vesicles located near its cis face.",
+            "Glycosylation of certain secretory proteins occurs prior to the protein's entry into its lumen.",
+            "It is typically associated with large lysosomes located near its trans face.",
+            "Its trans face is closest to the endoplasmic reticulum.",
+            "It is located in the nucleus of the cell.",
+            "It is responsible for the synthesis of ATP.",
+            "Its cisternae are not involved in protein processing.",
+            "Its composite flattened cisternae are continuous with one another.",
+            "Glycosylation of certain proteins occurs outside the Golgi apparatus.",
+            "It is oriented in the cytoplasm so that its cis face is closest to the endoplasmic reticulum."
+        ],
+        "answer": "J",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "biology",
+        "src": "ori_mmlu-college_biology"
+    },
+    {
+        "question_id": 3176,
+        "question": "What roles does glucose play in cellmetabolism ?",
+        "options": [
+            "0.89",
+            "0.48",
+            "0.26",
+            "0.32",
+            "1",
+            "0.67",
+            "0.54",
+            "0.92",
+            "0.75",
+            "0.15"
+        ],
+        "answer": "H",
+        "answer_index": 7,
+        "cot_content": "",
+        "category": "biology",
+        "src": "stemez-Biology"
+    },
+    {
+        "question_id": 2992,
+        "question": "The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients?",
+        "options": [
+            "Gulls remove eggshells as a part of their feeding habit",
+            "Gulls use the removed eggshells as a source of calcium for the young birds",
+            "Eggshell-removing behavior is significant in that it reduces the chances of a nest being robbed, thus enhancing the survival of offspring.",
+            "The removal of eggshells is a ritualistic behavior with no direct biological significance",
+            "Gulls remove eggshells to reuse them for building nests",
+            "Gulls remove eggshells to prevent injury to the young birds in the nest",
+            "The removal of eggshells is a territorial display to deter rival gulls from the area",
+            "Eggshells are removed to make space for more eggs to be laid in the same season",
+            "Removing eggshells helps regulate the temperature within the nest for the young birds",
+            "The gulls remove the eggshells to keep their nests clean"
+        ],
+        "answer": "H",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "biology",
+        "src": "stemez-Biology"
+    },
+    {
+        "question_id": 4299,
+        "question": "Through several successive reactions, a chemist uses carbon,CaO,HCland H_2 O to produce C_6 H_4, Cl_2. Assuming an efficiency of 65 %, how much C_6 H_4 Cl_2 can be produced from 500 grams of carbon? Assume that 1/3 of the carbon is lost as 3 moles CO.",
+        "options": [
+            "CH4",
+            "NH3",
+            "CCl2F2",
+            "H2O",
+            "SF6",
+            "PF5",
+            "BeCl2",
+            "SO3"
+        ],
+        "answer": "A",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "chemistry",
+        "src": "stemez-Chemistry"
+    },
+    {
+        "question_id": 3906,
+        "question": "In over 90% of cases, the concentration of ethanol (C_2H_5OH, density = 0.80 g/ml) in blood necessary to produce intoxication is 0.0030 g/ml. A concentration of 0.0070 g/ml is fatal. What volume of 80 proof (40% ethanol by volume) Scotch whiskey must an intoxicated person consume before the concentration of ethanol in his blood reaches a fatal level? Assume that all the alcohol goes directly to the blood and that the blood volume of a person is 7.0 liters.",
+        "options": [
+            "0.3 atm",
+            "0.65 atm",
+            "0.08 atm",
+            "0.025 atm",
+            "0.2 atm",
+            "0.132 atm",
+            "0.0545 atm",
+            "0.7 atm",
+            "0.4 atm",
+            "0.526 atm"
+        ],
+        "answer": "F",
+        "answer_index": 7,
+        "cot_content": "",
+        "category": "chemistry",
+        "src": "stemez-PhysicalChemistry"
+    },
+    {
+        "question_id": 3923,
+        "question": "Theemfat 298 K of the concentration cell with transference, H_2(1atm) \\vertHCl(a = 0.0100)\\vertHCl(a = 0.100)\\vertH_2(1atm) is 0.0190 V. What is the average transference number of the H^+ ion?",
+        "options": [
+            "0.042",
+            "0.099",
+            "0.047",
+            "0.028",
+            "0.015",
+            "0.083",
+            "0.052",
+            "0.032",
+            "0.061",
+            "0.024"
+        ],
+        "answer": "I",
+        "answer_index": 3,
+        "cot_content": "",
+        "category": "chemistry",
+        "src": "scibench-matter"
+    },
+    {
+        "question_id": 4921,
+        "question": "Where did the world's first civilization develop?",
+        "options": [
+            "largest",
+            "most populated",
+            "earliest",
+            "least known",
+            "richest",
+            "most influential",
+            "most peaceful",
+            "strongest",
+            "highest",
+            "most advanced"
+        ],
+        "answer": "I",
+        "answer_index": 6,
+        "cot_content": "",
+        "category": "history",
+        "src": "ori_mmlu-high_school_world_history"
+    },
+    {
+        "question_id": 4927,
+        "question": "This question refers to the following information.\n\"Permit us, then, earnestly to recommend these articles to the immediate and dispassionate attention of the legislatures of the respective states. Let them be candidly reviewed under a sense of the difficulty of combining in one system the various sentiments and interests of a continent divided into so many sovereign and independent communities, under a conviction of the absolute necessity of uniting all our councils and all our strength, to maintain and defend our common liberties….\"\nJournals of the Continental Congress, 1777\nThe most notable achievement of the United States under the Articles of Confederation was",
+        "options": [
+            "President George W. Bush's implementation of the Patriot Act in 2001.",
+            "The Black Panther Party's opposition to police brutality in the 1960s.",
+            "President Richard Nixon's response to the Watergate scandal in 1974.",
+            "Governor Orval Faubus's response to the steps taken by President Dwight Eisenhower to resolve the Little Rock crisis in 1957.",
+            "Senator Bernie Sanders's stance on income inequality in 2016.",
+            "John Lewis's endorsement of the Voting Rights Act in 1965.",
+            "President Franklin D. Roosevelt's decision to intern Japanese-Americans during World War II in 1942.",
+            "U.S. Army lawyer Joseph Welsh's opposition to Senator Joseph McCarthy in the Army-McCarthy hearings in 1954.",
+            "Justice Frank Murphy's dissent in the Supreme Court case, Korematsu v. United States in 1944.",
+            "Martin Luther King Jr.'s criticism of the Vietnam War in 1967."
+        ],
+        "answer": "I",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "history",
+        "src": "ori_mmlu-high_school_us_history"
+    },
+    {
+        "question_id": 4808,
+        "question": "This question refers to the following information.\nIn fact, the peculiar aggravation of the Cawnpore massacres was this, that the deed was done by a subject race — by black men who dared to shed the blood of their masters, and that of poor helpless ladies and children. Here we had not only a servile war, but we had a war of religion, a war of race, and a war of revenge, of hope, of national promptings to shake off the yoke of a stranger, and to re-establish the full power of native chiefs, and the full sway of native religions. Whatever the causes of the mutiny and the revolt, it is clear enough that one of the modes by which the leaders, as if by common instinct, determined to effect their end was, the destruction of every white man, woman or child who fell into their hands.\nBritish journalist William Howard Russell, My Indian Mutlny Diary, 1860\nViolence, it must be emphasized, was an essential component of the British presence in India. A dominant power is always uneasy with violence directed against it. The right to violence is, therefore, everywhere a privilege that authority enjoys and refuses to share with those under it: power always insists on violence as its exclusive monopoly. British rule in India, as an autocracy, had meticulously constructed a monopoly of violence. The revolt of 1857 shattered that monopoly by matching an official, alien violence by an indigenous violence of the colonized. The bodies of the British had acquired certain dignities in India that were predestined by birth and by the colour of their skin. This was the condition of their domination, of their superiority: rulers and ruled were arranged hierarchically as superior and inferior races, as civilized and uncivilized. And this superiority manifested itself by denying to the Indians a \"humanness\"; by treating them and conceiving of them as animals.\nRudrangshu Mukherjee, \"The Kanpur [Cawnpore] Massacres in India in the Revolt of 1857,\" 1990\nFrom the perspective of the first passage, the death of British citizens at Cawnpore",
+        "options": [
+            "the construction of canals for irrigation",
+            "the creation of a trade network for llama products",
+            "the need to collect large quantities of shellfish",
+            "the building of the Piramide Mayor",
+            "the need for a centralized defense against invaders",
+            "the desire to establish an astronomical observatory",
+            "the excavating work to produce the sunken plazas",
+            "the development of a hierarchical religious system",
+            "the requirement for large-scale stone quarries",
+            "the invention of a complex writing system"
+        ],
+        "answer": "A",
+        "answer_index": 1,
+        "cot_content": "",
+        "category": "history",
+        "src": "ori_mmlu-prehistory"
+    },
+    {
+        "question_id": 5174,
+        "question": "What was the primary reason the Green Revolution did NOT help Africa much?",
+        "options": [
+            "$101,414",
+            "$100,276",
+            "$100,826",
+            "$100,414",
+            "$101,276",
+            "$101,138",
+            "$100,688",
+            "$101,000",
+            "$100,552",
+            "$100,000"
+        ],
+        "answer": "D",
+        "answer_index": 8,
+        "cot_content": "",
+        "category": "other",
+        "src": "ori_mmlu-high_school_geography"
+    },
+    {
+        "question_id": 5319,
+        "question": "If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?",
+        "options": [
+            "Richard Nixon",
+            "John F. Kennedy",
+            "Dwight D. Eisenhower",
+            "Jimmy Carter",
+            "Lyndon B. Johnson",
+            "George H. W. Bush",
+            "Bill Clinton",
+            "Gerald Ford",
+            "Ronald Reagan",
+            "George W. Bush"
+        ],
+        "answer": "J",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "other",
+        "src": "ori_mmlu-global_facts"
+    },
+    {
+        "question_id": 5507,
+        "question": "How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?",
+        "options": [
+            "Technological advancements have to some extent rendered the battlefield gender-neutral. 'Virtual' warfare has resolved the historical tension between the citizen and the state security apparatus; if actual combat could be avoided then male and female soldiers could wage war on equal terms. However, technological advancement remains unequal and so the gender situation is different in different contexts, depending on development and security issues.",
+            "The technological capacity to wage war with minimal civilian costs has abolished the threat of physical and biological gender victimization. The contemporary gender divide is structured on 'soft' issues associated with socio-economic hardship.",
+            "Conflict in warfare and the gender divide between men and women is centred on the historical contract between the individual and the state. The 'right to fight' debate has equal meaning and saliency across the globe, and is universally applicable in all situations.",
+            "Nuclear armaments and the threat of mass destruction have rendered the battlefield gender neutral in terms of its destructive capabilities. Whilst historically conventional warfare was conducted on the battlefield in which women were particularly vulnerable to violence, and post-conflict sexual violence, these threats no longer exist."
+        ],
+        "answer": "B",
+        "answer_index": 8,
+        "cot_content": "",
+        "category": "other",
+        "src": "ori_mmlu-global_facts"
+    },
+    {
+        "question_id": 6725,
+        "question": "A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in infancy during a work-up for coarctation of the aorta. During today's visit, her mother reports that the girl has been talking about babies. You have been the patient's physician for the past 6 years and know she is prepubescent. It is most appropriate to counsel the patient that if she wishes to have a family she will need to do which of the following?",
+        "options": [
+            "Hematoma of the left thigh",
+            "Compression of the lateral femoral cutaneous nerve",
+            "Cerebral infarction during the hospitalization",
+            "Side effect of prolonged bed rest",
+            "Peripheral neuropathy due to diabetes",
+            "Spinal cord injury during IVC filter placement",
+            "Sciatic nerve damage during hospitalization",
+            "Adverse reaction to warfarin",
+            "Complication of the IVC filter placement",
+            "Deep vein thrombosis in the left leg"
+        ],
+        "answer": "I",
+        "answer_index": 2,
+        "cot_content": "",
+        "category": "health",
+        "src": "ori_mmlu-professional_medicine"
+    },
+    {
+        "question_id": 6640,
+        "question": "A 67-year-old woman comes to the physician because of easy bruising for 4 months. She has a history of lung cancer treated with radiation therapy 6 months ago. She has a 2-year history of hypertension treated with a thiazide diuretic and an angiotensin-converting enzyme (ACE) inhibitor. Examination, including neurologic examination, shows no abnormalities except for multiple ecchymoses. Her hemoglobin concentration is 13 g/dL, leukocyte count is 5000/mm3 , and platelet count is 35,000/mm3 . A serum antiplatelet antibody assay is negative. Which of the following is the most appropriate next step in diagnosis?",
+        "options": [
+            "Extension at the elbow is produced by the biceps muscle",
+            "Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated",
+            "Grade 2/5 power represents movement of the arm only against gravity.",
+            "The brachioradialis muscle is responsible for shoulder abduction",
+            "Grade 0/5 power represents full range of motion with resistance",
+            "The root value of shoulder abduction is C5",
+            "Flexion at the elbow is produced by the triceps muscle",
+            "Grade 5/5 (MRC scale) represents movement of the arm only when gravity is eliminated",
+            "The root value of shoulder abduction is C7",
+            "Grade 1/5 power represents no movement or muscle contraction"
+        ],
+        "answer": "B",
+        "answer_index": 6,
+        "cot_content": "",
+        "category": "health",
+        "src": "ori_mmlu-nutrition"
+    },
+    {
+        "question_id": 6180,
+        "question": "______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or morphological states in response to different environmental conditions during development (West-Eberhard, 1989).",
+        "options": [
+            "Sandhoff disease",
+            "Tay-Sachs disease",
+            "Mucolipidosis type IV",
+            "Fabry disease",
+            "Hunter syndrome",
+            "Krabbe disease",
+            "Niemann-Pick disease",
+            "Gaucher disease",
+            "Hurler syndrome",
+            "Pompe disease"
+        ],
+        "answer": "E",
+        "answer_index": 1,
+        "cot_content": "",
+        "category": "health",
+        "src": "ori_mmlu-professional_medicine"
+    },
+    {
+        "question_id": 6975,
+        "question": "Suppose that an expansionary fiscal policy leads to a large increase in real output and a small increase in the price level. From this it can be inferred that",
+        "options": [
+            "increase the price of automobiles and protect domestic producers at the expense of consumers.",
+            "decrease the price of automobiles and protect foreign producers at the expense of consumers.",
+            "increase the price of automobiles and protect foreign producers at the expense of domestic producers.",
+            "increase the price of automobiles and protect domestic consumers at the expense of domestic producers.",
+            "increase domestic efficiency and protect foreign producers at the expense of domestic consumers.",
+            "increase domestic efficiency and protect domestic producers at the expense of foreign producers.",
+            "decrease the price of automobiles and protect domestic consumers at the expense of foreign producers.",
+            "decrease domestic efficiency and protect domestic consumers at the expense of foreign producers.",
+            "decrease domestic efficiency and protect foreign producers at the expense of domestic producers.",
+            "decrease the price of automobiles and protect domestic producers at the expense of consumers."
+        ],
+        "answer": "H",
+        "answer_index": 6,
+        "cot_content": "",
+        "category": "economics",
+        "src": "stemez-Economics"
+    },
+    {
+        "question_id": 7209,
+        "question": "An increase in corporate optimism will have which of the following effects in the market for loanable funds?",
+        "options": [
+            "An increase in national income has no effect on employment.",
+            "An increase in national income leads to an increase in employment when it is driven by technology advancements.",
+            "Yes, every increase in national income always results in an increase of employment.",
+            "An increase in national income results in an increase in employment only in the manufacturing sector.",
+            "No, every increase in national income does not necessarily result in an increase of employment.",
+            "An increase in national income always results in a decrease in employment.",
+            "An increase in national income is only related to employment in the service sector.",
+            "An increase in national income will result in increased employment if it is accompanied by equivalent productivity growth.",
+            "An increase in national income correlates with employment rates, but other factors such as labor market policies are more influential.",
+            "An increase in national income results in an increase in employment only when it exceeds inflation."
+        ],
+        "answer": "H",
+        "answer_index": 5,
+        "cot_content": "",
+        "category": "economics",
+        "src": "ori_mmlu-high_school_macroeconomics"
+    },
+    {
+        "question_id": 6998,
+        "question": "Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $",
+        "options": [
+            "Income elasticity of demand is the change in demand for a good in response to a change in the price level of all other goods.",
+            "Income elasticity of demand is the degree to which the demand for a good changes in relation to changes in population demographics.",
+            "Income elasticity of demand is the ratio of the change in the quantity of a good supplied to the change in consumer's income.",
+            "Income elasticity of demand is the proportion of income spent on a good to the total income.",
+            "Income elasticity of demand is the measure of how much the quantity of a good demanded fluctuates with changes in the prices of complementary goods.",
+            "Income elasticity of demand is the percentage change in the price of a good divided by the percentage change in a consumer's income.",
+            "Income elasticity of demand is the measure of a consumer's willingness to buy more as income increases.",
+            "Income elasticity of demand is the correlation between a consumer's income and the price of a good.",
+            "Income elasticity of demand is defined as the percentage change in quantity of a good demanded divided by the percentage change in a consumer's income.",
+            "Income elasticity of demand is the change in the quantity of a good demanded in response to a one percent increase in the market interest rate."
+        ],
+        "answer": "E",
+        "answer_index": 2,
+        "cot_content": "",
+        "category": "economics",
+        "src": "ori_mmlu-high_school_macroeconomics"
+    },
+    {
+        "question_id": 8800,
+        "question": "What is the measure of an angle that turns through 3/4 of a complete circle?",
+        "options": [
+            "5+3+3",
+            "3+3+3",
+            "5×5",
+            "5×3×3",
+            "5×2×3",
+            "5+5+5+5+5",
+            "5+5+5",
+            "3×4+5",
+            "3+5",
+            "3×3×3"
+        ],
+        "answer": "G",
+        "answer_index": 3,
+        "cot_content": "",
+        "category": "math",
+        "src": "ori_mmlu-elementary_mathematics"
+    },
+    {
+        "question_id": 7770,
+        "question": "Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th percentile for the second class. Which of the following is the most reasonable conclusion?",
+        "options": [
+            "The number of yards run by a player in a game",
+            "The number of people at a professional football game",
+            "The length of a football in inches",
+            "The weight of a professional football player in pounds",
+            "The number of touchdowns in a professional football season",
+            "The age of a professional football player in days",
+            "The height of a professional football player in inches",
+            "The length of a football field in yards",
+            "The duration of a professional football game in minutes",
+            "The diameter of a football in centimeters"
+        ],
+        "answer": "B",
+        "answer_index": 4,
+        "cot_content": "",
+        "category": "math",
+        "src": "theoremQA-Math"
+    },
+    {
+        "question_id": 8947,
+        "question": "If I roll 5 standard 6-sided dice and multiply the number on the face of each die, what is the probability that the result is a composite number?",
+        "options": [
+            "0.82",
+            "0.99",
+            "0.50",
+            "0.75",
+            "0.25",
+            "0.01",
+            "0.67",
+            "0.37",
+            "0.60",
+            "0.55"
+        ],
+        "answer": "A",
+        "answer_index": 9,
+        "cot_content": "",
+        "category": "math",
+        "src": "ori_mmlu-high_school_statistics"
+    },
+    {
+        "question_id": 9958,
+        "question": "The vertical tail propeller on a helicopter prevents the cab from rotating when the speed of the main propeller changes. Knowing that the cab has a centroidal moment of in-ertia of 700 lb \\textbullet ft \\textbullet sec^2 and that the four main blades are 14 ft slender rods weighing 55 lbs, determine the final angu-lar momentum of the cab after the speed of the main blades changes from 200 to 280 rpm. Assume the tail propeller of the helicopter to be inoperational.",
+        "options": [
+            "30 mph",
+            "20 mph",
+            "32 mph",
+            "28.5 mph",
+            "26 mph",
+            "22 mph",
+            "18 mph",
+            "17 mph",
+            "24.5 mph",
+            "35 mph"
+        ],
+        "answer": "H",
+        "answer_index": 1,
+        "cot_content": "",
+        "category": "physics",
+        "src": "scibench-thermo"
+    },
+    {
+        "question_id": 9726,
+        "question": "Any atom that emits an alpha particle or beta particle",
+        "options": [
+            "100 mi/hr",
+            "75 mi/hr",
+            "40 mi/hr",
+            "110 mi/hr",
+            "65 mi/hr",
+            "50 mi/hr",
+            "95 mi/hr",
+            "85 mi/hr",
+            "90 mi/hr",
+            "60 mi/hr"
+        ],
+        "answer": "H",
+        "answer_index": 5,
+        "cot_content": "",
+        "category": "physics",
+        "src": "scibench-class"
+    },
+    {
+        "question_id": 9701,
+        "question": "Two bicycle tires are set rolling with the same initial speed of 3.5 m/s on a long, straight road, and the distance each travels before its speed is reduced by half is measured. One tire is inflated to a pressure of 40 psi and goes 18.1 m; the other is at 105 psi and goes 92.9 m. What is the coefficient of rolling friction for each? Assume that the net horizontal force is due to rolling friction only.",
+        "options": [
+            "750,000 nuclei",
+            "900,000 nuclei",
+            "250,000 nuclei",
+            "800,000 nuclei",
+            "600,000 nuclei",
+            "350,000 nuclei",
+            "707,000 nuclei",
+            "1,000,000 nuclei",
+            "500,000 nuclei",
+            "650,000 nuclei"
+        ],
+        "answer": "E",
+        "answer_index": 7,
+        "cot_content": "",
+        "category": "physics",
+        "src": "stemez-Physics"
+    },
+    {
+        "question_id": 10703,
+        "question": "Consider a 26-key typewriter. Suppose that pushing a key results in printing that letter or the next (with equal probability). Thus A results in A or B, ..., Z results in Z or A. What is the capacity of this channel in bits?",
+        "options": [
+            "[4, 3, 1, 0]",
+            "[4, 2, 1, 0]",
+            "[4, 3, 2, 0]",
+            "[4, 1, 0]",
+            "[4, 3, 2, 1, 0]",
+            "[4, 3, 1, 2, 0]",
+            "[4, 1, 3, 2, 0]",
+            "[4, 3, 0]",
+            "[4, 1, 2, 0]",
+            "[4, 2, 3, 1, 0]"
+        ],
+        "answer": "H",
+        "answer_index": 7,
+        "cot_content": "",
+        "category": "computer science",
+        "src": "theoremQA-EECS"
+    },
+    {
+        "question_id": 10685,
+        "question": "Explain what the computer takes as the attributes of the fol-lowingvariables by Default Rules of PL/I, if full explicit declarationsare not provided by the programmer. a) A variable named:PERCENT (1:8), b) A variable named:AMOUNT FIXED, c) A variable named:NUMBER COMPLEX, d) A variable named:TOTAL BINARY, e) A variable named:INCANT",
+        "options": [
+            "What is the percentage of students majoring in computer science who also participate in sports?",
+            "How many states have a higher percentage of female computer science majors than male computer science majors attending college in that state?",
+            "Do students majoring in computer science tend to have higher grade point averages than students majoring in other subjects?",
+            "What is the average age of students majoring in computer science?",
+            "What is the most common second major for students majoring in computer science?",
+            "Which college has the highest number of students majoring in computer science?",
+            "What percent of computer science majors receive financial aid?",
+            "What percent of students attending college in a certain state are majoring in computer science?"
+        ],
+        "answer": "H",
+        "answer_index": 1,
+        "cot_content": "",
+        "category": "computer science",
+        "src": "theoremQA-EECS"
+    },
+    {
+        "question_id": 10765,
+        "question": "Statement 1| Since the VC dimension for an SVM with a Radial Base Kernel is infinite, such an SVM must be worse than an SVM with polynomial kernel which has a finite VC dimension. Statement 2| A two layer neural network with linear activation functions is essentially a weighted combination of linear separators, trained on a given dataset; the boosting algorithm built on linear separators also finds a combination of linear separators, therefore these two algorithms will give the same result.",
+        "options": [
+            "3",
+            "2.5",
+            "2",
+            "1.75",
+            "0.5",
+            "3.5",
+            "0",
+            "1",
+            "1.5",
+            "4"
+        ],
+        "answer": "I",
+        "answer_index": 2,
+        "cot_content": "",
+        "category": "computer science",
+        "src": "ori_mmlu-machine_learning"
+    },
+    {
+        "question_id": 10816,
+        "question": " Mani referred to God by which of the following names?",
+        "options": [
+            "Invalid. Counterexample when Q, S, and R are false",
+            "Invalid. Counterexample when Q is false and S and R are true",
+            "Invalid. Counterexample when Q is true, S is false, and R is true",
+            "Valid. No counterexample exists",
+            "Invalid. Counterexample when Q and S are true and R is false",
+            "Invalid. Counterexample when S is true and Q and R are false",
+            "Invalid. Counterexample when R is true and Q and S are false",
+            "Invalid. Counterexample when Q and R are true and S is false",
+            "Valid",
+            "Invalid. Counterexample when Q is true and S and R are false"
+        ],
+        "answer": "F",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "philosophy",
+        "src": "ori_mmlu-philosophy"
+    },
+    {
+        "question_id": 11121,
+        "question": "A prima facie duty is a characteristic of an act in virtue of which the act:",
+        "options": [
+            "(∃x)[Bx ⊃ (∃y)(Ny • Lxy)]",
+            "(∀x)[(Bx • Ny) ⊃ Lxy]",
+            "(∀x)(∃y)[(Bx • Ny) ⊃ Lxy]",
+            "(∃x)(∀y)[(Bx • Ny) ⊃ Lxy]",
+            "(∀x)(∃y)[(Bx ⊃ Ny) • Lxy]",
+            "(∀x)[(∃y)(Bx • Ny) ⊃ Lxy]",
+            "(∀x)(∀y)[(Bx • Ny) ⊃ Lxy]",
+            "(∀x)[(∃y)(Ny • Bx) ⊃ Lxy]",
+            "(∀x)[Bx ⊃ (∃y)(Ny • Lxy)]",
+            "(∀x)[Bx ⊃ (∀y)(Ny • Lxy)]"
+        ],
+        "answer": "F",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "philosophy",
+        "src": "ori_mmlu-moral_disputes"
+    },
+    {
+        "question_id": 11068,
+        "question": " Which of the following is the timespan for Japan's closure to Christianity and Europe?",
+        "options": [
+            "justice",
+            "fairness",
+            "respect for other persons",
+            "all of the above"
+        ],
+        "answer": "G",
+        "answer_index": 7,
+        "cot_content": "",
+        "category": "philosophy",
+        "src": "ori_mmlu-formal_logic"
+    },
+    {
+        "question_id": 12184,
+        "question": "The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",
+        "options": [
+            "Average velocity of flow: 2.26 ft/s, Power consumed: 8.61 hp/mile, Velocity at 3/2 in. from center: 1.98 ft/s, Shear stress at 3/2 in. from center: 0.284 lb/ft^2",
+            "Average velocity of flow: 3.0 ft/s, Power consumed: 10.2 hp/mile, Velocity at 3/2 in. from center: 2.5 ft/s, Shear stress at 3/2 in. from center: 0.35 lb/ft^2",
+            "Average velocity of flow: 2.0 ft/s, Power consumed: 8.0 hp/mile, Velocity at 3/2 in. from center: 1.5 ft/s, Shear stress at 3/2 in. from center: 0.25 lb/ft^2",
+            "Average velocity of flow: 2.1 ft/s, Power consumed: 8.4 hp/mile, Velocity at 3/2 in. from center: 1.7 ft/s, Shear stress at 3/2 in. from center: 0.26 lb/ft^2",
+            "Average velocity of flow: 2.4 ft/s, Power consumed: 9.2 hp/mile, Velocity at 3/2 in. from center: 2.1 ft/s, Shear stress at 3/2 in. from center: 0.29 lb/ft^2",
+            "Average velocity of flow: 2.2 ft/s, Power consumed: 8.5 hp/mile, Velocity at 3/2 in. from center: 1.9 ft/s, Shear stress at 3/2 in. from center: 0.28 lb/ft^2",
+            "Average velocity of flow: 1.9 ft/s, Power consumed: 7.5 hp/mile, Velocity at 3/2 in. from center: 1.6 ft/s, Shear stress at 3/2 in. from center: 0.24 lb/ft^2",
+            "Average velocity of flow: 2.8 ft/s, Power consumed: 9.4 hp/mile, Velocity at 3/2 in. from center: 2.3 ft/s, Shear stress at 3/2 in. from center: 0.32 lb/ft^2",
+            "Average velocity of flow: 2.5 ft/s, Power consumed: 9.0 hp/mile, Velocity at 3/2 in. from center: 2.0 ft/s, Shear stress at 3/2 in. from center: 0.3 lb/ft^2",
+            "Average velocity of flow: 1.8 ft/s, Power consumed: 7.2 hp/mile, Velocity at 3/2 in. from center: 1.4 ft/s, Shear stress at 3/2 in. from center: 0.22 lb/ft^2"
+        ],
+        "answer": "B",
+        "answer_index": 3,
+        "cot_content": "",
+        "category": "engineering",
+        "src": "stemez-TransportPhenomena"
+    },
+    {
+        "question_id": 11545,
+        "question": "Calculate the horsepower transmitted by a shaft rotating at 1100 rpm and subjected to a force of 120 lbs. along the axis. It carries a multiple disc-clutch having 12 steel and 10brass discsof outer and inner diameters 10 in. and 8 in., respectively. The coefficient of friction can be taken as 0.30.",
+        "options": [
+            "PROM",
+            "MROM",
+            "DRAM",
+            "EPROM",
+            "SRAM",
+            "Cache Memory",
+            "VRAM",
+            "Flash Memory",
+            "RAM",
+            "EEPROM"
+        ],
+        "answer": "E",
+        "answer_index": 0,
+        "cot_content": "",
+        "category": "engineering",
+        "src": "stemez-Electromagnetics"
+    },
+    {
+        "question_id": 12039,
+        "question": "Find the ratio of reflected power to incident power, for a 75-ohm load on a 50-ohm line. Suppose a 50-ohm load is used instead of the 75-ohm load, what does it signify for an incident power of 50W?",
+        "options": [
+            "extend the motor's lifespan.",
+            "increase the motor's efficiency.",
+            "reduce the motor's noise.",
+            "maintain a constant speed.",
+            "improve the motor's torque.",
+            "protect thyristor from dV / dt.",
+            "improve the capabilities of the inverter.",
+            "avoid effect of saturation.",
+            "protect the insulation.",
+            "prevent the motor from overheating."
+        ],
+        "answer": "I",
+        "answer_index": 1,
+        "cot_content": "",
+        "category": "engineering",
+        "src": "stemez-ElectronicCommunications"
+    }
+]

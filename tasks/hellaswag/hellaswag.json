@@ -1,0 +1,342 @@
+[
+    {
+        "ind": 30109,
+        "activity_label": "Cricket",
+        "ctx_a": "People throw a ball to other players in the field. Another man explains while people where people plays in the field.",
+        "ctx_b": "a player",
+        "ctx": "People throw a ball to other players in the field. Another man explains while people where people plays in the field. a player",
+        "endings": [
+            "down falls and another hits him.",
+            "makes a goal in the field.",
+            "hit a ball while other try to catch the ball.",
+            "throws his racquet to other player."
+        ],
+        "source_id": "activitynet~v_yfjnahzAPSc",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 33824,
+        "activity_label": "Food and Entertaining",
+        "ctx_a": "[header] How to create unique party balloon decorations [title] Decide what type of balloons will best suit the occasion. [step] For some occasions a regular latex balloon that you and your friends blow up at home will suffice. For other parties you may want helium or even mylar balloons.",
+        "ctx_b": "",
+        "ctx": "[header] How to create unique party balloon decorations [title] Decide what type of balloons will best suit the occasion. [step] For some occasions a regular latex balloon that you and your friends blow up at home will suffice. For other parties you may want helium or even mylar balloons.",
+        "endings": [
+            "[substeps] Your party type should dictate what type of balloon size you will need as well. You could also use a few larger balloons surrounded by smaller balloons for interest.",
+            "[substeps] Balloons held in the wrong spot can feel ridiculous in the party. If you do make a mistake, tweak the balloon as you clean it up.",
+            "[title] Cut out as much of a balloon as possible. [step] This is to ensure that the balloon float will not shrink under the blowing liquid from the balloon.",
+            "[title] Purchase balloons that are traditional but are green. [step] If possible, purchase yellow, purple, or coral balloons."
+        ],
+        "source_id": "wikihow~55709",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 21133,
+        "activity_label": "Playing saxophone",
+        "ctx_a": "A group of people have gathered on a stage. The audience claps for the performers.",
+        "ctx_b": "they",
+        "ctx": "A group of people have gathered on a stage. The audience claps for the performers. they",
+        "endings": [
+            "move around in a coordinated fashion, swirling and twirling around.",
+            "pose for pictures with chinese fans.",
+            "shake hands and hug as credits roll.",
+            "get into line and clap for knivvies."
+        ],
+        "source_id": "activitynet~v_Alv7N6Ynm1Y",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 20685,
+        "activity_label": "Health",
+        "ctx_a": "[header] How to prevent tooth enamel erosion [title] Brush your teeth twice a day. [step] In order to keep your teeth healthy, it is important to brush your teeth regularly. Brushing your teeth removes a wide variety of substances that are bad for your teeth, including sugary and acidic foods that can eat away at your tooth enamel.",
+        "ctx_b": "",
+        "ctx": "[header] How to prevent tooth enamel erosion [title] Brush your teeth twice a day. [step] In order to keep your teeth healthy, it is important to brush your teeth regularly. Brushing your teeth removes a wide variety of substances that are bad for your teeth, including sugary and acidic foods that can eat away at your tooth enamel.",
+        "endings": [
+            "Brushing this way will ensure that any food that ends up in your mouth is removed. As a general rule of thumb, brush your teeth once or twice a day.",
+            "Most dentists recommend brushing your teeth twice a day for about 20 minutes. The more frequently you brush your teeth, the better your overall health is.",
+            "[substeps] Wait to brush your teeth until at least 30 minutes after meals. Acidic foods that you eat can weaken tooth enamel, which can lead to damaging the enamel when brushing.",
+            "If you are between age 60 and 65, no more than twice a day should be used for three months. Long-term brushing may have a negative effect on enamel."
+        ],
+        "source_id": "wikihow~34138",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 16913,
+        "activity_label": "Baking cookies",
+        "ctx_a": "A young man is helped putting on an apron and cameras take picture of the event. A group of people make trays of cookies together. The prepares batter in a large bowl.",
+        "ctx_b": "cupcake batter",
+        "ctx": "A young man is helped putting on an apron and cameras take picture of the event. A group of people make trays of cookies together. The prepares batter in a large bowl. cupcake batter",
+        "endings": [
+            "is squeezed out into trays which are loaded into the oven.",
+            "is spread out over a plate and arranged in tongs.",
+            "is cooked and boiled over a grill while a woman demonstrates how it is easy to bake chocolate chip cookies.",
+            ", cookies and the desserts are then introduced."
+        ],
+        "source_id": "activitynet~v_iyOyZJm7fVU",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 44006,
+        "activity_label": "Pets and Animals",
+        "ctx_a": "[header] How to care for captured tree frogs [title] First, tree frogs need moisture, but this doesn't mean that they get thirsty really quickly. [step] Instead, their skin dries up within minutes of handling. Get a large aquarium.",
+        "ctx_b": "",
+        "ctx": "[header] How to care for captured tree frogs [title] First, tree frogs need moisture, but this doesn't mean that they get thirsty really quickly. [step] Instead, their skin dries up within minutes of handling. Get a large aquarium.",
+        "endings": [
+            "If your frog doesn't like to live in puddles, a thicker glass tank will work. Find a tank that's 6-12 inches (15.",
+            "Five gallon bucket big enough to contain at least four frogs. You will also need to provide at least six frogs.",
+            "Fill it with about a water bottle full of water. Make sure the water stays clean and is changed regularly.",
+            "Add at least 6 frogs to the bottom of the tank. [title] Under the under hides stick a few branches."
+        ],
+        "source_id": "wikihow~72439",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 22922,
+        "activity_label": "Food and Entertaining",
+        "ctx_a": "[header] How to make choux pastry [title] Heat the butter and water together and bring to the boil. [step] Add the flour in one amount and stir quickly. Beat for a minute or until it forms a smooth ball and leaves the side of the pan.",
+        "ctx_b": "",
+        "ctx": "[header] How to make choux pastry [title] Heat the butter and water together and bring to the boil. [step] Add the flour in one amount and stir quickly. Beat for a minute or until it forms a smooth ball and leaves the side of the pan.",
+        "endings": [
+            "[title] Mix together the egg yolks, honey, cream and milk in a mixing bowl. [step] Combine the flour, butter and milk again.",
+            "[title] Sprinkle flour and milk together (using a spoon) into the flour ball. [step] Also choose to add raisins, cashews or coriander.",
+            "Allow to cool, however do not seal with cling-film or cover the dough as it may sweat which can affect the end result. [title] Place paste in a large bowl, mix-master, or food processor.",
+            "Then pour the cottage cheese onto the dough. [substeps] If you can't find cottage cheese at your local bakery, you could also substitute parmesan cheese."
+        ],
+        "source_id": "wikihow~37877",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 47946,
+        "activity_label": "Home and Garden",
+        "ctx_a": "[header] How to antique kitchen cabinets [title] Decide on a base color for your cabinets. [step] Antiquing is a process by which you put a dark' antique' stain over the top of cabinets that are painted or stained a few shades lighter. That means that the base color for the cabinets can be anything you like, be it painted white or stained oak.",
+        "ctx_b": "",
+        "ctx": "[header] How to antique kitchen cabinets [title] Decide on a base color for your cabinets. [step] Antiquing is a process by which you put a dark' antique' stain over the top of cabinets that are painted or stained a few shades lighter. That means that the base color for the cabinets can be anything you like, be it painted white or stained oak.",
+        "endings": [
+            "[title] Choose a terra cotta color for your cabinets. [step] Terra cotta is very cheap, so you can go any color paint you want on your cabinets.",
+            "You can antique over your current cabinet color if you so desire, but many people like to go for a totally transformed cabinet look by adding a new base color as well. Examine your space and consider your overall décor to determine what the base color of your cabinets should be.",
+            "The color change helps it adhere to the cabinets well and without going over. Keep in mind that paint can shine easily, so it's best to take this issue into consideration when choosing cabinets.",
+            "The slightly darker the color, the better. For example, if the cabinets are light gray, you will typically do the first coat of stain."
+        ],
+        "source_id": "wikihow~78910",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 47568,
+        "activity_label": "Cleaning sink",
+        "ctx_a": "The second step is to put gloves, and the third step is to wet a cloth and put abrasive power to rub the bathroom sink.",
+        "ctx_b": "the four step",
+        "ctx": "The second step is to put gloves, and the third step is to wet a cloth and put abrasive power to rub the bathroom sink. the four step",
+        "endings": [
+            "exercise routine is to apply the slippers.",
+            "is to put abrasive powder on a sponge to clean thoroughly the bathroom sink, then the fifth step is to mix vinegar with water.",
+            "task is shown in reverse.",
+            "task is tried out on the sink."
+        ],
+        "source_id": "activitynet~v_t2DdSm_MGXo",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 34566,
+        "activity_label": "Putting on shoes",
+        "ctx_a": "A pair of shoes is on the floor, and a man wearing socks stands behind them.",
+        "ctx_b": "he",
+        "ctx": "A pair of shoes is on the floor, and a man wearing socks stands behind them. he",
+        "endings": [
+            "is raking the leaves on the ground.",
+            "fixes the shoes, tying a tie around them.",
+            "is using a hula hoop to juggle a portion of the objects while moving the hula hoop animatedly.",
+            "takes out a shoestring and begins lacing the shoes."
+        ],
+        "source_id": "activitynet~v_pIv2jZdHP0k",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 28881,
+        "activity_label": "Computers and Electronics",
+        "ctx_a": "[header] How to remove ink from an american girl doll's face [title] Buy a spot treatment with benzoyl peroxide. [step] This is the active ingredient in most acne creams or scrubs. Head to your local grocery store or pharmacy and check the labels of a few different products.",
+        "ctx_b": "",
+        "ctx": "[header] How to remove ink from an american girl doll's face [title] Buy a spot treatment with benzoyl peroxide. [step] This is the active ingredient in most acne creams or scrubs. Head to your local grocery store or pharmacy and check the labels of a few different products.",
+        "endings": [
+            "You want to find a cream that has at least 10% benzoyl peroxide. If you use acne spot treatments at home, you may already have an effective stain treatment in your bathroom.",
+            "If there is more than one product, be sure to check product stores first. Other ingredients you can use to remove ink, such as benzoyl peroxide, are also available.",
+            "It's best to use benzoyl peroxide on infants as well as adult pets. [substeps] For infants, look for benzoyl peroxide at a local pet store or pharmacy instead of ordering it yourself.",
+            "[substeps] Benzoyl peroxide is often considered safe for human skin, but in some people it can cause irritation or other side effects. Your doctor may recommend applying this under the eyes, nose, or mouth."
+        ],
+        "source_id": "wikihow~47587",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 29644,
+        "activity_label": "Food and Entertaining",
+        "ctx_a": "[header] How to estimate distances (by using your thumb and eyes ) [title] Place yourself at a good vantage point. [step] To estimate distance, you need a clear line of sight. Try to stand in a high place, like atop a hill or a few floors up in a building.",
+        "ctx_b": "",
+        "ctx": "[header] How to estimate distances (by using your thumb and eyes ) [title] Place yourself at a good vantage point. [step] To estimate distance, you need a clear line of sight. Try to stand in a high place, like atop a hill or a few floors up in a building.",
+        "endings": [
+            "[substeps] The higher up you are, the less visibility your current location has, with relative ease. The higher up you stand, the more possible it would be for you to see.",
+            "If this isn't possible, try to find a spot where no other objects are in between you and the object you are focusing on. [title] Estimate the horizontal length of the object.",
+            "Otherwise, you could have a potentially dangerous situation play out before you get to the top. [title] Adjust your height to get the most accurate view.",
+            "Put yourself at a position where you will see your friends and family at all times. [substeps] You need to be able to see your friends at all times even if they are far away, even if you are only 15 or more feet away."
+        ],
+        "source_id": "wikihow~48883",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 22123,
+        "activity_label": "Preparing salad",
+        "ctx_a": "Several pictures of various foods are shown and leads into a person cutting foods on a cutting board.",
+        "ctx_b": "more pictures",
+        "ctx": "Several pictures of various foods are shown and leads into a person cutting foods on a cutting board. more pictures",
+        "endings": [
+            "are shown of ingredients pan together and a thermometer shows up in the end.",
+            "are shown of dogs tending to food as well as food being made by the person cutting.",
+            "are shown while the man cuts up vegetables and mixes them into a bowl.",
+            "are shown of ingredients being pulled through the cutting board as well as how the food is cooked and served."
+        ],
+        "source_id": "activitynet~v_Mg8y0rgD16M",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 1270,
+        "activity_label": "Food and Entertaining",
+        "ctx_a": "[header] How to do the in trinity workout [title] Get familiar with a few yoga moves. [step] The in trinity workout builds strength with a variety of poses. Many are very similar or identical to yoga and pilates exercises.",
+        "ctx_b": "",
+        "ctx": "[header] How to do the in trinity workout [title] Get familiar with a few yoga moves. [step] The in trinity workout builds strength with a variety of poses. Many are very similar or identical to yoga and pilates exercises.",
+        "endings": [
+            "Being familiar with some of these basic yoga poses will help prepare you to take this class : [substeps] Downward dog. Cobra child's pose half moon pose forward fold sun salutations [title] Get ready to meditate.",
+            "So, a simple move you may try is using the hip flexors of your hamstrings to form a basic compound for your abs, shoulder flexors, and quadriceps. The whole process is generally pretty simple but requires some skill and expertise.",
+            "Here are some good yoga moves to work your abs : [substeps] Rear rears bend leg very high raised knees bends the knee inward a little not much wider than hip line [title] Look for a chagi variety. [step] Many poses for yoga will have a chagi element, making them easy to follow.",
+            "These moves may also be different from other moves because the same form of yoga would involve different poses. To get a feel for the poses in terms of your body configuration, it is important to come up with a few high-quality poses from which you can adapt."
+        ],
+        "source_id": "wikihow~2086",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 16290,
+        "activity_label": "Computers and Electronics",
+        "ctx_a": "[header] How to clean velvet shoes [title] Blot up excess liquid with a microfiber cloth. [step] Microfiber cloths work well for blotting up stains before they set in because they're very absorbent. Use the cloth to lightly dab at the stained area to soak up some of the stain before it dries.",
+        "ctx_b": "",
+        "ctx": "[header] How to clean velvet shoes [title] Blot up excess liquid with a microfiber cloth. [step] Microfiber cloths work well for blotting up stains before they set in because they're very absorbent. Use the cloth to lightly dab at the stained area to soak up some of the stain before it dries.",
+        "endings": [
+            "[substeps] Don't rub up too much liquid, as dabbing will damage the velvet. [title] Blot the area again with a soft, lint-free paper towel.",
+            "[substeps] Don't rub the material with the cloth because this can damage the shoe further. [title] Mix warm water and bleach.",
+            "The cloth should not be dripping wet, making blotting the stain worse. [title] Use a soft cloth dampened with distilled white vinegar.",
+            "Do this as soon as you can so that the stain will be as minimal as possible. [substeps] If you don't have a microfiber cloth on hand when you notice the stain, try using something else absorbent, such as a regular cloth or a paper towel."
+        ],
+        "source_id": "wikihow~26983",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "3"
+    },
+    {
+        "ind": 4102,
+        "activity_label": "Snow tubing",
+        "ctx_a": "A group of people are outside a ski resort entitled boulder ridge and they begin to wait in line with their tubes.",
+        "ctx_b": "as they",
+        "ctx": "A group of people are outside a ski resort entitled boulder ridge and they begin to wait in line with their tubes. as they",
+        "endings": [
+            "wait, their friends and co guards shelve rock and rock debris of the slope which was wet while they were exploring, some of the rocks fall and they have to stop and remove the debris, as they are all stuck indoors for the duration of the rides.",
+            "are pulled along, they talk to the camera and listen to their names and their rides.",
+            "are waiting, they can see several people going down the hill and tubing before it is finally their turn.",
+            "wait they take pictures on their phones of the climbers setting up in the name of ving so their photo will hang in clouds as they stand together."
+        ],
+        "source_id": "activitynet~v_l9mvKfKACio",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 37729,
+        "activity_label": "Fun sliding down",
+        "ctx_a": "A young boy is seen sitting before a ball pit and looking towards the camera. He crawls around a play area and goes down a slide.",
+        "ctx_b": "he",
+        "ctx": "A young boy is seen sitting before a ball pit and looking towards the camera. He crawls around a play area and goes down a slide. he",
+        "endings": [
+            "joins a dog who is also crawling around.",
+            "continues walking around and playing in a ball pit.",
+            "jumps up and down as the people around him laugh and run around.",
+            "continues back up the slide as he does tricks in between crawls."
+        ],
+        "source_id": "activitynet~v_xpKAvKrrBDs",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "1"
+    },
+    {
+        "ind": 5121,
+        "activity_label": "Skateboarding",
+        "ctx_a": "A man is seen sitting in front of a fence sitting on a skateboard and speaking to the camera.",
+        "ctx_b": "several shots",
+        "ctx": "A man is seen sitting in front of a fence sitting on a skateboard and speaking to the camera. several shots",
+        "endings": [
+            "are shown of people performing tricks with skateboards on the road and bowls for the camera.",
+            "are shown of various people in various places and one watching others.",
+            "are then shown of him speaking to the camera and performing various skateboarding tricks around a park.",
+            "are then shown of people riding around a city on skateboards and hitting various objects with their boards."
+        ],
+        "source_id": "activitynet~v_xS6elK6Khs4",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "2"
+    },
+    {
+        "ind": 10330,
+        "activity_label": "Work World",
+        "ctx_a": "[header] How to chop a chicken [title] Rinse the chicken under cool running water. [step] Remember to rinse both the outside as well as the inside of the bird. [title] Place the chicken, breast-side-up, on top of a cutting board.",
+        "ctx_b": "",
+        "ctx": "[header] How to chop a chicken [title] Rinse the chicken under cool running water. [step] Remember to rinse both the outside as well as the inside of the bird. [title] Place the chicken, breast-side-up, on top of a cutting board.",
+        "endings": [
+            "[step] Use the cutting board you dedicate to handling raw animal products. [title] Remove the neck and giblets from the cavity of the chicken.",
+            "[step] Chop away any fat that was left behind. [title] Cut through the breast and internal parts of the chicken, removing all of the fat.",
+            "[step] Position the knife so that the blade is pointed at the bird. If necessary, you may also consider using a paring knife.",
+            "[step] Cut along the desired lines using small , 1 to 2 inch paring knives. You should cut along the length of the chicken body to exact placement of its breasts."
+        ],
+        "source_id": "wikihow~17010",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    },
+    {
+        "ind": 3124,
+        "activity_label": "Preparing salad",
+        "ctx_a": "A woman is standing behind a counter in a kitchen. She takes the lid off of a pot of salad. She moves the salad into a new bowl.",
+        "ctx_b": "she",
+        "ctx": "A woman is standing behind a counter in a kitchen. She takes the lid off of a pot of salad. She moves the salad into a new bowl. she",
+        "endings": [
+            "takes the towel and puts it over the lettuce.",
+            "then pours the salad into a bigger bowl, and adds dressing.",
+            "shows a phone and picks it up.",
+            "then bubbles the salad to make it a bit more robust."
+        ],
+        "source_id": "activitynet~v_aIvWwX--xKw",
+        "split": "train",
+        "split_type": "indomain",
+        "label": "0"
+    }
+]

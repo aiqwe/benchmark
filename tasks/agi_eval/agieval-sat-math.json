@@ -1,186 +1,198 @@
 [
     {
-        "query": "Q: $$f(x)=\\frac{x+3}{2}$$For the function $f$ defined above, what is the value of $f(-1)$ ? Answer Choices: (A)-2 (B)-1 (C)1 (D)2\nA: Among A through D, the answer is",
+        "query": "Q: What are the solutions of the quadratic equation $4 x^{2}-8 x-12=0$ ? Answer Choices: (A)$x=-1$ and $x=-3$ (B)$x=-1$ and $x=3$ (C)$x=1$ and $x=-3$ (D)$x=1$ and $x=3$\nA: Among A through D, the answer is",
         "choices": [
-            "(A)11",
-            "(B)22",
-            "(C)44",
-            "(D)66"
-        ],
-        "gold": [
-            0
-        ]
-    },
-    {
-        "query": "Q: $$\\sqrt{4 x}=x-3$$What are all values of $x$ that satisfy the given equation?I. 1II. 9 Answer Choices: (A)I only (B)II only (C)I and II (D)Neither I nor II\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)$v=30,000-9,000 t$",
-            "(B)$v=120,000-9,000 t$",
-            "(C)$v=120,000+9,000 t$",
-            "(D)$v=120,000-30,000 t$"
+            "(A)$x=-1$ and $x=-3$",
+            "(B)$x=-1$ and $x=3$",
+            "(C)$x=1$ and $x=-3$",
+            "(D)$x=1$ and $x=3$"
         ],
         "gold": [
             1
         ]
     },
     {
-        "query": "Q: The width of a rectangular dance floor is $w$ feet. The length of the floor is 6 feet longer than its width. Which of the following expresses the perimeter, in feet, of the dance floor in terms of $w$ ? Answer Choices: (A)$2 w+6$ (B)$4 w+12$ (C)$w^{2}+6$ (D)$w^{2}+6 w$\nA: Among A through D, the answer is",
+        "query": "Q: $$\\frac{x}{x-3}=\\frac{2 x}{2}$$Which of the following represents all the possible values of $x$ that satisfy the equation above? Answer Choices: (A)0 and 2 (B)0 and 4 (C)-4 and 4 (D)4\nA: Among A through D, the answer is",
         "choices": [
-            "(A)$4 x^{2} y^{2}$",
-            "(B)$8 x y^{2}-6 y^{2}$",
-            "(C)$2 x^{2} y+2 x y^{2}$",
-            "(D)$2 x^{2} y+8 x y^{2}-6 y^{2}$"
-        ],
-        "gold": [
-            2
-        ]
-    },
-    {
-        "query": "Q: $$m=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} P$$The formula above gives the monthly payment $m$ needed to pay off a loan of $P$ dollars at $r$ percent annual interest over $N$ months. Which of the following gives $P$ in terms of $m, r$, and $N$ ? Answer Choices: (A)$P=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} m$ (B)$P=\\frac{\\left(1+\\frac{r}{1,200}\\right)^{N}-1}{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}} m$ (C)$P=\\left(\\frac{r}{1,200}\\right) m$ (D)$P=\\left(\\frac{1,200}{r}\\right) m$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)2",
-            "(B)6",
-            "(C)$\\sqrt{2}$",
-            "(D)$\\sqrt{6}$"
+            "(A)0 and 2",
+            "(B)0 and 4",
+            "(C)-4 and 4",
+            "(D)4"
         ],
         "gold": [
             1
         ]
     },
     {
-        "query": "Q: If $3(c+d)=5$, what is the value of $c+d ?$ Answer Choices: (A)$\\frac{3}{5}$ (B)$\\frac{5}{3}$ (C)3 (D)5\nA: Among A through D, the answer is",
+        "query": "\\begin{center}.\\begin{tabular}{|l|c|}.\\hline.\\multicolumn{1}{|c|}{Planet} & Acceleration due to gravity $\\left(\\frac{\\mathrm{m}}{\\mathrm{sec}^{2}}\\right)$ \\\\.\\hline\\hline.Mercury & 3.6 \\\\.\\hline.Venus & 8.9 \\\\.\\hline.Earth & 9.8 \\\\.\\hline.Mars & 3.8 \\\\.\\hline.Jupiter & 26.0 \\\\.\\hline.Saturn & 11.1 \\\\.\\hline.Uranus & 10.7 \\\\.\\hline.Neptune & 14.1 \\\\.\\hline.\\end{tabular}.\\end{center}.The chart above shows approximations of the acceleration due to gravity in meters per.second squared $\\left(\\frac{\\mathrm{m}}{\\sec ^{2}}\\right)$ for the eight planets in our solar system. The weight of an object on a given planet can be found by using the formula $W=m g$, where $W$ is the weight of the object measured in newtons, $m$ is the mass of the object measured in kilograms, and $g$ is the acceleration due to gravity on the planet measured in $\\frac{m}{\\sec ^{2}}$Q: What is the weight, in newtons, of an object on Mercury with a mass of 90 kilograms? Answer Choices: (A)25 (B)86 (C)101 (D)324\nA: Among A through D, the answer is",
         "choices": [
-            "(A)$8 x^{2}-7 x-4$",
-            "(B)$8 x^{2}+7 x-4$",
-            "(C)$8 x^{4}-7 x^{2}-4$",
-            "(D)$8 x^{4}+7 x^{2}-4$"
+            "(A)25",
+            "(B)86",
+            "(C)101",
+            "(D)324"
         ],
         "gold": [
             3
         ]
     },
     {
-        "query": "Q: In planning maintenance for a city's infrastructure, a civil engineer estimates that, starting from the present, the population of the city will decrease by 10 percent every 20 years. If the present population of the city is 50,000, which of the following expressions represents the engineer's estimate of the population of the city $t$ years from now? Answer Choices: (A)$50,000(0.1)^{20 t}$ (B)$50,000(0.1)^{\\frac{t}{20}}$ (C)$50,000(0.9)^{20 t}$ (D)$50,000(0.9)^{\\frac{t}{20}}$\nA: Among A through D, the answer is",
+        "query": "Q: \\begin{center}\\begin{tabular}{|c||c|c|c|c|}\\hline$n$ & 1 & 2 & 3 & 4 \\\\\\hline$f(n)$ & -2 & 1 & 4 & 7 \\\\\\hline\\end{tabular}\\end{center}The table above shows some values of the linear function $f$. Which of the following defines $f$ ? Answer Choices: (A)$f(n)=n-3$ (B)$f(n)=2 n-4$ (C)$f(n)=3 n-5$ (D)$f(n)=4 n-6$\nA: Among A through D, the answer is",
         "choices": [
-            "(A)-6",
+            "(A)$f(n)=n-3$",
+            "(B)$f(n)=2 n-4$",
+            "(C)$f(n)=3 n-5$",
+            "(D)$f(n)=4 n-6$"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: On Saturday afternoon, Armand sent $m$ text messages each hour for 5 hours, and Tyrone sent $p$ text messages each hour for 4 hours. Which of the following represents the total number of messages sent by Armand and Tyrone on Saturday afternoon? Answer Choices: (A)$9 m p$ (B)$20 m p$ (C)$5 m+4 p$ (D)$4 m+5 p$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$9 m p$",
+            "(B)$20 m p$",
+            "(C)$5 m+4 p$",
+            "(D)$4 m+5 p$"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: Roberto is an insurance agent who sells two types of policies: a $\\$ 50,000$ policy and a $\\$ 100,000$ policy. Last month, his goal was to sell at least 57 insurance policies. While he did not meet his goal, the total value of the policies he sold was over $\\$ 3,000,000$. Which of the following systems of inequalities describes $x$, the possible number of $\\$ 50,000$ policies, and $y$, the possible number of $\\$ 100,000$ policies, that Roberto sold last month? Answer Choices: (A)$x+y<57$ $50,000 x+100,000 y<3,000,000$ (B)$x+y>57$ $50,000 x+100,000 y>3,000,000$ (C)$x+y<57$ $50,000 x+100,000 y>3,000,000$ (D)$x+y>57$ $50,000 x+100,000 y<3,000,000$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$x+y<57$ $50,000 x+100,000 y<3,000,000$",
+            "(B)$x+y>57$ $50,000 x+100,000 y>3,000,000$",
+            "(C)$x+y<57$ $50,000 x+100,000 y>3,000,000$",
+            "(D)$x+y>57$ $50,000 x+100,000 y<3,000,000$"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: A television with a price of $\\$ 300$ is to be purchased with an initial payment of $\\$ 60$ and weekly payments of $\\$ 30$. Which of the following equations can be used to find the number of weekly payments, $w$, required to complete the purchase, assuming there are no taxes or fees? Answer Choices: (A)$300=30 w-60$ (B)$300=30 w$ (C)$300=30 w+60$ (D)$300=60 w-30$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$300=30 w-60$",
+            "(B)$300=30 w$",
+            "(C)$300=30 w+60$",
+            "(D)$300=60 w-30$"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Q: Two types of tickets were sold for a concert held at an amphitheater. Tickets to sit on a bench during the concert cost $\\$ 75$ each, and tickets to sit on the lawn during the concert cost $\\$ 40$ each. Organizers of the concert announced that 350 tickets had been sold and that $\\$ 19,250$ had been raised through ticket sales alone. Which of the following systems of equations could be used to find the number of tickets for bench seats, $B$, and the number of tickets for lawn seats, $L$, that were sold for the concert? Answer Choices: (A)$(75 B)(40 L)=1,950$ $B+L=350$ (B)$40 B+75 L=19,250$ $B+L=350$ (C)$75 B+40 L=350$ $B+L=19,250$ (D)$75 B+40 L=19,250$ $B+L=350$\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)$(75 B)(40 L)=1,950$ $B+L=350$",
+            "(B)$40 B+75 L=19,250$ $B+L=350$",
+            "(C)$75 B+40 L=350$ $B+L=19,250$",
+            "(D)$75 B+40 L=19,250$ $B+L=350$"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: $$(4 x+4)(a x-1)-x^{2}+4$$In the expression above, $a$ is a constant. If the expression is equivalent to $b x$, where $b$ is a constant, what is the value of $b$ ? Answer Choices: (A)-5 (B)-3 (C)0 (D)12\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)-5",
             "(B)-3",
-            "(C)3",
-            "(D)6"
+            "(C)0",
+            "(D)12"
         ],
         "gold": [
             1
         ]
     },
     {
-        "query": "Q: $$2 a x-15=3(x+5)+5(x-1)$$In the equation above, $a$ is a constant. If no value of $x$ satisfies the equation, what is the value of $a$ ? Answer Choices: (A)1 (B)2 (C)4 (D)8\nA: Among A through D, the answer is",
+        "query": "Q: \\begin{center}\\begin{tabular}{c|c}Year & $\\begin{array}{c}\\text { Subscriptions } \\\\ \\text { sold }\\end{array}$ \\\\\\hline2012 & 5,600 \\\\2013 & 5,880 \\\\\\end{tabular}\\end{center}The manager of an online news service received the report above on the number of subscriptions sold by the service. The manager estimated that the percent increase from 2012 to 2013 would be double the percent increase from 2013 to 2014 . How many subscriptions did the manager expect would be sold in 2014 ? Answer Choices: (A)6,020 (B)6,027 (C)6,440 (D)6,468 DIRECTIONS\nA: Among A through D, the answer is",
         "choices": [
-            "(A)16",
-            "(B)21",
-            "(C)23",
-            "(D)26"
+            "(A)6,020",
+            "(B)6,027",
+            "(C)6,440",
+            "(D)6,468 DIRECTIONS"
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "Q: If $f(x)=\\frac{x^{2}-6 x+3}{x-1}$, what is $f(-1)$ ? Answer Choices: (A)-5 (B)-2 (C)2 (D)5\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)-5",
+            "(B)-2",
+            "(C)2",
+            "(D)5"
         ],
         "gold": [
             0
         ]
     },
     {
-        "query": "Q: $$\\begin{array}{r}\\frac{1}{2} y=4 \\\\x-\\frac{1}{2} y=2\\end{array}$$The system of equations above has solution $(x, y)$. What is the value of $x$ ? Answer Choices: (A)3 (B)$\\frac{7}{2}$ (C)4 (D)6\nA: Among A through D, the answer is",
+        "query": "Q: A researcher surveyed a random sample of students from a large university about how often they see movies. Using the sample data, the researcher estimated that $23 \\%$ of the students in the population saw a movie at least once per month. The margin of error for this estimation is $4 \\%$. Which of the following is the most appropriate conclusion about all students at the university, based on the given estimate and margin of error? Answer Choices: (A)It is unlikely that less than $23 \\%$ of the students see a movie at least once per month. (B)At least 23\\%, but no more than $25 \\%$, of the students see a movie at least once per month. (C)The researcher is between $19 \\%$ and $27 \\%$ sure that most students see a movie at least once per month. (D)It is plausible that the percentage of students who see a movie at least once per month is between $19 \\%$ and $27 \\%$.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)0.31",
-            "(B)0.38",
-            "(C)0.45",
-            "(D)0.69"
+            "(A)It is unlikely that less than $23 \\%$ of the students see a movie at least once per month.",
+            "(B)At least 23\\%, but no more than $25 \\%$, of the students see a movie at least once per month.",
+            "(C)The researcher is between $19 \\%$ and $27 \\%$ sure that most students see a movie at least once per month.",
+            "(D)It is plausible that the percentage of students who see a movie at least once per month is between $19 \\%$ and $27 \\%$."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "Q: \\begin{center}\\begin{tabular}{|l|c|c|c|}\\hline\\multirow{2}{*}{$\\begin{array}{c}\\text { Type of } \\\\\\text { surgeon }\\end{array}$} & \\multicolumn{2}{|c|}{$\\begin{array}{c}\\text { Major professional } \\\\\\text { activity }\\end{array}$} & \\multirow{2}{*}{Total} \\\\\\cline { 2 - 3 }& Teaching & Research \\\\\\hlineGeneral & 258 & 156 & 414 \\\\\\hlineOrthopedic & 119 & 74 & 193 \\\\\\hlineTotal & 377 & 230 & 607 \\\\\\hline\\end{tabular}\\end{center}In a survey, 607 general surgeons and orthopedic surgeons indicated their major professional activity. The results are summarized in the table above. If one of the surgeons is selected at random, which of the following is closest to the probability that the selected surgeon is an orthopedic surgeon whose indicated professional activity is research? Answer Choices: (A)0.122 (B)0.196 (C)0.318 (D)0.379\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)0.122",
+            "(B)0.196",
+            "(C)0.318",
+            "(D)0.379"
         ],
         "gold": [
             0
         ]
     },
     {
-        "query": "Q: Mr. Kohl has a beaker containing $n$ milliliters of solution to distribute to the students in his chemistry class. If he gives each student 3 milliliters of solution, he will have 5 milliliters left over. In order to give each student 4 milliliters of solution, he will need an additional 21 milliliters. How many students are in the class? Answer Choices: (A)16 (B)21 (C)23 (D)26\nA: Among A through D, the answer is",
+        "query": "Q: $$y=-(x-3)^{2}+a$$In the equation above, $a$ is a constant. The graph of the equation in the $x y$-plane is a parabola. Which of the following is true about the parabola? Answer Choices: (A)Its minimum occurs at $(-3, a)$. (B)Its minimum occurs at $(3, a)$. (C)Its maximum occurs at $(-3, a)$. (D)Its maximum occurs at $(3, a)$.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)$\\quad 150$",
-            "(B)$\\quad 1,500$",
-            "(C)15,000",
-            "(D)150,000"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Q: Oil and gas production in a certain area dropped from 4 million barrels in 2000 to 1.9 million barrels in 2013. Assuming that the oil and gas production decreased at a constant rate, which of the following linear functions $f$ best models the production, in millions of barrels, $t$ years after the year 2000 ? Answer Choices: (A)$f(t)=\\frac{21}{130} t+4$ (B)$f(t)=\\frac{19}{130} t+4$ (C)$f(t)=-\\frac{21}{130} t+4$ (D)$f(t)=-\\frac{19}{130} t+4$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)$y>6$",
-            "(B)$y>4$",
-            "(C)$y>\\frac{5}{2}$",
-            "(D)$y>\\frac{3}{2}$"
+            "(A)Its minimum occurs at $(-3, a)$.",
+            "(B)Its minimum occurs at $(3, a)$.",
+            "(C)Its maximum occurs at $(-3, a)$.",
+            "(D)Its maximum occurs at $(3, a)$."
         ],
         "gold": [
             3
         ]
     },
     {
-        "query": "Q: If $a-b=12$ and $\\frac{b}{2}=10$, what is the value of $a+b ?$ Answer Choices: (A)2 (B)12 (C)32 (D)52\nA: Among A through D, the answer is",
+        "query": "Q: If $\\sin x^{\\circ}=a$, which of the following must be true for all values of $x$ ? Answer Choices: (A)$\\cos x^{\\circ}=a$ (B)$\\sin \\left(90^{\\circ}-x^{\\circ}\\right)=a$ (C)$\\cos \\left(90^{\\circ}-x^{\\circ}\\right)=a$ (D)$\\sin \\left(x^{2}\\right)^{\\circ}=a^{2}$\nA: Among A through D, the answer is",
         "choices": [
-            "(A)$\\sqrt[3]{9}$",
-            "(B)$\\sqrt[4]{9}$",
-            "(C)$\\sqrt{3}$",
-            "(D)$3 \\sqrt{3}$"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Q: $$\\frac{a-b}{a}=c$$In the equation above, if $a$ is negative and $b$ is positive, which of the following must be true? Answer Choices: (A)$c>1$ (B)$c=1$ (C)$c=-1$ (D)$c<-1$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)$\\{-1\\}$",
-            "(B)$\\{5\\}$",
-            "(C)$\\{-1,5\\}$",
-            "(D)$\\{0,-1,5\\}$"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Q: $$\\sqrt{x^{2}}=x$$Which of the following values of $x$ is NOT a solution to the equation above? Answer Choices: (A)-4 (B)0 (C)1 (D)3\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)$k=0.24 x$",
-            "(B)$k=4.2 x$",
-            "(C)$x=4.2 k$",
-            "(D)$x k=4.2$"
-        ],
-        "gold": [
-            3
-        ]
-    },
-    {
-        "query": "Q: $$y=19.99+1.50 x$$The equation above models the total cost $y$, in dollars, that a company charges a customer to rent a truck for one day and drive the truck $x$ miles. The total cost consists of a flat fee plus a charge per mile driven. When the equation is graphed in the $x y$-plane, what does the $y$-intercept of the graph represent in terms of the model? Answer Choices: (A)A flat fee of $\\$ 19.99$ (B)A charge per mile of $\\$ 1.50$ (C)A charge per mile of $\\$ 19.99$ (D)Total daily charges of $\\$ 21.49$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)-4",
-            "(B)0",
-            "(C)1",
-            "(D)3"
+            "(A)$\\cos x^{\\circ}=a$",
+            "(B)$\\sin \\left(90^{\\circ}-x^{\\circ}\\right)=a$",
+            "(C)$\\cos \\left(90^{\\circ}-x^{\\circ}\\right)=a$",
+            "(D)$\\sin \\left(x^{2}\\right)^{\\circ}=a^{2}$"
         ],
         "gold": [
             2
         ]
     },
     {
-        "query": "Q: A right circular cone has a volume of $24 \\pi$ cubic inches. If the height of the cone is 2 inches, what is the radius, in inches, of the base of the cone? Answer Choices: (A)$2 \\sqrt{3}$ (B)6 (C)12 (D)36\nA: Among A through D, the answer is",
+        "query": "Q: A book was on sale for $40 \\%$ off its original price. If the sale price of the book was $\\$ 18.00$, what was the original price of the book? (Assume there is no sales tax.) Answer Choices: (A)$\\$ 7.20$ (B)$\\$ 10.80$ (C)$\\$ 30.00$ (D)$\\$ 45.00$\nA: Among A through D, the answer is",
         "choices": [
-            "(A)The initial height, in feet, of the object",
-            "(B)The maximum height, in feet, of the object",
-            "(C)The initial speed, in feet per second, of the object",
-            "(D)The maximum speed, in feet per second, of the object"
+            "(A)$\\$ 7.20$",
+            "(B)$\\$ 10.80$",
+            "(C)$\\$ 30.00$",
+            "(D)$\\$ 45.00$"
         ],
         "gold": [
             2
         ]
     },
     {
-        "query": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$.The quantity of a product supplied and the quantity of the product demanded in an economic market are functions of the price of the product. The functions above are the estimated supply and demand functions for a certain product. The function $S(P)$ gives the quantity of the product supplied to the market when the price is $P$ dollars, and the function $D(P)$ gives the quantity of the product demanded by the market when the price is $P$ dollars.Q: How will the quantity of the product supplied to the market change if the price of the product is increased by $\\$ 10$ ? Answer Choices: (A)The quantity supplied will decrease by 5 units. (B)The quantity supplied will increase by 5 units. (C)The quantity supplied will increase by 10 units. (D)The quantity supplied will increase by 50 units.\nA: Among A through D, the answer is",
+        "query": "Q: The world's population has grown at an average rate of 1.9 percent per year since 1945. There were approximately 4 billion people in the world in 1975. Which of the following functions represents the world's population $P$, in billions of people, $t$ years since $1975 ?(1$ billion $=1,000,000,000)$ Answer Choices: (A)$P(t)=4(1.019)^{t}$ (B)$P(t)=4(1.9)^{t}$ (C)$P(t)=1.19 t+4$ (D)$P(t)=1.019 t+4$\nA: Among A through D, the answer is",
         "choices": [
             "(A)$P(t)=4(1.019)^{t}$",
             "(B)$P(t)=4(1.9)^{t}$",
@@ -188,11 +200,11 @@
             "(D)$P(t)=1.019 t+4$"
         ],
         "gold": [
-            1
+            0
         ]
     },
     {
-        "query": "Q: A television with a price of $\\$ 300$ is to be purchased with an initial payment of $\\$ 60$ and weekly payments of $\\$ 30$. Which of the following equations can be used to find the number of weekly payments, $w$, required to complete the purchase, assuming there are no taxes or fees? Answer Choices: (A)$300=30 w-60$ (B)$300=30 w$ (C)$300=30 w+60$ (D)$300=60 w-30$\nA: Among A through D, the answer is",
+        "query": "Q: Alma bought a laptop computer at a store that gave a 20 percent discount off its original price. The total amount she paid to the cashier was $p$ dollars, including an 8 percent sales tax on the discounted price. Which of the following represents the original price of the computer in terms of $p$ ? Answer Choices: (A)$0.88 p$ (B)$\\frac{p}{0.88}$ (C)$(0.8)(1.08) p$ (D)$\\frac{p}{(0.8)(1.08)}$\nA: Among A through D, the answer is",
         "choices": [
             "(A)$0.88 p$",
             "(B)$\\frac{p}{0.88}$",
@@ -204,39 +216,27 @@
         ]
     },
     {
-        "query": "Q: A cylindrical can containing pieces of fruit is filled to the top with syrup before being sealed. The base of the can has an area of $75 \\mathrm{~cm}^{2}$, and the height of the can is $10 \\mathrm{~cm}$. If $110 \\mathrm{~cm}^{3}$ of syrup is needed to fill the can to the top, which of the following is closest to the total volume of the pieces of fruit in the can? Answer Choices: (A)$7.5 \\mathrm{~cm}^{3}$ (B)$185 \\mathrm{~cm}^{3}$ (C)$640 \\mathrm{~cm}^{3}$ (D)$750 \\mathrm{~cm}^{3}$\nA: Among A through D, the answer is",
+        "query": "Q: In planning maintenance for a city's infrastructure, a civil engineer estimates that, starting from the present, the population of the city will decrease by 10 percent every 20 years. If the present population of the city is 50,000, which of the following expressions represents the engineer's estimate of the population of the city $t$ years from now? Answer Choices: (A)$50,000(0.1)^{20 t}$ (B)$50,000(0.1)^{\\frac{t}{20}}$ (C)$50,000(0.9)^{20 t}$ (D)$50,000(0.9)^{\\frac{t}{20}}$\nA: Among A through D, the answer is",
         "choices": [
-            "(A)$\\$ 7.20$",
-            "(B)$\\$ 10.80$",
-            "(C)$\\$ 30.00$",
-            "(D)$\\$ 45.00$"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Q: Line $m$ in the $x y$-plane contains the points $(2,4)$ and $(0,1)$. Which of the following is an equation of line $m$ ? Answer Choices: (A)$y=2 x+3$ (B)$y=2 x+4$ (C)$y=\\frac{3}{2} x+3$ (D)$y=\\frac{3}{2} x+1$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)$\\{-1\\}$",
-            "(B)$\\{5\\}$",
-            "(C)$\\{-1,5\\}$",
-            "(D)$\\{0,-1,5\\}$"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Q: \\begin{center}\\begin{tabular}{|l||c|c||c|}\\cline { 2 - 4 }\\multicolumn{1}{c||}{} & \\multicolumn{2}{c||}{Age} & \\multirow{2}{c|}{Total} \\\\\\hlineGender & Under 40 & 40 or older \\\\\\hline\\hlineMale & 12 & 2 & 14 \\\\\\hlineFemale & 8 & 3 & 11 \\\\\\hline\\hlineTotal & 20 & 5 & 25 \\\\\\hline\\end{tabular}\\end{center}The table above shows the distribution of age and gender for 25 people who entered a contest. If the contest winner will be selected at random, what is the probability that the winner will be either a female under age 40 or a male age 40 or older? Answer Choices: (A)$\\frac{4}{25}$ (B)$\\frac{10}{25}$ (C)$\\frac{11}{25}$ (D)$\\frac{16}{25}$\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)-4",
-            "(B)0",
-            "(C)1",
-            "(D)3"
+            "(A)$50,000(0.1)^{20 t}$",
+            "(B)$50,000(0.1)^{\\frac{t}{20}}$",
+            "(C)$50,000(0.9)^{20 t}$",
+            "(D)$50,000(0.9)^{\\frac{t}{20}}$"
         ],
         "gold": [
             3
+        ]
+    },
+    {
+        "query": "Q: In the $x y$-plane, the parabola with equation $y=(x-11)^{2}$ intersects the line with equation $y=25$ at two points, $A$ and $B$. What is the length of $\\overline{A B}$ ? Answer Choices: (A)10 (B)12 (C)14 (D)16\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)10",
+            "(B)12",
+            "(C)14",
+            "(D)16"
+        ],
+        "gold": [
+            0
         ]
     }
 ]

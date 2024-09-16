@@ -1,122 +1,122 @@
 [
     {
-        "sentence": "After the earthquake, Robert remained more calm than Jason because _ lived far from the epicenter.",
-        "option1": "Jason",
-        "option2": "Robert",
-        "answer": "1"
-    },
-    {
-        "sentence": "To cope with her problems the teenager wrote in the journal and not the diary since the _ 's pages were bigger.",
-        "option1": "computer",
-        "option2": "Sarah",
+        "sentence": "Donald didn't like to keep clean the way Matthew did, so _ tended to smell nice.",
+        "option1": "Donald",
+        "option2": "Matthew",
         "answer": "2"
     },
     {
-        "sentence": "James could see the other side of the room through the plate unlike the board that was there before. Definitely the _ is transparent.",
-        "option1": "liquid",
+        "sentence": "The football was flying higher than the basketball as it went through the air. The _ was heavier.",
+        "option1": "football",
+        "option2": "basketball",
+        "answer": "2"
+    },
+    {
+        "sentence": "during the vacation we stayed in the 3 star hotel and not the 5 star hotel because the _ were available.",
+        "option1": "3 star",
+        "option2": "5 star",
+        "answer": "1"
+    },
+    {
+        "sentence": "The man decided to leave the carpet on the floor because the _ was too old.",
+        "option1": "floor",
+        "option2": "carpet",
+        "answer": "1"
+    },
+    {
+        "sentence": "No one was able to enjoy the story and we started to listen to the music. The _ is boring.",
+        "option1": "story",
         "option2": "music",
         "answer": "1"
     },
     {
-        "sentence": "Cynthia loved lounging on the deck in the morning while Kayla preferred to lounge in the evening. _ decided to watch the sunset for a change.",
-        "option1": "Monica",
-        "option2": "Mary",
-        "answer": "1"
-    },
-    {
-        "sentence": "I despise the system in place now at college compared to the program at school, because the _ is horrendous.",
-        "option1": "lure",
-        "option2": "Benjamin",
+        "sentence": "Mary put the unused furniture in the den before decorating the dining room, because the _ would be seen during the party.",
+        "option1": "den",
+        "option2": "dining room",
         "answer": "2"
     },
     {
-        "sentence": "She always spray the room with an aromatizante after he smokes a cigarette there, because the _ smells bad.",
-        "option1": "Natalie",
-        "option2": "Mary",
+        "sentence": "Megan had a baby whereas Katrina had a college aged child, so _ still had to change diapers.",
+        "option1": "Megan",
+        "option2": "Katrina",
         "answer": "1"
     },
     {
-        "sentence": "Emily looked up and saw Patricia racing by overhead, as _ was on the ramp .",
-        "option1": "park",
-        "option2": "university",
+        "sentence": "The test could not determine the strength of the battery, but worked fine for the plug , since the measurement for the _ was concrete .",
+        "option1": "battery",
+        "option2": "plug",
         "answer": "2"
     },
     {
-        "sentence": "Jack loved math and disliked social sciences, so when deciding to take sociology or math that semester, the counselor deleted the _ because Jack was resistant to it.",
-        "option1": "Randy",
-        "option2": "Benjamin",
+        "sentence": "In Japan, a superhighway was scheduled to be built over the span of ten years, but the budget ran out. The _ was never realized.",
+        "option1": "superhighway",
+        "option2": "budget",
         "answer": "1"
     },
     {
-        "sentence": "Leslie was fascinated with collecting new shoes compared to Derrick, because _ hated fashion trends.",
-        "option1": "Emily",
-        "option2": "house",
+        "sentence": "The node on the head needed medication applied to its area because the _ was swollen.",
+        "option1": "node",
+        "option2": "medication",
+        "answer": "1"
+    },
+    {
+        "sentence": "Nancy preferred to eat popcorn rather than candy at the movies because the _ is salty.",
+        "option1": "popcorn",
+        "option2": "candy",
+        "answer": "1"
+    },
+    {
+        "sentence": "While Billie brought a pencil, I brought a pen to the realtor’s office. I gave Billie my pen and she gladly used the _ to sign the document.",
+        "option1": "pencil",
+        "option2": "pen",
         "answer": "2"
     },
     {
-        "sentence": "The man had an easier time walking in the desert than in the snow because it was cooler in the _ .",
-        "option1": "Adam",
-        "option2": "Lindsey",
+        "sentence": "Katrina orders water at the bar, while Emily has a nice, cold beer, so _ is the sober person.",
+        "option1": "Katrina",
+        "option2": "Emily",
         "answer": "1"
     },
     {
-        "sentence": "The coach of the soccer team bought the players shorts and left out the shirts because the _ were still good.",
-        "option1": "Rachel",
-        "option2": "Hunter",
+        "sentence": "Kenneth ran out of quarters at the arcade. He robbed William because _ was a distracted person.",
+        "option1": "Kenneth",
+        "option2": "William",
         "answer": "2"
     },
     {
-        "sentence": "Kyle will be able to retire a lot earlier than Adam because _ is further along in their career.",
-        "option1": "passion",
-        "option2": "Megan",
-        "answer": "1"
-    },
-    {
-        "sentence": "Rachel yelled for Kayla because _ was so angry about the death of the dear friend.",
-        "option1": "school",
-        "option2": "assertive",
-        "answer": "1"
-    },
-    {
-        "sentence": "Jacob was satisfied with the soda but was unsatisfied with the sherbet because the _ was tasty.",
-        "option1": "raise",
+        "sentence": "James finished the book during his flight home and he loved it. The _ is a long one.",
+        "option1": "flight",
         "option2": "book",
-        "answer": "2"
-    },
-    {
-        "sentence": "The turtle saw a race and a piece of lettuce. He chose the _ because he was hungry.",
-        "option1": "pot",
-        "option2": "store",
         "answer": "1"
     },
     {
-        "sentence": "Megan always wore earplugs at night, but Kayla did not, because _ was disturbed by random sounds.",
-        "option1": "knife",
-        "option2": "colors",
+        "sentence": "Learn to crochet was something Victoria learned at an early age but not Emily. _ is able to knit a sweater.",
+        "option1": "Victoria",
+        "option2": "Emily",
         "answer": "1"
     },
     {
-        "sentence": "Tanya couldn't stretch as far down as Jennifer because _ was had a very flexible body.",
-        "option1": "Jessica",
-        "option2": "pasta",
+        "sentence": "Carrie didn't want to sell the business to Cynthia because _ was offering a price that was too low.",
+        "option1": "Carrie",
+        "option2": "Cynthia",
+        "answer": "2"
+    },
+    {
+        "sentence": "Have you ever been on  a nature walk Samantha asked Tanya , _ is giving a reply to a question.",
+        "option1": "Samantha",
+        "option2": "Tanya",
+        "answer": "2"
+    },
+    {
+        "sentence": "In an effort to eat healthy, Craig attempted to get Adam on board when _ got rid of the unhealthy stuff in the house and replaced it with cactus juice.",
+        "option1": "Craig",
+        "option2": "Adam",
         "answer": "1"
     },
     {
-        "sentence": "Carrie regretted visiting Samantha while she was sick at home as _ now had the same fever and a runny nose just like her friend.",
-        "option1": "spot",
-        "option2": "Rachel",
-        "answer": "2"
-    },
-    {
-        "sentence": "The girl bought the energy shake from the market to suppress her appetite, however the _ fell flat.",
-        "option1": "Joel",
-        "option2": "Felicia",
-        "answer": "2"
-    },
-    {
-        "sentence": "Neil has recently gotten hepatitis A and asks for Kevin's advice, because _ has already had hepatitis.",
-        "option1": "Randy",
-        "option2": "paint",
+        "sentence": "I wanted to fry vegetables or meat, I decided to fry the _ because they are more healthier.",
+        "option1": "meat",
+        "option2": "vegetables",
         "answer": "2"
     }
 ]

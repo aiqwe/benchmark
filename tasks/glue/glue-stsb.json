@@ -1,122 +1,122 @@
 [
     {
-        "sentence1": "The Muslims would say the same thing about the Qur'an.",
-        "sentence2": "When the prime minister's position was established in the spring, it offered the United States and Israel a way to work around Arafat.",
-        "label": 2.4000000953674316,
-        "idx": 4012
-    },
-    {
-        "sentence1": "On Saturday, a 149mph serve against Agassi equalled Rusedski's world record.",
-        "sentence2": "See that makes no sense.",
-        "label": 2.799999952316284,
-        "idx": 3837
-    },
-    {
-        "sentence1": "The Note's Must-Reads for August 1, 2012",
-        "sentence2": "Many killed in Syrian air strike",
-        "label": 5.0,
-        "idx": 76
-    },
-    {
-        "sentence1": "A boy runs away from his fishing line.",
-        "sentence2": "Senior cleric: Iran will attack Tel Aviv if Israel strikes",
-        "label": 2.4000000953674316,
-        "idx": 4431
-    },
-    {
-        "sentence1": "A woman plays the guitar.",
-        "sentence2": "Doctors said that one or both of the boys may die and that if they survive, some brain damage is possible.",
-        "label": 4.599999904632568,
-        "idx": 3088
-    },
-    {
-        "sentence1": "Intel's McAfee Buys Cloud-Based, Networked Firewall Specialist Stonesoft For $389M In Cash",
-        "sentence2": "A man seated is playing the cello.",
-        "label": 4.199999809265137,
-        "idx": 5359
-    },
-    {
-        "sentence1": "China stocks open higher Monday",
-        "sentence2": "the agreement was signed during a regular meeting of chiefs of defense staff from the 26 nato allies.",
-        "label": 0.800000011920929,
-        "idx": 2971
-    },
-    {
-        "sentence1": "Additionally, the h2210’s cradle has room to charge a second battery.",
-        "sentence2": "A girl is playing a flute.",
-        "label": 3.200000047683716,
-        "idx": 3149
-    },
-    {
-        "sentence1": "The SIA says the DRAM market is expected to grow 2.9 percent to $15.7 billion in 2003 and 43 percent to $22.5 billion in 2004.",
-        "sentence2": "At the Casa de Espaa, customers were eating dinner and playing bingo when a bomb went off.",
-        "label": 4.599999904632568,
-        "idx": 5548
-    },
-    {
-        "sentence1": "A brown furry animal stands behind some plants.",
-        "sentence2": "The servers can run Solaris x86 operating system or the standard Linux operating system.",
-        "label": 4.599999904632568,
-        "idx": 2230
-    },
-    {
-        "sentence1": "What time is Andy Murray v Roger Federer in the Wimbledon men's final? All you need to know about the big game",
-        "sentence2": "it presents a major threat to global security.",
-        "label": 3.25,
-        "idx": 539
-    },
-    {
-        "sentence1": "russia is fulfilling obligations and decreasing forces.",
-        "sentence2": "The man sat in his suit and smoked.",
-        "label": 2.0,
-        "idx": 4490
-    },
-    {
-        "sentence1": "Anti-American Protests Over Film Expand to Nearly 20 Countries",
-        "sentence2": "If convicted, each faces up to five years in prison and a fine of $250,000 or more based on the amount of gains involved.",
-        "label": 2.4000000953674316,
-        "idx": 4603
-    },
-    {
-        "sentence1": "He and his colleagues attributed some of the communication gap to doctors feeling pressed for time.",
-        "sentence2": "A black car parked in the dirt out in the country.",
-        "label": 4.25,
-        "idx": 4811
-    },
-    {
-        "sentence1": "A brown dog is jumping up to catch a green strap in it's mouth.",
-        "sentence2": "United has paid $34 million in penalties for failing to meet employment targets.",
-        "label": 3.5999999046325684,
-        "idx": 4792
-    },
-    {
-        "sentence1": "\"Spin and manipulative public relations and propaganda are not the answer,\" it said.",
-        "sentence2": "the u.s., other western nations and nato demanded a cease-fire.",
-        "label": 3.799999952316284,
-        "idx": 4
-    },
-    {
-        "sentence1": "Indonesian president to visit UK",
-        "sentence2": "\"Biotech products, if anything, may be safer than conventional products because of all the testing,\" said Robert Fraley, Monsanto's executive vice president.",
+        "sentence1": "A black dog is running through some water.",
+        "sentence2": "A man in a football uniform is running with a football during a game.",
         "label": 0.0,
-        "idx": 1802
+        "idx": 1987
     },
     {
-        "sentence1": "'Whitey' Bulger's girlfriend gets 8 years",
-        "sentence2": "US stocks retreat on manufacturing data",
+        "sentence1": "Russian coal mines seek new outlets in China",
+        "sentence2": "Russian foreign minister to meet UN chief",
+        "label": 0.4000000059604645,
+        "idx": 5389
+    },
+    {
+        "sentence1": "Out of touch and completely untrustworthy, however, wouldn't.",
+        "sentence2": "Out of touch and untrustworthy?",
+        "label": 4.25,
+        "idx": 2165
+    },
+    {
+        "sentence1": "A dog jumping for a Frisbee in the snow.",
+        "sentence2": "A dog is jumping in the snow.",
         "label": 3.200000047683716,
-        "idx": 1044
+        "idx": 1747
     },
     {
-        "sentence1": "-Not- talking about it 'and' -Not- doing anything.",
-        "sentence2": "Saudi airstrikes in Yemen's capital kill 29",
-        "label": 3.200000047683716,
-        "idx": 3149
+        "sentence1": "iraq has been lobbying for the security council to stop using the country's oil revenue to pay compensation to victims of the 1991 gulf war and the salaries of the united nations monitoring, verification and inspection commission inspectors and to have all money remaining in the united nation's oil-for-food accounts transferred to the government's development fund.",
+        "sentence2": "iraq's new leaders have been lobbying for the united nations security council to stop using the iraq's oil revenue to pay the salaries of the inspectors and to have all money remaining in the united nation's oil-for-food account transferred to the iraqi government.",
+        "label": 4.0,
+        "idx": 3703
     },
     {
-        "sentence1": "A group of people in a living room.",
-        "sentence2": "Jordan elected to UN security council seat that Saudi Arabia rejected",
-        "label": 0.25,
-        "idx": 2343
+        "sentence1": "Hong Kong set for huge democracy rally on handover anniversary",
+        "sentence2": "Hong Kong set for huge democracy rally",
+        "label": 3.799999952316284,
+        "idx": 5156
+    },
+    {
+        "sentence1": "Dell's OpenManage software includes Dell Update Packages with SMS to help automate the management of server hardware, applications and operating systems patches with a single tool.",
+        "sentence2": "The update packages help \"automate the management of server hardware, applications and operating systems patches using one tool,\" which is unpleasantly vague.",
+        "label": 2.6670000553131104,
+        "idx": 3432
+    },
+    {
+        "sentence1": "Nazi Gestapo chief 'buried in Jewish cemetery'",
+        "sentence2": "Nazi chief buried in Jewish cemetary",
+        "label": 4.800000190734863,
+        "idx": 5025
+    },
+    {
+        "sentence1": "Last week, his lawyers asked Warner to grant clemency under conditions that would have lead to a new sentencing hearing.",
+        "sentence2": "Last week, his lawyers asked Gov. Mark R. Warner to grant clemency, but the governor declined to intervene.",
+        "label": 2.5,
+        "idx": 2529
+    },
+    {
+        "sentence1": "The losses occurred overnight in Willow Canyon, one of three areas in the Santa Catalina Mountains threatened by the 2-week-old fire that already had blackened 70,000 acres.",
+        "sentence2": "The losses occurred overnight in Willow Canyon, one of three areas in the Santa Catalina Mountains threatened by the resurgent Aspen fire.",
+        "label": 3.25,
+        "idx": 2682
+    },
+    {
+        "sentence1": "US Senate confirms Yellen as Fed's next chair",
+        "sentence2": "US Senate Confirms Janet Yellen as New Central Bank Chief",
+        "label": 4.199999809265137,
+        "idx": 4858
+    },
+    {
+        "sentence1": "A woman mixes a beauty treatment in a glass.",
+        "sentence2": "A woman is mixing a cream in a glass with a spoon.",
+        "label": 3.5999999046325684,
+        "idx": 302
+    },
+    {
+        "sentence1": "Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said that scenario is one among many that investigators are considering.",
+        "sentence2": "Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said investigators are considering the scenario.",
+        "label": 4.25,
+        "idx": 2473
+    },
+    {
+        "sentence1": "A girl is playing a guitar.",
+        "sentence2": "A man is playing a guitar.",
+        "label": 2.799999952316284,
+        "idx": 510
+    },
+    {
+        "sentence1": "Tokyo to host 2020 Olympic Games",
+        "sentence2": "Tokyo wins race to host 2020 Olympics",
+        "label": 4.199999809265137,
+        "idx": 4526
+    },
+    {
+        "sentence1": "Heather, 35, who lost a leg in a road accident, is thought to have steel plates fitted in her hips, which would make natural childbirth impossible.",
+        "sentence2": "Former model Lady McCartney lost a leg in a road accident in 1993 and is understood to have steel plates fitted in her hips which would make natural childbirth difficult.",
+        "label": 2.4000000953674316,
+        "idx": 3161
+    },
+    {
+        "sentence1": "A boy is making some dance steps.",
+        "sentence2": "A boy is pouring something from a pitcher.",
+        "label": 0.4000000059604645,
+        "idx": 345
+    },
+    {
+        "sentence1": "Not as irritated as you.",
+        "sentence2": "You seem as irritated as Henry.",
+        "label": 1.75,
+        "idx": 2202
+    },
+    {
+        "sentence1": "Two dogs running through tall grass.",
+        "sentence2": "Two dogs are running through a grassy area.",
+        "label": 4.599999904632568,
+        "idx": 1889
+    },
+    {
+        "sentence1": "nicaragua commemorated the 25th anniversary of the sandinista revolution that toppled the dictatorship of anastasio somoza but imposed a cuban-style leftist regime.",
+        "sentence2": "nicaragua commemorated the 25th anniversary of the sandinista revolution.",
+        "label": 3.799999952316284,
+        "idx": 3594
     }
 ]

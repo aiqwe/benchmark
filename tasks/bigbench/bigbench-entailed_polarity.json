@@ -1,22 +1,7 @@
 [
     {
-        "idx": 20,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Low pressure made it rain. Q: Did it rain?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 92,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed's common sense forbade him to answer. Q: Did Ed answer?\nA:",
+        "idx": 146,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed never used to drink. Q: Did Ed drink?\nA:",
         "targets": [
             "no"
         ],
@@ -30,23 +15,8 @@
         ]
     },
     {
-        "idx": 64,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed got to write to the doctor. Q: Did Ed write to the doctor?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 38,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed caused Mary to cry. Q: Did Mary cry?\nA:",
+        "idx": 74,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: The rules did not permit Ed to smoke. Q: Did Ed smoke?\nA:",
         "targets": [
             "no"
         ],
@@ -60,23 +30,8 @@
         ]
     },
     {
-        "idx": 25,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: There was revealed to be presents. Q: Were there presents?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 69,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed didn't mean to go. Q: Did Ed go?\nA:",
+        "idx": 105,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed used to drink. Q: Did Ed drink?\nA:",
         "targets": [
             "yes"
         ],
@@ -90,39 +45,9 @@
         ]
     },
     {
-        "idx": 0,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed didn't convince Mary to go. Q: Did Mary go?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "no",
-            "yes"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 14,
+        "idx": 89,
         "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Canals served to convey traffic through the city. Q: Did canals convey traffic through the city?\nA:",
         "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "no",
-            "yes"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 103,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed opted to close the factory. Q: Did Ed close factory?\nA:",
-        "targets": [
             "yes"
         ],
         "multiple_choice_targets": [
@@ -135,40 +60,10 @@
         ]
     },
     {
-        "idx": 112,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed established that Mary had arrived. Q: Did Mary arrive?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "no",
-            "yes"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 62,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed provoked there to be a strike. Q: Was there a strike?\nA:",
+        "idx": 6,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed didn't attempt to go. Q: Did Ed go?\nA:",
         "targets": [
             "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 98,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed reconfirmed that Mary arrived. Q: Did Mary arrive?\nA:",
-        "targets": [
-            "yes"
         ],
         "multiple_choice_targets": [
             "yes",
@@ -181,9 +76,9 @@
     },
     {
         "idx": 70,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: John let Mary leave. Q: Did Mary leave?\nA:",
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: The Deputy observed there to be a red mark on her face. Q: Was there a red mark on her face?\nA:",
         "targets": [
-            "no"
+            "yes"
         ],
         "multiple_choice_targets": [
             "no",
@@ -195,10 +90,10 @@
         ]
     },
     {
-        "idx": 77,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed was appointed to run the shop. Q: Did Ed run the shop?\nA:",
+        "idx": 23,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed convinced Mary to go. Q: Did Mary go?\nA:",
         "targets": [
-            "no"
+            "yes"
         ],
         "multiple_choice_targets": [
             "no",
@@ -210,8 +105,38 @@
         ]
     },
     {
-        "idx": 96,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed didn't read that Mary arrived. Q: Did Mary arrive?\nA:",
+        "idx": 40,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed was forced to go. Q: Did Ed go?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 61,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Falling profits led the company to explore new paths. Q: Did the company explore new paths?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 94,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: It didn't start to rain Q: Did it rain?\nA:",
         "targets": [
             "no"
         ],
@@ -225,53 +150,8 @@
         ]
     },
     {
-        "idx": 39,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed declined to go. Q: Did Ed go?\nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 56,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed didn't get it to rain sparks. Q: Did it rain sparks?\nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "no",
-            "yes"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed was provoked to go. Q: Did Ed go?\nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 75,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: She confirmed that she had taken the money. Q: Did she take the money?\nA:",
+        "idx": 87,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: There was revealed to be presents. Q: Were there presents?\nA:",
         "targets": [
             "yes"
         ],
@@ -285,10 +165,130 @@
         ]
     },
     {
-        "idx": 0,
-        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: The grant didn't enable Mary to write. Q: Did Mary write?\nA:",
+        "idx": 101,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Bill troubled Ed to go to the store. Q: Did Ed go to the store?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 113,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: It had not begun to rain. Q: Was it raining?\nA:",
         "targets": [
             "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 113,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: It had not begun to rain. Q: Was it raining?\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed consented to go. Q: Did Ed go?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed discovered Bill to be in Paris. Q: Was Bill in Paris?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed came to know about the story. Q: Did Ed know the story?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 51,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed had to go. Q: Did Ed go?\nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "no",
+            "yes"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 82,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed refrained to comment. Q: Did Ed comment?\nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Given a fact, answer the following question with a yes or a no.\nFact: Ed granted Mary that Bill arrived. Q: Did Bill arrive?\nA:",
+        "targets": [
+            "yes"
         ],
         "multiple_choice_targets": [
             "no",

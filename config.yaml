@@ -61,9 +61,9 @@ winogrande:
 
 bigbenchhard:
   <<: *default
-  source: github
-  url: https://github.com/suzgunmirac/BIG-Bench-Hard
-  file:
+  source: huggingface
+  hf_path: maveriq/bigbenchhard
+  hf_name:
     - boolean_expressions
     - causal_judgement
     - date_understanding
@@ -91,6 +91,7 @@ bigbenchhard:
     - tracking_shuffled_objects_three_objects
     - web_of_lies
     - word_sorting
+  url: https://huggingface.co/datasets/maveriq/bigbenchhard
   paper: https://arxiv.org/pdf/2210.09261
 
 arc:
@@ -151,6 +152,20 @@ haerae:
   <<: *default
   source: huggingface
   hf_path: HAERAE-HUB/HAE_RAE_BENCH_1.1
+  hf_name:
+  - correct_definition_matching
+  - csat_geo
+  - csat_law
+  - csat_socio
+  - date_understanding
+  - general_knowledge
+  - history
+  - loan_words
+  - lyrics_denoising
+  - proverbs_denoising
+  - rare_words
+  - standard_nomenclature
+  - reading_comprehension
   url: https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.1
   paper: https://arxiv.org/pdf/2309.02706
 
@@ -158,13 +173,60 @@ kmmlu:
   <<: *default
   source: huggingface
   hf_path: HAERAE-HUB/KMMLU
+  hf_name:
+  - Accounting
+  - Agricultural-Sciences
+  - Aviation-Engineering-and-Maintenance
+  - Biology
+  - Chemical-Engineering
+  - Chemistry
+  - Civil-Engineering
+  - Computer-Science
+  - Construction
+  - Criminal-Law
+  - Ecology
+  - Economics
+  - Education
+  - Electrical-Engineering
+  - Electronics-Engineering
+  - Energy-Management
+  - Environmental-Science
+  - Fashion
+  - Food-Processing
+  - Gas-Technology-and-Engineering
+  - Geomatics
+  - Health
+  - Industrial-Engineer
+  - Information-Technology
+  - Interior-Architecture-and-Design
+  - Law
+  - Machine-Design-and-Manufacturing
+  - Management
+  - Maritime-Engineering
+  - Marketing
+  - Materials-Engineering
+  - Mechanical-Engineering
+  - Nondestructive-Testing
+  - Patent
+  - Political-Science-and-Sociology
+  - Psychology
+  - Public-Safety
+  - Railway-and-Automotive-Engineering
+  - Real-Estate
+  - Refrigerating-Machinery
+  - Social-Welfare
+  - Taxation
+  - Telecommunications-and-Wireless-Technology
+  - Korean-History
+  - Math
   url: https://huggingface.co/datasets/HAERAE-HUB/KMMLU
   paper: https://arxiv.org/pdf/2402.11548
 
 hellaswag:
   <<: *default
-  source: github
-  url: https://github.com/rowanz/hellaswag
+  source: huggingface
+  hf_path: Rowan/hellaswag
+  url: https://huggingface.co/datasets/Rowan/hellaswag
   paper: https://arxiv.org/pdf/1905.07830
 
 glue:
@@ -403,6 +465,29 @@ gpqa:
   url: https://huggingface.co/datasets/Idavidrein/gpqa
   paper: https://arxiv.org/pdf/2311.12022
 
+human_eval:
+  <<: *default
+  source: huggingface
+  hf_path: openai/openai_humaneval
+  url: https://huggingface.co/datasets/openai/openai_humaneval
+  paper: https://arxiv.org/pdf/2107.03374
+
+gsm8k:
+  <<: *default
+  source: huggingface
+  hf_path: openai/gsm8k
+  hf_name:
+    - main
+    - socratic
+  url: https://huggingface.co/datasets/openai/gsm8k
+  paper: https://arxiv.org/pdf/2110.14168
+
+mbpp:
+  <<: *default
+  source: huggingface
+  hf_path: google-research-datasets/mbpp
+  url: https://huggingface.co/datasets/google-research-datasets/mbpp
+  paper: https://arxiv.org/pdf/2108.07732
 
 
 

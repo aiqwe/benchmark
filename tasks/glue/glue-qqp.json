@@ -1,122 +1,122 @@
 [
     {
-        "question1": "Which iPad shoud I buy?",
-        "question2": "Can I make a dough with only water and flour?",
+        "question1": "How has Donald Trump reacted to Meryl Streep's Golden Globes speech?",
+        "question2": "Who's Donald Trump's speech writer?",
+        "label": 0,
+        "idx": 143386
+    },
+    {
+        "question1": "Between R, MATLAB, and Python, which one is better for artificial intelligence, data science and research?",
+        "question2": "Which is the best one for data science, R, SAS or Python?",
+        "label": 0,
+        "idx": 172421
+    },
+    {
+        "question1": "How can I be a better husband?",
+        "question2": "How can I become a good husband?",
         "label": 1,
-        "idx": 69374
+        "idx": 271134
     },
     {
-        "question1": "What is a plagiarism checker?",
-        "question2": "How do I gain access to a private Instagram account?",
+        "question1": "Why do men and women's clothing sizes come only in even numbers?",
+        "question2": "Why do men and women clothing sizes come only in even numbers?",
         "label": 1,
-        "idx": 73256
+        "idx": 116662
     },
     {
-        "question1": "What sort of questions should NOT be asked on Quora?",
-        "question2": "What happen to gtbit case today?",
-        "label": 0,
-        "idx": 224410
-    },
-    {
-        "question1": "How are prime and composite numbers related?",
-        "question2": "Why don't airlines have parachutes for passengers?",
+        "question1": "How dangerous is the radiation from your laptop? When will laptops be replaced by something safer?",
+        "question2": "How harmful can it be to receive the radiation from my laptop?",
         "label": 1,
-        "idx": 82686
+        "idx": 185575
     },
     {
-        "question1": "Will accountants be replaced by computers in 10 years from now?",
-        "question2": "If radius of earth is R/4 then number of days in one year will be?",
-        "label": 0,
-        "idx": 49665
-    },
-    {
-        "question1": "Why is Twitter down?",
-        "question2": "How do I get over the depression that is caused by low self esteem?",
-        "label": 0,
-        "idx": 87399
-    },
-    {
-        "question1": "Is Martin Shkreli a bad guy?",
-        "question2": "Charging my phone takes nearly 3 hrs to full…problem is with my phone or charger?",
-        "label": 0,
-        "idx": 68837
-    },
-    {
-        "question1": "How do I change the language in WhatsApp?",
-        "question2": "Can a bound morpheme be more than one syllable in length?",
+        "question1": "How can you speak and learn fluent English like Karan Johar?",
+        "question2": "How do I speak English like celebrities?",
         "label": 1,
-        "idx": 62874
+        "idx": 11214
     },
     {
-        "question1": "What universities does Mercury General recruit new grads from? What majors are they looking for?",
-        "question2": "\"What are the Danish words with a lot of \"\"ø\"\"?\"",
+        "question1": "What is a procedural language?",
+        "question2": "What is procedural programming?",
         "label": 1,
-        "idx": 246680
+        "idx": 126813
     },
     {
-        "question1": "How does a recruiting office make money?",
-        "question2": "How is GBO course of SRCC in terms of placement and faculty?",
+        "question1": "How can I study at night if I don't have a habit of studying at night?",
+        "question2": "How can I study at night?",
         "label": 0,
-        "idx": 123385
+        "idx": 316624
     },
     {
-        "question1": "What should I know to learn Android development?",
-        "question2": "What does the puberty exam consist of?",
+        "question1": "Are there records of astronauts having sex in space?",
+        "question2": "Does the U.S. currently have any means of putting astronauts in space?",
         "label": 0,
-        "idx": 125987
+        "idx": 311880
     },
     {
-        "question1": "How are design decisions made at medium?",
-        "question2": "What are your views on demonetization of 500 and 1000 rupee notes by the Modi Government?",
-        "label": 0,
-        "idx": 291530
-    },
-    {
-        "question1": "How do I fix the mic problem in xiaomi redmi 2 prime, the other person in call cannot hear my voice, please find some solution?",
-        "question2": "What are some of the most useful apps available on the App Store?",
-        "label": 0,
-        "idx": 286054
-    },
-    {
-        "question1": "\"Why do people use \"\"No Fat Chicks\"\" stickers?\"",
-        "question2": "Should I stop loving someone who doesn't love me?",
+        "question1": "If the universe is expanding does it mean matter is also expanding?",
+        "question2": "If the universe is expanding then does matter also expand?",
         "label": 1,
-        "idx": 251189
+        "idx": 234658
     },
     {
-        "question1": "What is the first thing men look for in a woman?",
-        "question2": "What is the best business school in England?",
+        "question1": "What do you think of Vladimir Putin?",
+        "question2": "What does Vladimir Putin think of NATO?",
         "label": 0,
-        "idx": 58380
+        "idx": 292329
     },
     {
-        "question1": "What is the best pomade for thick hair?",
-        "question2": "What is CCTV? Why is there a need for CCTV?",
+        "question1": "Which is better, the master's in data science program at IIT or master's in computer science with a focus on data science?",
+        "question2": "How is the course Master of Data science course in IIT Chicago?",
         "label": 0,
-        "idx": 161120
+        "idx": 190113
     },
     {
-        "question1": "What did Queen Elizabeth do about tensions between Catholicism and Protestantism in England?",
-        "question2": "What is the most dangerous city in United States and why?",
-        "label": 1,
-        "idx": 65639
-    },
-    {
-        "question1": "Can the packed aloe vera gel by Patanjali Ayurveda be used as a herbal hair styling gel?",
-        "question2": "Marekting strategies used by google?",
+        "question1": "I am currently pursuing my first year in master's of dental surgery (MDS). I took it up by choice. But right now I am not interested in it and would like to prepare for IAS. What would be the wisest thing to do?",
+        "question2": "I am a 25 year old working in the IT sector and planning to leave my job for IAS preparation. Is this the right thing to do?",
         "label": 0,
-        "idx": 31851
+        "idx": 136672
     },
     {
-        "question1": "What are the advantages of being ugly?",
-        "question2": "How can you focus sound?",
+        "question1": "What are the other options for biology (science) stream students other than an MBBS/BDS (not a doctor thing)?",
+        "question2": "What are courses Available to a girl students in biology stream other than MBBS. After  passing 12th standard with biology as subject?",
         "label": 1,
-        "idx": 9612
+        "idx": 323425
     },
     {
-        "question1": "What is a linguist's salary?",
-        "question2": "What are the best places to visit in Spain?",
+        "question1": "Is blood pressure 160/100 very high?",
+        "question2": "What precautions should I take during high blood pressure?",
+        "label": 0,
+        "idx": 66816
+    },
+    {
+        "question1": "How will Clinton/Kaine go about getting Koch Money out of the Senate?",
+        "question2": "I'm not claiming to be smart, but I feel nervous and intellectually limited when talking with shallow people, is this normal?",
+        "label": 0,
+        "idx": 236531
+    },
+    {
+        "question1": "Is Angular 2 mature enough to be used in production?",
+        "question2": "Is angular 2 production ready?",
         "label": 1,
-        "idx": 201537
+        "idx": 125111
+    },
+    {
+        "question1": "What temperature should an alligator be cooked at?",
+        "question2": "What temperature should chicken be cooked to?",
+        "label": 0,
+        "idx": 259156
+    },
+    {
+        "question1": "How can I get license to sell my handmade Pokemon products?",
+        "question2": "Where do I get a license to sell pokemon products?",
+        "label": 1,
+        "idx": 255203
+    },
+    {
+        "question1": "What makes love so beautiful?",
+        "question2": "What makes you love Game of Thrones so much?",
+        "label": 0,
+        "idx": 328769
     }
 ]

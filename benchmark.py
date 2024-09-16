@@ -28,6 +28,7 @@ def show(obj, colored: bool = True):
         )
     print(encoded)
 
+
 class Config:
     def __init__(self, path: str = "config.yaml"):
         with open(path, "r") as f:
@@ -77,27 +78,38 @@ class Config:
             on_the_fly = {}
             for key, value in self.config[k].items():
                 if isinstance(value, list):
-                # toggle should be written in html tag like below:
-                # <details>
-                #    <summary> click </summary>
-                #    <div>- <code>value</code></div>
-                # </details>
+                    # toggle should be written in html tag like below:
+                    # <details>
+                    #    <summary> click </summary>
+                    #    <div>- <code>value</code></div>
+                    # </details>
                     lines = []
                     for idx, ele in enumerate(value):
                         if idx == 0:
-                            indent_num= 8 # 첫번째 라인은 prefix = " "*4를 적용받으므로 8칸만 indent
+                            indent_num = 8  # 첫번째 라인은 prefix = " "*4를 적용받으므로 8칸만 indent
                         else:
-                            indent_num = 12 # 두번째 라인부터는 prefix를 적용받지 않으므로 12칸 indent
-                        lines.append(indent(f"<div>  -  <code>{ele}</code></div>", prefix=" " * indent_num))
+                            indent_num = 12  # 두번째 라인부터는 prefix를 적용받지 않으므로 12칸 indent
+                        lines.append(
+                            indent(
+                                f"<div>  -  <code>{ele}</code></div>",
+                                prefix=" " * indent_num,
+                            )
+                        )
                     on_the_fly.update(
-                                {key: indent(dedent(
-                                """
+                        {
+                            key: indent(
+                                dedent(
+                                    """
                                     <details>
                                         <summary>Click</summary>
                                     {}
                                     </details>
-                                """), prefix = " " * 4).format('\n'.join(lines))
-                                })
+                                """
+                                ),
+                                prefix=" " * 4,
+                            ).format("\n".join(lines))
+                        }
+                    )
                 # path, name은 backtick 처리
                 elif isinstance(value, str) and key in ("path", "name"):
                     on_the_fly.update({key: f"`{value}`"})
@@ -126,10 +138,17 @@ class Config:
                 f.write(guide_doc_md)
                 logger.info(f"{guide_doc}을 초기화합니다")
 
+    def __len__(self):
+        return len(self.get_all_names())
+
+    def __getitem__(self, key):
+        return self.config[key]
+
     def __repr__(self):
-        return "Benchmark List:\n{}---------- More details in self.config".format(
+        return "Benchmark List:\n{}\n---------- More details in self.config".format(
             "\n".join([f"  - {name}" for name in self.get_all_names()])
         )
+
 
 class HFReader:
     def __init__(
@@ -139,7 +158,7 @@ class HFReader:
         hf_name: str = None,
         num_proc: int = 6,
         dataset=None,
-        dataset_option: dict = None,
+        dataset_options: dict = None,
     ):
         """
         Benchmark를 EDA하는 클래스
@@ -153,7 +172,7 @@ class HFReader:
         self.benchmark_name = benchmark_name
         self.path = hf_path
         self.hf_name = hf_name
-        self.dataset_option = dataset_option or {}
+        self.dataset_option = dataset_options or {}
         if not hf_path:
             self.path = hf_conf.config[benchmark_name]["hf_path"]
         if not hf_name:
@@ -292,15 +311,19 @@ class HFReader:
 
             for idx in range(iteration):
                 dic = {}
+                rand_idx = random.randint(0, len(dataset) - 1)
                 for k in dataset.features.keys():
-                    dic.update({k: dataset[random.randint(0, len(dataset) - 1)][k]})
+                    dic.update({k: dataset[rand_idx][k]})
                 samples.append(dic)
         logger.info(f"총 {len(samples)}개의 샘플이 있습니다.")
         self.samples = samples
         return self.samples
 
+
 class GithubReader:
-    def __init__(self, benchmark_name: str, user: str = None, repo: str = None, fpath: str = None):
+    def __init__(
+        self, benchmark_name: str, user: str = None, repo: str = None, fpath: str = None
+    ):
         """
         Github 파일을 읽어옴
 
@@ -311,7 +334,7 @@ class GithubReader:
         """
         conf = Config()
         pattern = r"https://github.com/(.*)/(.*)"
-        benchmark_url = conf.config[benchmark_name]['url']
+        benchmark_url = conf.config[benchmark_name]["url"]
         matched = re.match(pattern, benchmark_url)
         if not user:
             user = matched.group(1)
@@ -325,10 +348,12 @@ class GithubReader:
         self.fpath = fpath
         self.fs = GithubFileSystem(org=self.user, repo=self.repo)
 
-    def get_files(self, folder: str, pattern = None):
+    def get_files(self, folder: str, pattern=None):
         if not pattern:
             logger.info("searching for '*.json' and '*.jsonl' patterns")
-            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(self.fs.sep.join([folder, "*.jsonl"]))
+            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(
+                self.fs.sep.join([folder, "*.jsonl"])
+            )
         else:
             result = self.fs.glob(self.fs.sep.join([folder, pattern]))
         result = [f.split("/")[-1].split(".")[0] for f in result]
@@ -355,11 +380,12 @@ class GithubReader:
 
     def sampling(self, data: list = None, fpath=None, n: int = 1000):
         self.get_jsonl(fpath)
-        if isinstance (self.data, list):
+        if isinstance(self.data, list):
             return self.data[:n]
         else:
-            logger.info("samples are not list. please check self.data and pass sample manually through self.show")
-
+            logger.info(
+                "samples are not list. please check self.data and pass sample manually through self.show"
+            )
 
     def show(self, data: list = None, fpath=None, idx=None, colored=True):
         if not data:
@@ -385,6 +411,7 @@ class GithubReader:
             logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
             json.dump(samples, f, ensure_ascii=False, indent=4)
 
+
 class LocalReader:
     def __init__(self, benchmark_name: str, fpath: str = None):
         """
@@ -395,17 +422,17 @@ class LocalReader:
             repo: repo 이름 ex) 'papers', 'benchmark'
             fpath: 파일의 위치. ex) 'tasks/arc/ai2-arc-ARC-Challenge.json'
         """
-        conf = Config()
-        benchmark_url = conf.config[benchmark_name]['url']
 
         self.benchmark_name = benchmark_name
         self.fpath = fpath
         self.fs = LocalFileSystem()
 
-    def get_files(self, folder: str, pattern = None):
+    def get_files(self, folder: str, pattern=None):
         if not pattern:
             logger.info("searching for '*.json' and '*.jsonl' patterns")
-            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(self.fs.sep.join([folder, "*.jsonl"]))
+            result = self.fs.glob(self.fs.sep.join([folder, "*.json"])) + self.fs.glob(
+                self.fs.sep.join([folder, "*.jsonl"])
+            )
         else:
             result = self.fs.glob(self.fs.sep.join([folder, pattern]))
         result = [f.split("/")[-1].split(".")[0] for f in result]
@@ -434,11 +461,12 @@ class LocalReader:
             self.get_jsonl(fpath=fpath)
         if data:
             return data[:n]
-        if isinstance (self.data, list):
+        if isinstance(self.data, list):
             return self.data[:n]
         else:
-            logger.info("samples are not list. please check self.data and pass sample manually through self.show")
-
+            logger.info(
+                "samples are not list. please check self.data and pass sample manually through self.show"
+            )
 
     def show(self, data: list = None, fpath=None, idx=None, colored=True):
         if not data:

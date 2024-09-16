@@ -1,34 +1,77 @@
 [
     {
-        "idx": 214,
-        "inputs": "Q: EverQuest II, Ikaruga, and State of Decay can be classified as",
+        "idx": 209,
+        "inputs": "Q: What are the commonality of Chimila, Mehri, and Southeastern Tarahumara? Answer: They are all",
         "targets": [
-            "religions"
+            "extinct languages",
+            "endangered languages"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 122,
-        "inputs": "Q: What are the commonality of Pablo Picasso, Gustav Klimt, and Diego Velazquez? Answer: They are all",
+        "idx": 270,
+        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
         "targets": [
-            "female artist"
+            "Computer Science books",
+            "Programming books"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 234,
-        "inputs": "Q: EverQuest II, Ikaruga, and State of Decay can be classified as",
+        "idx": 269,
+        "inputs": "Q: Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, and Expert C Programming: Deep C Secrets can be classified as",
         "targets": [
-            "periods of Japanese history"
+            "Computer Science books",
+            "Programming books"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 51,
-        "inputs": "Q: What are the commonality of Nara period, Azuchi-Momoyama period, and Kamakura period? Answer: They are all",
+        "idx": 270,
+        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
+        "targets": [
+            "Computer Science books",
+            "Programming books"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 270,
+        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
+        "targets": [
+            "Computer Science books",
+            "Programming books"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 197,
+        "inputs": "Q: Profitable home Chelisheva, The House with Lions, and House under the steeple can be classified as",
+        "targets": [
+            "tourist_attractions",
+            "architecture in Russia",
+            "architecture in Russia"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 189,
+        "inputs": "Q: AMERICAN REVOLUTION, NETHERLAND'S WAR OF INDEPENDENCE, and FRANCO-PRUSSIAN WAR are examples of",
+        "targets": [
+            "historical wars"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 125,
+        "inputs": "Q: Antarctica, Zealandia, and Oceania are instances of",
         "targets": [
             "continents"
         ],
@@ -36,94 +79,17 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 67,
-        "inputs": "Q: svcinfo, dpr, and ses can be classified as",
+        "idx": 46,
+        "inputs": "Q: Delta Force Black Hawk Down, Spartans Vs Zombies Defense, and Devil's Workshop pack are instances of",
         "targets": [
-            "the media",
-            "news outlet"
+            "games on Steam"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 145,
-        "inputs": "Q: The similarity among Ethiopia, Nigeria, and Mauritania is that they are all",
-        "targets": [
-            "accessories"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 153,
-        "inputs": "Q: Philippines, Brazil, and India are examples of",
-        "targets": [
-            "extinct languages",
-            "endangered languages"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 54,
-        "inputs": "Q: The similarity among Kyle Zahacefski, Linus F. Phillip, and Joe Charboneau is that they are all",
-        "targets": [
-            "presidents of the U.S"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 175,
-        "inputs": "Q: fart, rotten eggs, skunks all",
-        "targets": [
-            "artists"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 128,
-        "inputs": "Q: Rust, TypeScript, and C/C++ are examples of",
-        "targets": [
-            "tech companies",
-            "software companies"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 22,
-        "inputs": "Q: Domoic Acid Poisoning, Spotted Fever Rickettsiosis, and Brucellosis can be classified as",
-        "targets": [
-            "pokeman"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 82,
-        "inputs": "Q: Salamence, Zapdos, and Moltres are all",
-        "targets": [
-            "tourist_attractions",
-            "architecture in Russia",
-            "buildings in Russia"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 38,
-        "inputs": "Q: xml, s1, and fti are all",
-        "targets": [
-            "presidents of the U.S"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 220,
-        "inputs": "Q: Indonesia, Ethiopia, and Bangladesh are all",
+        "idx": 282,
+        "inputs": "Q: molybdenum, indium, and yttrium are instances of",
         "targets": [
             "chemical elements with high density"
         ],
@@ -131,58 +97,96 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 223,
+        "inputs": "Q: Indonesia, Ethiopia, and Bangladesh are all",
+        "targets": [
+            "countries with large population"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: Square, circle, triangle are different",
+        "targets": [
+            "shapes"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 153,
+        "inputs": "Q: Takeaway, Senorita, and Otro Trago - Remix are instances of",
+        "targets": [
+            "popular songs",
+            "top Spotify Songs"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 194,
+        "inputs": "Q: The similarity among Volga-Don channel, Monument Dog Squad, and The building of the Medical Academy is that they are all",
+        "targets": [
+            "tourist_attractions",
+            "architecture in Russia",
+            "architecture in Russia"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 237,
+        "inputs": "Q: What are the commonality of Nature Reviews Molecular Cell Biology, IEEE Communications Surveys and Tutorials, and Nature Photonics? Answer: They are all",
+        "targets": [
+            "top journals"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 125,
+        "inputs": "Q: Antarctica, Zealandia, and Oceania are instances of",
+        "targets": [
+            "continents"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 83,
+        "inputs": "Q: Uganda, Namibia, and Kenya are instances of",
+        "targets": [
+            "African countries"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 202,
+        "inputs": "Q: Coarse Cereals, cotton, and wheat are instances of",
+        "targets": [
+            "crops",
+            "agricultural products"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 269,
+        "inputs": "Q: Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, and Expert C Programming: Deep C Secrets can be classified as",
+        "targets": [
+            "Computer Science books",
+            "Programming books"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 20,
-        "inputs": "Q: water, glass, air are all",
+        "inputs": "Q: Marie Curie, Albert Einstein, Mo Yan, Michael Houghton have all won",
         "targets": [
-            "American universities founded before the states they reside in were created"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 181,
-        "inputs": "Q: Andy Lucero, Cody McCaulou, and Dale Maverick Hudson are all",
-        "targets": [
-            "people shot by police"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 90,
-        "inputs": "Q: What are the commonality of Sharanahua, Chairel, and Tafi? Answer: They are all",
-        "targets": [
-            "Computer Science books",
-            "Programming books"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 210,
-        "inputs": "Q: The similarity among Cape Town, Apia, and Conakry is that they are all",
-        "targets": [
-            "presidents of the U.S"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 195,
-        "inputs": "Q: Jeans, Tops, and Suits are examples of",
-        "targets": [
-            "extinct languages",
-            "endangered languages"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 235,
-        "inputs": "Q: The similarity among Progress in Energy and Combustion Science, Nature Energy, and Chemical Reviews is that they are all",
-        "targets": [
-            "Computer Science books",
-            "Programming books"
+            "the Nobel Prize"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

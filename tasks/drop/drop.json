@@ -1,12 +1,12 @@
 [
     {
-        "section_id": "nfl_2771",
-        "query_id": "5fc8d6c0-2fe6-4cb0-b164-02349446977a",
-        "passage": "After scoring 10 points on their first two drives, the Rams could not score again as they allowed 17 unanswered points with a field goal, a pick 6 by Landon Collins, a 1-yard touchdown by Rashad Jennings. Case Keenum threw 4 interceptions in the game. One of the picks was on the last drive when the Rams drove down to the red zone. But a high pass landed in DRC's hands in the end zone allowing the Rams to drop 3-4 and continue on their losing streak.",
-        "question": "How many yards was the longest touchdown pass?",
+        "section_id": "nfl_2657",
+        "query_id": "ec8fd79a-9e32-42c0-9c1a-1cbfe3760a12",
+        "passage": "After a tough road loss to the Ravens, the Steelers went home for a game against the Dolphins.  They would score first as Ben Roethlisberger found Emmanuel Sanders on a 5-yard pass for a 7-0 lead.  The Dolphins managed to get on the board as Caleb Sturgis kicked a 30-yard field goal making the score 7-3.  In the 2nd quarter, Charles Clay caught a 6-yard touchdown pass from Ryan Tannehill as the Phins took the lead 10-7 at halftime.  After the break, the Dolphins went right back to work as Daniel Thomas ran for a 4-yard touchdown making the score 17-7.  The Steelers then came within 3 when Roethlisberger found Antonio Brown on a 43-yard touchdown pass making the score 17-14 and would eventually score again when Troy Polamalu picked off Tannehill and returned it 19 yards for a touchdown as they retook the lead 21-17.  The Dolphins however moved back into the lead as Tannehill found Brian Hartline on a 4-yard pass for a 24-21 score.  In the 4th quarter, Roethlisberger found Jerricho Cotchery on a 16-yard touchdown pass as they moved ahead 28-24.  Clay then caught a pass from Tannehill making the score 31-28 as the Dolphins retook the lead.  They would stop scoring after Sturgis kicked a 27-yard field goal for a 34-28 lead.  Under a minute to go in the quarter, the Steelers got the ball back with Roethlisberger throwing to Brown and then Brown running for what seemed to be the game-tying (and eventually game-winning touchdown and PAT), but officials reviewed the play and it was determined that Brown had stepped out of bounds during the run ending the game dropping the team to 5-8.",
+        "question": "How many yards was the longest rushing touchdown?",
         "answers_spans": {
             "spans": [
-                "21"
+                "4"
             ],
             "types": [
                 "number"
@@ -14,13 +14,27 @@
         }
     },
     {
-        "section_id": "history_3320",
-        "query_id": "30e07f2f-01d0-48d8-958b-4935585f2a6f",
-        "passage": "Following the Packers miraculous 37-36 comeback win against the Dallas Cowboys, the Packers returned to snowy Lambeau Field to take on the Pittsburgh Steelers. Once again, Aaron Rodgers was inactive and Matt Flynn got the start. The two teams traded TDs in the first quarter, and Eddie Lacy ran 14 yards for a TD at the 2-minute warning. Pittsburgh responded with a 31-yard field goal to make it 10-14 at halftime. In the 3rd quarter, both teams once again traded TDs to make it 17-21. Pittsburgh then took the lead with an 11-yard TD pass to Matt Spaeth. On the Packers' next drive, Matt Flynn collided with Andrew Quarless, disrupting a pass that was intercepted and returned 40 yards for a TD by Cortez Allen to extend their lead 31-21. In the 4th quarter, The Packers managed to tie the game with a 22-yard field goal and a 1-yard run by John Kuhn. With a little less than 3 minutes remaining, Troy Polamalu forced a Matt Flynn fumble at the Packers 17. The Steelers took a 38-31 lead with a 1-yard TD run from Le'Veon Bell. After a 70-yard kick return by Micah Hyde, the Packers were at the Steelers 31-yard line with 1:25 remaining. 3 plays later they reached the Steelers 1-yard line. However, a false start penalty both pushed them back 5 yards and ran 10 seconds off the clock, leaving the Packers with one play to get into the endzone. On the final play, Matt Flynn's pass for Jarrett Boykin was incomplete, and time expired. With the 38-31 loss, The Packers fell to 7-7-1, and their playoff hopes rested on the outcomes of the games played by the Detroit Lions (7-7) and the Chicago Bears (8-6). Detroit lost to the New York Giants 23-20 in OT and was eliminated from playoff contention. Meanwhile, Chicago had an opportunity to clinch the NFC North division with a win over the Eagles on Sunday Night Football, but the Eagles beat the Bears 54-11. This set up a win-and-in matchup between Green Bay (7-7-1) and Chicago (8-7) the following week. The winner would obtain the 4th seed in the NFC playoffs, and the loser would be eliminated from playoff contention.",
-        "question": "How many touchdowns were scored in the first half?",
+        "section_id": "history_1970",
+        "query_id": "0217b6e9-db76-4b7c-aa7c-31c2a96ec379",
+        "passage": "As of the census of 2010, there were 47,723 people, 17,816 households, and 11,722 families residing in the city. The population density was 1,754.6/sq mi (677.5/km²).  There were 19,806 housing units at an average density of 749.9 per square mile (289.6/km²).  The racial makeup of the city was 38.32% White (U.S. Census), 57.25% African American (U.S. Census), 1.25% Native American (U.S. Census), 1.85% Asian, 0.14% Pacific Islander (U.S. Census), 1.03% from Race (United States Census), and 1.09% from two or more races.  6.98% of the population were Hispanics in the United States or Latino (U.S. Census) of any race.",
+        "question": "How many fewer percent of the people were Pacific Islander compared to Asian?",
         "answers_spans": {
             "spans": [
-                "Texans"
+                "1.71"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_1734",
+        "query_id": "89bf11dc-d780-4fcf-92c8-353781440cb2",
+        "passage": "Hoping to rebound from their loss to the Falcons the Ravens flew to Bank of America Stadium for an inter-conference duel with the Panthers. In the first quarter the Ravens took the early lead with quarterback Joe Flacco getting a 56-yard TD pass to wide receiver T. J. Houshmandzadeh. This was followed by kicker Billy Cundiff nailing a 22-yard field goal. The Panthers replied with kicker John Kasay making a 45-yard field goal, but the Ravens increased their lead with RB Ray Rice getting a 1-yard TD run, followed in the third quarter by Cundiff hitting a 33-yard field goal. The lead was narrowed when Kasay made a 40-yard field goal. This was followed by quarterback Brian St. Pierre completing an 88-yard TD pass to wide receiver David Gettis. The Ravens took further command with Cundiff hitting a 49-yard field goal.  The Ravens then scored two defensive touchdowns in 11&#160;seconds with an interception by safety Ed Reed that was lateraled to safety Dawan Landry who returned it for a touchdown, followed by Ray Lewis returning another interception 24&#160;yards for a touchdown.",
+        "question": "Which player threw the longest touchdown pass?",
+        "answers_spans": {
+            "spans": [
+                "Brian St. Pierre"
             ],
             "types": [
                 "span"
@@ -28,13 +42,13 @@
         }
     },
     {
-        "section_id": "nfl_1880",
-        "query_id": "92fbb941-2a38-4559-9103-c2128328dff8",
-        "passage": "Out of 190,638 households, 29.9% have children under the age of 18 living with them, 28.5% were married couples living together, 24.8% had a female householder with no husband present, and 41.3% were nonfamilies. 35.2% of all households were made up of individuals and 11.1% had someone living alone who is 65 years of age or older. The average household size was 2.44 and the average family size was 3.19. The age distribution of the population shows 28.5% under the age of 18, 9.5% from 18 to 24, 30.4% from 25 to 44, 19.0% from 45 to 64, and 12.5% who are 65 years of age or older. The median age was 33 years. For every 100 females, there were 90.0 males. For every 100 females age 18 and over, there were 85.2 males.",
-        "question": "How many percent are not households made up of individuals?",
+        "section_id": "history_571",
+        "query_id": "2fe17031-485d-4753-8b3c-b1cd2be6c20d",
+        "passage": "The fortifications of Mdina  are a series of defensive walls which surround the former capital city of Mdina, Malta. The city was founded as Maleth by the Phoenicians in around the 8th century BC, and it later became part of the Roman Empire under the name Melite. The ancient city was surrounded by walls, but very few remains of these have survived. The city walls were rebuilt a number of times, including by the Byzantine Empire in around the 8th century AD, the Arabs in around the 11th century, and the Kingdom of Sicily in the medieval period until the 15th century. Most of the extant fortifications were built by the Order of Saint John between the 16th and 18th centuries. The city has withstood a number of sieges, and it was defeated twice - first by the Aghlabids in 870 and then by Maltese rebels in 1798. Today, the city walls are still intact except for some outworks, and they are among the best preserved fortifications in Malta. Mdina has been on Malta's tentative list of UNESCO World Heritage Sites since 1998.",
+        "question": "How many centuries after the walls were rebuilt by the Byzantine Empire were they rebuilt again by the Arabs?",
         "answers_spans": {
             "spans": [
-                "75"
+                "3"
             ],
             "types": [
                 "number"
@@ -42,100 +56,10 @@
         }
     },
     {
-        "section_id": "history_638",
-        "query_id": "d64b7c74-459c-4536-b10d-b3027dd2e607",
-        "passage": "Following their road loss to the Steelers, the Browns flew to M&T Bank Stadium for an AFC North rematch with the Baltimore Ravens.  In the first quarter, Cleveland led early with kicker Phil Dawson getting a 51-yard field goal.  However, the Ravens took the lead with RB Jamal Lewis getting a 7-yard TD run.  In the second quarter, Kyle Boller took over at QB for the Ravens after starting QB Steve McNair went out with a hand injury.  Baltimore's lead increased when Boller completed 9-yard TD pass to FB Ovie Mughelli and  kicker Matt Stover completed a 38-yard field goal.  However, the Browns showed signs of life as QB Derek Anderson completed a 3-yard TD pass to WR Joe Jurevicius.  In the third quarter, Cleveland tied the game at 17-17 with Anderson's 14-yard TD pass to WR Braylon Edwards.  However, the Ravens took over for the rest of the game with Boller's 77-yard TD pass to WR Demetrius Williams.  In the fourth quarter, Baltimore wrapped the game up with Stover's 22-yard field goal.  With the loss, the Browns fell 4-10.  For the first time in the history of the Cleveland Browns, the team did not win a game in their own division.",
-        "question": "How many field goals were kicked during the second quarter?",
-        "answers_spans": {
-            "spans": [
-                "Browns"
-            ],
-            "types": [
-                "span"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_2110",
-        "query_id": "27596fcb-121e-41b9-a594-de4aec2ee25b",
-        "passage": "From the , 47,225 people (37.8% of the population) were Roman Catholic, while 33,993 (27.2%) belonged to the Swiss Reformed Church. Of the rest of the population, there were 2,698 Orthodox Christianity (2.16%), there were 65 individuals (0.05%) who belonged to the Christian Catholic Church of Switzerland, and there were 4,437 individuals (3.55%) who belonged to another Christian church. There were 849 individuals (0.68%) who were Judaism, and 7,501 (6.00%) who were Muslim. There were 452 individuals who were Buddhism, 772 individuals who were Hinduism and 343 individuals who belonged to another church. 21,080 (16.88%) belonged to no church, were Agnosticism or Atheism, and 7,590 individuals (6.08%) did not answer the question.",
-        "question": "Which Lions player had two touchdown receptions?",
-        "answers_spans": {
-            "spans": [
-                "900"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_2651",
-        "query_id": "de80fcfa-15bc-4229-965b-1652dd8b9b0e",
-        "passage": "Coming off of their road win over the 49ers, the Ravens went home for a Week 6 interconference duel with the winless St. Louis Rams.  With QB Steve McNair out with injuries, back-up Kyle Boller was given the start. In the first quarter, Baltimore took flight early with kicker Matt Stover getting a 43-yard field goal for the only score of the period.  In the second quarter, the Raven continued to take advantage of an injury-plagued Rams team with Stover kicking a 42-yard field goal, along with RB Willis McGahee getting a 6-yard TD run.  In the third quarter, Baltimore increased its lead with Stover nailing a 23-yard field goal.  Afterwards, St. Louis would get its only score of the game as kicker Jeff Wilkins got a 32-yard field goal.  In the fourth quarter, the Ravens sealed their easy win with Stover kicking a 31-yard and a 36-yard field goal. During the win, the Ravens defense forced six turnovers, which included a franchise-best 5 interceptions.",
-        "question": "How many more yards did the 49ers have over the Eagles?",
-        "answers_spans": {
-            "spans": [
-                "36-yard",
-                "37-yard",
-                "Joe Nedney",
-                "Olindo Mare"
-            ],
-            "types": [
-                "span",
-                "span",
-                "span",
-                "span"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_3413",
-        "query_id": "a06cfcf4-3eb7-4ce4-b8f3-a8c79fc288fa",
-        "passage": "Trying to snap a two-game losing skid, the Titans flew to Paul Brown Stadium for a Week 12 duel with the Cincinnati Bengals. In the first quarter, Tennessee trailed early as Bengals RB Rudi Johnson got a 5-yard TD run for the only score of the period. In the second quarter, the Titans got on the board with kicker Rob Bironas getting a 28-yard field goal. However, Cincinnati answered with QB Carson Palmer completing a 10-yard TD pass to WR Chad Johnson. Tennessee would end the half with Bironas getting a 23-yard field goal. In the second half, the Bengals sealed the win Carson and Chad hooking up with each other on a 2-yard TD pass in the third quarter and a 3-yard TD pass in the fourth quarter.",
-        "question": "How many more rebels were killed at Dussindale than were killed in Warwick's army?",
-        "answers_spans": {
-            "spans": [
-                "9"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "history_1179",
-        "query_id": "7f7ab3cc-83f9-4ca4-880b-3bd24ab7d0b8",
-        "passage": "Staying at home, the Panthers played a Week 5 match-up against the visiting Cleveland Browns.  Even though the Browns would score first on a 41-yard field goal by Phil Dawson, the Panthers struck big as rookie CB Richard Marshall took an interception 30 yards for a touchdown.  In the second quarter, Carolina increased its lead, as QB Jake Delhomme threw a 17-yard TD pass to WR Keyshawn Johnson for the only score of the period (and in fact the only offensive touchdown of the game for either team).  In the third quarter, both teams managed to get a field goal, as kicker John Kasay got on from 24 yards out, while Dawson nailed a 47-yarder.  In the fourth quarter, the Browns drew closer, as Dawson kicked a 22-yard field goal, but Kasay helped Carolina get a 19-yard field goal.  The Panthers would allow one more Dawson field goal (a 32-yarder), but in the end, Carolina would walk away with their third-straight win while improving to 3-2.",
-        "question": "Which player got the Texans on the board?",
-        "answers_spans": {
-            "spans": [
-                "Adam Vinatieri"
-            ],
-            "types": [
-                "span"
-            ]
-        }
-    },
-    {
-        "section_id": "history_609",
-        "query_id": "d9bfb161-e3dd-4def-9279-4a8cde58e91d",
-        "passage": "Hoping to rebound from their loss to the Vikings the Redskins flew to New Meadowlands Stadium for an NFC East rivalry match against the Giants. In the first quarter the Redskins trailed early as RB Brandon Jacobs got an 8-yard TD run, followed by Ahmad Bradshaw getting a 4 and a 10-yard TD run. Then Jacobs got a 28-yard TD run to put the Giants up 28-0. They responded with QB Donovan McNabb completing a 33-yard TD pass to WR Anthony Armstrong, but they struggled further as kicker Lawrence Tynes made a 28-yard field goal.",
-        "question": "How many defensive touchdowns were scored?",
-        "answers_spans": {
-            "spans": [
-                "2"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_3295",
-        "query_id": "9f606b08-a692-4e9c-a52b-684097d78bd6",
-        "passage": "Hoping to snap their current losing streak the Cardinals flew to Hubert H. Humphrey Metrodome for an NFC duel with the Vikings. In the second quarter the Cardinals trailed early as QB Brett Favre got a 12-yard TD pass to RB Adrian Peterson. They immediately replied with a 96-yard kickoff return for a touchdown by RB LaRod Stephens-Howling. The Vikings responded with kicker Ryan Longwell nailing a 21-yard field goal. The Cardinals replied a took the lead with QB Derek Anderson completing a 30-yard TD pass to WR Andre Roberts. This was followed by DB Michael Adams returning a fumble 30 yards for a touchdown, and with kicker Jay Feely making a 22-yard field goal. The lead was closed down by Peterson as he got a 4-yard TD run, and by QB Brett Favre's 25-yard TD pass to TE Visanthe Shiancoe. After overtime the decision was made when Longwell successfully made a 35-yard field goal to give the Cardinals a loss, bringing their record down to 3-5.",
-        "question": "Which players scored touchdowns of 20 yards or longer?",
+        "section_id": "nfl_2987",
+        "query_id": "03230212-37c7-4a15-afc7-309668e7a010",
+        "passage": "After the first three possessions of the game ended in punts, the Patriots struck first. Midway through the first quarter, Brady hit Gronk for a 45-yard catch-and-run to the Patriots 7. Two plays later, Brady threw a 6-yard touchdown pass to LaFell, but the play was nullified by an illegal formation penalty, pushing the ball back to the 11. Two plays later Brady threw a two-yard touchdown pass to Keyshawn Martin, which counted, and the Patriots led 7-0. The Texans reached the Patriots 20 on their ensuing drive, but were forced to settle for a 38-yard field goal by Nick Novak. The Patriots answered by reaching the Texans 25, but their stiff defense forced the Patriots to settle for a 43-yard field goal by Gostkowski. The Texans responded with a second straight field goal, this one a 45-yarder. After both teams traded punts, the Patriots took advantage of great field position (the Texans 41) and increased their lead to 17-6 with Brady's 1-yard touchdown pass to Gronkowski with just 0:14 seconds left in the half. The Patriots took the opening kickoff of the second half, and, despite only reaching the Texans 31, Gostkowski was good from 49 yards away, and the Patriots led 20-6. The Patriots forced another punt, but Martin muffed it with recovering at the Patriots 21. However, the Patriots stout defense only allowed 6 yards and the Texans turned the ball over on downs. Early in the fourth quarter, Sheard stripped Brian Hoyer with Malcolm Brown recovering at the Texans 7. Three plays later, James White scored on a two-yard touchdown run, putting the game out of reach. The Texans did nothing on their final two drives and the Patriots won the game. With the win, the Patriots improved to 11-2, and they clinched the AFC East title for a seventh straight season after the Giants defeated the Dolphins the following Monday night.  Their seventh straight division title tied the Rams franchise for the most consecutive division titles won by one team in NFL history.",
+        "question": "How many yards longer was Nick Novak's second field goal over his first one?",
         "answers_spans": {
             "spans": [
                 "7"
@@ -146,10 +70,86 @@
         }
     },
     {
-        "section_id": "history_11",
-        "query_id": "be21d95c-a115-4f11-b9bd-0ce9ace0cf56",
-        "passage": "Arcatas age cohorts are also distorted by a large percentage of college-age students. Only 15.3% of Arcata residents are under the age of 18, while nearly a third (32.3%) fall between ages 18 and 24, and 27.8% are 25 to 44 years old. Among older age cohorts, 15.9% are 45 to 64 years old, and 8.7% were 65 years of age or older. The median age was 26 years. For every 100 females, there were 99.0 males. For every 100 females age 18 and over, there were 96.9 males.",
-        "question": "How many seasons did the Lakers hold the record for most wins at home in the regular season?",
+        "section_id": "nfl_1724",
+        "query_id": "0ec1b382-512a-4f8b-bb58-69d9cb6d3ac8",
+        "passage": "Looking to win their division and capture the top seed in the NFC playoffs, the Falcons hosted the Saints in a Monday Night rematch of their Week 3 contest. New Orleans would score first with Garrett Hartley kicking a FG from 52 yards late in the first quarter. RB Pierre Thomas would add to the Saints' lead with a 2-yard TD run; however, Atlanta would respond with a Matt Ryan 7-yard TD pass to Roddy White to cut the lead to three. After a scoreless third quarter, the Falcons took the lead with Chauncey Davis returning an interception 26 yards for a touchdown. New Orleans reclaimed the lead late in the 4th with a Drew Brees 6-yard TD pass to Jimmy Graham. Atlanta attempted to come back; however, New Orleans held on for the win. With the loss, Atlanta falls to 12-3, snapping their 8-game winning streak.",
+        "question": "Who booted the longest field goal?",
+        "answers_spans": {
+            "spans": [
+                "Garrett Hartley"
+            ],
+            "types": [
+                "span"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_2731",
+        "query_id": "3b6d08ad-09fb-4abf-a4f2-80c6c37570d8",
+        "passage": "Hoping to rebound from their loss to the Patriots, the Broncos flew to the O.co Coliseum for an AFC West duel with the Oakland Raiders. Each team traded field goals in the first quarter, with a 41-yard field goal by Raiders' placekicker Sebastian Janikowski and a 20-yarder by Broncos' placekicker Brandon McManus, the latter of whom added a 28-yard field goal early in the second quarter. The Raiders re-claimed the lead, with quarterback Derek Carr connecting on a 5-yard touchdown pass to wide receiver Brice Butler. However, the Broncos took control of the game with 35 unanswered points. Quarterback Peyton Manning shook off two early interceptions and connected on a pair of touchdown passes within the last three minutes of the first half &#8212; 51-yarder to running back C. J. Anderson and a 32-yarder to wide receiver Emmanuel Sanders. Manning added three more touchdown passes in the third quarter &#8212; a 10- and 12-yarder to tight end Julius Thomas, followed by a 15-yarder to Sanders. Two of the three third-quarter scoring plays came off Raiders' turnovers. Manning sat out the entire fourth quarter, and backup quarterback Brock Osweiler took his place. The Raiders added a late score, with Carr connecting on an 18-yard touchdown pass to tight end Mychal Rivera.",
+        "question": "How long was the shortest touchdown pass?",
+        "answers_spans": {
+            "spans": [
+                "5-yard touchdown pass",
+                "51-yarder",
+                "32-yarder",
+                "18-yard touchdown"
+            ],
+            "types": [
+                "span",
+                "span",
+                "span",
+                "span"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_2719",
+        "query_id": "3bfb20cb-e4b7-4da7-9bfa-9d23476a0f44",
+        "passage": "The Cowboys swept their season series against the Giants for the second year in a row. The Cowboys have beaten the Giants 5 out of the last 6 meetings from 2012 to 2014. With the win, Dallas improved to 8-3 on the season, setting up a showdown with the 8-3 Eagles for first place in the NFC East on Thanksgiving Day. DeMarco Murray went over 100 yards yet again, rushing for 121 yards but failed to get in the end zone. Giants rookie wide receiver Odell Beckham Jr. would finish his historic night with 10 catches for 146 yards and two scores. Rapper and New York City native Jay Z attended the game and was seen having a brief conversation with Jerry Jones on the field prior to kickoff. This was some what of an event due to Jay Z's agency, Roc Nation, signing on as Dez Bryant's representation earlier in the month. The pair spoke briefly before the game, which led to questions about whether they were discussing Bryant's contract negotiations. Jones later claimed that the brief conversation had nothing to do with contract negotiations.",
+        "question": "how many yards did murray get?",
+        "answers_spans": {
+            "spans": [
+                "100"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_457",
+        "query_id": "28b67c38-20ad-4bd7-9409-c8d8d0770e84",
+        "passage": "Hoping to rebound from their divisional loss to the Buccaneers, the Falcons stayed at home and played a Week 12 Thanksgiving interconference duel with the defending Super Bowl champion Indianapolis Colts. In the first quarter, Atlanta led early as they ended a 19-play, 63-yard drive with kicker Morten Andersen's 34-yard field goal. Later, the Falcons increased their lead with QB Joey Harrington completing a 48-yard TD pass to WR Roddy White. In the second quarter, the Colts got on the board with QB Peyton Manning completing a 23-yard TD pass to WR Reggie Wayne. Atlanta responded with Andersen kicking a 30-yard field goal, but Indianapolis started to gain steam as Manning found TE Dallas Clark on an 8-yard TD pass and TE Ben Utecht on a 5-yard TD pass. In the third quarter, Colts' RB Joseph Addai got a 4-yard TD run, while kicker Adam Vinatieri nailed a 24-yard field goal. Despite the loss, RB Warrick Dunn (17 carries for 70 yards) became the 22nd player in NFL history to get 10,000 career rushing yards. He became the third RB under 5 feet, 9&#160;inches to reach 10,000 yards rushing.",
+        "question": "Which team won the game?",
+        "answers_spans": {
+            "spans": [
+                "Falcons"
+            ],
+            "types": [
+                "span"
+            ]
+        }
+    },
+    {
+        "section_id": "history_1518",
+        "query_id": "7530ba40-5e00-40b4-ab12-eb7e300936af",
+        "passage": "King Henry II of England died on 6 July 1189 after a surprise attack by his son Richard the Lionheart and King Philip II. Richard inherited the crown and immediately began raising funds for the crusade. In the meantime, some of his subjects departed in multiple waves by sea. Some of them together with contingents from the Holy Roman Empire and France conquered the Moorish city of Silves in Iberia during the summer of 1189, before continuing to the Holy Land. In April 1190, King Richard's fleet departed from Dartmouth under the command of Richard de Camville and Robert de Sablé on their way to meet their king in Marseille. Parts of this fleet helped the Portuguese monarch Sancho I defeat an Almohad counterattack against Santarém and Torres Novas, while another group ransacked Christian Lisbon, only to be routed by the Portuguese monarch. Richard and Philip II met in France at Vézelay and set out together on 4 July 1190 as far as Lyon where they parted after agreeing to meet in Sicily; Richard with his retinue, said to number 800, marched to Marseille and Philip to Genoa. Richard arrived in Marseille and found that his fleet had not arrived; he quickly tired of waiting for them and hiring ships, left for Sicily on 7 August, visiting several places in Italy en route and arrived in Messina on 23 September. Meanwhile, the English fleet eventually arrived in Marseille on 22 August, and finding that Richard had gone, sailed directly to Messina, arriving before him on 14 September. Philip had hired a Genoese fleet to transport his army, which consisted of 650 knights, 1,300 horses, and 1,300 squires to the Holy Land by way of Sicily.",
+        "question": "How many total knights, horses, and squires were transported to the Holy Land by way of Sicily?",
+        "answers_spans": {
+            "spans": [
+                "3250"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_2013",
+        "query_id": "817435fa-ca6b-42ef-ba67-1d13d07b63c4",
+        "passage": "Coming off their win over the Chargers the Raiders flew to EverBank Field for an AFC duel with the Jaguars. In the first quarter the Raiders took the lead as QB Jason Campbell completed a 67-yard TD pass to RB Darren McFadden. The Jaguars replied in the second quarter with QB David Garrard making a 1-yard TD pass to TE Marcedes Lewis. They increased their lead as kicker Sebastian Janikowski nailed a 26-yard field goal, followed by Campbell throwing an 8-yard TD pass to WR Louis Murphy. The lead was narrowed as Garrard made a 48-yard TD pass to WR Jason Hill. But the Raiders replied as McFadden ran 51&#160;yards for a touchdown. They fell behind for the first time with RB Rashad Jennings getting a 74-yard TD run, followed by Garrard getting a 10-yard TD pass to WR Mike Sims-Walker, followed by Scobee nailing a 19-yard field goal. Oakland tied the game as McFadden got a 36-yard TD run, but the Jaguars pulled out the win with RB Maurice Jones-Drew getting a 30-yard TD run.",
+        "question": "How many yards was the shortest touchdown?",
         "answers_spans": {
             "spans": [
                 "1"
@@ -160,13 +160,13 @@
         }
     },
     {
-        "section_id": "nfl_314",
-        "query_id": "9e521e4f-8bac-46a1-8a21-b0934a781709",
-        "passage": "Genoa's allies included Hungary and Padua. The King of Hungary, Louis I, had conquered Dalmatia from Venice and by 1379 Hungarian forces threatened Venice itself by land from the north. Paduan forces, under the leadership of Francesco I da Carrara, cut off Venice's communications to the west.  Genoa's allies also included the Patriarch of Aquileia and Leopold III, the Duke of Austria. The danger on land seemed trifling to Venice so long as she could keep the sea open to her trade and press the war against the Genoese in the Levant.  Venice's allies, which included Bernabò Visconti of Milan, gave her little help on this side, although his mercenaries invaded the territory of Genoa. The Milanese troops were indeed  defeated in September 1379 in the Val Bisagno.  Bernabò, whose despotism and taxes had enraged the Milanese, was deposed by his nephew Gian Galeazzo Visconti in 1385. Imprisoned in the castle of Trezzo, he was poisoned in December of that year. Venice had the support of John V Palaiologos, Byzantine Emperor. In 1376, the Genoese helped Andronikos IV  overthrown John V, but in 1379 Venice restored the latter to the throne.",
-        "question": "How many in percent of households had someone living alone who wasn't 65 years of age or older?",
+        "section_id": "history_841",
+        "query_id": "3797ff90-10b3-4fc8-ab75-4ae72aa82f15",
+        "passage": "The War of Jenkins' Ear  broke out in 1739 between Spain and Great Britain, but was confined to the Caribbean Sea and conflict between Spanish Florida and the neighboring British Province of Georgia. The War of the Austrian Succession, nominally a struggle over the legitimacy of the accession of Maria Theresa to the Austrian throne, began in 1740, but at first did not involve either Britain or Spain militarily. Britain was drawn diplomatically into that conflict in 1742 as an ally of Austria and an opponent of France and Prussia, but open hostilities between them did not take place until 1743 at Dettingen, and war was only formally declared between Britain and France in March 1744. Massachusetts did not declare war until June 2.",
+        "question": "What happened first: The War of Jenkins' Ear or War of the Austrian Succession?",
         "answers_spans": {
             "spans": [
-                "Charles X Gustav occupied Warsaw"
+                "The War of Jenkins' Ear"
             ],
             "types": [
                 "span"
@@ -174,97 +174,13 @@
         }
     },
     {
-        "section_id": "nfl_2096",
-        "query_id": "fb77a863-d5ad-40b8-8d37-e10f00ef0595",
-        "passage": "Coming off their road win over the Bills, the Jets went home for Week 10 interconference duel with the St. Louis Rams.  In the first quarter, New York took flight as RB Thomas Jones got a 13-yard TD run, kicker Jay Feely nailed a 22-yard field goal, and LB Calvin Pace returning a fumble 50 yards for a touchdown.  In the second quarter, the Jets continued their domination as Jones got a 2-yard TD run, Feely making a 49-yard and a 46-yard field goal, QB Brett Favre completing a 2-yard TD pass to TE Dustin Keller, and Feely getting a 55-yard field goal.  In the third quarter, the Rams would get only points of the game as kicker Josh Brown nailed a 37-yard field goal.  In the fourth quarter, New York flew away as Jones got a 6-yard TD run. The +44 point differential marked the largest margin of victory in franchise history.  Also, it was their first win over the Rams since 1983.",
-        "question": "How many years since the first and last raid passed that we heard about in Poland?",
+        "section_id": "history_1918",
+        "query_id": "f6d99f73-dfb6-4da5-b68d-2531402c8f58",
+        "passage": "In the county, the population was spread out with 21.7% under the age of 18,  8.5% from 18 to 24, 26.9% from 25 to 44, 27.7% from 45 to 64, and 15.0% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 94.4 males. For every 100 females age 18 and over, there were 98.7 males.",
+        "question": "Which age group is larger: under the age of 18 or 18 to 24?",
         "answers_spans": {
             "spans": [
-                "54"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_1489",
-        "query_id": "093aacfa-00fe-4b21-bbb3-8a5d6b0a685e",
-        "passage": "The Patriots travelled to the Metrodome for a Monday Night Football showdown with the Minnesota Vikings, who, like the Patriots, boasted an excellent run defense. The Patriots, who took to the air with a spread offense for the entire game, opened with a seven-play, 86-yard strike that ended with a touchdown pass from Brady to wide receiver Reche Caldwell. Their next drive was for 93 yards which resulted in a 23-yard Gostkowski field goal. And just before halftime the Patriots moved 74 yards in 11 plays to take a 17-0 lead on a nine-yard scoring toss to tight end Benjamin Watson. The only Vikings score of the game came on a 71-yard punt return by Mewelde Moore in the third quarter; Laurence Maroney immediately answered on the ensuing kickoff, with a 77-yard return to Minnesota's 21-yard line, his second return of over 70 yards in as many weeks. The Patriots' lead grew to 17 after a seven-yard touchdown reception by Brown with 9:03 in the third quarter and then became 31-7 with a touchdown catch by Jackson. The Patriots defense also intercepted four passes from quarterbacks Brad Johnson and Brooks Bollinger. On Bollinger's first drive after relieving Brad Johnson he was sacked three times in a row for a net loss of 23 yards. With their fourth straight victory, the Patriots advanced to 6-1.This was the Patriots' third and final game played in the Metrodome.",
-        "question": "How many touchdowns did Walker have?",
-        "answers_spans": {
-            "spans": [
-                "89"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_2050",
-        "query_id": "4f863823-41f1-4de5-bf91-c3a5b6f08552",
-        "passage": "The Kingdom of Bahrain consists of Bahrain Island and 33 of the 37 Bahrain Islands, lying in the Arabian Gulf's Gulf of Bahrain off the north shore of Asia's Arabian Peninsula. Bahrain's capital city is Manama. The islands are about 24 kilometers  off the east coast of Saudi Arabia and 28 kilometers  from Qatar. The total area of the country is about 780 square kilometers , about 3.5 times the size of the District of Columbia. Bahrain Island accounts for about 83% of the kingdom's land area, comprising 590 square kilometers . It is 48 kilometers  long from north to south and at its widest point stretches 16 kilometers  from east to west. The island is surrounded by several of the Middle East's large petroleum fields and commands a strategic position amid the Persian Gulf's shipping lanes.",
-        "question": "Which player scored first?",
-        "answers_spans": {
-            "spans": [
-                "1"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "history_2174",
-        "query_id": "3ec86a36-8f25-46f8-a37b-99a81f9ed599",
-        "passage": "Coming off a relief home win against their rival Tampa Bay, the Falcons stayed home and got set for a Week 13 duel with the Philadelphia Eagles. Due to Matt Ryan's toe injury against the Bucs, Chris Redman was set to start. The Falcons trailed early as Eagles kicker David Akers made a 33-yard field goal. After that, Eagles quarterback Donovan McNabb connected with Leonard Weaver for a 4-yard touchdown pass. In the second quarter, the Eagles extended their lead with another 33-yard field goal from David Akers. In the third quarter, things got uglier for the Falcons as their former quarterback Michael Vick rushed 5 yards for a touchdown.The Falcons got the ball back, only for Redman to throw an interception to Eagles cornerback Sheldon Brown, which he took 83 yards for a defensive touchdown. In the fourth quarter, Vick threw a 5-yard touchdown pass to Eagles tight end Brent Celek. With time already running out, Redman threw a last second 3-yard touchdown pass to Roddy White, avoiding a shutout.",
-        "question": "For how many months was the Kiev Offensive successful?",
-        "answers_spans": {
-            "spans": [
-                "18"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "nfl_1095",
-        "query_id": "9ad2bcd7-0a19-41db-af44-dcefff815647",
-        "passage": "In Greensboro, 48.33% of the population is religiously affiliated. The largest religion in Greensboro is Christianity, with the most affiliates being either Baptist (11.85%) or Methodist (10.25%). The remaining Christian populations are Presbyterian (3.97%), Roman Catholic (3.71%), Pentecostal (2.61%), Episcopal Church USA (1.17%), Latter-Day Saints (1.02%), Lutheran (0.96%), and other Christian denominations (11.03%) including Greek Orthodox, Quaker, Moravian Church, Church of Christ, and Nondenominational Christianity. After Christianity, the largest religion in Greensboro is Islam (0.82%), followed by Judaism (0.60%). Eastern religions make up the minority in Greensboro (0.34%).",
-        "question": "Who is the coach of the Eagles?",
-        "answers_spans": {
-            "spans": [
-                "99.7"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "history_749",
-        "query_id": "c7f70ade-62b3-4ffb-9cb0-0b86e452589c",
-        "passage": "The Bolshevik forces reached the Lithuanian territory on July 7, 1920, and continued to push the Polish troops. The Lithuanian Army moved to secure territories abandoned by the retreating Polish forces. They took Turmantas on July 7, Tauragnai and Alanta on July 9, Širvintos and Musninkai on July 10, Kernavė, Molėtai, and Giedraičiai on July 11, Maišiagala and Pabradė on July 13. On July 13 the Polish command decided to transfer Vilnius to the Lithuanians in accordance with the resolution of the Spa Conference. Lithuanians moved in, but their trains were stopped by Polish soldiers near Kazimieriškės. This delay meant that the Bolsheviks were the first to enter Vilnius on July 14. By the time first Lithuanian troops entered the city on July 15, it was already secured by the Soviets. Poland sought to have Russians in the city as it would create much less complications when Polish Army counterattacked. Despite the Peace Treaty, the Soviets did not intend to transfer the city to the Lithuanians. Indeed, there were indications that the Soviets planned a coup against the Lithuanian government in hopes to re-establish the Lithuanian SSR. Despite the setback in Vilnius, the Lithuanians continued to secure territories in the Suwałki Region. They took Druskininkai on July 17, Vištytis, Punsk, Giby, and Sejny on July 19, Suwałki on July 29, Augustów on August 8. The Polish units, afraid of being surrounded and cut off from the main Polish forces, retreated towards Łomża. The Lithuanian authorities started to organize themselves in the regained areas.",
-        "question": "How many more games did the Mavericks win compared to the Heat during the 2011 NBA Finals?",
-        "answers_spans": {
-            "spans": [
-                "2"
-            ],
-            "types": [
-                "number"
-            ]
-        }
-    },
-    {
-        "section_id": "history_2345",
-        "query_id": "e2c08d01-df0c-4d0b-a34e-76fe5a9d0627",
-        "passage": "As of the census of 2000, there were 83,955 people, 32,023 households, and 21,647 families residing in the county.  The population density was 64 people per square mile (25/km²).  There were 39,839 housing units at an average density of 30 per square mile (12/km²).  The racial makeup of the county was 94.63% Race (United States Census), 1.06% Race (United States Census) or Race (United States Census), 2.60% Race (United States Census), 0.46% Race (United States Census), 0.02% Race (United States Census), 0.23% from Race (United States Census), and 1.01% from two or more races.  0.94% of the population were Hispanics in the United States or Race (United States Census) of any race. 26.8% were of Germans, 13.2% Irish people, 11.3% English people, 9.1% Polish people, 8.2% Italian people and 7.4% United States ancestry according to Census 2000. 95.2% spoke English language and 1.4% Spanish language as their first language.",
-        "question": "How many yards longer was Joe Nedney's longest field goal than his shortest?",
-        "answers_spans": {
-            "spans": [
-                "18 to 24"
+                "under the age of 18"
             ],
             "types": [
                 "span"
@@ -272,16 +188,102 @@
         }
     },
     {
-        "section_id": "history_2977",
-        "query_id": "b302c987-6679-4661-ae54-fe7111f2abc0",
-        "passage": "Late on 22 October 1923, the military leader of the KP Wasserkante received orders via the regional party leadership to begin the rebellion. Only 300 took an active part in the rebellion. although the Hamburg KPD numbered some 14,000 members. On 23 October at 5:00 a.m., they stormed 26 police precincts and took weapons from 17 of them. There was also activity in Altona and the urban district of Stormarn, where the police stations in Schiffbek and Bramfeld were attacked and weapons taken. In Bad Oldesloe, Ahrensburg and Rahlstedt, train tracks and streets were blockaded. In the town of Bargteheide, insurgents arrested local government leaders and proclaimed the \"Soviet Republic of Stormarn\". In Schiffbek, where the KPD had support, placards were posted to calm residents and to urge support for the uprising, declaring \"Long live Soviet Germany! Long live the Federation of Soviet states of the world! Long live the world revolution!\" Most of the uprising was quelled in a few hours. In Schiffbek, it lasted till just past noon. Only in Barmbek, where the KPD had received some 20% of the vote in the previous election, the insurgents were supported by residents, who helped them build barricades and brought them food. The rebels were able to maintain their position during the entire day, despite the continuous exchange of gunfire. At night, however, convinced of the hopelessness of their situation, they sneaked away. The next day, the police launched a major offensive against empty barricades.",
-        "question": "Which age group had the least people?",
+        "section_id": "history_2168",
+        "query_id": "9aed2328-39e0-423a-b44e-04133be87b06",
+        "passage": "As of the census of 2000, 458,336 people, 181,153 households, and 115,394 families resided in the county.  The population density was 587 people per square mile (227/km²).  There were 196,633 housing units at an average density of 252 per square mile (97/km²).  The Race (United States Census) of the county was 84.78% White, 9.38% African American, 0.86% Native American, 2.09% Asian, 0.03% Pacific Islander, 0.89% from other races, and 1.97% from two or more races. Hispanics or Latinos of any race were 2.44% of the population. About 17.5% were of Italian people, 16.2% Irish people, 12.4% Germans, 9.4% English people, and 6.0% Polish people ancestry according to Census 2000, and 91.4% spoke English language, 2.4% Spanish language and 1.1% Italian language as their first language.",
+        "question": "How many in percent from the census weren't white?",
         "answers_spans": {
             "spans": [
-                "31255"
+                "15.22"
             ],
             "types": [
                 "number"
+            ]
+        }
+    },
+    {
+        "section_id": "history_863",
+        "query_id": "c71e2afb-ac62-4900-b7fa-e8fe2b99a495",
+        "passage": "By May 1969, the level of intensity of the conflict had reduced substantially. Isolated incidents continued to occur particularly along the ROKA-controlled sectors of the DMZ, but it had become clear that the North had abandoned its hopes of starting an insurgency in the South. Qualitative improvements in the ROK Army meant that the U.S. could start to contemplate reducing its military presence in South Korea. On 25 July 1969, President Nixon announced his Nixon Doctrine that, henceforth, the U.S. expected its allies to defend themselves with U.S. air and seapower support , but not U.S. ground troops. While aimed primarily at South Vietnam, this policy would also apply to South Korea . On 1 October 1969 General Bonesteel handed over command of USFK to General John H. Michaelis. One of General Michaelis' early tasks was negotiating the release of three U.S. soldiers captured when their OH-23 helicopter was shot down after straying across the DMZ; their release on 3 December 1969 is regarded as the official end of the conflict.",
+        "question": "How many months after the Nixon Doctrine did General Bonesteel hand over comman of USFK?",
+        "answers_spans": {
+            "spans": [
+                "3"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_957",
+        "query_id": "de570d12-a132-4f0e-b26b-2e6b2f3dd641",
+        "passage": "Coming off a road win over the Chiefs, the Bills went home for a Week 13 interconference duel against the San Francisco 49ers.  In the first quarter, Buffalo trailed early as 49ers QB Shaun Hill completed a 12-yard TD pass to WR Isaac Bruce.  In the second quarter, the Bills continued to trail as kicker Joe Nedney made a 50-yard field goal.  In the third quarter, Buffalo tried to rally as kicker Rian Lindell nailed a 22-yard field goal, but the team struggled offensively for the rest of the game. QB Trent Edwards (10/21 for 112 yards) didn't play the second half, due to a groin injury.",
+        "question": "Who made the longer field goal, Nedney or Lindel?",
+        "answers_spans": {
+            "spans": [
+                "Nedney"
+            ],
+            "types": [
+                "span"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_2022",
+        "query_id": "4cbf91d2-37df-4311-b58c-2dc0d0df617a",
+        "passage": "Hoping to increase their winning streak the Eagles flew to LP Field for an Interconference duel with the Titans. In the second quarter the Eagles took the lead with kicker David Akers making a 25-yard field goal. But they trailed when QB Kerry Collins completed a 26-yard TD pass to WR Kenny Britt. The Eagles replied with QB Kevin Kolb making a 5-yard TD pass to WR Riley Cooper, followed by kicker David Akers hitting a 46-yard field goal. In the third quarter the Eagles increased their lead with Akers making a 46-yard field goal. The Titans answered with kicker Rob Bironas nailing a 41-yard field goal, but the Eagles continued to score in the 4th with Akers hitting a 28-yard field goal. Eventually, they fell behind with Collins completing an 80-yard TD pass to Britt, followed by Bironas hitting a 38-yard field goal. Collins found Britt for the third time in the game on a 16-yard TD pass, and then Bironas made a 33-yard field goal. The Eagles had more problems when Kolb's pass was intercepted by CB Cortland Finnegan and returned 41 yards for a touchdown. With the loss, the Eagles went into their bye week at 4-3. Andy Reid announced that Michael Vick would regain the starting quarterback position after the bye week, effectively ending any quarterback controversy",
+        "question": "How many total yards of field goals were made in the game?",
+        "answers_spans": {
+            "spans": [
+                "257"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "history_354",
+        "query_id": "ade15e55-2f09-4f89-82a3-80f3f23396e2",
+        "passage": "Following a series of invasions beginning shortly after their conquest of England in 1066, the Normans seized much of Wales and established quasi-independent Marcher lordships, owing allegiance to the English crown. However, Welsh principalities such as Gwynedd, Powys and Deheubarth survived and from the end of the 11th century, the Welsh began pushing back the Norman advance. Over the following century the Welsh recovery fluctuated and the English kings, notably Henry II, several times sought to conquer or establish suzerainty over the native Welsh principalities. Nevertheless, by the end of the 12th century the Marcher lordships were reduced to the south and south east of the country. The principality of Gwynedd was the dominant power in Wales in the first half of the 13th century, with Powys and Deheubarth becoming tributary states. Gwynedd's princes now assumed the title \"Prince of Wales\". But war with England in 1241 and 1245, followed by a dynastic dispute in the succession to the throne, weakened Gwynedd and allowed Henry III to seize Perfeddwlad . However, from 1256 a resurgent Gwynedd under Llywelyn ap Gruffudd  resumed the war with Henry and took back Perfeddwlad. By the Treaty of Montgomery of 1267, peace was restored and, in return for doing homage to the English king, Llywelyn was recognised as Prince of Wales and his re-conquest of Perfeddwlad was accepted by Henry. However, sporadic warfare between Llywelyn and some of the Marcher Lords, such as Gilbert de Clare, Roger Mortimer and Humphrey de Bohun continued.",
+        "question": "How many Welsh principalities survived?",
+        "answers_spans": {
+            "spans": [
+                "3"
+            ],
+            "types": [
+                "number"
+            ]
+        }
+    },
+    {
+        "section_id": "nfl_509",
+        "query_id": "f49932b3-ed0a-4469-a1a5-9d7e0d36400d",
+        "passage": "Following the aftermath of the team's loss to Dallas, the Bears turned to Brian Griese replace Rex Grossman. The change came in an attempt to protect the ball, and reduce turnovers. Nonetheless, the turnovers continued to haunt the team en route to a 37-27 loss against the Detroit Lions. The Lions took a first-quarter lead by blocking a Robbie Gould field-goal attempt, and then using the field position to score a field goal. The Bears' offense struggled to move the ball in the first quarter, and but began to pick up momentum in the second quarter. Griese threw a fifteen-yard touchdown to Muhsin Muhammad, but also threw two interceptions in two red zone visits. Jon Kitna and the Lions' top-tier passing offense exploited the Bears' injury-depleted secondary. He threw two touchdowns in the fourth quarter, to keep the Bears four points behind the Lions. Griese threw an interception to Keith Smith, who returned it for a touchdown. However, Devin Hester responded by returning the ensuing kickoff for a touchdown. The Lions established their running game later, and allowed Kevin Jones to score a rushing touchdown, sending the Lions up by ten again. Griese led the Bears downfield on the subsequent drive. After several unusual penalties and mishaps, the Griese threw a touchdown to Desmond Clark. Now trailing by three points, Gould attempted by an onside kick, but it was recovered and returned by Casey FitzSimmons, sealing the Bears' loss. The 34 points allowed in the fourth quarter by the Bears are the most in NFL history. Griese completed thirty-four of fifty-two passes for 286 yards, two touchdowns, and three interceptions in his first start as a Bear. The team's running game mustered a combined total of sixty-nine yards, ousted by the Lions' ninety-five yards. Both defenses unleashed equal punishment on their opposing quarterbacks, combining for a total of twelve quarterback sacks. The Lions' victory snapped their four-game losing streak against the Bears. Q1 - DET - 10:05 - Jason Hanson 49-yard FG (DET 3-0) Q2 - CHI - 4:16 - 15-yard TD pass from Brian Griese to Muhsin Muhammad (Robbie Gould kick) (CHI 7-3) Q3 - CHI - 5:08 - Robbie Gould 49-yard FG (CHI 10-3) Q3 - CHI - 0:49 - Robbie Gould 41-yard FG (CHI 13-3) Q4 - DET - 14:56 - 4-yard TD pass from Jon Kitna to Shaun McDonald (Hanson kick) (CHI 13-10) Q4 - DET - 13:14 - Keith Smith 64-yard interception return TD (Hanson kick) (DET 17-13) Q4 - CHI - 12:57 - Devin Hester 97-yard kickoff return TD (Gould kick) (CHI 20-17) Q4 - DET - 10:06 - 15-yard TD pass from Jon Kitna to Troy Walters (Hanson kick) (DET 24-20) Q4 - DET - 3:34 - Kevin Jones 5-yard TD run (kick failed) (DET 30-20) Q4 - CHI - 0:52 - 1-yard TD pass from Brian Griese to Desmond Clark (Gould kick) (DET 30-27) Q4 - DET - 0:45 - Casey FitzSimmons 41-yard kickoff return TD (Hanson kick) (DET 37-27)",
+        "question": "Which players caught 15 yard touchdown passes?",
+        "answers_spans": {
+            "spans": [
+                "Muhsin Muhammad",
+                "Troy Walters"
+            ],
+            "types": [
+                "span",
+                "span"
+            ]
+        }
+    },
+    {
+        "section_id": "history_464",
+        "query_id": "8f3aece3-cc04-43c2-a902-4d589ecdfc3a",
+        "passage": "The Black Death had killed an estimated one-third of the population of France from its appearance in 1348.  The concurrent Hundred Years' War slowed recovery.  It would be the early 16th century before the population recovered to mid-14th century levels. With an estimated population of 11 million in 1400, 20 million in the 17th century, and 28 million in 1789, until 1795 France was the most populated country in Europe  and the third most populous country in the world, behind only China and India. These demographic changes also led to a massive increase in urban populations, although on the whole France remained a profoundly rural country.  Paris was one of the most populated cities in Europe .  Other major French cities include Lyon, Rouen, Bordeaux, Toulouse, and Marseille. These centuries saw several periods of epidemics and crop failures due to wars and climatic change.  Between 1693 and 1694, France lost 6% of its population. In the extremely harsh winter of 1709, France lost 3.5% of its population. In the past 300 years, no period has been so proportionally deadly for the French, both World Wars included.",
+        "question": "Did France lose more of its population in 1693 and 1694 or the winter of 1709?",
+        "answers_spans": {
+            "spans": [
+                "1693 and 1694"
+            ],
+            "types": [
+                "span"
             ]
         }
     }

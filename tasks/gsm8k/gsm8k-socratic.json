@@ -1,0 +1,82 @@
+[
+    {
+        "question": "James streams on twitch.  He had 150 subscribers and then someone gifted 50 subscribers.  If he gets $9 a month per subscriber how much money does he make a month?",
+        "answer": "How many subscribers does James have now? ** He now has 150+50=<<150+50=200>>200 subscribers\nHow much money does James make a month? ** So he makes 200*9=$<<200*9=1800>>1800 a month\n#### 1800"
+    },
+    {
+        "question": "John buys 1.5 ounces of silver and twice as much gold.  The silver costs $20 per ounce.  The gold is 50 times more expensive per ounce.  How much does he spend on everything?",
+        "answer": "How much does the silver cost? ** He buys the silver for 1.5*$20=$<<1.5*20=30>>30\nHow much does the gold cost? ** He bought 1.5*2=<<1.5*2=3>>3 ounces of gold\nHow much is the gold worth? ** The gold is worth %20*50=$<<20*50=1000>>1000 per ounce\nHow much does he spend on gold? ** So he buys 3*$1000=$<<3*1000=3000>>3000 on gold\nHow much does he spend on everything? ** So he spent $30+$3000=$<<30+3000=3030>>3030 on everything\n#### 3030"
+    },
+    {
+        "question": "Donna can watch 8 episodes each day during weekdays. On each weekend day, she can watch three times the number of episodes she can watch on the weekdays. How many episodes can she watch in a week?",
+        "answer": "How many episodes can Donna watch during the weekdays? ** Donna can finish a total of 8 x 5 = <<8*5=40>>40 episodes during the weekdays.\nHow many episodes can Donna watch on the weekend? ** Meanwhile, she can finish 8 x 3 = <<8*3=24>>24 episodes each day during the weekend.\nHow many episodes can Donna watch on the weekend? ** The total number of episodes she can watch every weekend is 24 x 2 = <<24*2=48>>48\nHow many episodes can Donna watch in a week? ** Therefore, Donna can watch 40 + 48 = <<40+48=88>>88 episodes every week.\n#### 88"
+    },
+    {
+        "question": "Alice had 10 dozens of watermelons. She sold 40% of it yesterday and 1/4 of the remaining today, How many watermelons are left to be sold tomorrow?",
+        "answer": "How many watermelons are there? ** Ten dozens of watermelons are equal to 10 x 12 = <<10*12=120>>120 watermelons.\nHow many watermelons did Alice sell yesterday? ** Yesterday, Alice sold 120 x 40/100 = <<120*40/100=48>>48 watermelons.\nHow many watermelons are left today? ** So, there are only 120 - 48 = <<120-48=72>>72 watermelons left for today.\nHow many watermelons did Alice sell today? ** Today, Alice sold 72 x 1/4 = <<72*1/4=18>>18 watermelons.\nHow many watermelons are left to be sold tomorrow? ** Hence, 72 - 18 = <<72-18=54>>54 watermelons are left to be sold tomorrow.\n#### 54"
+    },
+    {
+        "question": "A magazine costs $3 each. Jewel bought 10 magazines to be sold at $3.50 each. How much will be Jewel gain from selling these?",
+        "answer": "How much will be Jewel gain from selling these? ** Jewel's gain for each magazine is $3.50 - $3 = $<<3.5-3=0.50>>0.50.\nHow much will be Jewel gain from selling these? ** Thus, her total gain will be $0.50 x 10 = $<<0.50*10=5>>5.\n#### 5"
+    },
+    {
+        "question": "Isaac cut his 30 meters ribbon into 6 equal parts. He then used 4 parts of the ribbon. How many meters of ribbon are not used?",
+        "answer": "How many meters is each part? ** Each part is 30/6 = <<30/6=5>>5 meters long.\nHow many meters of ribbon did Liam use? ** Since Liam used 4 parts, then he used 5 x 4 = <<4*5=20>>20 meters of the ribbon.\nHow many meters of ribbon are not used? ** So, 30 - 20 = <<30-20=10>>10 meters of ribbon is not used.\n#### 10"
+    },
+    {
+        "question": "Bailey is making a rectangle out of a 100cm length of rope he has. If the longer sides of the rectangle were 28cm long, what is the length of each of the shorter sides?",
+        "answer": "How long are the longer sides? ** The longer sides are 2 in number so their total length of 2*28cm = <<2*28=56>>56cm\nHow long are the shorter sides? ** The rest of the length making up the short sides is 100-56 = <<100-56=44>>44 cm\nHow long are the shorter sides? ** There are two equal short sides so each one is 44/2 = <<44/2=22>>22cm\n#### 22"
+    },
+    {
+        "question": "A yearly book sale is held in school where students can sell their old books at a cheaper price. Two-fifths of Lovely's books can be sold for $2.50 each and the rest for $2 each. How much will Lovely earn if all 10 books were sold?",
+        "answer": "How many books will Lovely sell for $2.50 each? ** Lovely will sell 10 x 2/5 = <<10*2/5=4>>4 books for $2.50 each.\nHow many books will Lovely sell for $2 each? ** She will sell 10 - 4 = <<10-4=6>>6 books for $2 each.\nHow much will Lovely earn from the 4 books at $2.50 each? ** Her earnings for the 4 books at $2.50 will be $2.50 x 4 = $<<2.5*4=10>>10.\nHow much will Lovely earn from the 6 books for $2 each? ** Her earnings for the 6 books for $2 each will be $2 x 6 = $<<2*6=12>>12.\nHow much will Lovely earn if all 10 books are sold? ** Thus, Lovely's total earning if all 10 books are sold is $10 + $12 = $22.\n#### 22"
+    },
+    {
+        "question": "Hank reads the newspaper every morning, 5 days a week for 30 minutes.  He reads part of a novel every evening, 5 days a week, for 1 hour.  He doubles his reading time on Saturday and Sundays.  How many minutes does Hank spend reading in 1 week?",
+        "answer": "How many minutes does Hank spend reading in the morning? ** He reads 30 minutes in the morning 5 days a week for a total of 30*5 = <<30*5=150>>150 minutes\nHow many minutes does Hank spend reading in the morning? ** He doubles his reading time on the weekends so 30*2 = <<30*2=60>>60 minutes per day\nHow many minutes does Hank spend reading in the morning? ** He reads 60 minutes on Saturday and Sunday in the mornings for a total of 60+60 = <<60+60=120>>120 minutes\nHow many minutes does Hank spend reading in the evening? ** He reads 1 hour in the evenings 5 days a week for a total of 1*5 = <<1*5=5>>5 hours\nHow many minutes does Hank spend reading in the evening? ** He doubles his reading time on the weekends so 1*2 = <<1*2=2>>2 hours per day\nHow many minutes does Hank spend reading in the evening? ** He reads 2 hours on Saturday and Sunday in the evenings for a total of 2+2 = <<2+2=4>>4 hours\nHow many minutes does Hank spend reading in 1 week? ** He read 5+4 = 9 hours which, when converted to minutes is 9*60 = 540 minutes\nHow many minutes does Hank spend reading in 1 week? ** He reads 150 minutes in the morning and 120 minutes in the evenings and 540 over the weekend for a total of 150+120+540 = 810 minutes in 1 week\n#### 810"
+    },
+    {
+        "question": "Bob grew corn in his garden this year and ended up with 50 bushels. This is way too much for him to eat, so he gave some of it away to his friends. His friend Terry took 8 bushels, while Jerry only took 3. He gave 12 bushels to his friend Linda, who runs a food pantry. His neighbor Stacy doesn't eat much corn, but she still accepted 21 ears of corn from him. If each bushel contained 14 ears of corn, how many ears of corn does Bob have left?",
+        "answer": "How many bushels of corn did Stacy take? ** Stacy took 21 ears of corn, there are 14 ears to a bushel, so she took 21 ears / 14 ears/bushel = <<21/14=1.5>>1.5 bushels of corn.\nHow many bushels of corn did Bob give away? ** In all, Bob gave away 8 bushels + 3 bushels + 12 bushels + 1.5 bushels = <<8+3+12+1.5=24.5>>24.5 bushels of corn.\nHow many bushels of corn does Bob have left? ** This leaves him with 50 bushels - 24.5 bushels = <<50-24.5=25.5>>25.5 bushels of corn.\nHow many ears of corn does Bob have left? ** At 14 ears of corn per bushel, Bob has 25.5 bushels * 14 ears per bushel = <<25.5*14=357>>357 ears of corn.\n#### 357"
+    },
+    {
+        "question": "Jangshe spent $610 on 7 pieces of clothing. One piece was $49 and another piece was $81. If the other pieces were all the same price, how many dollars was one of the other pieces?",
+        "answer": "How much did the other pieces cost in total? ** 610 - 49 = 561, and then 561 - 81 = 480\nHow many other pieces were there? ** There were 7 - 2 = <<7-2=5>>5 other pieces.\nHow much did the other pieces cost each? ** 480/5 = <<480/5=96>>96 dollars\nHow many dollars was one of the other pieces? ** The other 5 pieces cost $96 each.\n#### 96"
+    },
+    {
+        "question": "Jeff is collecting matchbox cars. He has twice as many cars as trucks. He has 60 total vehicles. How many trucks does he have?",
+        "answer": "How many trucks does Jeff have? ** The number of trucks + 2(number of trucks) = 60\nHow many trucks does Jeff have? ** Therefore 3(number of trucks) = 60\nHow many trucks does Jeff have? ** Number of trucks = 20 because 60 / 3 = <<60/3=20>>20\n#### 20"
+    },
+    {
+        "question": "The space station, Lupus-1, is an enormous spacecraft made up of three identical cylindrical structures that house the living quarters for the crew.   The three cylindrical structures are linked together by a series of tunnels that hold them together and allow the crew to move between cylinders.  Each cylindrical structure contains 12 bedrooms, 7 bathrooms, and several kitchens.  If the entire space station has 72 rooms, how many kitchens are there on the entire space station?",
+        "answer": "How many rooms are in each individual cylindrical structure? ** If there are 3 identical cylindrical structures, with a combined total of 72 rooms, then each individual cylindrical structure contains 72/3=<<72/3=24>>24 rooms.\nHow many kitchens are in each individual cylindrical structure? ** In each 24-room cylindrical structure, there are 24-12-7=<<24-12-7=5>>5 kitchens.\nHow many kitchens are on the entire space station? ** Thus, the entire, three-cylinder space station contains a total of 3*5=<<3*5=15>>15 kitchens.\n#### 15"
+    },
+    {
+        "question": "Three years ago, Rosie purchased an art piece for $4000. The same art piece will be three times as much in another three years. How much money will the art piece have increased by?",
+        "answer": "How much will the art piece be worth in another three years? ** If the art piece was bought at $4000, and its price in three years will be three times its buying price, it will be worth 3*$4000 = $12000 in another three years.\nHow much will the art piece have increased by? ** The price of the art piece will increase by $12000-$4000 = $<<12000-4000=8000>>8000\n#### 8000"
+    },
+    {
+        "question": "Mitchell has 30 pencils. He has 6 more pencils than Antonio. How many pencils does Mitchell and Antonio have together?",
+        "answer": "How many pencils does Antonio have? ** Antonio has 30-6 = <<30-6=24>>24 pencils\nHow many pencils do Mitchell and Antonio have together? ** Antonio and Mitchell have 24+30 = <<24+30=54>>54 pencils together.\n#### 54"
+    },
+    {
+        "question": "Amber is trying to decide if she wants to spend her $7 on candy or chips. She decides to buy the thing that she can get the most of. The bags of candy cost $1 and contain 12 ounces each. The bags of chips are $1.40 and contain 17 ounces each. How many ounces does she get if she buys the item that gives her the most?",
+        "answer": "How many bags of candy can she buy? ** She can buy 7 bags of candy because 7 / 1 = <<7/1=7>>7\nHow many bags of chips can she buy? ** She can buy 5 bags of chips because 7 / 1.4 = <<7/1.4=5>>5.\nHow many ounces of candy does she get? ** She gets 84 ounces of candy because 7 x 12 = <<7*12=84>>84\nHow many ounces of chips does she get? ** She gets 85 ounces of chips because 5 x 17 = <<5*17=85>>85\nHow many ounces does she get? ** The gets 85 ounces in food because 85 > 84\n#### 85"
+    },
+    {
+        "question": "Tommy is making steaks for his family. There are 5 of them in total. If each member wants one pound and the steaks are 20 ounces each, how many does he need to buy?",
+        "answer": "How many ounces are in each steak? ** He needs 80 ounces of steak because 5 x 16 = <<5*16=80>>80\nHow many steaks does he need? ** He need 4 steaks because 80 / 20 = <<80/20=4>>4\n#### 4"
+    },
+    {
+        "question": "It takes 15 mink skins to make a coat. Andy buys 30 minks and each mink has 6 babies, but half the total minks are set free by activists. How many coats can he make?",
+        "answer": "How many minks are there? ** First find the total number of baby minks: 30 minks * 6 babies/mink = <<30*6=180>>180 minks\nHow many minks are there? ** Add this to the number of adult minks: 180 minks + 30 minks = <<180+30=210>>210 minks\nHow many minks are set free? ** Then divide this number in half to find how many aren't set free: 210 minks / 2 = <<210/2=105>>105 minks\nHow many coats can Andy make? ** Then divide the remaining number of minks by the number of minks per coat to find the number of coats: 105 minks / 15 minks/coat = <<105/15=7>>7 coats\n#### 7"
+    },
+    {
+        "question": "Aaron has four brothers. If the number of Bennett's brothers is two less than twice the number of Aaron's brothers, what is the number of Bennett's brothers?",
+        "answer": "What is twice the number of Aaron's brothers? ** Twice the number of Aaron's brothers is 4*2=<<4*2=8>>8.\nWhat is the number of Bennett's brothers? ** Bennett has 8-2=<<8-2=6>>6 brothers.\n#### 6"
+    },
+    {
+        "question": "There are several cookies in the jar. Taking 1 cookie away would leave half as many in the jar as if 5 were added. How many cookies are in the jar?",
+        "answer": "Define a variable ** Let C be the number of cookies\nHow many cookies would there be if 1 were taken away? ** There would be C-1 cookies.\nWhat would half the number of cookies be if 5 were added? ** There would be (C+5)/2 cookies.\nWrite an equation ** C-1=(C+5)/2.\nMultiply by 2 ** 2(C-1)=C+5\nSimplify ** 2C-2=C+5\nSimplify ** C=<<7=7>>7\n#### 7"
+    }
+]

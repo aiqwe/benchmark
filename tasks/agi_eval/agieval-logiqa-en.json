@@ -1,66 +1,138 @@
 [
     {
-        "query": "Some uneducated people have become outstanding writers, and more outstanding writers have received college education.Excellent writers are all sensitive and imaginative people, and only sensitive and imaginative people can write works that are touching.Q: If the above statement is true, which of the following statements must be true? Answer Choices: (A)Only excellent writers can write touching works. (B)Some sensitive and imaginative writers are not excellent writers. (C)Writers who can write touching works are excellent writers. (D)Some sensitive and imaginative writers have not received college education.\nA: Among A through D, the answer is",
+        "query": "No computer can do everything the human brain can do, because some problems cannot be solved by running any mechanical program.Computers can only solve problems by running mechanical programs.Q: Which of the following statements is the assumption that the above discussion relies on? Answer Choices: (A)There is at least one problem that can be solved by running a mechanical program, but it cannot be solved by anyone's brain. (B)There is at least one problem.It cannot be solved by running any mechanical program, but it can be solved by at least one person's brain. (C)There is at least one problem that can be solved by running any mechanical program, but cannot be solved by anyone's brain. (D)Every problem can be solved by everyone's brain if it can be solved by running at least one mechanical program.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)F and H are in charge of the same department.",
-            "(B)F and I are in charge of the same department.",
-            "(C)I and P are in charge of the same department.",
-            "(D)M and G are in charge of the same department."
+            "(A)There is at least one problem that can be solved by running a mechanical program, but it cannot be solved by anyone's brain.",
+            "(B)There is at least one problem.It cannot be solved by running any mechanical program, but it can be solved by at least one person's brain.",
+            "(C)There is at least one problem that can be solved by running any mechanical program, but cannot be solved by anyone's brain.",
+            "(D)Every problem can be solved by everyone's brain if it can be solved by running at least one mechanical program."
+        ],
+        "gold": [
+            1
+        ]
+    },
+    {
+        "query": "The United States plans to establish a radar base in the Czech Republic, and it will form a missile shield with the missile base in Poland to deal with Iranian missile attacks.To this end, the United States and the Czech Republic signed two military agreements in 2008.Czech officials believe that the signing of the agreement will enable the Czech alliance with NATO allies to ensure the safety of the country with the best technical equipment.Q: If which of the following statements is true, can the Czech official's assertion be questioned the most? Answer Choices: (A)According to the agreement between the Czech Republic and the United States, the United States has the right to direct and manage its bases in the Czech Republic. (B)Most people in the Czech Republic opposed the establishment of an anti-missile radar base by the United States in the Czech Republic. (C)Most people in the Czech Republic believe that the establishment of an anti-missile radar base by the United States in the Czech Republic will seriously damage the safety and interests of local people. (D)The day the Czech Republic and the United States signed an agreement on radar bases, Russia claimed that Russian missiles were aimed at the base.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)According to the agreement between the Czech Republic and the United States, the United States has the right to direct and manage its bases in the Czech Republic.",
+            "(B)Most people in the Czech Republic opposed the establishment of an anti-missile radar base by the United States in the Czech Republic.",
+            "(C)Most people in the Czech Republic believe that the establishment of an anti-missile radar base by the United States in the Czech Republic will seriously damage the safety and interests of local people.",
+            "(D)The day the Czech Republic and the United States signed an agreement on radar bases, Russia claimed that Russian missiles were aimed at the base."
         ],
         "gold": [
             3
         ]
     },
     {
-        "query": "When a team travels to Tibet, in addition to Lhasa, there are 6 cities or scenic spots to choose from? City E, City F, Lake G, Mountain H, Mountain I, Lake J Taking into account factors such as time, funding, plateau environment, and physical condition of the personnel, (1) at least one of Lake G and Lake J should be visited.(2) If you don't go to E city or F city, you can't go to G lake.(3) If you don't go to E city, you can't go to H mountain.(4) Only when I cross the I peak can I reach Lake J.Q: If this team does not go to I Peak due to climate reasons, which of the following must be true? Answer Choices: (A)The group went to E city and J lake (B)The group went to city E instead of city F (C)The group went to visit G Lake and H Mountain (D)The group went to F city and G lake tour\nA: Among A through D, the answer is",
+        "query": "An editor is considering the issue of choosing the manuscript for the theoretical version of the newspaper.Six papers from E, F, G, J and K are available.Taking into account the content of the article, the layout of the newspaper and other factors.(1) If paper E is used, then paper F cannot be used but paper K must be used; (2) Paper G or paper H can only be used without paper J.(3) If you don't need thesis G, you don't need thesis K.(4) Essay E is a manuscript requested by a celebrity and cannot be used.Q: If the above items are true, which of the following items must be true? Answer Choices: (A)Paper E is used, but paper H is not used. (B)Both articles G and H are used. (C)No paper J, but paper K. (D)Both G and J articles are unnecessary.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)Scientists have a good understanding of the relationship between the housefly's genes and their vision.",
-            "(B)This housefly does not need other genes when generating UV vision cells.",
-            "(C)All types of house flies have ultraviolet vision.",
-            "(D)Except for the lack of UV vision cells, changing this gene has no other effect on house flies."
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "There are 7 candidates hired by Haier? F, G, H, I, W, X and Y.One of them needs to be assigned to the public relations department, three to the production department, and the other three to the sales department.The personnel allocation of these 7 employees must meet the following conditions? (1) H and Y must be allocated in the same department.(2) F and G cannot be allocated in the same department (3) If X is allocated in the sales department, W is allocated in the production department.(4) F must be allocated in the production department.Q: Which of the following lists is a complete and accurate list that cannot be assigned to the production department? Answer Choices: (A)F, I, X (B)G, H, Y (C)I, W (D)G\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)G and Y",
-            "(B)V and Y",
-            "(C)H and I",
-            "(D)I and Y"
-        ],
-        "gold": [
-            0
-        ]
-    },
-    {
-        "query": "In the past 12 months, the Shenzhen property market has experienced a thrilling decline.The average price of the property market has plummeted by 36%.If you count the crazy rise in the previous 18 months, the Shenzhen property market has been carrying Various people experienced a roller coaster-like dizziness.No one knows where the express train ends, and certainly no one knows how to get off.Q: If the above statement is true, which of the following statements must be false? Answer Choices: (A)No one knows where the express train ends, and no one knows how to get off. (B)Some people know where the express train ends, but all people do n’t know how to get off. (C)Some people do n’t know where the express train ends, and some people do n’t know how to get off. (D)No one knows where the express train ends, and some people do n’t know how to get off.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Only by suffering from the fear of being caught will you not steal things from others.",
-            "(B)For people who only live one day, the best course of action may be a meal of beef.",
-            "(C)The length of life is not a sufficient condition for a person to choose to do good or bad behavior.",
-            "(D)For some people who steal other people's things, conscience condemnation will cause greater pain than fear of seizing."
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "There are 7 heart disease patients E, F, G, H, I, J, K to be assigned to 4 doctors for treatment, they are Dr.Zhang, Dr.Li, Dr.Wang and Dr.Liu.Only one doctor is responsible for each patient, and each doctor is responsible for the treatment of up to two patients.Among the patients, J and K are children, and the remaining 5 are adults; E, F, and J are males, and the remaining 4 are females.The following conditions must be met? (1) Dr.Zhang is only responsible for treating male patients.(2) Dr.Li can only be responsible for the treatment of 1 patient.(3) If a doctor is responsible for treating a child patient, then he must be responsible for the treatment of an adult patient of the same sex as the child.Q: Based on the above conditions, which of the following must be true? Answer Choices: (A)Doctor F is responsible for treatment. (C)J is treated by Dr.Zhang. (B)C is treated by Dr.Liu. (D)H is treated by Dr.Wang.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)F",
-            "(B)G",
-            "(C)H",
-            "(D)L"
+            "(A)Paper E is used, but paper H is not used.",
+            "(B)Both articles G and H are used.",
+            "(C)No paper J, but paper K.",
+            "(D)Both G and J articles are unnecessary."
         ],
         "gold": [
             2
         ]
     },
     {
-        "query": "In the book \"Reflexive Life\", Nozick wrote? \"I will not be like Socrates, saying that unreflexive life is not worth it-it is too harsh.But if we Is led by thoughtful reflection, then it is the life we ​​live for ourselves, not others.In this sense, life without reflection is an incomplete life.\"Q: The following items can be derived from Nozick ’s statement, except Answer Choices: (A)Nozick thinks that the lives worth living are all through reflection. (B)Nozick believes that only life that lives for itself is a complete life. (C)Nozick believes that a complete life is a life through reflection. (D)Nozick believes that life without reflection is not a complete life.\nA: Among A through D, the answer is",
+        "query": "Companies created through venture capital financing have a lower failure rate than companies created through other channels.It can be seen that, compared with the personal qualities of entrepreneurs, company strategic planning or company management structure, financing channels are more important factors for the successful development of a new company.Q: If which of the following statements is true, will the above statement be weakened most effectively? Answer Choices: (A)About half of the new companies went bankrupt within 5 years of establishment. (B)The management structure of startups is usually not as reasonable as that of developing companies. (C)Compared with other investors, venture capitalists are more sensitive to changes in the financial needs of startups. (D)When deciding whether to fund startups, venture capitalists must consider the personal qualities of the entrepreneur, the company ’s strategic planning and other factors.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)About half of the new companies went bankrupt within 5 years of establishment.",
+            "(B)The management structure of startups is usually not as reasonable as that of developing companies.",
+            "(C)Compared with other investors, venture capitalists are more sensitive to changes in the financial needs of startups.",
+            "(D)When deciding whether to fund startups, venture capitalists must consider the personal qualities of the entrepreneur, the company ’s strategic planning and other factors."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "A street comprehensive governance committee has 6 members? F, G, H, I, M and P.Each of these members must be a member of at least one of the three sub-committees under the Comprehensive Governance Committee.Each sub-committee is composed of 3 different members.The known information is as follows? one of the six members serves as a member of three subcommittees.F is not a member of the same subcommittee as G.H is not a member of the same subcommittee as I.Q: If there is an I in the subcommittee where M serves, which of the following statements may be true? Answer Choices: (A)M is a member of each sub-committee. (B)1 Member of the two sub-committees. (C)I have I in the sub-committee where P serves. (D)F and M serve on the same subcommittee.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)M is a member of each sub-committee.",
+            "(B)1 Member of the two sub-committees.",
+            "(C)I have I in the sub-committee where P serves.",
+            "(D)F and M serve on the same subcommittee."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Those who protect freedom of thought argue that freedom of thought is a prerequisite for intellectual progress.Because freedom of thought allows thinkers to follow their own ideas regardless of who they offend and lead them in.However, a person must dig out sufficient connections related to certain ideas in order to promote intellectual progress.To this end, thinkers need to think about the law.Therefore, the argument about freedom of thought is untenable.Q: If any of the following statements, can the above conclusion be reached logically? Answer Choices: (A)In societies that protect freedom of thought, thinkers always lack the rules of thinking. (B)The thinker limits his line of thought to a certain orthodox thought, which will hinder their intellectual progress. (C)Freedom of thought can trigger creativity, and creativity can help discover truth. (D)Without the law of thought, thinkers cannot have freedom of thought.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)In societies that protect freedom of thought, thinkers always lack the rules of thinking.",
+            "(B)The thinker limits his line of thought to a certain orthodox thought, which will hinder their intellectual progress.",
+            "(C)Freedom of thought can trigger creativity, and creativity can help discover truth.",
+            "(D)Without the law of thought, thinkers cannot have freedom of thought."
+        ],
+        "gold": [
+            0
+        ]
+    },
+    {
+        "query": "There are many people in modern society who are fat, have a beer belly, and are seriously overweight because they often drink beer.Q: The answers to the following questions may question the above argument, except Answer Choices: (A)If people only drink beer and eat very few other things, especially meat, will they still gain weight? (B)Why do many women and children in the United States drink cola, eat fried chicken and pizza, and their weight is severely overweight? (C)In addition to drinking beer, do fat people regularly exercise? (D)Many obese people also smoke at the same time.Can they say \"smoking causes weight gain\"?\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)If people only drink beer and eat very few other things, especially meat, will they still gain weight?",
+            "(B)Why do many women and children in the United States drink cola, eat fried chicken and pizza, and their weight is severely overweight?",
+            "(C)In addition to drinking beer, do fat people regularly exercise?",
+            "(D)Many obese people also smoke at the same time.Can they say \"smoking causes weight gain\"?"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Scientists have found that the content of a protein called \"SK3\" in the brains of experimental rats of different ages is closely related to their memory ability? the brain content of SK3 protein in the brains of old experimental rats is higher, but the content in younger experimental rats is less; and Older rats have worse memory than younger rats.Therefore, scientists believe that increased brain SK3 protein content will lead to memory loss in the experimental mice.Q: Which of the following, if true, best supports the scientist ’s conclusion? Answer Choices: (A)In young experimental rats, it is also found that the brain SK3 protein content is high. (B)It has been found that the human brain also contains SK3 protein. (C)When the scientists tried to reduce the content of SK3 protein in the brains of old experimental mice, their memory improved. (D)Scientists have figured out the molecular structure of SK3 protein.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)In young experimental rats, it is also found that the brain SK3 protein content is high.",
+            "(B)It has been found that the human brain also contains SK3 protein.",
+            "(C)When the scientists tried to reduce the content of SK3 protein in the brains of old experimental mice, their memory improved.",
+            "(D)Scientists have figured out the molecular structure of SK3 protein."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "In a magic show, from the seven magicians-G.H.K.L.N.P and Q, choose 6 people to play, and the performance is divided into two teams? 1 team and 2 teams.Each team consists of three positions? front, middle, and back.The magicians on the field happen to occupy one position each.The choice and location of the magician must meet the following conditions? (1) If G or H is arranged to play, they must be in the front.Bit.(2) If K is scheduled to play, he must be in the middle.(3) If L is scheduled to play, he must be on team 1.(4) Neither P nor K can be in the same team as N.(5) P cannot be in the same team as Q.(6) If H is in team 2, Q is in the middle of team 1.Q: If G is in team 1, which pair of magicians can be in team 1? Answer Choices: (A)K and L (B)K and P (C)L and N (D)L and Q\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)K and L",
+            "(B)K and P",
+            "(C)L and N",
+            "(D)L and Q"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "A street comprehensive governance committee has 6 members? F, G, H, I, M and P.Each of these members must be a member of at least one of the three sub-committees under the Comprehensive Governance Committee.Each sub-committee is composed of 3 different members.The known information is as follows? one of the six members serves as a member of three subcommittees.F is not a member of the same subcommittee as G.H is not a member of the same subcommittee as I.Q: Which of the following statements may be true? Answer Choices: (A)F is a member of the three sub-committees. (B)H is a member of the three subcommittees. (C)G serves on the three sub-committees. (D)There are P in the subcommittees where I serve.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)F is a member of the three sub-committees.",
+            "(B)H is a member of the three subcommittees.",
+            "(C)G serves on the three sub-committees.",
+            "(D)There are P in the subcommittees where I serve."
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "There are seven recruits recruited at a university? F, G, H, I, W, X, and Y.One of them is a communications soldier, three are engineering soldiers, and the other three are transport soldiers.The conditions for the assignment of recruits to the army are as follows? H and Y must be assigned to the same arm.F and G cannot be assigned to the same arm.If X is assigned as a transport soldier, then W is assigned as an engineering soldier.Assign F as an engineering soldier.Q: If X is not assigned as an engineer, which of the following statements may be true? Answer Choices: (A)W and G are assigned as engineering soldiers (B)H and W are assigned as transport soldiers. (C)F and Y are assigned as engineering soldiers (D)H and W are assigned as engineering soldiers\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)W and G are assigned as engineering soldiers",
+            "(B)H and W are assigned as transport soldiers.",
+            "(C)F and Y are assigned as engineering soldiers",
+            "(D)H and W are assigned as engineering soldiers"
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "Clinical trials have shown that for people who occasionally consume a certain amount of beef jerky, most brands of beef jerky additives do not cause arterial hardening.Therefore, people can eat beef jerky without worrying about health effects.Q: Which of the following, if true, would most weaken the above argument? Answer Choices: (A)Eating large amounts of beef jerky is not conducive to arterial health. (B)Arterial health is not equal to physical health. (C)Meat contains substances harmful to the human body. (D)People who like to eat beef jerky often like to eat other foods that are harmful to arterial health.\nA: Among A through D, the answer is",
         "choices": [
             "(A)Eating large amounts of beef jerky is not conducive to arterial health.",
             "(B)Arterial health is not equal to physical health.",
@@ -68,172 +140,100 @@
             "(D)People who like to eat beef jerky often like to eat other foods that are harmful to arterial health."
         ],
         "gold": [
-            3
-        ]
-    },
-    {
-        "query": "At present, there are 3 kinds of genetically modified rice in China that are waiting for commercial planting approval, each of which involves at least 5-12 foreign patents; 5 kinds of genetically modified rice are in the process of research and development, each involving 10 foreign patents.Some experts believe that rice is China's main food crop.If China allows the commercial cultivation of genetically modified rice, the state's control over the main food crops may be threatened.Q: If any of the following statements are true, will the expert's view be most strongly supported? Answer Choices: (A)The advantage of transgenic rice is to resist specific pests, but rice in China rarely has these pests. (B)At present, there is no transgenic rice that can exceed the yield and quality of China's super rice, hybrid rice and other varieties. (C)After the introduction of genetically modified seeds in the United States, the prices of corn, cotton, soybeans and other seeds rose sharply. (D)If our country grows genetically modified rice commercially, foreign patent holders will ban our farmers from keeping seeds and force them to buy seeds at high prices every sowing season.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)G on the second day of duty",
-            "(B)P on duty in the second day",
-            "(C)K on duty in the first day",
-            "(D)H on duty at the first day"
-        ],
-        "gold": [
-            2
-        ]
-    },
-    {
-        "query": "Philosopher? In the 18th century, a paper on motion is absolute asserted that the change of an object's position over time can be measured without reference to the position of any other object.However, a well-respected physicist claimed that this paper is incoherent.Since an incoherent paper cannot be regarded as a description of reality, movement cannot be absolute.Q: Which of the following methods or techniques of argument does the philosopher use in his argument? Answer Choices: (A)Use professional terminology to convince others. (B)Rely on the authority of an expert to support a premise. (C)It is reasonable to use experimental results to illustrate the mentioned changes in location. (D)It is observed that something is a certain condition under experimental conditions, and it is also the case in any case when it is pushed out.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Is it possible to suppress the instinctive impulse by thinking deeply, this is the only difference between civilized people and barbarians or other animals",
-            "(B)Actions such as squirrel burying chestnuts and arctic fox burying bird eggs are purely instinct-driven actions",
-            "(C)The stronger the restraint of one's own instinct impulses, the greater the tolerance of the current pain, and therefore the higher the degree of civilization",
-            "(D)People not only suppress their instinctive impulses through their foresight, but also suppress their instinct impulses through external laws, customs and religions."
-        ],
-        "gold": [
-            2
-        ]
-    },
-    {
-        "query": "For listed companies, only companies with dividends can issue new stocks.However, if a company has a dividend, it does not need funds.If it needs financing, there is no way to pay dividends.Q: If the above statement is true, which of the following statements cannot be false? Answer Choices: (A)A listed company does not need financing, or is not a company with dividends. (B)A listed company needs financing, or a company without dividends. (C)A listed company does not need to issue new stocks, or is not a company with dividends. (D)The only way for a listed company to finance is to issue new stocks.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Being able to read literately does not mean being literate.",
-            "(B)Having extensive knowledge does not mean literacy.",
-            "(C)Culture means doing something, not doing something? a little intolerable thought is the root of living creatures; a period of inaction is a pillar of support.",
-            "(D)Culture is a sign that different people of different nationalities distinguish each other."
-        ],
-        "gold": [
             1
         ]
     },
     {
-        "query": "In the university, many moderate and generous teachers are good teachers, but some serious and non-sense teachers are also good teachers, and all good teachers have a common feature? they are all knowledgeable people.Q: If the above statement is true, which of the following statements must be true? Answer Choices: (A)Many knowledgeable teachers are gentle and generous. (B)Some knowledgeable teachers are serious and unsympathetic. (C)All knowledgeable teachers are good teachers. (D)Some knowledgeable teachers are not good teachers\nA: Among A through D, the answer is",
+        "query": "Economist? The personal income tax in the United States is a progressive tax, and the tax law is extremely complicated.People who want to pay taxes honestly often make mistakes in reporting because of misunderstandings; and those who deliberately avoid taxes always find loopholes in tax laws.Generally speaking, the size of tax avoidance space is directly proportional to the complexity of the tax system, and the level of tax avoidance capacity is directly proportional to the taxpayer's income level.Most of the tax avoidance space created by complex taxes will be used by the rich, making progressive taxation less than the degree of progress required by the tax law, and its function of regulating distribution is also greatly weakened.Q: If the following statement is true, which one provides the strongest support for economists' above argument? Answer Choices: (A)When filing taxes, 60% of the people in the United States need to hire professionals to report on their behalf, and 22% need to use tax reporting software to help them calculate. (B)The Americans proposed the idea of ​​\"abolishing the progressive tax rate and implementing a single tax rate\" in 1981. (C)From 1988 to 2006, the income of the richest one in the United States increased from 15% to 22% of the national income, but their average tax rate fell from 24% to 22.8%. (D)On September 17, 2011, the Wall Street movement broke out in the United States.Demonstrators claimed to represent 99 people in the United States to protest the greed and corruption of the financial industry and social injustice.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)Only black athletes can become track and field champions.",
-            "(B)All sprint kings are not yellow-skinned players.",
-            "(C)Most track and field champions are black athletes.",
-            "(D)If who is the king of sprint, whoever has the African-black descent."
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "The corpus callosum is a bundle of nerve fibers that connects the two hemispheres of the brain.On average, the corpus callosum of musicians is larger than that of non-musicians.Compared with adult non-musicians, adult musicians who started training at about 7 years old, the difference in corpus callosum in volume is particularly obvious.Therefore, music training, especially music training from an early age, can cause some changes in brain structure.Q: Which of the following is the assumption that the above argument relies on? Answer Choices: (A)Before the musicians start training, their corpus callosum is not larger than that of non-musicians of the same age. (B)Music training conducted late in life will not cause structural changes in the brain. (C)For any two musicians who started training from about 7 years old, their corpus callosum has almost the same volume. (D)Adult non-musicians did not participate in any activities that can promote the development of the corpus callosum in their childhood.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Chinese students participating in the questionnaire survey may not express their best wishes",
-            "(B)If Chinese students in North America cannot find a job when they return home, it will disappoint them",
-            "(C)67 ﹪ and 33 ﹪ add up to 100 ﹪, which means zero people want to stay and work in North America",
-            "(D)Among the Chinese students in North America, those who do not intend to return to work did not attend the job fair"
-        ],
-        "gold": [
-            3
-        ]
-    },
-    {
-        "query": "Five graduate students Zhang, Wang, Li, Zhao, and Liu graduated from a linguistics major in a college of arts of a university in 2014, and were hired by one of the three employers, Tianshu, Tianji, and Tianxuan, and at least one of them was hired by each unit.name.Known? (1) Li was hired by Tianshu; (2) Li and Zhao were not hired by the same unit; (3) Liu and Zhao were hired by the same unit; (4) If Zhang was hired by Tianxuan, then Wang Ye Was hired by Tianxuan.Q: Which of the following must be correct? Answer Choices: (A)Zhang and Wang were hired by the same unit. (B)Wang and Liu were hired by different units (C)Tianshu hired at most two people. (D)Tianshu and Tianxuan employ the same number of people.\nA: Among A through D, the answer is",
-        "choices": [
-            "A No dangshen",
-            "B No Shouwu",
-            "C 有 白 术",
-            "D 不 白 术"
+            "(A)When filing taxes, 60% of the people in the United States need to hire professionals to report on their behalf, and 22% need to use tax reporting software to help them calculate.",
+            "(B)The Americans proposed the idea of ​​\"abolishing the progressive tax rate and implementing a single tax rate\" in 1981.",
+            "(C)From 1988 to 2006, the income of the richest one in the United States increased from 15% to 22% of the national income, but their average tax rate fell from 24% to 22.8%.",
+            "(D)On September 17, 2011, the Wall Street movement broke out in the United States.Demonstrators claimed to represent 99 people in the United States to protest the greed and corruption of the financial industry and social injustice."
         ],
         "gold": [
             2
         ]
     },
     {
-        "query": "According to statistics, the number of people dying of hunger in the world is as high as 10 million a year, and the Chinese waste about 8 million tons of food on the table every year, which is supposed to be the ration of 1.1 billion people a year.This means that if we can effectively eliminate food waste on the table, we can save millions of hungry people.Q: If the following statement is true, which one is most appropriate to challenge the above conclusion? Answer Choices: (A)Bad weather causes food prices to fluctuate, exacerbating the problem of hunger (B)Today's agricultural development level has been able to protect the world's people from hunger from a total amount (C)Consumption can promote economic development, and one way for the rich to help the poor is to increase waste (D)Eliminating food waste is only a favorable condition to solve the problem of hunger\nA: Among A through D, the answer is",
+        "query": "Most people think that the thinking of scientists is based on strict logical reasoning, not on image thinking means such as analogy, intuition, and epiphany.However, research shows that Nobel Prize winners make more use of these image thinking methods than general scientists.Therefore, image thinking methods help to achieve major scientific breakthroughs.Q: The above conclusion is based on which of the following assumptions? Answer Choices: (A)Organized, step-by-step reasoning is essential for general scientific research. (B)Nobel Prize winners have the ability to think creatively through analogy, intuition, and insight. (C)Nobel winners have made major scientific breakthroughs. (D)Nobel Prize winners are smarter and harder than ordinary scientists.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)Cars drive faster on long streets than on short streets, so pedestrians on long streets are more dangerous than pedestrians on short streets.",
-            "(B)Many people who later become entrepreneurs often participate in competitive sports when they are in college.Therefore, participation in competitive sports must promote the ability to make people entrepreneurs.",
-            "(C)The petals of mulberry chrysanthemum will be closed at noon, so the petals of mulberry chrysanthemum will definitely open at night.",
-            "(D)The events in Eastern Europe will affect the political situation in Central America, so the liberalization of Eastern Europe will lead to the liberalization of Central America."
+            "(A)Organized, step-by-step reasoning is essential for general scientific research.",
+            "(B)Nobel Prize winners have the ability to think creatively through analogy, intuition, and insight.",
+            "(C)Nobel winners have made major scientific breakthroughs.",
+            "(D)Nobel Prize winners are smarter and harder than ordinary scientists."
         ],
         "gold": [
             2
         ]
     },
     {
-        "query": "Since 1993, sand and dust storms have frequently occurred in the Inner Mongolia region of our country, causing major economic losses.Some people think that sand and dust storms are caused by grassland degradation and desertification caused by climate drought.They are natural disasters, so they are inevitable.Q: If the following items are true, can the above opinions be questioned, except? Answer Choices: (A)In the 1950s, grass in Xilin Gol grassland in Inner Mongolia was as tall as a horse's belly, and now grass can't even cover mice. (B)Opposite the degraded grasslands of Hulunbeier and Xilinguole in Inner Mongolia, the grasslands of Mongolian grassland are about 1 meter high. (C)On the almost uninhabited border line of 10 kilometers wide between China and Mongolia, grass still maintains the height of the 1950s. (D)The increase in dust storms is mainly due to human factors such as overloaded grazing and predatory management of grasslands.\nA: Among A through D, the answer is",
+        "query": "The basis of life-the main component of protein is an amino acid molecule.It is an organic molecule.Although people have not directly observed amino acid molecules in cosmic space, scientists have used hydrogen, water, oxygen, methane and formaldehyde in the laboratory to simulate the natural conditions of space.Kinds of amino acids.The raw materials used to synthesize amino acids are abundant in interstellar molecules.It is not difficult to imagine that there must also be amino acid molecules in the universe.As long as there is an appropriate environment, they may be transformed into proteins and further develop into organic life.According to this speculation, there are living bodies on other planets than the earth, and may even be living bodies with higher intelligence.Q: Which of the following is true to best refute the above speculation? Answer Choices: (A)There is a huge difference between the process of developing from protein to organic life and the process from organic molecules to protein (B)Higher intelligence is not only a product of material evolution, but also a product of continuous socialization (C)In the natural environment, the synthesis of amino acid molecules from existing interstellar molecules is a small probability event (D)Some interstellar molecules are not found in the Earth ’s environment, and they are still not available in the laboratory\nA: Among A through D, the answer is",
         "choices": [
-            "(A)If independent directors challenge the company's board of directors to protect the interests of minority shareholders, the result is often dismissed by the company's board of directors.",
-            "(B)Some independent directors dare to protect the interests of minority shareholders, despite the great pressure.",
-            "(C)At present, the independent director system of Chinese listed companies is not yet perfect.",
-            "(D)Many retired senior officials have served as independent directors of Chinese listed companies."
-        ],
-        "gold": [
-            3
-        ]
-    },
-    {
-        "query": "There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.Q: If X is an accompaniment to L and H, which of the following statements must be true? Answer Choices: (A)W is K accompaniment. (B)Y is F accompaniment. (C)G and K are accompanied by the same accompaniment. (D)F and M are accompanied by the same accompaniment.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Tianxuan hired 3 people.",
-            "(B)Li's employer only hired him.",
-            "(C)Wang was hired by Tianxuan.",
-            "(D)Zhang was hired by Tianxuan."
+            "(A)There is a huge difference between the process of developing from protein to organic life and the process from organic molecules to protein",
+            "(B)Higher intelligence is not only a product of material evolution, but also a product of continuous socialization",
+            "(C)In the natural environment, the synthesis of amino acid molecules from existing interstellar molecules is a small probability event",
+            "(D)Some interstellar molecules are not found in the Earth ’s environment, and they are still not available in the laboratory"
         ],
         "gold": [
             0
         ]
     },
     {
-        "query": "Confucius said? \"Do not do what you don't want to do to others.\"Q: Which of the following options is not a logical inference from the above sentence? Answer Choices: (A)Only those who do what they want can do it to others. (B)If you want, then give it to others. (C)Don't treat others unless you want to. (D)Whatever is applied to people should be what they want.\nA: Among A through D, the answer is",
+        "query": "Seven security guards of Zhao, Qian, Sun, Li, Wu, Zheng, and Wang take turns on a night shift every week.In terms of duty time.It is known that Zhao is one day later than Sun; Li is two days later than Wu; Qian is three days earlier than Wang; Zheng is between Qian and Sun, and is on Thursday.Q: Based on the above questions, which of the following options for night duty is true? Answer Choices: (A)Wu on Sunday. (C)The money is on Tuesday. (B)Lee is on Tuesday. (D)Sun is on Friday.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)3.8 billion years ago, the earth ’s atmosphere could retain significantly more heat than the current atmosphere.",
-            "(B)The liquid water that appeared on the earth 3.8 billion years ago later froze again, and only re-melted about 2 billion years ago.",
-            "(C)About 2 billion years ago, a powerful heat source that did not come from the sun melted large chunks of ice on the earth.",
-            "(D)There is evidence that certain areas of the ocean have been frozen until a period later than 2 billion years ago."
+            "(A)Wu on Sunday.",
+            "(C)The money is on Tuesday.",
+            "(B)Lee is on Tuesday.",
+            "(D)Sun is on Friday."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "There are 6 rectangular vegetable ponds of the same size in a plastic greenhouse, arranged in order from left to right? 1, 2, 3, 4, 5 and 6.And No.1 and No.6 are not adjacent.There are exactly 6 kinds of vegetables that need to be planted in the greenhouse? Q, L, H, x, S and Y.Each vegetable pond can only grow one of them.The planting arrangement must meet the following conditions? Q is planted in a vegetable pond on the left side of H.X species are in No.1 or No.6 vegetable ponds.No.3 vegetable pond is planted with Y or s.L is planted right next to S.Q: If s is planted in an even-numbered vegetable pool, which of the following statements must be true? Answer Choices: (A)L is planted next to the left of S. (B)H is planted right next to S. (C)Y is planted next to the left of S. (D)x planted right next to S.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)L is planted next to the left of S.",
+            "(B)H is planted right next to S.",
+            "(C)Y is planted next to the left of S.",
+            "(D)x planted right next to S."
+        ],
+        "gold": [
+            2
+        ]
+    },
+    {
+        "query": "All landscape rooms can see the landscape, but Li Wenbing's family can't see the landscape.Therefore, Li Wenbing's family is not a landscape room.Q: Which of the following is most similar to the above argument? Answer Choices: (A)Kind people will be respected by the villagers, Chenggong who is kind and charitable will be respected by the villagers, so Chenggong is a kind person (B)Vegetables in Dongdun Market are very cheap.This basket of vegetables is not bought in Dongdun Market.Therefore, this basket of vegetables is not cheap (C)Employees of Jiutian Company can speak English, Lin Yingrui is an employee of Jiutian Company, therefore, Lin Yingrui can speak English (D)Anyone who meets the basic conditions can apply for a small loan.Sun Wen did not apply for a small loan.Therefore, Sun Wen did not meet the basic conditions\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)Kind people will be respected by the villagers, Chenggong who is kind and charitable will be respected by the villagers, so Chenggong is a kind person",
+            "(B)Vegetables in Dongdun Market are very cheap.This basket of vegetables is not bought in Dongdun Market.Therefore, this basket of vegetables is not cheap",
+            "(C)Employees of Jiutian Company can speak English, Lin Yingrui is an employee of Jiutian Company, therefore, Lin Yingrui can speak English",
+            "(D)Anyone who meets the basic conditions can apply for a small loan.Sun Wen did not apply for a small loan.Therefore, Sun Wen did not meet the basic conditions"
+        ],
+        "gold": [
+            3
+        ]
+    },
+    {
+        "query": "No notochords are catheter animals, and all pterosaurs are catheter animals.Therefore, no pterosaurs belong to the great ape family.Q: Which of the following statements must be assumed in the above reasoning? Answer Choices: (A)All great apes are catheter animals. (B)All great apes are notochords. (C)No great apes are notochords. (D)No notochord is pterosaur.\nA: Among A through D, the answer is",
+        "choices": [
+            "(A)All great apes are catheter animals.",
+            "(B)All great apes are notochords.",
+            "(C)No great apes are notochords.",
+            "(D)No notochord is pterosaur."
         ],
         "gold": [
             1
         ]
     },
     {
-        "query": "There are six switches S, T, W, X, Y, and Z in a circuit.The following conditions must be met when using these switches? (1) If W is on, then X must be on; (2) Only off Turn on S to turn off T; (3) T and X cannot be connected at the same time, nor can they be turned off at the same time; (4) If Y and Z are turned on at the same time, then W must also be turned on.Q: If S and Z are now connected at the same time, which of the following must be true? Answer Choices: (A)T is the on state and Y is the off state. (C)Both T and Y are off. (B)Both W and T are on. (D)X is the on state and Y is the off state.\nA: Among A through D, the answer is",
+        "query": "As the price of oil rose, the country raised the sales price of gasoline and other refined oil, which led to an increase in taxi operating costs and a decrease in driver income.The survey shows that more than 95% of taxi drivers in Beijing object to the increase in taxi prices because the price increase will lead to a decrease in passengers.Q: Which of the following, if true, can explain this seemingly contradictory attitude of Beijing taxi drivers? Answer Choices: (A)Taxi drivers hope to reduce the monthly rent paid to taxi companies, thereby eliminating the impact of rising oil prices. (B)The survey shows that all consumers are opposed to taxi price increases. (C)The monthly ticket price of Beijing's buses has been raised, but the price of ordinary tickets has remained unchanged. (D)The increase in taxi prices makes the cost of rising oil prices entirely borne by consumers.\nA: Among A through D, the answer is",
         "choices": [
-            "(A)If the result of an experiment is correct, then the experiment under the same conditions should yield the same result.",
-            "(B)Since the initial experiment was not recorded in sufficient detail, it is unlikely to repeat this experiment completely.",
-            "(C)Repeating the experiment will not cause problematic results due to the wrong measurement method as the original experiment.",
-            "(D)The initial experimental results made a theoretical principle questionable, and the basis of the principle itself is insufficient."
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "There are seven recruits recruited at a university? F, G, H, I, W, X, and Y.One of them is a communications soldier, three are engineering soldiers, and the other three are transport soldiers.The conditions for the assignment of recruits to the army are as follows? H and Y must be assigned to the same arm.F and G cannot be assigned to the same arm.If X is assigned as a transport soldier, then W is assigned as an engineering soldier.Assign F as an engineering soldier.Q: Which of the following recruits cannot be assigned as transport soldiers together? Answer Choices: (A)G and I (B)G and X (C)G and Y (D)H and W\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)It relies on an unconfirmed assumption? 90% of university teachers who often work until 2am are severe insomniacs.",
-            "(B)It does not take this situation into consideration? Zhang Hong may belong to those 10% of people who work regularly until 2am without suffering from severe insomnia.",
-            "(C)It does not take into account this situation? In addition to working regularly until 2 am, there are other causes of severe insomnia for university teachers.",
-            "(D)It relies on an unconfirmed hypothesis? Working regularly until 2 am is the only reason people suffer from severe insomnia."
-        ],
-        "gold": [
-            0
-        ]
-    },
-    {
-        "query": "Because the conclusion of quantum theory violates intuition, some scientists have different views on this theory.Although they try to strictly indicate that the assertion of quantum theory is inaccurate (that is, try to strictly falsify it), they find that the error lies in Usually within the acceptable statistical range.These results of quantum theory are different from those of competing theories, which makes it reasonable to accept quantum theory.Q: Which of the following principles is most helpful to show the rationality of the above reasoning? Answer Choices: (A)A theory should not be considered reasonable before it is tried to strictly falsify (B)Only if the assertion of a theory has not been falsified by experiments can this theory be accepted. (C)If a scientific theory violates intuitive conclusions less than competing theories, then it should be accepted (D)If you try to strictly falsify a theory, but the theory has withstood all the tests, then you should accept it\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)There are more Koreans who support Li Mingbo's visit to Dokdo than those who do not.",
-            "(B)After Li Mingbo visited Dokdo, some people who did not support him now turned to support him.",
-            "(C)Koreans who supported Li Mingbo before August 10, 2012 now continue to support him.",
-            "(D)Li Mingbo's visit to Dokdo is the reason for his increased support rate o"
-        ],
-        "gold": [
-            1
-        ]
-    },
-    {
-        "query": "Ancient Greek philosophers said that life without reflection is worthless.Q: Which of the following options is the closest to the meaning of this maxim? Answer Choices: (A)Only after introspection can life be of value. (B)To be valuable in life, we must reflect on it from time to time. (C)I'm confused for a lifetime. (D)People should live to understand.\nA: Among A through D, the answer is",
-        "choices": [
-            "(A)Signal soldier? W; Engineer soldier? F, H and Y; Transport soldier? G, I and X.",
-            "(B)Signal soldier? W; Engineer soldier? G, I and X; Transport soldier? F, H and Y.",
-            "(C)Signal soldier? X; Engineer soldier? F, G and H; Transport soldier? I, Y and W.",
-            "(D)Signal soldier? X; Engineer soldier? F, I and W; Transport soldier? G, H and Y"
+            "(A)Taxi drivers hope to reduce the monthly rent paid to taxi companies, thereby eliminating the impact of rising oil prices.",
+            "(B)The survey shows that all consumers are opposed to taxi price increases.",
+            "(C)The monthly ticket price of Beijing's buses has been raised, but the price of ordinary tickets has remained unchanged.",
+            "(D)The increase in taxi prices makes the cost of rising oil prices entirely borne by consumers."
         ],
         "gold": [
             0

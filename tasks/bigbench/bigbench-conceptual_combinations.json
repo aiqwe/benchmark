@@ -1,186 +1,15 @@
 [
     {
-        "idx": 4,
-        "inputs": "Concept: Long shorts. Question: Which of the following sentences best characterizes long shorts?\n option: Long shorts are risky.\n option: Long shorts end at the knee.\n option: Long shorts are made with extra water.\n option: Long shorts are too revealing.\nAnswer:",
-        "targets": [
-            "Pointless points make bad arguments."
-        ],
-        "multiple_choice_targets": [
-            "Empty stores lose money.",
-            "Empty stores make money.",
-            "Empty stores are crowded.",
-            "Empty stores are light."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 2,
-        "inputs": "The word 'brillig' is an adjective for things that reflect very little light. Question: Which of the following sentences best characterizes brillig signboards?\n option: Brillig signboards are easy to see at night.\n option: Brillig signboards get very hot under direct sunlight.\n option: Brillig signboards are brightly coloured.\n option: Brillig signboards are very popular with advertisers.\nAnswer:",
-        "targets": [
-            "Long shorts end at the knee."
-        ],
-        "multiple_choice_targets": [
-            "Klambo drobbs are safety gear.",
-            "Klambo drobbs are painful.",
-            "Bets can be placed on klambo drobbs.",
-            "Klambo drobbs are made of wood."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 9,
-        "inputs": "The word 'plitter' means an object that flies by flapping wings, and the word 'nith' means an object that has no feathers. Question: Which of the following sentences best characterizes plitter niths?\n option: Bats are plitter niths.\n option: Plitter niths are lighter than air.\n option: Aeroplanes are plitter niths.\n option: No insect is a plitter nith.\nAnswer:",
-        "targets": [
-            "In man-bites-dog world, men have sharp teeth and dogs are docile."
-        ],
-        "multiple_choice_targets": [
-            "Hissing tires are unsafe for driving.",
-            "Hissing tires disapprove of your driving.",
-            "Hissing tires are designed by sound engineers.",
-            "Hissing tires are to be expected in warm weather."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 1,
-        "inputs": "Concept: weighted dice. Question: Which of the following sentences best characterizes weighted dice?\n option: Weighted dice are too heavy for children to lift.\n option: Weighted dice bounce less than unweighted dice.\n option: Weighted dice are good for building muscle.\n option: Weighted dice are used by dishonest players.\nAnswer:",
-        "targets": [
-            "Turbulent peace is short-lived."
-        ],
-        "multiple_choice_targets": [
-            "Russian novels are written in Russian.",
-            "Russian novels are communist.",
-            "Russian novels are cold in the winter.",
-            "Russian novels are unfinished."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 30,
-        "inputs": "Concept: weighted dice. Question: Which of the following sentences best characterizes weighted dice?\n option: Weighted dice are too heavy for children to lift.\n option: Weighted dice bounce less than unweighted dice.\n option: Weighted dice are good for building muscle.\n option: Weighted dice are used by dishonest players.\nAnswer:",
-        "targets": [
-            "Wooden deer do not run away from hunters."
-        ],
-        "multiple_choice_targets": [
-            "Empty stores lose money.",
-            "Empty stores make money.",
-            "Empty stores are crowded.",
-            "Empty stores are light."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 0,
-        "inputs": "Concept: pointless point. Question: Which of the following sentences best characterizes pointless points?\n option: Pointless points are not pointy enough.\n option: Pointless points win basketball matches.\n option: Pointless points are important for punctuation.\n option: Pointless points make bad arguments.\nAnswer:",
-        "targets": [
-            "Boulder-sized diamonds would be extremely valuable."
-        ],
-        "multiple_choice_targets": [
-            "Pretty ugly people are homely.",
-            "Pretty ugly people are pretty.",
-            "Pretty ugly people are dangerous.",
-            "Pretty ugly people are morally corrupt."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "The word 'brillig' is an adjective for things that reflect very little light. Question: Which of the following sentences best characterizes brillig signboards?\n option: Brillig signboards are easy to see at night.\n option: Brillig signboards get very hot under direct sunlight.\n option: Brillig signboards are brightly coloured.\n option: Brillig signboards are very popular with advertisers.\nAnswer:",
-        "targets": [
-            "Nuclear plants use uranium to make electricity."
-        ],
-        "multiple_choice_targets": [
-            "Moving definitions change often.",
-            "Moving definitions can be very fast.",
-            "Moving definitions define movements.",
-            "Moving definitions can be expensive."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 6,
+        "idx": 10,
         "inputs": "Concept: ancient saws. Question: Which of the following sentences best characterizes ancient saws?\n option: Ancient saws are rusty.\n option: Ancient saws are wise.\n option: Ancient saws are precious.\n option: Ancient saws are sharp.\nAnswer:",
         "targets": [
-            "Boulder-sized diamonds would be extremely valuable."
+            "Ancient saws are rusty."
         ],
         "multiple_choice_targets": [
-            "Massage and exercise elicit good pain.",
-            "Good pain is always bad.",
-            "Medieval torture elicits good pain.",
-            "Getting punched by an angel elicits good pain."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 24,
-        "inputs": "The word 'frabgous' is an adjective for things that are joyous and respectful. Question: Which of the following sentences best characterizes frabjous funerals?\n option: New Orleans is known for its frabgous funerals.\n option: People in frabgous funerals laugh at the deceased.\n option: Frabgous funerals are sad and boring.\n option: People go to frabgous funerals to club.\nAnswer:",
-        "targets": [
-            "Diqua plates are usually broken."
-        ],
-        "multiple_choice_targets": [
-            "In mirrored world, right and left are reversed.",
-            "In mirrored world, people like to look at themselves in mirrors.",
-            "In mirrored world, mirrors do not exist.",
-            "In mirrored world, mirrors are very expensive."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 11,
-        "inputs": "Concept: Sinless sinner. Question: Which of the following sentences best characterizes sinless sinners?\n option: Sinless sinners are letters of the alphabet.\n option: Sinless sinners have no clue.\n option: No one can be a sinless sinner.\n option: Sinless sinners can be venial or capital.\nAnswer:",
-        "targets": [
-            "Moving definitions change often."
-        ],
-        "multiple_choice_targets": [
-            "Message threads contain multiple messages produced in sequence.",
-            "Message threads should be held between two fingers.",
-            "Message threads are useful for sewing.",
-            "Message threads can be tied into knots."
+            "Ancient saws are rusty.",
+            "Ancient saws are sharp.",
+            "Ancient saws are precious.",
+            "Ancient saws are wise."
         ],
         "multiple_choice_scores": [
             1,
@@ -191,34 +20,15 @@
     },
     {
         "idx": 10,
-        "inputs": "Concept: message threads. Question: Which of the following sentences best characterizes message threads?\n option: Message threads can be tied into knots.\n option: Message threads should be held between two fingers.\n option: Message threads are useful for sewing.\n option: Message threads contain multiple messages produced in sequence.\nAnswer:",
+        "inputs": "The word 'frumious' is an adjective for things that are very threatening. Question: Which of the following sentences best characterizes frumious pets?\n option: Frumious pets are great companions for little children.\n option: Most people prefer frumious pets over puppies.\n option: Frumious pets are easy to recycle.\n option: If you want a frumious pet, a rattlesnake is a good choice.\nAnswer:",
         "targets": [
-            "Pretty ugly people are homely."
+            "If you want a frumious pet, a rattlesnake is a good choice."
         ],
         "multiple_choice_targets": [
-            "Boulder-sized diamonds would be extremely valuable.",
-            "Boulder-sized diamonds are desirable in engagement rings.",
-            "Boulder-sized diamonds are diamond-shaped rocks.",
-            "Boulder-sized diamonds are found on ski hills."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 3,
-        "inputs": "The word 'dax' is an adjective for things designed to have big holes in their surfaces. Question: Which of the following sentences best characterizes dax chairs?\n option: Dax chairs do not sell well.\n option: The value of dax chairs depends on investor confidence.\n option: Dax chairs are comfortable.\n option: Dax chairs have many responsibilities.\nAnswer:",
-        "targets": [
-            "In mirrored world, right and left are reversed."
-        ],
-        "multiple_choice_targets": [
-            "Russian novels are written in Russian.",
-            "Russian novels are communist.",
-            "Russian novels are cold in the winter.",
-            "Russian novels are unfinished."
+            "If you want a frumious pet, a rattlesnake is a good choice.",
+            "Frumious pets are great companions for little children.",
+            "Frumious pets are easy to recycle.",
+            "Most people prefer frumious pets over puppies."
         ],
         "multiple_choice_scores": [
             1,
@@ -229,15 +39,15 @@
     },
     {
         "idx": 0,
-        "inputs": "Concept: angry bosses. Question: Which of the following sentences best characterizes angry bosses?\n option: Angry bosses is a fun game.\n option: Angry bosses sting employees.\n option: Angry bosses are itchy.\n option: Angry bosses reprimand employees.\nAnswer:",
+        "inputs": "The word 'binne' means any animal that is furry and has four legs, and the word 'bam' means a simple sort of dwelling. Question: Which of the following sentences best characterizes binne bams?\n option: Binne bams are luxurious apartments.\n option: Binne bams are typically furnished with sofas and televisions.\n option: Binne bams are for pets.\n option: Binne bams are places where people live.\nAnswer:",
         "targets": [
-            "Tumbling gymnasts require plenty of floor space"
+            "Binne bams are for pets."
         ],
         "multiple_choice_targets": [
-            "Vart husbands always take out the garbage.",
-            "Vart husbands are very handsome.",
-            "Vart husbands write bad cheques.",
-            "Vart husbands cheat on their wives."
+            "Binne bams are for pets.",
+            "Binne bams are typically furnished with sofas and televisions.",
+            "Binne bams are luxurious apartments.",
+            "Binne bams are places where people live."
         ],
         "multiple_choice_scores": [
             1,
@@ -247,16 +57,16 @@
         ]
     },
     {
-        "idx": 3,
-        "inputs": "The word 'dax' is an adjective for things designed to have big holes in their surfaces. Question: Which of the following sentences best characterizes dax chairs?\n option: Dax chairs do not sell well.\n option: The value of dax chairs depends on investor confidence.\n option: Dax chairs are comfortable.\n option: Dax chairs have many responsibilities.\nAnswer:",
+        "idx": 32,
+        "inputs": "Concept: cheating cyclists. Question: Which of the following sentences best characterizes cheating cyclists?\n option: Cheating cyclists have extramarital affairs.\n option: Cheating cyclists use performance-enhancing drugs.\n option: Cheating cyclists carry their bicycles.\n option: Cheating cyclists use loaded dice.\nAnswer:",
         "targets": [
-            "Uncaged canaries live in South America."
+            "Cheating cyclists use performance-enhancing drugs."
         ],
         "multiple_choice_targets": [
-            "Gogg zazzes are helpful when reading fine print.",
-            "Gogg zazzes are used by weightlifters.",
-            "Coffee is served in gogg zazzes.",
-            "Gogg zazzes are bullet proof."
+            "Cheating cyclists use performance-enhancing drugs.",
+            "Cheating cyclists use loaded dice.",
+            "Cheating cyclists have extramarital affairs.",
+            "Cheating cyclists carry their bicycles."
         ],
         "multiple_choice_scores": [
             1,
@@ -266,29 +76,10 @@
         ]
     },
     {
-        "idx": 7,
-        "inputs": "The word 'guphe' is an adjective for things that are from central Europe. Question: Which of the following sentences best characterizes guphe Poles?\n option: Guphe Poles are used for catching fish.\n option: The ozone layer is thinner at the guphe Poles.\n option: Batteries have guphe Poles.\n option: Most guphe Poles are Catholic.\nAnswer:",
+        "idx": 8,
+        "inputs": "Concept: confident doubter. Question: Which of the following sentences best characterizes confident doubters?\n option: Confident doubters are easy to persuade.\n option: Confident doubters are secure in their mistrust.\n option: Confident doubters are debatable.\n option: Confident doubters are good confidants.\nAnswer:",
         "targets": [
-            "Boulder-sized diamonds would be extremely valuable."
-        ],
-        "multiple_choice_targets": [
-            "Tumbling gymnasts require plenty of floor space",
-            "Tumbling gymnasts are likely to have tripped over something.",
-            "Tumbling gymnasts are typically clumsy",
-            "Tumbling gymnasts work best on a warm cycle"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 9,
-        "inputs": "Concept: hissing tires. Question: Which of the following sentences best characterizes hissing tires?\n option: Hissing tires are to be expected in warm weather.\n option: Hissing tires disapprove of your driving.\n option: Hissing tires are designed by sound engineers.\n option: Hissing tires are unsafe for driving.\nAnswer:",
-        "targets": [
-            "Casual shirts are pulled over your head."
+            "Confident doubters are secure in their mistrust."
         ],
         "multiple_choice_targets": [
             "Confident doubters are secure in their mistrust.",
@@ -304,10 +95,124 @@
         ]
     },
     {
-        "idx": 4,
-        "inputs": "Concept: drained pools. Question: Which of the following sentences best characterizes drained pools?\n option: Drained pools are fun to dive into, headfirst.\n option: Drained pools cool you off on a hot day.\n option: Drained pools are dangerous, if you can't swim.\n option: Drained pools can be used for skateboarding.\nAnswer:",
+        "idx": 1,
+        "inputs": "The word 'dlort' is an adjective for things that are dogs. Question: Which of the following sentences best characterizes dlort boxers?\n option: Dlort boxers fight for the heavyweight belt.\n option: Dlort boxers move inwards and outwards at the same time.\n option: Dlort boxers are loose in the leg.\n option: Dlort boxers have brown coats.\nAnswer:",
         "targets": [
-            "In flat world, everything is 2-dimensional."
+            "Dlort boxers have brown coats."
+        ],
+        "multiple_choice_targets": [
+            "Dlort boxers have brown coats.",
+            "Dlort boxers fight for the heavyweight belt.",
+            "Dlort boxers are loose in the leg.",
+            "Dlort boxers move inwards and outwards at the same time."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "The word 'parg' is an adjective for things that humans dislike. Question: Which of the following sentences best characterizes parg kittens?\n option: Parg kittens are normally adopted.\n option: Parg kittens dislike humans.\n option: Parg kittens are adorable little cats.\n option: Parg kittens are not cute.\nAnswer:",
+        "targets": [
+            "Parg kittens are not cute."
+        ],
+        "multiple_choice_targets": [
+            "Parg kittens are not cute.",
+            "Parg kittens are adorable little cats.",
+            "Parg kittens dislike humans.",
+            "Parg kittens are normally adopted."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "The word 'nonat' means an object that sprouts from the ground, and the word 'plinc' means a an object that has not been built by humans. Question: Which of the following sentences best characterizes plinc nonats?\n option: Plinc nonats are often inexperienced.\n option: Some plinc nonats have steel foundations.\n option: Daisies are plinc nonats.\n option: Saturn is a plinc nonat.\nAnswer:",
+        "targets": [
+            "Daisies are plinc nonats."
+        ],
+        "multiple_choice_targets": [
+            "Daisies are plinc nonats.",
+            "Some plinc nonats have steel foundations.",
+            "Saturn is a plinc nonat.",
+            "Plinc nonats are often inexperienced."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Concept: blind ostriches. Question: Which of the following sentences best characterizes blind ostriches?\n option: Blind ostriches are vulnerable.\n option: Blind ostriches use white canes.\n option: Blind ostriches are strong.\n option: Blind ostriches block the light.\nAnswer:",
+        "targets": [
+            "Blind ostriches are vulnerable."
+        ],
+        "multiple_choice_targets": [
+            "Blind ostriches are vulnerable.",
+            "Blind ostriches block the light.",
+            "Blind ostriches are strong.",
+            "Blind ostriches use white canes."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "Concept: American cheese. Question: Which of the following sentences best characterizes American cheese?\n option: American cheese is made from the milk of Americans.\n option: American cheese was discovered by Columbus.\n option: American cheese is a kind of apple pie.\n option: American cheese melts very easily.\nAnswer:",
+        "targets": [
+            "American cheese melts very easily."
+        ],
+        "multiple_choice_targets": [
+            "American cheese melts very easily.",
+            "American cheese is a kind of apple pie.",
+            "American cheese was discovered by Columbus.",
+            "American cheese is made from the milk of Americans."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "The word 'borger' is an adjective for people who bite specific things for fun. Question: Which of the following sentences best characterizes dog borgers?\n option: Dog borgers are hungry.\n option: Dog borgers are tasty.\n option: Dog borgers are dogs that bite people.\n option: Dog borgers are people who bite dogs.\nAnswer:",
+        "targets": [
+            "Dog borgers are people who bite dogs."
+        ],
+        "multiple_choice_targets": [
+            "Dog borgers are people who bite dogs.",
+            "Dog borgers are dogs that bite people.",
+            "Dog borgers are tasty.",
+            "Dog borgers are hungry."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Concept: tumbling gymnasts. Question: Which of the following sentences best characterizes tumbling gymnasts?\n option: Tumbling gymnasts are typically clumsy\n option: Tumbling gymnasts work best on a warm cycle\n option: Tumbling gymnasts are likely to have tripped over something.\n option: Tumbling gymnasts require plenty of floor space\nAnswer:",
+        "targets": [
+            "Tumbling gymnasts require plenty of floor space"
         ],
         "multiple_choice_targets": [
             "Tumbling gymnasts require plenty of floor space",
@@ -323,16 +228,16 @@
         ]
     },
     {
-        "idx": 14,
-        "inputs": "The word 'ruft' means a heavy vehicle with 4 wheels, and the word 'harl' means solar powered. Question: Which of the following sentences best characterizes harl rufts?\n option: Harl rufts are environmentally friendly trucks.\n option: Harl rufts work well on cloudy days.\n option: Children play with harl rufts.\n option: Harl rufts are gas guzzlers.\nAnswer:",
+        "idx": 4,
+        "inputs": "Concept: uncaged canaries. Question: Which of the following sentences best characterizes uncaged canaries?\n option: Uncaged canaries can freely express their political opinions.\n option: Uncaged canaries live in South America.\n option: Uncaged canaries are ten times as powerful.\n option: Uncaged canaries grow more wings.\nAnswer:",
         "targets": [
-            "Drained pools can be used for skateboarding."
+            "Uncaged canaries live in South America."
         ],
         "multiple_choice_targets": [
-            "Empty stores lose money.",
-            "Empty stores make money.",
-            "Empty stores are crowded.",
-            "Empty stores are light."
+            "Uncaged canaries live in South America.",
+            "Uncaged canaries are ten times as powerful.",
+            "Uncaged canaries can freely express their political opinions.",
+            "Uncaged canaries grow more wings."
         ],
         "multiple_choice_scores": [
             1,
@@ -343,9 +248,66 @@
     },
     {
         "idx": 1,
-        "inputs": "Concept: yes-means-no world. Question: Which of the following sentences best characterizes yes-means-no world?\n option: In yes-means-no world, kids get to stay up late.\n option: In yes-means-no world, you agree by saying no.\n option: In yes-means-no world, everything is false.\n option: In yes-means-no world, there are no contradictions.\nAnswer:",
+        "inputs": "Concept: Sinless sinner. Question: Which of the following sentences best characterizes sinless sinners?\n option: Sinless sinners are letters of the alphabet.\n option: Sinless sinners have no clue.\n option: No one can be a sinless sinner.\n option: Sinless sinners can be venial or capital.\nAnswer:",
         "targets": [
-            "Vart husbands always take out the garbage."
+            "No one can be a sinless sinner."
+        ],
+        "multiple_choice_targets": [
+            "No one can be a sinless sinner.",
+            "Sinless sinners have no clue.",
+            "Sinless sinners are letters of the alphabet.",
+            "Sinless sinners can be venial or capital."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1,
+        "inputs": "The word 'torg' is an adjective for animals that feed on big prey. Question: Which of the following sentences best characterizes torg flies?\n option: Torg flies are fed up.\n option: Torg flies prey on animals larger than themselves.\n option: Torg flies are big preys.\n option: Torg flies feed big prey.\nAnswer:",
+        "targets": [
+            "Torg flies prey on animals larger than themselves."
+        ],
+        "multiple_choice_targets": [
+            "Torg flies prey on animals larger than themselves.",
+            "Torg flies are big preys.",
+            "Torg flies feed big prey.",
+            "Torg flies are fed up."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "concept: folding companies. Question: Which of the following sentences best characterizes folding companies?\n option: Folding companies contribute to unemployment.\n option: Folding companies produce folds.\n option: Folding companies can fit in small spaces.\n option: Folding companies manufacture origami.\nAnswer:",
+        "targets": [
+            "Folding companies contribute to unemployment."
+        ],
+        "multiple_choice_targets": [
+            "Folding companies contribute to unemployment.",
+            "Folding companies can fit in small spaces.",
+            "Folding companies manufacture origami.",
+            "Folding companies produce folds."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "The word 'sopgo' is an adjective for things that are social customs. Question: Which of the following sentences best characterizes sopgo bows?\n option: Sopgo bows are expected when greeting royalty.\n option: Sopgo bows need to be strung.\n option: Birds build nests in sopgo bows.\n option: Sopgo bows are tied with knots.\nAnswer:",
+        "targets": [
+            "Sopgo bows are expected when greeting royalty."
         ],
         "multiple_choice_targets": [
             "Sopgo bows are expected when greeting royalty.",
@@ -361,16 +323,54 @@
         ]
     },
     {
-        "idx": 20,
-        "inputs": "concept: loony bin. Question: Which of the following sentences best characterizes loony bins?\n option: Loony bins are bird houses.\n option: Loony bins are the same size as garbage bins.\n option: Loony bin is Canadian slang for piggy bank.\n option: Loony bins are residences for people with serious mental health issues.\nAnswer:",
+        "idx": 14,
+        "inputs": "Concept: deadly caregiver. Question: Which of the following sentences best characterizes deadly caregivers?\n option: Healthcare systems struggle due to the lack of deadly caregivers.\n option: Morphine overdoses are deadly caregivers.\n option: Deadly caregivers take care of terminal patients.\n option: Homicidal nurses are deadly caregivers.\nAnswer:",
         "targets": [
-            "Dirty bowls are sticky."
+            "Homicidal nurses are deadly caregivers."
         ],
         "multiple_choice_targets": [
-            "Klambo drobbs are safety gear.",
-            "Klambo drobbs are painful.",
-            "Bets can be placed on klambo drobbs.",
-            "Klambo drobbs are made of wood."
+            "Homicidal nurses are deadly caregivers.",
+            "Deadly caregivers take care of terminal patients.",
+            "Healthcare systems struggle due to the lack of deadly caregivers.",
+            "Morphine overdoses are deadly caregivers."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 11,
+        "inputs": "The word 'vorpal' means something that is difficult to express in words, and the word 'borogove' means a complicated feeling or emotion. Question: Which of the following sentences best characterizes vorpal borogoves?\n option: Psychotheraphy can help better understand vorpal borogoves.\n option: Vorpal borogoves make good subjects for water-cooler conversations.\n option: Novelists never care about vorpal borogoves.\n option: Vorpal borogoves are easy to express in equations.\nAnswer:",
+        "targets": [
+            "Psychotheraphy can help better understand vorpal borogoves."
+        ],
+        "multiple_choice_targets": [
+            "Psychotheraphy can help better understand vorpal borogoves.",
+            "Novelists never care about vorpal borogoves.",
+            "Vorpal borogoves are easy to express in equations.",
+            "Vorpal borogoves make good subjects for water-cooler conversations."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 3,
+        "inputs": "Concept: small couches. Question: Which of the following sentences best characterizes small couches?\n option: Small couches are smaller than chairs.\n option: Small couches seat only two people.\n option: Small couches are perfect for big families.\n option: Small couches fit in an envelope.\nAnswer:",
+        "targets": [
+            "Small couches seat only two people."
+        ],
+        "multiple_choice_targets": [
+            "Small couches seat only two people.",
+            "Small couches fit in an envelope.",
+            "Small couches are perfect for big families.",
+            "Small couches are smaller than chairs."
         ],
         "multiple_choice_scores": [
             1,

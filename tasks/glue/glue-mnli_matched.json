@@ -1,122 +1,122 @@
 [
     {
-        "premise": "Since there is no airport on the island, all visitors must arrive at the port, Skala, where most of the hotels are located and all commercial activity is carried out.",
-        "hypothesis": "Tommy took the bait of the treaty.",
+        "premise": "He's a bad lot. ",
+        "hypothesis": "He's a dishonest person",
         "label": 1,
-        "idx": 2638
+        "idx": 4617
     },
     {
-        "premise": "Silverwork and Pewter",
-        "hypothesis": "We have been asked to vote on the subject.",
-        "label": 2,
-        "idx": 9267
-    },
-    {
-        "premise": "Palestrina , by Hans Pfitzner, performed by the Royal Opera (Metropolitan Opera House, New York).",
-        "hypothesis": "The following are examples of how agencies can eradicate employee unions.",
-        "label": 0,
-        "idx": 5743
-    },
-    {
-        "premise": "The park on the hill of Monte makes a good playground, while the ride down in a wicker toboggan is straight out of an Old World theme park (though surely tame for older kids).",
-        "hypothesis": "They go with any weapon.",
+        "premise": "well yeah that really is scary",
+        "hypothesis": "It's not predictable.",
         "label": 1,
-        "idx": 4564
+        "idx": 8659
     },
     {
-        "premise": "The Office of Information and Regulatory Affairs of OMB approved the",
-        "hypothesis": "There has to be some sort of incentive.",
+        "premise": "taken up by the oh okay oh so you know well that's i had wondered sometimes i knew that there was a lot of a lot of effort and a lot of work went into a lot of that and i just wondered if if it lasted and if it took you know like yeah",
+        "hypothesis": "A great deal of effort and work went into that.  ",
+        "label": 0,
+        "idx": 4317
+    },
+    {
+        "premise": "It will be COLOSSAL!\"",
+        "hypothesis": "It will be the biggest ever.",
         "label": 1,
-        "idx": 1749
+        "idx": 1842
     },
     {
-        "premise": "The central section of Tinos has little of interest, but make your way over the hills to the pretty village of Pyrgos, famed for its school of marble carving.",
-        "hypothesis": "Whole life policies with a term life with annuity could be replaced by the whole organization with something more complicated.",
-        "label": 2,
-        "idx": 6860
-    },
-    {
-        "premise": "so i'll probably say you know it's like well we've been talking for five six minutes so okay",
-        "hypothesis": "The management of the cafe is strict about how they manage it.",
-        "label": 0,
-        "idx": 4414
-    },
-    {
-        "premise": "The number of steps built down into the interior means that it is unsuitable for the infirm or those with heart problems.",
-        "hypothesis": "Cultural festivals are out of context and do not feel as authentic as genuine feast day or wedding performances.",
-        "label": 0,
-        "idx": 7977
-    },
-    {
-        "premise": "it gets it",
-        "hypothesis": "Charles Geveden initiated a law that will essentially lower court filing fees.",
+        "premise": "oh boy it the i think it's like one or the other isn't it i mean you either",
+        "hypothesis": "I think it's one or the other kind of shirt.",
         "label": 1,
-        "idx": 8386
+        "idx": 6603
     },
     {
-        "premise": "They are levied through the power of the Government to compel payment, and the person or entity that pays these fees does not receive anything of value from the Government in exchange.",
-        "hypothesis": "Italy has nothing of interest for foreign visitors.",
-        "label": 0,
-        "idx": 4316
-    },
-    {
-        "premise": "Their goals remain influential as India approaches the new millennium while it continues to modernize its industry and increase its agricultural output.",
-        "hypothesis": "The Legacy Golf Club is outside the city limits so it can serve alcohol year round.",
-        "label": 0,
-        "idx": 1997
-    },
-    {
-        "premise": "well i think i got to agree with you there",
-        "hypothesis": "Is this reasonable to you?",
-        "label": 0,
-        "idx": 8008
-    },
-    {
-        "premise": "The University of Nevada-Las Vegas boasts a student population over 23,000 (though, like most of the people in Las Vegas, they are commuters).",
-        "hypothesis": "Commercial calculation was how he was able to explain his side.",
+        "premise": "But you might as well see for yourself if you don't believe me. The note, in Tuppence's well-known schoolboy writing, ran as follows: \"DEAR JULIUS, \"It's always better to have things in black and white.",
+        "hypothesis": "Tuppence didn't have well-known handwriting, it wasn't recognizable as her note.",
         "label": 2,
-        "idx": 9046
+        "idx": 1085
     },
     {
-        "premise": "The traditional opening time for many hotels is the Orthodox Easter, although some do not open until the end of April.",
-        "hypothesis": "The globalization of economies is not reflected in global accounting standards. ",
-        "label": 2,
-        "idx": 2551
-    },
-    {
-        "premise": "Egg cattle merry wedged marvelous",
-        "hypothesis": "This is how things are and there are no apologies about it.",
-        "label": 0,
-        "idx": 3042
-    },
-    {
-        "premise": "He reported masterfully on the '72 campaign and the Hell's Angels.",
-        "hypothesis": "Let's see how The Bell Curve tries, but fails, to get around these problems.",
-        "label": 2,
-        "idx": 1399
-    },
-    {
-        "premise": "uh well i figured if i had it done in the garage at the Toyota dealer i would be looking at probably three or four hundred dollars",
-        "hypothesis": "Simmons said that nobody told the landlord to fix the property.",
-        "label": 2,
-        "idx": 37
-    },
-    {
-        "premise": "It was like looking into a mirror, except infinitely more realistic.",
-        "hypothesis": "Dinard maintains a Victorian sensibility while also including luxury elements.",
-        "label": 0,
-        "idx": 7551
-    },
-    {
-        "premise": "The Congress, which controls our funding levels, began to include many members who did not support the purpose and goals of a federal civil legal services program.",
-        "hypothesis": "Most low-income people who need legal help in the community do not get it.",
+        "premise": "At the pictures the crooks always have a restoorant in the Underworld.",
+        "hypothesis": "They were not always crooks.",
         "label": 1,
-        "idx": 7246
+        "idx": 3989
     },
     {
-        "premise": "Among the disadvantages are that the degree of innovation and product differentiation might continue to be limited.",
-        "hypothesis": "You couldn't tell where he was because he was in front of a backdrop.",
+        "premise": "The sunlight, piercing through the branches, turned the auburn of her hair to quivering gold. ",
+        "hypothesis": "When the sunlight pierced through the branches, her hair turned a darker shade of red.",
+        "label": 2,
+        "idx": 8868
+    },
+    {
+        "premise": "Boats in daily use lie within feet of the fashionable bars and restaurants.",
+        "hypothesis": "The boats and ships always stay far from bars and restaurants, don't they?",
+        "label": 2,
+        "idx": 4642
+    },
+    {
+        "premise": "All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com).",
+        "hypothesis": "These sites have nothing to do with George W. Bush's website.",
+        "label": 2,
+        "idx": 9118
+    },
+    {
+        "premise": "Oh my God, I'm actually intimidated by a Simulacra.",
+        "hypothesis": "Simulacra evokes a feeling of intimidation in me. ",
         "label": 0,
-        "idx": 4928
+        "idx": 5222
+    },
+    {
+        "premise": "He was of two minds, one reveled in the peace of this village.",
+        "hypothesis": "He loved the smiling villagers who loved each other.",
+        "label": 1,
+        "idx": 1675
+    },
+    {
+        "premise": "More to the point, even as the major airlines have been reaping large profits over the last four years, their productivity has not risen at all, suggesting that consolidation is not improving efficiency.",
+        "hypothesis": "Though large airlines are making a big profit, they arent any more productive. ",
+        "label": 0,
+        "idx": 9009
+    },
+    {
+        "premise": "because uh i know people who eat tons of that kind of stuff and they're just as healthy as can be",
+        "hypothesis": "Anyone I know who eats that kind of stuff is very ill.",
+        "label": 2,
+        "idx": 5744
+    },
+    {
+        "premise": "The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid.",
+        "hypothesis": "Tapas are large portions and are a very filling meal.",
+        "label": 2,
+        "idx": 9727
+    },
+    {
+        "premise": "So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling.",
+        "hypothesis": "Osmin was always calm and collected.",
+        "label": 2,
+        "idx": 6695
+    },
+    {
+        "premise": "McCalpinMaria Luisa Mercado Nancy H. Rogers Thomas F. Smegal, Jr.",
+        "hypothesis": "Nancy Rogers is involved.",
+        "label": 0,
+        "idx": 8077
+    },
+    {
+        "premise": "In Hong Kong you can have a plate, or even a whole dinner service, hand-painted to your own design.",
+        "hypothesis": "Hong Kong has a few unique dining experiences.",
+        "label": 1,
+        "idx": 1663
+    },
+    {
+        "premise": "yes i've had a German Shepherd that did that one time",
+        "hypothesis": "I had a German Shepherd that shed half of its fur once.",
+        "label": 1,
+        "idx": 2416
+    },
+    {
+        "premise": "yeah those yeah it was all bloodless and the good guys can get hit all day long and they have to shake it off they don't they don't you know get  epileptic fits or anything from getting hit on the head",
+        "hypothesis": "That was the goriest most true to life thing I've ever seen and I think that's gonna psychologically affect me for a long time.",
+        "label": 2,
+        "idx": 794
     }
 ]

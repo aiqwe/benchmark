@@ -1,122 +1,122 @@
 [
     {
-        "sentence1": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.",
-        "sentence2": "The pot was too tall.",
+        "sentence1": "The firemen arrived after the police because they were coming from so far away.",
+        "sentence2": "The police were coming from so far away.",
         "label": 0,
-        "idx": 524
+        "idx": 13
     },
     {
-        "sentence1": "I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.",
-        "sentence2": "The man lifted the boy onto the man's bunk bed.",
+        "sentence1": "The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.",
+        "sentence2": "The police were trying to stop the drug trade in the neighborhood.",
         "label": 1,
-        "idx": 166
+        "idx": 2
     },
     {
-        "sentence1": "Jane knocked on Susan's door but she did not get an answer.",
-        "sentence2": "The bag of flour had to be moved first.",
-        "label": 1,
-        "idx": 250
-    },
-    {
-        "sentence1": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed.",
-        "sentence2": "The train was short, so it worked out.",
-        "label": 1,
-        "idx": 243
-    },
-    {
-        "sentence1": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.",
-        "sentence2": "I couldn't hear the announcement.",
-        "label": 0,
-        "idx": 395
-    },
-    {
-        "sentence1": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.",
-        "sentence2": "The opponents were very much in the majority.",
-        "label": 1,
-        "idx": 414
-    },
-    {
-        "sentence1": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",
-        "sentence2": "She was careful not to disturb her, undressing and climbing back into her mother's berth.",
-        "label": 1,
-        "idx": 263
-    },
-    {
-        "sentence1": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",
-        "sentence2": "Emma's mother's education had been managed by an excellent woman as governess.",
-        "label": 0,
-        "idx": 64
-    },
-    {
-        "sentence1": "Bob paid for Charlie's college education. He is very generous.",
-        "sentence2": "The building is very good.",
-        "label": 1,
-        "idx": 577
-    },
-    {
-        "sentence1": "Joan made sure to thank Susan for all the help she had given.",
-        "sentence2": "The fish was tasty.",
-        "label": 1,
-        "idx": 351
-    },
-    {
-        "sentence1": "The firemen arrived before the police because they were coming from so far away.",
+        "sentence1": "The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.",
         "sentence2": "The mouse was too impatient.",
-        "label": 1,
-        "idx": 3
-    },
-    {
-        "sentence1": "Sid explained his theory to Mark but he couldn't understand him.",
-        "sentence2": "Anyone who knew that he was 19 years old could take his claim away from the government official.",
         "label": 0,
-        "idx": 228
+        "idx": 240
     },
     {
-        "sentence1": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.",
-        "sentence2": "Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Grandma to the table.",
+        "sentence1": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.",
+        "sentence2": "I don't know why Jim was, but he looked very unhappy.",
         "label": 1,
-        "idx": 405
+        "idx": 437
     },
     {
-        "sentence1": "The trophy doesn't fit into the brown suitcase because it is too small.",
-        "sentence2": "Mr. Schmidt needed to get him to finish his work, because his work was beautiful.",
-        "label": 1,
-        "idx": 254
-    },
-    {
-        "sentence1": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.",
-        "sentence2": "John was hungry.",
-        "label": 1,
-        "idx": 202
-    },
-    {
-        "sentence1": "Fred watched TV while George went out to buy groceries. After an hour he got up.",
-        "sentence2": "The journalists were very cooperative, so the interview lasted for a long time.",
+        "sentence1": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.",
+        "sentence2": "The ocean beach was a safer place to swim.",
         "label": 0,
-        "idx": 164
+        "idx": 555
     },
     {
-        "sentence1": "The fish ate the worm. It was hungry.",
-        "sentence2": "The painting is to the right of the bookcase.",
+        "sentence1": "Bill passed the gameboy to John because his turn was over.",
+        "sentence2": "Bill's turn was over.",
+        "label": 1,
+        "idx": 90
+    },
+    {
+        "sentence1": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.",
+        "sentence2": "Now I have to get The tree removed.",
+        "label": 1,
+        "idx": 188
+    },
+    {
+        "sentence1": "The older students were bullying the younger ones, so we punished them.",
+        "sentence2": "We punished the younger students.",
         "label": 0,
-        "idx": 456
+        "idx": 608
+    },
+    {
+        "sentence1": "Jane gave Joan candy because she wasn't hungry.",
+        "sentence2": "Jane wasn't hungry.",
+        "label": 1,
+        "idx": 132
+    },
+    {
+        "sentence1": "Tom said \"Check\" to Ralph as he moved his bishop.",
+        "sentence2": "Tom said \"Check\" to Ralph as he moved Tom's bishop.",
+        "label": 1,
+        "idx": 449
+    },
+    {
+        "sentence1": "Lionel is holding captive a scientist, Dr. Vardi, who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send him to steal nuclear material from an army vault.",
+        "sentence2": "Lionel plans to use it on Geoffrey and send Dr. Vardi to steal nuclear material from an army vault.",
+        "label": 0,
+        "idx": 561
+    },
+    {
+        "sentence1": "I used an old rag to clean the knife, and then I put it in the trash.",
+        "sentence2": "I put the knife in the trash.",
+        "label": 0,
+        "idx": 624
     },
     {
         "sentence1": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.",
-        "sentence2": "Isn't it nice that the two guitars and a bag have come, Mama!\"",
+        "sentence2": "She put the album on a chair without even opening the album.",
         "label": 1,
-        "idx": 410
+        "idx": 482
     },
     {
-        "sentence1": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",
-        "sentence2": "Mary tucked her daughter Anne into bed, so that Mary could sleep.",
+        "sentence1": "All the buttons up the back of Dora's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, she had left poor little Dora to do the best she could, alone.",
+        "sentence2": "She had left poor little Dora to do the best Maude could, alone.",
         "label": 0,
-        "idx": 103
+        "idx": 394
     },
     {
-        "sentence1": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",
-        "sentence2": "The axe is too small.",
+        "sentence1": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",
+        "sentence2": "The opponents were very much in the majority.",
+        "label": 1,
+        "idx": 249
+    },
+    {
+        "sentence1": "I can't cut that tree down with that axe; it is too small.",
+        "sentence2": "The tree is too small.",
         "label": 0,
-        "idx": 354
+        "idx": 580
+    },
+    {
+        "sentence1": "Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval",
+        "sentence2": "Chester couldn't very well marry without his approval",
+        "label": 1,
+        "idx": 248
+    },
+    {
+        "sentence1": "Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.",
+        "sentence2": "Mr. Moncrieff no longer requires his financial support.",
+        "label": 0,
+        "idx": 332
+    },
+    {
+        "sentence1": "During a game of tag, Ethan ran from Luke because he was \"it\".",
+        "sentence2": "Ethan was \"it\".",
+        "label": 0,
+        "idx": 351
+    },
+    {
+        "sentence1": "Emma did not pass the ball to Janie although she was open.",
+        "sentence2": "She saw that Janie was open.",
+        "label": 1,
+        "idx": 89
     }
 ]

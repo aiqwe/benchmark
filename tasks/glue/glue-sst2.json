@@ -1,102 +1,102 @@
 [
     {
-        "sentence": "both sitcomishly predictable and cloying in its attempts ",
+        "sentence": "at least a few good ideas and ",
+        "label": 1,
+        "idx": 54484
+    },
+    {
+        "sentence": "spellbinding fun and deliciously exploitative . ",
+        "label": 1,
+        "idx": 20216
+    },
+    {
+        "sentence": "is a non-stop funny feast of warmth , color and cringe ",
+        "label": 1,
+        "idx": 38332
+    },
+    {
+        "sentence": "the performances of the four main actresses bring their characters to life . ",
+        "label": 1,
+        "idx": 28046
+    },
+    {
+        "sentence": ", energetic and sweetly whimsical ",
+        "label": 1,
+        "idx": 32466
+    },
+    {
+        "sentence": "leon ",
+        "label": 1,
+        "idx": 53584
+    },
+    {
+        "sentence": "a whole lot of fun and funny in the middle , though somewhat less hard-hitting at the start and finish ",
+        "label": 1,
+        "idx": 25649
+    },
+    {
+        "sentence": "is like sitting in a downtown café , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables . ",
         "label": 0,
-        "idx": 64530
+        "idx": 36121
     },
     {
-        "sentence": "should catch this imax offering . ",
-        "label": 1,
-        "idx": 12155
-    },
-    {
-        "sentence": "plaintiveness ",
+        "sentence": "to dumb down the universe ",
         "label": 0,
-        "idx": 28308
+        "idx": 32839
     },
     {
-        "sentence": "very ugly , ",
-        "label": 1,
-        "idx": 57034
-    },
-    {
-        "sentence": "good chance ",
-        "label": 1,
-        "idx": 61770
-    },
-    {
-        "sentence": "has n't been worth caring about ",
+        "sentence": "permeates all its aspects -- from the tv movie-esque , affected child acting to the dullest irish pub scenes ever filmed . ",
         "label": 0,
-        "idx": 37184
+        "idx": 9186
     },
     {
-        "sentence": ", ivan is a prince of a fellow ",
+        "sentence": "stealing harvard ca n't even do that much . ",
         "label": 0,
-        "idx": 22143
+        "idx": 44159
     },
     {
-        "sentence": "collapses like an overcooked soufflé . ",
+        "sentence": "visually atrocious , and often downright creepy ",
         "label": 0,
-        "idx": 67311
+        "idx": 41820
     },
     {
-        "sentence": "'s not an original character , siuation or joke in the entire movie ",
+        "sentence": "an incredibly irritating comedy about thoroughly vacuous people ",
         "label": 0,
-        "idx": 35398
+        "idx": 60503
     },
     {
-        "sentence": "lingerie models and bar dancers ",
+        "sentence": "with the intricate preciseness of the best short story writing ",
         "label": 1,
-        "idx": 7078
+        "idx": 53232
     },
     {
-        "sentence": "if the title is a jeopardy question , then the answer might be `` how does steven seagal come across these days ? '' ",
+        "sentence": "that it emerges as another key contribution to the flowering of the south korean cinema ",
         "label": 1,
-        "idx": 33877
+        "idx": 13554
     },
     {
-        "sentence": "savage full-bodied wit ",
+        "sentence": "a lovely and beautifully photographed romance . ",
         "label": 1,
-        "idx": 51224
+        "idx": 53524
     },
     {
-        "sentence": "with fewer deliberate laughs , more inadvertent ones and stunningly trite songs ",
+        "sentence": "a mood in which an ominous , pervasive , and unknown threat lurks just below the proceedings and adds an almost constant mindset of suspense ",
         "label": 1,
-        "idx": 28990
+        "idx": 3816
     },
     {
-        "sentence": "assuming the bar of expectations has n't been raised above sixth-grade height ",
+        "sentence": "is bright and flashy in all the right ways ",
         "label": 1,
-        "idx": 44329
+        "idx": 16615
     },
     {
-        "sentence": "has little insight ",
-        "label": 1,
-        "idx": 28340
-    },
-    {
-        "sentence": "modest , straight-ahead standards ",
-        "label": 1,
-        "idx": 57669
-    },
-    {
-        "sentence": "` if you are in the mood for an intelligent weepy , it can easily worm its way into your heart . ' ",
+        "sentence": "are clinically depressed ",
         "label": 0,
-        "idx": 48338
+        "idx": 64926
     },
     {
-        "sentence": "unrelated shorts ",
-        "label": 1,
-        "idx": 65257
-    },
-    {
-        "sentence": "sc2 is an autopilot hollywood concoction lacking in imagination and authentic christmas spirit , yet it 's geared toward an audience full of masters of both . ",
+        "sentence": "that is beyond playing fair with the audience ",
         "label": 0,
-        "idx": 54681
-    },
-    {
-        "sentence": "is n't this painfully forced , false and fabricated ",
-        "label": 1,
-        "idx": 1607
+        "idx": 18413
     }
 ]

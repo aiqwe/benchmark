@@ -1,102 +1,102 @@
 [
     {
-        "sentence": "We talked about that he had worked at the White House.",
-        "label": 1,
-        "idx": 84
-    },
-    {
-        "sentence": "John will drive the car.",
-        "label": 1,
-        "idx": 5278
-    },
-    {
-        "sentence": "Why did John leave?",
+        "sentence": "They will give me a hat that I won't like which I know.",
         "label": 0,
-        "idx": 3795
+        "idx": 1358
     },
     {
-        "sentence": "He stopped writing poems.",
-        "label": 1,
-        "idx": 867
-    },
-    {
-        "sentence": "Mary questioned Joe's desire to eat cabbage, but only after I had questioned Sally's desire to.",
-        "label": 1,
-        "idx": 7619
-    },
-    {
-        "sentence": "John talked to his supervisor about his thesis, and Erich to the dean about department politics.",
-        "label": 1,
-        "idx": 3657
-    },
-    {
-        "sentence": "Gilgamesh can seek Ishtar",
+        "sentence": "John locked Fido in the garage and Mary did so in the room.",
         "label": 0,
-        "idx": 5818
+        "idx": 3907
     },
     {
-        "sentence": "Different teams beat the Red Sox and were beaten by the Giants.",
-        "label": 1,
-        "idx": 8510
-    },
-    {
-        "sentence": "The phone company billed $10 as me.",
+        "sentence": "Tom claimed how much money she had spent.",
         "label": 0,
-        "idx": 7306
+        "idx": 4791
     },
     {
-        "sentence": "Which boy's guardian's did we elect employer president?",
-        "label": 1,
-        "idx": 5385
-    },
-    {
-        "sentence": "How difficult to study for the exam was it?",
-        "label": 1,
-        "idx": 1353
-    },
-    {
-        "sentence": "There is a hole in the rug which Toby bought in Boston.",
-        "label": 1,
-        "idx": 187
-    },
-    {
-        "sentence": "People like lard.",
-        "label": 1,
-        "idx": 8490
-    },
-    {
-        "sentence": "Whose poem about Achilles did Homer persuade Jason that he should read?",
-        "label": 1,
-        "idx": 2458
-    },
-    {
-        "sentence": "They have no and.",
+        "sentence": "After ten ones had left, seven more soldiers came in.",
         "label": 0,
-        "idx": 7711
+        "idx": 1579
     },
     {
-        "sentence": "She gets upset whether I exclude her from anything.",
-        "label": 1,
-        "idx": 6005
+        "sentence": "The department has been chosen John for the position.",
+        "label": 0,
+        "idx": 4614
     },
     {
-        "sentence": "John is not a more reliable fellow than Bill.",
-        "label": 1,
-        "idx": 5657
+        "sentence": "The famous mathematician existed a solution to the problem.",
+        "label": 0,
+        "idx": 3292
     },
     {
-        "sentence": "Lilly recounted a story to remember because Holly had also recounted a story to.",
+        "sentence": "Susanne gave the minivan to George.",
         "label": 1,
-        "idx": 465
+        "idx": 5732
     },
     {
-        "sentence": "Jake shipped the box at Carson.",
+        "sentence": "Mickey looked the reference up.",
         "label": 1,
-        "idx": 6708
+        "idx": 437
     },
     {
-        "sentence": "Who poisoned who?",
+        "sentence": "Jane left the book on the table.",
         "label": 1,
-        "idx": 1245
+        "idx": 3969
+    },
+    {
+        "sentence": "I have half a dozen of these marbles too many.",
+        "label": 0,
+        "idx": 5467
+    },
+    {
+        "sentence": "Mr Elton handed his wife into the carriage.",
+        "label": 1,
+        "idx": 6695
+    },
+    {
+        "sentence": "I mixed the sugar and the butter.",
+        "label": 1,
+        "idx": 2304
+    },
+    {
+        "sentence": "Those days Bill offered Mary anything he cooked.",
+        "label": 1,
+        "idx": 6477
+    },
+    {
+        "sentence": "Linda taped the label and the cover.",
+        "label": 0,
+        "idx": 2308
+    },
+    {
+        "sentence": "He was talkative and a bully.",
+        "label": 1,
+        "idx": 6548
+    },
+    {
+        "sentence": "Every boy named every planet.",
+        "label": 1,
+        "idx": 1012
+    },
+    {
+        "sentence": "John would, because he's such a nice guy, like that.",
+        "label": 1,
+        "idx": 5298
+    },
+    {
+        "sentence": "What kind cf parakeets are they investigating all people owning?",
+        "label": 0,
+        "idx": 1452
+    },
+    {
+        "sentence": "Is Mary running the marathon?",
+        "label": 1,
+        "idx": 965
+    },
+    {
+        "sentence": "We'll do it together, you and I.",
+        "label": 1,
+        "idx": 1848
     }
 ]

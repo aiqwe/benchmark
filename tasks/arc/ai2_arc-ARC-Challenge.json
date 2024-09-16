@@ -1,13 +1,13 @@
 [
     {
-        "id": "MCAS_2009_8_1",
-        "question": "Which of these objects has the greatest mass?",
+        "id": "MCAS_2001_8_13",
+        "question": "Scientists claim that the continents of South America and Africa were once a single landmass. All of the following observations support this claim except",
         "choices": {
             "text": [
-                "natural selection.",
-                "asexual reproduction.",
-                "selective breeding.",
-                "genetic engineering."
+                "the mountains on these continents have similar rocks of the same age.",
+                "these continents appear to fit together like the pieces of a puzzle.",
+                "similar fish live in the ocean off the coasts of these continents.",
+                "the same kinds of fossils have been found on these continents."
             ],
             "label": [
                 "A",
@@ -19,14 +19,33 @@
         "answerKey": "C"
     },
     {
-        "id": "ACTAAP_2010_5_14",
-        "question": "When a dog performs a specific action on command, such as sitting, the action is an example of",
+        "id": "Mercury_SC_LBS10244",
+        "question": "Which list gives the correct order of substances from the lowest melting point to the highest?",
         "choices": {
             "text": [
-                "opening a drawer",
-                "slicing an apple",
-                "closing a car door",
-                "pushing a wheelbarrow"
+                "oxygen, water, iron",
+                "water, iron, oxygen",
+                "oxygen, iron, water",
+                "iron, oxygen, water"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_SC_400698",
+        "question": "What kind of energy change occurs when a battery is operating a remote control toy?",
+        "choices": {
+            "text": [
+                "Heat energy is changed to light energy.",
+                "Light energy is changed to heat energy.",
+                "Potential energy is changed to kinetic energy.",
+                "Kinetic energy is changed to chemical energy."
             ],
             "label": [
                 "A",
@@ -38,14 +57,14 @@
         "answerKey": "C"
     },
     {
-        "id": "Mercury_7211068",
-        "question": "Which occurs as the kinetic energy of water molecules increases?",
+        "id": "Mercury_SC_409578",
+        "question": "Drew knows that Earth is tilted on its axis. He also knows this tilt is responsible for the season that a region on Earth will experience. When the South Pole is tilted toward the Sun, what season will it be in Florida?",
         "choices": {
             "text": [
-                "One moon-phase cycle",
-                "One ocean-tide cycle",
-                "An acorn growing into an adult tree",
-                "A caterpillar becoming a butterfly"
+                "fall",
+                "spring",
+                "summer",
+                "winter"
             ],
             "label": [
                 "A",
@@ -57,33 +76,14 @@
         "answerKey": "D"
     },
     {
-        "id": "MDSA_2009_5_17",
-        "question": "Four identical candles are set on a safe surface and lit. One is covered with a small-sized jar, one is covered with a large-sized jar, and one candle is left in the open. A fourth lit candle is placed in a vacuum. Which candle will most likely stay lit the longest?",
+        "id": "AIMS_2008_8_5",
+        "question": "Some businesses offer customers the option to pay for merchandise using their fingerprints as identification. Which of the following would most benefit customers that use this new technology?",
         "choices": {
             "text": [
-                "using a different amount of people in each trial",
-                "writing down the names of the people in the study",
-                "monitoring the reaction of each person in the study",
-                "applying the same amount of cream to each person"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "Mercury_7005443",
-        "question": "The human body produces motion by changing chemical energy into mechanical energy. Which of these best describes what happens to the energy?",
-        "choices": {
-            "text": [
-                "The behavior is a random act.",
-                "The behavior is the result of a genetic mutation.",
-                "The behavior is inherited from the bird's parents.",
-                "The behavior is learned over the lifetime of the bird."
+                "cost of product is reduced",
+                "protection of private information",
+                "ability to track customer preferences",
+                "funds would be credited immediately"
             ],
             "label": [
                 "A",
@@ -95,71 +95,14 @@
         "answerKey": "B"
     },
     {
-        "id": "ACTAAP_2007_7_23",
-        "question": "Which feature of some young birds helps them avoid becoming prey before they learn to fly?",
+        "id": "Mercury_SC_416515",
+        "question": "Which body of water has the fewest plants and animals living in it?",
         "choices": {
             "text": [
-                "mutualism",
-                "parasitism",
-                "neutralism",
-                "commensalism"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "Mercury_7239418",
-        "question": "When the first American astronauts were planning to walk on the Moon, they knew that the gravity on the Moon was less than the gravity on Earth. With this information, what did the astronauts expect to be most different on the Moon?",
-        "choices": {
-            "text": [
-                "31 pounds and 14 kilograms",
-                "31 pounds and 84 kilograms",
-                "186 pounds and 14 kilograms",
-                "186 pounds and 84 kilograms"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "Mercury_7068530",
-        "question": "In what way can bacteria be good for the human body?",
-        "choices": {
-            "text": [
-                "the weight of the object",
-                "the volume of the object",
-                "the amount of matter in the object",
-                "the amount of gravitational pull on the object"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "Mercury_7027055",
-        "question": "Comparing the skeletons of which of the following fish would best show the evolution of a fish species?",
-        "choices": {
-            "text": [
-                "making paper",
-                "making pencils",
-                "building houses",
-                "producing heat"
+                "ocean",
+                "stream",
+                "glacier",
+                "estuary"
             ],
             "label": [
                 "A",
@@ -171,109 +114,14 @@
         "answerKey": "C"
     },
     {
-        "id": "Mercury_416594",
-        "question": "Which process in plants is most similar to sexual reproduction in vertebrates?",
+        "id": "MSA_2015_8_38",
+        "question": "Heat transfer is part of everyday life. Which of these examples involving heat transfer occurs mainly by conduction?",
         "choices": {
             "text": [
-                "The warm ocean currents flow from the tropics to the Northern Hemisphere in the summer.",
-                "The rays of the Sun strike the Northern Hemisphere more directly in the summer.",
-                "The greenhouse effect increases in the Northern Hemisphere in the summer.",
-                "The Northern Hemisphere is closer to the Sun in the summer."
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "Mercury_7009625",
-        "question": "Which of these is the most likely effect of cutting down large numbers of trees?",
-        "choices": {
-            "text": [
-                "long hair.",
-                "blue eyes.",
-                "long eyelashes.",
-                "small dimples."
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "NYSEDREGENTS_2005_8_44",
-        "question": "What atoms combine to make up a molecule of water? 1. 1 hydrogen, 1 oxygen 2.",
-        "choices": {
-            "text": [
-                "The coffee stays in motion because the stopping force acts only on the car.",
-                "The coffee stays in motion because a force from the cup holder pulls on the coffee.",
-                "The stopping force on the car causes an equal and opposite reaction from the coffee.",
-                "The stopping force causes the motion of the car to slow down and the motion of the coffee to speed up."
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "4"
-    },
-    {
-        "id": "Mercury_SC_405455",
-        "question": "Which element makes up most of the air we breathe.",
-        "choices": {
-            "text": [
-                "poured the chemicals down the sink drain.",
-                "placed the chemicals carefully in the trash can.",
-                "placed each chemical back in its original container.",
-                "followed the directions provided by the teacher for each chemical."
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "Mercury_SC_408447",
-        "question": "Robots can perform tasks that are dangerous for humans. What is the MAJOR limitation to the use of robots?",
-        "choices": {
-            "text": [
-                "an increase in the size of the copper particles",
-                "a decrease in the mass of the copper particles",
-                "an increase in the motion of the copper particles",
-                "a decrease in the distance between the copper particles"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "Mercury_401402",
-        "question": "In a grassland ecosystem, if the population of eagles suddenly decreased, what will most likely be the effect on the rest of the ecosystem?",
-        "choices": {
-            "text": [
-                "barometer",
-                "stopwatch",
-                "meter stick",
-                "magnifying lens"
+                "The sun warms the ground.",
+                "A hot oven warms a cold kitchen.",
+                "A campfire warms a person's hands.",
+                "Hot soup warms a metal spoon handle."
             ],
             "label": [
                 "A",
@@ -285,14 +133,52 @@
         "answerKey": "D"
     },
     {
-        "id": "NYSEDREGENTS_2004_8_37",
-        "question": "Which marine ecosystem is independent of sunlight?",
+        "id": "Mercury_7093993",
+        "question": "The building of a dam will most likely",
         "choices": {
             "text": [
-                "decrease the temperature",
-                "increase the temperature",
-                "decrease the mass",
-                "increase the mass"
+                "prevent water pollution.",
+                "destroy habitat for many animal species.",
+                "allow fish to more easily swim up river.",
+                "cause people to consume more water."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_SC_405459",
+        "question": "Corn can be used to make ethanol, which is a fuel for some cars. What problem could be caused by the increased use of ethanol?",
+        "choices": {
+            "text": [
+                "increase in fossil fuel production",
+                "decrease in corn production",
+                "increase in severe weather",
+                "decrease in nutrients in soil"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7210263",
+        "question": "Which of these is a property of water that allows it to transport materials through the Earth system?",
+        "choices": {
+            "text": [
+                "It expands as it solidifies.",
+                "It is transparent.",
+                "It dissolves many substances.",
+                "It is a compound."
             ],
             "label": [
                 "A",
@@ -304,14 +190,147 @@
         "answerKey": "C"
     },
     {
-        "id": "Mercury_SC_400519",
-        "question": "A chemical property of a mineral is evident if the mineral",
+        "id": "Mercury_414091",
+        "question": "What is the most common element found in the compounds that make up ocean water?",
         "choices": {
             "text": [
-                "makes more land available for local farmers",
-                "removes valuable habitat for local species",
-                "increases local groundwater levels",
-                "provides income for local residents"
+                "nitrogen",
+                "oxygen",
+                "carbon",
+                "silicon"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_178763",
+        "question": "A pan of soup is being heated on an electric stove. A metal spoon is used to occasionally stir the soup. Which of the following is an example of heat being transferred by convection?",
+        "choices": {
+            "text": [
+                "heating the pan",
+                "heating the soup",
+                "heating the spoon",
+                "heating the stove burner"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7057295",
+        "question": "A block of ice is placed on a hot sidewalk. The ice melts because",
+        "choices": {
+            "text": [
+                "the energy from the ice flows to the sidewalk.",
+                "the energy from the sidewalk flows to the ice.",
+                "convection currents flow between the ice and the sidewalk.",
+                "radiation flows between the ice and the sidewalk."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_SC_401165",
+        "question": "Which event is the best example of mechanical energy?",
+        "choices": {
+            "text": [
+                "wood burning",
+                "light shining",
+                "a song playing on a radio",
+                "a wagon rolling down a hill"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "NCEOGA_2013_8_14",
+        "question": "Which best determines the number of wolves that can live in an area?",
+        "choices": {
+            "text": [
+                "the amount of snow in the area each year",
+                "the number of birds that live in the area",
+                "the number of trees in the area",
+                "the amount of food available in the area"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "ACTAAP_2007_7_24",
+        "question": "Which is a true statement regarding the graphing of data?",
+        "choices": {
+            "text": [
+                "It is always better to leave data in a table than to graph it.",
+                "Bar graphs are the best type of graphs for scientific data.",
+                "For any given set of data, there is only one correct graph or way to display it.",
+                "Data can be displayed in many types of graphs in order to show different things about the data."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7221795",
+        "question": "As part of a study, a scientist observed a number of different molecular changes in matter. Which of the following observations provides evidence of a physical change?",
+        "choices": {
+            "text": [
+                "using heat to burn a log in a fireplace",
+                "using light to produce sugar in plants",
+                "a cake that was baked from many ingredients",
+                "a bottle that was broken into many small pieces"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "MCAS_2007_8_5180",
+        "question": "Which of the following areas is most likely to form metamorphic rocks such as gneiss and schist?",
+        "choices": {
+            "text": [
+                "a sea floor",
+                "a windblown desert",
+                "a site deep underground",
+                "a site covered by a glacier"
             ],
             "label": [
                 "A",
@@ -323,14 +342,14 @@
         "answerKey": "C"
     },
     {
-        "id": "Mercury_7094238",
-        "question": "In order for students to perform lab experiments safely and accurately, they should",
+        "id": "AIMS_2009_8_9",
+        "question": "Many scientists think that burning fossil fuels has increased the amount of carbon dioxide in the atmosphere. What effect would the increase of carbon dioxide most likely have on the planet?",
         "choices": {
             "text": [
-                "to include additional variables in the experiment",
-                "to complete the steps of the experiment in less time",
-                "to find a less expensive way to conduct the experiment",
-                "to increase the likelihood of accurate experiment results"
+                "a cooler climate",
+                "a warmer climate",
+                "lower relative humidity",
+                "more ozone in the atmosphere"
             ],
             "label": [
                 "A",
@@ -339,36 +358,17 @@
                 "D"
             ]
         },
-        "answerKey": "A"
+        "answerKey": "B"
     },
     {
-        "id": "Mercury_7230580",
-        "question": "Which would best help a forest animal avoid being eaten by hawks or owls?",
+        "id": "Mercury_7013405",
+        "question": "Which human activity will help decrease air pollution?",
         "choices": {
             "text": [
-                "a bar graph with temperature on the y-axis and time on the x-axis",
-                "a bar graph with time on the y-axis and temperature on the x-axis",
-                "a line graph with temperature on the y-axis and time on the x-axis",
-                "a line graph with time on the y-axis and temperature on the x-axis"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "Mercury_402349",
-        "question": "Some people suffer from a condition called carpal tunnel syndrome that causes pain in the wrists. Carpal tunnel syndrome can result from repetitive actions of the wrists and hands, such as typing on a computer keyboard. This is an example of using technology in spite of its",
-        "choices": {
-            "text": [
-                "showing some graphs",
-                "making a conclusion",
-                "developing a hypothesis",
-                "collecting some data"
+                "burning crops",
+                "driving a hybrid car",
+                "burning household garbage",
+                "using coal to produce energy"
             ],
             "label": [
                 "A",

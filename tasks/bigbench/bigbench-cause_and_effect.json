@@ -1,9 +1,24 @@
 [
     {
-        "idx": 27,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: We made French toast because the bread was dry.\n  choice: The bread was dry because we made French toast.\nanswer:",
+        "idx": 40,
+        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My clothes got dirty.\n  choice: I put my clothes in the washing machine.\nanswer:",
         "targets": [
-            "Ted went out drinking."
+            "My clothes got dirty."
+        ],
+        "multiple_choice_targets": [
+            "My clothes got dirty.",
+            "I put my clothes in the washing machine."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "",
+        "targets": [
+            "She went to the store and bought toilet paper because she noticed that she was out of toilet paper."
         ],
         "multiple_choice_targets": [
             "She went to the store and bought toilet paper because she noticed that she was out of toilet paper.",
@@ -15,14 +30,14 @@
         ]
     },
     {
-        "idx": 29,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Someone fainted because someone called 911.\n  choice: Someone called 911 because someone fainted.\nanswer:",
+        "idx": 5,
+        "inputs": "",
         "targets": [
-            "My friend got a promotion."
+            "The boy lifted his eyes from the book because there was a loud noise."
         ],
         "multiple_choice_targets": [
-            "Mom gave the girl fever medicine because the girl had a fever.",
-            "The girl had a fever because mom gave the girl fever medicine."
+            "The boy lifted his eyes from the book because there was a loud noise.",
+            "There was a loud noise because the boy lifted his eyes from the book."
         ],
         "multiple_choice_scores": [
             1,
@@ -30,14 +45,14 @@
         ]
     },
     {
-        "idx": 31,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The team won the game.\n  choice: The team won the championship.\nanswer:",
+        "idx": 5,
+        "inputs": "",
         "targets": [
-            "The picnic was cancelled because it rained."
+            "The boy lifted his eyes from the book because there was a loud noise."
         ],
         "multiple_choice_targets": [
-            "The girl got detention because the girl skipped school.",
-            "The girl skipped school because the girl got detention."
+            "The boy lifted his eyes from the book because there was a loud noise.",
+            "There was a loud noise because the boy lifted his eyes from the book."
         ],
         "multiple_choice_scores": [
             1,
@@ -45,14 +60,14 @@
         ]
     },
     {
-        "idx": 8,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: I studied hard because i got an A on the test.\n  choice: I got an A on the test because i studied hard.\nanswer:",
+        "idx": 15,
+        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl stepped onto the street.\n  choice: The driver hit the brakes.\nanswer:",
         "targets": [
-            "The picnic was cancelled because it rained."
+            "The girl stepped onto the street."
         ],
         "multiple_choice_targets": [
-            "The man couldn't hear what the woman was saying.",
-            "The man turned down the music volume."
+            "The girl stepped onto the street.",
+            "The driver hit the brakes."
         ],
         "multiple_choice_scores": [
             1,
@@ -60,14 +75,29 @@
         ]
     },
     {
-        "idx": 16,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Someone fainted because someone called 911.\n  choice: Someone called 911 because someone fainted.\nanswer:",
+        "idx": 13,
+        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The curtains were opened.\n  choice: Sunlight filled the room.\nanswer:",
         "targets": [
-            "The driver was pulled over and was fined because the driver ran a red light."
+            "The curtains were opened."
         ],
         "multiple_choice_targets": [
-            "The power was out for days.",
-            "The meat spoiled."
+            "The curtains were opened.",
+            "Sunlight filled the room."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "",
+        "targets": [
+            "Sunlight filled the room because the curtains were opened."
+        ],
+        "multiple_choice_targets": [
+            "Sunlight filled the room because the curtains were opened.",
+            "The curtains were opened because sunlight filled the room."
         ],
         "multiple_choice_scores": [
             1,
@@ -76,13 +106,13 @@
     },
     {
         "idx": 28,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The laptop ran out of battery because George plugged the laptop charger in.\n  choice: George plugged the laptop charger in because the laptop ran out of battery.\nanswer:",
+        "inputs": "",
         "targets": [
-            "She went to the store and bought toilet paper because she noticed that she was out of toilet paper."
+            "The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling."
         ],
         "multiple_choice_targets": [
-            "Mom rinsed the tray because Jimmy took the last piece of cake.",
-            "Jimmy took the last piece of cake because mom rinsed the tray."
+            "The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling.",
+            "The tenants noticed mold on the bathroom ceiling because the tenants contacted their landlord."
         ],
         "multiple_choice_scores": [
             1,
@@ -90,10 +120,85 @@
         ]
     },
     {
-        "idx": 40,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My friend got a promotion.\n  choice: My friend celebrated with their family.\nanswer:",
+        "idx": 8,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: A watermelon exploded because a man was covered in sticky red goo.\n  choice: A man was covered in sticky red goo because a watermelon exploded.\nanswer:",
         "targets": [
-            "The picnic was cancelled because it rained."
+            "A man was covered in sticky red goo because a watermelon exploded."
+        ],
+        "multiple_choice_targets": [
+            "A man was covered in sticky red goo because a watermelon exploded.",
+            "A watermelon exploded because a man was covered in sticky red goo."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 44,
+        "inputs": "",
+        "targets": [
+            "The man sued because the floor was wet."
+        ],
+        "multiple_choice_targets": [
+            "The man sued because the floor was wet.",
+            "The floor was wet because the man sued."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "",
+        "targets": [
+            "The ship capsized because the wind blew strong."
+        ],
+        "multiple_choice_targets": [
+            "The ship capsized because the wind blew strong.",
+            "The wind blew strong because the ship capsized."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The dinosaurs became extinct because a large object hit the Earth.\n  choice: A large object hit the Earth because the dinosaurs became extinct.\nanswer:",
+        "targets": [
+            "The dinosaurs became extinct because a large object hit the Earth."
+        ],
+        "multiple_choice_targets": [
+            "The dinosaurs became extinct because a large object hit the Earth.",
+            "A large object hit the Earth because the dinosaurs became extinct."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 30,
+        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The window broke.\n  choice: The boy threw a rock.\nanswer:",
+        "targets": [
+            "The boy threw a rock."
+        ],
+        "multiple_choice_targets": [
+            "The boy threw a rock.",
+            "The window broke."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 43,
+        "inputs": "",
+        "targets": [
+            "Alice missed her flight because Alice didn't wake up."
         ],
         "multiple_choice_targets": [
             "Alice missed her flight because Alice didn't wake up.",
@@ -105,14 +210,14 @@
         ]
     },
     {
-        "idx": 4,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The tenants noticed mold on the bathroom ceiling because the tenants contacted their landlord.\n  choice: The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling.\nanswer:",
+        "idx": 14,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n  choice: The insect pollinated the tomato flowers because tomatoes grew on the vine.\nanswer:",
         "targets": [
-            "The bottle was left open."
+            "Tomatoes grew on the vine because the insect pollinated the tomato flowers."
         ],
         "multiple_choice_targets": [
-            "Sunlight filled the room because the curtains were opened.",
-            "The curtains were opened because sunlight filled the room."
+            "Tomatoes grew on the vine because the insect pollinated the tomato flowers.",
+            "The insect pollinated the tomato flowers because tomatoes grew on the vine."
         ],
         "multiple_choice_scores": [
             1,
@@ -120,14 +225,14 @@
         ]
     },
     {
-        "idx": 37,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The picnic was cancelled.\n  choice: It rained.\nanswer:",
+        "idx": 14,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n  choice: The insect pollinated the tomato flowers because tomatoes grew on the vine.\nanswer:",
         "targets": [
-            "The man robbed a gas station."
+            "Tomatoes grew on the vine because the insect pollinated the tomato flowers."
         ],
         "multiple_choice_targets": [
-            "The performer ran off the stage because there was a wardrobe malfunction.",
-            "There was a wardrobe malfunction because the performer ran off the stage."
+            "Tomatoes grew on the vine because the insect pollinated the tomato flowers.",
+            "The insect pollinated the tomato flowers because tomatoes grew on the vine."
         ],
         "multiple_choice_scores": [
             1,
@@ -135,59 +240,14 @@
         ]
     },
     {
-        "idx": 40,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The milk was left outside the fridge over night because the man sipped the milk and spit it out.\n  choice: The man sipped the milk and spit it out because the milk was left outside the fridge over night.\nanswer:",
+        "idx": 45,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The picnic was cancelled because it rained.\n  choice: It rained because the picnic was cancelled.\nanswer:",
         "targets": [
-            "The meat spoiled because the power was out for days."
+            "The picnic was cancelled because it rained."
         ],
         "multiple_choice_targets": [
-            "The gardener planted a seed.",
-            "A flower grew."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 20,
-        "inputs": "",
-        "targets": [
-            "She went to the store and bought toilet paper because she noticed that she was out of toilet paper."
-        ],
-        "multiple_choice_targets": [
-            "Sunlight filled the room because the curtains were opened.",
-            "The curtains were opened because sunlight filled the room."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 40,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Jill won the lawsuit against Acme.\n  choice: Acme paid Jill's legal fees.\nanswer:",
-        "targets": [
-            "The girl caught a cold because the girl didn't wear her sweater."
-        ],
-        "multiple_choice_targets": [
-            "The team won the championship because the team won the game.",
-            "The team won the game because the team won the championship."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 0,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The window broke.\n  choice: The boy threw a rock.\nanswer:",
-        "targets": [
-            "A large object hit the Earth."
-        ],
-        "multiple_choice_targets": [
-            "The wind blew strong.",
-            "The ship capsized."
+            "The picnic was cancelled because it rained.",
+            "It rained because the picnic was cancelled."
         ],
         "multiple_choice_scores": [
             1,
@@ -196,13 +256,13 @@
     },
     {
         "idx": 29,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Bob opened the jar and was frustrated.\n  choice: Alice ate the last cookie.\nanswer:",
+        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: I studied hard.\n  choice: I got an A on the test.\nanswer:",
         "targets": [
-            "The woman who was walking on the street opened her umbrella because it started raining."
+            "I studied hard."
         ],
         "multiple_choice_targets": [
-            "The milk was left outside the fridge over night.",
-            "The man sipped the milk and spit it out."
+            "I studied hard.",
+            "I got an A on the test."
         ],
         "multiple_choice_scores": [
             1,
@@ -210,14 +270,14 @@
         ]
     },
     {
-        "idx": 10,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The curtains were opened because sunlight filled the room.\n  choice: Sunlight filled the room because the curtains were opened.\nanswer:",
+        "idx": 2,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Someone fainted because someone called 911.\n  choice: Someone called 911 because someone fainted.\nanswer:",
         "targets": [
-            "I got an A on the test because i studied hard."
+            "Someone called 911 because someone fainted."
         ],
         "multiple_choice_targets": [
-            "The meat spoiled because the power was out for days.",
-            "The power was out for days because the meat spoiled."
+            "Someone called 911 because someone fainted.",
+            "Someone fainted because someone called 911."
         ],
         "multiple_choice_scores": [
             1,
@@ -225,74 +285,14 @@
         ]
     },
     {
-        "idx": 38,
-        "inputs": "",
+        "idx": 6,
+        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl woke up covered in cold sweat because the girl had a nightmare.\n  choice: The girl had a nightmare because the girl woke up covered in cold sweat.\nanswer:",
         "targets": [
-            "The girl didn't wear her sweater."
+            "The girl woke up covered in cold sweat because the girl had a nightmare."
         ],
         "multiple_choice_targets": [
-            "There was a wardrobe malfunction.",
-            "The performer ran off the stage."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 27,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man climbed in through the window.\n  choice: The door was locked.\nanswer:",
-        "targets": [
-            "Light filled the room because i flipped the switch."
-        ],
-        "multiple_choice_targets": [
-            "The performer ran off the stage because there was a wardrobe malfunction.",
-            "There was a wardrobe malfunction because the performer ran off the stage."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 35,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man went to jail.\n  choice: The man robbed a gas station.\nanswer:",
-        "targets": [
-            "The ship capsized because the wind blew strong."
-        ],
-        "multiple_choice_targets": [
-            "The family went on vacation because school was on break.",
-            "School was on break because the family went on vacation."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 17,
-        "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The family went to the beach because the air conditioner broke.\n  choice: The air conditioner broke because the family went to the beach.\nanswer:",
-        "targets": [
-            "A man accidently pushed the vase off a counter."
-        ],
-        "multiple_choice_targets": [
-            "The girl caught a cold because the girl didn't wear her sweater.",
-            "The girl didn't wear her sweater because the girl caught a cold."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 33,
-        "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The vase shattered on the floor.\n  choice: A man accidently pushed the vase off a counter.\nanswer:",
-        "targets": [
-            "The man sued because the floor was wet."
-        ],
-        "multiple_choice_targets": [
-            "The vase shattered on the floor because a man accidently pushed the vase off a counter.",
-            "A man accidently pushed the vase off a counter because the vase shattered on the floor."
+            "The girl woke up covered in cold sweat because the girl had a nightmare.",
+            "The girl had a nightmare because the girl woke up covered in cold sweat."
         ],
         "multiple_choice_scores": [
             1,

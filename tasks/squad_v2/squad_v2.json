@@ -1,254 +1,262 @@
 [
     {
-        "id": "573252870fdd8d15006c699b",
-        "title": "Montevideo",
-        "context": "Non-cinematic HDTV video recordings intended for broadcast are typically recorded either in 720p or 1080i format as determined by the broadcaster. 720p is commonly used for Internet distribution of high-definition video, because most computer monitors operate in progressive-scan mode. 720p also imposes less strenuous storage and decoding requirements compared to both 1080i and 1080p. 1080p/24, 1080i/30, 1080i/25, and 720p/30 is most often used on Blu-ray Disc.",
-        "question": "What almost always corresponds to a single syllable?",
+        "id": "570f8bb680d9841400ab35b6",
+        "title": "Elizabeth_II",
+        "context": "Elizabeth and Philip were married on 20 November 1947 at Westminster Abbey. They received 2500 wedding gifts from around the world. Because Britain had not yet completely recovered from the devastation of the war, Elizabeth required ration coupons to buy the material for her gown, which was designed by Norman Hartnell. In post-war Britain, it was not acceptable for the Duke of Edinburgh's German relations, including his three surviving sisters, to be invited to the wedding. The Duke of Windsor, formerly King Edward VIII, was not invited either.",
+        "question": "At what famous cathedral was Elizabeth married?",
         "answers": {
             "text": [
-                "Harlequins and Saracens"
+                "Westminster Abbey"
             ],
             "answer_start": [
-                129
+                57
             ]
         }
     },
     {
-        "id": "572ee58003f9891900756ad5",
-        "title": "Modern_history",
-        "context": "After the Civil War began, Governor Zebulon Baird Vance ordered the construction of breastworks around the city as protection from Union troops. During General Sherman's Carolinas Campaign, Raleigh was captured by Union cavalry under the command of General Hugh Judson Kilpatrick on April 13, 1865. As the Confederate cavalry retreated west, the Union soldiers followed, leading to the nearby Battle of Morrisville. The city was spared significant destruction during the War, but due to the economic problems of the post-war period and Reconstruction, with a state economy based on agriculture, it grew little over the next several decades.",
-        "question": "What oxidation state repels zinc?",
+        "id": "572611d489a1e219009ac1e1",
+        "title": "Greece",
+        "context": "Greece is strategically located at the crossroads of Europe, Asia, and Africa. Situated on the southern tip of the Balkan peninsula, it shares land borders with Albania to the northwest, the Republic of Macedonia and Bulgaria to the north and Turkey to the northeast. Greece consists of nine geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands (including the Dodecanese and Cyclades), Thrace, Crete, and the Ionian Islands. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km (8,498 mi) in length, featuring a vast number of islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres (9,573 ft).",
+        "question": "How many geographic regions make up Greece?",
+        "answers": {
+            "text": [
+                "nine"
+            ],
+            "answer_start": [
+                287
+            ]
+        }
+    },
+    {
+        "id": "5728e1c04b864d1900165006",
+        "title": "Paris",
+        "context": "The remaining group, people born in foreign countries with no French citizenship at birth, are those defined as immigrants under French law. According to the 2012 census, 135,853 residents of the city of Paris were immigrants from Europe, 112,369 were immigrants from the Maghreb, 70,852 from sub-Saharan Africa and Egypt, 5,059 from Turkey, 91,297 from Asia (outside Turkey), 38,858 from the Americas, and 1,365 from the South Pacific. Note that the immigrants from the Americas and the South Pacific in Paris are vastly outnumbered by migrants from French overseas regions and territories located in these regions of the world.",
+        "question": "How many immigrants were in Paris in 2012 from Europe?",
+        "answers": {
+            "text": [
+                "135,853"
+            ],
+            "answer_start": [
+                171
+            ]
+        }
+    },
+    {
+        "id": "5a4fea83af0d07001ae8cc89",
+        "title": "Asthma",
+        "context": "While asthma is a well recognized condition, there is not one universal agreed upon definition. It is defined by the Global Initiative for Asthma as \"a chronic inflammatory disorder of the airways in which many cells and cellular elements play a role. The chronic inflammation is associated with airway hyper-responsiveness that leads to recurrent episodes of wheezing, breathlessness, chest tightness and coughing particularly at night or in the early morning. These episodes are usually associated with widespread but variable airflow obstruction within the lung that is often reversible either spontaneously or with treatment\".",
+        "question": "How do you stop the symptoms of cellular obstruction?",
         "answers": {
             "text": [],
             "answer_start": []
         }
     },
     {
-        "id": "5a7e596970df9f001a8757af",
-        "title": "Muammar_Gaddafi",
-        "context": "Ranthambore National Park is known worldwide for its tiger population and is considered by both wilderness lovers and photographers as one of the best place in India to spot tigers. At one point, due to poaching and negligence, tigers became extinct at Sariska, but five tigers have been relocated there. Prominent among the wildlife sanctuaries are Mount Abu Sanctuary, Bhensrod Garh Sanctuary, Darrah Sanctuary, Jaisamand Sanctuary, Kumbhalgarh Wildlife Sanctuary, Jawahar Sagar sanctuary, and Sita Mata Wildlife Sanctuary.",
-        "question": "What are cephalosporins produced by?",
+        "id": "5730a824396df91900096253",
+        "title": "Sumer",
+        "context": "The term \"Sumerian\" is the common name given to the ancient non-Semitic inhabitants of Mesopotamia, Sumer, by the Semitic Akkadians. The Sumerians referred to themselves as ùĝ saĝ gíg-ga (cuneiform: 𒌦 𒊕 𒈪 𒂵), phonetically /uŋ saŋ giga/, literally meaning \"the black-headed people\", and to their land as ki-en-gi(-r) ('place' + 'lords' + 'noble'), meaning \"place of the noble lords\". The Akkadian word Shumer may represent the geographical name in dialect, but the phonological development leading to the Akkadian term šumerû is uncertain. Hebrew Shinar, Egyptian Sngr, and Hittite Šanhar(a), all referring to southern Mesopotamia, could be western variants of Shumer.",
+        "question": "Shumer, an Akkadian word, could reference what type of name?",
         "answers": {
             "text": [
-                "authorization"
+                "geographical"
             ],
             "answer_start": [
-                286
+                426
             ]
         }
     },
     {
-        "id": "570e2d360dc6ce1900204e37",
-        "title": "Florida",
-        "context": "In 2005, the company sold its personal computer business to Chinese technology company Lenovo, and in the same year it agreed to acquire Micromuse. A year later IBM launched Secure Blue, a low-cost hardware design for data encryption that can be built into a microprocessor. In 2009 it acquired software company SPSS Inc. Later in 2009, IBM's Blue Gene supercomputing program was awarded the National Medal of Technology and Innovation by U.S. President Barack Obama. In 2011, IBM gained worldwide attention for its artificial intelligence program Watson, which was exhibited on Jeopardy! where it won against game-show champions Ken Jennings and Brad Rutter. As of 2012[update], IBM had been the top annual recipient of U.S. patents for 20 consecutive years.",
-        "question": "Which three areas are high in Irish and Polish?",
+        "id": "56d005a1234ae51400d9c27e",
+        "title": "New_York_City",
+        "context": "The city is represented in the National Football League by the New York Giants and the New York Jets, although both teams play their home games at MetLife Stadium in nearby East Rutherford, New Jersey, which hosted Super Bowl XLVIII in 2014.",
+        "question": "The New York Giants and the New York Jets place at which stadium in NYC?",
         "answers": {
             "text": [
-                "phenomenon distinct from sexual orientation"
+                "MetLife Stadium"
             ],
             "answer_start": [
-                793
+                147
             ]
         }
     },
     {
-        "id": "57278d8e5951b619008f8d52",
-        "title": "Xbox_360",
-        "context": "Most types of capacitor include a dielectric spacer, which increases their capacitance. These dielectrics are most often insulators. However, low capacitance devices are available with a vacuum between their plates, which allows extremely high voltage operation and low losses. Variable capacitors with their plates open to the atmosphere were commonly used in radio tuning circuits. Later designs use polymer foil dielectric between the moving and stationary plates, with no significant air space between them.",
-        "question": "How did Jan Hus die?",
-        "answers": {
-            "text": [
-                "tonnage"
-            ],
-            "answer_start": [
-                431
-            ]
-        }
-    },
-    {
-        "id": "5728a5753acd2414000dfbbf",
-        "title": "Seattle",
-        "context": "IBM has been a leading proponent of the Open Source Initiative, and began supporting Linux in 1998. The company invests billions of dollars in services and software based on Linux through the IBM Linux Technology Center, which includes over 300 Linux kernel developers. IBM has also released code under different open source licenses, such as the platform-independent software framework Eclipse (worth approximately US$40 million at the time of the donation), the three-sentence International Components for Unicode (ICU) license, and the Java-based relational database management system (RDBMS) Apache Derby. IBM's open source involvement has not been trouble-free, however (see SCO v. IBM).",
-        "question": "What song of Whitehead's is now considered a primary source of process philosophy?",
-        "answers": {
-            "text": [
-                "CDS"
-            ],
-            "answer_start": [
-                554
-            ]
-        }
-    },
-    {
-        "id": "5730b096396df9190009629d",
-        "title": "Aspirated_consonant",
-        "context": "Greek citizens who are Roman Catholic are estimated to be at around 50,000 with the Roman Catholic immigrant community in the country approximately 200,000. Old Calendarists account for 500,000 followers. Protestants, including Greek Evangelical Church and Free Evangelical Churches, stand at about 30,000. Assemblies of God, International Church of the Foursquare Gospel and other Pentecostal churches of the Greek Synod of Apostolic Church have 12,000 members. Independent Free Apostolic Church of Pentecost is the biggest Protestant denomination in Greece with 120 churches. There are not official statistics about Free Apostolic Church of Pentecost, but the Orthodox Church estimates the followers as 20,000. The Jehovah's Witnesses report having 28,874 active members. In recent years there has been a small-scale revival of the ancient Greek religion, with estimates of 2,000 people active practitioners, and 100,000 \"sympathisers\".",
-        "question": "What was the cause of Albert's ill health in 1917?",
+        "id": "5a820bf031013a001a33513d",
+        "title": "Phonology",
+        "context": "An important part of traditional, pre-generative schools of phonology is studying which sounds can be grouped into distinctive units within a language; these units are known as phonemes. For example, in English, the \"p\" sound in pot is aspirated (pronounced [pʰ]) while that in spot is not aspirated (pronounced [p]). However, English speakers intuitively treat both sounds as variations (allophones) of the same phonological category, that is of the phoneme /p/. (Traditionally, it would be argued that if an aspirated [pʰ] were interchanged with the unaspirated [p] in spot, native speakers of English would still hear the same words; that is, the two sounds are perceived as \"the same\" /p/.) In some other languages, however, these two sounds are perceived as different, and they are consequently assigned to different phonemes. For example, in Thai, Hindi, and Quechua, there are minimal pairs of words for which aspiration is the only contrasting feature (two words can have different meanings but with the only difference in pronunciation being that one has an aspirated sound where the other has an unaspirated one).",
+        "question": "What is the opposite of phoneme?",
         "answers": {
             "text": [],
             "answer_start": []
         }
     },
     {
-        "id": "57339febd058e614000b5f0f",
-        "title": "Edmund_Burke",
-        "context": "In addition to numerous articles on mathematics, Whitehead wrote three major books on the subject: A Treatise on Universal Algebra (1898), Principia Mathematica (co-written with Bertrand Russell and published in three volumes between 1910 and 1913), and An Introduction to Mathematics (1911). The former two books were aimed exclusively at professional mathematicians, while the latter book was intended for a larger audience, covering the history of mathematics and its philosophical foundations. Principia Mathematica in particular is regarded as one of the most important works in mathematical logic of the 20th century.",
-        "question": "When do earlier approaches to translation lose relevance for historians?",
+        "id": "5725bcfc38643c19005acc2b",
+        "title": "Israel",
+        "context": "In 1992, Yitzhak Rabin became Prime Minister following an election in which his party called for compromise with Israel's neighbors. The following year, Shimon Peres on behalf of Israel, and Mahmoud Abbas for the PLO, signed the Oslo Accords, which gave the Palestinian National Authority the right to govern parts of the West Bank and the Gaza Strip. The PLO also recognized Israel's right to exist and pledged an end to terrorism. In 1994, the Israel–Jordan Treaty of Peace was signed, making Jordan the second Arab country to normalize relations with Israel. Arab public support for the Accords was damaged by the continuation of Israeli settlements and checkpoints, and the deterioration of economic conditions. Israeli public support for the Accords waned as Israel was struck by Palestinian suicide attacks. Finally, while leaving a peace rally in November 1995, Yitzhak Rabin was assassinated by a far-right-wing Jew who opposed the Accords.",
+        "question": "Who became the Prime Minister in 1992?",
         "answers": {
             "text": [
-                "The powerful muscles of the gizzard"
+                "Yitzhak Rabin"
             ],
             "answer_start": [
-                546
+                9
             ]
         }
     },
     {
-        "id": "5733612b4776f41900660936",
-        "title": "Comics",
-        "context": "The abbey was restored to the Benedictines under the Catholic Mary I of England, but they were again ejected under Elizabeth I in 1559. In 1560, Elizabeth re-established Westminster as a \"Royal Peculiar\" – a church of the Church of England responsible directly to the Sovereign, rather than to a diocesan bishop – and made it the Collegiate Church of St Peter (that is, a non-cathedral church with an attached chapter of canons, headed by a dean.) The last of Mary's abbots was made the first dean.",
-        "question": "What aided in records sales in the 1950s?",
+        "id": "57270105dd62a815002e9775",
+        "title": "Glacier",
+        "context": "Crevasses can form in several different ways. Transverse crevasses are transverse to flow and form where steeper slopes cause a glacier to accelerate. Longitudinal crevasses form semi-parallel to flow where a glacier expands laterally. Marginal crevasses form from the edge of the glacier, due to the reduction in speed caused by friction of the valley walls. Marginal crevasses are usually largely transverse to flow. Moving glacier ice can sometimes separate from stagnant ice above, forming a bergschrund. Bergschrunds resemble crevasses but are singular features at a glacier's margins.",
+        "question": "How are bergschrunds different than crevasses?",
         "answers": {
             "text": [
-                "80"
+                "singular features at a glacier's margins"
             ],
             "answer_start": [
-                713
+                549
             ]
         }
     },
     {
-        "id": "5a65dc17c2b11c001a425d78",
-        "title": "Canadian_Armed_Forces",
-        "context": "In 1954, then-mayor Richard C. Lee began some of the earliest major urban renewal projects in the United States. Certain sections of downtown New Haven were redeveloped to include museums, new office towers, a hotel, and large shopping complexes. Other parts of the city were affected by the construction of Interstate 95 along the Long Wharf section, Interstate 91, and the Oak Street Connector. The Oak Street Connector (Route 34), running between Interstate 95, downtown, and The Hill neighborhood, was originally intended as a highway to the city's western suburbs but was only completed as a highway to the downtown area, with the area to the west becoming a boulevard (See \"Redevelopment\" below).",
-        "question": "Through which channel is the Fox Sports league broadcast in the US?",
-        "answers": {
-            "text": [
-                "all organisms are exposed to severe competition"
-            ],
-            "answer_start": [
-                71
-            ]
-        }
-    },
-    {
-        "id": "56f963d79e9bad19000a08b8",
-        "title": "Mesozoic",
-        "context": "The red flag appeared as a political symbol during the French Revolution, after the fall of Bastille. A law adopted by the new government on October 20, 1789 authorized the Garde Nationale to raise the red flag in the event of a riot, to signal that the Garde would imminently intervene. During a demonstration on the Champs de Mars on July 17, 1791, the Garde Nationale fired on the crowd, killed up to fifty people. The government was denounced by the more radical revolutionaries. In the words of his famous hymn, the Marseillaise, Rouget de Lisle wrote: \"Against us they have raised the bloody flag of tyranny!\" (Contre nous de la tyrannie, l'entendard sanglant est leve). Beginning in 1790, the most radical revolutionaries adopted the red flag themselves, to symbolize the blood of those killed in the demonstrations, and to call for the repression of those they considered counter-revolutionary.",
-        "question": "Why was this drug pulled off shelves?",
-        "answers": {
-            "text": [
-                "Brahmi"
-            ],
-            "answer_start": [
-                1061
-            ]
-        }
-    },
-    {
-        "id": "572a8598111d821400f38ba7",
-        "title": "The_Blitz",
-        "context": "IBM has constantly evolved since its inception. Over the past decade, it has steadily shifted its business mix by exiting commoditizing markets such as PCs, hard disk drives and DRAMs and focusing on higher-value, more profitable markets such as business intelligence, data analytics, business continuity, security, cloud computing, virtualization and green solutions, resulting in a higher quality revenue stream and higher profit margins. IBM's operating margin expanded from 16.8% in 2004 to 24.3% in 2013, and net profit margins expanded from 9.0% in 2004 to 16.5% in 2013.",
-        "question": "Who wrote the article \"Searching for Consensus and Predictability: Habitat Conservation Planning under the Endangered Species Act of 1973.\"",
-        "answers": {
-            "text": [
-                "fferyllydd"
-            ],
-            "answer_start": [
-                777
-            ]
-        }
-    },
-    {
-        "id": "5ad3f94e604f3c001a3ffab1",
-        "title": "Annelid",
-        "context": "As of 2008, there were an estimated 150–200 million native speakers of Iranian languages. Ethnologue estimates there are 86 Iranian languages, the largest amongst them being Persian, Pashto, Kurdish, and Balochi.",
-        "question": "What permits elements with different mathematical starting points to be taken care of in a flexible manner while holding their key basic aspects?",
+        "id": "5ace39eb32bba1001ae49f51",
+        "title": "Washington_University_in_St._Louis",
+        "context": "Washington University supports four major student-run media outlets. The university's student newspaper, Student Life, is available for students. KWUR (90.3 FM) serves as the students' official radio station; the station also attracts an audience in the immediately surrounding community due to its eclectic and free-form musical programming. WUTV is the university's closed-circuit television channel. The university's main student-run political publication is the Washington University Political Review (nicknamed \"WUPR\"), a self-described \"multipartisan\" monthly magazine. Washington University undergraduates publish two literary and art journals, The Eliot Review and Spires Intercollegiate Arts and Literary Magazine. A variety of other publications also serve the university community, ranging from in-house academic journals to glossy alumni magazines to WUnderground, campus' student-run satirical newspaper.",
+        "question": "How many student-run political publications are there at Washington University?",
         "answers": {
             "text": [],
             "answer_start": []
         }
     },
     {
-        "id": "5ad35dfa604f3c001a3fdecc",
-        "title": "Infection",
-        "context": "Roads in the US have been paved with materials that include asphalt/bitumen since at least 1870, when a street in front of the Newark, NJ City Hall was paved. In many cases, these early pavings were made from naturally occurring \"bituminous rock\", such as at Ritchie Mines in Macfarlan in Ritchie County, West Virginia from 1852 to 1873. In 1876, asphalt-based paving was used to pave Pennsylvania Avenue in Washington, DC, in time for the celebration of the national centennial. Asphalt/bitumen was also used for flooring, paving and waterproofing of baths and swimming pools during the early 20th century, following similar trends in Europe.",
-        "question": "What was Southeast Asia also known as?",
-        "answers": {
-            "text": [],
-            "answer_start": []
-        }
-    },
-    {
-        "id": "57279e8c4b864d19001638b2",
-        "title": "Miami",
-        "context": "It was temporarily under the control of the Tibetan empire and Chinese from 650–680 and then under the control of the Umayyads in 710. The Samanid Empire, 819 to 999, restored Persian control of the region and enlarged the cities of Samarkand and Bukhara (both cities are today part of Uzbekistan) which became the cultural centers of Iran and the region was known as Khorasan. The Kara-Khanid Khanate conquered Transoxania (which corresponds approximately with modern-day Uzbekistan, Tajikistan, southern Kyrgyzstan and southwest Kazakhstan) and ruled between 999–1211. Their arrival in Transoxania signaled a definitive shift from Iranian to Turkic predominance in Central Asia, but gradually the Kara-khanids became assimilated into the Perso-Arab Muslim culture of the region.",
-        "question": "Who held that rationality is restricted  to the realm of empirical or scientific theories?",
+        "id": "57324ffa0fdd8d15006c6962",
+        "title": "The_Bronx",
+        "context": "The Bronx contains one of the five poorest Congressional Districts in the United States, the 15th, but its wide diversity also includes affluent, upper-income and middle-income neighborhoods such as Riverdale, Fieldston, Spuyten Duyvil, Schuylerville, Pelham Bay, Pelham Gardens, Morris Park and Country Club. The Bronx, particularly the South Bronx, saw a sharp decline in population, livable housing, and the quality of life in the late 1960s and the 1970s, culminating in a wave of arson. Since then the communities have shown significant redevelopment starting in the late 1980s before picking up pace in the 1990s into today.",
+        "question": "What crime problem happened in the Bronx in the 70s?",
         "answers": {
             "text": [
-                "1968"
+                "arson"
             ],
             "answer_start": [
-                542
+                485
             ]
         }
     },
     {
-        "id": "57310107a5e9cc1400cdbb88",
-        "title": "University_of_Kansas",
-        "context": "Weeks after ending the Sex Pistols, Lydon formed the experimental group Public Image Ltd and declared the project to be \"anti music of any kind\". Public Image and other acts such as the Pop Group and the Slits had begun experimenting with dance music, dub production techniques and the avant-garde, while punk-indebted Manchester acts such as Joy Division, The Fall and A Certain Ratio developed unique styles which drew on a similarly disparate range of influences across music and modernist literature. Bands such as Scritti Politti, Gang of Four and This Heat incorporated Leftist political philosophy and their own art school studies in their work.",
-        "question": "Which of Bell's students is the most well known?",
-        "answers": {
-            "text": [],
-            "answer_start": []
-        }
-    },
-    {
-        "id": "56f837eba6d7ea1400e174b8",
-        "title": "Xbox_360",
-        "context": "Traditionally the annelids have been divided into two major groups, the polychaetes and clitellates. In turn the clitellates were divided into oligochaetes, which include earthworms, and hirudinomorphs, whose best-known members are leeches. For many years there was no clear arrangement of the approximately 80 polychaete families into higher-level groups. In 1997 Greg Rouse and Kristian Fauchald attempted a \"first heuristic step in terms of bringing polychaete systematics to an acceptable level of rigour\", based on anatomical structures, and divided polychaetes into:",
-        "question": "What has stopped pressuring department stores in more recent years?",
+        "id": "573360d64776f41900660929",
+        "title": "Portugal",
+        "context": "But Sebastião de Melo's greatest reforms were economic and financial, with the creation of several companies and guilds to regulate every commercial activity. He demarcated the region for production of Port to ensure the wine's quality, and this was the first attempt to control wine quality and production in Europe. He ruled with a strong hand by imposing strict law upon all classes of Portuguese society from the high nobility to the poorest working class, along with a widespread review of the country's tax system. These reforms gained him enemies in the upper classes, especially among the high nobility, who despised him as a social upstart.",
+        "question": "Why did e Melo demarcate the region for production of Port?",
         "answers": {
             "text": [
-                "adjustable-rate mortgage"
+                "to ensure the wine's quality"
             ],
             "answer_start": [
-                139
+                207
             ]
         }
     },
     {
-        "id": "5735c1dedc94161900571fbd",
-        "title": "Green",
-        "context": "In 2011, the International Energy Agency said that \"the development of affordable, inexhaustible and clean solar energy technologies will have huge longer-term benefits. It will increase countries’ energy security through reliance on an indigenous, inexhaustible and mostly import-independent resource, enhance sustainability, reduce pollution, lower the costs of mitigating global warming, and keep fossil fuel prices lower than otherwise. These advantages are global. Hence the additional costs of the incentives for early deployment should be considered learning investments; they must be wisely spent and need to be widely shared\".",
-        "question": "Whitehead sees life as directed towards what purpose?",
-        "answers": {
-            "text": [],
-            "answer_start": []
-        }
-    },
-    {
-        "id": "57324f0de99e3014001e6697",
-        "title": "Neoclassical_architecture",
-        "context": "In the 1520s during the Protestant Reformation, the city, under the political guidance of Jacob Sturm von Sturmeck and the spiritual guidance of Martin Bucer embraced the religious teachings of Martin Luther. Their adherents established a Gymnasium, headed by Johannes Sturm, made into a University in the following century. The city first followed the Tetrapolitan Confession, and then the Augsburg Confession. Protestant iconoclasm caused much destruction to churches and cloisters, notwithstanding that Luther himself opposed such a practice. Strasbourg was a centre of humanist scholarship and early book-printing in the Holy Roman Empire, and its intellectual and political influence contributed much to the establishment of Protestantism as an accepted denomination in the southwest of Germany. (John Calvin spent several years as a political refugee in the city). The Strasbourg Councillor Sturm and guildmaster Matthias represented the city at the Imperial Diet of Speyer (1529), where their protest led to the schism of the Catholic Church and the evolution of Protestantism. Together with four other free cities, Strasbourg presented the confessio tetrapolitana as its Protestant book of faith at the Imperial Diet of Augsburg in 1530, where the slightly different Augsburg Confession was also handed over to Charles V, Holy Roman Emperor.",
-        "question": "Critics of modern separation of church and state note there was official establishment of what in several states at the time of ratification?",
+        "id": "571090e2a58dae1900cd6a3a",
+        "title": "Age_of_Enlightenment",
+        "context": "In Germany, practical reference works intended for the uneducated majority became popular in the 18th century. The Marperger Curieuses Natur-, Kunst-, Berg-, Gewerkund Handlungs-Lexicon (1712) explained terms that usefully described the trades and scientific and commercial education. Jablonksi Allgemeines Lexicon (1721) was better known than the Handlungs-Lexicon, and underscored technical subjects rather than scientific theory. For example, over five columns of text were dedicated to wine, while geometry and logic were allocated only twenty-two and seventeen lines, respectively. The first edition of the Encyclopædia Britannica (1771) was modelled along the same lines as the German lexicons.",
+        "question": "The Encyclopaedia Britannica was modelled along the same lines as a work from which country?",
         "answers": {
             "text": [
-                "Romans"
+                "Germany"
             ],
             "answer_start": [
-                349
+                3
             ]
         }
     },
     {
-        "id": "5a7a513117ab25001a8a04ee",
-        "title": "Jehovah%27s_Witnesses",
-        "context": "In the post-apartheid era, the Constitution of South Africa has declared the country to be a \"Non-racial democracy\". In an effort to redress past injustices, the ANC government has introduced laws in support of affirmative action policies for Blacks; under these they define \"Black\" people to include \"Africans\", \"Coloureds\" and \"Asians\". Some affirmative action policies favor \"Africans\" over \"Coloureds\" in terms of qualifying for certain benefits. Some South Africans categorized as \"African Black\" say that \"Coloureds\" did not suffer as much as they did during apartheid. \"Coloured\" South Africans are known to discuss their dilemma by saying, \"we were not white enough under apartheid, and we are not black enough under the ANC (African National Congress)\".[citation needed]",
-        "question": "How many Salvadorans immigrated?",
+        "id": "5a712f290efcfe001a8afd98",
+        "title": "Pesticide",
+        "context": "Some pesticides are considered too hazardous for sale to the general public and are designated restricted use pesticides. Only certified applicators, who have passed an exam, may purchase or supervise the application of restricted use pesticides. Records of sales and use are required to be maintained and may be audited by government agencies charged with the enforcement of pesticide regulations. These records must be made available to employees and state or territorial environmental regulatory agencies.",
+        "question": "What is something the public doesn't want the government to do to their finances?",
         "answers": {
             "text": [],
             "answer_start": []
+        }
+    },
+    {
+        "id": "56e164bccd28a01900c6785c",
+        "title": "Boston",
+        "context": "The area's many colleges and universities are active in college athletics. Four NCAA Division I members play in the city—Boston College, Boston University, Harvard University, and Northeastern University. Of the four, only Boston College participates in college football at the highest level, the Football Bowl Subdivision. Harvard participates in the second-highest level, the Football Championship Subdivision.",
+        "question": "Who participates in the second highest level of college football?",
+        "answers": {
+            "text": [
+                "Harvard"
+            ],
+            "answer_start": [
+                156
+            ]
+        }
+    },
+    {
+        "id": "572669bc5951b619008f71eb",
+        "title": "Presbyterianism",
+        "context": "Some Presbyterian traditions adopt only the Westminster Confession of Faith as the doctrinal standard to which teaching elders are required to subscribe, in contrast to the Larger and Shorter catechisms, which are approved for use in instruction. Many Presbyterian denominations, especially in North America, have adopted all of the Westminster Standards as their standard of doctrine which is subordinate to the Bible. These documents are Calvinistic in their doctrinal orientation. The Presbyterian Church in Canada retains the Westminster Confession of Faith in its original form, while admitting the historical period in which it was written should be understood when it is read.",
+        "question": "What traditions do some Presbyterian churches only adopt as their doctrinal standard?",
+        "answers": {
+            "text": [
+                "Westminster Confession of Faith"
+            ],
+            "answer_start": [
+                44
+            ]
+        }
+    },
+    {
+        "id": "56f7607aa6d7ea1400e17223",
+        "title": "Classical_music",
+        "context": "Numerous examples show influence in the opposite direction, including popular songs based on classical music, the use to which Pachelbel's Canon has been put since the 1970s, and the musical crossover phenomenon, where classical musicians have achieved success in the popular music arena. In heavy metal, a number of lead guitarists (playing electric guitar) modeled their playing styles on Baroque or Classical era instrumental music, including Ritchie Blackmore and Randy Rhoads.",
+        "question": "Ritchie Blackmore and Randy Rhoads play what instrument?",
+        "answers": {
+            "text": [
+                "electric guitar"
+            ],
+            "answer_start": [
+                342
+            ]
+        }
+    },
+    {
+        "id": "5ad0f256645df0001a2d0890",
+        "title": "Gothic_architecture",
+        "context": "Expansive interior light has been a feature of Gothic cathedrals since the first structure was opened. The metaphysics of light in the Middle Ages led to clerical belief in its divinity and the importance of its display in holy settings. Much of this belief was based on the writings of Pseudo-Dionysius, a sixth-century mystic whose book, The Celestial Hierarchy, was popular among monks in France. Pseudo-Dionysius held that all light, even light reflected from metals or streamed through windows, was divine. To promote such faith, the abbot in charge of the Saint-Denis church on the north edge of Paris, the Abbot Suger, encouraged architects remodeling the building to make the interior as bright as possible.",
+        "question": "Who held the belief that all light, including light reflected from walls and surfaces was fake?",
+        "answers": {
+            "text": [],
+            "answer_start": []
+        }
+    },
+    {
+        "id": "5727d9374b864d1900163e79",
+        "title": "Sahara",
+        "context": "To the south, the Sahara is bounded by the Sahel, a belt of dry tropical savanna with a summer rainy season that extends across Africa from east to west. The southern limit of the Sahara is indicated botanically by the southern limit of Cornulaca monacantha (a drought-tolerant member of the Chenopodiaceae), or northern limit of Cenchrus biflorus, a grass typical of the Sahel. According to climatic criteria, the southern limit of the Sahara corresponds to the 150 mm (5.9 in) isohyet of annual precipitation (this is a long-term average, since precipitation varies annually).",
+        "question": "What kind of climate does the Sahel have?",
+        "answers": {
+            "text": [
+                "dry tropical"
+            ],
+            "answer_start": [
+                60
+            ]
+        }
+    },
+    {
+        "id": "5726d01c5951b619008f7ebb",
+        "title": "Korean_War",
+        "context": "UN aerial reconnaissance had difficulty sighting PVA units in daytime, because their march and bivouac discipline minimized aerial detection. The PVA marched \"dark-to-dark\" (19:00–03:00), and aerial camouflage (concealing soldiers, pack animals, and equipment) was deployed by 05:30. Meanwhile, daylight advance parties scouted for the next bivouac site. During daylight activity or marching, soldiers were to remain motionless if an aircraft appeared, until it flew away; PVA officers were under order to shoot security violators. Such battlefield discipline allowed a three-division army to march the 286 miles (460 km) from An-tung, Manchuria, to the combat zone in some 19 days. Another division night-marched a circuitous mountain route, averaging 18 miles (29 km) daily for 18 days.",
+        "question": "When would PVA forces march to minimize the chances of being seen?",
+        "answers": {
+            "text": [
+                "19:00–03:00"
+            ],
+            "answer_start": [
+                174
+            ]
         }
     }
 ]

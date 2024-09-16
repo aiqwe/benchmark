@@ -1,51 +1,13 @@
 [
     {
-        "id": "Mercury_7159548",
-        "question": "There is a river at the base of Mount Tom. In the spring the water level is usually very high. In the summer it is lower. The higher level of water during the spring comes from",
+        "id": "Mercury_7040915",
+        "question": "When the Northern Hemisphere is tilted toward the Sun, what season is occurring in Australia?",
         "choices": {
             "text": [
-                "fur color",
-                "hunting skills",
-                "feeding behavior",
-                "sleeping routine"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "Mercury_SC_400399",
-        "question": "Which best describes a characteristic of the jet stream?",
-        "choices": {
-            "text": [
-                "the movement of the Sun.",
-                "the rotation of Earth.",
-                "the movement of the Moon.",
-                "the tilt of Earth."
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "Mercury_7185588",
-        "question": "A student conducts an investigation. In order to make a valid conclusion, she must",
-        "choices": {
-            "text": [
-                "a solid natural material with a crystal structure",
-                "a material that was once living but has decayed",
-                "a liquid chemical used to make soil more fertile",
-                "a nutrient produced by plants that other organisms need"
+                "fall",
+                "winter",
+                "spring",
+                "summer"
             ],
             "label": [
                 "A",
@@ -57,14 +19,14 @@
         "answerKey": "B"
     },
     {
-        "id": "Mercury_7205433",
-        "question": "Which of these properties of water helps moderate the weather of coastal areas?",
+        "id": "Mercury_SC_400301",
+        "question": "The floating arrow on a compass always points towards the",
         "choices": {
             "text": [
-                "Prey insects would become inedible.",
-                "Tadpoles would be unable to survive.",
-                "Breeding sites would become unavailable.",
-                "Predators would choose another food source."
+                "west.",
+                "east.",
+                "south.",
+                "north."
             ],
             "label": [
                 "A",
@@ -76,33 +38,33 @@
         "answerKey": "D"
     },
     {
-        "id": "Mercury_SC_413301",
-        "question": "Which statement best explains Earth's day and night cycle?",
+        "id": "Mercury_7164605",
+        "question": "Some students were on a tour exploring the inside of a cave. While the students were in the cave, they realized they heard an echo every time that they spoke. Which most likely caused the echo to occur?",
         "choices": {
             "text": [
-                "tidal activity",
-                "orbital shape",
-                "weather and climate",
-                "rotation and revolution"
+                "the accumulation of the sound waves",
+                "the diffraction of the sound waves",
+                "the refraction of the sound waves",
+                "the reflection of the sound waves"
             ],
             "label": [
-                "1",
-                "2",
-                "3",
-                "4"
+                "A",
+                "B",
+                "C",
+                "D"
             ]
         },
         "answerKey": "D"
     },
     {
-        "id": "VASoL_2007_3_16",
-        "question": "Condensation in the water cycle can best be described as the result of water vapor",
+        "id": "Mercury_7043925",
+        "question": "Sound waves can pass through all of these except",
         "choices": {
             "text": [
-                "They have no roots to anchor them to the ocean floor.",
-                "They can live only where there is light.",
-                "The pressure is too great for them to survive below 100 meters.",
-                "If the algae lived below 100 meters they would be eaten by animals."
+                "air.",
+                "steel.",
+                "water.",
+                "a vacuum."
             ],
             "label": [
                 "A",
@@ -111,55 +73,17 @@
                 "D"
             ]
         },
-        "answerKey": "C"
+        "answerKey": "D"
     },
     {
-        "id": "Mercury_7145303",
-        "question": "Air is made up of many gases. Which gas is found in the greatest amount?",
+        "id": "Mercury_SC_401769",
+        "question": "The Grand Canyon is an example of",
         "choices": {
             "text": [
-                "hearing",
-                "smell",
-                "taste",
-                "touch"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "Mercury_400886",
-        "question": "Which of these particles, when found in soil, contributes most to the water retention in soil?",
-        "choices": {
-            "text": [
-                "deer",
-                "frog",
-                "hawk",
-                "squirrel"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "Mercury_7262815",
-        "question": "Several interchangeable parts are used in the manufacture of automobiles. Some examples of these parts are batteries, windshield wiper blades, spark plugs, and tires. Which of the following is an advantage of interchangeable parts over non-interchangeable parts on automobiles?",
-        "choices": {
-            "text": [
-                "siltstone",
-                "sandstone",
-                "marble",
-                "shale"
+                "erosion.",
+                "deposition.",
+                "an earthquake.",
+                "volcanic activity."
             ],
             "label": [
                 "A",
@@ -171,109 +95,33 @@
         "answerKey": "A"
     },
     {
-        "id": "Mercury_7211698",
-        "question": "Solar radiation has a part in the water cycle by",
+        "id": "NYSEDREGENTS_2005_8_37",
+        "question": "Which example would result in new cells that are most different from the parent cells?",
         "choices": {
             "text": [
-                "the ability to roar",
-                "the ability to hunt",
-                "a diet of land mammals",
-                "being born during spring months"
+                "yeast cells splitting into new cells",
+                "bacteria cells dividing into new cells",
+                "skin cells dividing to produce more skin cells",
+                "sperm and egg cells uniting to produce fertilized egg cells"
             ],
             "label": [
-                "A",
-                "B",
-                "C",
-                "D"
+                "1",
+                "2",
+                "3",
+                "4"
             ]
         },
-        "answerKey": "C"
+        "answerKey": "4"
     },
     {
-        "id": "VASoL_2009_5_11",
-        "question": "Which of the following gases do plants use in photosynthesis?",
+        "id": "Mercury_7011218",
+        "question": "The burning of fossil fuels has added pollutants that contain sulfur atoms to the air. These pollutants have contributed to which of the following?",
         "choices": {
             "text": [
-                "volcanic emissions",
-                "combustion of fossil fuels",
-                "destruction of tropical forests",
-                "mining and mineral extraction"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "Mercury_7138618",
-        "question": "Earth is about 81 times more massive than the Moon. How will the mass and weight of a rocket on the Moon compare to its mass and weight on Earth?",
-        "choices": {
-            "text": [
-                "hearing",
-                "smell",
-                "taste",
-                "touch"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "NYSEDREGENTS_2004_8_1",
-        "question": "What types of cells are found only in organisms that reproduce sexually?",
-        "choices": {
-            "text": [
-                "burning it",
-                "recycling it",
-                "burying it in landfills",
-                "crushing it before throwing it away"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "E"
-    },
-    {
-        "id": "LEAP_2009_4_10292",
-        "question": "A student is working on a science project display for the school science fair. To best communicate why her conclusions are valid, what should be included on the display?",
-        "choices": {
-            "text": [
-                "oil",
-                "gas",
-                "coal",
-                "shale"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "Mercury_SC_402285",
-        "question": "From smallest to largest, the levels of organization in living things are",
-        "choices": {
-            "text": [
-                "The car weighs more on the carpet.",
-                "The car weighs more on the floor.",
-                "The carpet has more resistance.",
-                "The floor has more traction."
+                "drought",
+                "acid rain",
+                "tornadoes",
+                "temperature inversions"
             ],
             "label": [
                 "A",
@@ -285,14 +133,14 @@
         "answerKey": "B"
     },
     {
-        "id": "Mercury_184625",
-        "question": "What goal does taxonomy accomplish?",
+        "id": "Mercury_SC_407568",
+        "question": "Mark wants to make lemonade for his friends. He uses water, lemon juice, and sugar. Which of these best describes the lemonade?",
         "choices": {
             "text": [
-                "insulator",
-                "conductor",
-                "malleable",
-                "porous"
+                "a mixture",
+                "a metal",
+                "an element",
+                "a compound"
             ],
             "label": [
                 "A",
@@ -301,36 +149,17 @@
                 "D"
             ]
         },
-        "answerKey": "D"
+        "answerKey": "A"
     },
     {
-        "id": "Mercury_405468",
-        "question": "Which list contains only nonliving things?",
+        "id": "CSZ_2005_5_CSZ10170",
+        "question": "How do plants most commonly break large rocks into smaller pieces?",
         "choices": {
             "text": [
-                "layers of fat",
-                "thick bones",
-                "slow digestion",
-                "large lungs"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "MEAP_2005_8_41",
-        "question": "Estella spilled tomato sauce on her shirt. When she washed her shirt, she noticed that the detergent she used contained enzymes. Enzymes are added to detergents to break down proteins from food and other substances that may stain clothing. Which would most likely inhibit the ability of the enzymes to remove the stain on her shirt?",
-        "choices": {
-            "text": [
-                "caves",
-                "mountains",
-                "plains",
-                "valleys"
+                "Plant leaves insulate surrounding rocks from extreme temperatures.",
+                "Plant roots grow into cracks in rocks.",
+                "Seeds from plants fall onto rocks and release acidic compounds.",
+                "Stems of plants surround and squeeze rocks."
             ],
             "label": [
                 "A",
@@ -342,14 +171,14 @@
         "answerKey": "B"
     },
     {
-        "id": "Mercury_405768",
-        "question": "What characteristic helps a rabbit survive in a winter environment?",
+        "id": "NCEOGA_2013_8_37",
+        "question": "Scientists think that dolphins and whales may have evolved from a common ancestor. What evidence supports this hypothesis?",
         "choices": {
             "text": [
-                "provide energy for consumers.",
-                "depend on other organisms for shelter.",
-                "break down dead animal matter.",
-                "consume nutrients for energy."
+                "They swim the same way.",
+                "They eat the same food.",
+                "They live in the same area of the ocean.",
+                "They have similar anatomies."
             ],
             "label": [
                 "A",
@@ -361,14 +190,71 @@
         "answerKey": "D"
     },
     {
-        "id": "Mercury_7074935",
-        "question": "Which of these is a function of a leaf?",
+        "id": "Mercury_7270183",
+        "question": "Scientists Stanley Miller and Harold Urey sealed water, methane, ammonia, and hydrogen in a flask, to simulate Earth's early environment. They exposed the chemicals to electric charges to simulate lighting. What did the process produce?",
         "choices": {
             "text": [
-                "by protecting deer from other predators",
-                "by controlling the deer population",
-                "by decreasing diversity within the herd",
-                "by protecting the deer from disease"
+                "bacteria",
+                "nucleic acids",
+                "viruses",
+                "amino acids"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "Mercury_7220903",
+        "question": "A cell that is unable to import substances required to process chemical energy is most likely a result of a malfunctioning",
+        "choices": {
+            "text": [
+                "cell membrane.",
+                "endoplasmic reticulum.",
+                "Golgi body.",
+                "nuclear envelope."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "Mercury_SC_LBS10908",
+        "question": "Why are many telescopes used far from cities?",
+        "choices": {
+            "text": [
+                "The light from the cities makes it hard to see stars.",
+                "The noise from the cities vibrates the telescopes.",
+                "The power lines from the cities produce interference waves.",
+                "The pollution from the cities reflects starlight."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "TIMSS_2011_8_pg14",
+        "question": "Which of the following can provide the human body with long-term immunity against some diseases?",
+        "choices": {
+            "text": [
+                "antibiotics",
+                "vitamins",
+                "vaccines",
+                "red blood cells"
             ],
             "label": [
                 "A",
@@ -378,5 +264,119 @@
             ]
         },
         "answerKey": "C"
+    },
+    {
+        "id": "Mercury_SC_410572",
+        "question": "During winter months, Amina sometimes notices ice covering the hoods of parked cars. Once the engine of the car runs for a while, the ice on the hood begins to melt. What form of energy is released from the car engine to melt the ice?",
+        "choices": {
+            "text": [
+                "chemical",
+                "electrical",
+                "heat",
+                "light"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_7043925",
+        "question": "Sound waves can pass through all of these except",
+        "choices": {
+            "text": [
+                "air.",
+                "steel.",
+                "water.",
+                "a vacuum."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "TIMSS_2011_8_pg14",
+        "question": "Which of the following can provide the human body with long-term immunity against some diseases?",
+        "choices": {
+            "text": [
+                "antibiotics",
+                "vitamins",
+                "vaccines",
+                "red blood cells"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "Mercury_192133",
+        "question": "A recent scientific study funded by a medical corporation concluded that its product is not as harmful as consumers have reported. Identify a possible problem with this study.",
+        "choices": {
+            "text": [
+                "Corporate scientists have less training than other scientists.",
+                "The results of the study may be influenced by bias.",
+                "Privately funded science is not verified by other scientists.",
+                "The study cannot be repeated with the same results."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "MCAS_2000_4_2",
+        "question": "Which environmental problem was directly caused by the invention of the automobile?",
+        "choices": {
+            "text": [
+                "storage of nuclear waste",
+                "increase in air pollution",
+                "increased use of pesticides",
+                "flooding in the Midwest"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "Mercury_7137935",
+        "question": "During protein synthesis, mRNA is translated into three-base sequences representing amino acids. What signals the ribosome to begin translating the mRNA into a new amino acid sequence?",
+        "choices": {
+            "text": [
+                "a codon",
+                "enzymes",
+                "a mutation",
+                "temperature"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
     }
 ]

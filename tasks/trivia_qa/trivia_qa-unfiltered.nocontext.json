@@ -1,0 +1,1169 @@
+[
+    {
+        "question": "Which alliteratively-named politician served as Lyndon B. Johnson's Vice-President between 1965 and 1969?",
+        "question_id": "odql_2918",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Hubert Horatio Humphrey, Jr.",
+                "Hubert Humphrey, II",
+                "Humbert Humphrey",
+                "Hubert H. Humphrey, Jr.",
+                "Hubert H. Humphrey",
+                "Hubert H Humphrey",
+                "HUBERT HUMPHREY",
+                "Hubert Humphrey",
+                "Hubert H. Humphrey II",
+                "Vice President Humphrey",
+                "Hubert Horatio Humphrey, II",
+                "Hubet Humphrey",
+                "Hubert H. Humphrey, II",
+                "Hubert Horatio Humphrey",
+                "Humphrey Fellowship",
+                "Hubert humphry",
+                "Hubert Humphrey, Jr.",
+                "Hubert Horatio Humphrey Jr."
+            ],
+            "normalized_aliases": [
+                "hubert humphrey ii",
+                "hubert humphrey",
+                "vice president humphrey",
+                "hubert humphrey jr",
+                "humphrey fellowship",
+                "hubert humphry",
+                "hubert h humphrey",
+                "hubert horatio humphrey jr",
+                "hubert h humphrey ii",
+                "hubert h humphrey jr",
+                "hubet humphrey",
+                "hubert horatio humphrey",
+                "hubert horatio humphrey ii",
+                "humbert humphrey"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "hubert humphrey",
+            "type": "WikipediaEntity",
+            "value": "HUBERT HUMPHREY"
+        }
+    },
+    {
+        "question": "Which berry is used to make the Italian liqueur Sambuca?",
+        "question_id": "odql_11859",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Elder berry",
+                "Elderberry",
+                "Sambucaceae",
+                "Sambucol",
+                "Elder flowers",
+                "Purple Poppers",
+                "Sambucus",
+                "Elderflowers",
+                "Elder berries",
+                "Red-Berried Elder",
+                "Elder flower",
+                "Elder tree",
+                "Elderberries",
+                "Elderflower",
+                "Elderberry berries",
+                "Holander",
+                "Sambucus australis",
+                "Hyldeblomst",
+                "ELDERBERRY",
+                "Elder (tree)",
+                "Purple Popper",
+                "Elder flower tea"
+            ],
+            "normalized_aliases": [
+                "sambucaceae",
+                "red berried elder",
+                "elderflowers",
+                "elderberry berries",
+                "purple poppers",
+                "elder tree",
+                "elder berries",
+                "purple popper",
+                "elder flower",
+                "elder flower tea",
+                "elder flowers",
+                "holander",
+                "sambucus australis",
+                "elder berry",
+                "sambucol",
+                "elderberries",
+                "sambucus",
+                "elderflower",
+                "hyldeblomst",
+                "elderberry"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "elderberry",
+            "type": "WikipediaEntity",
+            "value": "ELDERBERRY"
+        }
+    },
+    {
+        "question": "What is the native country of Agatha Chrisitie's detective Hercule Poirot?",
+        "question_id": "tc_384",
+        "question_source": "http://www.triviacountry.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Belguim",
+                "Koenigreich Belgien",
+                "Belgium/Belgie",
+                "Kingdom of Belgium",
+                "Belgian",
+                "Beljum",
+                "Königreich Belgien",
+                "Belgique",
+                "Belgium",
+                "Beligum",
+                "Kingdom of the Belgians",
+                "Beljam",
+                "Kingdom Of Belgium",
+                "Belgum",
+                "ISO 3166-1:BE",
+                "Belgie",
+                "Cockpit of Europe",
+                "Koninkrijk België",
+                "Beldjike",
+                "Blegium",
+                "Belgio",
+                "The Quebec of Europe",
+                "België",
+                "Begium",
+                "Royaume de Belgique",
+                "Konigreich Belgien",
+                "Koninkrijk Belgie",
+                "People of Belgium",
+                "Belgien",
+                "Belgium/facts",
+                "Administrative divisions of Belgium",
+                "Belgium facts"
+            ],
+            "normalized_aliases": [
+                "belgum",
+                "belgium facts",
+                "beligum",
+                "kingdom of belgians",
+                "administrative divisions of belgium",
+                "cockpit of europe",
+                "kingdom of belgium",
+                "belgio",
+                "belguim",
+                "koninkrijk belgie",
+                "koenigreich belgien",
+                "beldjike",
+                "blegium",
+                "begium",
+                "königreich belgien",
+                "belgie",
+                "belgium belgie",
+                "quebec of europe",
+                "people of belgium",
+                "iso 3166 1 be",
+                "belgique",
+                "beljum",
+                "konigreich belgien",
+                "royaume de belgique",
+                "beljam",
+                "belgien",
+                "belgium",
+                "belgië",
+                "belgian",
+                "koninkrijk belgië"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "belgium",
+            "type": "WikipediaEntity",
+            "value": "Belgium"
+        }
+    },
+    {
+        "question": "What is the name of the cooking utensil, popular on the Algarve in Portugal, used to cook a seafood stew, of the same name?",
+        "question_id": "sfq_6708",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Cataplana",
+                "A CATAPLANA"
+            ],
+            "normalized_aliases": [
+                "cataplana"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "cataplana",
+            "type": "WikipediaEntity",
+            "value": "A CATAPLANA"
+        }
+    },
+    {
+        "question": "Which English Test Cricket captain retired from professional cricket in August 2012?",
+        "question_id": "qb_7201",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Andrew Strauss",
+                "Straussy",
+                "A J Strauss",
+                "Andy Strauss",
+                "AJ Strauss",
+                "Andrew John Strauss"
+            ],
+            "normalized_aliases": [
+                "aj strauss",
+                "straussy",
+                "j strauss",
+                "andrew john strauss",
+                "andy strauss",
+                "andrew strauss"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "andrew strauss",
+            "type": "WikipediaEntity",
+            "value": "Andrew Strauss"
+        }
+    },
+    {
+        "question": "A Pelton wheel converts what power into usable energy?",
+        "question_id": "bb_2543",
+        "question_source": "http://www.businessballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Watery",
+                "Water surface",
+                "H₂O",
+                "Water in biology",
+                "Importance of water",
+                "Water",
+                "H2o",
+                "Life and water",
+                "Liquid water",
+                "Water and life"
+            ],
+            "normalized_aliases": [
+                "liquid water",
+                "h2o",
+                "water surface",
+                "watery",
+                "water in biology",
+                "importance of water",
+                "water and life",
+                "life and water",
+                "water",
+                "h₂o"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "water",
+            "type": "WikipediaEntity",
+            "value": "Water"
+        }
+    },
+    {
+        "question": "Who was the only U.S. President to serve two non-consecutive terms ?",
+        "question_id": "wh_3794",
+        "question_source": "http://www.wrexhamquizleague.co.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Stephen Cleveland",
+                "President Grover Cleveland",
+                "Stephen Grover Cleveland",
+                "GROVER CLEVELAND",
+                "Stephen G. Cleveland",
+                "Grover Clevland",
+                "22nd President of the United States",
+                "President Cleveland",
+                "22nd and 24th President of the United States",
+                "S. Grover Cleveland",
+                "Presidency of Grover Cleveland",
+                "24th President of the United States",
+                "S. G. Cleveland",
+                "Cleveland Administration",
+                "Grover Cleveland",
+                "Cleveland, Grover"
+            ],
+            "normalized_aliases": [
+                "22nd and 24th president of united states",
+                "president cleveland",
+                "22nd president of united states",
+                "presidency of grover cleveland",
+                "24th president of united states",
+                "stephen g cleveland",
+                "grover clevland",
+                "s grover cleveland",
+                "s g cleveland",
+                "cleveland administration",
+                "stephen grover cleveland",
+                "stephen cleveland",
+                "cleveland grover",
+                "grover cleveland",
+                "president grover cleveland"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "grover cleveland",
+            "type": "WikipediaEntity",
+            "value": "GROVER CLEVELAND"
+        }
+    },
+    {
+        "question": "Odense and Aarhus are major cities in which European country?",
+        "question_id": "sfq_10997",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Eastern Denmark",
+                "Kingdom of denmark",
+                "Denmarke",
+                "Subdivisions of Denmark",
+                "Kongeriget Danmark",
+                "Mainland Denmark",
+                "Danmoerk",
+                "Denmark proper",
+                "Danimarca",
+                "ISO 3166-1:DK",
+                "Denmark",
+                "Dänemark",
+                "Danska",
+                "Denmarc",
+                "KingdomOfDenmark",
+                "DENMARK",
+                "Kingdom of Denmark",
+                "Denemarke",
+                "Administrative divisions of denmark",
+                "Danish kingdom",
+                "Danemark",
+                "Daenemark",
+                "Media in Denmark",
+                "Danmörk",
+                "DenmarK",
+                "Danmork",
+                "Administrative divisions of Denmark",
+                "Media of Denmark",
+                "Danish Kingdom",
+                "Dinamarca"
+            ],
+            "normalized_aliases": [
+                "eastern denmark",
+                "danish kingdom",
+                "daenemark",
+                "media in denmark",
+                "denmark proper",
+                "danska",
+                "denemarke",
+                "danmork",
+                "subdivisions of denmark",
+                "danmörk",
+                "danemark",
+                "denmarke",
+                "denmarc",
+                "dänemark",
+                "kongeriget danmark",
+                "danimarca",
+                "administrative divisions of denmark",
+                "kingdom of denmark",
+                "kingdomofdenmark",
+                "mainland denmark",
+                "denmark",
+                "media of denmark",
+                "danmoerk",
+                "dinamarca",
+                "iso 3166 1 dk"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "denmark",
+            "type": "WikipediaEntity",
+            "value": "Denmark"
+        }
+    },
+    {
+        "question": "How many of Muhammad Ali's 61 professional boxing fights did he win? 50, 56 or 60?",
+        "question_id": "qz_2540",
+        "question_source": "https://www.quiz-zone.co.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "56",
+                "fifty-six"
+            ],
+            "normalized_aliases": [
+                "56",
+                "fifty six"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "56",
+            "type": "Numerical",
+            "value": "56"
+        }
+    },
+    {
+        "question": "Which month of the year comes first alphabetically?",
+        "question_id": "qb_4120",
+        "question_source": "http://www.quizballs.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "㋃",
+                "Apr.",
+                "The Cruellest Month",
+                "April 31",
+                "Апрель",
+                "April",
+                "31 April",
+                "Aprill",
+                "Mali traven",
+                "April (month)"
+            ],
+            "normalized_aliases": [
+                "april",
+                "april 31",
+                "㋃",
+                "aprill",
+                "mali traven",
+                "апрель",
+                "apr",
+                "31 april",
+                "april month",
+                "cruellest month"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "april",
+            "type": "WikipediaEntity",
+            "value": "April"
+        }
+    },
+    {
+        "question": "Which straits separate Corsica and Sardinia?",
+        "question_id": "sfq_10998",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Bocche di Bonifacio",
+                "Straits of Bonifacio",
+                "Strait of Bonifacio",
+                "(Straits of) Bonifacio",
+                "Strait Of Bonifaccio",
+                "Strait of Bonifaccio"
+            ],
+            "normalized_aliases": [
+                "straits of bonifacio",
+                "strait of bonifacio",
+                "strait of bonifaccio",
+                "bocche di bonifacio"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "straits of bonifacio",
+            "type": "WikipediaEntity",
+            "value": "(Straits of) Bonifacio"
+        }
+    },
+    {
+        "question": "According to the Bible, who visited Solomon?",
+        "question_id": "qw_7318",
+        "question_source": "http://www.quizwise.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Queen of Sabat",
+                "Makeda",
+                "Makedah",
+                "Bilquis",
+                "Queen of sheba",
+                "Nicaula",
+                "The queen of sheba",
+                "Queen of Saba",
+                "Bilkis",
+                "Balkis",
+                "Balkas",
+                "Queen of Sheeba",
+                "Nikaule",
+                "Queen Makeda",
+                "Belkis, Queen of Sheba",
+                "The Queen of Sheeba",
+                "Queen of Sheba",
+                "The Queen of Sheba",
+                "Nigist Saba",
+                "Balqis",
+                "Queen Sheba",
+                "Bilqis",
+                "Queen Of Sheba",
+                "The Queen Of Sheba",
+                "Islamic view of the Queen of Sheba"
+            ],
+            "normalized_aliases": [
+                "nigist saba",
+                "queen makeda",
+                "queen of sabat",
+                "belkis queen of sheba",
+                "queen sheba",
+                "balqis",
+                "balkis",
+                "queen of sheeba",
+                "makeda",
+                "nicaula",
+                "makedah",
+                "bilqis",
+                "queen of sheba",
+                "bilkis",
+                "bilquis",
+                "balkas",
+                "islamic view of queen of sheba",
+                "nikaule",
+                "queen of saba"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "queen of sheba",
+            "type": "WikipediaEntity",
+            "value": "The Queen of Sheba"
+        }
+    },
+    {
+        "question": "How was Jean Claude Duvalier known before he ws exiled in 1986?",
+        "question_id": "tc_1361",
+        "question_source": "http://www.triviacountry.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Jean-Claude Duvalier",
+                "Bébé Doc",
+                "Bebe Doc",
+                "Baby Doc Duvalier",
+                "Jean Claude Duvalier",
+                "Jean-Claude %22Baby Doc%22 Duvalier",
+                "Baby Doc"
+            ],
+            "normalized_aliases": [
+                "baby doc",
+                "bebe doc",
+                "jean claude 22baby doc 22 duvalier",
+                "bébé doc",
+                "jean claude duvalier",
+                "baby doc duvalier"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "baby doc",
+            "type": "WikipediaEntity",
+            "value": "Baby Doc"
+        }
+    },
+    {
+        "question": "Siderite and Limonite are ores of which metallic element?",
+        "question_id": "odql_13603",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Iron (element)",
+                "Iron rope",
+                "Iron truss",
+                "Ed-In-Sol",
+                "Reduced iron",
+                "Feostat",
+                "Feratab",
+                "Iron production",
+                "Nephro-Fer",
+                "Slow Fe",
+                "Iron Essay",
+                "Element 26",
+                "Extraction of iron",
+                "Mol-Iron",
+                "Feronate",
+                "Ferro-Time",
+                "Ferric compounds",
+                "Ferrousal",
+                "Ferretts",
+                "Fer-In-Sol",
+                "Ferrum (element)",
+                "Ferro-Caps",
+                "Iron",
+                "7439-89-6",
+                "Iorn",
+                "Siderol",
+                "Iron compounds",
+                "Vitedyn-Slo",
+                "Fe-40",
+                "Symbol of iron",
+                "Yieronia",
+                "Ferryl",
+                "Ferrous compounds"
+            ],
+            "normalized_aliases": [
+                "iorn",
+                "siderol",
+                "iron production",
+                "iron compounds",
+                "feostat",
+                "iron",
+                "iron rope",
+                "7439 89 6",
+                "feratab",
+                "iron essay",
+                "extraction of iron",
+                "mol iron",
+                "fe 40",
+                "iron truss",
+                "fer in sol",
+                "ferro caps",
+                "feronate",
+                "slow fe",
+                "ferro time",
+                "nephro fer",
+                "ferretts",
+                "yieronia",
+                "ferrousal",
+                "ferryl",
+                "ed in sol",
+                "ferrous compounds",
+                "element 26",
+                "vitedyn slo",
+                "ferric compounds",
+                "ferrum element",
+                "symbol of iron",
+                "reduced iron",
+                "iron element"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "iron",
+            "type": "WikipediaEntity",
+            "value": "Iron"
+        }
+    },
+    {
+        "question": "From which London railway station do trains leave for Paris and Brussels?",
+        "question_id": "odql_10392",
+        "question_source": "http://www.odquiz.org.uk/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "St. Pancras",
+                "Saint Pancras",
+                "St Pancreas",
+                "ST. PANCRAS",
+                "St Pancras Church",
+                "Pangratios",
+                "St Pancras (disambiguation)",
+                "St pancras",
+                "St Pancras",
+                "Pankratios",
+                "St. Pancras (disambiguation)"
+            ],
+            "normalized_aliases": [
+                "st pancras disambiguation",
+                "saint pancras",
+                "st pancras church",
+                "pangratios",
+                "st pancras",
+                "st pancreas",
+                "pankratios"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "st pancras",
+            "type": "WikipediaEntity",
+            "value": "ST. PANCRAS"
+        }
+    },
+    {
+        "question": "\"Who plays speech therapist Lionel Logue in the hit British film \"\"The King's Speech\"\"?\"",
+        "question_id": "sfq_10159",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Geoffrey rush",
+                "Geoffrey Rush",
+                "Geoff Rush"
+            ],
+            "normalized_aliases": [
+                "geoffrey rush",
+                "geoff rush"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "geoffrey rush",
+            "type": "WikipediaEntity",
+            "value": "Geoffrey Rush"
+        }
+    },
+    {
+        "question": "Via Italian from Latin meaning 'goddess', what do we call a distinguished female singer?",
+        "question_id": "dpql_1625",
+        "question_source": "https://derbyshirepubquizleague.wordpress.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Diva (album)",
+                "Diva (disambiguation)",
+                "Diva (movie)",
+                "Diva (song)",
+                "Diva (film)",
+                "DIVA",
+                "Diva (band)",
+                "Diva (novel)"
+            ],
+            "normalized_aliases": [
+                "diva novel",
+                "diva",
+                "diva album",
+                "diva disambiguation",
+                "diva movie",
+                "diva song",
+                "diva film",
+                "diva band"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "diva",
+            "type": "WikipediaEntity",
+            "value": "DIVA"
+        }
+    },
+    {
+        "question": "Which English football league club play their home games at Boundary Park?",
+        "question_id": "sfq_8100",
+        "question_source": "www.sfquiz.org.uk",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Oldham Athletic A F C",
+                "Oldham Athletic AFC",
+                "Oldham Athletic FC",
+                "Pine Villa football club",
+                "Oldham Athletic A.F.C",
+                "Oldham Athletic A. F. C.",
+                "Pine villa",
+                "Oldham Athletic F.C.",
+                "Oldham Athletic Football Club",
+                "Oldham Athletic A.F.C.",
+                "Oldham Athletic Association Football Club",
+                "The Spirit Of Oldham",
+                "Oldham Athletic",
+                "The Failsworth Project",
+                "Pine Villa F.C.",
+                "OAAFC",
+                "Pine Villa FC"
+            ],
+            "normalized_aliases": [
+                "oldham athletic afc",
+                "oldham athletic f c",
+                "failsworth project",
+                "oaafc",
+                "pine villa",
+                "oldham athletic association football club",
+                "oldham athletic fc",
+                "oldham athletic football club",
+                "pine villa f c",
+                "pine villa fc",
+                "pine villa football club",
+                "spirit of oldham",
+                "oldham athletic"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "oldham athletic",
+            "type": "WikipediaEntity",
+            "value": "Oldham Athletic"
+        }
+    },
+    {
+        "question": "What road did Robert Frost take that made all the difference?",
+        "question_id": "jp_1051",
+        "question_source": "www.jetpunk.com",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Road Less Travelled",
+                "The Road Less Traveled",
+                "Road Less Traveled",
+                "The Road Less Traveled (album)",
+                "The Road Less Travelled",
+                "The Road Less Travelled (album)",
+                "The Road Less Traveled (disambiguation)"
+            ],
+            "normalized_aliases": [
+                "road less traveled disambiguation",
+                "road less traveled album",
+                "road less travelled",
+                "road less traveled",
+                "road less travelled album"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "road less traveled",
+            "type": "WikipediaEntity",
+            "value": "The Road Less Traveled"
+        }
+    },
+    {
+        "question": "Which global company owes everything to an invention by Dr John S Pemberton?",
+        "question_id": "dpql_1003",
+        "question_source": "https://derbyshirepubquizleague.wordpress.com/",
+        "entity_pages": {
+            "doc_source": [],
+            "filename": [],
+            "title": [],
+            "wiki_context": []
+        },
+        "search_results": {
+            "description": [],
+            "filename": [],
+            "rank": [],
+            "title": [],
+            "url": [],
+            "search_context": []
+        },
+        "answer": {
+            "aliases": [
+                "Coca-Cola (soft drink)",
+                "Minute Maid Light Lemonade",
+                "Passover Coca-Cola",
+                "Coka cola",
+                "Coke-Cola",
+                "History of Coca-Cola",
+                "Coca Cola",
+                "Coca-Cola bottle",
+                "Coke Bottle",
+                "Coke Classic",
+                "CocaCola",
+                "Co-cola",
+                "Classic Coke",
+                "Coca-colas",
+                "Coco cola",
+                "Coke bottles",
+                "Coca-Cola 1",
+                "Coca-Cola",
+                "Coca cola",
+                "Coca Cola Classic",
+                "Great Plains Coca Cola",
+                "Contour bottle",
+                "Classic coke",
+                "Coca -cola",
+                "Large coke",
+                "Production of Coca-Cola",
+                "Coke (drink)",
+                "Cocacola.com",
+                "Coca-Cola Classic",
+                "Passover Coca Cola",
+                "Ke Kou Ke Le",
+                "Coca cola christmas advert",
+                "Coca Cola Canada",
+                "Cocacola",
+                "Coca-Cola M5",
+                "Minute Maid Lemonade",
+                "Coke bottle",
+                "Coke mini",
+                "CocaCola.com",
+                "Coca-cola",
+                "Coca-Cola Australia Foundation"
+            ],
+            "normalized_aliases": [
+                "great plains coca cola",
+                "coca cola australia foundation",
+                "passover coca cola",
+                "classic coke",
+                "ke kou ke le",
+                "coca cola 1",
+                "coca cola bottle",
+                "coke classic",
+                "coca cola soft drink",
+                "coca cola m5",
+                "coca cola canada",
+                "coke bottle",
+                "cocacola com",
+                "coca cola",
+                "coca cola classic",
+                "coca colas",
+                "contour bottle",
+                "coke bottles",
+                "minute maid lemonade",
+                "coke mini",
+                "coke cola",
+                "coka cola",
+                "cocacola",
+                "co cola",
+                "history of coca cola",
+                "coco cola",
+                "coca cola christmas advert",
+                "minute maid light lemonade",
+                "production of coca cola",
+                "coke drink",
+                "large coke"
+            ],
+            "matched_wiki_entity_name": "",
+            "normalized_matched_wiki_entity_name": "",
+            "normalized_value": "coca cola",
+            "type": "WikipediaEntity",
+            "value": "Coca Cola"
+        }
+    }
+]

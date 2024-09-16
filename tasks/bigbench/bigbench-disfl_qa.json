@@ -1,34 +1,16 @@
 [
     {
-        "idx": 989,
-        "inputs": "Question: When did the Treaty of Versailles no the Germany army enter Rhineland ?  \ncontext: At the end of World War I , the Rhineland was subject to the Treaty of Versailles . This decreed that it would be occupied by the allies , until 1935 and after that , it would be a demilitarised zone , with the German army forbidden to enter . The Treaty of Versailles and this particular provision , in general , caused much resentment in Germany and is often cited as helping Adolf Hitler ' s rise to power . The allies left the Rhineland , in 1930 and the German army re - occupied it in 1936 , which was enormously popular in Germany . Although the allies could probably have prevented the re - occupation , Britain and France were not inclined to do so , a feature of their policy of appeasement to Hitler . \nAnswer:",
+        "idx": 4340,
+        "inputs": "Question: Where no wait how did war start ?  \ncontext: The war was fought primarily along the frontiers between New France and the British colonies , from Virginia in the South to Nova Scotia in the North . It began with a dispute over control of the confluence of the Allegheny and Monongahela rivers , called the Forks of the Ohio , and the site of the French Fort Duquesne and present - day Pittsburgh , Pennsylvania . The dispute erupted into violence in the Battle of Jumonville Glen in May 1754 , during which Virginia militiamen under the command of 22 - year - old George Washington ambushed a French patrol . \nAnswer:",
         "targets": [
-            "Dorotheenstadt and Friedrichstadt"
+            "dispute over control of the confluence of the Allegheny and Monongahela rivers, called the Forks of the Ohio"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1376,
-        "inputs": "Question: What are begun or uh established at the end of each parliamentary session ?  \ncontext: Subject Committees are established at the beginning of each parliamentary session , and again the members on each committee reflect the balance of parties across Parliament . Typically each committee corresponds with one ( or more ) of the departments ( or ministries ) of the Scottish Government . The current Subject Committees in the fourth Session are : Economy , Energy and Tourism ; Education and Culture ; Health and Sport ; Justice ; Local Government and Regeneration ; Rural Affairs , Climate Change and Environment ; Welfare Reform ; and Infrastructure and Capital Investment . \nAnswer:",
-        "targets": [
-            "Warszawa"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3593,
-        "inputs": "Question: What ' s the name no the major conquest that Tancred played a roll in ?  \ncontext: In 1096 , Crusaders passing by the siege of Amalfi were joined by Bohemond of Taranto and his nephew Tancred with an army of Italo - Normans . Bohemond was the de facto leader of the Crusade during its passage through Asia Minor . After the successful Siege of Antioch in 1097 , Bohemond began carving out an independent principality around that city . Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee . [ citation needed ] \nAnswer:",
-        "targets": [
-            "vast areas"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 818,
-        "inputs": "Question: What dual titles did Duchy no sorry Frederick William hold ?  \ncontext: Around 1685 , Huguenot refugees found a safe haven in the Lutheran and Reformed states in Germany and Scandinavia . Nearly 50 , 000 Huguenots established themselves in Germany , 20 , 000 of whom were welcomed in Brandenburg - Prussia , where they were granted special privileges ( Edict of Potsdam ) and churches in which to worship ( such as the Church of St . Peter and St . Paul , Angermünde ) by Frederick William , Elector of Brandenburg and Duke of Prussia . The Huguenots furnished two new regiments of his army : the Altpreußische Infantry Regiments No . 13 ( Regiment on foot Varenne ) and 15 ( Regiment on foot Wylich ) . Another 4 , 000 Huguenots settled in the German territories of Baden , Franconia ( Principality of Bayreuth , Principality of Ansbach ) , Landgraviate of Hesse - Kassel , Duchy of Württemberg , in the Wetterau Association of Imperial Counts , in the Palatinate and Palatinate - Zweibrücken , in the Rhine - Main - Area ( Frankfurt ) , in modern - day Saarland ; and 1 , 500 found refuge in Hamburg , Bremen and Lower Saxony . Three hundred refugees were granted asylum at the court of George William , Duke of Brunswick - Lüneburg in Celle . \nAnswer:",
+        "idx": 4195,
+        "inputs": "Question: When did the spelling with Rh - in English Rhine come from sorry what century ?  \ncontext: The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name Rēnos , which was adapted in Roman - era geography ( 1st century BC ) as Greek Ῥῆνος ( Rhēnos ) , Latin Rhenus . [ note 3 ] The spelling with Rh - in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography , while the vocalisation - i - is due to the Proto - Germanic adoption of the Gaulish name as * Rīnaz , via Old Frankish giving Old English Rín , Old High German Rīn , Dutch Rijn ( formerly also spelled Rhijn ) ) . The diphthong in modern German Rhein ( also adopted in Romansh Rein , Rain ) is a Central German development of the early modern period , the Alemannic name Rī ( n ) retaining the older vocalism , [ note 4 ] as does Ripuarian Rhing , while Palatine has diphthongized Rhei , Rhoi . Spanish is with French in adopting the Germanic vocalism Rin - , while Italian , Occitan and Portuguese retain the Latin Ren - . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -36,26 +18,26 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1292,
-        "inputs": "Question: What does each packet label include in connectionless mode or rather each packet ?  \ncontext: In connectionless mode each packet includes complete addressing information . The packets are routed individually , sometimes resulting in different paths and out - of - order delivery . Each packet is labeled with a destination address , source address , and port numbers . It may also be labeled with the sequence number of the packet . This precludes the need for a dedicated path to help the packet find its way to its destination , but means that much more information is needed in the packet header , which is therefore larger , and this information needs to be looked up in power - hungry content - addressable memory . Each packet is dispatched and may go via different routes ; potentially , the system has to do as much work for every packet as the connection - oriented system has to do in connection set - up , but with less information as to the application ' s requirements . At the destination , the original message / data is reassembled in the correct order , based on the packet sequence number . Thus a virtual connection , also known as a virtual circuit or byte stream is provided to the end - user by a transport layer protocol , although intermediate network nodes only provides a connectionless network layer service . \nAnswer:",
+        "idx": 1053,
+        "inputs": "Question: Supplies from Jacksonville were in support of which faction during the Revolutionary war no no I ' m talking about during the Civil War ?  \ncontext: During the American Civil War , Jacksonville was a key supply point for hogs and cattle being shipped from Florida to aid the Confederate cause . The city was blockaded by Union forces , who gained control of the nearby Fort Clinch . Though no battles were fought in Jacksonville proper , the city changed hands several times between Union and Confederate forces . The Skirmish of the Brick Church in 1862 just outside Jacksonville proper resulted in the first Confederate victory in Florida . In February 1864 Union forces left Jacksonville and confronted a Confederate Army at the Battle of Olustee resulting in a Confederate victory . Union forces then retreated to Jacksonville and held the city for the remainder of the war . In March 1864 a Confederate cavalry confronted a Union expedition resulting in the Battle of Cedar Creek . Warfare and the long occupation left the city disrupted after the war . \nAnswer:",
         "targets": [
-            "Konsumentombudsmannen v De Agostini"
+            "Confederate"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 59,
-        "inputs": "Question: How was the no who has elected the President of Warsaw since 1990 ?  \ncontext: The mayor of Warsaw is called President . Generally , in Poland , the mayors of bigger cities are called presidents – i . e . such cities , which have over 100 , 000 people or these , where already was president before 1990 . The first Warsaw President was Jan Andrzej Menich ( 1695 – 1696 ) . Between 1975 and 1990 the Warsaw Presidents was simultaneously the Warsaw Voivode . Since 1990 the President of Warsaw had been elected by the City council . In the years of 1994 – 1999 the mayor of the district Centrum automatically was designated as the President of Warsaw : the mayor of Centrum was elected by the district council of Centrum and the council was elected only by the Centrum residents . Since 2002 the President of Warsaw is elected by all of the citizens of Warsaw . \nAnswer:",
+        "idx": 2985,
+        "inputs": "Question: What is the claim or name of the university ' s core curriculum ?  \ncontext: Undergraduate students are required to take a distribution of courses to satisfy the university ' s core curriculum known as the Common Core . In 2012 - 2013 , the Core classes at Chicago were limited to 17 students , and are generally led by a full - time professor ( as opposed to a teaching assistant ) . As of the 2013 – 2014 school year , 15 courses and demonstrated proficiency in a foreign language are required under the Core . Undergraduate courses at the University of Chicago are known for their demanding standards , heavy workload and academic difficulty ; according to Uni in the USA , \" Among the academic cream of American universities – Harvard , Yale , Princeton , MIT , and the University of Chicago – it is UChicago that can most convincingly claim to provide the most rigorous , intense learning experience . \" \nAnswer:",
         "targets": [
-            "public-key cryptography"
+            "the Common Core"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4863,
-        "inputs": "Question: What organization runs the public schools in Victoria no sorry not the public schools but the waste management ?  \ncontext: Victorian schools are either publicly or privately funded . Public schools , also known as state or government schools , are funded and run directly by the Victoria Department of Education . Students do not pay tuition fees , but some extra costs are levied . Private fee - paying schools include parish schools run by the Roman Catholic Church and independent schools similar to British public schools . Independent schools are usually affiliated with Protestant churches . Victoria also has several private Jewish and Islamic primary and secondary schools . Private schools also receive some public funding . All schools must comply with government - set curriculum standards . In addition , Victoria has four government selective schools , Melbourne High School for boys , MacRobertson Girls ' High School for girls , the coeducational schools John Monash Science School , Nossal High School and Suzanne Cory High School , and The Victorian College of the Arts Secondary School . Students at these schools are exclusively admitted on the basis of an academic selective entry test . \nAnswer:",
+        "idx": 194,
+        "inputs": "Question: What type of heating element is often used in toy chamber engines no not those but for closed space engines ?  \ncontext: The heat required for boiling the water and supplying the steam can be derived from various sources , most commonly from burning combustible materials with an appropriate supply of air in a closed space ( called variously combustion chamber , firebox ) . In some cases the heat source is a nuclear reactor , geothermal energy , solar energy or waste heat from an internal combustion engine or industrial process . In the case of model or toy steam engines , the heat source can be an electric heating element . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -63,17 +45,53 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 3899,
-        "inputs": "Question: What is the only form potential energy can make that kinetic can change into ?  \ncontext: A conservative force that acts on a closed system has an associated mechanical work that allows energy to convert only between kinetic or potential forms . This means that for a closed system , the net mechanical energy is conserved whenever a conservative force acts on the system . The force , therefore , is related directly to the difference in potential energy between two different locations in space , and can be considered to be an artifact of the potential field in the same way that the direction and amount of a flow of water can be considered to be an artifact of the contour map of the elevation of an area . \nAnswer:",
+        "idx": 4130,
+        "inputs": "Question: How err I mean what is the force equivalent of torque compared to angular momentum ?  \ncontext: Torque is the rotation equivalent of force in the same way that angle is the rotational equivalent for position , angular velocity for velocity , and angular momentum for momentum . As a consequence of Newton ' s First Law of Motion , there exists rotational inertia that ensures that all bodies maintain their angular momentum unless acted upon by an unbalanced torque . Likewise , Newton ' s Second Law of Motion can be used to derive an analogous equation for the instantaneous angular acceleration of the rigid body : \nAnswer:",
         "targets": [
-            "southern"
+            "rotational equivalent for position"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5241,
-        "inputs": "Question: Who was the successors of Khan um wait no the Kublai Khan ' s grandfather ?  \ncontext: The Yuan dynasty is considered both a successor to the Mongol Empire and an imperial Chinese dynasty . It was the khanate ruled by the successors of Möngke Khan after the division of the Mongol Empire . In official Chinese histories , the Yuan dynasty bore the Mandate of Heaven , following the Song dynasty and preceding the Ming dynasty . The dynasty was established by Kublai Khan , yet he placed his grandfather Genghis Khan on the imperial records as the official founder of the dynasty as Taizu . [ b ] In the Proclamation of the Dynastic Name ( 《 建國號詔 》 ) , Kublai announced the name of the new dynasty as Great Yuan and claimed the succession of former Chinese dynasties from the Three Sovereigns and Five Emperors to the Tang dynasty . \nAnswer:",
+        "idx": 7226,
+        "inputs": "Question: Jake Rosenfield ' s first nope not that but profession is what ?  \ncontext: Sociologist Jake Rosenfield of the University of Washington asserts that the decline of organized labor in the United States has played a more significant role in expanding the income gap than technological changes and globalization , which were also experienced by other industrialized nations that didn ' t experience steep surges in inequality . He points out that nations with high rates of unionization , particularly in Scandinavia , have very low levels of inequality , and concludes \" the historical pattern is clear ; the cross - national pattern is clear : high inequality goes hand - in - hand with weak labor movements and vice - versa . \" \nAnswer:",
+        "targets": [
+            "Sociologist"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2079,
+        "inputs": "Question: In what year was Corliss given no no what award did he get ?  \ncontext: The acme of the horizontal engine was the Corliss steam engine , patented in 1849 , which was a four - valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff . When Corliss was given the Rumford medal the committee said that \" no one invention since Watt ' s time has so enhanced the efficiency of the steam engine \" . In addition to using 30 % less steam , it provided more uniform speed due to variable steam cut off , making it well suited to manufacturing , especially cotton spinning . \nAnswer:",
+        "targets": [
+            "Rumford medal"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2401,
+        "inputs": "Question: When did Bulgaria or uh sorry Greenland sign a Treaty granting them special status ?  \ncontext: The principal Treaties that form the European Union began with common rules for coal and steel , and then atomic energy , but more complete and formal institutions were established through the Treaty of Rome 1957 and the Maastricht Treaty 1992 ( now : TFEU ) . Minor amendments were made during the 1960s and 1970s . Major amending treaties were signed to complete the development of a single , internal market in the Single European Act 1986 , to further the development of a more social Europe in the Treaty of Amsterdam 1997 , and to make minor amendments to the relative power of member states in the EU institutions in the Treaty of Nice 2001 and the Treaty of Lisbon 2007 . Since its establishment , more member states have joined through a series of accession treaties , from the UK , Ireland , Denmark and Norway in 1972 ( though Norway did not end up joining ) , Greece in 1979 , Spain and Portugal 1985 , Austria , Finland , Norway and Sweden in 1994 ( though again Norway failed to join , because of lack of support in the referendum ) , the Czech Republic , Cyprus , Estonia , Hungary , Latvia , Lithuania , Malta , Poland , Slovakia and Slovenia in 2004 , Romania and Bulgaria in 2007 and Croatia in 2013 . Greenland signed a Treaty in 1985 giving it a special status . \nAnswer:",
+        "targets": [
+            "1985"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4761,
+        "inputs": "Question: What was invented in 1888 that revolutionized warfare or I guess 1880 ?  \ncontext: Along with advancements in communication , Europe also continued to advance in military technology . European chemists made deadly explosives that could be used in combat , and with innovations in machinery they were able to manufacture improved firearms . By the 1880s , the machine gun had become an effective battlefield weapon . This technology gave European armies an advantage over their opponents , as armies in less - developed countries were still fighting with arrows , swords , and leather shields ( e . g . the Zulus in Southern Africa during the Anglo - Zulu War of 1879 ) . \nAnswer:",
+        "targets": [
+            "the machine gun"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2341,
+        "inputs": "Question: What is the sea level of the Rhine , no I ' m sorry , the English Channel ?  \ncontext: The last glacial ran from ~ 74 , 000 ( BP = Before Present ) , until the end of the Pleistocene ( ~ 11 , 600 BP ) . In northwest Europe , it saw two very cold phases , peaking around 70 , 000 BP and around 29 , 000 – 24 , 000 BP . The last phase slightly predates the global last ice age maximum ( Last Glacial Maximum ) . During this time , the lower Rhine flowed roughly west through the Netherlands and extended to the southwest , through the English Channel and finally , to the Atlantic Ocean . The English Channel , the Irish Channel and most of the North Sea were dry land , mainly because sea level was approximately 120 m ( 390 ft ) lower than today . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -81,80 +99,71 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1959,
-        "inputs": "Question: What is a regulatory factor I meant to say are two types of phagocytes that travel through the body to find invading pathogens ?  \ncontext: Neutrophils and macrophages are phagocytes that travel throughout the body in pursuit of invading pathogens . Neutrophils are normally found in the bloodstream and are the most abundant type of phagocyte , normally representing 50 % to 60 % of the total circulating leukocytes . During the acute phase of inflammation , particularly as a result of bacterial infection , neutrophils migrate toward the site of inflammation in a process called chemotaxis , and are usually the first cells to arrive at the scene of infection . Macrophages are versatile cells that reside within tissues and produce a wide array of chemicals including enzymes , complement proteins , and regulatory factors such as interleukin 1 . Macrophages also act as scavengers , ridding the body of worn - out cells and other debris , and as antigen - presenting cells that activate the adaptive immune system . \nAnswer:",
+        "idx": 4136,
+        "inputs": "Question: Who had Toghun Temur oops Toghtogha tried to defeat ?  \ncontext: From the late 1340s onwards , people in the countryside suffered from frequent natural disasters such as droughts , floods and the resulting famines , and the government ' s lack of effective policy led to a loss of popular support . In 1351 , the Red Turban Rebellion started and grew into a nationwide uprising . In 1354 , when Toghtogha led a large army to crush the Red Turban rebels , Toghun Temür suddenly dismissed him for fear of betrayal . This resulted in Toghun Temür ' s restoration of power on the one hand and a rapid weakening of the central government on the other . He had no choice but to rely on local warlords ' military power , and gradually lost his interest in politics and ceased to intervene in political struggles . He fled north to Shangdu from Khanbaliq ( present - day Beijing ) in 1368 after the approach of the forces of the Míng dynasty ( 1368 – 1644 ) , founded by Zhu Yuanzhang in the south . He had tried to regain Khanbaliq , which eventually failed ; he died in Yingchang ( located in present - day Inner Mongolia ) two years later ( 1370 ) . Yingchang was seized by the Ming shortly after his death . Some royal family members still lived in Henan today . \nAnswer:",
         "targets": [
-            "Switzerland and the Netherlands"
+            "the Red Turban rebels"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4884,
-        "inputs": "Question: Amazon rain forest experienced another mild drought in which or rather what year ?  \ncontext: In 2010 the Amazon rainforest experienced another severe drought , in some ways more extreme than the 2005 drought . The affected region was approximate 1 , 160 , 000 square miles ( 3 , 000 , 000 km2 ) of rainforest , compared to 734 , 000 square miles ( 1 , 900 , 000 km2 ) in 2005 . The 2010 drought had three epicenters where vegetation died off , whereas in 2005 the drought was focused on the southwestern part . The findings were published in the journal Science . In a typical year the Amazon absorbs 1 . 5 gigatons of carbon dioxide ; during 2005 instead 5 gigatons were released and in 2010 8 gigatons were released . \nAnswer:",
+        "idx": 1034,
+        "inputs": "Question: When was uh rather what provided much of the basis for the structure of the Parliament in 1995 ?  \ncontext: Throughout the 1980s and 1990s , demand for a Scottish Parliament grew , in part because the government of the United Kingdom was controlled by the Conservative Party , while Scotland itself elected relatively few Conservative MPs . In the aftermath of the 1979 referendum defeat , the Campaign for a Scottish Assembly was initiated as a pressure group , leading to the 1989 Scottish Constitutional Convention with various organisations such as Scottish churches , political parties and representatives of industry taking part . Publishing its blueprint for devolution in 1995 , the Convention provided much of the basis for the structure of the Parliament . \nAnswer:",
         "targets": [
-            "Richard I"
+            "blueprint"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 721,
-        "inputs": "Question: The counter flow or sorry I mean the horizontal engine , what was its ultimate development ?  \ncontext: The acme of the horizontal engine was the Corliss steam engine , patented in 1849 , which was a four - valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff . When Corliss was given the Rumford medal the committee said that \" no one invention since Watt ' s time has so enhanced the efficiency of the steam engine \" . In addition to using 30 % less steam , it provided more uniform speed due to variable steam cut off , making it well suited to manufacturing , especially cotton spinning . \nAnswer:",
+        "idx": 7664,
+        "inputs": "Question: When was no during what period did downtown Fresno thrive ?  \ncontext: Between the 1880s and World War II , Downtown Fresno flourished , filled with electric Street Cars , and contained some of the San Joaquin Valley ' s most beautiful architectural buildings . Among them , the original Fresno County Courthouse ( demolished ) , the Fresno Carnegie Public Library ( demolished ) , the Fresno Water Tower , the Bank of Italy Building , the Pacific Southwest Building , the San Joaquin Light & Power Building ( currently known as the Grand 1401 ) , and the Hughes Hotel ( burned down ) , to name a few . \nAnswer:",
         "targets": [
-            "connect two PDP-11 minicomputers"
+            "Between the 1880s and World War II"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 37,
-        "inputs": "Question: How many earthquakes does Northridge , I mean the state of California have each year ?  \ncontext: Each year , the southern California area has about 10 , 000 earthquakes . Nearly all of them are so small that they are not felt . Only several hundred are greater than magnitude 3 . 0 , and only about 15 – 20 are greater than magnitude 4 . 0 . The magnitude 6 . 7 1994 Northridge earthquake was particularly destructive , causing a substantial number of deaths , injuries , and structural collapses . It caused the most property damage of any earthquake in U . S . history , estimated at over $ 20 billion . \nAnswer:",
+        "idx": 3282,
+        "inputs": "Question: Where did the discharge from glaciers go in England nope not there but Europe in the last Ice Age ?  \ncontext: As northwest Europe slowly began to warm up from 22 , 000 years ago onward , frozen subsoil and expanded alpine glaciers began to thaw and fall - winter snow covers melted in spring . Much of the discharge was routed to the Rhine and its downstream extension . Rapid warming and changes of vegetation , to open forest , began about 13 , 000 BP . By 9000 BP , Europe was fully forested . With globally shrinking ice - cover , ocean water levels rose and the English Channel and North Sea re - inundated . Meltwater , adding to the ocean and land subsidence , drowned the former coasts of Europe transgressionally . \nAnswer:",
         "targets": [
-            "viral antigens"
+            "Rhine"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4343,
-        "inputs": "Question: What does Shia or I mean Salafism in its harshest form encourage its followers to view others religions ?  \ncontext: The interpretation of Islam promoted by this funding was the strict , conservative Saudi - based Wahhabism or Salafism . In its harshest form it preached that Muslims should not only \" always oppose \" infidels \" in every way , \" but \" hate them for their religion . . . for Allah ' s sake , \" that democracy \" is responsible for all the horrible wars of the 20th century , \" that Shia and other non - Wahhabi Muslims were infidels , etc . While this effort has by no means converted all , or even most Muslims to the Wahhabist interpretation of Islam , it has done much to overwhelm more moderate local interpretations , and has set the Saudi - interpretation of Islam as the \" gold standard \" of religion in minds of some or many Muslims . \nAnswer:",
+        "idx": 4549,
+        "inputs": "Question: What class of pathogens no T cells recognizes intact antigens that are not associated with MHC receptors ?  \ncontext: Both B cells and T cells carry receptor molecules that recognize specific targets . T cells recognize a \" non - self \" target , such as a pathogen , only after antigens ( small fragments of the pathogen ) have been processed and presented in combination with a \" self \" receptor called a major histocompatibility complex ( MHC ) molecule . There are two major subtypes of T cells : the killer T cell and the helper T cell . In addition there are regulatory T cells which have a role in modulating immune response . Killer T cells only recognize antigens coupled to Class I MHC molecules , while helper T cells and regulatory T cells only recognize antigens coupled to Class II MHC molecules . These two mechanisms of antigen presentation reflect the different roles of the two types of T cell . A third , minor subtype are the γδ T cells that recognize intact antigens that are not bound to MHC receptors . \nAnswer:",
         "targets": [
-            "value added by different classifications of workers"
+            "γδ T cells"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4421,
-        "inputs": "Question: What percentage of oxygen is usually supplied by a mechanical ventilator no not that but by a medical mask ?  \ncontext: Oxygen gas ( O 2 ) can be toxic at elevated partial pressures , leading to convulsions and other health problems . [ j ] Oxygen toxicity usually begins to occur at partial pressures more than 50 kilopascals ( kPa ) , equal to about 50 % oxygen composition at standard pressure or 2 . 5 times the normal sea - level O 2 partial pressure of about 21 kPa . This is not a problem except for patients on mechanical ventilators , since gas supplied through oxygen masks in medical applications is typically composed of only 30 % – 50 % O 2 by volume ( about 30 kPa at standard pressure ) . ( although this figure also is subject to wide variation , depending on type of mask ) . \nAnswer:",
+        "idx": 4934,
+        "inputs": "Question: Where in Tonopah or uh Las Vegas did a famous protest take place ?  \ncontext: When the Committee for Non - Violent Action sponsored a protest in August 1957 , at the Camp Mercury nuclear test site near Las Vegas , Nevada , 13 of the protesters attempted to enter the test site knowing that they faced arrest . At a pre - arranged announced time , one at a time they stepped across the \" line \" and were immediately arrested . They were put on a bus and taken to the Nye County seat of Tonopah , Nevada , and arraigned for trial before the local Justice of the Peace , that afternoon . A well known civil rights attorney , Francis Heisler , had volunteered to defend the arrested persons , advising them to plead \" nolo contendere \" , as an alternative to pleading either guilty or not - guilty . The arrested persons were found \" guilty , \" nevertheless , and given suspended sentences , conditional on their not reentering the test site grounds . [ citation needed ] \nAnswer:",
         "targets": [
-            "Pacific Ocean"
+            "Camp Mercury nuclear test site"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5131,
-        "inputs": "Question: Where did Kublai move the Yuan , scratch that , the Mongol capital to ?  \ncontext: Kublai readied the move of the Mongol capital from Karakorum in Mongolia to Khanbaliq in 1264 , constructing a new city near the former Jurchen capital Zhongdu , now modern Beijing , in 1266 . In 1271 , Kublai formally claimed the Mandate of Heaven and declared that 1272 was the first year of the Great Yuan ( Chinese : 大元 ) in the style of a traditional Chinese dynasty . The name of the dynasty originated from the I Ching and describes the \" origin of the universe \" or a \" primal force \" . Kublai proclaimed Khanbaliq the \" Great Capital \" or Daidu ( Dadu , Chinese : 大都 in Chinese ) of the dynasty . The era name was changed to Zhiyuan to herald a new era of Chinese history . The adoption of a dynastic name legitimized Mongol rule by integrating the government into the narrative of traditional Chinese political succession . Khublai evoked his public image as a sage emperor by following the rituals of Confucian propriety and ancestor veneration , while simultaneously retaining his roots as a leader from the steppes . \nAnswer:",
+        "idx": 1717,
+        "inputs": "Question: Which county uh city is the fifth - largest city in California ?  \ncontext: Fresno ( / ˈfrɛznoʊ / FREZ - noh ) , the county seat of Fresno County , is a city in the U . S . state of California . As of 2015 , the city ' s population was 520 , 159 , making it the fifth - largest city in California , the largest inland city in California and the 34th - largest in the nation . Fresno is in the center of the San Joaquin Valley and is the largest city in the Central Valley , which contains the San Joaquin Valley . It is approximately 220 miles ( 350 km ) northwest of Los Angeles , 170 miles ( 270 km ) south of the state capital , Sacramento , or 185 miles ( 300 km ) south of San Francisco . The name Fresno means \" ash tree \" in Spanish , and an ash leaf is featured on the city ' s flag . \nAnswer:",
         "targets": [
-            "the most efficient algorithm"
+            "Fresno"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1586,
-        "inputs": "Question: What is the transposed law no the lowest court in the European Union ?  \ncontext: European Union law is applied by the courts of member states and the Court of Justice of the European Union . Where the laws of member states provide for lesser rights European Union law can be enforced by the courts of member states . In case of European Union law which should have been transposed into the laws of member states , such as Directives , the European Commission can take proceedings against the member state under the Treaty on the Functioning of the European Union . The European Court of Justice is the highest court able to interpret European Union law . Supplementary sources of European Union law include case law by the Court of Justice , international law and general principles of European Union law . \nAnswer:",
-        "targets": [
-            "Evita and The Wiz"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4075,
-        "inputs": "Question: The presence or absence of who no I mean of what can be used to determine the relative age of the formations in which they are found ?  \ncontext: The principle of faunal succession is based on the appearance of fossils in sedimentary rocks . As organisms exist at the same time period throughout the world , their presence or ( sometimes ) absence may be used to provide a relative age of the formations in which they are found . Based on principles laid out by William Smith almost a hundred years before the publication of Charles Darwin ' s theory of evolution , the principles of succession were developed independently of evolutionary thought . The principle becomes quite complex , however , given the uncertainties of fossilization , the localization of fossil types due to lateral changes in habitat ( facies change in sedimentary strata ) , and that not all fossils may be found globally at the same time . \nAnswer:",
+        "idx": 7870,
+        "inputs": "Question: When did Augustus find the upper Danube , no when did he find Rome ?  \ncontext: From the death of Augustus in AD 14 until after AD 70 , Rome accepted as her Germanic frontier the water - boundary of the Rhine and upper Danube . Beyond these rivers she held only the fertile plain of Frankfurt , opposite the Roman border fortress of Moguntiacum ( Mainz ) , the southernmost slopes of the Black Forest and a few scattered bridge - heads . The northern section of this frontier , where the Rhine is deep and broad , remained the Roman boundary until the empire fell . The southern part was different . The upper Rhine and upper Danube are easily crossed . The frontier which they form is inconveniently long , enclosing an acute - angled wedge of foreign territory between the modern Baden and Württemberg . The Germanic populations of these lands seem in Roman times to have been scanty , and Roman subjects from the modern Alsace - Lorraine had drifted across the river eastwards . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -162,19 +171,10 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 442,
-        "inputs": "Question: Ciliary rosettes pump water into sea water no that ' s no right I mean into what to control buoyancy ?  \ncontext: It is uncertain how ctenophores control their buoyancy , but experiments have shown that some species rely on osmotic pressure to adapt to water of different densities . Their body fluids are normally as concentrated as seawater . If they enter less dense brackish water , the ciliary rosettes in the body cavity may pump this into the mesoglea to increase its bulk and decrease its density , to avoid sinking . Conversely if they move from brackish to full - strength seawater , the rosettes may pump water out of the mesoglea to reduce its volume and increase its density . \nAnswer:",
+        "idx": 5896,
+        "inputs": "Question: How should disobedience or rather why should disobedience by the general public be avoided ?  \ncontext: One theory is that , while disobedience may be helpful , any great amount of it would undermine the law by encouraging general disobedience which is neither conscientious nor of social benefit . Therefore , conscientious lawbreakers must be punished . Michael Bayles argues that if a person violates a law in order to create a test case as to the constitutionality of a law , and then wins his case , then that act did not constitute civil disobedience . It has also been argued that breaking the law for self - gratification , as in the case of a homosexual or cannabis user who does not direct his act at securing the repeal of amendment of the law , is not civil disobedience . Likewise , a protestor who attempts to escape punishment by committing the crime covertly and avoiding attribution , or by denying having committed the crime , or by fleeing the jurisdiction , is generally viewed as not being a civil disobedient . \nAnswer:",
         "targets": [
-            "Ruhr"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3560,
-        "inputs": "Question: Why does What does the highest level of the Vistula plateau contain ?  \ncontext: The plain moraine plateau has only a few natural and artificial ponds and also groups of clay pits . The pattern of the Vistula terraces is asymmetrical . The left side consist mainly of two levels : the highest one contains former flooded terraces and the lowest one the flood plain terrace . The contemporary flooded terrace still has visible valleys and ground depressions with water systems coming from the Vistula old – riverbed . They consist of still quite natural streams and lakes as well as the pattern of drainage ditches . The right side of Warsaw has a different pattern of geomorphological forms . There are several levels of the plain Vistula terraces ( flooded as well as former flooded once ) and only small part and not so visible moraine escarpment . Aeolian sand with a number of dunes parted by peat swamps or small ponds cover the highest terrace . These are mainly forested areas ( pine forest ) . \nAnswer:",
-        "targets": [
-            "optimisation of a drug treatment for an individual"
+            "neither conscientious nor of social benefit"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

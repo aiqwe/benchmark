@@ -1,8 +1,8 @@
 [
     {
-        "id": "e7e5f05b8f359cefd60c3ff89a7f9403",
-        "question": "The loquacious man needed to listen, what should he do?",
-        "question_concept": "plain",
+        "id": "ebd9803350396597697c9b1d80919d24",
+        "question": "She could watch people coming and going to all the different shops while at the beauty salon because it was located where?",
+        "question_concept": "beauty salon",
         "choices": {
             "label": [
                 "A",
@@ -12,19 +12,261 @@
                 "E"
             ],
             "text": [
-                "warm climate",
-                "france",
-                "burrow",
-                "shopping mall",
-                "great outdoors"
+                "picking clothes",
+                "clerk",
+                "strip mall",
+                "beautifying hair",
+                "neighborhood"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "dda9a6abff093f300e11c7bfaaa585e2",
+        "question": "The weasel hit the jackpot when he discover the maze of burrows that made up what?",
+        "question_concept": "weasel",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "mole den",
+                "used car lot",
+                "viking ship",
+                "chicken coop",
+                "rabbit warren"
             ]
         },
         "answerKey": "E"
     },
     {
-        "id": "e57a9af2b6c16e756a73f6d544bcadd7",
-        "question": "In December how can you throw water at your friends?",
-        "question_concept": "buying beer",
+        "id": "9c7f077385ef287eff12b565ca6411f5",
+        "question": "One might find theirs open, with the letters that had been delivered stolen.",
+        "question_concept": "letters",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "front door",
+                "newspaper",
+                "post office",
+                "package",
+                "mail box"
+            ]
+        },
+        "answerKey": "E"
+    },
+    {
+        "id": "838acece10a351331db22eb71f711622",
+        "question": "What is moving cars without looking likely to result in?",
+        "question_concept": "moving car",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "driving",
+                "getting tired",
+                "traffic",
+                "accidents",
+                "ticket"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "80c6306161713d6dfa17e867c5a45f49",
+        "question": "What becomes wet and dangerous when it rains?",
+        "question_concept": "rain",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "seattle",
+                "forest",
+                "street",
+                "air",
+                "cars"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "1bb514182dd7960f368bb214b33e4878",
+        "question": "Where would you likely go to buy an armoire?",
+        "question_concept": "armoire",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "living room",
+                "furniture store",
+                "butcher shop",
+                "house",
+                "bedroom"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "4b299b5e93c9569e4536e9b14ea4cffc",
+        "question": "What would you use to find a company?",
+        "question_concept": "company",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "market place",
+                "internet",
+                "yellow pages",
+                "phone book",
+                "armed forces"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "3c06db0a2abf67151514d6c568eb66b5",
+        "question": "Where does a cast act?",
+        "question_concept": "cast",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "perform",
+                "stage",
+                "cast net",
+                "film",
+                "broken leg"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "2749e86ba72db64e40df6653afd81d70",
+        "question": "Where can one attend a famous bazaar?",
+        "question_concept": "bazaar",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "china",
+                "festival",
+                "istanbul",
+                "arabia",
+                "india"
+            ]
+        },
+        "answerKey": "E"
+    },
+    {
+        "id": "0d8fef8e3d283810a2f4015dd18def42",
+        "question": "If a teacher wants to punish a student by not allowing them to go to recess, what are they doing to them?",
+        "question_concept": "punish",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "restrict freedom",
+                "showing mercy",
+                "send to room",
+                "deny",
+                "put in jail"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "b567e33bbbfc9358cec4f130fc3dc013",
+        "question": "Being in love, John and Betty did what when they were alone together?",
+        "question_concept": "being in love",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "kiss",
+                "propose to woman",
+                "sing",
+                "live life",
+                "dance"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "1f82846b0d570f81fe3461baa64b4eb9",
+        "question": "Doctors gave sedative to the patient complaining of pain, what did he say afterwards?",
+        "question_concept": "pain",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "enjoyment",
+                "good sometimes",
+                "immobilize",
+                "feels good",
+                "good feeling"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "be8a6042c28c545dc971b4340b675365",
+        "question": "What is an area with no grass where I can get things to sell at a roadside stand?",
+        "question_concept": "grass",
         "choices": {
             "label": [
                 "A",
@@ -35,18 +277,18 @@
             ],
             "text": [
                 "surface of earth",
+                "rest area",
                 "supermarket",
-                "train station",
-                "space shuttle",
-                "balloon"
+                "state park",
+                "garden"
             ]
         },
-        "answerKey": "A"
+        "answerKey": "E"
     },
     {
-        "id": "400ba81728db14c2929122ac5a5531fd",
-        "question": "How can someone express audibly that they are having fun?",
-        "question_concept": "diamonds",
+        "id": "1f1dac89f40a1d3bcb54b16398857639",
+        "question": "What do people perform if they have a band?",
+        "question_concept": "perform",
         "choices": {
             "label": [
                 "A",
@@ -56,85 +298,19 @@
                 "E"
             ],
             "text": [
-                "effort",
-                "exercise",
-                "discipline",
-                "muscles",
-                "run"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "7558f7fe490b34c4e1c6c7db9e53b1ba",
-        "question": "What do you call the period of time after you are done running before you have the energy to run again?",
-        "question_concept": "food",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "destroy enemy",
-                "write letter",
-                "explode",
-                "punch",
-                "release energy"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "2f97a77d155cb99092e8a7c055737b03",
-        "question": "What is the result of reaching a tentative agreement?",
-        "question_concept": "clerk",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "monkey",
-                "go off",
-                "keep fresh",
-                "market",
-                "taste sweet"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "8701aef7d74b16230616450fae2c5c90",
-        "question": "Tweed is a fabric I am looking to make clothing with, where should I go to buy some?",
-        "question_concept": "gift shop",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "kitchen floor",
-                "house",
-                "furniture",
-                "mobile home",
-                "living room"
+                "standing ovation",
+                "music",
+                "tricks",
+                "applause",
+                "smile"
             ]
         },
         "answerKey": "B"
     },
     {
-        "id": "24f598a232650f17ee37427a1d6935e6",
-        "question": "What can you put in a parking lot?",
-        "question_concept": "homeowner",
+        "id": "bacc0b106ce669c1409cc05e41be4875",
+        "question": "The family sought a new place to care for their elderly mother, due to lethargic staffing, what type of staff did the previous facility have?",
+        "question_concept": "care",
         "choices": {
             "label": [
                 "A",
@@ -144,217 +320,19 @@
                 "E"
             ],
             "text": [
-                "play football",
-                "sporting event",
-                "at a laundry mat.",
-                "soccer game",
-                "hockey game"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "c71145089db0c2f69220fdc450b48f89",
-        "question": "What can light do when it passes through the air?",
-        "question_concept": "marsh",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "hockey game",
-                "home",
-                "hospital",
-                "emergency room",
-                "doctor's office"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "b42222e0233cb78e0df4dcaa433c57b3",
-        "question": "What does someone committing perjury likely to have?",
-        "question_concept": "traveling",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "atlantic ocean",
-                "france",
-                "fish market",
-                "books",
-                "sushi restaurant"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "59df3813684cc7bf46f7098c0ea20a46",
-        "question": "What is it called when you spend time with friends and acquaintances?",
-        "question_concept": "killing people",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "car dealership",
-                "car show",
-                "superb",
-                "parking lot",
-                "freeway"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "0e86a799b66baba6462dca8bac6ad9a9",
-        "question": "What country might a crab live in?",
-        "question_concept": "doing housework",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "contract",
-                "friendship",
-                "harmony",
-                "compliance",
-                "death threats"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "2282e0c80be28aadadb79a822fec9dac",
-        "question": "Why would a camper start burning logs?",
-        "question_concept": "student",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "listen",
-                "skate",
-                "fiddle",
-                "have fun",
-                "play piano"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "4c7ea1b8ef14e979db54d04e45fe8b5f",
-        "question": "What can a police officer do if power is out?",
-        "question_concept": "heifer",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "exercise",
-                "tantrums",
-                "lot of noise",
-                "hiccups",
-                "getting warm"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "f8bc75e2683aa2cd3765f8421ad2b4c7",
-        "question": "What's one characteristic that separates a person from a stuffed dummy?",
-        "question_concept": "old clothes",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "ignoring",
-                "being rude",
-                "disparagement",
-                "contumely",
-                "uncertainty"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "2949b70875c47abbfb768d8633ba1b9f",
-        "question": "What happens to the person that is well known for frequent farting?",
-        "question_concept": "vinyl",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "emergency room",
-                "library",
-                "injured person",
-                "patient",
-                "hospital"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "b1d94e95fdb4f1268f53fe5e35e067bf",
-        "question": "Where would you put a ficus if you do not want it to damage your floor?",
-        "question_concept": "disability",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
+                "neglect",
                 "manual",
-                "wild ride",
-                "need for rest",
-                "playing marbles",
-                "hug"
+                "indifferent",
+                "apathetic",
+                "disregard"
             ]
         },
-        "answerKey": "C"
+        "answerKey": "D"
     },
     {
-        "id": "33eb089b8d6adc903156d41187a72076",
-        "question": "Where do you live if there are a lot of mailboxes in the foyer?",
-        "question_concept": "human",
+        "id": "e36175aa4731e61013cb59e468b75282",
+        "question": "The man sat down at the piano and played the A note for others to emulate, who was he with?",
+        "question_concept": "piano",
         "choices": {
             "label": [
                 "A",
@@ -364,41 +342,19 @@
                 "E"
             ],
             "text": [
-                "breaking",
-                "bend over",
-                "let go of",
-                "careful",
-                "pick up"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "707ae17a57bdbea4d0a30b2523440d30",
-        "question": "Space, planets, moons and everything we can observe is part of what?",
-        "question_concept": "run errands",
-        "choices": {
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D",
-                "E"
-            ],
-            "text": [
-                "lunch room",
-                "supermarket",
-                "chemistry lab",
-                "restaurants",
-                "pub"
+                "music room",
+                "symphony orchestra",
+                "church",
+                "athletes",
+                "concert hall"
             ]
         },
         "answerKey": "B"
     },
     {
-        "id": "fb532e4fdf7b29838ee53020c0eb692f",
-        "question": "A beaver can destroy a machines functionality if they build their dam in this?",
-        "question_concept": "tissue holder",
+        "id": "ecb873751830c4ab6c54940b77533668",
+        "question": "An astronout in space needed to know what side of the planet the English Channel was on, where did he aim his spacecraft?",
+        "question_concept": "english channel",
         "choices": {
             "label": [
                 "A",
@@ -408,19 +364,19 @@
                 "E"
             ],
             "text": [
-                "farm land",
-                "pod person",
-                "industrial",
-                "city dweller",
-                "business man"
+                "northern hemisphere",
+                "atlantic ocean",
+                "go boating",
+                "england",
+                "canada"
             ]
         },
         "answerKey": "A"
     },
     {
-        "id": "0b1883e4dde8bf8ebe6e123dcf92d985",
-        "question": "The support team landed in the disaster zone, they hoped to provide what?",
-        "question_concept": "person",
+        "id": "9511397f25872d19544c13809b6ff077",
+        "question": "To gain her trust the real estate agent was very polite, delightful and all around what?",
+        "question_concept": "real estate agent",
         "choices": {
             "label": [
                 "A",
@@ -430,13 +386,57 @@
                 "E"
             ],
             "text": [
-                "department store",
-                "fraizer fur",
-                "specialty store",
-                "christmas tree",
-                "christmas stocking"
+                "manipulate",
+                "charming",
+                "deceive",
+                "exaggerate",
+                "incompetent"
             ]
         },
-        "answerKey": "D"
+        "answerKey": "B"
+    },
+    {
+        "id": "06a6542bfc09fec3f0c8eef47a9ab1c5",
+        "question": "What about eating hamburgers makes someone want more?",
+        "question_concept": "eating hamburger",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "enjoy",
+                "tasty",
+                "health problems",
+                "hunger",
+                "indigestion"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "777632e549ca0d7dd589a46b0e79e3f7",
+        "question": "A person is putting a sofabed in a house for a guest, where are they likely to place it?",
+        "question_concept": "sofabed",
+        "choices": {
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "text": [
+                "livingroom",
+                "on their bed",
+                "living room",
+                "sitting room",
+                "spare room"
+            ]
+        },
+        "answerKey": "E"
     }
 ]
