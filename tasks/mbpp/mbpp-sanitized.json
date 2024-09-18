@@ -1,0 +1,249 @@
+[
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 770,
+        "prompt": "Write a function to check if the given integer is a prime number.",
+        "code": "import re\ndef remove_parenthesis(items):\n for item in items:\n    return (re.sub(r\" ?\\([^)]+\\)\", \"\", item))",
+        "test_imports": [],
+        "test_list": [
+            "assert new_tuple([\"WEB\", \"is\"], \"best\") == ('WEB', 'is', 'best')",
+            "assert new_tuple([\"We\", \"are\"], \"Developers\") == ('We', 'are', 'Developers')",
+            "assert new_tuple([\"Part\", \"is\"], \"Wrong\") == ('Part', 'is', 'Wrong')"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 801,
+        "prompt": "Write a python function to check whether the count of divisors is even. https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-24.php",
+        "code": "import math\ndef lateralsurface_cone(r,h):\n  l = math.sqrt(r * r + h * h)\n  LSA = math.pi * r  * l\n  return LSA",
+        "test_imports": [],
+        "test_list": [
+            "assert check_monthnumber_number(6)==True",
+            "assert check_monthnumber_number(2)==False",
+            "assert check_monthnumber_number(12)==False"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 748,
+        "prompt": "Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,",
+        "code": "def number_ctr(str):\n      number_ctr= 0\n      for i in range(len(str)):\n          if str[i] >= '0' and str[i] <= '9': number_ctr += 1     \n      return  number_ctr",
+        "test_imports": [],
+        "test_list": [
+            "assert toggle_middle_bits(9) == 15",
+            "assert toggle_middle_bits(10) == 12",
+            "assert toggle_middle_bits(11) == 13",
+            "assert toggle_middle_bits(0b1000001) == 0b1111111",
+            "assert toggle_middle_bits(0b1001101) == 0b1110011"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 743,
+        "prompt": "Write a function to find numbers within a given range from startnum ti endnum where every number is divisible by every digit it contains. https://www.w3resource.com/python-exercises/lambda/python-lambda-exercise-24.php",
+        "code": "def add_tuple(test_list, test_tup):\n  test_list += test_tup\n  return test_list",
+        "test_imports": [],
+        "test_list": [
+            "assert add_tuple([5, 6, 7], (9, 10)) == [5, 6, 7, 9, 10]",
+            "assert add_tuple([6, 7, 8], (10, 11)) == [6, 7, 8, 10, 11]",
+            "assert add_tuple([7, 8, 9], (11, 12)) == [7, 8, 9, 11, 12]"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 787,
+        "prompt": "Write a python function to check whether every odd index contains odd numbers of a given list.",
+        "code": "def geometric_sum(n):\n  if n < 0:\n    return 0\n  else:\n    return 1 / (pow(2, n)) + geometric_sum(n - 1)",
+        "test_imports": [],
+        "test_list": [
+            "assert max_run_uppercase('GeMKSForGERksISBESt') == 5",
+            "assert max_run_uppercase('PrECIOusMOVemENTSYT') == 6",
+            "assert max_run_uppercase('GooGLEFluTTER') == 4"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 771,
+        "prompt": "Write a function to convert tuple string to integer tuple.",
+        "code": "def lcs_of_three(X, Y, Z): \n  m = len(X)\n  n = len(Y)\n  o = len(Z)\n  L = [[[0 for i in range(o+1)] for j in range(n+1)] for k in range(m+1)]\n  for i in range(m+1): \n\t  for j in range(n+1): \n\t\t  for k in range(o+1): \n\t\t\t  if (i == 0 or j == 0 or k == 0): \n\t\t\t\t  L[i][j][k] = 0\n\t\t\t  elif (X[i-1] == Y[j-1] and X[i-1] == Z[k-1]): \n\t\t\t\t  L[i][j][k] = L[i-1][j-1][k-1] + 1\n\t\t\t  else: \n\t\t\t\t  L[i][j][k] = max(max(L[i-1][j][k], L[i][j-1][k]), L[i][j][k-1]) \n  return L[m][n][o]",
+        "test_imports": [],
+        "test_list": [
+            "assert is_nonagonal(10) == 325",
+            "assert is_nonagonal(15) == 750",
+            "assert is_nonagonal(18) == 1089"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 736,
+        "prompt": "Write a python function to find nth bell number.",
+        "code": "import math\ndef wind_chill(v,t):\n windchill = 13.12 + 0.6215*t -  11.37*math.pow(v, 0.16) + 0.3965*t*math.pow(v, 0.16)\n return int(round(windchill, 0))",
+        "test_imports": [],
+        "test_list": [
+            "assert remove_kth_element([1,1,2,3,4,4,5,1],3)==[1, 1, 3, 4, 4, 5, 1]",
+            "assert remove_kth_element([0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4],4)==[0, 0, 1, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4]",
+            "assert remove_kth_element([10, 10, 15, 19, 18, 18, 17, 26, 26, 17, 18, 10],5)==[10,10,15,19, 18, 17, 26, 26, 17, 18, 10]"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 739,
+        "prompt": "Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.",
+        "code": "def min_k(test_list, K):\n  res = sorted(test_list, key = lambda x: x[1])[:K]\n  return (res) ",
+        "test_imports": [],
+        "test_list": [
+            "assert odd_length_sum([1,2,4]) == 14",
+            "assert odd_length_sum([1,2,1,2]) == 15",
+            "assert odd_length_sum([1,7]) == 8"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 728,
+        "prompt": "Write a function to remove consecutive duplicates of a given list.",
+        "code": "def move_num(test_str):\n  res = ''\n  dig = ''\n  for ele in test_str:\n    if ele.isdigit():\n      dig += ele\n    else:\n      res += ele\n  res += dig\n  return (res) ",
+        "test_imports": [],
+        "test_list": [
+            "assert occurance_substring('python programming, python language','python')==('python', 0, 6)",
+            "assert occurance_substring('python programming,programming language','programming')==('programming', 7, 18)",
+            "assert occurance_substring('python programming,programming language','language')==('language', 31, 39)",
+            "assert occurance_substring('c++ programming, c++ language','python')==None"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 724,
+        "prompt": "Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/",
+        "code": "def reverse_words(s):\n        return ' '.join(reversed(s.split()))",
+        "test_imports": [],
+        "test_list": [
+            "assert remove_kth_element([1,1,2,3,4,4,5,1],3)==[1, 1, 3, 4, 4, 5, 1]",
+            "assert remove_kth_element([0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4],4)==[0, 0, 1, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4]",
+            "assert remove_kth_element([10, 10, 15, 19, 18, 18, 17, 26, 26, 17, 18, 10],5)==[10,10,15,19, 18, 17, 26, 26, 17, 18, 10]"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 760,
+        "prompt": "Write a python function to reverse an array upto a given position.",
+        "code": "def new_tuple(test_list, test_str):\n  return tuple(test_list + [test_str])",
+        "test_imports": [],
+        "test_list": [
+            "assert is_nonagonal(10) == 325",
+            "assert is_nonagonal(15) == 750",
+            "assert is_nonagonal(18) == 1089"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 800,
+        "prompt": "Write a python function to find the index of smallest triangular number with n digits. https://www.geeksforgeeks.org/index-of-smallest-triangular-number-with-n-digits/",
+        "code": "def move_zero(num_list):\n    a = [0 for i in range(num_list.count(0))]\n    x = [i for i in num_list if i != 0]\n    return x + a",
+        "test_imports": [],
+        "test_list": [
+            "assert count_rotation([3,2,1]) == 1",
+            "assert count_rotation([4,5,1,2,3]) == 2",
+            "assert count_rotation([7,8,9,1,2,3]) == 3",
+            "assert count_rotation([1,2,3]) == 0",
+            "assert count_rotation([1,3,2]) == 2"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 625,
+        "prompt": "Write a python function to reverse an array upto a given position.",
+        "code": "import math\ndef area_tetrahedron(side):\n  area = math.sqrt(3)*(side*side)\n  return area",
+        "test_imports": [],
+        "test_list": [
+            "assert cummulative_sum([(1, 3), (5, 6, 7), (2, 6)]) == 30",
+            "assert cummulative_sum([(2, 4), (6, 7, 8), (3, 7)]) == 37",
+            "assert cummulative_sum([(3, 5), (7, 8, 9), (4, 8)]) == 44"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 726,
+        "prompt": "Write a function to reverse words seperated by spaces in a given string.",
+        "code": "def power_base_sum(base, power):\n    return sum([int(i) for i in str(pow(base, power))])",
+        "test_imports": [],
+        "test_list": [
+            "assert move_zero([1,0,2,0,3,4]) == [1,2,3,4,0,0]",
+            "assert move_zero([2,3,2,0,0,4,0,5,0]) == [2,3,2,4,5,0,0,0,0]",
+            "assert move_zero([0,1,0,1,1]) == [1,1,1,0,0]"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 784,
+        "prompt": "Write a python function to convert a given string to uppercase.",
+        "code": "def triangle_area(r) :  \n    if r < 0 : \n        return None\n    return r * r ",
+        "test_imports": [],
+        "test_list": [
+            "assert text_match_wordz_middle(\"pythonzabc.\")==True",
+            "assert text_match_wordz_middle(\"zxyabc.\")==False",
+            "assert text_match_wordz_middle(\"  lang  .\")==False"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 641,
+        "prompt": "Write a function to find the cumulative sum of all the values that are present in the given tuple list.",
+        "code": "def move_num(test_str):\n  res = ''\n  dig = ''\n  for ele in test_str:\n    if ele.isdigit():\n      dig += ele\n    else:\n      res += ele\n  res += dig\n  return (res) ",
+        "test_imports": [],
+        "test_list": [
+            "assert occurance_substring('python programming, python language','python')==('python', 0, 6)",
+            "assert occurance_substring('python programming,programming language','programming')==('programming', 7, 18)",
+            "assert occurance_substring('python programming,programming language','language')==('language', 31, 39)",
+            "assert occurance_substring('c++ programming, c++ language','python')==None"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 638,
+        "prompt": "Write a function to find the size of the largest subset of a list of numbers so that every pair is divisible.",
+        "code": "def left_rotate(n,d):   \n    INT_BITS = 32\n    return (n << d)|(n >> (INT_BITS - d))  ",
+        "test_imports": [],
+        "test_list": [
+            "assert count_reverse_pairs([\"julia\", \"best\", \"tseb\", \"for\", \"ailuj\"])== 2",
+            "assert count_reverse_pairs([\"geeks\", \"best\", \"for\", \"skeeg\"]) == 1",
+            "assert count_reverse_pairs([\"makes\", \"best\", \"sekam\", \"for\", \"rof\"]) == 2"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 783,
+        "prompt": "Write a python function to check whether all the characters are same or not.",
+        "code": "def min_k(test_list, K):\n  res = sorted(test_list, key = lambda x: x[1])[:K]\n  return (res) ",
+        "test_imports": [],
+        "test_list": [
+            "assert count_same_pair([1, 2, 3, 4, 5, 6, 7, 8],[2, 2, 3, 1, 2, 6, 7, 9])==4",
+            "assert count_same_pair([0, 1, 2, -1, -5, 6, 0, -3, -2, 3, 4, 6, 8],[2, 1, 2, -1, -5, 6, 4, -3, -2, 3, 4, 6, 8])==11",
+            "assert count_same_pair([2, 4, -6, -9, 11, -12, 14, -5, 17],[2, 1, 2, -1, -5, 6, 4, -3, -2, 3, 4, 6, 8])==1",
+            "assert count_same_pair([0, 1, 1, 2],[0, 1, 2, 2])==3"
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 742,
+        "prompt": "Write a function which takes a tuple of tuples and returns the average value for each tuple as a list.",
+        "code": "def last(arr,x):\n    n = len(arr)\n    low = 0\n    high = n - 1\n    res = -1  \n    while (low <= high):\n        mid = (low + high) // 2 \n        if arr[mid] > x:\n            high = mid - 1\n        elif arr[mid] < x:\n            low = mid + 1\n        else:\n            res = mid\n            low = mid + 1\n    return res",
+        "test_imports": [],
+        "test_list": [
+            "assert first_repeated_char(\"abcabc\") == \"a\"",
+            "assert first_repeated_char(\"abc\") == None",
+            "assert first_repeated_char(\"123123\") == \"1\""
+        ]
+    },
+    {
+        "source_file": "Benchmark Questions Verification V2.ipynb",
+        "task_id": 637,
+        "prompt": "Write a function to extract all the adjacent coordinates of the given coordinate tuple.",
+        "code": "def rotate_right(list, m):\n  result =  list[-m:] + list[:-m]\n  return result",
+        "test_imports": [],
+        "test_list": [
+            "assert find_combinations([(2, 4), (6, 7), (5, 1), (6, 10)]) == [(8, 11), (7, 5), (8, 14), (11, 8), (12, 17), (11, 11)]",
+            "assert find_combinations([(3, 5), (7, 8), (6, 2), (7, 11)]) == [(10, 13), (9, 7), (10, 16), (13, 10), (14, 19), (13, 13)]",
+            "assert find_combinations([(4, 6), (8, 9), (7, 3), (8, 12)]) == [(12, 15), (11, 9), (12, 18), (15, 12), (16, 21), (15, 15)]"
+        ]
+    }
+]
