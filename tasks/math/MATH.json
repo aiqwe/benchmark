@@ -1,122 +1,128 @@
 [
     {
-        "problem": "Compute\n$$\\sum_{k=1}^{1000} k(\\lceil \\log_{\\sqrt{2}}{k}\\rceil- \\lfloor\\log_{\\sqrt{2}}{k} \\rfloor).$$",
-        "level": "Level 3",
-        "type": "Intermediate Algebra",
-        "solution": "We get rid of the cube root sign by cubing both sides.  This gives us $2-\\frac{x}{2} = -27$.  Solving this equation gives $x =\\boxed{58}$."
-    },
-    {
-        "problem": "Let $\\{a_k\\}$ be a sequence of integers such that $a_1=1$ and $a_{m+n}=a_m+a_n+mn,$ for all positive integers $m$ and $n.$ Find $a_{12}.$",
-        "level": "Level 4",
-        "type": "Algebra",
-        "solution": "Since $x_1,$ $x_2,$ $x_3,$ $x_4,$ $x_5$ are the roots of $f(x) = x^5 + x^2 + 1,$ we can write\n\\[x^5 + x^2 + 1 = (x - x_1)(x - x_2)(x - x_3)(x - x_4)(x - x_5).\\]Also, $g(x) = x^2 - 2 = (x - \\sqrt{2})(x + \\sqrt{2}),$ so\n\\begin{align*}\n&g(x_1) g(x_2) g(x_3) g(x_4) g(x_5) \\\\\n&= (x_1 - \\sqrt{2})(x_1 + \\sqrt{2})(x_2 - \\sqrt{2})(x_2 + \\sqrt{2})(x_3 - \\sqrt{2})(x_3 + \\sqrt{2})(x_4 - \\sqrt{2})(x_4 + \\sqrt{2})(x_5 - \\sqrt{2})(x_5 + \\sqrt{2}) \\\\\n&= (x_1 - \\sqrt{2})(x_2 - \\sqrt{2})(x_3 - \\sqrt{2})(x_4 - \\sqrt{2})(x_5 - \\sqrt{2}) \\\\\n&\\quad \\times (x_1 + \\sqrt{2})(x_2 + \\sqrt{2})(x_3 + \\sqrt{2})(x_4 + \\sqrt{2})(x_5 + \\sqrt{2}) \\\\\n&= (\\sqrt{2} - x_1)(\\sqrt{2} - x_2)(\\sqrt{2} - x_3)(\\sqrt{2} - x_4)(\\sqrt{2} - x_5) \\\\\n&\\quad \\times (-\\sqrt{2} - x_1)(-\\sqrt{2} - x_2)(-\\sqrt{2} - x_3)(-\\sqrt{2} - x_4)(-\\sqrt{2} - x_5) \\\\\n&= f(\\sqrt{2}) f(-\\sqrt{2}) \\\\\n&= (4 \\sqrt{2} + 2 + 1)(-4 \\sqrt{2} + 2 + 1) \\\\\n&= \\boxed{-23}.\n\\end{align*}"
-    },
-    {
-        "problem": "What is the least positive integer that has a remainder of 0 when divided by 2, a remainder of 1 when divided by 3, and a remainder of 2 when divided by 4?",
-        "level": "Level 2",
-        "type": "Algebra",
-        "solution": "Let $y = \\sqrt[3]{2 - x}.$  Then $y^3 = 2 - x,$ so $x = 2 - y^3.$  Then\n\\[\\sqrt{x - 1} = \\sqrt{1 - y^3},\\]so we can write the given equation as $y + \\sqrt{1 - y^3} = 1.$  Then\n\\[\\sqrt{1 - y^3} = 1 - y.\\]Squaring both sides, we get $1 - y^3 = 1 - 2y + y^2,$ so $y^3 + y^2 - 2y = 0.$  This factors as $y(y - 1)(y + 2) = 0,$ so $y$ can be 0, 1, or $-2.$\nThese lead to $x = \\boxed{1,2,10}.$  We check that these solutions work."
-    },
-    {
-        "problem": "Simplify $90r - 44r$.",
-        "level": "Level 3",
-        "type": "Number Theory",
-        "solution": "Let the other leg have length $x$.  From the area of the triangle, we have $\\frac12(24)(x) = 120$, so $12x = 120$ and $x=10$.  Let $c$ be the hypotenuse of the triangle.  The Pythagorean Theorem gives us $c^2 = 10^2 + 24^2 = 100 + 576 = 676$, so $c = 26$.  Therefore,  the perimeter is $10+24+26=\\boxed{60}$."
-    },
-    {
-        "problem": "Let $\\theta$ be the angle between the line\n\\[\\frac{x + 1}{2} = \\frac{y}{3} = \\frac{z - 3}{6}\\]and the plane $-10x - 2y + 11z = 3.$  Find $\\sin \\theta.$\n\n[asy]\nimport three;\n\nsize(150);\ncurrentprojection = perspective(6,3,2);\n\ntriple I = (1,0,0), J = (0,1,0), K = (0,0,1), O = (0,0,0);\n\ndraw(surface((2*I + 2*J)--(2*I - 2*J)--(-2*I - 2*J)--(-2*I + 2*J)--cycle),paleyellow,nolight);\ndraw((2*I + 2*J)--(2*I - 2*J)--(-2*I - 2*J)--(-2*I + 2*J)--cycle);\ndraw((0,0,0)--(-0.5,1.5,1));\ndraw((0,0,0)--0.8*(-0.5,1.5,1),Arrow3(6));\ndraw((0,0,0)--1.2*(-0.5,-1.5,-1),dashed);\ndraw(1.2*(-0.5,-1.5,-1)--2*(-0.5,-1.5,-1));\ndraw((0,0,0)--(-0.5,1.5,0));\n\nlabel(\"$\\theta$\", 0.5*(-0.5,1.5,0.0) + (0,0,0.3));\n\ndot((0,0,0));\n//\n[/asy]",
-        "level": "Level 5",
-        "type": "Prealgebra",
-        "solution": "Let $z = a + bi,$ where $a$ and $b$ are real numbers.  Since $|z| = 2,$ $a^2 + b^2 = 4.$  Then\n\\begin{align*}\nz + \\frac{1}{z} &= a + bi + \\frac{1}{a + bi} \\\\\n&= a + bi + \\frac{1}{a + bi} \\\\\n&= a + bi + \\frac{a - bi}{a^2 + b^2} \\\\\n&= a + bi + \\frac{a - bi}{4} \\\\\n&= \\frac{5}{4} a + \\frac{3}{4} bi.\n\\end{align*}Let $x + yi = z + \\frac{1}{z},$ so $x = \\frac{5}{4} a$ and $y = \\frac{3}{4} b.$  Then\n\\[\\frac{x^2}{(5/4)^2} + \\frac{y^2}{(3/4)^2} = a^2 + b^2 = 4,\\]so\n\\[\\frac{x^2}{(5/2)^2} + \\frac{y^2}{(3/2)^2} = 1.\\]Thus, $z + \\frac{1}{z}$ traces an ellipse.  The answer is $\\boxed{\\text{(C)}}.$"
-    },
-    {
-        "problem": "Let a sequence $b_1, b_2, \\ldots$ be defined as $b_1 = 1$, $b_2 = 2$, and $b_{n+1} = b_n b_{n-1}$.  Calculate $b_{20}$",
-        "level": "Level 3",
-        "type": "Prealgebra",
-        "solution": "Because the train is moving 60 miles per hour, the front of the train moves 1 mile every minute. Therefore, in the three minutes since the front of the train entered the tunnel, the front of the train has moved three miles. At the end of these three minutes, we know the front of the train is 1 mile beyond the end of the tunnel,because the train is one mile long and its tail is just leaving the tunnel.  So, the front of the train has moved 3 miles from the beginning of the tunnel and is now 1 mile beyond the end of the tunnel. This tells us that the tunnel is $3-1 = \\boxed{2\\text{ miles}}$ long."
-    },
-    {
-        "problem": "Steve guesses randomly on a 15-question multiple choice test in which each problem has two choices, a correct one and an incorrect one. What is the probability that he gets at least half of the questions correct? Express your answer as a common fraction.",
-        "level": "Level 5",
-        "type": "Number Theory",
-        "solution": "Let $10a+b$ represent $n$, where $a$ and $b$ are the tens and units digits, respectively. Switching the digits and adding 3 results in $10b+a+3$, which we set equal to $2n$. \\begin{align*}\n2(10a+b)&=10b+a+3\\quad\\Rightarrow\\\\\n20a+2b&=10b+a+3\\quad\\Rightarrow\\\\\n19a&=8b+3\n\\end{align*}For the smallest $n$, we let the tens digit $a=1$. We have $19=8b+3$, which means $b=2$. So the smallest $n$ is $\\boxed{12}$."
-    },
-    {
-        "problem": "Simplify $(22a+60b)+(10a+29b)-(9a+50b).$",
-        "level": "Level 5",
-        "type": "Algebra",
-        "solution": "$f(3) = \\frac{1 + 3}{1 - 3\\cdot 3} = -\\frac{1}{2}$. Then $f_1(3) = f(-\\frac12) = \\frac{1 - \\frac12}{1 + 3\\cdot\\frac12} = \\frac15$, $\\displaystyle f_2(3) = f(\\frac15) = \\frac{1 + \\frac15}{1 - 3\\cdot\\frac15} = 3$ and $f_3(3) = f(3) = \\frac{1 + 3}{1 - 3\\cdot 3} = -\\frac{1}{2}$.\nIt follows immediately that the function cycles and $f_n(3) = -\\frac12$ if $n = 3k$, $f_n(3) = \\frac15$ if $n = 3k + 1$ and $f_n(3) = 3$ if $n = 3k + 2$. Since $1993 = 3\\cdot 664 + 1$, $f_{1993}(3) = \\boxed{\\frac{1}{5}}$."
-    },
-    {
-        "problem": "The Cookie Monster encounters a cookie whose boundary is the equation $x^2+y^2 - 6.5 = x + 3 y$ and is very confused. He wants to know if this cookie is a lunch-sized cookie or a snack-sized cookie. What is the radius of this cookie?",
-        "level": "Level 5",
-        "type": "Prealgebra",
-        "solution": "We can rewrite the equation $x^2+12y+57=-y^2-10x$ as $x^2+10x+y^2+12y=-57$. Completing the square, we have $(x+5)^2-25+(y+6)^2-36=-57$, or $(x+5)^2+(y+6)^2=4$. This is the equation of a circle of radius $r=2$ and with center $(a,b)=(-5,-6)$. Therefore, $a+b+r=-5+-6+2=\\boxed{-9}$."
-    },
-    {
-        "problem": "A prism is constructed so that its vertical edges are parallel to the $z$-axis.  Its cross-section is a square of side length 10.\n\n[asy]\nimport three;\n\nsize(180);\ncurrentprojection = perspective(6,3,2);\n\ntriple A, B, C, D, E, F, G, H;\n\nA = (1,1,0);\nB = (1,-1,0);\nC = (-1,-1,0);\nD = (-1,1,0);\nE = A + (0,0,1);\nF = B + (0,0,3);\nG = C + (0,0,4);\nH = D + (0,0,2);\n\ndraw(surface(E--F--G--H--cycle),gray(0.7),nolight);\ndraw(E--F--G--H--cycle);\ndraw(A--E);\ndraw(B--F);\ndraw(C--G,dashed);\ndraw(D--H);\ndraw(B--A--D);\ndraw(B--C--D,dashed);\n[/asy]\n\nThe prism is then cut by the plane $4x - 7y + 4z = 25.$  Find the maximal area of the cross-section.",
-        "level": "Level 4",
-        "type": "Intermediate Algebra",
-        "solution": "We can perform long division.  We can also write\n\\begin{align*}\n\\frac{x^5 + 7}{x + 1} &= \\frac{(x^5 + 1) + 6}{x + 1} \\\\\n&= \\frac{x^5 + 1}{x + 1} + \\frac{6}{x + 1} \\\\\n&= x^4 - x^3 + x^2 - x + 1 + \\frac{6}{x - 1}.\n\\end{align*}Thus, the quotient is $\\boxed{x^4 - x^3 + x^2 - x + 1}.$"
-    },
-    {
-        "problem": "I need to learn vocabulary words for my Spanish exam. There are 500 words and the exam grade is the percentage of these words that I recall correctly. Assuming I will recall correctly the words I learn and assuming my guesses will not yield any points, what is the least number of words I should learn to get at least $85\\%$ on the exam?",
-        "level": "Level 4",
-        "type": "Counting & Probability",
-        "solution": "Let $P_n = (x_n, 0)$. Then the $\\ell_n$ meet $\\mathcal{C}$ at $(x_{n+1}, x_{n+1} - x_n)$. Since this point lies on the hyperbola, we have $(x_{n+1} - x_n)^2 - x_{n+1}^2 = 1$. Rearranging this equation gives \\[\nx_{n+1} = \\frac{x_n^2 - 1}{2x_n}.\n\\]Choose a $\\theta_0 \\in (0, \\pi)$ with $\\cot\\theta_0 = x_0$, and define $\\theta_n = 2^n \\theta_0$. Using the double-angle formula, we have \\[\n\\cot \\theta_{n+1} = \\cot( 2 \\theta_n ) = \\frac{\\cot^2 \\theta_n - 1}{2 \\cot \\theta_n}.\n\\]It follows by induction that $x_n = \\cot \\theta_n$. Then, $P_0 = P_{2008}$ corresponds to $\\cot \\theta_0 = \\cot ( 2^{2008} \\theta_0 )$ (assuming that $P_0$ is never at the origin, or equivalently, $2^{n} \\theta$ is never an integer multiple of $\\pi$).\n\nSo, we need to find the number of $\\theta_0 \\in (0, \\pi)$ with the property that $2^{2008} \\theta_0 - \\theta_0 = k \\pi$ for some integer $k$. We have $\\theta_0 = \\frac{k \\pi}{2^{2008} - 1}$, so $k$ can be any integer between $1$ and $2^{2008}-2$ inclusive (and note that since the denominator is odd, the sequence never terminates). It follows that the number of starting positions is $\\boxed{2^{2008} -2}$."
-    },
-    {
-        "problem": "At a state contest, 21 Mathletes stay in the same hotel. Each Mathlete gets his/her own room and the room numbers are 1 through 21. When all the Mathletes have arrived, except the ones staying in rooms 12 and 13, what is the median room number of the other 19 Mathletes?",
-        "level": "Level 3",
-        "type": "Prealgebra",
-        "solution": "If $\\frac{n}{n+101}$ is a terminating decimal, then $n+101$ is divisible only by 2 and 5. We proceed by looking for integers only divisible by 2 and 5.\n\nWe find that 125 is the smallest power of 5 greater than 101. The smallest satisfactory integer divisible by 25 is also 125; multiplying by powers of 2 gives us 100, then 200. The smallest satisfactory integer divisible by 5 is also 125, since multiplying by powers of 2 gives us 80, then 160. Finally, the smallest power of 2 greater than 101 is 128. 125 is the smallest denominator that will give a terminating decimal, so we have that $n+101 = 125$ which implies $n = \\boxed{24}$."
-    },
-    {
-        "problem": "How many positive divisors does the number $24$ have?",
-        "level": "Level 3",
-        "type": "Algebra",
-        "solution": "Since $12! = 12 \\cdot 11!$, we can examine the sum better by factoring $11!$ out of both parts: $$ 11! + 12! = 11! + 12 \\cdot 11! = 11!(1 + 12) = 11! \\cdot 13. $$Since no prime greater than 11 divides $11!$, $\\boxed{13}$ is the largest prime factor of $11! + 12!$."
-    },
-    {
-        "problem": "Fido's leash is tied to a stake at the center of his yard, which is in the shape of a regular hexagon. His leash is exactly long enough to reach the midpoint of each side of his yard. If the fraction of the area of Fido's yard that he is able to reach while on his leash is expressed in simplest radical form as $\\frac{\\sqrt{a}}{b}\\pi$, what is the value of the product $ab$?",
-        "level": "Level 4",
-        "type": "Intermediate Algebra",
-        "solution": "First we know that $1^{18}=1$. Then we see that $8\\cdot10^{18}$ is 8 followed by 18 zeroes. So the sum is $800\\cdots001$. A number is divisible by 9 if the sum of its digits is a multiple of 9. In this case, the sum of the digits is $8+1=9$, so the number itself is a multiple of 9 and leaves a remainder of $\\boxed{0}$ when divided by 9."
-    },
-    {
-        "problem": "Find the value of $x$ such that $\\sqrt{3x + 7} = 10$.",
-        "level": "Level 5",
-        "type": "Prealgebra",
-        "solution": "It may not be obvious how to proceed with this problem, but a little experimentation might lead you to determine the possible values of $m.$\n\nSince $0 < m^2 < 22,$ we can see that $m$ must be one of $1,$ $2,$ $3,$ or $4.$ So let's use these as our cases.\n\nCase 1: When $m=1$, we must have $n < 22-1 = 21.$ Thus there are $20$ possible choices for $n$ when $m=1.$\nCase 2: When $m=2,$ we must have $n < 22-4 = 18.$ Thus there are $17$ possible choices for $n$ when $m=2.$\nCase 3: When $m=3,$ we must have $n < 22-9 = 13.$ Thus there are $12$ possible choices for $n$ when $m=3.$\nCase 4: When $m=4,$ we must have $n < 22-16 = 6.$ Thus there are $5$ possible choices for $n$ when $m=4.$\n\nSo to get the total number of pairs of positive integers satisfying the inequality, we add up all of our possible cases, and see that there are $20 + 17 + 12 + 5 = \\boxed{54}$ possible pairs."
-    },
-    {
-        "problem": "What is the units digit of $23^{23}$?",
-        "level": "Level 5",
-        "type": "Intermediate Algebra",
-        "solution": "Setting $x = 30$ and $y = \\frac{4}{3},$ we get\n\\[f(40) = \\frac{f(30)}{4/3} = \\frac{20}{4/3} = \\boxed{15}.\\]"
-    },
-    {
-        "problem": "Right triangle $ABC$ (hypotenuse $\\overline{AB}$) is inscribed in equilateral triangle $PQR,$ as shown.  If $PC = 3$ and $BP = CQ = 2,$ compute  $AQ.$\n\n[asy]\nunitsize(0.8 cm);\n\npair A, B, C, P, Q, R;\n\nP = (0,0);\nQ = (5,0);\nR = 5*dir(60);\nA = Q + 8/5*dir(120);\nB = 2*dir(60);\nC = (3,0);\n\ndraw(A--B--C--cycle);\ndraw(P--Q--R--cycle);\ndraw(rightanglemark(A,C,B,10));\n\nlabel(\"$A$\", A, NE);\nlabel(\"$B$\", B, NW);\nlabel(\"$C$\", C, S);\nlabel(\"$P$\", P, SW);\nlabel(\"$Q$\", Q, SE);\nlabel(\"$R$\", R, N);\nlabel(\"$2$\", (C + Q)/2, S);\nlabel(\"$3$\", (C + P)/2, S);\nlabel(\"$2$\", (B + P)/2, NW);\n[/asy]",
-        "level": "Level 5",
-        "type": "Number Theory",
-        "solution": "We start with the $0$th row, which has $1$ number. Each row has one more number than the previous row. Thus, we can see that row $n$ has $n+1$ numbers.\nSince we want the sum of numbers in the rows $0$ to $19$, we sum up every number from $1$ to $20$ to get $\\frac{(1+20)\\cdot 20}{2}=\\boxed{210}$."
-    },
-    {
-        "problem": "Mr. Reader has six different Spiderman comic books, five different Archie comic books and four different Garfield comic books. When stacked, all of the Spiderman comic books are grouped together, all of the Archie comic books are grouped together and all of the Garfield comic books are grouped together. In how many different orders can these 15 comic books be stacked in a pile with the covers facing up and all of them facing the same direction? Express your answer as a whole number.",
-        "level": "Level 5",
-        "type": "Number Theory",
-        "solution": "The largest power of $6$ that is less than or equal to $314$ is $6^3$, which equals $216$. Because $(1\\cdot 6^3)=216<314<(2\\cdot 6^3)=432$, the digit in the $6^3$ place is $1$. Since $314-216=98$, we know that the digit in the $6^2$ place is $2$ because $72=2\\cdot 6^2<98<3\\cdot 6^2=108$. We then note that $98-72=26$, which can be expressed as $(4\\cdot6^1)+ (2\\cdot 6^0)$. Therefore the digit in the $6^1$ places is $4$, and the digit in the $6^0$ place is $2$.\n\nWe now see that $314_{10}=\\boxed{1242_6}$."
-    },
-    {
-        "problem": "Find the least odd prime factor of $2019^8+1$.\n",
-        "level": "Level 5",
-        "type": "Algebra",
-        "solution": "We can apply Simon's Favorite Factoring Trick to each of the equations. Indeed, re-arranging,  \\begin{align*}\nxy + 2x + 3y &= 6,\\\\\nyz + 4y + 2z &= 6 ,\\\\\nxz + 4x + 3z &= 30 ,\n\\end{align*}Adding $6$, $8$, and $12$ to both sides of each equation, respectively, yields  \\begin{align*}\nxy + 2x + 3y + 6 = (x+3)(y+2) &= 12,\\\\\nyz + 4y + 2z + 8 = (y+2)(z+4) &= 14,\\\\\nxz + 4x + 3z + 12 = (x+3)(z+4) &= 42 ,\n\\end{align*}At this point, we can substitute and solve by elimination. Even simpler, notice that if we take the product of all three equations, we obtain $$[(x+3)(y+2)(z+4)]^2 = 12 \\cdot 14 \\cdot 42 = 2^4 \\cdot 3^2 \\cdot 7^2,$$so $$(x+3)(y+2)(z+4) = \\pm 2^2 \\cdot 3 \\cdot 7.$$We can now substitute that $(y+2)(z+4) = 14$ to find that $$(x+3)(y+2)(z+4) = 14(x+3) = \\pm 2^2 \\cdot 3 \\cdot 7.$$Hence, $x+3 = \\pm 6,$ so $x$ is $3$ or $-9.$ The positive root is thus $x = \\boxed{3}$."
-    },
-    {
-        "problem": "What is $(5^{-2})^0 + (5^0)^3$?",
+        "problem": "If $a$, $b$, and $c$ are positive integers satisfying $ab+c = bc+a = ac+b = 41$, what is the value of $a+b+c$?",
         "level": "Level 1",
         "type": "Algebra",
-        "solution": "The function is defined when the value inside the square root is positive, i.e. we must have $x^2-3x-4>0$. Factoring, we get $(x-4)(x+1)>0$. So either both factors in the left hand side are negative or they are both positive. They are both negative when $x<-1$. They are both positive when $x>4$. So the domain of $f(x)$ is $x<-1 \\text{ or } x>4$, or $x \\in \\boxed{(-\\infty, -1) \\cup (4, \\infty)}$ in interval notation."
+        "solution": "We begin by cross multiplying and then squaring both sides \\begin{align*}\n\\frac{\\sqrt{3x+5}}{\\sqrt{6x+5}}&=\\frac{\\sqrt{5}}{3}\\\\\n3\\sqrt{3x+5}&=\\sqrt{5}\\cdot\\sqrt{6x+5}\\\\\n\\left(3\\sqrt{3x+5}\\right)^2&=\\left(\\sqrt{5}\\cdot\\sqrt{6x+5}\\right)^2\\\\\n9(3x+5) &=5(6x+5)\\\\\n20 &= 3x\\\\\nx&=\\boxed{\\frac{20}{3}}.\\\\\n\\end{align*}Checking, we see that this value of $x$ satisfies the original equation, so it is not an extraneous solution."
+    },
+    {
+        "problem": "A grocer makes a display of cans in which the top row has one can and each lower row has two more cans than the row above it. If the display contains 100 cans, how many rows does it contain?",
+        "level": "Level 2",
+        "type": "Algebra",
+        "solution": "We can use difference of squares to see that  $$(\\sqrt{2009}+\\sqrt{2008})(\\sqrt{2009}-\\sqrt{2008})=2009-2008=1$$ Also,  $$(-\\sqrt{2009}+\\sqrt{2008})(-\\sqrt{2009}-\\sqrt{2008})=2009-2008=1$$ So the product is $\\boxed{1}$."
+    },
+    {
+        "problem": "Solve for $x$, if $8^{4x-6}=\\left(\\frac{1}{2}\\right)^{x+5}$.",
+        "level": "Level 1",
+        "type": "Algebra",
+        "solution": "Let $d$ be the common difference in this arithmetic sequence.  Then the $13^{\\text{th}}$ term is $5 + 12d = 29$.  Solving for $d$, we find $d = 2$.  Then the $50^{\\text{th}}$ term is $5 + 49 \\cdot 2 = \\boxed{103}$."
+    },
+    {
+        "problem": "Compute $\\dbinom{5}{1}$.",
+        "level": "Level 2",
+        "type": "Counting & Probability",
+        "solution": "For the first die to be less than three, it must be a 1 or a 2, which occurs with probability $\\frac{1}{3}$. For the second die to be greater than 3, it must be a 4 or a 5 or a 6, which occurs with probability $\\frac{1}{2}$. The probability of both of these events occuring, as they are independent, is $\\frac{1}{3} \\cdot \\frac{1}{2} = \\boxed{\\frac{1}{6}}$."
+    },
+    {
+        "problem": "Every card in a deck has a picture of one shape - circle, square, or triangle, which is painted in one of the three colors - red, blue, or green. Furthermore, each color is applied in one of three shades - light, medium, or dark. The deck has 27 cards, with every shape-color-shade combination represented. A set of three cards from the deck is called complementary if all of the following statements are true:\ni. Either each of the three cards has a different shape or all three of the card have the same shape.\nii. Either each of the three cards has a different color or all three of the cards have the same color.\niii. Either each of the three cards has a different shade or all three of the cards have the same shade.\nHow many different complementary three-card sets are there?\n",
+        "level": "Level 1",
+        "type": "Counting & Probability",
+        "solution": "Each number from 1 to 6 has probability $\\dfrac16$ of being rolled, so the expected value is \\begin{align*}\nE &= \\left(\\dfrac{1}{6}\\times \\$1^2\\right) + \\left(\\dfrac{1}{6}\\times \\$2^2\\right) + \\cdots + \\left(\\dfrac{1}{6} \\times \\$6^2\\right) \\\\\n&= \\dfrac{1}{6}(\\$1 + \\$4 + \\$9 + \\$16 + \\$25 + \\$36) \\\\\n&= \\$\\dfrac{91}{6} \\\\\n& \\approx \\boxed{\\$15.17}.\n\\end{align*}"
+    },
+    {
+        "problem": "What is the probability that Fatima gets fewer heads than tails if she flips 10 coins?",
+        "level": "Level 4",
+        "type": "Counting & Probability",
+        "solution": "Adding together the percent of people who drink coffee with those who drink tea, we obtain a total of $150\\%$.  Thus, we double-counted at least $50\\%$, meaning that at least $\\boxed{50\\%}$ of adults drink both.  (The percentage who drink both ${\\it can}$ be exactly ${50\\%}$ if everybody drinks either coffee or tea; otherwise, the overlap is more than ${50\\%}$, but the problem asked for the smallest possible overlap.)"
+    },
+    {
+        "problem": "In acute triangle $ABC$ points $P$ and $Q$ are the feet of the perpendiculars from $C$ to $\\overline{AB}$ and from $B$ to $\\overline{AC}$, respectively. Line $PQ$ intersects the circumcircle of $\\triangle ABC$ in two distinct points, $X$ and $Y$. Suppose $XP=10$, $PQ=25$, and $QY=15$. The value of $AB\\cdot AC$ can be written in the form $m\\sqrt n$ where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n$.\n",
+        "level": "Level 5",
+        "type": "Geometry",
+        "solution": "Let the radius of the large sphere be $R$, and of the inner sphere $r$. Label the vertices of the tetrahedron $ABCD$, and let $O$ be the center. Then pyramid $[OABC] + [OABD] + [OACD] + [OBCD] = [ABCD]$, where $[\\ldots]$ denotes volume; thus $[OABC] = \\frac{[ABCD]}{4}$. Since $OABC$ and $ABCD$ are both pyramids that share a common face $ABC$, the ratio of their volumes is the ratio of their altitudes to face $ABC$, so $r = \\frac {h_{ABCD}}4$. However, $h_{ABCD} = r + R$, so it follows that $r = \\frac {R}{3}$. Then the radius of an external sphere is $\\frac{R-r}2 = \\frac {R}{3} = r$.\nSince the five described spheres are non-intersecting, it follows that the ratio of the volumes of the spheres is $5 \\cdot \\left( \\frac 13 \\right)^3 = \\frac{5}{27} \\approx \\boxed{.2}$."
+    },
+    {
+        "problem": "Triangle $ABC$ is inscribed in circle $\\omega$ with $AB=5$, $BC=7$, and $AC=3$. The bisector of angle $A$ meets side $\\overline{BC}$ at $D$ and circle $\\omega$ at a second point $E$. Let $\\gamma$ be the circle with diameter $\\overline{DE}$. Circles $\\omega$ and $\\gamma$ meet at $E$ and a second point $F$. Then $AF^2 = \\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.\n",
+        "level": "Level 5",
+        "type": "Geometry",
+        "solution": "Suppose there are $n$ squares in every column of the grid, so there are $\\frac{52}{24}n = \\frac {13}6n$ squares in every row. Then $6|n$, and our goal is to maximize the value of $n$.\nEach vertical fence has length $24$, and there are $\\frac{13}{6}n - 1$ vertical fences; each horizontal fence has length $52$, and there are $n-1$ such fences. Then the total length of the internal fencing is $24\\left(\\frac{13n}{6}-1\\right) + 52(n-1) = 104n - 76 \\le 1994 \\Longrightarrow n \\le \\frac{1035}{52} \\approx 19.9$, so $n \\le 19$. The largest multiple of $6$ that is $\\le 19$ is $n = 18$, which we can easily verify works, and the answer is $\\frac{13}{6}n^2 = \\boxed{702}$."
+    },
+    {
+        "problem": "In quadrilateral $ABCD,\\ BC=8,\\ CD=12,\\ AD=10,$ and $m\\angle A= m\\angle B = 60^\\circ.$ Given that $AB = p + \\sqrt{q},$ where $p$ and $q$ are positive integers, find $p+q.$\n",
+        "level": "Level 5",
+        "type": "Geometry",
+        "solution": "Our aim is to find the volume of the part of the cube submerged in the cylinder. In the problem, since three edges emanate from each vertex, the boundary of the cylinder touches the cube at three points. Because the space diagonal of the cube is vertical, by the symmetry of the cube, the three points form an equilateral triangle. Because the radius of the circle is $4$, by the Law of Cosines, the side length s of the equilateral triangle is\n\\[s^2 = 2\\cdot(4^2) - 2l\\cdot(4^2)\\cos(120^{\\circ}) = 3(4^2)\\]\nso $s = 4\\sqrt{3}$.* Again by the symmetry of the cube, the volume we want to find is the volume of a tetrahedron with right angles on all faces at the submerged vertex, so since the lengths of the legs of the tetrahedron are $\\frac{4\\sqrt{3}}{\\sqrt{2}} = 2\\sqrt{6}$ (the three triangular faces touching the submerged vertex are all $45-45-90$ triangles) so\n\\[v = \\frac{1}{3}(2\\sqrt{6})\\left(\\frac{1}{2} \\cdot (2\\sqrt{6})^2\\right) = \\frac{1}{6} \\cdot 48\\sqrt{6} = 8\\sqrt{6}\\]\nso\n\\[v^2 = 64 \\cdot 6 = \\boxed{384}.\\]\nIn this case, our base was one of the isosceles triangles (not the larger equilateral one). To calculate volume using the latter, note that the height would be $2\\sqrt{2}$.\nNote that in a 30-30-120 triangle, side length ratios are $1:1:\\sqrt{3}$.\nOr, note that the altitude and the centroid of an equilateral triangle are the same point, so since the centroid is 4 units from the vertex (which is $\\frac{2}{3}$ the length of the median), the altitude is 6, which gives a hypotenuse of $\\frac{12}{\\sqrt{3}}=4\\sqrt{3}$ by $1:\\frac{\\sqrt{3}}{2}:\\frac{1}{2}$ relationship for 30-60-90 triangles."
+    },
+    {
+        "problem": "If $x^2 + \\frac{1}{x^2} = A,$ and $x - \\frac{1}{x} = B,$ where $A$ and $B$ are positive numbers, find the minimum possible numerical value for $\\frac{A}{B}.$",
+        "level": "Level 3",
+        "type": "Intermediate Algebra",
+        "solution": "Subtracting 1 from both sides and putting everything over a common denominator, we get\n\\[\\frac{-x^2 + x + 6}{(x + 1)(x + 5)} \\ge 0.\\]Equivalently,\n\\[\\frac{x^2 - x - 6}{(x + 1)(x + 5)} \\le 0.\\]We can factor the numerator, to get\n\\[\\frac{(x - 3)(x + 2)}{(x + 1)(x + 5)} \\le 0.\\]We build a sign chart, accordingly.\n\\begin{tabular}{c|cccc|c} &$x-3$ &$x+2$ &$x+1$ &$x+5$ &$f(x)$ \\\\ \\hline$x<-5$ &$-$&$-$&$-$&$-$&$+$\\\\ [.1cm]$-5<x<-2$ &$-$&$-$&$-$&$+$&$-$\\\\ [.1cm]$-2<x<-1$ &$-$&$+$&$-$&$+$&$+$\\\\ [.1cm]$-1<x<3$ &$-$&$+$&$+$&$+$&$-$\\\\ [.1cm]$x>3$ &$+$&$+$&$+$&$+$&$+$\\\\ [.1cm]\\end{tabular}Also, note that $\\frac{(x - 3)(x + 2)}{(x + 1)(x + 5)} = 0$ for $x = -2$ and $x = 3.$  Therefore, the solution is\n\\[x \\in \\boxed{(-5,-2] \\cup (-1,3]}.\\]"
+    },
+    {
+        "problem": "There exists a constant $c,$ so that among all chords $\\overline{AB}$ of the parabola $y = x^2$ passing through $C = (0,c),$\n\\[t = \\frac{1}{AC} + \\frac{1}{BC}\\]is a fixed constant.  Find the constant $t.$\n\n[asy]\nunitsize(1 cm);\n\nreal parab (real x) {\n  return(x^2);\n}\n\npair A, B, C;\n\nA = (1.7,parab(1.7));\nB = (-1,parab(-1));\nC = extension(A,B,(0,0),(0,1));\n\ndraw(graph(parab,-2,2));\ndraw(A--B);\ndraw((0,0)--(0,4));\n\ndot(\"$A$\", A, E);\ndot(\"$B$\", B, SW);\ndot(\"$(0,c)$\", C, NW);\n[/asy]",
+        "level": "Level 5",
+        "type": "Intermediate Algebra",
+        "solution": "The graph of $y = f \\left( \\frac{1 - x}{2} \\right)$ is produced by taking the graph of $y = f(x)$ and reflecting it in the $y$-axis, then stretching it horizontally by a factor of 2, then shifting it to the right by one unit.  The correct graph is $\\boxed{\\text{B}}.$"
+    },
+    {
+        "problem": "Below is the graph of an ellipse. (Assume that tick marks are placed every $1$ unit along the axes.)\n[asy]\nsize(8cm);\n\nint x, y;\nfor (y = -4; y <= 2; ++y) {\n  draw((-1,y)--(7,y),gray(0.7));\n}\nfor (x = -1; x <= 7; ++x) {\n  draw((x,-4)--(x,2),gray(0.7));\n}\n\ndraw(shift((3,-1))*xscale(1.5)*shift((-3,1))*Circle((3,-1),2));\ndraw((-1,0)--(7,0),EndArrow);\ndraw((0,-4)--(0,2),EndArrow);\n//for (int i=-3; i<=1; ++i)\n\t//draw((-0.15,i)--(0.15,i));\n//for (int i=0; i<=6; ++i)\n\t//draw((i,0.15)--(i,-0.15));\n[/asy]\nCompute the coordinates of the focus of the ellipse with the greater $x$-coordinate.",
+        "level": "Level 2",
+        "type": "Intermediate Algebra",
+        "solution": "Let the three roots of the equation be $a,$ $a,$ and $b.$ Then by Vieta's formulas, \\[\\begin{aligned}a+a+b&=-\\tfrac82=-4, \\\\ ab+ab+a^2 &= \\tfrac{120}2 = -60. \\end{aligned}\\]These equations simplify to $2a+b=-4$ and $2ab+a^2=-60.$ From the first equation, we get $b=-4-2a,$ and substituting into the second equation gives \\[2a(-4-2a)+a^2=-60,\\]or \\[3a^2+8a-60=0.\\]This factors as \\[(a+6)(3a-10)=0,\\]so either $a=-6$ or $a=\\tfrac{10}{3}.$ If $a=-6$, then $b=-4-2a=8,$ so by Vieta, $k = -2a^2b=-576,$ which is not positive. If $a=\\tfrac{10}{3},$ then $b=-4-2a=-\\tfrac{32}{3},$ so by Vieta, $k=-2a^2b=\\boxed{\\tfrac{6400}{27}},$ which is the answer."
+    },
+    {
+        "problem": "Square each integer $n$ in the range $1\\le n\\le 10$ and find the remainders when the squares are divided by $11$. Add up all the distinct results and call it $m$. What is the quotient when $m$ is divided by $11$?",
+        "level": "Level 5",
+        "type": "Number Theory",
+        "solution": "Note that $16^2 = 256 < 273$ while $17^2 = 289 > 273$.  Since all other perfect squares are farther away from $273$, our answer is the closer of these two, $\\boxed{289}$."
+    },
+    {
+        "problem": "In a certain base $b$, the square of $22_b$ is $514_b$.  What is $b$?",
+        "level": "Level 2",
+        "type": "Number Theory",
+        "solution": "A terminating decimal can be written in the form $\\frac{a}{10^b}$, where $a$ and $b$ are integers. So we try to get a denominator of the form $10^b$: $$\\frac{1}{2^5\\cdot5^8}\\cdot\\frac{2^3}{2^3}=\\frac{2^3}{10^8}=\\frac{8}{10^8}.$$The fraction $\\frac{8}{10^8}$ means that there are 8 digits to the right of the decimal point, the last of which is 8. So there are $\\boxed{7}$ zeroes between the decimal point and the first non-zero digit."
+    },
+    {
+        "problem": "Let $N$ be the number of ways to write $2010$ in the form $2010 = a_3 \\cdot 10^3 + a_2 \\cdot 10^2 + a_1 \\cdot 10 + a_0$, where the $a_i$'s are integers, and $0 \\le a_i \\le 99$. An example of such a representation is $1\\cdot 10^3 + 3\\cdot 10^2 + 67\\cdot 10^1 + 40\\cdot 10^0$. Find $N$.\n",
+        "level": "Level 5",
+        "type": "Number Theory",
+        "solution": "The nearest fractions to $\\frac 27$ with numerator $1$ are $\\frac 13, \\frac 14$; and with numerator $2$ are $\\frac 26, \\frac 28 = \\frac 13, \\frac 14$ anyway. For $\\frac 27$ to be the best approximation for $r$, the decimal must be closer to $\\frac 27 \\approx .28571$ than to $\\frac 13 \\approx .33333$ or $\\frac 14 \\approx .25$.\nThus $r$ can range between $\\frac{\\frac 14 + \\frac{2}{7}}{2} \\approx .267857$ and $\\frac{\\frac 13 + \\frac{2}{7}}{2} \\approx .309523$. At $r = .2679, .3095$, it becomes closer to the other fractions, so $.2679 \\le r \\le .3095$ and the number of values of $r$ is $3095 - 2679 + 1 = \\boxed{417}$."
+    },
+    {
+        "problem": "Roslyn has ten boxes. Six of the boxes contain pencils, three of the boxes contain pens, and two of the boxes contain both pens and pencils. How many boxes contain neither pens nor pencils?",
+        "level": "Level 4",
+        "type": "Prealgebra",
+        "solution": "Since $70\\%(10)+40\\%(30)+60\\%(35)=7+12+21=40$, she answered 40 questions correctly. She needed $60\\%(75)=45$ to pass, so she needed $\\boxed{5}$ more correct answers."
+    },
+    {
+        "problem": "Express $0.\\overline{1}+0.\\overline{01}+0.\\overline{0001}$ as a common fraction.",
+        "level": "Level 2",
+        "type": "Prealgebra",
+        "solution": "A. Recall that if $x$ is a multiple of $y$, and $y$ is a multiple of $z$, then $x$ is a multiple of  $z$. Because $b$ is a multiple of  $6$ and $6$ is a multiple of  $3$, then $b$ must be a multiple of $3$.\n\nB. Recall that the difference between two multiples of $w$ is also a multiple of $w$. Thus, because $a$ and $b$ are both multiples of  $3$ (using the information from statement 1), their difference is also a multiple of $3$.\n\nC. We do not know if $a$ is a multiple of  $6$. For example, $12$ is a multiple of  both $3$ and $6$, but $9$ is a multiple of  $3$ and not $6$. Thus, we cannot use the property that the difference between two multiples of $w$ is a multiple of $w$. We don't know if this statement is true.\n\nD. We know that $b$ is a multiple of  $6$, and $6$ is a multiple of  $2$, so $b$ is a multiple of  $2$. However, just as in statement 3, we do not know if $a$ is a multiple of  $2$. We also don't know if this statement is true.\n\nStatements $\\boxed{\\text{A, B}}$ must be true."
+    },
+    {
+        "problem": "How many one-thirds are in one-sixth?",
+        "level": "Level 4",
+        "type": "Prealgebra",
+        "solution": "We have $\\left(\\frac{1}{2} \\right)^{3}=\\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2}=\\frac{1}{8}$, so \\[\\left(\\frac{1}{2} \\right)^{3} \\cdot \\left(\\frac{1}{7} \\right) = \\frac18\\cdot \\frac17 = \\boxed{\\frac{1}{56}}.\\]"
+    },
+    {
+        "problem": "Find the curve defined by the equation\n\\[\\theta = \\frac{\\pi}{3}.\\](A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+        "level": "Level 1",
+        "type": "Precalculus",
+        "solution": "We have that $\\rho = \\sqrt{0^2 + (-3 \\sqrt{3})^2 + 3^2} = 6.$  We want $\\phi$ to satisfy\n\\[3 = 6 \\cos \\phi,\\]so $\\phi = \\frac{\\pi}{3}.$\n\nWe want $\\theta$ to satisfy\n\\begin{align*}\n0 &= 6 \\sin \\frac{\\pi}{3} \\cos \\theta, \\\\\n-3 \\sqrt{3} &= 6 \\sin \\frac{\\pi}{3} \\sin \\theta.\n\\end{align*}Thus, $\\theta = \\frac{3 \\pi}{2},$ so the spherical coordinates are $\\boxed{\\left( 6, \\frac{3 \\pi}{2}, \\frac{\\pi}{3} \\right)}.$"
+    },
+    {
+        "problem": "If $\\tan \\theta = 4,$ then find $\\tan 3 \\theta.$",
+        "level": "Level 2",
+        "type": "Precalculus",
+        "solution": "Since $\\angle APB = \\angle BPC = \\angle CPA,$ they are all equal to $120^\\circ.$\n\nLet $z = PC.$  By the Law of Cosines on triangles $BPC,$ $APB,$ and $APC,$\n\\begin{align*}\nBC^2 &= z^2 + 6z + 36, \\\\\nAB^2 &= 196, \\\\\nAC^2 &= z^2 + 10z + 100.\n\\end{align*}By the Pythagorean Theorem, $AB^2 + BC^2 = AC^2,$ so\n\\[196 + z^2 + 6z + 36 = z^2 + 10z + 100.\\]Solving, we find $z = \\boxed{33}.$"
+    },
+    {
+        "problem": "For real numbers $t,$ the point\n\\[(x,y) = (\\cos^2 t, \\sin^2 t)\\]is plotted.  All the plotted points lie on what kind of curve?\n\n(A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+        "level": "Level 1",
+        "type": "Precalculus",
+        "solution": "We can write\n\\begin{align*}\n\\frac{\\tan^3 75^\\circ + \\cot^3 75^\\circ}{\\tan 75^\\circ + \\cot 75^\\circ} &= \\frac{(\\tan 75^\\circ + \\cot 75^\\circ)(\\tan^2 75^\\circ - \\tan 75^\\circ \\cot 75^\\circ + \\cot^2 75^\\circ)}{\\tan 75^\\circ + \\cot 75^\\circ} \\\\\n&= \\tan^2 75^\\circ - \\tan 75^\\circ \\cot 75^\\circ + \\cot^2 75^\\circ \\\\\n&= \\tan^2 75^\\circ + \\cot^2 75^\\circ - 1 \\\\\n&= \\frac{\\sin^2 75^\\circ}{\\cos^2 75^\\circ} + \\frac{\\cos^2 75^\\circ}{\\sin^2 75^\\circ} - 1 \\\\\n&= \\frac{\\sin^4 75^\\circ + \\cos^4 75^\\circ}{\\cos^2 75^\\circ \\sin^2 75^\\circ} - 1 \\\\\n&= \\frac{(\\sin^2 75^\\circ + \\cos^2 75^\\circ)^2 - 2 \\cos^2 75^\\circ \\sin^2 75^\\circ}{\\cos^2 75^\\circ \\sin^2 75^\\circ} - 1 \\\\\n&= \\frac{1 - 2 \\cos^2 75^\\circ \\sin^2 75^\\circ}{\\cos^2 75^\\circ \\sin^2 75^\\circ} - 1.\n\\end{align*}By the double-angle formula,\n\\[2 \\cos 75^\\circ \\sin 75^\\circ = \\sin 150^\\circ = \\frac{1}{2},\\]so $\\cos 75^\\circ \\sin 75^\\circ = \\frac{1}{4}.$  Hence,\n\\[\\frac{1 - 2 \\cos^2 75^\\circ \\sin^2 75^\\circ}{\\cos^2 75^\\circ \\sin^2 75^\\circ} - 1 = \\frac{1 - 2 (\\frac{1}{4})^2}{(\\frac{1}{4})^2} - 1 = \\boxed{13}.\\]"
     }
 ]
