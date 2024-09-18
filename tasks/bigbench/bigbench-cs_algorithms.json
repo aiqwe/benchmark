@@ -1,9 +1,84 @@
 [
     {
-        "idx": 46,
-        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: ASZKZUPCKE ZJISW\nLength of longest common subsequence:",
+        "idx": 516,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { } ( [ ] } { } ( )\nValid/Invalid?",
         "targets": [
-            "1"
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 602,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( [ [ ] ( ) ] ) ( )\nValid/Invalid?",
+        "targets": [
+            "Valid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 896,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ] { ] { [ ] } ) {\nValid/Invalid?",
+        "targets": [
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 642,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ) } { ) [ { ] } { }\nValid/Invalid?",
+        "targets": [
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 276,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: } ) { }\nValid/Invalid?",
+        "targets": [
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 66,
+        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: LNVOVEVRU DOKTNMPIUTCOCDQKKM\nLength of longest common subsequence:",
+        "targets": [
+            "2"
         ],
         "multiple_choice_targets": [
             "0",
@@ -19,8 +94,8 @@
         ],
         "multiple_choice_scores": [
             0,
-            1,
             0,
+            1,
             0,
             0,
             0,
@@ -31,8 +106,8 @@
         ]
     },
     {
-        "idx": 300,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( ) ( [ ) ) { ( ) }\nValid/Invalid?",
+        "idx": 154,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { } { } [ [ [ ] { } [ ] [ ( ) ( ) ] ] }\nValid/Invalid?",
         "targets": [
             "Invalid"
         ],
@@ -46,23 +121,8 @@
         ]
     },
     {
-        "idx": 802,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( ( ) [ ] { ) ) } (\nValid/Invalid?",
-        "targets": [
-            "Invalid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 205,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { } ( [ { } [ ] ( [ { } ] { { } } ) ] )\nValid/Invalid?",
+        "idx": 270,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( { } ) ( [ ( ) ] ) { ( { ( { } ) } ) }\nValid/Invalid?",
         "targets": [
             "Valid"
         ],
@@ -76,8 +136,8 @@
         ]
     },
     {
-        "idx": 287,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: } { ( )\nValid/Invalid?",
+        "idx": 259,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { { } } { { ( ) } } ) { } { ) [ { } { }\nValid/Invalid?",
         "targets": [
             "Invalid"
         ],
@@ -91,8 +151,8 @@
         ]
     },
     {
-        "idx": 646,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { [ ] } ( ) [ [ [ [ ] [ ] ( ) [ ] ] ] ]\nValid/Invalid?",
+        "idx": 609,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ] [ ] ( ( ) [ ] { { } } [ ] [ ] ) [ ]\nValid/Invalid?",
         "targets": [
             "Valid"
         ],
@@ -106,83 +166,8 @@
         ]
     },
     {
-        "idx": 405,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { { [ ] ) { { } } )\nValid/Invalid?",
-        "targets": [
-            "Invalid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 280,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { } [ ] { } { } ( ) } ( [ ] ] { } ( ( )\nValid/Invalid?",
-        "targets": [
-            "Invalid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 521,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { { } } [ [ ] ] [ ] [ ] [ ] { } { ( ) }\nValid/Invalid?",
-        "targets": [
-            "Valid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 323,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { } ( } ) } { ) ) {\nValid/Invalid?",
-        "targets": [
-            "Invalid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 78,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: } ) ( } { ] } ( ) (\nValid/Invalid?",
-        "targets": [
-            "Invalid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 147,
-        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: WAOJCDLAAPBMPAKJYA CPMZMVLBQFHGJQG\nLength of longest common subsequence:",
+        "idx": 145,
+        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: ETHIKRPMTNW RTDNPVYVDIQYAFBVRLNIZXO\nLength of longest common subsequence:",
         "targets": [
             "4"
         ],
@@ -212,23 +197,8 @@
         ]
     },
     {
-        "idx": 758,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( ( ) [ ] ) ( [ ( ) ] { ( ( ( ) ) ) } )\nValid/Invalid?",
-        "targets": [
-            "Valid"
-        ],
-        "multiple_choice_targets": [
-            "Valid",
-            "Invalid"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 638,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( ] [ ] ( { } [ ] )\nValid/Invalid?",
+        "idx": 158,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ) } ) [ { ] ( } [ ]\nValid/Invalid?",
         "targets": [
             "Invalid"
         ],
@@ -242,8 +212,23 @@
         ]
     },
     {
-        "idx": 931,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { ) [ ) } } } [ ) } ( [ ] ] } { } [ ] }\nValid/Invalid?",
+        "idx": 221,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( [ [ [ { } ] ] ] )\nValid/Invalid?",
+        "targets": [
+            "Valid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 960,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { ) ( ( ) ( ( ) ) )\nValid/Invalid?",
         "targets": [
             "Invalid"
         ],
@@ -257,39 +242,8 @@
         ]
     },
     {
-        "idx": 3,
-        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: ILLG XBVOEXATQWT\nLength of longest common subsequence:",
-        "targets": [
-            "0"
-        ],
-        "multiple_choice_targets": [
-            "0",
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 334,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ] ( )\nValid/Invalid?",
+        "idx": 887,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { { [ ] } ( ) } { } [ { { } { { } } } ]\nValid/Invalid?",
         "targets": [
             "Valid"
         ],
@@ -303,25 +257,40 @@
         ]
     },
     {
-        "idx": 110,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ( [ ] ) { } ( ) ( ( [ ] { [ { } ] } ) )\nValid/Invalid?",
+        "idx": 85,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: ) { ) ) ( ] { [ } ( { ] } } [ [ } } ) (\nValid/Invalid?",
         "targets": [
-            "Valid"
+            "Invalid"
         ],
         "multiple_choice_targets": [
             "Valid",
             "Invalid"
         ],
         "multiple_choice_scores": [
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 296,
-        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: OXTCJQRRTHWDOTJYAGBT QRVTEPDPTZPXAXGPOBRTFJOGZDV\nLength of longest common subsequence:",
+        "idx": 550,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ] { } { { { { [ ] } [ ] ( ) [ { } [ (\nValid/Invalid?",
         "targets": [
-            "9"
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 235,
+        "inputs": "Given two strings, determine the length of the longest common subsequence.\n\nStrings: WMHBPWKZFEQITWAILBOBDJTGZKHCHC OEGOXZSZAMVFYKRMTWKNAZFIVGYN\nLength of longest common subsequence:",
+        "targets": [
+            "7"
         ],
         "multiple_choice_targets": [
             "0",
@@ -343,14 +312,29 @@
             0,
             0,
             0,
+            1,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 795,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ( ) [ ] ] { [ ] } { } [ ( ( ) { } ( {\nValid/Invalid?",
+        "targets": [
+            "Invalid"
+        ],
+        "multiple_choice_targets": [
+            "Valid",
+            "Invalid"
+        ],
+        "multiple_choice_scores": [
             0,
             1
         ]
     },
     {
-        "idx": 627,
-        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: [ ( ( ) ) ] { { } }\nValid/Invalid?",
+        "idx": 140,
+        "inputs": "Determine whether the given sequence of parentheses is properly matched.\n\nSequence: { ( [ [ ] [ ( ) ] ( [ ] { } [ ] ) ] ) }\nValid/Invalid?",
         "targets": [
             "Valid"
         ],

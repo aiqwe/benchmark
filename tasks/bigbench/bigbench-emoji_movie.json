@@ -1,16 +1,16 @@
 [
     {
-        "idx": 32,
-        "inputs": "Q: What movie does this emoji describe? 👸💇‍♀️\n  choice: gandhi\n  choice: thelma & louise\n  choice: interstellar\n  choice: forrest gump\n  choice: tangled\nA:",
+        "idx": 27,
+        "inputs": "Q: What movie does this emoji describe? 🖖\n  choice: high noon\n  choice: the night of the hunter\n  choice: papillon\n  choice: before sunrise\n  choice: star trek\nA:",
         "targets": [
-            "tangled"
+            "star trek"
         ],
         "multiple_choice_targets": [
-            "tangled",
-            "forrest gump",
-            "thelma & louise",
-            "gandhi",
-            "interstellar"
+            "star trek",
+            "papillon",
+            "the night of the hunter",
+            "before sunrise",
+            "high noon"
         ],
         "multiple_choice_scores": [
             1,
@@ -21,248 +21,17 @@
         ]
     },
     {
-        "idx": 21,
-        "inputs": "Q: What movie does this emoji describe? 🇮🇹👴🔫\n  choice: hotel rwanda\n  choice: the third man\n  choice: la haine\n  choice: 12 angry men\n  choice: the godfather\nA:",
+        "idx": 72,
+        "inputs": "Q: What movie does this emoji describe? 💉💉🥴🚽\n  choice: a clockwork orange\n  choice: trainspotting\n  choice: mulan\n  choice: 3 idiots\n  choice: raya and the last dragon\nA:",
         "targets": [
-            "the godfather"
+            "trainspotting"
         ],
         "multiple_choice_targets": [
-            "the godfather",
-            "la haine",
-            "12 angry men",
-            "hotel rwanda",
-            "the third man"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 97,
-        "inputs": "Q: What movie does this emoji describe? 😈👭👭\n  choice: ferris bueller's day off\n  choice: the bourne ultimatum\n  choice: mean girls\n  choice: cinema paradiso\n  choice: princess mononoke\nA:",
-        "targets": [
-            "mean girls"
-        ],
-        "multiple_choice_targets": [
-            "mean girls",
-            "cinema paradiso",
-            "the bourne ultimatum",
-            "princess mononoke",
-            "ferris bueller's day off"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 21,
-        "inputs": "Q: What movie does this emoji describe? 🇮🇹👴🔫\n  choice: hotel rwanda\n  choice: the third man\n  choice: la haine\n  choice: 12 angry men\n  choice: the godfather\nA:",
-        "targets": [
-            "the godfather"
-        ],
-        "multiple_choice_targets": [
-            "the godfather",
-            "la haine",
-            "12 angry men",
-            "hotel rwanda",
-            "the third man"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 38,
-        "inputs": "Q: What movie does this emoji describe? 👰‍♀️🗡👊\n  choice: incendies\n  choice: reservoir dogs\n  choice: kill bill\n  choice: get out\n  choice: metropolis\nA:",
-        "targets": [
-            "kill bill"
-        ],
-        "multiple_choice_targets": [
-            "kill bill",
-            "incendies",
-            "reservoir dogs",
-            "get out",
-            "metropolis"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 94,
-        "inputs": "Q: What movie does this emoji describe? 🧚‍♂️🗽\n  choice: full metal jacket\n  choice: the grand budapest hotel\n  choice: jagten\n  choice: finding nemo\n  choice: peter pan\nA:",
-        "targets": [
-            "peter pan"
-        ],
-        "multiple_choice_targets": [
-            "peter pan",
-            "full metal jacket",
-            "the grand budapest hotel",
-            "finding nemo",
-            "jagten"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 61,
-        "inputs": "Q: What movie does this emoji describe? 🤕🥁👨‍🦲\n  choice: high school musical\n  choice: whiplash\n  choice: the thing\n  choice: get out\n  choice: unforgiven\nA:",
-        "targets": [
-            "whiplash"
-        ],
-        "multiple_choice_targets": [
-            "whiplash",
-            "high school musical",
-            "the thing",
-            "get out",
-            "unforgiven"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 13,
-        "inputs": "Q: What movie does this emoji describe? 🐘🎪\n  choice: dumbo\n  choice: underground\n  choice: star wars: episode vi - return of the jedi\n  choice: diabolique\n  choice: taxi driver\nA:",
-        "targets": [
-            "dumbo"
-        ],
-        "multiple_choice_targets": [
-            "dumbo",
-            "diabolique",
-            "star wars: episode vi - return of the jedi",
-            "taxi driver",
-            "underground"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 96,
-        "inputs": "Q: What movie does this emoji describe? 👨🏻👨🏿👮‍♂️🕳🌅\n  choice: jurassic park\n  choice: touch of evil\n  choice: no country for old men\n  choice: gone girl\n  choice: the shawshank redemption\nA:",
-        "targets": [
-            "the shawshank redemption"
-        ],
-        "multiple_choice_targets": [
-            "the shawshank redemption",
-            "no country for old men",
-            "gone girl",
-            "jurassic park",
-            "touch of evil"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 32,
-        "inputs": "Q: What movie does this emoji describe? 👸💇‍♀️\n  choice: gandhi\n  choice: thelma & louise\n  choice: interstellar\n  choice: forrest gump\n  choice: tangled\nA:",
-        "targets": [
-            "tangled"
-        ],
-        "multiple_choice_targets": [
-            "tangled",
-            "forrest gump",
-            "thelma & louise",
-            "gandhi",
-            "interstellar"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 62,
-        "inputs": "Q: What movie does this emoji describe? 👩🚘👩⛰\n  choice: the big lebowski\n  choice: thelma & louise\n  choice: the incredibles\n  choice: antz\n  choice: the shawshank redemption\nA:",
-        "targets": [
-            "thelma & louise"
-        ],
-        "multiple_choice_targets": [
-            "thelma & louise",
-            "the big lebowski",
-            "antz",
-            "the shawshank redemption",
-            "the incredibles"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 28,
-        "inputs": "Q: What movie does this emoji describe? 👦➡️🧔\n  choice: das boot\n  choice: the pianist\n  choice: groundhog day\n  choice: big\n  choice: the 400 blows\nA:",
-        "targets": [
-            "big"
-        ],
-        "multiple_choice_targets": [
-            "big",
-            "the 400 blows",
-            "das boot",
-            "groundhog day",
-            "the pianist"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Q: What movie does this emoji describe? 🤼‍♂️🎟🧼\n  choice: frozen\n  choice: witness for the prosecution\n  choice: memories of murder\n  choice: fight club\n  choice: paths of glory\nA:",
-        "targets": [
-            "fight club"
-        ],
-        "multiple_choice_targets": [
-            "fight club",
-            "witness for the prosecution",
-            "paths of glory",
-            "frozen",
-            "memories of murder"
+            "trainspotting",
+            "raya and the last dragon",
+            "mulan",
+            "a clockwork orange",
+            "3 idiots"
         ],
         "multiple_choice_scores": [
             1,
@@ -294,17 +63,17 @@
         ]
     },
     {
-        "idx": 61,
-        "inputs": "Q: What movie does this emoji describe? 🤕🥁👨‍🦲\n  choice: high school musical\n  choice: whiplash\n  choice: the thing\n  choice: get out\n  choice: unforgiven\nA:",
+        "idx": 40,
+        "inputs": "Q: What movie does this emoji describe? 🤠❤️🤠\n  choice: happy feet\n  choice: saving private ryan\n  choice: it happened one night\n  choice: brokeback mountain\n  choice: oldeuboi\nA:",
         "targets": [
-            "whiplash"
+            "brokeback mountain"
         ],
         "multiple_choice_targets": [
-            "whiplash",
-            "high school musical",
-            "the thing",
-            "get out",
-            "unforgiven"
+            "brokeback mountain",
+            "saving private ryan",
+            "it happened one night",
+            "oldeuboi",
+            "happy feet"
         ],
         "multiple_choice_scores": [
             1,
@@ -315,17 +84,17 @@
         ]
     },
     {
-        "idx": 21,
-        "inputs": "Q: What movie does this emoji describe? 🇮🇹👴🔫\n  choice: hotel rwanda\n  choice: the third man\n  choice: la haine\n  choice: 12 angry men\n  choice: the godfather\nA:",
+        "idx": 27,
+        "inputs": "Q: What movie does this emoji describe? 🖖\n  choice: high noon\n  choice: the night of the hunter\n  choice: papillon\n  choice: before sunrise\n  choice: star trek\nA:",
         "targets": [
-            "the godfather"
+            "star trek"
         ],
         "multiple_choice_targets": [
-            "the godfather",
-            "la haine",
-            "12 angry men",
-            "hotel rwanda",
-            "the third man"
+            "star trek",
+            "papillon",
+            "the night of the hunter",
+            "before sunrise",
+            "high noon"
         ],
         "multiple_choice_scores": [
             1,
@@ -336,17 +105,38 @@
         ]
     },
     {
-        "idx": 65,
-        "inputs": "Q: What movie does this emoji describe? 👦🏽📺💰\n  choice: roman holiday\n  choice: toy story\n  choice: slumdog millionaire\n  choice: a clockwork orange\n  choice: the wolf of wall street\nA:",
+        "idx": 83,
+        "inputs": "Q: What movie does this emoji describe? 👦👓⚡️\n  choice: harry potter\n  choice: shutter island\n  choice: inglourious basterds\n  choice: die hard\n  choice: moonlight\nA:",
         "targets": [
-            "slumdog millionaire"
+            "harry potter"
         ],
         "multiple_choice_targets": [
-            "slumdog millionaire",
-            "roman holiday",
+            "harry potter",
+            "shutter island",
+            "die hard",
+            "inglourious basterds",
+            "moonlight"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: What movie does this emoji describe? 👩🐩🐩🍝\n  choice: a clockwork orange\n  choice: you've got mail\n  choice: it\n  choice: 101 dalmatians\n  choice: the help\nA:",
+        "targets": [
+            "101 dalmatians"
+        ],
+        "multiple_choice_targets": [
+            "101 dalmatians",
+            "the help",
+            "you've got mail",
             "a clockwork orange",
-            "the wolf of wall street",
-            "toy story"
+            "it"
         ],
         "multiple_choice_scores": [
             1,
@@ -357,38 +147,17 @@
         ]
     },
     {
-        "idx": 16,
-        "inputs": "Q: What movie does this emoji describe? 👦🏠🎄\n  choice: big\n  choice: once upon a time in the west\n  choice: downfall\n  choice: a bug's life\n  choice: home alone\nA:",
+        "idx": 50,
+        "inputs": "Q: What movie does this emoji describe? 👵🌂👒👫\n  choice: la strada\n  choice: the incredibles\n  choice: mary poppins\n  choice: cinderella\n  choice: the green mile\nA:",
         "targets": [
-            "home alone"
+            "mary poppins"
         ],
         "multiple_choice_targets": [
-            "home alone",
-            "once upon a time in the west",
-            "downfall",
-            "big",
-            "a bug's life"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Q: What movie does this emoji describe? 🧔✈️🏝🏐🗓\n  choice: elite squad: the enemy within\n  choice: the maltese falcon\n  choice: mary poppins\n  choice: cast away\n  choice: slumdog millionaire\nA:",
-        "targets": [
-            "cast away"
-        ],
-        "multiple_choice_targets": [
-            "cast away",
-            "the maltese falcon",
             "mary poppins",
-            "slumdog millionaire",
-            "elite squad: the enemy within"
+            "the green mile",
+            "cinderella",
+            "la strada",
+            "the incredibles"
         ],
         "multiple_choice_scores": [
             1,
@@ -399,17 +168,248 @@
         ]
     },
     {
-        "idx": 11,
-        "inputs": "Q: What movie does this emoji describe? 🧔❤️👧🕶🍭\n  choice: blade runner\n  choice: lolita\n  choice: heat\n  choice: ben-hur\n  choice: it happened one night\nA:",
+        "idx": 82,
+        "inputs": "Q: What movie does this emoji describe? 🤖🪳🌱🌎\n  choice: l.a. confidential\n  choice: wall-e\n  choice: léon: the professional\n  choice: big\n  choice: rush\nA:",
         "targets": [
+            "wall-e"
+        ],
+        "multiple_choice_targets": [
+            "wall-e",
+            "rush",
+            "léon: the professional",
+            "big",
+            "l.a. confidential"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 58,
+        "inputs": "Q: What movie does this emoji describe? ❄️👸❄️⛄️\n  choice: hidden figures\n  choice: the kid\n  choice: sleeping beauty\n  choice: frozen\n  choice: the avengers\nA:",
+        "targets": [
+            "frozen"
+        ],
+        "multiple_choice_targets": [
+            "frozen",
+            "the kid",
+            "sleeping beauty",
+            "hidden figures",
+            "the avengers"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: What movie does this emoji describe? 👸❤️🦁\n  choice: beauty and the beast\n  choice: planet of the apes\n  choice: howl's moving castle\n  choice: alien\n  choice: interstellar\nA:",
+        "targets": [
+            "beauty and the beast"
+        ],
+        "multiple_choice_targets": [
+            "beauty and the beast",
+            "alien",
+            "interstellar",
+            "howl's moving castle",
+            "planet of the apes"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: What movie does this emoji describe? 👧🏞🐰❤️👸\n  choice: it happened one night\n  choice: vertigo\n  choice: kung fu panda\n  choice: alice's adventures in wonderland\n  choice: mr. smith goes to washington\nA:",
+        "targets": [
+            "alice's adventures in wonderland"
+        ],
+        "multiple_choice_targets": [
+            "alice's adventures in wonderland",
+            "kung fu panda",
+            "mr. smith goes to washington",
+            "it happened one night",
+            "vertigo"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: What movie does this emoji describe? 🤡🎈\n  choice: it\n  choice: star wars: episode v - the empire strikes back\n  choice: raging bull\n  choice: gone with the wind\n  choice: roman holiday\nA:",
+        "targets": [
+            "it"
+        ],
+        "multiple_choice_targets": [
+            "it",
+            "star wars: episode v - the empire strikes back",
+            "roman holiday",
+            "gone with the wind",
+            "raging bull"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Q: What movie does this emoji describe? 👩⛰🎶🧒👦\n  choice: gandhi\n  choice: the sound of music\n  choice: interstellar\n  choice: city of god\n  choice: roman holiday\nA:",
+        "targets": [
+            "the sound of music"
+        ],
+        "multiple_choice_targets": [
+            "the sound of music",
+            "interstellar",
+            "gandhi",
+            "roman holiday",
+            "city of god"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Q: What movie does this emoji describe? 👳‍♂️🧞‍♂️\n  choice: cast away\n  choice: ted\n  choice: inglourious basterds\n  choice: aladdin\n  choice: lolita\nA:",
+        "targets": [
+            "aladdin"
+        ],
+        "multiple_choice_targets": [
+            "aladdin",
+            "ted",
+            "cast away",
+            "inglourious basterds",
             "lolita"
         ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Q: What movie does this emoji describe? 👧🦁🤖🧙‍♂️\n  choice: high noon\n  choice: the wizard of oz\n  choice: inception\n  choice: anatomy of a murder\n  choice: oldeuboi\nA:",
+        "targets": [
+            "the wizard of oz"
+        ],
         "multiple_choice_targets": [
-            "lolita",
-            "ben-hur",
-            "blade runner",
-            "heat",
-            "it happened one night"
+            "the wizard of oz",
+            "inception",
+            "anatomy of a murder",
+            "high noon",
+            "oldeuboi"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Q: What movie does this emoji describe? 🦍🏙✈️\n  choice: king kong\n  choice: the treasure of the sierra madre\n  choice: reservoir dogs\n  choice: gangs of wasseypur\n  choice: sunset blvd.\nA:",
+        "targets": [
+            "king kong"
+        ],
+        "multiple_choice_targets": [
+            "king kong",
+            "sunset blvd.",
+            "reservoir dogs",
+            "gangs of wasseypur",
+            "the treasure of the sierra madre"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: What movie does this emoji describe? 👧🏞🐰❤️👸\n  choice: it happened one night\n  choice: vertigo\n  choice: kung fu panda\n  choice: alice's adventures in wonderland\n  choice: mr. smith goes to washington\nA:",
+        "targets": [
+            "alice's adventures in wonderland"
+        ],
+        "multiple_choice_targets": [
+            "alice's adventures in wonderland",
+            "kung fu panda",
+            "mr. smith goes to washington",
+            "it happened one night",
+            "vertigo"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Q: What movie does this emoji describe? 👳‍♂️🧞‍♂️\n  choice: cast away\n  choice: ted\n  choice: inglourious basterds\n  choice: aladdin\n  choice: lolita\nA:",
+        "targets": [
+            "aladdin"
+        ],
+        "multiple_choice_targets": [
+            "aladdin",
+            "ted",
+            "cast away",
+            "inglourious basterds",
+            "lolita"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 74,
+        "inputs": "Q: What movie does this emoji describe? 😈👠\n  choice: batman begins\n  choice: whiplash\n  choice: brokeback mountain\n  choice: 8½\n  choice: the devil wears prada\nA:",
+        "targets": [
+            "the devil wears prada"
+        ],
+        "multiple_choice_targets": [
+            "the devil wears prada",
+            "whiplash",
+            "8½",
+            "brokeback mountain",
+            "batman begins"
         ],
         "multiple_choice_scores": [
             1,

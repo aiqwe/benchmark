@@ -1,7 +1,25 @@
 [
     {
         "idx": 1313,
+        "inputs": "Sort the following words alphabetically:\nList: posse chum spat bingle chancy sicilian palette plasmid reactant wei muskegon syllogistic backorder extractor transcription\nSorted:",
+        "targets": [
+            "backorder bingle chancy chum extractor muskegon palette plasmid posse reactant sicilian spat syllogistic transcription wei"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 984,
         "inputs": "Sort the following words alphabetically:\nList: chang sweatshop benjamin sponsor earring bystander alastair jealousy coneflower tapir spiteful\nSorted:",
+        "targets": [
+            "alastair benjamin bystander chang coneflower earring jealousy spiteful sponsor sweatshop tapir"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1790,
+        "inputs": "Sort the following words alphabetically:\nList: torpedoes bough riverfront praline drunken lepidolite annuli fbi libel philology carrageen holocaust vendetta skit whitehead pate levi permissible determine\nSorted:",
         "targets": [
             "annuli bough carrageen determine drunken fbi holocaust lepidolite levi libel pate permissible philology praline riverfront skit torpedoes vendetta whitehead"
         ],
@@ -9,8 +27,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 760,
+        "inputs": "Sort the following words alphabetically:\nList: sikkim intrepid london gestation degum fiction jon ontology eva\nSorted:",
+        "targets": [
+            "degum eva fiction gestation intrepid jon london ontology sikkim"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1135,
+        "inputs": "Sort the following words alphabetically:\nList: farmland banach advent metro odometer zoo traversable walt rhinestone printmake bethesda radiochemistry eumenides\nSorted:",
+        "targets": [
+            "advent banach bethesda eumenides farmland metro odometer printmake radiochemistry rhinestone traversable walt zoo"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 210,
+        "inputs": "Sort the following words alphabetically:\nList: grip taxicab tattler ovary\nSorted:",
+        "targets": [
+            "grip ovary tattler taxicab"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1456,
         "inputs": "Sort the following words alphabetically:\nList: opinionate interior ebb seeable jurassic flatland mammary cardamom forthwith licensor landslide valkyrie cryptic bully insurmountable nassau\nSorted:",
+        "targets": [
+            "bully cardamom cryptic ebb flatland forthwith insurmountable interior jurassic landslide licensor mammary nassau opinionate seeable valkyrie"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1732,
+        "inputs": "Sort the following words alphabetically:\nList: tort then twelve mollify dravidian dusseldorf bessel putty minestrone courtroom debility grasp we'll shmuel nashville validate johnstown phraseology extinguish\nSorted:",
         "targets": [
             "bessel courtroom debility dravidian dusseldorf extinguish grasp johnstown minestrone mollify nashville phraseology putty shmuel then tort twelve validate we'll"
         ],
@@ -18,8 +72,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 1056,
+        "inputs": "Sort the following words alphabetically:\nList: angles hilt william squid banish crept zygote common phenyl entry cumbersome ostracism\nSorted:",
+        "targets": [
+            "angles banish common crept cumbersome entry hilt ostracism phenyl squid william zygote"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1743,
+        "inputs": "Sort the following words alphabetically:\nList: chronography demolish functor momentary beau contagious psychosomatic jolla unwieldy formic oftentimes getaway sin needham sailboat archetype dinah strontium tracery\nSorted:",
+        "targets": [
+            "archetype beau chronography contagious demolish dinah formic functor getaway jolla momentary needham oftentimes psychosomatic sailboat sin strontium tracery unwieldy"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 255,
+        "inputs": "Sort the following words alphabetically:\nList: moss altimeter chamber woodpeck\nSorted:",
+        "targets": [
+            "altimeter chamber moss woodpeck"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 583,
         "inputs": "Sort the following words alphabetically:\nList: downpour whitish cultural ansi dwell chairperson brushstroke\nSorted:",
+        "targets": [
+            "ansi brushstroke chairperson cultural downpour dwell whitish"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 171,
+        "inputs": "Sort the following words alphabetically:\nList: alchemist pliable adsorbate\nSorted:",
         "targets": [
             "adsorbate alchemist pliable"
         ],
@@ -27,8 +117,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 1562,
+        "inputs": "Sort the following words alphabetically:\nList: berniece bremsstrahlung hoe avalanche showroom goff dactylic befriend hurry housekeep lanka gilbertson posterior flick bong hereafter metazoan\nSorted:",
+        "targets": [
+            "avalanche befriend berniece bong bremsstrahlung dactylic flick gilbertson goff hereafter hoe housekeep hurry lanka metazoan posterior showroom"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 328,
+        "inputs": "Sort the following words alphabetically:\nList: cole estonia brian redneck coda\nSorted:",
+        "targets": [
+            "brian coda cole estonia redneck"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 558,
+        "inputs": "Sort the following words alphabetically:\nList: conclusion laughlin sunrise bewail stanchion jurassic mustard\nSorted:",
+        "targets": [
+            "bewail conclusion jurassic laughlin mustard stanchion sunrise"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 920,
         "inputs": "Sort the following words alphabetically:\nList: erudite marriageable stahl coach inadvisable vicksburg virgo brownian eosine magnesium flax\nSorted:",
+        "targets": [
+            "brownian coach eosine erudite flax inadvisable magnesium marriageable stahl vicksburg virgo"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1854,
+        "inputs": "Sort the following words alphabetically:\nList: midspan veneer languid toolmake mucus consort defecate lit abridgment physiotherapy hollister evacuate intimacy occident rampant jones toefl durango custer express\nSorted:",
         "targets": [
             "abridgment consort custer defecate durango evacuate express hollister intimacy jones languid lit midspan mucus occident physiotherapy rampant toefl toolmake veneer"
         ],
@@ -36,145 +162,19 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1701,
-        "inputs": "Sort the following words alphabetically:\nList: transgressor sidewinder tacky casualty shouldn't courtier leprosy avoidance gibbon merge\nSorted:",
+        "idx": 1051,
+        "inputs": "Sort the following words alphabetically:\nList: teletypesetting gaslight trickster claustrophobia hampshire eskimo ladybug except lubricity dubious entire chapel\nSorted:",
         "targets": [
-            "gloucester raytheon slurp"
+            "chapel claustrophobia dubious entire eskimo except gaslight hampshire ladybug lubricity teletypesetting trickster"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1672,
-        "inputs": "Sort the following words alphabetically:\nList: medici precept cotty abyss plastic berg smart theist duly surety riddle\nSorted:",
+        "idx": 301,
+        "inputs": "Sort the following words alphabetically:\nList: convalescent severalty gadwall skywave applaud\nSorted:",
         "targets": [
-            "bust chalk cowboy dentistry dumb fatty goucher horror masonry midshipmen musicale pathway resiny roadrunner rocket sapient serf tangential urea urinary"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 849,
-        "inputs": "Sort the following words alphabetically:\nList: face hullabaloo sown\nSorted:",
-        "targets": [
-            "cherub commiserate except heed lenin neoteny pathbreaking swami va vorticity"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 482,
-        "inputs": "Sort the following words alphabetically:\nList: hyperboloid buckle liquidate alkali nagasaki breach falsetto parmesan mirth\nSorted:",
-        "targets": [
-            "cull embryo tootle"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 57,
-        "inputs": "Sort the following words alphabetically:\nList: syntactic trainload insulate plank baklava calamus malawi deerstalker\nSorted:",
-        "targets": [
-            "gadfly glasgow multiplication surah"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1331,
-        "inputs": "Sort the following words alphabetically:\nList: scarsdale kieffer asset feasible captor octogenarian doctorate zircon\nSorted:",
-        "targets": [
-            "audubon bowstring christ cyclotron dime guanine holman kevin loosen maw promptitude sweetbread teamster temptress triphenylphosphine turnkey vortices whitaker"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 78,
-        "inputs": "Sort the following words alphabetically:\nList: obelisk amphibole aeneas entourage passe volstead cindy\nSorted:",
-        "targets": [
-            "backside caw clipboard corpulent eh ferrer heath hecuba homebuilder june laudatory magician minnow miscreant patron prowess reverberate silica wand whatnot"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1425,
-        "inputs": "Sort the following words alphabetically:\nList: sloane molten equip hillman max cochran practise advisee kuwait chancery hoofprint cardigan evildoer retinue wuhan ape apostate acrobacy crowbait\nSorted:",
-        "targets": [
-            "embedded irwin osteology sharpshoot"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 960,
-        "inputs": "Sort the following words alphabetically:\nList: postmark dalton minerva sulky login glutamate altimeter uppercut altercate infusible evocable\nSorted:",
-        "targets": [
-            "backstitch bentley elevenfold frosty jewish madonna nitrate quadrillion scythia succession trig usual valuate xi"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 162,
-        "inputs": "Sort the following words alphabetically:\nList: convey chapter\nSorted:",
-        "targets": [
-            "biracial determinate geophysics harm mailman millipede mycobacteria"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 306,
-        "inputs": "Sort the following words alphabetically:\nList: scalar bufflehead handicapped peterson congestion saponify scrimmage athens pact nitrogen brigand bibliophile sweet\nSorted:",
-        "targets": [
-            "ago antigen collet continent fleet garden indigestion manatee manchester pentagonal petiole quizzes quotation revisal straw stutter"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 866,
-        "inputs": "Sort the following words alphabetically:\nList: headboard kalmuk ursula fiberglas\nSorted:",
-        "targets": [
-            "alkali appellate approximant armistice bordeaux counsel cuba depreciate director eunice helene loyal panicky polyandry sandwich seafare umpire"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 616,
-        "inputs": "Sort the following words alphabetically:\nList: temptation secretive triplett neptunium\nSorted:",
-        "targets": [
-            "upslope window"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1308,
-        "inputs": "Sort the following words alphabetically:\nList: accelerometer circumspect effluvia thebes jet amperage solvent blackfeet vengeful european involution feisty brad poem isolate sorenson hard emissary\nSorted:",
-        "targets": [
-            "amorphous belligerent buret bygone chauvinism dialectic elastomer gerhardt handicapper lance ovid pottery quadrupole schizoid"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 227,
-        "inputs": "Sort the following words alphabetically:\nList: accouter we'd mephistopheles anderson enthusiastic chronography faustian bolshevik gluttony ninefold saran lacy apposition away romano goody substantiate ltv pellet\nSorted:",
-        "targets": [
-            "being bellyache betelgeuse cider daunt decant depression euripides have hugh kitten mannitol normative raoul redneck scan tail tunnel wadi widen"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1097,
-        "inputs": "Sort the following words alphabetically:\nList: quality ulysses\nSorted:",
-        "targets": [
-            "apparition conference copra coupe dutton floruit ignore implement layperson messenger primitive superstitious turnoff westward"
+            "applaud convalescent gadwall severalty skywave"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

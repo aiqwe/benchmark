@@ -1,9 +1,72 @@
 [
     {
         "idx": 131,
+        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🔵 🔵 🔻 🔵 🔻 _ and not consistent with 🟥 🟨 _ 🟨 🟥 🟨:\n\n  choice: There are zero blue pieces or exactly two yellow circles.\n\n  choice: There is exactly one red circle and zero red pieces.\n\n  choice: There is at least one square and zero triangles.\n\n  choice: There are at least two red circles or at most one square.\n\n  choice: There is at most one yellow piece or zero squares.\n\nA:",
+        "targets": [
+            "There is at least one square and zero triangles."
+        ],
+        "multiple_choice_targets": [
+            "There is exactly one red circle and zero red pieces.",
+            "There is at least one square and zero triangles.",
+            "There are zero blue pieces or exactly two yellow circles.",
+            "There are at least two red circles or at most one square.",
+            "There is at most one yellow piece or zero squares."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 81,
         "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🔻 🔴 🟡 🟦 🟨 🟦 and not consistent with _ 🟨 🟡 🟡 🔵 🟦:\n\n  choice: There are zero triangles pointing down and at most one square.\n\n  choice: There is exactly one blue square or at most one red piece.\n\n  choice: There is at most one circle or exactly one circle.\n\n  choice: There are at most two yellow squares or at most two blue circles.\n\n  choice: There is at most one red circle and exactly two red pieces.\n\nA:",
         "targets": [
+            "There is at most one red circle and exactly two red pieces."
+        ],
+        "multiple_choice_targets": [
+            "There is at most one circle or exactly one circle.",
+            "There is at most one red circle and exactly two red pieces.",
+            "There are zero triangles pointing down and at most one square.",
+            "There is exactly one blue square or at most one red piece.",
+            "There are at most two yellow squares or at most two blue circles."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔵 🟡 🔵 🟥 🟡 🔺 and not consistent with 🟨 🟨 🟨 🔺 🔺 🔴:\n\n  choice: There are zero H Ds or at most one D.\n\n  choice: There is at most one H D or at least two X Bs.\n\n  choice: There are zero X Ds or at least two Ds.\n\n  choice: There are at least two Ds or at least one B.\n\n  choice: There is at least one D and exactly one H I.\n\nA:",
+        "targets": [
             "There are zero X Ds or at least two Ds."
+        ],
+        "multiple_choice_targets": [
+            "There are zero H Ds or at most one D.",
+            "There is at most one H D or at least two X Bs.",
+            "There is at least one D and exactly one H I.",
+            "There are at least two Ds or at least one B.",
+            "There are zero X Ds or at least two Ds."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 177,
+        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🟨 🟡 🔴 🔵 🔻 🔺 and not consistent with 🔵 🔵 🟥 🟡 🔴 🟨:\n\n  choice: There are zero erauqss at the right of a wolley erauqs.\n\n  choice: There is at least one elcric touching a wolley elcric.\n\n  choice: There are zero wolley erauqss at the right of a wolley elcric.\n\n  choice: There are zero elcrics at the left of a elcric.\n\n  choice: There is at least one der eceip surrounded by wolley eceips.\n\nA:",
+        "targets": [
+            "There are zero wolley erauqss at the right of a wolley elcric."
         ],
         "multiple_choice_targets": [
             "There are zero erauqss at the right of a wolley erauqs.",
@@ -11,6 +74,27 @@
             "There are zero wolley erauqss at the right of a wolley elcric.",
             "There are zero elcrics at the left of a elcric.",
             "There is at least one elcric touching a wolley elcric."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 166,
+        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔺 🟡 🟡 🟥 🟥 🔻 and not consistent with _ 🔵 🟥 _ 🔴 🔺:\n\n  choice: There are at most two X Is touching a X I.\n\n  choice: There is at most one Y touching a B.\n\n  choice: There are zero U Bs touching a U I.\n\n  choice: There are at least two Ys A touching a X B.\n\n  choice: There is at least one B touching a Y A.\n\nA:",
+        "targets": [
+            "There is at least one B touching a Y A."
+        ],
+        "multiple_choice_targets": [
+            "There are zero U Bs touching a U I.",
+            "There is at least one B touching a Y A.",
+            "There is at most one Y touching a B.",
+            "There are at least two Ys A touching a X B.",
+            "There are at most two X Is touching a X I."
         ],
         "multiple_choice_scores": [
             0,
@@ -22,9 +106,72 @@
     },
     {
         "idx": 169,
+        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🔵 🟡 🟡 🟦 _ 🟦 and not consistent with 🔴 🟦 🔺 🔴 _ _:\n\n  choice: There are exactly two blue pieces touching a square.\n\n  choice: There is exactly one yellow piece surrounded by blue circles.\n\n  choice: There are exactly two squares surrounded by triangles pointing down.\n\n  choice: There are at most two blue squares touching a square.\n\n  choice: There is at most one blue circle at the right of a square.\n\nA:",
+        "targets": [
+            "There is exactly one yellow piece surrounded by blue circles."
+        ],
+        "multiple_choice_targets": [
+            "There is exactly one yellow piece surrounded by blue circles.",
+            "There are exactly two squares surrounded by triangles pointing down.",
+            "There are at most two blue squares touching a square.",
+            "There are exactly two blue pieces touching a square.",
+            "There is at most one blue circle at the right of a square."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 73,
         "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🦝 🐔 🐯 🐯 🦄 🦄 and not consistent with 🐱 🐱 🐱 🐱 🐮 🐱:\n\n  choice: There are at most two triangles pointing up and at most one blue square.\n\n  choice: There is exactly one blue square and exactly two squares.\n\n  choice: There are exactly two blue pieces and at most one triangle.\n\n  choice: There are at least two red squares or at least two red squares.\n\n  choice: There is at least one blue circle and at least one yellow circle.\n\nA:",
         "targets": [
+            "There is exactly one blue square and exactly two squares."
+        ],
+        "multiple_choice_targets": [
+            "There are exactly two blue pieces and at most one triangle.",
+            "There are at most two triangles pointing up and at most one blue square.",
+            "There are at least two red squares or at least two red squares.",
+            "There is at least one blue circle and at least one yellow circle.",
+            "There is exactly one blue square and exactly two squares."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 144,
+        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔵 🟥 🟦 🔵 🔵 🔴 and not consistent with 🔻 🟡 _ 🟥 🔵 _:\n\n  choice: There are at least two H Ds touching a H D.\n\n  choice: There is exactly one U D touching a Y A.\n\n  choice: There are at most two Ys surrounded by U Bs.\n\n  choice: There are at least two Ds surrounded by Ys G.\n\n  choice: There are zero Bs at the right of a U B.\n\nA:",
+        "targets": [
             "There are at least two H Ds touching a H D."
+        ],
+        "multiple_choice_targets": [
+            "There are zero Bs at the right of a U B.",
+            "There is exactly one U D touching a Y A.",
+            "There are at most two Ys surrounded by U Bs.",
+            "There are at least two H Ds touching a H D.",
+            "There are at least two Ds surrounded by Ys G."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 101,
+        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🟦 _ 🟦 🟨 🔺 🔵 and not consistent with 🔴 🔴 🔴 🔺 🔴 🔴:\n\n  choice: There are at most two wolley erauqss or at most two eulb elcrics.\n\n  choice: There are zero eulb eceips and at least one der eceip.\n\n  choice: There are exactly two der eceips or at most two der elcrics.\n\n  choice: There are at most two wolley elcrics and exactly one elgnairt.\n\n  choice: There are exactly two der erauqss and at most two eulb erauqss.\n\nA:",
+        "targets": [
+            "There are exactly two der eceips or at most two der elcrics."
         ],
         "multiple_choice_targets": [
             "There are at most two wolley elcrics and exactly one elgnairt.",
@@ -36,6 +183,27 @@
         "multiple_choice_scores": [
             0,
             0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🟦 🟦 🟡 🔺 🟡 🟡 and not consistent with 🔵 _ 🔴 🟥 🔺 🔺:\n\n  choice: There are at least two triangles.\n\n  choice: There is at most one circle.\n\n  choice: There are zero triangles pointing down.\n\n  choice: There are at least two red circles.\n\n  choice: There is at least one blue square.\n\nA:",
+        "targets": [
+            "There is at least one blue square."
+        ],
+        "multiple_choice_targets": [
+            "There is at most one circle.",
+            "There are at least two triangles.",
+            "There are at least two red circles.",
+            "There are zero triangles pointing down.",
+            "There is at least one blue square."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
             0,
             0,
             1
@@ -43,9 +211,72 @@
     },
     {
         "idx": 37,
+        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔴 🔴 _ _ 🟨 🟨 and not consistent with 🟥 _ 🔺 🔺 _ 🔺:\n\n  choice: There are exactly two U Is.\n\n  choice: There is at most one U I.\n\n  choice: There is at least one H I.\n\n  choice: There are at most two U Is.\n\n  choice: There is at least one X I.\n\nA:",
+        "targets": [
+            "There are exactly two U Is."
+        ],
+        "multiple_choice_targets": [
+            "There is at least one H I.",
+            "There is at most one U I.",
+            "There are exactly two U Is.",
+            "There is at least one X I.",
+            "There are at most two U Is."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 195,
         "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🔻 🟥 🟨 🟨 🔺 🔺 and not consistent with 🔵 🟦 🟡 🔻 🟥 🔵:\n\n  choice: There are at most two der eceips touching a der eceip.\n\n  choice: There is exactly one wolley elcric touching a elgnairt gnitniop nwod.\n\n  choice: There are zero elcrics at the left of a elcric.\n\n  choice: There are at least two eulb elcrics touching a eulb elcric.\n\n  choice: There is at most one eulb erauqs touching a erauqs.\n\nA:",
         "targets": [
+            "There are zero elcrics at the left of a elcric."
+        ],
+        "multiple_choice_targets": [
+            "There is exactly one wolley elcric touching a elgnairt gnitniop nwod.",
+            "There are at most two der eceips touching a der eceip.",
+            "There are at least two eulb elcrics touching a eulb elcric.",
+            "There are zero elcrics at the left of a elcric.",
+            "There is at most one eulb erauqs touching a erauqs."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🦁 🐺 🦁 🐺 🐱 🐷 and not consistent with 🐯 🐺 🐔 🐔 🦁 🦁:\n\n  choice: There are zero triangles pointing down.\n\n  choice: There is at most one blue piece.\n\n  choice: There is at least one blue circle.\n\n  choice: There are at least two red circles.\n\n  choice: There is at least one triangle pointing down.\n\nA:",
+        "targets": [
             "There are zero triangles pointing down."
+        ],
+        "multiple_choice_targets": [
+            "There is at least one blue circle.",
+            "There is at least one triangle pointing down.",
+            "There are zero triangles pointing down.",
+            "There are at least two red circles.",
+            "There is at most one blue piece."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 159,
+        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🟦 🟥 🟡 🟦 🔺 🔺 and not consistent with 🔺 _ 🔴 🔺 🔵 🔻:\n\n  choice: There are exactly two elgnairts gnitniop pu touching a elgnairt gnitniop pu.\n\n  choice: There is exactly one wolley elcric touching a elgnairt gnitniop nwod.\n\n  choice: There is at most one elcric at the right of a wolley erauqs.\n\n  choice: There are at least two elgnairts touching a eulb elcric.\n\n  choice: There is at most one elgnairt gnitniop nwod at the left of a eulb erauqs.\n\nA:",
+        "targets": [
+            "There are exactly two elgnairts gnitniop pu touching a elgnairt gnitniop pu."
         ],
         "multiple_choice_targets": [
             "There are at least two elgnairts touching a eulb elcric.",
@@ -56,27 +287,6 @@
         ],
         "multiple_choice_scores": [
             0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 179,
-        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🔻 🟨 🔵 🟨 🟨 🔴 and not consistent with 🟦 🔺 🔺 🔻 🔻 _:\n\n  choice: There are exactly two yellow pieces at the right of a yellow piece.\n\n  choice: There is exactly one blue square touching a triangle pointing up.\n\n  choice: There is at least one circle touching a yellow circle.\n\n  choice: There are at least two circles surrounded by triangles pointing up.\n\n  choice: There is at most one red circle at the left of a yellow piece.\n\nA:",
-        "targets": [
-            "There are at least two red circles or at most one square."
-        ],
-        "multiple_choice_targets": [
-            "There is at most one triangle.",
-            "There is exactly one square.",
-            "There are at least two yellow squares.",
-            "There are zero blue circles.",
-            "There are at most two yellow circles."
-        ],
-        "multiple_choice_scores": [
-            0,
             1,
             0,
             0,
@@ -84,157 +294,10 @@
         ]
     },
     {
-        "idx": 121,
-        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔺 _ 🔺 🔴 🟦 🔻 and not consistent with 🟥 🟥 🟥 🟦 _ 🔺:\n\n  choice: There are exactly two X Ds.\n\n  choice: There is at most one U I.\n\n  choice: There are zero X Ds.\n\n  choice: There are at most two X Bs.\n\n  choice: There is at least one H B.\n\nA:",
+        "idx": 156,
+        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔻 🟡 🟡 🟡 🟡 🔴 and not consistent with 🟨 🔵 🔻 🔻 🟦 _:\n\n  choice: There are zero U Bs touching a B.\n\n  choice: There is at most one Y A at the left of a H B.\n\n  choice: There are zero U Is at the right of a Y A.\n\n  choice: There are at least two U Ds touching a Y A.\n\n  choice: There is at most one H I touching a H I.\n\nA:",
         "targets": [
-            "There is at most one blue circle or at least two red squares."
-        ],
-        "multiple_choice_targets": [
-            "There are at least two blue squares and exactly one yellow square.",
-            "There is exactly one triangle pointing up or at least one red circle.",
-            "There are at least two red circles or exactly one red piece.",
-            "There are at least two blue pieces and at most two circles.",
-            "There are exactly two triangles or at least one triangle pointing up."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 52,
-        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🔻 🟨 🔺 🔺 _ 🔺 and not consistent with 🔵 🟨 🔴 🔵 _ 🟡:\n\n  choice: There are exactly two der erauqss and at most two eulb erauqss.\n\n  choice: There is at most one elgnairt gnitniop nwod and at least two elgnairts gnitniop pu.\n\n  choice: There are exactly two wolley eceips or exactly one wolley elcric.\n\n  choice: There are at least two elgnairts or zero elgnairts gnitniop nwod.\n\n  choice: There are zero eulb erauqss or zero elgnairts gnitniop pu.\n\nA:",
-        "targets": [
-            "There is at most one H D at the right of a B."
-        ],
-        "multiple_choice_targets": [
-            "There is at least one X D or at least two H Ds.",
-            "There are zero H Is and at least one X I.",
-            "There are at most two U Ds and exactly one Y.",
-            "There are at most two Ys G and at most one H B.",
-            "There are zero Ys G and exactly one H D."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 55,
-        "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🦄 🐯 🐮 🐺 🐱 🐱 and not consistent with 🦁 🐮 🐮 🦄 🦄 🐔:\n\n  choice: There are at least two yellow pieces.\n\n  choice: There is exactly one square.\n\n  choice: There are exactly two triangles pointing down.\n\n  choice: There are at least two red squares.\n\n  choice: There is at most one triangle.\n\nA:",
-        "targets": [
-            "There is at most one yellow square."
-        ],
-        "multiple_choice_targets": [
-            "There is exactly one yellow circle touching a triangle pointing down.",
-            "There is at least one yellow square at the left of a triangle.",
-            "There are zero blue pieces touching a blue circle.",
-            "There is at most one yellow circle at the right of a yellow circle.",
-            "There is at least one red square surrounded by circles."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🔺 _ 🟨 🟦 🔺 🟦 and not consistent with 🔺 🔵 🟨 🟨 🔺 🔴:\n\n  choice: There are at most two U Ds touching a H D.\n\n  choice: There is at most one Y touching a B.\n\n  choice: There are exactly two H Bs touching a X I.\n\n  choice: There are at least two U Ds touching a Y A.\n\n  choice: There are exactly two Ys at the left of a D.\n\nA:",
-        "targets": [
-            "There are exactly two yellow pieces."
-        ],
-        "multiple_choice_targets": [
-            "There are exactly two red squares.",
-            "There is at least one blue square.",
-            "There are exactly two yellow circles.",
-            "There are exactly two yellow pieces.",
-            "There are exactly two squares."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 7,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🟡 🔴 🟡 🟥 🟦 🟦 and not consistent with 🟨 🔴 🔻 🔺 _ 🟦:\n\n  choice: There are zero red squares and exactly two blue squares.\n\n  choice: There is at most one blue piece and at least one yellow circle.\n\n  choice: There are zero yellow circles or exactly one yellow circle.\n\n  choice: There are at most two red circles or at most two yellow pieces.\n\n  choice: There is at most one blue circle and at most one red piece.\n\nA:",
-        "targets": [
-            "There is at most one blue circle and at most one red piece."
-        ],
-        "multiple_choice_targets": [
-            "There are at least two yellow pieces.",
-            "There is exactly one yellow piece.",
-            "There is at least one blue square.",
-            "There are at most two triangles pointing up.",
-            "There is at least one triangle."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 36,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🟨 🟥 🔵 🔻 🔵 🔵 and not consistent with _ 🔴 🔺 🟦 _ 🟡:\n\n  choice: There are at most two triangles pointing up or at least one triangle.\n\n  choice: There is at least one triangle pointing up or at least two triangles pointing down.\n\n  choice: There are exactly two triangles and exactly one red piece.\n\n  choice: There are at least two red circles or exactly one red piece.\n\n  choice: There are zero yellow circles or exactly one yellow circle.\n\nA:",
-        "targets": [
-            "There is at least one wolley erauqs at the left of a elgnairt."
-        ],
-        "multiple_choice_targets": [
-            "There are at least two yellow pieces.",
-            "There is at most one triangle.",
-            "There are at least two red squares.",
-            "There are exactly two triangles pointing down.",
-            "There is exactly one square."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 140,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🟡 🔴 🟡 🟥 🟦 🟦 and not consistent with 🟨 🔴 🔻 🔺 _ 🟦:\n\n  choice: There are zero red squares and exactly two blue squares.\n\n  choice: There is at most one blue piece and at least one yellow circle.\n\n  choice: There are zero yellow circles or exactly one yellow circle.\n\n  choice: There are at most two red circles or at most two yellow pieces.\n\n  choice: There is at most one blue circle and at most one red piece.\n\nA:",
-        "targets": [
-            "There is at most one H D and at most one X I."
-        ],
-        "multiple_choice_targets": [
-            "There are zero yellow squares.",
-            "There are at least two yellow circles.",
-            "There is at most one yellow circle.",
-            "There are exactly two triangles pointing down.",
-            "There are at most two triangles pointing down."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 91,
-        "inputs": "In the SIT-name-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a X D;\n 🔵 is a H D;\n 🟡 is a U D;\n 🔺 is a X Y G;\n 🔻 is a X Y A;\n 🟥 is a X B;\n 🟦 is a H B;\n 🟨 is a U B;\n _ is a T.\n\nChoose the sentence consistent with the structure 🟦 _ 🟦 🟨 🔺 🔵 and not consistent with 🔴 🔴 🔴 🔺 🔴 🔴:\n\n  choice: There are at most two U Ds and exactly one Y.\n\n  choice: There are zero H Is and at least one X I.\n\n  choice: There are exactly two X Bs and at most two H Bs.\n\n  choice: There are at most two U Bs or at most two H Ds.\n\n  choice: There are exactly two X Is or at most two X Ds.\n\nA:",
-        "targets": [
-            "There is at most one yellow piece."
+            "There is at most one Y A at the left of a H B."
         ],
         "multiple_choice_targets": [
             "There are at least two U Ds touching a Y A.",
@@ -252,59 +315,38 @@
         ]
     },
     {
-        "idx": 146,
-        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🟨 🟨 🔵 🔴 🟨 _ and not consistent with 🔺 🔻 🟦 🔻 🟡 _:\n\n  choice: There are zero elgnairts touching a elcric.\n\n  choice: There is at most one wolley elcric touching a der erauqs.\n\n  choice: There is at least one erauqs touching a elgnairt gnitniop nwod.\n\n  choice: There are at least two elgnairts surrounded by der erauqss.\n\n  choice: There is at least one wolley erauqs at the left of a elgnairt.\n\nA:",
+        "idx": 179,
+        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🟨 🟥 🟨 _ 🔻 🔻 and not consistent with _ 🔵 🔵 🟡 🟡 🔵:\n\n  choice: There are at least two squares touching a yellow piece.\n\n  choice: There are zero blue pieces at the right of a circle.\n\n  choice: There are at least two triangles pointing down touching a red square.\n\n  choice: There are at least two blue circles touching a blue circle.\n\n  choice: There are at most two circles surrounded by blue pieces.\n\nA:",
         "targets": [
-            "There is at least one der elcric or at least two eulb elcrics."
+            "There are zero blue pieces at the right of a circle."
         ],
         "multiple_choice_targets": [
-            "There are exactly two Ys at the right of a X B.",
-            "There are zero U Is at the right of a Y A.",
-            "There are zero Ds at the left of a D.",
-            "There are exactly two U Ds at the left of a H I.",
-            "There is exactly one U I touching a U I."
+            "There are zero blue pieces at the right of a circle.",
+            "There are at least two triangles pointing down touching a red square.",
+            "There are at least two blue circles touching a blue circle.",
+            "There are at most two circles surrounded by blue pieces.",
+            "There are at least two squares touching a yellow piece."
         ],
         "multiple_choice_scores": [
-            0,
-            0,
             1,
             0,
-            0
-        ]
-    },
-    {
-        "idx": 88,
-        "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🐷 🦄 🦁 🐱 🐔 🐔 and not consistent with 🦄 🐔 🦄 🦄 🦄 🐱:\n\n  choice: There are at least two red pieces.\n\n  choice: There are at most two squares.\n\n  choice: There are at least two yellow circles.\n\n  choice: There are at least two red circles.\n\n  choice: There are at most two blue squares.\n\nA:",
-        "targets": [
-            "There are exactly two der elcrics."
-        ],
-        "multiple_choice_targets": [
-            "There are at least two H Is and at most two Ds.",
-            "There are zero Ys G and exactly one H D.",
-            "There is exactly one X B and at least two X Ds.",
-            "There are at most two Ys G and at most one H B.",
-            "There is exactly one H B and exactly one Y G."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
             0,
             0,
             0
         ]
     },
     {
-        "idx": 20,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🔺 🟦 🔵 🔵 🟨 🟦 and not consistent with 🟦 🟥 🟦 🔵 🔴 🔴:\n\n  choice: There are exactly two red pieces surrounded by red pieces.\n\n  choice: There is exactly one red piece at the left of a yellow circle.\n\n  choice: There is at most one red circle at the left of a yellow piece.\n\n  choice: There are exactly two circles at the right of a red piece.\n\n  choice: There is exactly one blue square at the right of a triangle pointing up.\n\nA:",
+        "idx": 153,
+        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🔻 🟨 🔵 🟨 🟨 🔴 and not consistent with 🟦 🔺 🔺 🔻 🔻 _:\n\n  choice: There are exactly two yellow pieces at the right of a yellow piece.\n\n  choice: There is exactly one blue square touching a triangle pointing up.\n\n  choice: There is at least one circle touching a yellow circle.\n\n  choice: There are at least two circles surrounded by triangles pointing up.\n\n  choice: There is at most one red circle at the left of a yellow piece.\n\nA:",
         "targets": [
-            "There are at least two red squares or at least two red squares."
+            "There are exactly two yellow pieces at the right of a yellow piece."
         ],
         "multiple_choice_targets": [
-            "There are exactly two yellow pieces or exactly one yellow circle.",
-            "There is at most one triangle pointing down or at least one blue square.",
-            "There is exactly one red circle and zero red pieces.",
-            "There are zero red squares or exactly one yellow piece.",
-            "There are at most two triangles pointing up and at most one blue square."
+            "There is at most one red circle at the left of a yellow piece.",
+            "There are exactly two yellow pieces at the right of a yellow piece.",
+            "There is exactly one blue square touching a triangle pointing up.",
+            "There is at least one circle touching a yellow circle.",
+            "There are at least two circles surrounded by triangles pointing up."
         ],
         "multiple_choice_scores": [
             0,
@@ -315,106 +357,64 @@
         ]
     },
     {
-        "idx": 45,
-        "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🐱 🦁 🦁 🦝 🐔 🦁 and not consistent with 🐷 🐱 🦝 🦁 🐱 🦄:\n\n  choice: There are exactly two triangles pointing up touching a triangle pointing up.\n\n  choice: There is exactly one red piece at the left of a yellow circle.\n\n  choice: There are zero red circles surrounded by squares.\n\n  choice: There are at least two yellow circles surrounded by circles.\n\n  choice: There is exactly one blue square at the right of a triangle pointing up.\n\nA:",
+        "idx": 112,
+        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🔺 🔵 🔺 _ 🔺 🟡 and not consistent with 🔻 🟥 🔺 🟦 🟨 🟦:\n\n  choice: There are at least two red circles or at most one square.\n\n  choice: There is at most one triangle pointing down or at most two squares.\n\n  choice: There are exactly two triangles and exactly one red piece.\n\n  choice: There are at least two blue squares and exactly one yellow square.\n\n  choice: There are zero circles or exactly two triangles.\n\nA:",
         "targets": [
-            "There are exactly two U Is."
+            "There are at least two red circles or at most one square."
         ],
         "multiple_choice_targets": [
-            "There is at least one X I.",
-            "There are at least two U Bs.",
-            "There are zero U Is.",
-            "There is at least one H D.",
-            "There are at least two X Ds."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 92,
-        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🟨 🔴 🔻 🟦 🟥 🟦 and not consistent with 🔺 🟦 🔻 🔻 🔵 🔻:\n\n  choice: There are exactly two triangles at the right of a red square.\n\n  choice: There is exactly one yellow square at the left of a red circle.\n\n  choice: There are zero blue pieces at the right of a circle.\n\n  choice: There are at most two yellow pieces surrounded by blue circles.\n\n  choice: There are zero yellow squares touching a yellow piece.\n\nA:",
-        "targets": [
-            "There is at most one red piece."
-        ],
-        "multiple_choice_targets": [
-            "There are at most two yellow circles and exactly one triangle.",
-            "There is exactly one circle and at least one blue square.",
-            "There are at most two yellow squares or at most two blue circles.",
-            "There are at least two blue pieces and at most two circles.",
-            "There are zero blue squares or zero triangles pointing up."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 67,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🔺 🔺 🟨 🔺 _ _ and not consistent with _ 🟡 🟥 🟡 🔵 🟨:\n\n  choice: There are exactly two circles or at most one red piece.\n\n  choice: There is exactly one triangle pointing up or exactly one blue circle.\n\n  choice: There are zero triangles or at least one red circle.\n\n  choice: There are exactly two blue pieces and at most one triangle.\n\n  choice: There is exactly one circle or exactly one triangle pointing down.\n\nA:",
-        "targets": [
-            "There are at least two triangles pointing down."
-        ],
-        "multiple_choice_targets": [
-            "There is at least one H I.",
-            "There are at least two U Bs.",
-            "There is at least one X I.",
-            "There is at most one D.",
-            "There is exactly one Y."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 149,
-        "inputs": "In the SIT-tricky world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a der elcric;\n 🔵 is an eulb elcric;\n 🟡 is a wolley elcric;\n 🔺 is a der elgnairt gnitniop pu;\n 🔻 is a der elgnairt gnitniop nwod;\n 🟥 is a der erauqs;\n 🟦 is an eulb erauqs;\n 🟨 is a wolley erauqs;\n _ is a ytpme ecaps.\n\nChoose the sentence consistent with the structure 🟦 🟦 🟡 🔺 🟡 🟡 and not consistent with 🔵 _ 🔴 🟥 🔺 🔺:\n\n  choice: There are at least two elgnairts.\n\n  choice: There is at most one elcric.\n\n  choice: There are zero elgnairts gnitniop nwod.\n\n  choice: There are at least two der elcrics.\n\n  choice: There is at least one eulb erauqs.\n\nA:",
-        "targets": [
-            "There are zero der elcrics or at least two elcrics."
-        ],
-        "multiple_choice_targets": [
-            "There are exactly two blue squares or at most two squares.",
-            "There is at least one red circle or at least two blue circles.",
             "There are at least two blue squares and exactly one yellow square.",
-            "There are zero red circles or at least two circles.",
-            "There is at most one circle or exactly one circle."
+            "There are exactly two triangles and exactly one red piece.",
+            "There is at most one triangle pointing down or at most two squares.",
+            "There are zero circles or exactly two triangles.",
+            "There are at least two red circles or at most one square."
         ],
         "multiple_choice_scores": [
             0,
             0,
-            1,
             0,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 196,
-        "inputs": "In the SIT-adversarial world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔺 is a red circle;\n 🟦 is a blue circle;\n 🔴 is a yellow circle;\n 🟥 is a red triangle pointing up;\n 🟨 is a red triangle pointing down;\n 🔻 is a red square;\n 🟡 is a blue square;\n _ is a yellow square;\n 🔵 is an empty space.\n\nChoose the sentence consistent with the structure 🔺 🟦 🔵 🔵 🟨 🟦 and not consistent with 🟦 🟥 🟦 🔵 🔴 🔴:\n\n  choice: There are exactly two red pieces surrounded by red pieces.\n\n  choice: There is exactly one red piece at the left of a yellow circle.\n\n  choice: There is at most one red circle at the left of a yellow piece.\n\n  choice: There are exactly two circles at the right of a red piece.\n\n  choice: There is exactly one blue square at the right of a triangle pointing up.\n\nA:",
+        "idx": 7,
+        "inputs": "In the SIT-emoji-agnostic world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🐮 is a red circle;\n 🐺 is a blue circle;\n 🦁 is a yellow circle;\n 🐷 is a red triangle pointing up;\n 🐯 is a red triangle pointing down;\n 🐱 is a red square;\n 🦝 is a blue square;\n 🐔 is a yellow square;\n 🦄 is an empty space.\n\nChoose the sentence consistent with the structure 🦝 🦝 🐔 🦁 🐯 🐯 and not consistent with 🦁 🐮 🦁 🐷 🐱 🦁:\n\n  choice: There are at most two yellow circles.\n\n  choice: There is exactly one square.\n\n  choice: There are zero blue circles.\n\n  choice: There are at least two yellow squares.\n\n  choice: There is at most one triangle.\n\nA:",
         "targets": [
-            "There are exactly two U Is at the right of a U I."
+            "There are at most two yellow circles."
         ],
         "multiple_choice_targets": [
-            "There are zero U Bs.",
-            "There is at most one H I.",
-            "There are at least two U Is.",
-            "There are exactly two U Is.",
-            "There are at least two X Bs."
+            "There is at most one triangle.",
+            "There is exactly one square.",
+            "There are at least two yellow squares.",
+            "There are zero blue circles.",
+            "There are at most two yellow circles."
         ],
         "multiple_choice_scores": [
             0,
             0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 136,
+        "inputs": "In the SIT-plain world a structure is a sequence of six emojis.\nHereafter are reported the emojis used along with their descriptions.\n 🔴 is a red circle;\n 🔵 is a blue circle;\n 🟡 is a yellow circle;\n 🔺 is a red triangle pointing_up;\n 🔻 is a red triangle pointing_down;\n 🟥 is a red square;\n 🟦 is a blue square;\n 🟨 is a yellow square;\n _ is an empty_space.\n\nChoose the sentence consistent with the structure 🔺 🔴 🟥 🔴 🟥 🔵 and not consistent with 🟨 🔴 🟡 🟥 🟡 🟡:\n\n  choice: There are exactly two yellow circles at the left of a blue piece.\n\n  choice: There is at most one yellow circle at the right of a yellow circle.\n\n  choice: There are zero red squares surrounded by red circles.\n\n  choice: There are exactly two triangles pointing up surrounded by triangles.\n\n  choice: There is at most one blue square touching a square.\n\nA:",
+        "targets": [
+            "There is at most one yellow circle at the right of a yellow circle."
+        ],
+        "multiple_choice_targets": [
+            "There are exactly two yellow circles at the left of a blue piece.",
+            "There is at most one yellow circle at the right of a yellow circle.",
+            "There are zero red squares surrounded by red circles.",
+            "There is at most one blue square touching a square.",
+            "There are exactly two triangles pointing up surrounded by triangles."
+        ],
+        "multiple_choice_scores": [
+            0,
             1,
+            0,
             0,
             0
         ]

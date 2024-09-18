@@ -1,30 +1,17 @@
 [
     {
-        "idx": 38,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Many people want the government to focus more on climate change issues. \nKeyword: demand\nRephrased sentence:",
+        "idx": 77,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I just saw Emma for a moment as she walked past the restaurant. \nKeyword: caught\nRephrased sentence:",
         "targets": [
-            "There is not much of a demand for that particular product these days.",
-            "There is not a lot of a demand for that particular product these days.",
-            "There is little demand for that particular product these days."
+            "I just caught a glimpse of Emma as she walked past the restaurant.",
+            "I just caught sight of Emma as she walked past the restaurant."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 15,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Not many people buy that particular product these days. \nKeyword: demand\nRephrased sentence:",
-        "targets": [
-            "There is no way of telling how long this job will take.",
-            "There is no chance of telling how long this job will take.",
-            "There is no way of telling how long the job will take.",
-            "There is no chance of telling how long the job will take."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 59,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Many people want the government to focus more on climate change issues. \nKeyword: demand\nRephrased sentence:",
+        "idx": 21,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: The baron came to our house to disembowel the hake here because he did not want the fishy smell in his own flat. \nKeyword: avoid\nRephrased sentence:",
         "targets": [
             "The baron came to our house to disembowel the hake here to avoid getting the fishy smell in his own flat.",
             "The baron came to our house to disembowel the hake here to avoid having the fishy smell in his own flat.",
@@ -37,133 +24,31 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 43,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Wolves argue over small concerns, just like humans. \nKeyword: arguments\nRephrased sentence:",
+        "idx": 68,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: For me, his skill as a negotiator was most impressive. \nKeyword: how\nRephrased sentence:",
         "targets": [
-            "Apparently in some areas in Italy Thursdays are Gnocchi day, while in Brazil it is every 29th of the month.",
-            "In some areas in Italy Thursdays are Gnocchi day, while in Brazil it is every 29th of the month, apparently.",
-            "It turns out in some areas in Italy Thursdays are Gnocchi day, while apparently in Brazil it is every 29th of the month.",
-            "It turns out that apparently in some areas in Italy Thursdays are Gnocchi day, while in Brazil it is every 29th of the month."
+            "I was most impressed to see how skillful a negotiator he was.",
+            "I was most impressed by how skilled a negotiator he was.",
+            "I was most impressed with how skilled a negotiator he was.",
+            "I was most impressed at how skillful a negotiator he was.",
+            "I was most impressed at how skilled a negotiator he was."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 3,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I’m disappointed with the Fishers' new album when I compare it to their previous one. \nKeyword: comparison\nRephrased sentence:",
+        "idx": 31,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I am sorry I told him I loved him. \nKeyword: regret\nRephrased sentence:",
         "targets": [
-            "I just caught a glimpse of Emma as she walked past the restaurant.",
-            "I just caught sight of Emma as she walked past the restaurant."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 20,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: In this hot weather it is no surprise that the beach was so crowded. \nKeyword: expected\nRephrased sentence:",
-        "targets": [
-            "It is possible that Paul quits his career in science and opens a yoga studio.",
-            "It is possible Paul quits his career in science to open a yoga studio.",
-            "It is possible Paul quits his career in science and opens a yoga studio."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 58,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Astrid did not manage to prepare the Midsommar fest this year. \nKeyword: failed\nRephrased sentence:",
-        "targets": [
-            "This is unequivocally the last place I want to be.",
-            "Unequivocally, this is the last place I want to be."
+            "I regret having told him I loved him.",
+            "I regret that I told him I loved him.",
+            "I regret I told him I loved him."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 20,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: A lack of support is threatening the success of the carnival. \nKeyword: under\nRephrased sentence:",
-        "targets": [
-            "At the height of his success, the President had enormous influence."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 56,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Thanks to her protective equipment, Florie only broke both her wrists and nothing more while inline skating. \nKeyword: avoided\nRephrased sentence:",
-        "targets": [
-            "At the height of his success, the President had enormous influence."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 16,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I really don’t mind whether Jill chooses to come on holiday with us or not. \nKeyword: difference\nRephrased sentence:",
-        "targets": [
-            "His father bribed him with a studio to make him spend more time with him.",
-            "His father bought him a studio to bribe him to spend more time with him.",
-            "His father bought him a studio as a bribe to spend more time with him."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 34,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: The prime minister's son could not believe she has never had oysters before. \nKeyword: unfathomable\nRephrased sentence:",
-        "targets": [
-            "He wanted to know if he could finish his breakfast before driving to the delivery room.",
-            "He wanted to finish his breakfast before driving to the delivery room.",
-            "Before driving to the delivery room, he wanted to finish his breakfast.",
-            "Before driving to the delivery room, he wanted to now if he could finish his breakfast."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 57,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: He became a celebrity by infamously committing insurance fraud and participating in a reality show. \nKeyword: known\nRephrased sentence:",
-        "targets": [
-            "In this hot weather it is expected that the beach was so crowded.",
-            "It is expected in this hot weather that the beach was so crowded.",
-            "In this hot weather the beach was expected to be so crowded."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 8,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Martina found out through her housemates that Portugal had lost the match against Germany. \nKeyword: learnt\nRephrased sentence:",
-        "targets": [
-            "We can assure our customers that we will do whatever it takes to maintain the quality of the products on our shelves."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Did they really have to sack the secretary for nicking one pen? \nKeyword: necessary\nRephrased sentence:",
-        "targets": [
-            "The Spanish inquisition came as a surprise.",
-            "The Spanish inquisition came as a complete surprise.",
-            "The Spanish inquisition came as a total surprise.",
-            "The Spanish inquisition came as a shock."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Isabel's colleague is being praised although he never does anything. \nKeyword: despite\nRephrased sentence:",
-        "targets": [
-            "The decision was no problem for Marion.",
-            "Marion had no problems to come to a decision."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4,
         "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: When she came into the kitchen, she saw octopuses hanging from the cupboard knobs. \nKeyword: upon\nRephrased sentence:",
         "targets": [
             "Upon entering the kitchen, she saw octopuses hanging from the cupboard knobs.",
@@ -173,44 +58,158 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 33,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: The prime minister's son could not believe she has never had oysters before. \nKeyword: unfathomable\nRephrased sentence:",
-        "targets": [
-            "Steve’s girlfriend found out he had cheated on her due to drawing the right conclusions from the wrong evidence.",
-            "Due to drawing the right conclusions from the wrong evidence, Steve’s girlfriend found out he had cheated on her."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 0,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Marion had no problems to decide. \nKeyword: decision\nRephrased sentence:",
-        "targets": [
-            "The number of students now at university is the highest it has ever been, apparently.",
-            "The number of students now at university is the highest that it has ever been, apparently.",
-            "The number of students now at university is the highest which it has ever been, apparently."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 56,
+        "idx": 59,
         "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: As long as you explain the process clearly at the conference, your boss will be pleased. \nKeyword: give\nRephrased sentence:",
         "targets": [
-            "Everyone is impressed by how amazing Ariadne's tarts are time and again.",
-            "Time and again, everyone is impressed by how amazing Ariadne's tarts are."
+            "If you give a clear explanation of the process at the conference, your boss will be pleased."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 48,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: It was nothing Jenny ever wanted to achieve. \nKeyword: achievement\nRephrased sentence:",
+        "targets": [
+            "Jenny never wanted this achievement.",
+            "This achievement was nothing Jenny ever wanted."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 34,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I just saw Greta on stage as she walked towards the audience. \nKeyword: caught\nRephrased sentence:",
+        "targets": [
+            "I caught a glimpse of Greta on stage as she walked towards the audience.",
+            "I caught sight of Greta on stage as she walked towards the audience."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 71,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: When he was at his most successful, the President had enormous influence. \nKeyword: height\nRephrased sentence:",
+        "targets": [
+            "At the height of his success, the President had enormous influence."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 28,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Do you mind if I go on holiday next week? \nKeyword: objection\nRephrased sentence:",
+        "targets": [
+            "Do you have any objection if I go on holiday next week?",
+            "Do you have any objection to me going on holiday next week?",
+            "Is there any objection to my going on holiday next week?",
+            "Is there any objection to me going on holiday next week?",
+            "Do you have any objection to my going on holiday next week?",
+            "Do you have any objection to me going on holiday next week?"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 41,
-        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: The Carolina reaper is one of the hottest chilis in the world and it was possibly not a good idea to feed it to your friend. \nKeyword: been\nRephrased sentence:",
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: They were out of potatoes at the supermarket. \nKeyword: not\nRephrased sentence:",
         "targets": [
-            "The Spanish inquisition came as a surprise.",
-            "The Spanish inquisition came as a complete surprise.",
-            "The Spanish inquisition came as a total surprise.",
-            "The Spanish inquisition came as a shock."
+            "They did not have potatoes at the supermarket.",
+            "They did not have potatoes in stock at the supermarket."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Paul might quit his career in science and open a yoga studio. \nKeyword: possible\nRephrased sentence:",
+        "targets": [
+            "It is possible that Paul quits his career in science and opens a yoga studio.",
+            "It is possible Paul quits his career in science to open a yoga studio.",
+            "It is possible Paul quits his career in science and opens a yoga studio."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 29,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Laetitia had her baby 8 months ago. \nKeyword: was\nRephrased sentence:",
+        "targets": [
+            "It was 8 months ago that Laetitia had her baby.",
+            "That Laetitia had her baby was 8 months ago.",
+            "Laetitia having a baby was 8 months ago.",
+            "It was 8 months ago Laetitia had her baby."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: There is nobody faster and better at bouldering than Harris. \nKeyword: everyone\nRephrased sentence:",
+        "targets": [
+            "Harris is faster and better at bouldering than everyone else.",
+            "Harris is faster and better at bouldering than everyone.",
+            "Harris is faster and better than everyone at bouldering.",
+            "At bouldering Harris is faster and better than everyone."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 40,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Kayaking is safer than paragliding. \nKeyword: more\nRephrased sentence:",
+        "targets": [
+            "Paragliding is more dangerous than kayaking.",
+            "Kayaking is not more dangerous than paragliding."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 51,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Rick Astley is very patient, he'll never give you up. \nKeyword: too\nRephrased sentence:",
+        "targets": [
+            "Rick Astley is too patient to give you up.",
+            "Rick Astley is too patient to ever give you up.",
+            "Rick Astley is too patient, he'll never give you up."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 34,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: I just saw Greta on stage as she walked towards the audience. \nKeyword: caught\nRephrased sentence:",
+        "targets": [
+            "I caught a glimpse of Greta on stage as she walked towards the audience.",
+            "I caught sight of Greta on stage as she walked towards the audience."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: Pineapples have the connotation of friendship, wealth and luxury. \nKeyword: symbolise\nRephrased sentence:",
+        "targets": [
+            "Pineapples symbolise friendship, wealth and luxury."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 27,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: It is a great mystery how Christoph ended up in that job. \nKeyword: tell\nRephrased sentence:",
+        "targets": [
+            "Nobody can tell how Christoph ended up in that job.",
+            "There is no way to tell how Christoph ended up in that job."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 72,
+        "inputs": "Rephrase the sentences below so that they retain their meaning but contain the specified keyword.\n\nSentence: The driver instructed passengers to move down the bus. \nKeyword: way\nRephrased sentence:",
+        "targets": [
+            "Passengers were instructed to make their way down the bus by the driver.",
+            "Passengers were told to make their way down the bus by the driver."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

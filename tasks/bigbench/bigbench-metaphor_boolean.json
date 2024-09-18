@@ -1,9 +1,9 @@
 [
     {
         "idx": 388,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Katie’s plan to get into college was a house of cards on a crooked table <-->  Katie’s college was a house of cards on a crooked table\n  choice: True\n  choice: False\nA:",
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Here comes the fool with his foggy brain <-->  Here comes the fool with his clear vision\n  choice: True\n  choice: False\nA:",
         "targets": [
-            "True"
+            "False"
         ],
         "multiple_choice_targets": [
             "True",
@@ -15,10 +15,160 @@
         ]
     },
     {
-        "idx": 481,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Nobody cares about the roots of modern civilization. <-->  He was known as a colourful dog.\n  choice: True\n  choice: False\nA:",
+        "idx": 284,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: the crowd was a roaring river <-->  the crowd was impressive and looked like a river\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 431,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Katie’s plan to get into college was a house of cards on a crooked table <-->  Katie’s college was a house of cards on a crooked table\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 258,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Success is a bastard as it has many fathers; failure is an orphan with no takers. <-->  Success is a person born of parents not married to each other; failure does not have parents.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 83,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: He knew how to write sweet words <-->  He knew how to write down something nice and pleasant\n  choice: True\n  choice: False\nA:",
         "targets": [
             "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 481,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: She had a bright idea <-->  She had a complicated idea\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Duryodhan was the black sheep of the Kuru dynasty. <--> Duryodhan was a black colored sheep of the Kuru dynasty.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 552,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: She is fishing in troubled waters. <-->  She is fishing in a lake.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 53,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: He had a full bag of memories to unload. <-->  He had a lot of memories to unload.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 358,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: He felt a sudden red pain through his leg <-->  He felt a sudden intense pleasure through his leg\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 229,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: He thinks these documents will leak out soon or late <--> He thinks these documents will become known soon or late \n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 665,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Alexander's spirits rose. <--> Alexander was sad.\n\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
         ],
         "multiple_choice_targets": [
             "True",
@@ -31,7 +181,7 @@
     },
     {
         "idx": 70,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Success is a bastard as it has many fathers; failure is an orphan with no takers. <-->  Success is a kind of dog and failure is a child.\n  choice: True\n  choice: False\nA:",
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: She was the light of my life. <-->  When I was sad or in a bad mood she would always make me feel better.\n  choice: True\n  choice: False\nA:",
         "targets": [
             "True"
         ],
@@ -40,13 +190,88 @@
             "False"
         ],
         "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 667,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Arjun was in love. <--> Arjun was inside love.\n\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
             0,
             1
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: the crowd was a roaring river <-->  the crowd was huge and noisy\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The great gold apples of light hang from the street’s long bough dripping their light on the faces that drift below <-->  people are passing by and lamps hanging along the streets cast light on their faces\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 253,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Faith feeds among the tombs and even from these dead doubts she gathers her most vital hope. <-->  Faith comes from the tombs and feeds the doubts.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "False"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 204,
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: There were dark corners in his past things he didn't like to remember. <-->  There were negative elements in his past things he didn't like to remember.\n  choice: True\n  choice: False\nA:",
+        "targets": [
+            "True"
+        ],
+        "multiple_choice_targets": [
+            "True",
+            "False"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
         ]
     },
     {
         "idx": 20,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The war devoured so many lives. <-->  The war killed so many people.\n  choice: True\n  choice: False\nA:",
+        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Andrew's emails were beating a dead horse. <--> Andrew's emails had no success.\n  choice: True\n  choice: False\nA:",
         "targets": [
             "True"
         ],
@@ -55,238 +280,13 @@
             "False"
         ],
         "multiple_choice_scores": [
-            0,
-            1
+            1,
+            0
         ]
     },
     {
-        "idx": 117,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The guy was a floating whale in the small swimming pool. <-->  The guy looked fat and large while floating in the small swimming pool.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 171,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The republican convention was a horror show <-->  during the republican convention people talked about a horror show\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 26,
+        "idx": 636,
         "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Josh played Bach. <--> Josh played the composer Bach's music.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 77,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: You disagree ? Ok  shoot <-->  You disagree ? Ok  tell why\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 42,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: There were dark corners in his past things he didn't like to remember. <-->  There were excellent achievements in his past things he didn't like to remember.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 518,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The woman burst in a warm laughter <-->  The woman burst in a mad laughter\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 108,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Adam did not understand the root of the crisis <-->  Adam did not understand the reasons of the crisis\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 445,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: She said he was very sweet and he smiled <-->  She said he was covered in sugar and he smiled\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 476,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The guy was a floating whale in the small swimming pool. <-->  The guy looked short and agile in the small swimming pool.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 88,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: The faculty meeting was a breeze <--> At the faculty meeting we talked about the breeze \n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 388,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: You'd better keep away from Bill today because he's in a black mood. <-->  Bill is angry and sad and so you'd better keep away from him today.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 186,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: she cut him down with her words <-->  she left him bored with her words\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 348,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: I had already planted the idea in her mind. <-->  I had already planted the seed when an idea crossed my mind\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 195,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: You were hanging yourself on someone else 's words <-->  You were happy with what someone else had said\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "False"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 246,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Julia was an overbearing pizza with condescending toppings, and frankly, I was on a diet. <--> Julia was powerfully condescending, and I couldn't bear her attitude.\n  choice: True\n  choice: False\nA:",
-        "targets": [
-            "True"
-        ],
-        "multiple_choice_targets": [
-            "True",
-            "False"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 95,
-        "inputs": "The essence of the task: Given a metaphoric sentence, identify if the second sentence is the correct paraphrase of the first.\nQ: Words are weapons <--> Words are linguistic abstractions \n  choice: True\n  choice: False\nA:",
         "targets": [
             "True"
         ],

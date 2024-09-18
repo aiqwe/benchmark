@@ -1,9 +1,109 @@
 [
     {
         "idx": 388,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play Rob Mills album “The Golden Archipelago.”\nIntent:",
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: What is the “Michael Moore is a Big Fat Stupid White Man” video game.\nIntent:",
         "targets": [
-            "book_restaurant"
+            "search_creative_work"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 284,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: I want to add “Digital Line” to my playlist called infantil.\nIntent:",
+        "targets": [
+            "add_to_playlist"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 431,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: I’m looking for “Dead at 21,” the TV series.\nIntent:",
+        "targets": [
+            "search_creative_work"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 258,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add this track to the sin ti playlist.\nIntent:",
+        "targets": [
+            "add_to_playlist"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 83,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add “Strong” to the metal Monday playlist.\nIntent:",
+        "targets": [
+            "add_to_playlist"
         ],
         "multiple_choice_targets": [
             "add_to_playlist",
@@ -26,9 +126,134 @@
     },
     {
         "idx": 481,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Weather for the night time in New Mexico.\nIntent:",
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Give me the movie schedules for Warren Theatres.\nIntent:",
         "targets": [
             "search_screening_event"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Restaurant in Bulgaria this week, party of 9.\nIntent:",
+        "targets": [
+            "book_restaurant"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 552,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: What is the showtime for “Arsho”?\nIntent:",
+        "targets": [
+            "search_screening_event"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 53,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Rate the book “An Appeal from the New to the Old Whigs” a 0.\nIntent:",
+        "targets": [
+            "rate_book"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 358,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: “Cock-a-doodle-doo” was awful; I’m giving it a 0 out of 6.\nIntent:",
+        "targets": [
+            "rate_book"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 229,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Find the game “Company of Heroes.”\nIntent:",
+        "targets": [
+            "search_creative_work"
         ],
         "multiple_choice_targets": [
             "add_to_playlist",
@@ -50,10 +275,10 @@
         ]
     },
     {
-        "idx": 229,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add Karusellen to jazz brasileiro.\nIntent:",
+        "idx": 665,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Where’s the nearest movie house playing “No Trains No Planes”?\nIntent:",
         "targets": [
-            "rate_book"
+            "search_screening_event"
         ],
         "multiple_choice_targets": [
             "add_to_playlist",
@@ -67,16 +292,191 @@
         "multiple_choice_scores": [
             0,
             0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 70,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play some Steve Boyett chant music.\nIntent:",
+        "targets": [
+            "play_music"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
             1,
             0,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 667,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Can you add a track by David Wolfenberger to Janell’s all funked up playlist?\nIntent:",
+        "targets": [
+            "add_to_playlist"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play Arif music from the forties.\nIntent:",
+        "targets": [
+            "play_music"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play some sixties music.\nIntent:",
+        "targets": [
+            "play_music"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 253,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Find the schedule for “The Solitude of Prime Numbers” at the nearest cinema in 1 hour.\nIntent:",
+        "targets": [
+            "search_screening_event"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
             0,
             0
         ]
     },
     {
         "idx": 204,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add “I Dreamt of a Dragon” to my futuros hits playlist.\nIntent:",
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Put this album on my wild country playlist.\nIntent:",
+        "targets": [
+            "add_to_playlist"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Rate the current novel four of six stars.\nIntent:",
+        "targets": [
+            "rate_book"
+        ],
+        "multiple_choice_targets": [
+            "add_to_playlist",
+            "book_restaurant",
+            "get_weather",
+            "play_music",
+            "search_screening_event",
+            "search_creative_work",
+            "rate_book"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 636,
+        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play artist Vlada Divljan from something he did that is good.\nIntent:",
         "targets": [
             "play_music"
         ],
@@ -93,408 +493,8 @@
             0,
             0,
             0,
-            0,
             1,
             0,
-            0
-        ]
-    },
-    {
-        "idx": 484,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: For the current story, I give a rating of 2 of 6 stars.\nIntent:",
-        "targets": [
-            "play_music"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 377,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add this tune to Cristina’s endorphin rush playlist.\nIntent:",
-        "targets": [
-            "rate_book"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 110,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Book a table for two at a restaurant near Forest Av. 1 second from now.\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 203,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Need a table for party of five for December 26, 2040 in the state of Montana.\nIntent:",
-        "targets": [
-            "book_restaurant"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 123,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add song to my wild country playlist.\nIntent:",
-        "targets": [
-            "book_restaurant"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 379,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Add Karusellen to jazz brasileiro.\nIntent:",
-        "targets": [
-            "get_weather"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 430,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Rate “Maps for Lost Lovers” 1 of 6.\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 470,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Play Geddy Lee music on Spotify, sort by top.\nIntent:",
-        "targets": [
-            "add_to_playlist"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 276,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: In Hawaii will it be warmer at 3 am?\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 274,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: At dinnertime while I’m here, will it be hot?\nIntent:",
-        "targets": [
-            "book_restaurant"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 461,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Plan an album by Roni Duani.\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 29,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: What animated movies are playing nearby?\nIntent:",
-        "targets": [
-            "search_screening_event"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 217,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Please play an album from 1987.\nIntent:",
-        "targets": [
-            "add_to_playlist"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 282,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Can you put a song by Jessica Mauboy on my playlist entitled a sudden rainstorm.\nIntent:",
-        "targets": [
-            "rate_book"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 247,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: The chronicle “Charlie Peace” earns 4 stars from me.\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 502,
-        "inputs": "Predict the intent of the utterance. The possible choices for the intents are: add_to_playlist, book_restaurant, get_weather, play_music, search_screening_event, search_creative_work, and rate_book.\n\nUtterance: Find the picture “Ultima VI: The False Prophet.”\nIntent:",
-        "targets": [
-            "search_creative_work"
-        ],
-        "multiple_choice_targets": [
-            "add_to_playlist",
-            "book_restaurant",
-            "get_weather",
-            "play_music",
-            "search_screening_event",
-            "search_creative_work",
-            "rate_book"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
             0,
             0
         ]

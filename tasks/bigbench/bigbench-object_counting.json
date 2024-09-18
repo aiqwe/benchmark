@@ -1,47 +1,7 @@
 [
     {
         "idx": 418,
-        "inputs": "Q: I have a drum, a piano, and a clarinet. How many musical instruments do I have?\nA:",
-        "targets": [
-            "three",
-            "3"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 298,
-        "inputs": "Q: I have a clarinet, a drum, a piano, an accordion, two flutes, and a violin. How many musical instruments do I have?\nA:",
-        "targets": [
-            "twelve",
-            "12"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 289,
-        "inputs": "Q: I have two trumpets, and a violin. How many musical instruments do I have?\nA:",
-        "targets": [
-            "sixteen",
-            "16"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 239,
-        "inputs": "Q: I have a lamp, and three tables. How many objects do I have?\nA:",
-        "targets": [
-            "seven",
-            "7"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 202,
-        "inputs": "Q: I have a trombone, three pianos, and a violin. How many musical instruments do I have?\nA:",
+        "inputs": "Q: I have a cow, a flute, a trombone, and a bear. How many musical instruments do I have?\nA:",
         "targets": [
             "two",
             "2"
@@ -50,58 +10,28 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 663,
+        "idx": 461,
         "inputs": "Q: I have an oven, a lamp, a car, a table, and a stove. How many objects do I have?\nA:",
         "targets": [
-            "nine",
-            "9"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 61,
-        "inputs": "Q: I have an onion, a garlic, a potato, a yam, a cauliflower, and two cabbages. How many vegetables do I have?\nA:",
-        "targets": [
-            "ten",
-            "10"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 582,
-        "inputs": "Q: I have an oven, a couch, a bed, five stoves, a lamp, and two toasters. How many objects do I have?\nA:",
-        "targets": [
-            "seventeen",
-            "17"
+            "five",
+            "5"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 705,
-        "inputs": "Q: I have a chicken, a goat, a donkey, and a duck. How many animals do I have?\nA:",
+        "inputs": "Q: I have a clarinet, a trumpet, a piano, a trombone, an accordion, a violin, and a flute. How many musical instruments do I have?\nA:",
         "targets": [
-            "twelve",
-            "12"
+            "seven",
+            "7"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 512,
-        "inputs": "Q: I have a lettuce head, three heads of broccoli, an oven, a yam, a potato, a lamp, a cauliflower, four stalks of celery, a cabbage, a microwave, and two onions. How many vegetables do I have?\nA:",
-        "targets": [
-            "sixteen",
-            "16"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 612,
-        "inputs": "Q: I have a lamp, a microwave, a table, a fridge, a stove, four beds, a toaster, an oven, two couches, and a chair. How many objects do I have?\nA:",
+        "idx": 608,
+        "inputs": "Q: I have a piano, a trumpet, and two accordions. How many musical instruments do I have?\nA:",
         "targets": [
             "four",
             "4"
@@ -110,18 +40,8 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 618,
-        "inputs": "Q: I have three ovens, a dog, five bears, a snake, a chicken, a fish, a microwave, a mouse, and a car. How many animals do I have?\nA:",
-        "targets": [
-            "eight",
-            "8"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 690,
-        "inputs": "Q: I have four nectarines, a banana, and a peach. How many fruits do I have?\nA:",
+        "idx": 481,
+        "inputs": "Q: I have a stove, a fridge, an oven, and a toaster. How many objects do I have?\nA:",
         "targets": [
             "four",
             "4"
@@ -130,58 +50,28 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 688,
-        "inputs": "Q: I have a blackberry, and two peaches. How many fruits do I have?\nA:",
+        "idx": 298,
+        "inputs": "Q: I have a duck, a goat, a rabbit, and a bear. How many animals do I have?\nA:",
         "targets": [
-            "eleven",
-            "11"
+            "four",
+            "4"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 774,
-        "inputs": "Q: I have four bananas, a raspberry, two peaches, and an apple. How many fruits do I have?\nA:",
+        "idx": 33,
+        "inputs": "Q: I have an accordion, a yam, two clarinets, a garlic, a cauliflower, a cabbage, and a flute. How many vegetables do I have?\nA:",
         "targets": [
-            "fourteen",
-            "14"
+            "four",
+            "4"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 452,
-        "inputs": "Q: I have an accordion, a violin, two flutes, a trombone, two trumpets, a piano, and a clarinet. How many musical instruments do I have?\nA:",
-        "targets": [
-            "fourteen",
-            "14"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 650,
-        "inputs": "Q: I have a trumpet, a clarinet, an accordion, a piano, and a trombone. How many musical instruments do I have?\nA:",
-        "targets": [
-            "eight",
-            "8"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 418,
-        "inputs": "Q: I have a raspberry, an apple, a banana, and a strawberry. How many fruits do I have?\nA:",
-        "targets": [
-            "six",
-            "6"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 164,
-        "inputs": "Q: I have an onion, two potatoes, a yam, and a garlic. How many vegetables do I have?\nA:",
+        "idx": 237,
+        "inputs": "Q: I have four chairs, a toaster, a stove, a bed, an oven, a table, a fridge, and a car. How many objects do I have?\nA:",
         "targets": [
             "eleven",
             "11"
@@ -191,10 +81,120 @@
     },
     {
         "idx": 295,
-        "inputs": "Q: I have a plum, an apple, two bananas, an orange, a grape, two strawberries, a raspberry, a nectarine, and three blackberries. How many fruits do I have?\nA:",
+        "inputs": "Q: I have a blackberry, a microwave, a strawberry, two plums, a banana, four nectarines, an orange, a peach, a grape, two raspberries, and two apples. How many fruits do I have?\nA:",
+        "targets": [
+            "sixteen",
+            "16"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 723,
+        "inputs": "Q: I have a toaster, a microwave, a couch, a lamp, and a car. How many objects do I have?\nA:",
+        "targets": [
+            "five",
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 289,
+        "inputs": "Q: I have a blackberry, an apple, a plum, and a peach. How many fruits do I have?\nA:",
+        "targets": [
+            "four",
+            "4"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 719,
+        "inputs": "Q: I have three clarinets, and a trombone. How many musical instruments do I have?\nA:",
+        "targets": [
+            "four",
+            "4"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 880,
+        "inputs": "Q: I have an orange, a banana, a plum, a grape, and a blackberry. How many fruits do I have?\nA:",
+        "targets": [
+            "five",
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 464,
+        "inputs": "Q: I have two fridges, a lamp, a couch, a table, an oven, a stove, two beds, and two toasters. How many objects do I have?\nA:",
         "targets": [
             "eleven",
             "11"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 72,
+        "inputs": "Q: I have four pianos, two strawberries, two trumpets, a flute, a banana, an apple, a peach, two raspberries, a grape, a blackberry, an orange, and a plum. How many fruits do I have?\nA:",
+        "targets": [
+            "eleven",
+            "11"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 703,
+        "inputs": "Q: I have four donkeys, a mouse, and a cow. How many animals do I have?\nA:",
+        "targets": [
+            "six",
+            "6"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 239,
+        "inputs": "Q: I have a stove, a table, a toaster, a fridge, a microwave, three ovens, a car, a couch, four chairs, and a lamp. How many objects do I have?\nA:",
+        "targets": [
+            "fifteen",
+            "15"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 946,
+        "inputs": "Q: I have a plum, a blackberry, and a raspberry. How many fruits do I have?\nA:",
+        "targets": [
+            "three",
+            "3"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 270,
+        "inputs": "Q: I have a potato, an onion, a carrot, a yam, and a lettuce head. How many vegetables do I have?\nA:",
+        "targets": [
+            "five",
+            "5"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 806,
+        "inputs": "Q: I have a piano, three clarinets, a drum, and four accordions. How many musical instruments do I have?\nA:",
+        "targets": [
+            "nine",
+            "9"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

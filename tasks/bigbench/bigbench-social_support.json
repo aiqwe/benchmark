@@ -1,7 +1,75 @@
 [
     {
         "idx": 480,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\n- Tony could've modified it later. Rhodey did seem to be extremely comfortable inside the armor for someone whose supposedly donning it for the first time.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 490,
         "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\n- The problem with \"curious\" is that it has two possible meanings in the sentence you propose -- it either means the cat exhibits curiosity or that the cat is rather strange. If you put \"curious\" first, before other adjectives, the implication is that the cat is strange. Put it last, though, and you imply that the cat exhibits curiosity.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "supportive"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 451,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nI've updated to include the word \"any\" before \"grabbing hitch\". I was simply trying to describe any slide & grip hitch that you can attach to the rope - autoblock, prusik, machard, bachmann etc..\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 348,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThe WAGE is the key factor here. Take all the advice in his post and 99% of people still wont be a Millionaire. Give his wage to most people and you bet your ass they could EASILY save that sort of money.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 188,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nYes, attempts to update the graph to a newer version produced by the same engineer at Google have been reverted because he has not made clear what the copyright is on the new graph.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
             "neutral"
         ],
@@ -18,6 +86,23 @@
     },
     {
         "idx": 52,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nSo basically according to you: If you always fuck him, hes going to get insecure and upset. If you never fuck him, hes going to get insecure and upset. Good standards.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "unsupportive"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 258,
         "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\n>No, I figure anarchy = New Orleans post-Katrina, except on a vast, national scale, with no hope of intervention by the National Guard, FEMA, etc.  Thats exactly what I mean. It was bad after Katrina BUT, the stories of looting and violence where greatly exaggerated (mostly by the media). I knew people who came to my town afterwards, the stories made me more afraid of what my government and police would do in an apocalypse instead of the general populace.   >And anyway, I already grow hops at home. If I can get some grains growing, I can make my own beer, too.  Now that is forward thinking! LOL  >Thats because Ive no plans!  Thats what most people tend to say and I cant blame them. Ive lived through a Category 4/5 Hurricane that pretty much destroyed my town and left us without power for a month. The water wasnt safe unless it was boiled (and made you sick if you drank it). There were food lines, National Guard roaming the streets, etc etc. It sucked in general. Whats worse is that there was already no food because everyone ran for the grocery stores before the storm hit. There was so much debris stores couldnt get stocked for several days.  My grandmother was smart though, and had a ton of food in our freezer and pantry. Even though we had plenty she was like Go in the food lines and get more, you cant be too prepared. Ill never forget that.  Thats why I keep a stock of food and supplies ready. Its not like Ive got a HUGE stockpile but I could probably live off of it for a a few months. If I had the money Id buy 4-5 of those containers that have like 120 meals in them. Most survival food has a shelf life of 10+ years anyway, so it pretty much can sit in the corner until its needed.  >Never expected to get dragged into a serious discussion in a thread about what kind of vehicle I wanted if the apocalypse happened...  Reddit is a magical place.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
             "neutral"
@@ -34,10 +119,129 @@
         ]
     },
     {
+        "idx": 882,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThere is a vast amount of information on Concorde in the ''Flight'' global archive, online here: <link>\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 489,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThis basically sums up every single thread in which someone describes a relationship issue. >Just end it, bro. Its clearly not working.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 116,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nYour comment doesnt make sense in relation to mine.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
         "idx": 841,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nEvery spell does nice with it. Especially lightning spells because you can then use orb of storms in your gloves to activate elemental overload. Use oos with coh or innervate + culling or any other utility you like. Probably the best thing would be storm call because it scales very well with iaoe.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 66,
         "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nping|JohnBlackburne Thank you for your message and help with this matter. I believe that this article is notable enough for its own article. The only reason why I created the AFD was that a new user kept putting a delete tag on it. I apologize for any inconvenience or incorrect behavior on my part. Thank you again.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
             "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 410,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThe above has been up for almost a month with no comment. Does anyone object if I delete the sentence? Slrubenstein |\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 503,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nOf course there is something to be shown. The dimension of <math item> (whether seen as <math item>, <math item> or any other) over <math item> is not any axiom whatsoever. It is a computation. It has to be shown.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 75,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nI don't think I'm the \"user who wants to reintroduce clear anti-Blair bias\", but I have made one small edit which you have reverted without explanation.  I changed the \"made clear\" in (Blair) \"..has made clear he receives no personal profit from this advisory role\" to \"stated that\".  Firstly, \"made clear\" in normal usage means something like \"has explained with supporting evidence\", which is not true in this case- all that has happened is that Blair's spokesman has said it.  Only in political spin-land does such a simple assertion get dignified & distorted into something being \"made clear\".  Instead of \"stated that\" we could have \"said\" or \"claimed\", but I thought that \"stated\" was value-free. :Furthermore, there is a secondary weasel in the statement- the hard-to-support difference between personal profit and (one presumes) profit for his company, TBAssoc, so I'm not even sure that this statement should be repeated in WP in this form anyway.  Most people would find a distinction between personal profit ad profit for one's company laughable.  I hope I've \"made clear\" that \"made clear\" is unsupportable.  Please don't revert it again. :\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "unsupportive"
         ],
         "multiple_choice_targets": [
             "unsupportive",
@@ -52,77 +256,26 @@
     },
     {
         "idx": 590,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThere's nothing wrong with the quotations or discussing her art.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "targets": [
+            "unsupportive"
+        ],
+        "multiple_choice_targets": [
+            "unsupportive",
+            "neutral",
+            "supportive"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 644,
         "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nCan the reader who goes by the letters RPJ just stop for a minute? Where have I ever let my personal opinions cause me to edit the article in a non NPOV way. [...] I may say things on the talk page that is for one position and against the other, but that is why there is a talk page. I wouldn't put it into the article. Here's the deal, I gave you an opportunity to convince me, you haven't, so move on. Let's get the article unlocked.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
-            "supportive"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 152,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nNo, only you said that it was RS, the other two, start claiming that they where fabricated(evil pedophile plot). It belongs where? It's not about adult-child sex, it's more about.... child-child sex, are you proposing this article then? [...] This material was here for years until September, check it out. The article it self says that they are two views, ither its all culture, or it's all biology. A bunch of the article, sais that \"this is normative for western societies\"\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 254,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nI was on that escalator last year the when it broke down... nothing like 150 feet worth of people falling all over each other.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "supportive"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 620,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThrown up on meeeeheeeheeeee.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 794,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThat is the problem, it is not just a picture, it lags behind the big cursor, it does not disappear when I am watching videos (which is confusing to some streaming networks), and it lags my computer.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
+            "unsupportive"
         ],
         "multiple_choice_targets": [
             "unsupportive",
@@ -136,163 +289,10 @@
         ]
     },
     {
-        "idx": 304,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nDifficult to blend with the design. For example in a novel, they might look ok, but not in many other publications. Ask yourself, what function do they serve? Their function is only decorative, so in effect you decorating a page! Technically there is no problem to handle them with (La)TeX. What type of book are you writing?\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "idx": 702,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nWow, indeed you are correct. The help on that tool is very misleading. I should have tested it first. My apologies. Feel free to downvote this answer.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
             "supportive"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 582,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nYes, we Canadians all spell it \"Mom\" but we do generally say \"mum\"... the long-o of \"moooom\" you hear on commercials still sounds very American.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 101,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nMedicine is more concerned with actual medical fact that can be peer-reviewed and clinically tested instead of the vague terms first-world internet users come up with because they need to feel special.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 270,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nsorry, I'm afraid of I didn't understood your arguments. The language descriptiors and the classes autogenerated can be part or not of the project. But in any case I don't see why I could lose versioning/source code management. [...] On another hand, might seem that there are 2 different languages, but that's temporary. Once the language is done, you only set strings. Like Cron expressions. At long run there's way less thing to be worried about.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 177,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThat's nice Rick. ::\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 418,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\n- I didn't convince anybody to do anything, the posts didn't even attempt to answer my questions and, if only English, out of all other European languages, developed that connotation, it may probably be for some specific historical/cultural reason. Note that the term has the same Latin origin for all languages.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 298,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nBut they caint vote no muhr if Obarmer gits hid way. Heuh Moslum commie.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 289,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nnotdone. Please provide a reliable source that this is a '''''common''''' misconception.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "supportive"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 703,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nMaybe, but if you end up in a Golden Corral, perhaps your excess is deterministic.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "unsupportive",
-            "neutral",
-            "supportive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 640,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nWell you could start by using an account not an IP address then you might have some credibility,  My user page gives you access to who I am and email if you want, its not blocked and I belong to the group who would ban IP editors.  Suggest you declare who you are.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
-        "targets": [
-            "neutral"
         ],
         "multiple_choice_targets": [
             "unsupportive",
@@ -306,10 +306,10 @@
         ]
     },
     {
-        "idx": 435,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nI haven't yet sent an email to anyone about this problem. You can see the comments to other editors on 5 or 6 of the Talk pages of the 15 or 16 articles where you have placed duplicate POV material. [...] The cut and pasting of duplicate POV material inevitably duplicates Talk pages. If you do not want duplicate discussion on duplicate Talk pages, it wouldn be advisable not to duplicate POV content in the first place.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "idx": 54,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nAgreed. That said, since homeopathy is an often used example of quackery, whether rightly or wrongly, I feel it should thus be included in the category, just as the The National Council Against Health Fraud is listed. That organisation isn't quackery, but it does pertain to the issue.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
-            "supportive"
+            "neutral"
         ],
         "multiple_choice_targets": [
             "unsupportive",
@@ -323,8 +323,8 @@
         ]
     },
     {
-        "idx": 152,
-        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nAw thanks! And theres no way Im posting my fat ass on the internet. Haha.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
+        "idx": 155,
+        "inputs": "Q: Is the following reply unsupportive, neutral, or supportive?\n\nThat was added at 6:05, removed at 6:07, and your message was posted at 6:31.\n  choice: neutral\n  choice: supportive\n  choice: unsupportive\nA:",
         "targets": [
             "neutral"
         ],

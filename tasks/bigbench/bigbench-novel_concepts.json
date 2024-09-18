@@ -1,140 +1,72 @@
 [
     {
-        "idx": 13,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) bamboo 2) memory 3) lines\nA:",
+        "idx": 27,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) normal distribution 2) Pavlov 3) carillon\nA:",
         "targets": [
-            "They all use specialized shoes."
+            "They all relate to bells."
         ],
         "multiple_choice_targets": [
-            "They are both prisons.",
-            "They are both tourist attractions.",
-            "They are both kings.",
-            "They are both castles.",
-            "They are both birds."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) blue whales 2) Jupiter 3) top quarks 4) Mt. Everest\nA:",
-        "targets": [
-            "They all involve frames."
-        ],
-        "multiple_choice_targets": [
-            "They are all types of injury.",
-            "They are all body parts.",
-            "They are all types of cuts.",
-            "They are all personal styles.",
-            "They are all investments."
+            "They all relate to conditioning.",
+            "They all relate to psychology.",
+            "They all relate to music.",
+            "They all relate to statistics.",
+            "They all relate to bells."
         ],
         "multiple_choice_scores": [
             0,
             0,
             0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) local 2) cable 3) cell\nA:",
+        "targets": [
+            "They are all types of networks."
+        ],
+        "multiple_choice_targets": [
+            "They are all types of networks.",
+            "They are all types of utilities.",
+            "They are all locations.",
+            "They are expensive.",
+            "They are all biological concepts.."
+        ],
+        "multiple_choice_scores": [
             1,
+            0,
+            0,
+            0,
             0
         ]
     },
     {
-        "idx": 11,
+        "idx": 17,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) amateur radio 2) prosciutto 3) exaggerated acting\nA:",
+        "targets": [
+            "They are all ham."
+        ],
+        "multiple_choice_targets": [
+            "They are all overdone.",
+            "They are all ham.",
+            "They are all tasty.",
+            "They are not professional.",
+            "They all use electronics."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9,
         "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) avalanches 2) rock polishing 3) gymnastics\nA:",
         "targets": [
-            "They all use specialized shoes."
-        ],
-        "multiple_choice_targets": [
-            "They all can treat injuries.",
-            "They all can fix clothes.",
-            "They all can help repair something.",
-            "They all can be used for crafts.",
-            "They all are tools.",
-            "They all involve doctors.",
-            "They all are metal.",
-            "They all can be used for repairs.",
-            "They all are objects.",
-            "They all are messy."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 3,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) hair 2) laceration 3) short\nA:",
-        "targets": [
-            "They all involve frames."
-        ],
-        "multiple_choice_targets": [
-            "They all are coverings.",
-            "They all go on top of something.",
-            "They all are round.",
-            "They all are expensive.",
-            "They all are made of cloth."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 6,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) picture 2) issue 3) reference\nA:",
-        "targets": [
-            "They all can help repair something."
-        ],
-        "multiple_choice_targets": [
-            "They all involve performances.",
-            "They all involve spins.",
-            "They all involve deception.",
-            "They all involve magnets.",
-            "They all involve metal."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 2,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) magnetic resonance imaging 2) propaganda 3) figure skating\nA:",
-        "targets": [
-            "They all are the largest of their kind."
-        ],
-        "multiple_choice_targets": [
-            "They are all types of injury.",
-            "They are all body parts.",
-            "They are all types of cuts.",
-            "They are all personal styles.",
-            "They are all investments."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 14,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) avalanches 2) rock polishing 3) gymnastics\nA:",
-        "targets": [
-            "They all can be used to measure time."
+            "They all involve tumbling."
         ],
         "multiple_choice_targets": [
             "They all involve risk.",
@@ -152,17 +84,59 @@
         ]
     },
     {
-        "idx": 6,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) ballet 2) snow 3) running 4) snorkeling\nA:",
+        "idx": 13,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) green 2) light 3) dog 4) ware\nA:",
         "targets": [
-            "They all involve frames."
+            "They are all types of house."
         ],
         "multiple_choice_targets": [
-            "They all can be used to store energy.",
-            "They all can be found at desert dunes.",
-            "They all involve expansion.",
-            "They all can be used to measure time.",
-            "They all involve waves."
+            "They are all types of house.",
+            "They are all colors.",
+            "They are all types of color.",
+            "They are all adjectives.",
+            "They are all pottery."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) local 2) cable 3) cell\nA:",
+        "targets": [
+            "They are all types of networks."
+        ],
+        "multiple_choice_targets": [
+            "They are all types of networks.",
+            "They are all types of utilities.",
+            "They are all locations.",
+            "They are expensive.",
+            "They are all biological concepts.."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 6,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) magnetic resonance imaging 2) propaganda 3) figure skating\nA:",
+        "targets": [
+            "They all involve spins."
+        ],
+        "multiple_choice_targets": [
+            "They all involve performances.",
+            "They all involve spins.",
+            "They all involve deception.",
+            "They all involve magnets.",
+            "They all involve metal."
         ],
         "multiple_choice_scores": [
             0,
@@ -174,30 +148,9 @@
     },
     {
         "idx": 5,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) snowman 2) marzipan fruit 3) rubber plant\nA:",
-        "targets": [
-            "They are all types of cuts."
-        ],
-        "multiple_choice_targets": [
-            "They all use pools.",
-            "They are all types of dance.",
-            "They all use specialized shoes.",
-            "They all involve water.",
-            "They all require effort."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 10,
         "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) sewing 2) wrenches 3) glue 4) surgery\nA:",
         "targets": [
-            "They all involve spins."
+            "They all can help repair something."
         ],
         "multiple_choice_targets": [
             "They all can treat injuries.",
@@ -214,16 +167,63 @@
         "multiple_choice_scores": [
             0,
             0,
+            1,
+            0,
+            0,
+            0,
             0,
             1,
+            0,
             0
         ]
     },
     {
-        "idx": 12,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) ballet 2) snow 3) running 4) snorkeling\nA:",
+        "idx": 24,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) snowman 2) marzipan fruit 3) rubber plant\nA:",
         "targets": [
-            "They all involve frames."
+            "They are all inanimate, but made to imitate something animate."
+        ],
+        "multiple_choice_targets": [
+            "They are all inanimate, but made to imitate something animate.",
+            "They are all animate, but made to imitate something inanimate.",
+            "They are all objects, but made to imitate humans.",
+            "They are all used in the winter.",
+            "They are all made of water."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 6,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) magnetic resonance imaging 2) propaganda 3) figure skating\nA:",
+        "targets": [
+            "They all involve spins."
+        ],
+        "multiple_choice_targets": [
+            "They all involve performances.",
+            "They all involve spins.",
+            "They all involve deception.",
+            "They all involve magnets.",
+            "They all involve metal."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) bike 2) piano 3) brake\nA:",
+        "targets": [
+            "They are all types of pedals."
         ],
         "multiple_choice_targets": [
             "They are all types of vehicles.",
@@ -235,16 +235,121 @@
         "multiple_choice_scores": [
             0,
             0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) bike 2) piano 3) brake\nA:",
+        "targets": [
+            "They are all types of pedals."
+        ],
+        "multiple_choice_targets": [
+            "They are all types of vehicles.",
+            "They are all used to stop.",
+            "They are all types of pedals.",
+            "They are all used for transportation.",
+            "They are all musical instruments."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) bamboo 2) memory 3) lines\nA:",
+        "targets": [
+            "They all have segments."
+        ],
+        "multiple_choice_targets": [
+            "They all have leaves.",
+            "They all are geometric.",
+            "They all are straight.",
+            "They all have segments.",
+            "They all are living."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
             0,
             1,
             0
         ]
     },
     {
-        "idx": 6,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) folding 2) committee 3) lounge\nA:",
+        "idx": 2,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) bumble bees 2) cell phones 3) exciting news\nA:",
         "targets": [
-            "They are all types of cuts."
+            "They all can make a buzz."
+        ],
+        "multiple_choice_targets": [
+            "They all can make calls.",
+            "They all are in papers.",
+            "They all can make a buzz.",
+            "They all come in swarms.",
+            "They all have antennae."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) pruning trees 2) complex analysis 3) closing stores in a franchise\nA:",
+        "targets": [
+            "They all involve branch cuts."
+        ],
+        "multiple_choice_targets": [
+            "They all involve integration.",
+            "They all involve management.",
+            "They all involve growing.",
+            "They all involve branch cuts.",
+            "They all involve saws"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) chess 2) Catholicism 3) Berkeley\nA:",
+        "targets": [
+            "They all involve bishops."
+        ],
+        "multiple_choice_targets": [
+            "They all involve games.",
+            "They all involve religion.",
+            "They all involve queens.",
+            "They all involve mass.",
+            "They all involve bishops."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) snowman 2) marzipan fruit 3) rubber plant\nA:",
+        "targets": [
+            "They are all inanimate, but made to imitate something animate."
         ],
         "multiple_choice_targets": [
             "They are all inanimate, but made to imitate something animate.",
@@ -254,48 +359,6 @@
             "They are all made of water."
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) rooks in chess 2) the Tower of London\nA:",
-        "targets": [
-            "They all involve spins."
-        ],
-        "multiple_choice_targets": [
-            "They all use pools.",
-            "They are all types of dance.",
-            "They all use specialized shoes.",
-            "They all involve water.",
-            "They all require effort."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 12,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) avalanches 2) rock polishing 3) gymnastics\nA:",
-        "targets": [
-            "They all involve spins."
-        ],
-        "multiple_choice_targets": [
-            "They are both prisons.",
-            "They are both tourist attractions.",
-            "They are both kings.",
-            "They are both castles.",
-            "They are both birds."
-        ],
-        "multiple_choice_scores": [
             1,
             0,
             0,
@@ -304,122 +367,69 @@
         ]
     },
     {
-        "idx": 2,
+        "idx": 5,
         "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) sewing 2) wrenches 3) glue 4) surgery\nA:",
         "targets": [
-            "They all are the largest of their kind."
+            "They all can help repair something."
         ],
         "multiple_choice_targets": [
-            "They are both prisons.",
-            "They are both tourist attractions.",
-            "They are both kings.",
-            "They are both castles.",
-            "They are both birds."
+            "They all can treat injuries.",
+            "They all can fix clothes.",
+            "They all can help repair something.",
+            "They all can be used for crafts.",
+            "They all are tools.",
+            "They all involve doctors.",
+            "They all are metal.",
+            "They all can be used for repairs.",
+            "They all are objects.",
+            "They all are messy."
         ],
         "multiple_choice_scores": [
             0,
             0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 13,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) picture 2) issue 3) reference\nA:",
-        "targets": [
-            "They are all types of cuts."
-        ],
-        "multiple_choice_targets": [
-            "They are all types of injury.",
-            "They are all body parts.",
-            "They are all types of cuts.",
-            "They are all personal styles.",
-            "They are all investments."
-        ],
-        "multiple_choice_scores": [
             1,
             0,
             0,
+            0,
+            0,
+            1,
             0,
             0
         ]
     },
     {
-        "idx": 8,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) lawyers 2) basketball 3) walled yards\nA:",
+        "idx": 18,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) coconut 2) paint 3) motor\nA:",
         "targets": [
-            "They all are the largest of their kind."
+            "They all are related to oil."
         ],
         "multiple_choice_targets": [
-            "They all use pools.",
-            "They are all types of dance.",
-            "They all use specialized shoes.",
-            "They all involve water.",
-            "They all require effort."
+            "They all are related to air.",
+            "They all are dangerous.",
+            "They all are liquids.",
+            "They all are natural.",
+            "They all are related to oil."
         ],
         "multiple_choice_scores": [
             0,
             0,
             0,
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 3,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) boats 2) tablecloths 3) crowns\nA:",
+        "idx": 23,
+        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) squirrel foraging 2) memoization 3) web browsers\nA:",
         "targets": [
-            "They all involve drilling."
+            "They all involve caching."
         ],
         "multiple_choice_targets": [
-            "They all can be used to store energy.",
-            "They all can be found at desert dunes.",
-            "They all involve expansion.",
-            "They all can be used to measure time.",
-            "They all involve waves."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 0,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) ballet 2) snow 3) running 4) snorkeling\nA:",
-        "targets": [
-            "They all can be used to measure time."
-        ],
-        "multiple_choice_targets": [
-            "They all are cold.",
-            "They all are very large things.",
-            "They all are enormous.",
-            "They all are the largest of their kind.",
-            "They all have low oxygen."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 6,
-        "inputs": "Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.\nWhat do the following have in common? 1) rooks in chess 2) the Tower of London\nA:",
-        "targets": [
-            "They all involve tumbling."
-        ],
-        "multiple_choice_targets": [
-            "They all can be used to store energy.",
-            "They all can be found at desert dunes.",
-            "They all involve expansion.",
-            "They all can be used to measure time.",
-            "They all involve waves."
+            "They all involve programming.",
+            "They all involve caching.",
+            "They all involve nuts.",
+            "They all involve recursion.",
+            "They all involve computers."
         ],
         "multiple_choice_scores": [
             0,

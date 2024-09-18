@@ -1,9 +1,129 @@
 [
     {
         "idx": 1592,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nI am your free dependant. Quick, dispatch, and send the head to Angelo. Now will I write letters to Angelo,-- The provost, he shall bear them, whose contents Shall witness to him I am near at home, And that, by great injunctions, I am bound To enter publicly: him I'll desire To meet me at the consecrated fount A league below the city; and from thence, By cold gradation and well-balanced form, We shall proceed with Angelo. Here is the head; I'll carry it myself.\nIn the preceding dialogue, were the lines \"Here is the head; I'll carry it myself.\" and \"I am your free dependant.\" spoken by the same person or different people?\nAnswer:",
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nOld woman! what old woman's that? Nay, it is my maid's aunt of Brentford. A witch, a quean, an old cozening quean! Have I not forbid her my house? She comes of errands, does she? We are simple men; we do not know what's brought to pass under the profession of fortune-telling. She works by charms, by spells, by the figure, and such daubery as this is, beyond our element we know nothing. Come down, you witch, you hag, you; come down, I say! Nay, good, sweet husband! Good gentlemen, let him not strike the old woman.\nIn the preceding dialogue, were the lines \"Nay, it is my maid's aunt of Brentford.\" and \"Old woman! what old woman's that?\" spoken by the same person or different people?\nAnswer:",
         "targets": [
             "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nCalls your worship? Was not Charles, the duke's wrestler, here to speak with me? So please you, he is here at the door and importunes access to you. Call him in. 'Twill be a good way; and to-morrow the wrestling is. Good morrow to your worship. Good Monsieur Charles, what's the new news at the new court?\nIn the preceding dialogue, were the lines \"So please you, he is here at the door and importunes access to you.\" and \"Was not Charles, the duke's wrestler, here to speak with me?\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2886,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nYou never saw her since she was deformed. How long hath she been deformed? Ever since you loved her. I have loved her ever since I saw her; and still I see her beautiful. If you love her, you cannot see her. Why? Because Love is blind. O, that you had mine eyes; or your own eyes had the lights they were wont to have when you chid at Sir Proteus for going ungartered! What should I see then?\nIn the preceding dialogue, were the lines \"How long hath she been deformed?\" and \"If you love her, you cannot see her.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 879,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nThat's well said. Could great men thunder As Jove himself does, Jove would ne'er be quiet, For every pelting, petty officer Would use his heaven for thunder; Nothing but thunder! Merciful Heaven, Thou rather with thy sharp and sulphurous bolt Split'st the unwedgeable and gnarled oak Than the soft myrtle: but man, proud man, Drest in a little brief authority, Most ignorant of what he's most assured, His glassy essence, like an angry ape, Plays such fantastic tricks before high heaven As make the angels weep; who, with our spleens, Would all themselves laugh mortal.\nIn the preceding dialogue, were the lines \"That's well said.\" and \"Could great men thunder As Jove himself does, Jove would ne'er be quiet, For every pelting, petty officer Would use his heaven for thunder; Nothing but thunder! Merciful Heaven, Thou rather with thy sharp and sulphurous bolt Split'st the unwedgeable and gnarled oak Than the soft myrtle: but man, proud man, Drest in a little brief authority, Most ignorant of what he's most assured, His glassy essence, like an angry ape, Plays such fantastic tricks before high heaven As make the angels weep; who, with our spleens, Would all themselves laugh mortal.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 842,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nIf the law would allow it, sir. But the law will not allow it, Pompey; nor it shall not be allowed in Vienna. Does your worship mean to geld and splay all the youth of the city? No, Pompey. Truly, sir, in my poor opinion, they will to't then. If your worship will take order for the drabs and the knaves, you need not to fear the bawds. There are pretty orders beginning, I can tell you: it is but heading and hanging.\nIn the preceding dialogue, were the lines \"If your worship will take order for the drabs and the knaves, you need not to fear the bawds.\" and \"But the law will not allow it, Pompey; nor it shall not be allowed in Vienna.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1140,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nNow I come to't my lord She that accuses him of fornication, In self-same manner doth accuse my husband, And charges him my lord, with such a time When I'll depose I had him in mine arms With all the effect of love. Charges she more than me? Not that I know. No? you say your husband. Why, just, my lord, and that is Angelo, Who thinks he knows that he ne'er knew my body, But knows he thinks that he knows Isabel's. This is a strange abuse. Let's see thy face.\nIn the preceding dialogue, were the lines \"Now I come to't my lord She that accuses him of fornication, In self-same manner doth accuse my husband, And charges him my lord, with such a time When I'll depose I had him in mine arms With all the effect of love.\" and \"Not that I know.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3081,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nWith my master's ship? why, it is at sea. Well, your old vice still; mistake the word. What news, then, in your paper? The blackest news that ever thou heardest. Why, man, how black? Why, as black as ink. Let me read them. Fie on thee, jolt-head! thou canst not read. Thou liest; I can. I will try thee. Tell me this: who begot thee? Marry, the son of my grandfather. O illiterate loiterer! it was the son of thy grandmother: this proves that thou canst not read. Come, fool, come; try me in thy paper.\nIn the preceding dialogue, were the lines \"The blackest news that ever thou heardest.\" and \"Come, fool, come; try me in thy paper.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2882,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nThat's because the one is painted and the other out of all count. How painted? and how out of count? Marry, sir, so painted, to make her fair, that no man counts of her beauty. How esteemest thou me? I account of her beauty. You never saw her since she was deformed. How long hath she been deformed? Ever since you loved her. I have loved her ever since I saw her; and still I see her beautiful. If you love her, you cannot see her. Why?\nIn the preceding dialogue, were the lines \"That's because the one is painted and the other out of all count.\" and \"Why?\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 3260,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nThese banish'd men that I have kept withal Are men endued with worthy qualities: Forgive them what they have committed here And let them be recall'd from their exile: They are reformed, civil, full of good And fit for great employment, worthy lord. Thou hast prevail'd; I pardon them and thee: Dispose of them as thou know'st their deserts. Come, let us go: we will include all jars With triumphs, mirth and rare solemnity.\nIn the preceding dialogue, were the lines \"Thou hast prevail'd; I pardon them and thee: Dispose of them as thou know'st their deserts.\" and \"Come, let us go: we will include all jars With triumphs, mirth and rare solemnity.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
         ],
         "multiple_choice_targets": [
             "same",
@@ -16,9 +136,9 @@
     },
     {
         "idx": 256,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nI wish ye sport. You health. So please you, sir. These are kind creatures. Gods, what lies I have heard! Our courtiers say all's savage but at court: Experience, O, thou disprovest report! The imperious seas breed monsters, for the dish Poor tributary rivers as sweet fish. I am sick still; heart-sick. Pisanio, I'll now taste of thy drug. I could not stir him: He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest. Thus did he answer me: yet said, hereafter I might know more.\nIn the preceding dialogue, were the lines \"Thus did he answer me: yet said, hereafter I might know more.\" and \"Gods, what lies I have heard! Our courtiers say all's savage but at court: Experience, O, thou disprovest report! The imperious seas breed monsters, for the dish Poor tributary rivers as sweet fish.\" spoken by the same person or different people?\nAnswer:",
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nDo you think so? Yes; I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut. Not true in love? Yes, when he is in; but I think he is not in. You have heard him swear downright he was. 'Was' is not 'is:' besides, the oath of a lover is no stronger than the word of a tapster; they are both the confirmer of false reckonings. He attends here in the forest on the duke your father.\nIn the preceding dialogue, were the lines \"Yes; I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut.\" and \"Not true in love?\" spoken by the same person or different people?\nAnswer:",
         "targets": [
-            "same"
+            "different"
         ],
         "multiple_choice_targets": [
             "same",
@@ -30,8 +150,128 @@
         ]
     },
     {
+        "idx": 2364,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nHa! not for the wide world. You kill me to deny it. Farewell. Tarry, sweet Beatrice. I am gone, though I am here: there is no love in you: nay, I pray you, let me go. Beatrice,-- In faith, I will go. We'll be friends first. You dare easier be friends with me than fight with mine enemy. Is Claudio thine enemy?\nIn the preceding dialogue, were the lines \"Ha! not for the wide world.\" and \"In faith, I will go.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 416,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nHis steel was in debt; it went o' the backside the town. The villain would not stand me. No; but he fled forward still, toward your face. Stand you! You have land enough of your own: but he added to your having; gave you some ground. As many inches as you have oceans. Puppies! I would they had not come between us. So would I, till you had measured how long a fool you were upon the ground. And that she should love this fellow and refuse me!\nIn the preceding dialogue, were the lines \"His steel was in debt; it went o' the backside the town.\" and \"Puppies!\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2199,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nO, my lord, wisdom and blood combating in so tender a body, we have ten proofs to one that blood hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian. I would she had bestowed this dotage on me: I would have daffed all other respects and made her half myself. I pray you, tell Benedick of it, and hear what a' will say. Were it good, think you?\nIn the preceding dialogue, were the lines \"I would she had bestowed this dotage on me: I would have daffed all other respects and made her half myself.\" and \"I pray you, tell Benedick of it, and hear what a' will say.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 765,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nWho's that which calls? It is a man's voice. Gentle Isabella, Turn you the key, and know his business of him; You may, I may not; you are yet unsworn. When you have vow'd, you must not speak with men But in the presence of the prioress: Then, if you speak, you must not show your face, Or, if you show your face, you must not speak. He calls again; I pray you, answer him. Peace and prosperity! Who is't that calls\nIn the preceding dialogue, were the lines \"He calls again; I pray you, answer him.\" and \"When you have vow'd, you must not speak with men But in the presence of the prioress: Then, if you speak, you must not show your face, Or, if you show your face, you must not speak.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
         "idx": 1498,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nHow every fool can play upon the word! I think the best grace of wit will shortly turn into silence, and discourse grow commendable in none only but parrots. Go in, sirrah; bid them prepare for dinner. That is done, sir; they have all stomachs. Goodly Lord, what a wit-snapper are you! then bid them prepare dinner. That is done too, sir; only 'cover' is the word. Will you cover then, sir? Not so, sir, neither; I know my duty.\nIn the preceding dialogue, were the lines \"Will you cover then, sir?\" and \"Goodly Lord, what a wit-snapper are you! then bid them prepare dinner.\" spoken by the same person or different people?\nAnswer:",
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nHe will make you a hundred and fifty pounds jointure. Good Master Shallow, let him woo for himself. Marry, I thank you for it; I thank you for that good comfort. She calls you, coz: I'll leave you. Now, Master Slender,-- Now, good Mistress Anne,-- What is your will? My will! 'od's heartlings, that's a pretty jest indeed! I ne'er made my will yet, I thank heaven; I am not such a sickly creature, I give heaven praise. I mean, Master Slender, what would you with me?\nIn the preceding dialogue, were the lines \"He will make you a hundred and fifty pounds jointure.\" and \"Marry, I thank you for it; I thank you for that good comfort.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "same"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1335,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nYou are come to see my daughter Anne? Ay, forsooth; and, I pray, how does good Mistress Anne? Go in with us and see: we have an hour's talk with you. How now, Master Ford! You heard what this knave told me, did you not? Yes: and you heard what the other told me? Do you think there is truth in them?\nIn the preceding dialogue, were the lines \"You are come to see my daughter Anne?\" and \"You heard what this knave told me, did you not?\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 807,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nSir, your honour cannot come to that yet. No, sir, nor I mean it not. Sir, but you shall come to it, by your honour's leave. And, I beseech you, look into Master Froth here, sir; a man of four-score pound a year; whose father died at Hallowmas: was't not at Hallowmas, Master Froth? All-hallond eve. Why, very well; I hope here be truths. He, sir, sitting, as I say, in a lower chair, sir; 'twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not?\nIn the preceding dialogue, were the lines \"No, sir, nor I mean it not.\" and \"He, sir, sitting, as I say, in a lower chair, sir; 'twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not?\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1874,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nYou should in all sense be much bound to him. For, as I hear, he was much bound for you. No more than I am well acquitted of. Sir, you are very welcome to our house: It must appear in other ways than words, Therefore I scant this breathing courtesy. By yonder moon I swear you do me wrong; In faith, I gave it to the judge's clerk: Would he were gelt that had it, for my part, Since you do take it, love, so much at heart. A quarrel, ho, already! what's the matter?\nIn the preceding dialogue, were the lines \"No more than I am well acquitted of.\" and \"Sir, you are very welcome to our house: It must appear in other ways than words, Therefore I scant this breathing courtesy.\" spoken by the same person or different people?\nAnswer:",
+        "targets": [
+            "different"
+        ],
+        "multiple_choice_targets": [
+            "same",
+            "different"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 466,
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nExceeding pleasant; none a stranger there So merry and so gamesome: he is call'd The Briton reveller. When he was here, He did incline to sadness, and oft-times Not knowing why.\nIn the preceding dialogue, were the lines \"Exceeding pleasant; none a stranger there So merry and so gamesome: he is call'd The Briton reveller.\" and \"When he was here, He did incline to sadness, and oft-times Not knowing why.\" spoken by the same person or different people?\nAnswer:",
         "targets": [
             "different"
         ],
@@ -46,247 +286,7 @@
     },
     {
         "idx": 1074,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nMarry, were they. I like it never the better for that. Does he lie at the Garter? Ay, marry, does he. If he should intend this voyage towards my wife, I would turn her loose to him; and what he gets more of her than sharp words, let it lie on my head. I do not misdoubt my wife; but I would be loath to turn them together. A man may be too confident: I would have nothing lie on my head: I cannot be thus satisfied.\nIn the preceding dialogue, were the lines \"A man may be too confident: I would have nothing lie on my head: I cannot be thus satisfied.\" and \"Marry, were they.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1591,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nWhich is the villain? let me see his eyes, That, when I note another man like him, I may avoid him: which of these is he? If you would know your wronger, look on me. Art thou the slave that with thy breath hast kill'd Mine innocent child? Yea, even I alone.\nIn the preceding dialogue, were the lines \"Which is the villain? let me see his eyes, That, when I note another man like him, I may avoid him: which of these is he?\" and \"Art thou the slave that with thy breath hast kill'd Mine innocent child?\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1425,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nWho? Silvia? Ay, Silvia; for your sake. I thank you for your own. Now, gentlemen, Let's tune, and to it lustily awhile. Now, my young guest, methinks you're allycholly: I pray you, why is it? Marry, mine host, because I cannot be merry. Come, we'll have you merry: I'll bring you where you shall hear music and see the gentleman that you asked for. But shall I hear him speak? Ay, that you shall. That will be music. Hark, hark! Is he among these?\nIn the preceding dialogue, were the lines \"Silvia?\" and \"Who?\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1218,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\n'Tis time I should inform thee farther. Lend thy hand, And pluck my magic garment from me. So: Lie there, my art. Wipe thou thine eyes; have comfort. The direful spectacle of the wreck, which touch'd The very virtue of compassion in thee, I have with such provision in mine art So safely ordered that there is no soul-- No, not so much perdition as an hair Betid to any creature in the vessel Which thou heard'st cry, which thou saw'st sink. Sit down; For thou must now know farther.\nIn the preceding dialogue, were the lines \"So: Lie there, my art.\" and \"Sit down; For thou must now know farther.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1282,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nI thank thee, master. If thou more murmur'st, I will rend an oak And peg thee in his knotty entrails till Thou hast howl'd away twelve winters. Pardon, master; I will be correspondent to command And do my spiriting gently. Do so, and after two days I will discharge thee. That's my noble master! What shall I do? say what; what shall I do?\nIn the preceding dialogue, were the lines \"That's my noble master! What shall I do? say what; what shall I do?\" and \"Do so, and after two days I will discharge thee.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 749,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nHe that hath lost her too; so is the queen, That most desired the match; but not a courtier, Although they wear their faces to the bent Of the king's look's, hath a heart that is not Glad at the thing they scowl at. And why so?\nIn the preceding dialogue, were the lines \"And why so?\" and \"He that hath lost her too; so is the queen, That most desired the match; but not a courtier, Although they wear their faces to the bent Of the king's look's, hath a heart that is not Glad at the thing they scowl at.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1713,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nWhat think'st thou of the fair Sir Eglamour? As of a knight well-spoken, neat and fine; But, were I you, he never should be mine. What think'st thou of the rich Mercatio? Well of his wealth; but of himself, so so. What think'st thou of the gentle Proteus? Lord, Lord! to see what folly reigns in us! How now! what means this passion at his name? Pardon, dear madam: 'tis a passing shame That I, unworthy body as I am, Should censure thus on lovely gentlemen. Why not on Proteus, as of all the rest?\nIn the preceding dialogue, were the lines \"What think'st thou of the rich Mercatio?\" and \"How now! what means this passion at his name?\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1732,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nIf their singing answer your saying, by my faith, you say honestly. The Lady Beatrice hath a quarrel to you: the gentleman that danced with her told her she is much wronged by you.\nIn the preceding dialogue, were the lines \"The Lady Beatrice hath a quarrel to you: the gentleman that danced with her told her she is much wronged by you.\" and \"If their singing answer your saying, by my faith, you say honestly.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 709,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nLet her approach. Give your worship good morrow. Good morrow, good wife. Not so, an't please your worship. Good maid, then. I'll be sworn, As my mother was, the first hour I was born. I do believe the swearer. What with me? Shall I vouchsafe your worship a word or two? Two thousand, fair woman: and I'll vouchsafe thee the hearing. There is one Mistress Ford, sir:--I pray, come a little nearer this ways:--I myself dwell with master Doctor Caius,-- Well, on: Mistress Ford, you say,--\nIn the preceding dialogue, were the lines \"I'll be sworn, As my mother was, the first hour I was born.\" and \"Good maid, then.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 574,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nNot so; I think she lives. Alas! Why dost thou cry 'alas'? I cannot choose But pity her. Wherefore shouldst thou pity her? Because methinks that she loved you as well As you do love your lady Silvia: She dreams of him that has forgot her love; You dote on her that cares not for your love. 'Tis pity love should be so contrary; And thinking of it makes me cry 'alas!'\nIn the preceding dialogue, were the lines \"Why dost thou cry 'alas'?\" and \"Alas!\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 219,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nVere is Mistress Page? By gar, I am cozened: I ha' married un garcon, a boy; un paysan, by gar, a boy; it is not Anne Page: by gar, I am cozened. Why, did you take her in green? Ay, by gar, and 'tis a boy: by gar, I'll raise all Windsor. This is strange. Who hath got the right Anne? My heart misgives me: here comes Master Fenton. How now, Master Fenton! Pardon, good father! good my mother, pardon! Now, mistress, how chance you went not with Master Slender? Why went you not with master doctor, maid?\nIn the preceding dialogue, were the lines \"Who hath got the right Anne?\" and \"Now, mistress, how chance you went not with Master Slender?\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 799,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nGood morrow, masters; put your torches out: The wolves have prey'd; and look, the gentle day, Before the wheels of Phoebus, round about Dapples the drowsy east with spots of grey. Thanks to you all, and leave us: fare you well. Good morrow, masters: each his several way.\nIn the preceding dialogue, were the lines \"Good morrow, masters; put your torches out: The wolves have prey'd; and look, the gentle day, Before the wheels of Phoebus, round about Dapples the drowsy east with spots of grey.\" and \"Good morrow, masters: each his several way.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1675,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nO sweet Anne Page! It appears so by his weapons. Keep them asunder: here comes Doctor Caius. Nay, good master parson, keep in your weapon. So do you, good master doctor. Disarm them, and let them question: let them keep their limbs whole and hack our English. I pray you, let-a me speak a word with your ear. Vherefore vill you not meet-a me? Pray you, use your patience: in good time. By gar, you are de coward, de Jack dog, John ape.\nIn the preceding dialogue, were the lines \"So do you, good master doctor.\" and \"Disarm them, and let them question: let them keep their limbs whole and hack our English.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 685,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nYea, or else it were pity but they should suffer salvation, body and soul. Nay, that were a punishment too good for them, if they should have any allegiance in them, being chosen for the prince's watch. Well, give them their charge, neighbour Dogberry. First, who think you the most desertless man to be constable? Hugh Otecake, sir, or George Seacole; for they can write and read. Come hither, neighbour Seacole. God hath blessed you with a good name: to be a well-favoured man is the gift of fortune; but to write and read comes by nature.\nIn the preceding dialogue, were the lines \"First, who think you the most desertless man to be constable?\" and \"Nay, that were a punishment too good for them, if they should have any allegiance in them, being chosen for the prince's watch.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1196,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nYet hear me speak. Assist me in my purpose, And, as I am a gentleman, I'll give thee A hundred pound in gold more than your loss. I will hear you, Master Fenton; and I will at the least keep your counsel.\nIn the preceding dialogue, were the lines \"Assist me in my purpose, And, as I am a gentleman, I'll give thee A hundred pound in gold more than your loss.\" and \"I will hear you, Master Fenton; and I will at the least keep your counsel.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "different"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1182,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nShould we be taking leave As long a term as yet we have to live, The loathness to depart would grow. Adieu! Nay, stay a little: Were you but riding forth to air yourself, Such parting were too petty. Look here, love; This diamond was my mother's: take it, heart; But keep it till you woo another wife, When Imogen is dead.\nIn the preceding dialogue, were the lines \"Look here, love; This diamond was my mother's: take it, heart; But keep it till you woo another wife, When Imogen is dead.\" and \"Should we be taking leave As long a term as yet we have to live, The loathness to depart would grow.\" spoken by the same person or different people?\nAnswer:",
-        "targets": [
-            "same"
-        ],
-        "multiple_choice_targets": [
-            "same",
-            "different"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2251,
-        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nCome, sir, leave me your snatches, and yield me a direct answer. To-morrow morning are to die Claudio and Barnardine. Here is in our prison a common executioner, who in his office lacks a helper: if you will take it on you to assist him, it shall redeem you from your gyves; if not, you shall have your full time of imprisonment and your deliverance with an unpitied whipping, for you have been a notorious bawd.\nIn the preceding dialogue, were the lines \"Come, sir, leave me your snatches, and yield me a direct answer.\" and \"To-morrow morning are to die Claudio and Barnardine.\" spoken by the same person or different people?\nAnswer:",
+        "inputs": "The following transcripts of dialogues have been taken from Shakespeare plays, but the transcripts do not say who said what.  Your task is to identify whether the sentences in question were spoken by the same or different people.\nDialogue:\nSir, induced by my charity, and hearing how hastily you are to depart, I am come to advise you, comfort you and pray with you. Friar, not I\tI have been drinking hard all night, and I will have more time to prepare me, or they shall beat out my brains with billets: I will not consent to die this day, that's certain. O, sir, you must: and therefore I beseech you Look forward on the journey you shall go. I swear I will not die to-day for any man's persuasion. But hear you.\nIn the preceding dialogue, were the lines \"Friar, not I\tI have been drinking hard all night, and I will have more time to prepare me, or they shall beat out my brains with billets: I will not consent to die this day, that's certain.\" and \"I swear I will not die to-day for any man's persuasion.\" spoken by the same person or different people?\nAnswer:",
         "targets": [
             "same"
         ],

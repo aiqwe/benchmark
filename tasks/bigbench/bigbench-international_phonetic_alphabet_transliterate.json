@@ -1,180 +1,180 @@
 [
     {
         "idx": 719,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˈligəl ˈsərvɪsɪz əv nu ˈʤərzi ɪz wən əv ðə neɪmd dɪˈfɛndənts ɪn ðə keɪs.\nEnglish:",
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðə freɪ ɪz ˈɔlˌmoʊst ˈɔlˌweɪz ə ˈhɑstəl, rud, ənd min pleɪs.\nEnglish:",
         "targets": [
-            "Unable to be reached on Friday."
+            "The Fray is almost always a hostile, rude, and mean place."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 880,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðɛr ɪz ə ˈrædɪkəl saɪd ˈifɛkt ðət wɑz ˌɪnˈtɛndɪd.\nEnglish:",
+        "targets": [
+            "There is a radical side effect that was intended."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 464,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: It wouldn't count for anything if we rallied behind a female candidate.\nIPA:",
+        "targets": [
+            "ɪt ˈwʊdənt kaʊnt fər ˈɛniˌθɪŋ ɪf wi ˈrælid bɪˈhaɪnd ə ˈfiˌmeɪl ˈkænədɪt."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 72,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: America's opinion on Saddam would also worsen.\nIPA:",
+        "targets": [
+            "əˈmɛrɪkəz əˈpɪnjən ɔn ˈsɑdəm wʊd ˈɔlsoʊ ˈwərsən."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 703,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðæts kənˈvinjənt.\nEnglish:",
+        "targets": [
+            "That's convenient."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 239,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: You need the car several weeks later.\nIPA:",
+        "targets": [
+            "ju nid ðə kɑr ˈsɛvərəl wiks ˈleɪtər."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 946,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: əˈdɪʃəˌnəli wi hæv ˈmɛni greɪt ˈpɪkʧərz.\nEnglish:",
+        "targets": [
+            "Additionally we have many great pictures."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 270,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: All of them\nIPA:",
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: The time it takes is not very much.\nIPA:",
         "targets": [
-            "Do not put any garlic or hot pepper in it."
+            "ðə taɪm ɪt teɪks ɪz nɑt ˈvɛri məʧ."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 806,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðə wɛrz ər meɪd əv ˈkɔtən ənd kɔrs ˈfæbrɪk.\nEnglish:",
+        "targets": [
+            "The wares are made of cotton and coarse fabric."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 810,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˈælkəˌhɑl rɪˈleɪtɪd ɪˈvɛnts ðət kənˈtrɪbjut tɪ dɪˈziz ər ˈɔfən ˌənriˈpɔrtɪd baɪ ˈpeɪʃənz tɪ ðɛr ˌɪnˈʃʊrəns ˈkəmpəˌniz.\nEnglish:",
+        "targets": [
+            "Alcohol related events that contribute to disease are often unreported by patients to their insurance companies."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 640,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˌɪnˈtɛl həz hæd ˈmɛni ˌdɪsəˈpɔɪnɪŋ ˈərnɪŋ rɪˈpɔrts.\nEnglish:",
+        "targets": [
+            "Intel has had many disappointing earning reports."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 603,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: hɪz əˈsoʊʃiˌeɪts' bɔs wɑz ˈɔpərˌeɪtɪŋ æt ðə ˈlɛvəl əv ðə ˈmɛtəfɔr.\nEnglish:",
+        "targets": [
+            "His associates' boss was operating at the level of the metaphor."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 677,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˈsɛkʃən 414 hɛlps haɪər əˈlaʊəns ˌæləˈkeɪʃənz fər iʧ ˈjunɪt.\nEnglish:",
+        "targets": [
+            "Section 414 helps higher allowance allocations for each unit."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 823,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðə ˌtrænsfərˈmeɪʃənz bɪtˈwin stɛps ər ɪkˈspleɪnd.\nEnglish:",
+        "targets": [
+            "The transformations between steps are explained."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 956,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˈækjərəsi ənd spid ər ðə fərst ˈmɛʒərmənts ˈlɪstɪd ɔn ðə ˈskɔrˌkɑrd.\nEnglish:",
+        "targets": [
+            "Accuracy and speed are the first measurements listed on the scorecard."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 202,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: You never discuss retirement.\nIPA:",
+        "targets": [
+            "ju ˈnɛvər dɪˈskəs rɪˈtaɪərmənt."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 435,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: You did not go to work today. \nIPA:",
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Star Wars can be seen in theaters. \nIPA:",
         "targets": [
-            "ˈproʊˌgræmz tɪ ˌɪnˈkris ɪˈfɪʃənsi wər kənˈsɑləˌdeɪtəd."
+            "stɑr wɔrz kən bi sin ɪn ˈθiətərz."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 152,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˌɪndɪˈpɛndənt ˈɛvədəns ðət səˈpɔrts ˌɪnˌfɔrˈmeɪʃən ɪn ðə ˈdætəˌbeɪs ɪz kɔld kərˈɑbərˌeɪtɪŋ ˈɛvədəns.\nEnglish:",
+        "idx": 117,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Personal saving is how much disposable personal income is left over after personal spending and is typically about 5%.\nIPA:",
         "targets": [
-            "A majority of pagers in the United States were disrupted by a satellite malfunction."
+            "ˈpərsɪnəl ˈseɪvɪŋ ɪz haʊ məʧ dɪˈspoʊzəbəl ˈpərsɪnəl ˈɪnˌkəm ɪz lɛft ˈoʊvər ˈæftər ˈpərsɪnəl ˈspɛndɪŋ ənd ɪz ˈtɪpɪkəli əˈbaʊt 5"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 169,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: There are no specific requirements for assessment.\nIPA:",
+        "idx": 557,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: hi ɪz ðə wən ðeɪ ˈɔlˌweɪz hæv ˈstɑrtɪŋ.\nEnglish:",
         "targets": [
-            "haʊ du ju fil əˈbaʊt ɪt, ˈɛrɪk?"
+            "He is the one they always have starting."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 295,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ju kən raɪd ə ˈroʊlər ˈkoʊstər ðɛr ðət goʊz haɪ əp.\nEnglish:",
+        "idx": 230,
+        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Male children are considered to bring luck to the family.\nIPA:",
         "targets": [
-            "If the situation is that, you should wait to kill them."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 311,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: wɪl ɪz səʧ ən ˈɛkspərt ɪn ɪkˈspleɪnɪŋ ðə ˈditeɪlz əv ˈbeɪsˈbɔl.\nEnglish:",
-        "targets": [
-            "maɪ ˈməðər wɑz ˌdɑməˈnɪrɪŋ sɪns ʃi fɪld ɪn maɪ ˈfɑðərz ʃuz."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 552,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Clinton's supporters were pleased with how the hearings went.\nIPA:",
-        "targets": [
-            "ɔn ðə wɛst ɛnd əv ðə skwɛr ɪz ðə oʊld kɪŋz haʊs wɪʧ wɑz bɪlt ɪn 1762"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 40,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Wallace was not reelected as governor.\nIPA:",
-        "targets": [
-            "The reason for the programs' close proximity to each other is the similarities of their programs."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 256,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: I just can't make the time because of my job.\nIPA:",
-        "targets": [
-            "The codes have caused some of my friends to become Orthodox."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 589,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: When I heard that on the radio I got chills and the beginning of the bombing.\nIPA:",
-        "targets": [
-            "It is necessary for these audits and evaluations to be performed at least once a year."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 275,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: The name suggest that it is open to the public.\nIPA:",
-        "targets": [
-            "aɪ wʊd kʊk ənd hi ˈnɛvər wʊd, ɪt ˈɔlˌweɪz tərnd aʊt tɪ bi ə ʧɔr."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 179,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðə weɪ ʃi roʊt ɪt ˈɪzənt ˈɪntəˌrɛstɪŋ æt ɔl.\nEnglish:",
-        "targets": [
-            "aɪ θɔt aɪ wʊd laɪk ˈwərkɪŋ ɔn ˈlɪdiz kæmˈpeɪn ðə bɛst."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 284,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ˈpəblɪk hɛlθ əˈθɔrətiz bɪˈliv ðət ˈpipəl ʃʊd it keɪl ˈmɛni taɪmz ə wik.\nEnglish:",
-        "targets": [
-            "The churches looked very similar."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 503,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðə koʊdz hæv kɔzd səm əv maɪ frɛndz tɪ bɪˈkəm ˈɔrθəˌdɑks.\nEnglish:",
-        "targets": [
-            "The way she wrote it isn't interesting at all."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 341,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: Senators Fred Thompson requested the study to benefit federal agencies.\nIPA:",
-        "targets": [
-            "The weather has been getting warmer in the past few weeks."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 337,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nEnglish: If more people lived in the villages the development would skyrocket.\nIPA:",
-        "targets": [
-            "It's two strikes because they aren't putting any skin in the game either."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 678,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: wi ər nɑt goʊɪŋ tɪ meɪk ˈɛni ˈməni ɔn nu ˈvɛnʧər.\nEnglish:",
-        "targets": [
-            "ˈmɛni θɪŋz ər ʃɛrd bɪtˈwin ðə ˈnɪksən ˈkəlʧər ənd ɑr oʊn"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 465,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: ðɪs saɪt ɪz ə ˈspɛʃəl ˈpɔrtəl fər ˈpipəl hu wɪʃ tɪ meɪk əˈnɑnəməs kəmˈpleɪnts əˈbaʊt ˈɑdətərz.\nEnglish:",
-        "targets": [
-            "The interior of the place is extremely bright, so bring a camera and snap a few pictures."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 118,
-        "inputs": "Transliterate the following sentences between the International Phonetic Alphabet (IPA) and English.\n\n\nIPA: səm ˈænəlɪsts ˈwɔntɪd tɪ meɪk ðə oʊld ˈstændərdz lɛs riˈstrɪktɪv fər ˌɪnˈvɛstərz.\nEnglish:",
-        "targets": [
-            "ðɛr ɪz ˈɛvədəns ðət ˈmɛni ˈpipəl səˈlɪsɪtɪd fəndz frəm ə ˈfɛdərəl ˈbɪldɪŋ."
+            "meɪl ˈʧɪldrən ər kənˈsɪdərd tɪ brɪŋ lək tɪ ðə ˈfæməli."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

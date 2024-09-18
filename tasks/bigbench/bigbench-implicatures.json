@@ -1,9 +1,84 @@
 [
     {
-        "idx": 133,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'We're supposed to believe that?' Speaker 2: 'That's right.' \nA:",
+        "idx": 449,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you dressed up to go to bingo?' Speaker 2: 'Ahh, I just wanna look nice.' \nA:",
         "targets": [
             "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 133,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Was it expensive?' Speaker 2: 'It costed a bazillion dollars.' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 91,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'So is everything good, fellas?' Speaker 2: 'I am panicked.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 297,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is the bangle clean now?' Speaker 2: 'It is as shiny as a new pin' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 135,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Does it bother you that the machine stops working like that?' Speaker 2: 'I'm used to it.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Should I bring my umbrella?' Speaker 2: 'Better safe than sorry.' \nA:",
+        "targets": [
+            "yes"
         ],
         "multiple_choice_targets": [
             "yes",
@@ -16,7 +91,7 @@
     },
     {
         "idx": 55,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Did you go to the movies last night?' Speaker 2: 'I had to study last night.' \nA:",
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you alright?' Speaker 2: 'I just, I wish I could've done something.' \nA:",
         "targets": [
             "no"
         ],
@@ -27,26 +102,86 @@
         "multiple_choice_scores": [
             0,
             1
+        ]
+    },
+    {
+        "idx": 305,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Beautiful isn't it?' Speaker 2: 'They're disgusting.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 222,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is he honest?' Speaker 2: 'He is an open book.' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 176,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Could you help Bob and me plan a surpise party for Meg?' Speaker 2: 'What can I do?' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 373,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you with me?' Speaker 2: 'To the death!' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 402,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Do you want to go to the lecture tonight in the science auditorium? It is done by a guide who lived in Antartica for a decade.' Speaker 2: 'It is no kidding. I am writing a report on Antarctica in my geography class. Maybe I would get some good information to add to it.' \nA:",
+        "targets": [
+            "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
         ]
     },
     {
         "idx": 160,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'You think the cops have our phone bugged?' Speaker 2: 'I don't think that's legal.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 197,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'You getting this, Winifred?' Speaker 2: 'Every word.' \nA:",
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Do you think you will ever work at that company again?' Speaker 2: 'When pigs fly.' \nA:",
         "targets": [
             "no"
         ],
@@ -60,145 +195,10 @@
         ]
     },
     {
-        "idx": 362,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'You think the cops have our phone bugged?' Speaker 2: 'I don't think that's legal.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 351,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Was all the proposals good?' Speaker 2: 'Only one made the cut.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 100,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you feeling, alright?' Speaker 2: 'I'm afraid.' \nA:",
+        "idx": 223,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Isn't this great?' Speaker 2: 'Delightful.' \nA:",
         "targets": [
             "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 169,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Did she smile at you?' Speaker 2: 'Her smile was a mile wide.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 368,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'I feel horrible. Debbie was furious that I lost her notes. Do you think I should apologize her again?' Speaker 2: 'If I were you I would cool off for some days before I talk to her again.' \nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 209,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is this place hot?' Speaker 2: 'As hot as hell.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 283,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is she tall?' Speaker 2: 'She's as tall as a beanpole.' \nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 194,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Fat?' Speaker 2: 'Fur, I was gonna say fur.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 291,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Did I make a good bet?' Speaker 2: 'You backed the wrong horse.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 155,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you tired?' Speaker 2: 'I've been burning the candle at both ends all week.' \nA:",
-        "targets": [
-            "no"
         ],
         "multiple_choice_targets": [
             "yes",
@@ -211,67 +211,7 @@
     },
     {
         "idx": 310,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Are you coming with me to the exhibition today?' Speaker 2: 'I made plans with Susan to go to the exhibition tomorrow afternoon.' \nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 226,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is that a big book?' Speaker 2: 'That book is a real doorstopper.' \nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 376,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Does he love his little girl?' Speaker 2: 'She's the apple of his eye.' \nA:",
-        "targets": [
-            "yes"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 263,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is this shoe comfortable?' Speaker 2: 'These dress shoes are killing me.' \nA:",
-        "targets": [
-            "no"
-        ],
-        "multiple_choice_targets": [
-            "yes",
-            "no"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 47,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is he a fast runner?' Speaker 2: 'He runs like the wind!' \nA:",
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Do you know where he is?' Speaker 2: 'I'll find him.' \nA:",
         "targets": [
             "no"
         ],
@@ -285,10 +225,70 @@
         ]
     },
     {
-        "idx": 115,
-        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'I bought the wrong math book. Here is the receipt. Can I get my money back?' Speaker 2: 'Not after ten days. But you can exchange something for it.' \nA:",
+        "idx": 261,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Kids? Are they okay?' Speaker 2: 'They're alright, baby.' \nA:",
         "targets": [
             "yes"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Do you have any agricultural background?' Speaker 2: 'I used to work in an office.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 197,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Do you enjoy fishing underwater?' Speaker 2: 'I detest it.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 460,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Can you open this?' Speaker 2: 'No way.' \nA:",
+        "targets": [
+            "no"
+        ],
+        "multiple_choice_targets": [
+            "yes",
+            "no"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 295,
+        "inputs": "Does Speaker 2's answer mean yes or no? \n\nQ: Speaker 1: 'Is there anything wrong with her?' Speaker 2: 'Oh, she's just pretending.' \nA:",
+        "targets": [
+            "no"
         ],
         "multiple_choice_targets": [
             "yes",

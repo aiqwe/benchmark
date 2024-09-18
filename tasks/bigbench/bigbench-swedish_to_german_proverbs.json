@@ -1,15 +1,91 @@
 [
     {
         "idx": 20,
+        "inputs": "Swedish proverb: Få ta skeden i vacker hand.\n  choice: Den Löffel abgeben.\n  choice: Gelindere Saiten aufziehen.\n  choice: Beiß nicht in die Hand, die dich füttert.\n  choice: Den Löffel in die schöne Hand nehmen.\nGerman equivalent:",
+        "targets": [
+            "Gelindere Saiten aufziehen."
+        ],
+        "multiple_choice_targets": [
+            "Den Löffel in die schöne Hand nehmen.",
+            "Gelindere Saiten aufziehen.",
+            "Beiß nicht in die Hand, die dich füttert.",
+            "Den Löffel abgeben."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 47,
         "inputs": "Swedish proverb: Lätt fånget lätt förgånget.\n  choice: Pech im Spiel, Glück in der Liebe.\n  choice: Wie gewonnen, so zerronnen.\n  choice: Leicht gefangen, leicht vergangen.\n  choice: Scherben bringen Glück.\nGerman equivalent:",
         "targets": [
+            "Wie gewonnen, so zerronnen."
+        ],
+        "multiple_choice_targets": [
+            "Scherben bringen Glück.",
+            "Leicht gefangen, leicht vergangen.",
+            "Pech im Spiel, Glück in der Liebe.",
+            "Wie gewonnen, so zerronnen."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Swedish proverb: Lovar någon guld och gröna skogar.\n  choice: Jemandem das Blaue vom Himmel versprechen.\n  choice: Wer viel verspricht vergisst auch viel.\n  choice: Jemandem Gold und das Grün der Wälder versprechen.\n  choice: Mit Speck fängt man Mäuse.\nGerman equivalent:",
+        "targets": [
             "Jemandem das Blaue vom Himmel versprechen."
+        ],
+        "multiple_choice_targets": [
+            "Jemandem Gold und das Grün der Wälder versprechen.",
+            "Mit Speck fängt man Mäuse.",
+            "Wer viel verspricht vergisst auch viel.",
+            "Jemandem das Blaue vom Himmel versprechen."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Swedish proverb: Gå över ån efter vatten.\n  choice: Eulen nach Athen tragen.\n  choice: Über den Fluss gehen für Wasser.\n  choice: Auch Wasser wird zum edlen Tropfen, mischt man es mit Malz und Hopfen.\n  choice: Kohlen nach Newcastle verkaufen.\nGerman equivalent:",
+        "targets": [
+            "Eulen nach Athen tragen."
         ],
         "multiple_choice_targets": [
             "Über den Fluss gehen für Wasser.",
             "Auch Wasser wird zum edlen Tropfen, mischt man es mit Malz und Hopfen.",
             "Kohlen nach Newcastle verkaufen.",
             "Eulen nach Athen tragen."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Swedish proverb: Här ligger en hund begraven.\n  choice: Da liegt der Hase im Pfeffer.\n  choice: Unkraut vergeht nicht.\n  choice: Da beißt die Maus keinen Faden ab.\n  choice: Hier liegt der Hund begraben.\nGerman equivalent:",
+        "targets": [
+            "Hier liegt der Hund begraben."
+        ],
+        "multiple_choice_targets": [
+            "Unkraut vergeht nicht.",
+            "Hier liegt der Hund begraben.",
+            "Da beißt die Maus keinen Faden ab.",
+            "Da liegt der Hase im Pfeffer."
         ],
         "multiple_choice_scores": [
             0,
@@ -20,15 +96,91 @@
     },
     {
         "idx": 9,
+        "inputs": "Swedish proverb: Det gick upp ett ljus för någon.\n  choice: Eine Idee haben.\n  choice: Sein Licht unter den Scheffel stellen.\n  choice: Der Teufel scheißt immer auf den größten Haufen.\n  choice: Es ging ihm ein Licht auf.\nGerman equivalent:",
+        "targets": [
+            "Es ging ihm ein Licht auf."
+        ],
+        "multiple_choice_targets": [
+            "Eine Idee haben.",
+            "Der Teufel scheißt immer auf den größten Haufen.",
+            "Sein Licht unter den Scheffel stellen.",
+            "Es ging ihm ein Licht auf."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 21,
         "inputs": "Swedish proverb: Följa med strömmen.\n  choice: Gegen den Strom schwimmen.\n  choice: Nur wer gegen den Strom schwimmt, kommt an die Quelle.\n  choice: Dem Strom folgen.\n  choice: Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück\nGerman equivalent:",
         "targets": [
+            "Dem Strom folgen."
+        ],
+        "multiple_choice_targets": [
+            "Gegen den Strom schwimmen.",
+            "Dem Strom folgen.",
+            "Nur wer gegen den Strom schwimmt, kommt an die Quelle.",
+            "Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Swedish proverb: Äpplen faller inte lång från trädet.\n  choice: Ein Apfel am Tach hält den Doktor in Schach.\n  choice: Wie du mir, so ich dir.\n  choice: Der Apfel fällt nicht weit vom Stamm.\n  choice: Einen alten Baum verpflanzt man nicht.\nGerman equivalent:",
+        "targets": [
             "Der Apfel fällt nicht weit vom Stamm."
+        ],
+        "multiple_choice_targets": [
+            "Ein Apfel am Tach hält den Doktor in Schach.",
+            "Einen alten Baum verpflanzt man nicht.",
+            "Der Apfel fällt nicht weit vom Stamm.",
+            "Wie du mir, so ich dir."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Swedish proverb: Ha myror i byxorna.\n  choice: Auf Nägeln sitzen.\n  choice: Wer seine Finger in alle Löcher steckt, der zieht sie oft übel heraus.\n  choice: Ameisen in den Hosen haben.\n  choice: Hummeln im Hintern haben.\nGerman equivalent:",
+        "targets": [
+            "Hummeln im Hintern haben."
         ],
         "multiple_choice_targets": [
             "Wer seine Finger in alle Löcher steckt, der zieht sie oft übel heraus.",
             "Ameisen in den Hosen haben.",
             "Auf Nägeln sitzen.",
             "Hummeln im Hintern haben."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Swedish proverb: Få ta skeden i vacker hand.\n  choice: Den Löffel abgeben.\n  choice: Gelindere Saiten aufziehen.\n  choice: Beiß nicht in die Hand, die dich füttert.\n  choice: Den Löffel in die schöne Hand nehmen.\nGerman equivalent:",
+        "targets": [
+            "Gelindere Saiten aufziehen."
+        ],
+        "multiple_choice_targets": [
+            "Den Löffel in die schöne Hand nehmen.",
+            "Gelindere Saiten aufziehen.",
+            "Beiß nicht in die Hand, die dich füttert.",
+            "Den Löffel abgeben."
         ],
         "multiple_choice_scores": [
             0,
@@ -39,15 +191,91 @@
     },
     {
         "idx": 59,
+        "inputs": "Swedish proverb: Strö salt i såren.\n  choice: Die Zeit heilt alle Wunden.\n  choice: Salz in die Wunde streuen.\n  choice: Der Ton macht die Musik.\n  choice: Man muss nicht mehr schlachten, als man salzen kann.\nGerman equivalent:",
+        "targets": [
+            "Salz in die Wunde streuen."
+        ],
+        "multiple_choice_targets": [
+            "Der Ton macht die Musik.",
+            "Salz in die Wunde streuen.",
+            "Man muss nicht mehr schlachten, als man salzen kann.",
+            "Die Zeit heilt alle Wunden."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 48,
         "inputs": "Swedish proverb: Man kan inte både äta kakan och ha den kvar.\n  choice: Man kann den Kuchen nicht gleichzeitig essen und aufbewahren.\n  choice: Wenn der Kuchen spricht, schweigen die Krümel.\n  choice: Kleine Geschenke erhalten die Freundschaft.\n  choice: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.\nGerman equivalent:",
         "targets": [
+            "Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen."
+        ],
+        "multiple_choice_targets": [
+            "Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.",
+            "Man kann den Kuchen nicht gleichzeitig essen und aufbewahren.",
+            "Wenn der Kuchen spricht, schweigen die Krümel.",
+            "Kleine Geschenke erhalten die Freundschaft."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Swedish proverb: Här ligger en hund begraven.\n  choice: Da liegt der Hase im Pfeffer.\n  choice: Unkraut vergeht nicht.\n  choice: Da beißt die Maus keinen Faden ab.\n  choice: Hier liegt der Hund begraben.\nGerman equivalent:",
+        "targets": [
             "Hier liegt der Hund begraben."
+        ],
+        "multiple_choice_targets": [
+            "Unkraut vergeht nicht.",
+            "Hier liegt der Hund begraben.",
+            "Da beißt die Maus keinen Faden ab.",
+            "Da liegt der Hase im Pfeffer."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Swedish proverb: Prisa ej dag förrän sol gått ned.\n  choice: eine Schwalbe macht noch keinen Sommer.\n  choice: man soll den Tag nicht vor dem Abend loben.\n  choice: Der Tag endet mit dem Sonnenuntergang.\n  choice: man soll das Fell des Bären nicht verteilen, bevor er erlegt ist.\nGerman equivalent:",
+        "targets": [
+            "man soll den Tag nicht vor dem Abend loben."
         ],
         "multiple_choice_targets": [
             "eine Schwalbe macht noch keinen Sommer.",
             "man soll den Tag nicht vor dem Abend loben.",
             "man soll das Fell des Bären nicht verteilen, bevor er erlegt ist.",
             "Der Tag endet mit dem Sonnenuntergang."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "Swedish proverb: Göra någon en björntjänst.\n  choice: Jemanden die Katze im Sack verkaufen.\n  choice: Man soll das Fell des Bären nicht verteilen, bevor er erlegt ist.\n  choice: Jemandem einen Bären aufbinden.\n  choice: Jemanden einen Bärendienst erweisen.\nGerman equivalent:",
+        "targets": [
+            "Jemanden einen Bärendienst erweisen."
+        ],
+        "multiple_choice_targets": [
+            "Jemanden einen Bärendienst erweisen.",
+            "Jemandem einen Bären aufbinden.",
+            "Jemanden die Katze im Sack verkaufen.",
+            "Man soll das Fell des Bären nicht verteilen, bevor er erlegt ist."
         ],
         "multiple_choice_scores": [
             1,
@@ -58,275 +286,28 @@
     },
     {
         "idx": 41,
-        "inputs": "Swedish proverb: Den enes bröd den andres död.\n  choice: Des einen Brot, des anderen Tod\n  choice: Was dem einen sin Uhl, ist dem andern sin Nachtigall.\n  choice: Altes Brot ist nicht hart, kein Brot, das ist hart.\n  choice: In der Not, schmeckt die Wurst auch ohne Brot.\nGerman equivalent:",
-        "targets": [
-            "Eine Schraube locker haben."
-        ],
-        "multiple_choice_targets": [
-            "Einmal gebissen, das nächste Mal schüchtern.",
-            "Ein gebranntes Kind scheut das Feuer.",
-            "Messer, Gabel, Schere, Licht, sind für kleine Kinder nicht.",
-            "Man muß dem Kind einen Namen geben."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 51,
-        "inputs": "Swedish proverb: Här ligger en hund begraven.\n  choice: Da liegt der Hase im Pfeffer.\n  choice: Unkraut vergeht nicht.\n  choice: Da beißt die Maus keinen Faden ab.\n  choice: Hier liegt der Hund begraben.\nGerman equivalent:",
-        "targets": [
-            "Wer anderen eine Grube gräbt, fällt selbst hinein"
-        ],
-        "multiple_choice_targets": [
-            "Aus einer Feder ein Huhn machen.",
-            "Berge aus Maulwurfshaufen machen.",
-            "Auch ein blindes Huhn findet mal ein Korn.",
-            "Aus einer Mücke einen Elefanten machen."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 27,
-        "inputs": "Swedish proverb: Det som inte dödar härdar.\n  choice: Harte Schale, weicher Kern.\n  choice: Was dich nicht umbringt, macht dich stärker.\n  choice: Des einen Tod, des andern Brot.\n  choice: Was dich nicht tötet, härtet ab.\nGerman equivalent:",
-        "targets": [
-            "Wer im Glashaus sitzt, soll nicht mit Steinen werfen."
-        ],
-        "multiple_choice_targets": [
-            "Jeder sollte vor seiner eigenen Tür kehren.",
-            "Etwas unter den Teppich kehren.",
-            "Jemanden unter den Tisch trinken.",
-            "Auf dem Teppich bleiben."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 33,
-        "inputs": "Swedish proverb: Flitig som en myra.\n  choice: Fleißig wie eine Ameise.\n  choice: Ohne Fleiß kein Preis.\n  choice: Am Abend wird der Faule fleißig.\n  choice: Fleißig wie eine Biene.\nGerman equivalent:",
-        "targets": [
-            "Hummeln im Hintern haben."
-        ],
-        "multiple_choice_targets": [
-            "eine Schwalbe macht noch keinen Sommer.",
-            "man soll den Tag nicht vor dem Abend loben.",
-            "man soll das Fell des Bären nicht verteilen, bevor er erlegt ist.",
-            "Der Tag endet mit dem Sonnenuntergang."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 33,
-        "inputs": "Swedish proverb: Skrattar bäst som skrattar sist.\n  choice: Die Ratten verlassen das sinkende Schiff.\n  choice: Wer zuletzt lacht, lacht am besten.\n  choice: Die Hoffnung stirbt zuletzt.\n  choice: Lachen ist die beste Medizin.\nGerman equivalent:",
-        "targets": [
-            "Schlafende Hunde soll man nicht wecken."
-        ],
-        "multiple_choice_targets": [
-            "Die Ruhe vor dem Sturm.",
-            "Ein gutes Gewissen ist ein sanftes Ruhekissen.",
-            "Man soll den Tag nicht vor dem Abend loben.",
-            "In der Ruhe liegt die Kraft."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 17,
-        "inputs": "Swedish proverb: Vara ute i djupt vatten.\n  choice: Begib dich nicht in die Höhle des Löwen.\n  choice: Sich auf unsicherem Boden bewegen.\n  choice: Abends werden die Faulen fleißig.\n  choice: In tiefem Wasser sein.\nGerman equivalent:",
-        "targets": [
-            "Was dich nicht umbringt, macht dich stärker."
-        ],
-        "multiple_choice_targets": [
-            "Es gehören immer zwei dazu.",
-            "Wenn zwei sich streiten, freut sich der Dritte.",
-            "Einer spinnt immer.",
-            "Alles hat ein Ende, nur die Wurst hat zwei."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 14,
-        "inputs": "Swedish proverb: Få smaka sin egen medecin.\n  choice: Lachen ist die beste Medizin.\n  choice: Seine eigene Medizin schmecken.\n  choice: Jedes Böhnchen gibt ein Tönchen.\n  choice: Schadenfreude ist die beste Freude.\nGerman equivalent:",
-        "targets": [
-            "Gelindere Saiten aufziehen."
-        ],
-        "multiple_choice_targets": [
-            "Die Ratten verlassen das sinkende Schiff.",
-            "Wer zuletzt lacht, lacht am besten.",
-            "Lachen ist die beste Medizin.",
-            "Die Hoffnung stirbt zuletzt."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 49,
-        "inputs": "Swedish proverb: Man kan inte både äta kakan och ha den kvar.\n  choice: Man kann den Kuchen nicht gleichzeitig essen und aufbewahren.\n  choice: Wenn der Kuchen spricht, schweigen die Krümel.\n  choice: Kleine Geschenke erhalten die Freundschaft.\n  choice: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.\nGerman equivalent:",
-        "targets": [
-            "Salz in die Wunde streuen."
-        ],
-        "multiple_choice_targets": [
-            "Die Fahne dreht sich nach dem Wind.",
-            "Den Mantel nach dem Winde hängen.",
-            "Wenn der Wind des Wandels weht, bauen die Einen Schutzmauern, die Anderen bauen Windmühlen.",
-            "Wer Wind sät, wird Sturm ernten"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 70,
-        "inputs": "Swedish proverb: Allt är inte guld som glimmar.\n  choice: Es ist nicht alles Gold, was glänzt.\n  choice: Nicht alles, was Gold ist, funkelt, Nicht jeder, der wandert, verloren.\n  choice: Eigener Herd ist Goldes wert.\n  choice: Morgenstund hat Gold im Mund.\nGerman equivalent:",
-        "targets": [
-            "Ein Spatz in der Hand ist besser als die Taube auf dem Dach"
-        ],
-        "multiple_choice_targets": [
-            "Ein Apfel am Tach hält den Doktor in Schach.",
-            "Einen alten Baum verpflanzt man nicht.",
-            "Der Apfel fällt nicht weit vom Stamm.",
-            "Wie du mir, so ich dir."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 43,
-        "inputs": "Swedish proverb: En fågel i handen är bättre än tio i skogen.\n  choice: Der frühe Vogel fängt den Wurm.\n  choice: Ein Vogel in der Hand ist so viel Wert wie zwei im Busch.\n  choice: Den Wald vor lauter Bäumen nicht sehen.\n  choice: Ein Spatz in der Hand ist besser als die Taube auf dem Dach\nGerman equivalent:",
-        "targets": [
-            "Wo Rauch ist, ist auch Feuer."
-        ],
-        "multiple_choice_targets": [
-            "Was lange währt, wird endlich gut.",
-            "Zwei Fliegen mit einer Klappe schlagen.",
-            "Fliegen und Freunde kommen im Sommer.",
-            "Wer mit Hunden zu Bett geht, steht mit Flöhen auf."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 58,
-        "inputs": "Swedish proverb: Alla vägar bär till Rom.\n  choice: Alle Wege sind aus Rom.\n  choice: Rom wurde nicht an einem Tag gebaut.\n  choice: Alle Wege führen nach Rom.\n  choice: Der Weg ist das Ziel.\nGerman equivalent:",
-        "targets": [
-            "Wer A sagt, muss auch B sagen."
-        ],
-        "multiple_choice_targets": [
-            "Im selben Boot sitzen.",
-            "Das Kind mit dem Bade ausschütten.",
-            "Auf alten Schiffen lernt man segeln.",
-            "Aus Schaden wird man klug."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 64,
-        "inputs": "Swedish proverb: Det är lättare sagt än gjort.\n  choice: Dummheit muss weh tun.\n  choice: Viel Lärm um Nichts.\n  choice: Der frühe Vogel fängt den Wurm.\n  choice: Leichter gesagt als getan.\nGerman equivalent:",
-        "targets": [
-            "Für kein Geld der Welt."
-        ],
-        "multiple_choice_targets": [
-            "Im selben Boot sitzen.",
-            "Das Kind mit dem Bade ausschütten.",
-            "Auf alten Schiffen lernt man segeln.",
-            "Aus Schaden wird man klug."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 19,
-        "inputs": "Swedish proverb: Lätt fånget lätt förgånget.\n  choice: Pech im Spiel, Glück in der Liebe.\n  choice: Wie gewonnen, so zerronnen.\n  choice: Leicht gefangen, leicht vergangen.\n  choice: Scherben bringen Glück.\nGerman equivalent:",
-        "targets": [
-            "Gelindere Saiten aufziehen."
-        ],
-        "multiple_choice_targets": [
-            "Gelegenheit macht Diebe.",
-            "Übung macht den Meister.",
-            "Ohne Fleiß kein Preis.",
-            "Früh übt sich, was ein Meister werden will."
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 0,
         "inputs": "Swedish proverb: Ju fler kockar desto sämre soppan.\n  choice: Jemandem die Suppe versalzen.\n  choice: Viele Köche verderben den Brei.\n  choice: Je mehr, desto besser.\n  choice: Liebe geht durch den Magen.\nGerman equivalent:",
         "targets": [
-            "Der Wolf im Schafspelz"
+            "Viele Köche verderben den Brei."
         ],
         "multiple_choice_targets": [
-            "Das geringere Übel wählen.",
-            "Wer die Wahl hat, hat die Qual.",
-            "Dem Betrübten ist übel geigen.",
-            "Die Wahl haben zwischen Pest und Cholera."
+            "Je mehr, desto besser.",
+            "Viele Köche verderben den Brei.",
+            "Jemandem die Suppe versalzen.",
+            "Liebe geht durch den Magen."
         ],
         "multiple_choice_scores": [
             0,
-            0,
             1,
+            0,
             0
         ]
     },
     {
-        "idx": 46,
-        "inputs": "Swedish proverb: Inte se skogen för alla träd.\n  choice: Ein Baum macht noch keinen Wald.\n  choice: Wie man in den Wald hinein ruft, schallt es heraus\n  choice: Den Wald vor lauter Bäumen nicht sehen.\n  choice: Einen alten Baum verpflanzt man nicht.\nGerman equivalent:",
+        "idx": 7,
+        "inputs": "Swedish proverb: Den enes bröd den andres död.\n  choice: Des einen Brot, des anderen Tod\n  choice: Was dem einen sin Uhl, ist dem andern sin Nachtigall.\n  choice: Altes Brot ist nicht hart, kein Brot, das ist hart.\n  choice: In der Not, schmeckt die Wurst auch ohne Brot.\nGerman equivalent:",
         "targets": [
-            "Einen Finger im Spiel haben."
+            "Des einen Brot, des anderen Tod"
         ],
         "multiple_choice_targets": [
             "Was dem einen sin Uhl, ist dem andern sin Nachtigall.",
@@ -335,23 +316,23 @@
             "In der Not, schmeckt die Wurst auch ohne Brot."
         ],
         "multiple_choice_scores": [
-            1,
             0,
+            1,
             0,
             0
         ]
     },
     {
-        "idx": 10,
-        "inputs": "Swedish proverb: Det är en annan femma.\n  choice: Das ist eine andere Geschichte.\n  choice: Ohne Fleiß kein Preis.\n  choice: Das ist ein anderer Fünfer.\n  choice: Ein völlig anderes Paar Schuhe.\nGerman equivalent:",
+        "idx": 29,
+        "inputs": "Swedish proverb: Ha en skruv lös.\n  choice: Eine Schraube locker haben.\n  choice: Wer den Pfennig nicht ehrt, ist des Talers nicht wert.\n  choice: Die Katze aus dem Sack lassen.\n  choice: Nicht alle Tassen im Schrank haben.\nGerman equivalent:",
         "targets": [
-            "Der Wolf im Schafspelz"
+            "Eine Schraube locker haben."
         ],
         "multiple_choice_targets": [
-            "Man soll den Tag nicht vor dem Abend loben.",
-            "Wer anderen eine Grube gräbt, fällt selbst hinein",
-            "Wer anderen eine Grube gräbt, der hat ein Grubengrabgerät.",
-            "Den Wald vor lauter Bäumen nicht sehen."
+            "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+            "Die Katze aus dem Sack lassen.",
+            "Eine Schraube locker haben.",
+            "Nicht alle Tassen im Schrank haben."
         ],
         "multiple_choice_scores": [
             0,
@@ -361,20 +342,39 @@
         ]
     },
     {
-        "idx": 16,
-        "inputs": "Swedish proverb: Familjens svarta får.\n  choice: Der Pechvogel der Familie.\n  choice: Er gönnt ihm nicht das Schwarze unter den Fingernägeln.\n  choice: Das schwarze Schaf der Familie.\n  choice: Ein Schaf im Wolfspelz.\nGerman equivalent:",
+        "idx": 4,
+        "inputs": "Swedish proverb: Bränt barn skyr elden.\n  choice: Einmal gebissen, das nächste Mal schüchtern.\n  choice: Messer, Gabel, Schere, Licht, sind für kleine Kinder nicht.\n  choice: Ein gebranntes Kind scheut das Feuer.\n  choice: Man muß dem Kind einen Namen geben.\nGerman equivalent:",
         "targets": [
-            "So sicher wie das Amen in der Kirche."
+            "Ein gebranntes Kind scheut das Feuer."
         ],
         "multiple_choice_targets": [
-            "jemandem einen Bären aufbinden.",
-            "jemanden auf den Arm nehmen.",
-            "jemandem ein X für ein U vormachen.",
-            "Mit jemandem fahren."
+            "Einmal gebissen, das nächste Mal schüchtern.",
+            "Ein gebranntes Kind scheut das Feuer.",
+            "Messer, Gabel, Schere, Licht, sind für kleine Kinder nicht.",
+            "Man muß dem Kind einen Namen geben."
         ],
         "multiple_choice_scores": [
             0,
             1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Swedish proverb: Inte se längre än näsan räcker.\n  choice: Lügen haben kurze Beine.\n  choice: Nicht über den Tellerrand hinausgucken.\n  choice: Besser eine schiefe Nase als gar keine.\n  choice: Nicht weiter sehen als bis zur Nasenspitze.\nGerman equivalent:",
+        "targets": [
+            "Nicht über den Tellerrand hinausgucken."
+        ],
+        "multiple_choice_targets": [
+            "Nicht über den Tellerrand hinausgucken.",
+            "Nicht weiter sehen als bis zur Nasenspitze.",
+            "Lügen haben kurze Beine.",
+            "Besser eine schiefe Nase als gar keine."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
             0,
             0
         ]

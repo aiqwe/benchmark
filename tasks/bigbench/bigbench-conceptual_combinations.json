@@ -1,15 +1,15 @@
 [
     {
-        "idx": 10,
-        "inputs": "Concept: ancient saws. Question: Which of the following sentences best characterizes ancient saws?\n option: Ancient saws are rusty.\n option: Ancient saws are wise.\n option: Ancient saws are precious.\n option: Ancient saws are sharp.\nAnswer:",
+        "idx": 4,
+        "inputs": "Concept: Pretty ugly. Question: Which of the following sentences best characterizes pretty ugly people?\n option: Pretty ugly people are homely.\n option: Pretty ugly people are pretty.\n option: Pretty ugly people are dangerous.\n option: Pretty ugly people are morally corrupt.\nAnswer:",
         "targets": [
-            "Ancient saws are rusty."
+            "Pretty ugly people are homely."
         ],
         "multiple_choice_targets": [
-            "Ancient saws are rusty.",
-            "Ancient saws are sharp.",
-            "Ancient saws are precious.",
-            "Ancient saws are wise."
+            "Pretty ugly people are homely.",
+            "Pretty ugly people are pretty.",
+            "Pretty ugly people are dangerous.",
+            "Pretty ugly people are morally corrupt."
         ],
         "multiple_choice_scores": [
             1,
@@ -19,16 +19,92 @@
         ]
     },
     {
-        "idx": 10,
-        "inputs": "The word 'frumious' is an adjective for things that are very threatening. Question: Which of the following sentences best characterizes frumious pets?\n option: Frumious pets are great companions for little children.\n option: Most people prefer frumious pets over puppies.\n option: Frumious pets are easy to recycle.\n option: If you want a frumious pet, a rattlesnake is a good choice.\nAnswer:",
+        "idx": 3,
+        "inputs": "Concept: Extroverted introvert. Question: Which of the following sentences best characterizes extroverted introverts?\n option: Extroverted introverts are friendly but like to be alone.\n option: Extroverted introverts turn themselves inside-out.\n option: Extroverted introverts are B-list celebrities.\n option: Extroverted introverts should never meet strangers in public places.\nAnswer:",
         "targets": [
-            "If you want a frumious pet, a rattlesnake is a good choice."
+            "Extroverted introverts are friendly but like to be alone."
         ],
         "multiple_choice_targets": [
-            "If you want a frumious pet, a rattlesnake is a good choice.",
-            "Frumious pets are great companions for little children.",
-            "Frumious pets are easy to recycle.",
-            "Most people prefer frumious pets over puppies."
+            "Extroverted introverts are friendly but like to be alone.",
+            "Extroverted introverts should never meet strangers in public places.",
+            "Extroverted introverts are B-list celebrities.",
+            "Extroverted introverts turn themselves inside-out."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 11,
+        "inputs": "Concept: distasteful taste. Question: Which of the following sentences best characterizes distateful tastes?\n option: Distasteful tastes lack flavour.\n option: Distasteful tastes titillate your taste buds.\n option: Distasteful tastes are unflattering.\n option: Distasteful tastes make good dishes.\nAnswer:",
+        "targets": [
+            "Distasteful tastes are unflattering."
+        ],
+        "multiple_choice_targets": [
+            "Distasteful tastes are unflattering.",
+            "Distasteful tastes lack flavour.",
+            "Distasteful tastes make good dishes.",
+            "Distasteful tastes titillate your taste buds."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 11,
+        "inputs": "Concept: Russian novels. Question: Which of the following sentences best characterizes Russian novels?\n option: Russian novels are communist.\n option: Russian novels are written in Russian.\n option: Russian novels are cold in the winter.\n option: Russian novels are unfinished.\nAnswer:",
+        "targets": [
+            "Russian novels are written in Russian."
+        ],
+        "multiple_choice_targets": [
+            "Russian novels are written in Russian.",
+            "Russian novels are communist.",
+            "Russian novels are cold in the winter.",
+            "Russian novels are unfinished."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Concept: dirty bowls. Question: Which of the following sentences best characterizes dirty bowls?\n option: Dirty bowls are delicious.\n option: Dirty bowls are sticky.\n option: Dirty bowls are classy.\n option: Dirty bowls are rusty.\nAnswer:",
+        "targets": [
+            "Dirty bowls are sticky."
+        ],
+        "multiple_choice_targets": [
+            "Dirty bowls are sticky.",
+            "Dirty bowls are rusty.",
+            "Dirty bowls are delicious.",
+            "Dirty bowls are classy."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Concept: boulder-sized diamond. Question: Which of the following sentences best characterizes boulder-sized diamonds?\n option: Boulder-sized diamonds are diamond-shaped rocks.\n option: Boulder-sized diamonds would be extremely valuable.\n option: Boulder-sized diamonds are desirable in engagement rings.\n option: Boulder-sized diamonds are found on ski hills.\nAnswer:",
+        "targets": [
+            "Boulder-sized diamonds would be extremely valuable."
+        ],
+        "multiple_choice_targets": [
+            "Boulder-sized diamonds would be extremely valuable.",
+            "Boulder-sized diamonds are desirable in engagement rings.",
+            "Boulder-sized diamonds are diamond-shaped rocks.",
+            "Boulder-sized diamonds are found on ski hills."
         ],
         "multiple_choice_scores": [
             1,
@@ -57,16 +133,16 @@
         ]
     },
     {
-        "idx": 32,
-        "inputs": "Concept: cheating cyclists. Question: Which of the following sentences best characterizes cheating cyclists?\n option: Cheating cyclists have extramarital affairs.\n option: Cheating cyclists use performance-enhancing drugs.\n option: Cheating cyclists carry their bicycles.\n option: Cheating cyclists use loaded dice.\nAnswer:",
+        "idx": 3,
+        "inputs": "Concept: Extroverted introvert. Question: Which of the following sentences best characterizes extroverted introverts?\n option: Extroverted introverts are friendly but like to be alone.\n option: Extroverted introverts turn themselves inside-out.\n option: Extroverted introverts are B-list celebrities.\n option: Extroverted introverts should never meet strangers in public places.\nAnswer:",
         "targets": [
-            "Cheating cyclists use performance-enhancing drugs."
+            "Extroverted introverts are friendly but like to be alone."
         ],
         "multiple_choice_targets": [
-            "Cheating cyclists use performance-enhancing drugs.",
-            "Cheating cyclists use loaded dice.",
-            "Cheating cyclists have extramarital affairs.",
-            "Cheating cyclists carry their bicycles."
+            "Extroverted introverts are friendly but like to be alone.",
+            "Extroverted introverts should never meet strangers in public places.",
+            "Extroverted introverts are B-list celebrities.",
+            "Extroverted introverts turn themselves inside-out."
         ],
         "multiple_choice_scores": [
             1,
@@ -76,16 +152,16 @@
         ]
     },
     {
-        "idx": 8,
-        "inputs": "Concept: confident doubter. Question: Which of the following sentences best characterizes confident doubters?\n option: Confident doubters are easy to persuade.\n option: Confident doubters are secure in their mistrust.\n option: Confident doubters are debatable.\n option: Confident doubters are good confidants.\nAnswer:",
+        "idx": 3,
+        "inputs": "The word 'ropgo' is an adjective for things that are made of ribbon. Question: Which of the following sentences best characterizes ropgo bows?\n option: Ropgo bows have branches.\n option: Ropgo bows show respect.\n option: Ropgo bows decorate gifts.\n option: Ropgo bows shoot arrows.\nAnswer:",
         "targets": [
-            "Confident doubters are secure in their mistrust."
+            "Ropgo bows decorate gifts."
         ],
         "multiple_choice_targets": [
-            "Confident doubters are secure in their mistrust.",
-            "Confident doubters are easy to persuade.",
-            "Confident doubters are good confidants.",
-            "Confident doubters are debatable."
+            "Ropgo bows decorate gifts.",
+            "Ropgo bows have branches.",
+            "Ropgo bows show respect.",
+            "Ropgo bows shoot arrows."
         ],
         "multiple_choice_scores": [
             1,
@@ -95,92 +171,16 @@
         ]
     },
     {
-        "idx": 1,
-        "inputs": "The word 'dlort' is an adjective for things that are dogs. Question: Which of the following sentences best characterizes dlort boxers?\n option: Dlort boxers fight for the heavyweight belt.\n option: Dlort boxers move inwards and outwards at the same time.\n option: Dlort boxers are loose in the leg.\n option: Dlort boxers have brown coats.\nAnswer:",
+        "idx": 9,
+        "inputs": "Concept: short pants. Question: Which of the following sentences best characterizes short pants?\n option: Short pants cannot reach high.\n option: Short pants have empty pockets.\n option: Short pants are better made.\n option: Short pants expose knees.\nAnswer:",
         "targets": [
-            "Dlort boxers have brown coats."
+            "Short pants expose knees."
         ],
         "multiple_choice_targets": [
-            "Dlort boxers have brown coats.",
-            "Dlort boxers fight for the heavyweight belt.",
-            "Dlort boxers are loose in the leg.",
-            "Dlort boxers move inwards and outwards at the same time."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 2,
-        "inputs": "The word 'parg' is an adjective for things that humans dislike. Question: Which of the following sentences best characterizes parg kittens?\n option: Parg kittens are normally adopted.\n option: Parg kittens dislike humans.\n option: Parg kittens are adorable little cats.\n option: Parg kittens are not cute.\nAnswer:",
-        "targets": [
-            "Parg kittens are not cute."
-        ],
-        "multiple_choice_targets": [
-            "Parg kittens are not cute.",
-            "Parg kittens are adorable little cats.",
-            "Parg kittens dislike humans.",
-            "Parg kittens are normally adopted."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 7,
-        "inputs": "The word 'nonat' means an object that sprouts from the ground, and the word 'plinc' means a an object that has not been built by humans. Question: Which of the following sentences best characterizes plinc nonats?\n option: Plinc nonats are often inexperienced.\n option: Some plinc nonats have steel foundations.\n option: Daisies are plinc nonats.\n option: Saturn is a plinc nonat.\nAnswer:",
-        "targets": [
-            "Daisies are plinc nonats."
-        ],
-        "multiple_choice_targets": [
-            "Daisies are plinc nonats.",
-            "Some plinc nonats have steel foundations.",
-            "Saturn is a plinc nonat.",
-            "Plinc nonats are often inexperienced."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 16,
-        "inputs": "Concept: blind ostriches. Question: Which of the following sentences best characterizes blind ostriches?\n option: Blind ostriches are vulnerable.\n option: Blind ostriches use white canes.\n option: Blind ostriches are strong.\n option: Blind ostriches block the light.\nAnswer:",
-        "targets": [
-            "Blind ostriches are vulnerable."
-        ],
-        "multiple_choice_targets": [
-            "Blind ostriches are vulnerable.",
-            "Blind ostriches block the light.",
-            "Blind ostriches are strong.",
-            "Blind ostriches use white canes."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 23,
-        "inputs": "Concept: American cheese. Question: Which of the following sentences best characterizes American cheese?\n option: American cheese is made from the milk of Americans.\n option: American cheese was discovered by Columbus.\n option: American cheese is a kind of apple pie.\n option: American cheese melts very easily.\nAnswer:",
-        "targets": [
-            "American cheese melts very easily."
-        ],
-        "multiple_choice_targets": [
-            "American cheese melts very easily.",
-            "American cheese is a kind of apple pie.",
-            "American cheese was discovered by Columbus.",
-            "American cheese is made from the milk of Americans."
+            "Short pants expose knees.",
+            "Short pants cannot reach high.",
+            "Short pants have empty pockets.",
+            "Short pants are better made."
         ],
         "multiple_choice_scores": [
             1,
@@ -209,16 +209,16 @@
         ]
     },
     {
-        "idx": 31,
-        "inputs": "Concept: tumbling gymnasts. Question: Which of the following sentences best characterizes tumbling gymnasts?\n option: Tumbling gymnasts are typically clumsy\n option: Tumbling gymnasts work best on a warm cycle\n option: Tumbling gymnasts are likely to have tripped over something.\n option: Tumbling gymnasts require plenty of floor space\nAnswer:",
+        "idx": 6,
+        "inputs": "The word 'pokt' means forests, and the word 'wolm' means wet. Question: Which of the following sentences best characterizes wolm pokts?\n option: Wolm pokts are outdoor showers.\n option: Wolm pokts can be dried with a towel.\n option: Rubber boots are good for walking in wolm pokts.\n option: Wolm pokts are refreshing to drink.\nAnswer:",
         "targets": [
-            "Tumbling gymnasts require plenty of floor space"
+            "Rubber boots are good for walking in wolm pokts."
         ],
         "multiple_choice_targets": [
-            "Tumbling gymnasts require plenty of floor space",
-            "Tumbling gymnasts are likely to have tripped over something.",
-            "Tumbling gymnasts are typically clumsy",
-            "Tumbling gymnasts work best on a warm cycle"
+            "Rubber boots are good for walking in wolm pokts.",
+            "Wolm pokts are refreshing to drink.",
+            "Wolm pokts are outdoor showers.",
+            "Wolm pokts can be dried with a towel."
         ],
         "multiple_choice_scores": [
             1,
@@ -228,35 +228,16 @@
         ]
     },
     {
-        "idx": 4,
-        "inputs": "Concept: uncaged canaries. Question: Which of the following sentences best characterizes uncaged canaries?\n option: Uncaged canaries can freely express their political opinions.\n option: Uncaged canaries live in South America.\n option: Uncaged canaries are ten times as powerful.\n option: Uncaged canaries grow more wings.\nAnswer:",
+        "idx": 12,
+        "inputs": "The word 'maxome' means a deep-seated habit, and the word 'tumtum' means something that a society finds objectionable. Question: Which of the following sentences best characterizes tumtum maxomes?\n option: Tumtum maxomes are all crimes.\n option: Tumtum maxomes do not like leaving the sofa.\n option: Many discriminatory behaviours are tumtum maxomes.\n option: Tumtum maxomes are very comfy.\nAnswer:",
         "targets": [
-            "Uncaged canaries live in South America."
+            "Many discriminatory behaviours are tumtum maxomes."
         ],
         "multiple_choice_targets": [
-            "Uncaged canaries live in South America.",
-            "Uncaged canaries are ten times as powerful.",
-            "Uncaged canaries can freely express their political opinions.",
-            "Uncaged canaries grow more wings."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 1,
-        "inputs": "Concept: Sinless sinner. Question: Which of the following sentences best characterizes sinless sinners?\n option: Sinless sinners are letters of the alphabet.\n option: Sinless sinners have no clue.\n option: No one can be a sinless sinner.\n option: Sinless sinners can be venial or capital.\nAnswer:",
-        "targets": [
-            "No one can be a sinless sinner."
-        ],
-        "multiple_choice_targets": [
-            "No one can be a sinless sinner.",
-            "Sinless sinners have no clue.",
-            "Sinless sinners are letters of the alphabet.",
-            "Sinless sinners can be venial or capital."
+            "Many discriminatory behaviours are tumtum maxomes.",
+            "Tumtum maxomes are all crimes.",
+            "Tumtum maxomes are very comfy.",
+            "Tumtum maxomes do not like leaving the sofa."
         ],
         "multiple_choice_scores": [
             1,
@@ -267,15 +248,15 @@
     },
     {
         "idx": 1,
-        "inputs": "The word 'torg' is an adjective for animals that feed on big prey. Question: Which of the following sentences best characterizes torg flies?\n option: Torg flies are fed up.\n option: Torg flies prey on animals larger than themselves.\n option: Torg flies are big preys.\n option: Torg flies feed big prey.\nAnswer:",
+        "inputs": "The word 'dlort' is an adjective for things that are dogs. Question: Which of the following sentences best characterizes dlort boxers?\n option: Dlort boxers fight for the heavyweight belt.\n option: Dlort boxers move inwards and outwards at the same time.\n option: Dlort boxers are loose in the leg.\n option: Dlort boxers have brown coats.\nAnswer:",
         "targets": [
-            "Torg flies prey on animals larger than themselves."
+            "Dlort boxers have brown coats."
         ],
         "multiple_choice_targets": [
-            "Torg flies prey on animals larger than themselves.",
-            "Torg flies are big preys.",
-            "Torg flies feed big prey.",
-            "Torg flies are fed up."
+            "Dlort boxers have brown coats.",
+            "Dlort boxers fight for the heavyweight belt.",
+            "Dlort boxers are loose in the leg.",
+            "Dlort boxers move inwards and outwards at the same time."
         ],
         "multiple_choice_scores": [
             1,
@@ -285,16 +266,16 @@
         ]
     },
     {
-        "idx": 24,
-        "inputs": "concept: folding companies. Question: Which of the following sentences best characterizes folding companies?\n option: Folding companies contribute to unemployment.\n option: Folding companies produce folds.\n option: Folding companies can fit in small spaces.\n option: Folding companies manufacture origami.\nAnswer:",
+        "idx": 37,
+        "inputs": "Concept: weighted dice. Question: Which of the following sentences best characterizes weighted dice?\n option: Weighted dice are too heavy for children to lift.\n option: Weighted dice bounce less than unweighted dice.\n option: Weighted dice are good for building muscle.\n option: Weighted dice are used by dishonest players.\nAnswer:",
         "targets": [
-            "Folding companies contribute to unemployment."
+            "Weighted dice are used by dishonest players."
         ],
         "multiple_choice_targets": [
-            "Folding companies contribute to unemployment.",
-            "Folding companies can fit in small spaces.",
-            "Folding companies manufacture origami.",
-            "Folding companies produce folds."
+            "Weighted dice are used by dishonest players.",
+            "Weighted dice are too heavy for children to lift.",
+            "Weighted dice bounce less than unweighted dice.",
+            "Weighted dice are good for building muscle."
         ],
         "multiple_choice_scores": [
             1,
@@ -304,16 +285,16 @@
         ]
     },
     {
-        "idx": 4,
-        "inputs": "The word 'sopgo' is an adjective for things that are social customs. Question: Which of the following sentences best characterizes sopgo bows?\n option: Sopgo bows are expected when greeting royalty.\n option: Sopgo bows need to be strung.\n option: Birds build nests in sopgo bows.\n option: Sopgo bows are tied with knots.\nAnswer:",
+        "idx": 12,
+        "inputs": "Concept: empty stores. Question: Which of the following sentences best characterizes empty stores?\n option: Empty stores are light.\n option: Empty stores make money.\n option: Empty stores are crowded.\n option: Empty stores lose money.\nAnswer:",
         "targets": [
-            "Sopgo bows are expected when greeting royalty."
+            "Empty stores lose money."
         ],
         "multiple_choice_targets": [
-            "Sopgo bows are expected when greeting royalty.",
-            "Birds build nests in sopgo bows.",
-            "Sopgo bows are tied with knots.",
-            "Sopgo bows need to be strung."
+            "Empty stores lose money.",
+            "Empty stores make money.",
+            "Empty stores are crowded.",
+            "Empty stores are light."
         ],
         "multiple_choice_scores": [
             1,
@@ -323,16 +304,16 @@
         ]
     },
     {
-        "idx": 14,
-        "inputs": "Concept: deadly caregiver. Question: Which of the following sentences best characterizes deadly caregivers?\n option: Healthcare systems struggle due to the lack of deadly caregivers.\n option: Morphine overdoses are deadly caregivers.\n option: Deadly caregivers take care of terminal patients.\n option: Homicidal nurses are deadly caregivers.\nAnswer:",
+        "idx": 1,
+        "inputs": "Concept: Talking mice. Question: Which of the following sentences best characterizes talking mice?\n option: Talking mice have booming voices.\n option: Talking mice have squeaky voices.\n option: Talking mice are very rude.\n option: Talking mice have no words for cheese.\nAnswer:",
         "targets": [
-            "Homicidal nurses are deadly caregivers."
+            "Talking mice have squeaky voices."
         ],
         "multiple_choice_targets": [
-            "Homicidal nurses are deadly caregivers.",
-            "Deadly caregivers take care of terminal patients.",
-            "Healthcare systems struggle due to the lack of deadly caregivers.",
-            "Morphine overdoses are deadly caregivers."
+            "Talking mice have squeaky voices.",
+            "Talking mice have booming voices.",
+            "Talking mice have no words for cheese.",
+            "Talking mice are very rude."
         ],
         "multiple_choice_scores": [
             1,
@@ -342,16 +323,16 @@
         ]
     },
     {
-        "idx": 11,
-        "inputs": "The word 'vorpal' means something that is difficult to express in words, and the word 'borogove' means a complicated feeling or emotion. Question: Which of the following sentences best characterizes vorpal borogoves?\n option: Psychotheraphy can help better understand vorpal borogoves.\n option: Vorpal borogoves make good subjects for water-cooler conversations.\n option: Novelists never care about vorpal borogoves.\n option: Vorpal borogoves are easy to express in equations.\nAnswer:",
+        "idx": 7,
+        "inputs": "The word 'muphe' is an adjective for things that are magnetic. Question: Which of the following sentences best characterizes muphe poles?\n option: Muphe poles eat cabbage rolls.\n option: Skiers use muphe poles.\n option: Muphe poles are very cold.\n option: Muphe poles have positive or negative charge.\nAnswer:",
         "targets": [
-            "Psychotheraphy can help better understand vorpal borogoves."
+            "Muphe poles have positive or negative charge."
         ],
         "multiple_choice_targets": [
-            "Psychotheraphy can help better understand vorpal borogoves.",
-            "Novelists never care about vorpal borogoves.",
-            "Vorpal borogoves are easy to express in equations.",
-            "Vorpal borogoves make good subjects for water-cooler conversations."
+            "Muphe poles have positive or negative charge.",
+            "Skiers use muphe poles.",
+            "Muphe poles are very cold.",
+            "Muphe poles eat cabbage rolls."
         ],
         "multiple_choice_scores": [
             1,
@@ -361,16 +342,35 @@
         ]
     },
     {
-        "idx": 3,
-        "inputs": "Concept: small couches. Question: Which of the following sentences best characterizes small couches?\n option: Small couches are smaller than chairs.\n option: Small couches seat only two people.\n option: Small couches are perfect for big families.\n option: Small couches fit in an envelope.\nAnswer:",
+        "idx": 19,
+        "inputs": "Concept: contagious laughter. Question: Which of the following sentences best characterizes contagious laughter?\n option: Contagious laughter makes you sneeze.\n option: There is a vaccine for contagious laughter.\n option: Contagious laughter can cause permanent damage.\n option: Shared jokes cause contagious laughter.\nAnswer:",
         "targets": [
-            "Small couches seat only two people."
+            "Shared jokes cause contagious laughter."
         ],
         "multiple_choice_targets": [
-            "Small couches seat only two people.",
-            "Small couches fit in an envelope.",
-            "Small couches are perfect for big families.",
-            "Small couches are smaller than chairs."
+            "Shared jokes cause contagious laughter.",
+            "Contagious laughter makes you sneeze.",
+            "Contagious laughter can cause permanent damage.",
+            "There is a vaccine for contagious laughter."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Concept: Colourless red surfaces. Question: Which of the following sentences best characterizes colourless red surfaces?\n option: Colourless red surfaces are good tabletops for kitchens.\n option: Colourless red surfaces cannot exist.\n option: Colourless red surfaces are both red and green.\n option: Colourless red surfaces are used often in interior decoration.\nAnswer:",
+        "targets": [
+            "Colourless red surfaces cannot exist."
+        ],
+        "multiple_choice_targets": [
+            "Colourless red surfaces cannot exist.",
+            "Colourless red surfaces are both red and green.",
+            "Colourless red surfaces are good tabletops for kitchens.",
+            "Colourless red surfaces are used often in interior decoration."
         ],
         "multiple_choice_scores": [
             1,

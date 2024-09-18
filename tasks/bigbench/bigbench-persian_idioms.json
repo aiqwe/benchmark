@@ -1,14 +1,52 @@
 [
     {
-        "idx": 6,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: ناخن خشک بودن\n  choice: خوشحال بودن\n  choice: ناخن زیبا داشتن\n  choice: خسیس بودن\n  choice: مشکل ناخن داشتن\nLiteral meaning:",
+        "idx": 12,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: خون خود را کثیف کردن\n  choice: خون تزریق کردن\n  choice: هیچکدام\n  choice: بحث بی فایده کردن\n  choice: مواد مصرف کردن\nLiteral meaning:",
         "targets": [
-            "همه موارد"
+            "بحث بی فایده کردن"
         ],
         "multiple_choice_targets": [
-            "foolish",
-            "thoughtless",
-            "stupid",
+            "مواد مصرف کردن",
+            "بحث بی فایده کردن",
+            "خون تزریق کردن",
+            "هیچکدام"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دبه کردن\n  choice: breach of promise\n  choice: not Keeping your Word \n  choice: all of them\n  choice: break the contract\nLiteral meaning:",
+        "targets": [
+            "all of them"
+        ],
+        "multiple_choice_targets": [
+            "breach of promise",
+            "break the contract",
+            "not Keeping your Word",
+            "all of them"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یک مشت سنگ\n  choice: disagree; to be against something\n  choice: worthless\n  choice: all of them\n  choice: kicking someone\nLiteral meaning:",
+        "targets": [
+            "worthless"
+        ],
+        "multiple_choice_targets": [
+            "disagree; to be against something",
+            "kicking someone",
+            "worthless",
             "all of them"
         ],
         "multiple_choice_scores": [
@@ -19,8 +57,160 @@
         ]
     },
     {
-        "idx": 23,
+        "idx": 58,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: سبک سر\n  choice: foolish\n  choice: thoughtless\n  choice: all of them\n  choice: stupid\nLiteral meaning:",
+        "targets": [
+            "all of them"
+        ],
+        "multiple_choice_targets": [
+            "foolish",
+            "thoughtless",
+            "stupid",
+            "all of them"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 46,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: به خاک سیاه نشستن\n  choice: miserable\n  choice: uncomfortable\n  choice: all of them\n  choice: to lose everything\nLiteral meaning:",
+        "targets": [
+            "all of them"
+        ],
+        "multiple_choice_targets": [
+            "miserable",
+            "uncomfortable",
+            "to lose everything",
+            "all of them"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یکی به دو کردن\n  choice: زیاد حرف زدن و پرحرفی کردن\n  choice: کل کل کردن\n  choice: دعوا و بحث کردن\n  choice: همه موارد\nLiteral meaning:",
+        "targets": [
+            "همه موارد"
+        ],
+        "multiple_choice_targets": [
+            "دعوا و بحث کردن",
+            "زیاد حرف زدن و پرحرفی کردن",
+            "کل کل کردن",
+            "همه موارد"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 47,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دبه کردن\n  choice: خرید کردن\n  choice: همه موارد\n  choice: بد عهدی کردن\n  choice: ظرف پیدا کردن\nLiteral meaning:",
+        "targets": [
+            "بد عهدی کردن"
+        ],
+        "multiple_choice_targets": [
+            "بد عهدی کردن",
+            "ظرف پیدا کردن",
+            "خرید کردن",
+            "همه موارد"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: به خاک سیاه نشستن\n  choice: بدشانسی آوردن\n  choice: همه چیز را از دست دادن\n  choice: بدبخت شدن\n  choice: همه موارد\nLiteral meaning:",
+        "targets": [
+            "همه موارد"
+        ],
+        "multiple_choice_targets": [
+            "بدبخت شدن",
+            "همه چیز را از دست دادن",
+            "بدشانسی آوردن",
+            "همه موارد"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: کیف کوک بودن\n  choice: خوشحال بودن\n  choice: کوک بودن\n  choice: حس خوبی داشتن\n  choice: همه موارد\nLiteral meaning:",
+        "targets": [
+            "همه موارد"
+        ],
+        "multiple_choice_targets": [
+            "حس خوبی داشتن",
+            "خوشحال بودن",
+            "همه موارد",
+            "کوک بودن"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یک مشت سنگ\n  choice: همه موارد\n  choice: چیز بی ارزش\n  choice: مشتی از جنس سنگ\n  choice: هیچکدام\nLiteral meaning:",
+        "targets": [
+            "چیز بی ارزش"
+        ],
+        "multiple_choice_targets": [
+            "چیز بی ارزش",
+            "مشتی از جنس سنگ",
+            "همه موارد",
+            "هیچکدام"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9,
         "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: گول کسی را خوردن\n  choice: eating something bad\n  choice: none of them\n  choice: being deceived\n  choice: give someone a loan\nLiteral meaning:",
+        "targets": [
+            "being deceived"
+        ],
+        "multiple_choice_targets": [
+            "being deceived",
+            "eating something bad",
+            "give someone a loan",
+            "none of them"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یکی به دو کردن\n  choice: arguing\n  choice: talking too much\n  choice: all of them\n  choice: blabbed; blabbing\nLiteral meaning:",
         "targets": [
             "all of them"
         ],
@@ -38,53 +228,15 @@
         ]
     },
     {
-        "idx": 42,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: به خاک سیاه نشستن\n  choice: بدشانسی آوردن\n  choice: همه چیز را از دست دادن\n  choice: بدبخت شدن\n  choice: همه موارد\nLiteral meaning:",
+        "idx": 31,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: مگر از روی نعش من رد شوی\n  choice: disagree; to be against something\n  choice: kicking someone\n  choice: all of them\n  choice: hit someone\nLiteral meaning:",
         "targets": [
-            "get angry"
+            "disagree; to be against something"
         ],
         "multiple_choice_targets": [
-            "procrastinate",
-            "delaying something",
-            "linger",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 4,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: به هر دری زدن\n  choice: go for all the chances\n  choice: take every chance\n  choice: all of them\n  choice: left no stones unturned\nLiteral meaning:",
-        "targets": [
-            "همه موارد"
-        ],
-        "multiple_choice_targets": [
-            "being deceived",
-            "eating something bad",
-            "give someone a loan",
-            "none of them"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 46,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: پرچونه بودن\n  choice: زیاد صحبت کردن\n  choice: پر حرف بودن\n  choice: خیلی حرف زدن\n  choice: همه موارد\nLiteral meaning:",
-        "targets": [
-            "being deceived"
-        ],
-        "multiple_choice_targets": [
-            "foolish",
-            "thoughtless",
-            "stupid",
+            "disagree; to be against something",
+            "kicking someone",
+            "hit someone",
             "all of them"
         ],
         "multiple_choice_scores": [
@@ -95,15 +247,72 @@
         ]
     },
     {
-        "idx": 17,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: به هر دری زدن\n  choice: هر روش ممکن را بررسی کردن\n  choice: همه موارد\n  choice: از همه درخواست کمک کردن\n  choice: همه راه حل ها را بررسی کردن\nLiteral meaning:",
+        "idx": 20,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یکی به دو کردن\n  choice: زیاد حرف زدن و پرحرفی کردن\n  choice: کل کل کردن\n  choice: دعوا و بحث کردن\n  choice: همه موارد\nLiteral meaning:",
         "targets": [
-            "get angry"
+            "همه موارد"
         ],
         "multiple_choice_targets": [
-            "کسی را ناراحت کردن",
-            "دل کسی را خورد کردن",
-            "دل کسی را تکه تکه کردن",
+            "دعوا و بحث کردن",
+            "زیاد حرف زدن و پرحرفی کردن",
+            "کل کل کردن",
+            "همه موارد"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دل بریدن\n  choice: همه موارد\n  choice: کنار گذاشتن کسی یا چیزی\n  choice: از چیزی یا کسی ناامید شدن\n  choice: چیزی یا کسی را ترک کردن\nLiteral meaning:",
+        "targets": [
+            "همه موارد"
+        ],
+        "multiple_choice_targets": [
+            "از چیزی یا کسی ناامید شدن",
+            "چیزی یا کسی را ترک کردن",
+            "همه موارد",
+            "کنار گذاشتن کسی یا چیزی"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دبه کردن\n  choice: breach of promise\n  choice: not Keeping your Word \n  choice: all of them\n  choice: break the contract\nLiteral meaning:",
+        "targets": [
+            "all of them"
+        ],
+        "multiple_choice_targets": [
+            "breach of promise",
+            "break the contract",
+            "not Keeping your Word",
+            "all of them"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یک مشت سنگ\n  choice: همه موارد\n  choice: چیز بی ارزش\n  choice: مشتی از جنس سنگ\n  choice: هیچکدام\nLiteral meaning:",
+        "targets": [
+            "چیز بی ارزش"
+        ],
+        "multiple_choice_targets": [
+            "چیز بی ارزش",
+            "مشتی از جنس سنگ",
+            "همه موارد",
             "هیچکدام"
         ],
         "multiple_choice_scores": [
@@ -114,205 +323,34 @@
         ]
     },
     {
-        "idx": 43,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: سایه کسی رو با تیر زدن\n  choice: hate someone\n  choice: kill someone's shadow\n  choice: all of them\n  choice: hate someone's shadow\nLiteral meaning:",
-        "targets": [
-            "talkative"
-        ],
-        "multiple_choice_targets": [
-            "talkative",
-            "being in good condition",
-            "to be in a good mood",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 14,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: فیل ات یاد هندوستان کرده\n  choice: misplaced demands\n  choice: there's an elephant in the room\n  choice: all of them\n  choice: missing your elephant\nLiteral meaning:",
-        "targets": [
-            "hate someone"
-        ],
-        "multiple_choice_targets": [
-            "حس خوبی داشتن",
-            "خوشحال بودن",
-            "همه موارد",
-            "در شرایط خوبی بودن"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 4,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: یکی به دو کردن\n  choice: زیاد حرف زدن و پرحرفی کردن\n  choice: کل کل کردن\n  choice: دعوا و بحث کردن\n  choice: همه موارد\nLiteral meaning:",
-        "targets": [
-            "all of them"
-        ],
-        "multiple_choice_targets": [
-            "جواب خیر",
-            "جواب نامشخص",
-            "به حاشیه رفتن",
-            "همه موارد"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 13,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: بخت خواب آلود\n  choice: luckless\n  choice: unlucky\n  choice: all of them\n  choice: unfortunate \nLiteral meaning:",
-        "targets": [
-            "همه موارد"
-        ],
-        "multiple_choice_targets": [
-            "حس خوبی داشتن",
-            "خوشحال بودن",
-            "همه موارد",
-            "در شرایط خوبی بودن"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 29,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: اب روغن قاطی کردن\n  choice: عصابی شدن\n  choice: همه موارد\n  choice: از کوره در رفتن\n  choice: قاطی کردن\nLiteral meaning:",
-        "targets": [
-            "negotiate for more points"
-        ],
-        "multiple_choice_targets": [
-            "به دام افتادن",
-            "اسیرشدن",
-            "به مشکل خوردن",
-            "همه موارد"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 47,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دل کسی را شکستن\n  choice: دل کسی را خورد کردن\n  choice: کسی را ناراحت کردن\n  choice: دل کسی را تکه تکه کردن\n  choice: هیچکدام\nLiteral meaning:",
-        "targets": [
-            "همه موارد"
-        ],
-        "multiple_choice_targets": [
-            "negotiate for more points",
-            "kicking someone",
-            "hit someone",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 37,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: بخت خواب الود\n  choice: بدشانس\n  choice: خوش شانس\n  choice: بخت خسته\n  choice: خسته بودن\nLiteral meaning:",
+        "idx": 28,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: فیل ات یاد هندوستان کرده\n  choice: دل فیل برای هند تنگ شده است\n  choice: هوس چیز نابه جایی کردن\n  choice: به یاد فیل خود در هندستان افتادن\n  choice: همه موارد\nLiteral meaning:",
         "targets": [
             "هوس چیز نابه جایی کردن"
         ],
         "multiple_choice_targets": [
-            "حس خوبی داشتن",
-            "خوشحال بودن",
             "همه موارد",
-            "در شرایط خوبی بودن"
+            "هوس چیز نابه جایی کردن",
+            "به یاد فیل خود در هندستان افتادن",
+            "دل فیل برای هند تنگ شده است"
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 14,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: تو گل گیر کردن\n  choice: به دام افتادن\n  choice: همه موارد\n  choice: اسیرشدن\n  choice: به مشکل خوردن\nLiteral meaning:",
-        "targets": [
-            "all of them"
-        ],
-        "multiple_choice_targets": [
-            "حماقت کردن",
-            "کار بی فکرانه انجام دادن",
-            "بدون دانش عمل کردن",
-            "همه موارد"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 48,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: حرف بی راه زدن\n  choice: kicking someone\n  choice: talking nonsense\n  choice: hit someone\n  choice: negotiate for more points\nLiteral meaning:",
-        "targets": [
-            "disagree; to be against something"
-        ],
-        "multiple_choice_targets": [
-            "قاطی کردن",
-            "عصابی شدن",
-            "همه موارد",
-            "از کوره در رفتن"
-        ],
-        "multiple_choice_scores": [
-            0,
             0,
             1,
-            0
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: این پا و آن پا کردن\n  choice: delaying something \n  choice: procrastinate\n  choice: all of them\n  choice: linger\nLiteral meaning:",
-        "targets": [
-            "بدشانس"
-        ],
-        "multiple_choice_targets": [
-            "left no stones unturned",
-            "take every chance",
-            "go for all the chances",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
             0,
             0
         ]
     },
     {
-        "idx": 24,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: ناخن خشک بودن\n  choice: خوشحال بودن\n  choice: ناخن زیبا داشتن\n  choice: خسیس بودن\n  choice: مشکل ناخن داشتن\nLiteral meaning:",
+        "idx": 41,
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: بخت خواب آلود\n  choice: luckless\n  choice: unlucky\n  choice: all of them\n  choice: unfortunate \nLiteral meaning:",
         "targets": [
             "all of them"
         ],
         "multiple_choice_targets": [
-            "foolish",
-            "thoughtless",
-            "stupid",
+            "unlucky",
+            "unfortunate",
+            "luckless",
             "all of them"
         ],
         "multiple_choice_scores": [
@@ -320,61 +358,23 @@
             0,
             0,
             1
-        ]
-    },
-    {
-        "idx": 16,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: دل کسی را شکستن\n  choice: دل کسی را خورد کردن\n  choice: کسی را ناراحت کردن\n  choice: دل کسی را تکه تکه کردن\n  choice: هیچکدام\nLiteral meaning:",
-        "targets": [
-            "to help someone"
-        ],
-        "multiple_choice_targets": [
-            "procrastinate",
-            "delaying something",
-            "linger",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
         ]
     },
     {
         "idx": 7,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: این پا و آن پا کردن\n  choice: delaying something \n  choice: procrastinate\n  choice: all of them\n  choice: linger\nLiteral meaning:",
+        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: تا خرخره در قرض بودن\n  choice: have too much debt\n  choice: to snore on loan\n  choice: give someone a loan\n  choice: none of them\nLiteral meaning:",
         "targets": [
-            "همه موارد"
+            "have too much debt"
         ],
         "multiple_choice_targets": [
-            "using a drug",
-            "drug addiction",
-            "doing meaningless conversation",
-            "making your blood dirty"
+            "have too much debt",
+            "to snore on loan",
+            "give someone a loan",
+            "none of them"
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 49,
-        "inputs": "Given an idiom in Persian, please select the option which contains its literal meaning.\n\nPersian idiom: بخت خواب آلود\n  choice: luckless\n  choice: unlucky\n  choice: all of them\n  choice: unfortunate \nLiteral meaning:",
-        "targets": [
-            "همه موارد"
-        ],
-        "multiple_choice_targets": [
-            "disagree; to be against something",
-            "kicking someone",
-            "hit someone",
-            "all of them"
-        ],
-        "multiple_choice_scores": [
-            0,
             1,
+            0,
             0,
             0
         ]

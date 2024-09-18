@@ -1,43 +1,7 @@
 [
     {
-        "idx": 18,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [2, 39, 7, 13, 81, 9, 3, 20]\nA:",
-        "targets": [
-            "[81, 99, 41, 23, 22, 75, 68, 30, 24, 69]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 12,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [23, 23, 23, 27, 27]\nA: [23, 3, 27, 2]\nQ: [1, 95, 95, 41, 41, 1, 35, 95, 35]\nA: [1, 2, 95, 3, 41, 2, 35, 2]\nQ: [39, 39]\nA: [39, 2]\nQ: [0, 0, 97, 97, 25, 25]\nA: [0, 2, 97, 2, 25, 2]\nQ: [78, 99, 50, 5, 90, 5, 78, 90, 50, 99]\nA: [78, 2, 99, 2, 50, 2, 5, 2, 90, 2]\nQ: [40, 30, 30, 40, 40, 40, 30]\nA: [40, 4, 30, 3]\nQ: []\nA: []\nQ: [7, 7, 75, 75]\nA: [7, 2, 75, 2]\nQ: [58, 58, 58]\nA:",
-        "targets": [
-            "[0, 43, 9, 4, 6, 50, 58, 7]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 15,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [43, 2, 47, 63, 21, 6, 62, 0, 17, 9]\nA:",
-        "targets": [
-            "[3]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 45,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [47, 61, 61, 47, 6, 5, 31, 6, 5, 31]\nA:",
-        "targets": [
-            "[5, 9]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
         "idx": 14,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [6, 71, 97, 98, 0, 64, 60, 3, 0]\nA: [71, 97, 98, 64, 60]\nQ: [79, 7, 32, 2, 8, 86, 93, 51, 95, 5]\nA: [86, 93, 95]\nQ: [31, 30, 53, 74, 9, 12, 12, 5, 31, 31]\nA: [53, 74]\nQ: [77, 20, 26, 99, 12, 81, 27, 90, 90, 77]\nA: [99, 81, 90, 90]\nQ: [72, 17, 4, 50, 80, 17, 37, 29, 57]\nA: [80]\nQ: [61, 42, 5, 1, 0, 54, 87, 77, 9]\nA:",
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [93]\nA:",
         "targets": [
             "[]"
         ],
@@ -45,136 +9,172 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 107,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [0, 6, 5, 4, 1, 8, 2, 7, 3, 9]\nA:",
+        "idx": 8,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [42, 1, 8, 6, 57, 66, 0, 33, 83, 3]\nA:",
         "targets": [
-            "[1]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [36, 82, 49, 9]\nA:",
-        "targets": [
-            "[0, 6]"
+            "[6, 1, 8, 42, 57, 66, 0, 33, 83, 3]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 10,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [16, 8, 2, 90, 20, 60, 84, 28, 93, 1]\nA:",
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [8, 2, 7, 1, 3, 6, 5]\nA:",
         "targets": [
-            "[85, 68, 62]"
+            "[8, 2, 7, 1, 3, 6, 4, 5]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 47,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [6, 4, 7, 9]\nA: [6]\nQ: [4, 8, 6]\nA: [4]\nQ: [3, 3, 3]\nA: [3]\nQ: [2, 2]\nA: [2]\nQ: [1, 9, 9, 5, 5]\nA: [1]\nQ: [0, 0, 0, 0]\nA: [0]\nQ: [7, 4, 7, 8, 7, 1, 6]\nA: [7]\nQ: [2, 1]\nA: [2]\nQ: [9, 6, 6, 3]\nA: [9]\nQ: [5, 5, 5, 5, 5, 5]\nA: [5]\nQ: [8, 8, 8, 8, 8]\nA:",
+        "targets": [
+            "[8]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 9,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [7, 37, 64]\nA:",
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [3, 4, 6, 2]\nA:",
         "targets": [
-            "[4, 2, 3, 4, 0, 24, 0, 48]"
+            "[3, 6, 2]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [5, 72, 8, 45, 87, 46]\nA:",
+        "targets": [
+            "[5, 8, 72, 45, 87, 46]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 174,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [45, 58, 87, 48, 31, 34]\nA: [45, 58, 87]\nQ: [7, 8, 39, 95, 11, 1, 72]\nA: [7, 8, 39, 95]\nQ: [2, 44, 50, 62, 65, 9, 3, 8, 88, 91]\nA: [2, 44, 50, 62, 65, 88, 91]\nQ: [2, 25, 39, 51, 16, 5, 66, 7]\nA: [2, 25, 39, 51, 66]\nQ: [4, 31, 40, 6, 63, 1, 3, 66, 88]\nA: [4, 31, 40, 63, 66, 88]\nQ: [9, 19, 3, 39, 87, 94, 41, 67, 0, 1]\nA: [9, 19, 39, 87, 94]\nQ: [0, 37, 60, 57, 93, 38]\nA:",
+        "targets": [
+            "[0, 37, 60, 93]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 19,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [21, 7, 7, 7, 83, 21, 29]\nA: [3]\nQ: [8, 65, 5, 34, 8, 59, 18, 4]\nA: [2]\nQ: [60, 24, 51, 8, 72, 9, 98, 2, 65, 1]\nA: [0]\nQ: [0, 5, 95, 3, 7, 91, 7]\nA: [2]\nQ: [68, 3, 94, 22, 99, 16, 93, 2, 9]\nA:",
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [7, 7, 7, 9]\nA: [9, 7, 7, 9]\nQ: [8, 7, 6, 8, 9, 4, 3]\nA: [3, 7, 6, 8, 9, 4, 3]\nQ: [9, 9, 2, 3, 3, 3, 2, 1, 1]\nA: [1, 9, 2, 3, 3, 3, 2, 1, 1]\nQ: [8, 9, 7, 2, 7, 0]\nA: [0, 9, 7, 2, 7, 0]\nQ: [8, 5]\nA: [5, 5]\nQ: [1, 3, 1, 4, 1, 1, 1, 6, 4, 0]\nA: [0, 3, 1, 4, 1, 1, 1, 6, 4, 0]\nQ: [2, 2, 0, 2, 0, 2, 0, 0, 0]\nA:",
         "targets": [
-            "[1, 4, 3, 4, 0, 5]"
+            "[0, 2, 0, 2, 0, 2, 0, 0, 0]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [2, 27, 7, 22, 31, 1, 0, 41, 81]\nA:",
+        "idx": 18,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [70]\nA:",
         "targets": [
-            "[4, 5, 7]"
+            "[70]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 9,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [87, 87]\nA:",
+        "idx": 84,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [4, 39, 4, 48, 46, 48]\nA: [46]\nQ: [2, 67, 52, 72, 93, 9, 67, 5, 68]\nA: [52]\nQ: [5, 4, 3, 80, 36, 66, 75]\nA: [66]\nQ: [4, 28, 5, 26, 29, 6, 94, 3]\nA: [29]\nQ: [1, 4, 4]\nA: [4]\nQ: [1, 8, 27, 27, 8, 1, 8]\nA: [8]\nQ: [3, 98, 94, 94, 3]\nA:",
         "targets": [
-            "[76, 8, 50]"
+            "[94]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 7,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [1, 3, 8, 9, 4, 2, 0, 5, 6]\nA:",
+        "idx": 27,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [78, 76, 49, 51, 5, 9]\nA:",
         "targets": [
-            "[3, 7, 6, 9, 2]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [91, 79, 72, 0, 8, 87, 26, 6, 61]\nA:",
-        "targets": [
-            "[4, 4, 4, 8, 0, 9, 6, 3, 1, 7]"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 9,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [24, 99, 36, 61, 55, 6]\nA: [24, 6, 36, 61, 55, 99]\nQ: [1, 53, 21, 2, 57, 48, 74, 7]\nA: [1, 7, 21, 48, 57, 2, 74, 53]\nQ: [16, 97, 40, 26, 35, 65, 63, 59]\nA: [16, 59, 40, 65, 35, 26, 63, 97]\nQ: [4, 19, 51, 96, 33, 3]\nA: [4, 3, 51, 96, 33, 19]\nQ: [39, 50, 8, 82, 68, 52, 1, 89, 14, 5]\nA: [39, 5, 8, 89, 68, 52, 1, 82, 14, 50]\nQ: [55, 8, 10, 98, 88, 3, 41, 74]\nA: [55, 74, 10, 3, 88, 98, 41, 8]\nQ: [5, 1, 2, 81, 28, 4, 54, 66, 64, 0]\nA: [5, 0, 2, 66, 28, 4, 54, 81, 64, 1]\nQ: [1, 73, 38, 33, 87, 56, 95, 57]\nA:",
-        "targets": [
-            "[1, 1, 2, 2, 3, 3]"
+            "[79, 78, 52, 55, 10, 15]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 5,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [5, 7, 29, 9, 0, 60, 0, 4, 40]\nA:",
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [0, 28, 53, 5, 1, 32, 20, 50, 18]\nA:",
         "targets": [
-            "[23, 7, 6, 23, 24, 25, 26, 27, 28, 18, 4, 8]"
+            "[81, 99, 41, 23, 22, 75, 68, 30, 24, 69]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 8,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [40, 40, 26, 26, 26, 40, 40, 8, 8]\nA:",
+        "idx": 5,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [5, 74, 90, 38]\nA:",
         "targets": [
-            "[9]"
+            "[38, 74, 5, 90]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 13,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [1, 68, 7]\nA:",
+        "idx": 15,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [4, 2, 5, 1, 7, 3, 6]\nA:",
         "targets": [
-            "[7, 7, 3, 5]"
+            "[4, 4, 2, 5, 1, 7, 3, 6]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [83, 95, 45, 56, 36, 26, 46]\nA:",
+        "idx": 211,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [5, 9, 7, 80, 82]\nA: [5, 9, 3, 3, 3, 7, 80, 82]\nQ: [6, 54, 74, 26, 8, 95]\nA: [6, 54, 3, 3, 3, 74, 26, 8, 95]\nQ: [59, 96, 98, 25, 87, 86, 4]\nA:",
         "targets": [
-            "[68, 24, 5]"
+            "[59, 96, 3, 3, 3, 98, 25, 87, 86, 4]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 25,
-        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [12, 3, 25, 90, 1, 88, 19]\nA:",
+        "idx": 9,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [89, 43, 3, 87, 3, 31]\nA:",
         "targets": [
-            "[25, 19, 13, 34, 13, 61, 34]"
+            "[89, 43, 3, 87, 3, 31]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 19,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [77, 64, 77, 64, 64, 64, 77, 77, 64, 77]\nA:",
+        "targets": [
+            "[64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 45,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [8, 8, 5, 5]\nA: [7, 8, 8, 5, 5]\nQ: []\nA: [7]\nQ: [9]\nA: [7, 9]\nQ: [1, 4]\nA: [7, 1, 4]\nQ: [3, 8, 6, 7, 0, 3, 4]\nA: [7, 3, 8, 6, 7, 0, 3, 4]\nQ: [9, 1, 6, 5, 2, 1, 0, 1, 9]\nA: [7, 9, 1, 6, 5, 2, 1, 0, 1, 9]\nQ: [2, 2, 0, 0, 2, 2, 0, 2, 0, 2]\nA: [7, 2, 2, 0, 0, 2, 2, 0, 2, 0, 2]\nQ: [4, 7, 0, 5, 0, 3]\nA: [7, 4, 7, 0, 5, 0, 3]\nQ: [3, 3, 4, 3, 3, 8, 4, 4]\nA:",
+        "targets": [
+            "[7, 3, 3, 4, 3, 3, 8, 4, 4]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 27,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [5, 6, 21]\nA:",
+        "targets": [
+            "[32]"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 41,
+        "inputs": "Apply a function to the final input list to generate the output list. Use any preceding inputs and outputs as examples.\nQ: [9, 3, 8, 0]\nA: [5, 2]\nQ: [1, 1, 0, 7, 7]\nA: [5, 2]\nQ: [6, 7, 3]\nA: [5, 2]\nQ: [9, 8]\nA: [5, 2]\nQ: [4, 4]\nA: [5, 2]\nQ: [3, 7, 7, 4, 7, 3]\nA:",
+        "targets": [
+            "[5, 2]"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

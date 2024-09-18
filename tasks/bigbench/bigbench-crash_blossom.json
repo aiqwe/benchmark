@@ -1,7 +1,7 @@
 [
     {
-        "idx": 7,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is fire? Sentence: Finnish-developed satellite technology helps fire managers in COVID-19 era\nA:",
+        "idx": 24,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bite? Sentence: Veterinarian helps dog bite victims\nA:",
         "targets": [
             "noun"
         ],
@@ -19,8 +19,8 @@
         ]
     },
     {
-        "idx": 23,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bottles? Sentence: Latest army push bottles up Germans\nA:",
+        "idx": 6,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is dog? Sentence: President's demands dog ‘Dreamers’ deal\nA:",
         "targets": [
             "verb"
         ],
@@ -34,69 +34,69 @@
             1,
             0,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 16,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is dead? Sentence: A parade hailing Russia’s World War II dead and marching further from the west\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
             0
         ]
     },
     {
         "idx": 2,
         "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is remains? Sentence: Missing teen remains found\nA:",
-        "targets": [
-            "noun"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 21,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is giant? Sentence: Giant waves down the Colaba Causeway\nA:",
-        "targets": [
-            "adjective"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 23,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bottles? Sentence: Latest army push bottles up Germans\nA:",
-        "targets": [
-            "verb"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 34,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is rolls? Sentence: Amazon subsidiaries ship toilet rolls to US\nA:",
         "targets": [
             "noun"
         ],
@@ -133,10 +133,10 @@
         ]
     },
     {
-        "idx": 21,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is giant? Sentence: Giant waves down the Colaba Causeway\nA:",
+        "idx": 34,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is rolls? Sentence: Amazon subsidiaries ship toilet rolls to US\nA:",
         "targets": [
-            "adjective"
+            "noun"
         ],
         "multiple_choice_targets": [
             "verb",
@@ -146,16 +146,16 @@
         ],
         "multiple_choice_scores": [
             0,
-            1,
             0,
+            1,
             0
         ]
     },
     {
-        "idx": 35,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is mum? Sentence: Cricketer taunted by fans, mum after loss\nA:",
+        "idx": 7,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is fire? Sentence: Finnish-developed satellite technology helps fire managers in COVID-19 era\nA:",
         "targets": [
-            "adjective"
+            "noun"
         ],
         "multiple_choice_targets": [
             "verb",
@@ -165,8 +165,27 @@
         ],
         "multiple_choice_scores": [
             0,
-            1,
             0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bite? Sentence: Veterinarian helps dog bite victims\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
             0
         ]
     },
@@ -190,82 +209,6 @@
         ]
     },
     {
-        "idx": 11,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bears? Sentence: Nevada poll bears good news for Obama\nA:",
-        "targets": [
-            "verb"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 34,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is rolls? Sentence: Amazon subsidiaries ship toilet rolls to US\nA:",
-        "targets": [
-            "noun"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 13,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is slide? Sentence: French factory orders slide unexpectedly\nA:",
-        "targets": [
-            "verb"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is stocks? Sentence: Fish stocks surge\nA:",
-        "targets": [
-            "noun"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
         "idx": 35,
         "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is mum? Sentence: Cricketer taunted by fans, mum after loss\nA:",
         "targets": [
@@ -285,46 +228,8 @@
         ]
     },
     {
-        "idx": 10,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is fed? Sentence: Biden, Trump, fed agents to attend Harvard commencement\nA:",
-        "targets": [
-            "adjective"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 16,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is dead? Sentence: A parade hailing Russia’s World War II dead and marching further from the west\nA:",
-        "targets": [
-            "noun"
-        ],
-        "multiple_choice_targets": [
-            "verb",
-            "adjective",
-            "noun",
-            "preposition"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is thought? Sentence: Death happens more slowly than thought\nA:",
+        "idx": 18,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is closed? Sentence: Sean Lennon: 'My parents opened doors and closed minds'\nA:",
         "targets": [
             "verb"
         ],
@@ -342,8 +247,27 @@
         ]
     },
     {
-        "idx": 17,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is forecasting? Sentence: Weather Service forecasting computers to become 5 times more powerful in 2014\nA:",
+        "idx": 23,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is bottles? Sentence: Latest army push bottles up Germans\nA:",
+        "targets": [
+            "verb"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 36,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is plans? Sentence: UK Supreme court plans an attack on independent judiciary\nA:",
         "targets": [
             "noun"
         ],
@@ -361,8 +285,84 @@
         ]
     },
     {
-        "idx": 1,
-        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is sinks? Sentence: Orca watching boat carrying 27 sinks\nA:",
+        "idx": 12,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is cloud? Sentence: Paris attacks cloud conversation at summit of global powers\nA:",
+        "targets": [
+            "verb"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is fries? Sentence: McDonald’s fries the holy grail for potato growers\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is remains? Sentence: Missing teen remains found\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is rolls? Sentence: New York Jets ship toilet rolls to Britain\nA:",
+        "targets": [
+            "noun"
+        ],
+        "multiple_choice_targets": [
+            "verb",
+            "adjective",
+            "noun",
+            "preposition"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headlines.\n\nIn the following sentence, what part of speech is closed? Sentence: Sean Lennon: 'My parents opened doors and closed minds'\nA:",
         "targets": [
             "verb"
         ],

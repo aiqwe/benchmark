@@ -1,348 +1,7 @@
 [
     {
-        "idx": 538,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(256.76, 21.68, 74.62) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "blue"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 672,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(350.3, 38.6%, 52.6%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "red"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 423,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #e2eeb5 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "green"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 315,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #896428 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "yellow"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 475,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(217.81, 39.56%, 43.24%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "blue"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 309,
-        "inputs": "Q: What is the color most closely matching this RGB representation: rgb(32, 12, 171) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "blue"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 831,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #f3daf6 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "purple"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 958,
-        "inputs": "Q: What is the color most closely matching this RGB representation: rgb(60, 99, 106) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "blue"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 837,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(42.56, 2.64, 5.68) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "black"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 993,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #742c36 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "red"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 101,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(201.91, 3.88%, 17.74%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "gray"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 74,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #a06a41 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "idx": 673,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #f94841 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
         "targets": [
             "orange"
         ],
@@ -372,194 +31,8 @@
         ]
     },
     {
-        "idx": 867,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(153.14, 37.02%, 73.65%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "green"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 177,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(76.5, 66.08%, 18.91%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "green"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 785,
-        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(89.13, 45.08%, 98.68%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "white"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(215.33, 100.34, 43.1) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "blue"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 855,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(330.48, 4.84, 81.83) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "gray"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 238,
-        "inputs": "Q: What is the color most closely matching this HEX representation: #843980 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
-        "targets": [
-            "purple"
-        ],
-        "multiple_choice_targets": [
-            "black",
-            "blue",
-            "brown",
-            "gray",
-            "green",
-            "orange",
-            "purple",
-            "red",
-            "white",
-            "yellow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 993,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(3.18, 84.02, 13.57) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "idx": 845,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #901545 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
         "targets": [
             "red"
         ],
@@ -589,8 +62,101 @@
         ]
     },
     {
-        "idx": 161,
-        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(242.96, 43.6, 62.99) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "idx": 823,
+        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(39.02, 20.46%, 90.31%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "gray"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 432,
+        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(259.75, 97.44%, 84.97%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "purple"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 924,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #ef5e60 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "red"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 192,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #a8e4ff ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
         "targets": [
             "blue"
         ],
@@ -612,6 +178,440 @@
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 133,
+        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(256.05, 15.26, 84.97) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "blue"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 948,
+        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(92.99, 92.03, 24.27) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "yellow"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 180,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #2b534c ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "green"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 895,
+        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(183.93, 54.51%, 56.5%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "blue"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 158,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #5b249c ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "purple"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 879,
+        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(153.7, 22.55%, 10.33%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "green"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 520,
+        "inputs": "Q: What is the color most closely matching this RGB representation: rgb(80, 234, 139) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "green"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 859,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #5921eb ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "purple"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 291,
+        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(82.79, 98.17, 100.55) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "yellow"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 815,
+        "inputs": "Q: What is the color most closely matching this HSL representation: hsl(49.31, 92.2%, 26.72%) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "yellow"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 956,
+        "inputs": "Q: What is the color most closely matching this HCL representation: hcl(24.04, 2.56, 6.63) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "black"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 784,
+        "inputs": "Q: What is the color most closely matching this RGB representation: rgb(126, 105, 134) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "purple"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 83,
+        "inputs": "Q: What is the color most closely matching this HEX representation: #d397b2 ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "red"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 226,
+        "inputs": "Q: What is the color most closely matching this RGB representation: rgb(23, 143, 50) ?\n  choice: white\n  choice: blue\n  choice: orange\n  choice: black\n  choice: red\n  choice: brown\n  choice: yellow\n  choice: green\n  choice: gray\n  choice: purple\nA:",
+        "targets": [
+            "green"
+        ],
+        "multiple_choice_targets": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
             0,
             0,
             0,

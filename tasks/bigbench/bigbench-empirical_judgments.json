@@ -1,126 +1,7 @@
 [
     {
-        "idx": 85,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If Boo is a cat, Boo is a feline.\nRelation:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 70,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Every physical object exists in space.\nRelation:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 77,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Whenever you kick a door, you make physical contact with a door.\nRelation:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 66,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Every dog is a mammal.\nRelation:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 56,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Looking into a bright light makes my eyes water.\nRelation:",
-        "targets": [
-            "causal"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 46,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: These chemicals decompose organic matter.\nRelation:",
-        "targets": [
-            "causal"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 86,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: To be a bachelor is to be unmarried.\nRelation:",
-        "targets": [
-            "neutral"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 7,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Each time I pull the lever, a ball is released.\nRelation:",
+        "idx": 27,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Whenever I vacuum, I sneeze less.\nRelation:",
         "targets": [
             "correlative"
         ],
@@ -136,42 +17,8 @@
         ]
     },
     {
-        "idx": 16,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If it rains, the ground becomes wet.\nRelation:",
-        "targets": [
-            "correlative"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 55,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Fire melts ice.\nRelation:",
-        "targets": [
-            "causal"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 87,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If you see the tree, you sense the tree.\nRelation:",
+        "idx": 72,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Every apple is a fruit.\nRelation:",
         "targets": [
             "neutral"
         ],
@@ -187,25 +34,8 @@
         ]
     },
     {
-        "idx": 45,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: The machine is motion activated.\nRelation:",
-        "targets": [
-            "causal"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 89,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Holding a cup means you are holding an object.\nRelation:",
+        "idx": 91,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Each time you eat lettuce, you are consuming a vegetable.\nRelation:",
         "targets": [
             "neutral"
         ],
@@ -221,8 +51,8 @@
         ]
     },
     {
-        "idx": 49,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Washing your hands reduces the risk of infection.\nRelation:",
+        "idx": 40,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Pulling the cord opens the blinds.\nRelation:",
         "targets": [
             "causal"
         ],
@@ -238,8 +68,8 @@
         ]
     },
     {
-        "idx": 28,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Every time I play that note, the dog is startled.\nRelation:",
+        "idx": 27,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Whenever I vacuum, I sneeze less.\nRelation:",
         "targets": [
             "correlative"
         ],
@@ -255,25 +85,8 @@
         ]
     },
     {
-        "idx": 9,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: The machine turns off whenever I press the red button.\nRelation:",
-        "targets": [
-            "correlative"
-        ],
-        "multiple_choice_targets": [
-            "causal",
-            "correlative",
-            "neutral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 69,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When you paint a snail, you paint an animal.\nRelation:",
+        "idx": 83,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If you touch a tulip, you touch a plant.\nRelation:",
         "targets": [
             "neutral"
         ],
@@ -289,8 +102,59 @@
         ]
     },
     {
-        "idx": 38,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Adding ice cools the tea.\nRelation:",
+        "idx": 63,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Coffee energizes me.\nRelation:",
+        "targets": [
+            "causal"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 50,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Ingesting calcium fortifies your bones.\nRelation:",
+        "targets": [
+            "causal"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 82,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When the child folds their laundry the child moves.\nRelation:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 58,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Drinking that liquid upsets my stomach.\nRelation:",
         "targets": [
             "causal"
         ],
@@ -323,8 +187,144 @@
         ]
     },
     {
-        "idx": 87,
-        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If you see the tree, you sense the tree.\nRelation:",
+        "idx": 33,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: The sun warms the stone.\nRelation:",
+        "targets": [
+            "causal"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When I don’t have coffee in the morning, I get a headache.\nRelation:",
+        "targets": [
+            "correlative"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If I smile for too long, my face muscles begin to hurt.\nRelation:",
+        "targets": [
+            "correlative"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When you have a green ball, you have a green sphere.\nRelation:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: If you hug a puppy, you hug an animal .\nRelation:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: Liking pink means liking a color.\nRelation:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 33,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: The sun warms the stone.\nRelation:",
+        "targets": [
+            "causal"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When you have a green ball, you have a green sphere.\nRelation:",
+        "targets": [
+            "neutral"
+        ],
+        "multiple_choice_targets": [
+            "causal",
+            "correlative",
+            "neutral"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 74,
+        "inputs": "Determine whether a given sentence asserts a causal, correlative, or neutral relation between two events. If the sentence asserts a causal relation respond causal, if the sentence asserts a correlative relation respond correlative, if the sentence asserts neither a causal nor a correlative relation between two events respond neutral.\n\nSentence: When a child smiles, a person smiles.\nRelation:",
         "targets": [
             "neutral"
         ],

@@ -1,43 +1,70 @@
 [
     {
-        "idx": 13,
-        "inputs": "repeat with logic:\n\nQ: repeat the phrase the administrative district three times, and say the phrase hello world after the second time\nA:",
+        "idx": 27,
+        "inputs": "repeat with logic:\n\nQ: A strawberry has three leaves. Say wish I had some chocolate for every odd leaf\nA:",
         "targets": [
-            "fish are healthy fish are healthy"
+            "wish I had some chocolate wish I had some chocolate"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 10,
-        "inputs": "repeat with logic:\n\nQ: repeat election to the council three times, but after every other word say cool\nA:",
+        "idx": 21,
+        "inputs": "repeat with logic:\n\nQ: Repeat cheese seven times; every third say whiz\nA:",
         "targets": [
-            "if you teach a person to fish you will if you teach a person to fish you will if you teach a person to fish you will"
+            "cheese cheese cheese whiz cheese cheese cheese whiz cheese"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 11,
+        "idx": 17,
+        "inputs": "repeat with logic:\n\nQ: say the village has a population five times, and after odd times add larger than California\nA:",
+        "targets": [
+            "the village has a population larger than California the village has a population the village has a population larger than California the village has a population the village has a population larger than California"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 9,
         "inputs": "repeat with logic:\n\nQ: repeat whole note quarter note quarter note quarter note twice\nA:",
         "targets": [
-            "fish are healthy fish are healthy"
+            "whole note quarter note quarter note quarter note whole note quarter note quarter note quarter note"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 3,
-        "inputs": "repeat with logic:\n\nQ: Say the letters of the alphabet in capital letters, but only the odd ones\nA:",
+        "idx": 13,
+        "inputs": "repeat with logic:\n\nQ: Twice repeat inhabitants in the urban area and then three times live in walking distance\nA:",
         "targets": [
-            "if you teach a person to fish you will if you teach a person to fish you will if you teach a person to fish you will"
+            "inhabitants in the urban area inhabitants in the urban area live in walking distance live in walking distance live in walking distance"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 21,
+        "inputs": "repeat with logic:\n\nQ: Repeat cheese seven times; every third say whiz\nA:",
+        "targets": [
+            "cheese cheese cheese whiz cheese cheese cheese whiz cheese"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 6,
-        "inputs": "repeat with logic:\n\nQ: output if you teach a person to fish you will three times\nA:",
+        "inputs": "repeat with logic:\n\nQ: Print logic eleven times, but after the 3rd and 8th also say true\nA:",
+        "targets": [
+            "logic logic logic true logic logic logic logic logic true logic logic logic"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "repeat with logic:\n\nQ: say python twice and data once, and then repeat all of this three times.\nA:",
         "targets": [
             "python python data python python data python python data"
         ],
@@ -45,136 +72,109 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 2,
-        "inputs": "repeat with logic:\n\nQ: Print logic eleven times, but after the 3rd and 8th also say true\nA:",
+        "idx": 24,
+        "inputs": "repeat with logic:\n\nQ: repeat a woodchuck chucks lots of wood two times, but replace lots with five pounds the first time and two tons the second time\nA:",
         "targets": [
-            "election to cool the council cool election to cool the council cool election to cool the council cool"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 14,
-        "inputs": "repeat with logic:\n\nQ: repeat whole note quarter note quarter note quarter note twice\nA:",
-        "targets": [
-            "carbon pricing is an carbon pricing is an interesting concept carbon pricing is an carbon pricing is an"
+            "a woodchuck chucks five pounds of wood a woodchuck chucks two tons of wood"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 6,
-        "inputs": "repeat with logic:\n\nQ: say fish are healthy twice\nA:",
+        "inputs": "repeat with logic:\n\nQ: Print logic eleven times, but after the 3rd and 8th also say true\nA:",
         "targets": [
-            "if you teach a person to fish you will if you teach a person to fish you will if you teach a person to fish you will"
+            "logic logic logic true logic logic logic logic logic true logic logic logic"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 22,
+        "inputs": "repeat with logic:\n\nQ: say hello world five times, but don't say world every even time\nA:",
+        "targets": [
+            "hello world hello hello world hello hello world"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 22,
+        "inputs": "repeat with logic:\n\nQ: say hello world five times, but don't say world every even time\nA:",
+        "targets": [
+            "hello world hello hello world hello hello world"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 16,
+        "inputs": "repeat with logic:\n\nQ: repeat the phrase the administrative district three times, and say the phrase hello world after the second time\nA:",
+        "targets": [
+            "the administrative district the administrative district hello world the administrative district"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "repeat with logic:\n\nQ: Repeat the word dog four times, but halfway through also say woof\nA:",
+        "targets": [
+            "dog dog woof dog dog"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 29,
+        "inputs": "repeat with logic:\n\nQ: Repeat the phrase all cars eat gas four times. On the odd times, drop words that start with vowels\nA:",
+        "targets": [
+            "cars gas all cars eat gas cars gas all cars eat gas"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7,
+        "inputs": "repeat with logic:\n\nQ: Repeat squiggly line twice after the phrase can you draw\nA:",
+        "targets": [
+            "can you draw squiggly line squiggly line"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 24,
+        "inputs": "repeat with logic:\n\nQ: repeat a woodchuck chucks lots of wood two times, but replace lots with five pounds the first time and two tons the second time\nA:",
+        "targets": [
+            "a woodchuck chucks five pounds of wood a woodchuck chucks two tons of wood"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 5,
-        "inputs": "repeat with logic:\n\nQ: repeat a woodchuck chucks lots of wood two times, but replace lots with five pounds the first time and two tons the second time\nA:",
-        "targets": [
-            "A C E G I K M O Q S U W Y"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10,
         "inputs": "repeat with logic:\n\nQ: say python twice and data once, and then repeat all of this three times.\nA:",
         "targets": [
-            "logic logic logic true logic logic logic logic logic true logic logic logic"
+            "python python data python python data python python data"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 12,
-        "inputs": "repeat with logic:\n\nQ: say fish are healthy twice\nA:",
+        "idx": 18,
+        "inputs": "repeat with logic:\n\nQ: ask a genus of plants in what family? four times. after the fourth time say The happy family\nA:",
         "targets": [
-            "if you teach a person to fish you will if you teach a person to fish you will if you teach a person to fish you will"
+            "a genus of plants in what family? a genus of plants in what family? a genus of plants in what family? a genus of plants in what family? The happy family"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 6,
-        "inputs": "repeat with logic:\n\nQ: Three times please repeat The School of Music, and before the first time say Who plays the bass loud?\nA:",
+        "idx": 23,
+        "inputs": "repeat with logic:\n\nQ: say all work and no play makes three times, but every even time add Jack and odd time add Jill\nA:",
         "targets": [
-            "A C E G I K M O Q S U W Y"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 8,
-        "inputs": "repeat with logic:\n\nQ: say pickup a pound of green beans twice, replacing a pound with a bunch for even times and a handful for odd\nA:",
-        "targets": [
-            "logic logic logic true logic logic logic logic logic true logic logic logic"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 12,
-        "inputs": "repeat with logic:\n\nQ: repeat whole note quarter note quarter note quarter note twice\nA:",
-        "targets": [
-            "logic logic logic true logic logic logic logic logic true logic logic logic"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2,
-        "inputs": "repeat with logic:\n\nQ: say python twice and data once, and then repeat all of this three times.\nA:",
-        "targets": [
-            "election to cool the council cool election to cool the council cool election to cool the council cool"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 13,
-        "inputs": "repeat with logic:\n\nQ: output if you teach a person to fish you will three times\nA:",
-        "targets": [
-            "A C E G I K M O Q S U W Y"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 8,
-        "inputs": "repeat with logic:\n\nQ: A watermelon has seven seeds. Repeat they're delicious once for every seed\nA:",
-        "targets": [
-            "election to cool the council cool election to cool the council cool election to cool the council cool"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3,
-        "inputs": "repeat with logic:\n\nQ: Seven times please repeat The School of Music\nA:",
-        "targets": [
-            "historic wow church wow building wow historic wow church wow building wow"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 0,
-        "inputs": "repeat with logic:\n\nQ: say fish are healthy twice\nA:",
-        "targets": [
-            "carbon pricing is an carbon pricing is an interesting concept carbon pricing is an carbon pricing is an"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 6,
-        "inputs": "repeat with logic:\n\nQ: say pickup a pound of green beans twice, replacing a pound with a bunch for even times and a handful for odd\nA:",
-        "targets": [
-            "whole note quarter note quarter note quarter note whole note quarter note quarter note quarter note"
+            "all work and no play makes Jill all work and no play makes Jack all work and no play makes Jill"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

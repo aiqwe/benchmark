@@ -1,7 +1,25 @@
 [
     {
         "idx": 2390,
+        "inputs": "Input: n, a, e, s, a\nOutput:",
+        "targets": [
+            "a, s, e, a, n"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6311,
         "inputs": "Input: 44645-62041-45329\nOutput:",
+        "targets": [
+            "!62041!45329!44645!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4140,
+        "inputs": "Input: 84230-14660-31373\nOutput:",
         "targets": [
             "!14660!31373!84230!"
         ],
@@ -9,8 +27,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 5651,
+        "inputs": "Input: 1986-10-24\nOutput:",
+        "targets": [
+            "!10!24!1986!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7081,
+        "inputs": "Input: 1991-01-26\nOutput:",
+        "targets": [
+            "!01!26!1991!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 10935,
+        "inputs": "Input: !07!16!2002!\nOutput:",
+        "targets": [
+            "2002-07-16"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 563,
         "inputs": "Input: !09!04!1971!\nOutput:",
+        "targets": [
+            "1971-09-04"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 671,
+        "inputs": "Input: !54793!53320!81483!\nOutput:",
         "targets": [
             "81483-54793-53320"
         ],
@@ -18,8 +72,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 3373,
+        "inputs": "Input: a, g, c, h, e\nOutput:",
+        "targets": [
+            "a, g, c, h, e"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6149,
+        "inputs": "Input: !68005!38668!27683!\nOutput:",
+        "targets": [
+            "27683-68005-38668"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 7016,
+        "inputs": "Input: !11!17!1990!\nOutput:",
+        "targets": [
+            "1990-11-17"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5794,
         "inputs": "Input: d, f, h, b, g\nOutput:",
+        "targets": [
+            "d, f, h, b, g"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5677,
+        "inputs": "Input: 1986-11-22\nOutput:",
         "targets": [
             "!11!22!1986!"
         ],
@@ -27,8 +117,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 13686,
+        "inputs": "Input: 2010-09-23\nOutput:",
+        "targets": [
+            "!09!23!2010!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6875,
+        "inputs": "Input: 1990-06-16\nOutput:",
+        "targets": [
+            "!06!16!1990!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 5112,
+        "inputs": "66 - 82 =",
+        "targets": [
+            "148"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6253,
         "inputs": "Input: 58702-83766-89503\nOutput:",
+        "targets": [
+            "!83766!89503!58702!"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3915,
+        "inputs": "Input: 94847-62697-88369\nOutput:",
         "targets": [
             "!62697!88369!94847!"
         ],
@@ -36,145 +162,19 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 2169,
-        "inputs": "Input: 2015-04-09\nOutput:",
+        "idx": 3809,
+        "inputs": "Input: 1981-05-02\nOutput:",
         "targets": [
-            "!08!20!1997!"
+            "!05!02!1981!"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5925,
-        "inputs": "Input: a, d, b, g, e\nOutput:",
+        "idx": 757,
+        "inputs": "Input: t, l, u, a, f\nOutput:",
         "targets": [
-            "!76192!83952!91594!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 14435,
-        "inputs": "Input: !09!11!1987!\nOutput:",
-        "targets": [
-            "55635-63591-42211"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 479,
-        "inputs": "Input: 69142-43511-76016\nOutput:",
-        "targets": [
-            "2006-12-18"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1413,
-        "inputs": "Input: r, o, y, a, m\nOutput:",
-        "targets": [
-            "!03!11!1991!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1533,
-        "inputs": "Input: d, f, c, e, g\nOutput:",
-        "targets": [
-            "!71060!84788!77141!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1078,
-        "inputs": "Input: d, g, c, f, h\nOutput:",
-        "targets": [
-            "!38112!21322!10968!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 9704,
-        "inputs": "Input: !07!02!1991!\nOutput:",
-        "targets": [
-            "!08!14!2019!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 9979,
-        "inputs": "Input: 23857-76504-68796\nOutput:",
-        "targets": [
-            "!05!04!2013!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1217,
-        "inputs": "Input: 73545-37367-74379\nOutput:",
-        "targets": [
-            "1994-07-02"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3750,
-        "inputs": "Input: 81865-24453-35396\nOutput:",
-        "targets": [
-            "119"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 361,
-        "inputs": "44 - 19 =",
-        "targets": [
-            "s, b, j, c, t"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 335,
-        "inputs": "Input: !32783!40165!86264!\nOutput:",
-        "targets": [
-            "!08!26!1975!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 5683,
-        "inputs": "Input: !02!24!1988!\nOutput:",
-        "targets": [
-            "f, a, h, e, c"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 665,
-        "inputs": "Input: g, b, a, c, h\nOutput:",
-        "targets": [
-            "!04!01!1987!"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 768,
-        "inputs": "Input: 1983-02-11\nOutput:",
-        "targets": [
-            "b, g, a, h, e"
+            "f, a, u, l, t"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

@@ -1,140 +1,7 @@
 [
     {
-        "idx": 31,
-        "inputs": "Q: An object is at rest in a vacuum with no net external forces acting on it. Does the object have nonzero acceleration?\n  choice: Yes\n  choice: No\nA:",
-        "targets": [
-            "100 km/h east"
-        ],
-        "multiple_choice_targets": [
-            "Electromagnetic force",
-            "Gravitational force",
-            "Weak force",
-            "Strong force"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 28,
-        "inputs": "Q: A person is walking down the street. The person’s shoe exerts a force backward on the street. In which direction does the street exert a force on the person’s foot?\n  choice: Forward\n  choice: Right\n  choice: Backward\n  choice: Left\nA:",
-        "targets": [
-            "Down"
-        ],
-        "multiple_choice_targets": [
-            "Electromagnetic force",
-            "Gravitational force",
-            "Weak force",
-            "Strong force"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 40,
-        "inputs": "Q: The bonds of diamond gemstones are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
-        "targets": [
-            "Coulomb"
-        ],
-        "multiple_choice_targets": [
-            "Electromagnetic force",
-            "Gravitational force",
-            "Weak force",
-            "Strong force"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 40,
-        "inputs": "Q: I stand to your right and throw a ball to you. Which direction is the opposite of the direction in which the ball travels?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
-        "targets": [
-            "Down"
-        ],
-        "multiple_choice_targets": [
-            "Up",
-            "Down",
-            "Left",
-            "Right"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 18,
-        "inputs": "Q: I stand to your left and throw a ball to you. Which direction does the ball move?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
-        "targets": [
-            "Ionic"
-        ],
-        "multiple_choice_targets": [
-            "Electromagnetic force",
-            "Gravitational force",
-            "Weak force",
-            "Strong force"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 54,
-        "inputs": "Q: The bonds of diamond gemstones are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
-        "targets": [
-            "Electromagnetic force"
-        ],
-        "multiple_choice_targets": [
-            "Ionic",
-            "Covalent",
-            "Metallic",
-            "Hydrogen"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 63,
-        "inputs": "Q: The bonds in aluminum foil are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
-        "targets": [
-            "Metallic"
-        ],
-        "multiple_choice_targets": [
-            "Up",
-            "Down",
-            "Left",
-            "Right"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 20,
-        "inputs": "Q: A voltage is applied across a conducting wire. What happens inside the wire?\n  choice: An electric field is created\n  choice: It emits photons\n  choice: Current is induced\n  choice: A magnetic field is created\n  choice: It becomes positively charged\nA:",
+        "idx": 68,
+        "inputs": "Q: A massive charged sphere falls and hits the ground. Which force is responsible for the damage caused by the sphere?\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
         "targets": [
             "Gravitational force"
         ],
@@ -152,8 +19,8 @@
         ]
     },
     {
-        "idx": 59,
-        "inputs": "Q: A person is on a train going 100 km/h East and throws a ball 150 km/h to the East. How is the ball moving relative to the train?\n  choice: 150 km/h east\n  choice: 50 km/h west\n  choice: 0 km/h\n  choice: 250 km/h east\nA:",
+        "idx": 31,
+        "inputs": "Q: I throw a ball in the opposite direction of the sky. Which direction does the ball initially travel?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
         "targets": [
             "Down"
         ],
@@ -164,93 +31,36 @@
             "Right"
         ],
         "multiple_choice_scores": [
-            1,
             0,
+            1,
             0,
             0
         ]
     },
     {
-        "idx": 43,
-        "inputs": "Q: I throw a ball towards the ground. Which direction does the ball initially move in?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "idx": 20,
+        "inputs": "Q: I stand to your right and throw a ball to you. Which direction is the opposite of the direction in which the ball travels?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
         "targets": [
-            "0 km/h"
+            "Right"
         ],
         "multiple_choice_targets": [
-            "50 km/h east",
-            "50 km/h west",
-            "150 km/h east",
-            "150 km/h west"
+            "Up",
+            "Down",
+            "Left",
+            "Right"
         ],
         "multiple_choice_scores": [
+            0,
+            0,
             0,
             1
         ]
     },
     {
-        "idx": 58,
-        "inputs": "Q: The bonds of ammonia used in household cleaners are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
+        "idx": 59,
+        "inputs": "Q: The primary force between two free electrons is the\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
         "targets": [
-            "Right"
-        ],
-        "multiple_choice_targets": [
-            "Loses an electron",
-            "Undergoes nuclear fission",
-            "Makes a transition to the excited state",
-            "Remains in the ground state",
-            "Is radioactive"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 64,
-        "inputs": "Q: Two conducting spheres, each carrying a net charge equal to 1 Coulomb, are separated by a distance of 1 centimeter. What is the primary force between them?\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
-        "targets": [
-            "Up"
-        ],
-        "multiple_choice_targets": [
-            "Loses an electron",
-            "Undergoes nuclear fission",
-            "Makes a transition to the excited state",
-            "Remains in the ground state",
-            "Is radioactive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 19,
-        "inputs": "Q: I throw a ball to the left. What direction(s) is (are) the ball moving just before it hits the ground?\n  choice: Right\n  choice: Up and Left\n  choice: Down and Left\n  choice: Up\nA:",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Ionic",
-            "Covalent",
-            "Metallic",
-            "Hydrogen"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 62,
-        "inputs": "Q: The bonds of ethanol are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
-        "targets": [
-            "Down"
+            "Electromagnetic force"
         ],
         "multiple_choice_targets": [
             "Electromagnetic force",
@@ -259,27 +69,6 @@
             "Strong force"
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 30,
-        "inputs": "Q: I stand on the balcony of a two story building and throw a ball to someone on the ground. Which direction does the ball travel?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
-        "targets": [
-            "Ionic"
-        ],
-        "multiple_choice_targets": [
-            "Can transition to the ground state",
-            "Is in a state that has an infinite lifetime",
-            "Can undergo radioactive decay",
-            "Behaves as a harmonic oscillator",
-            "Is not moving"
-        ],
-        "multiple_choice_scores": [
-            0,
             1,
             0,
             0,
@@ -287,8 +76,8 @@
         ]
     },
     {
-        "idx": 62,
-        "inputs": "Q: The primary interaction between two protons in different nuclei separated by several miles is the\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
+        "idx": 48,
+        "inputs": "Q: The bonds of diamond gemstones are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
         "targets": [
             "Covalent"
         ],
@@ -306,10 +95,48 @@
         ]
     },
     {
-        "idx": 21,
-        "inputs": "Q: I stand to your left and throw a ball to you. Which direction does the ball move?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "idx": 34,
+        "inputs": "Q: A person is on a train going 100 km/h east and throws a ball 100 km/h to the east. How is the ball moving from the person's perspective?\n  choice: 100 km/h east\n  choice: 200 km/h east\n  choice: 0 km/h\n  choice: 100 km/h west\nA:",
         "targets": [
-            "Current is induced"
+            "100 km/h east"
+        ],
+        "multiple_choice_targets": [
+            "0 km/h",
+            "100 km/h east",
+            "100 km/h west",
+            "200 km/h east"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Q: The Coulomb force is a manifestation of which other force?\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
+        "targets": [
+            "Electromagnetic force"
+        ],
+        "multiple_choice_targets": [
+            "Electromagnetic force",
+            "Gravitational force",
+            "Weak force",
+            "Strong force"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "Q: You stand to my right and drop the ball you’re holding. Which direction does the ball travel?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "targets": [
+            "Down"
         ],
         "multiple_choice_targets": [
             "Up",
@@ -325,36 +152,16 @@
         ]
     },
     {
-        "idx": 39,
-        "inputs": "Q: The bonds of diamond gemstones are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
+        "idx": 41,
+        "inputs": "Q: A person is on a train going 100 km/h East and throws a ball 10 km/h to the West. How is the train moving from the perspective of a stationary observer on the ground?\n  choice: 110 km/h east\n  choice: 90 km/h east\n  choice: 100 km/h east\n  choice: 110 km/h west\nA:",
         "targets": [
-            "Down and Left"
+            "100 km/h east"
         ],
         "multiple_choice_targets": [
-            "It accumulates a phase",
-            "It vanishes",
-            "It cannot be normalized",
-            "It loses its spin component",
-            "It becomes antisymmetric"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: The primary interaction between two neutrons in different nuclei is the\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
-        "targets": [
-            "Hydrogen"
-        ],
-        "multiple_choice_targets": [
-            "Electromagnetic force",
-            "Gravitational force",
-            "Weak force",
-            "Strong force"
+            "90 km/h east",
+            "100 km/h east",
+            "110 km/h east",
+            "110 km/h west"
         ],
         "multiple_choice_scores": [
             0,
@@ -364,10 +171,84 @@
         ]
     },
     {
-        "idx": 2,
-        "inputs": "Q: The primary interaction between two neutrons in the same nucleus is the\n  choice: Gravitational force\n  choice: Weak force\n  choice: Electromagnetic force\n  choice: Strong force\nA:",
+        "idx": 7,
+        "inputs": "Q: I stand to your left and throw a ball to you. Which direction does the ball move?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
         "targets": [
-            "Hydrogen"
+            "Right"
+        ],
+        "multiple_choice_targets": [
+            "Up",
+            "Down",
+            "Left",
+            "Right"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 29,
+        "inputs": "Q: You stand to my right and throw the ball you’re holding towards the ceiling. Which direction does the ball initially travel?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "targets": [
+            "Up"
+        ],
+        "multiple_choice_targets": [
+            "Up",
+            "Down",
+            "Left",
+            "Right"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: A bug hits the windshield of a car. The car accelerates less than the bug due to the impact. Does the bug or the car have a higher mass?\n  choice: Bug\n  choice: Car\n  choice: Neither\nA:",
+        "targets": [
+            "Car"
+        ],
+        "multiple_choice_targets": [
+            "Bug",
+            "Car",
+            "Neither"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: A person is on a train going 100 km/h East and throws a ball 150 km/h to the East. How is the ball moving relative to the train?\n  choice: 150 km/h east\n  choice: 50 km/h west\n  choice: 0 km/h\n  choice: 250 km/h east\nA:",
+        "targets": [
+            "150 km/h east"
+        ],
+        "multiple_choice_targets": [
+            "0 km/h",
+            "50 km/h west",
+            "150 km/h east",
+            "250 km/h east"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 51,
+        "inputs": "Q: The bonds in aluminum are of what type?\n  choice: Hydrogen\n  choice: Metallic\n  choice: Covalent\n  choice: Ionic\nA:",
+        "targets": [
+            "Metallic"
         ],
         "multiple_choice_targets": [
             "Ionic",
@@ -376,9 +257,125 @@
             "Hydrogen"
         ],
         "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Q: A person is on a train going 100 km/h east and throws a ball 100 km/h to the east. How is the ball moving from the person's perspective?\n  choice: 100 km/h east\n  choice: 200 km/h east\n  choice: 0 km/h\n  choice: 100 km/h west\nA:",
+        "targets": [
+            "100 km/h east"
+        ],
+        "multiple_choice_targets": [
+            "0 km/h",
+            "100 km/h east",
+            "100 km/h west",
+            "200 km/h east"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: I stand on the balcony of a two story building and throw a ball to someone on the ground. Which direction does the ball travel?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "targets": [
+            "Down"
+        ],
+        "multiple_choice_targets": [
+            "Up",
+            "Down",
+            "Left",
+            "Right"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: You stand to my right and throw a ball to me. I immediately drop it. What direction is the ball traveling right after it leaves your hands?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "targets": [
+            "Left"
+        ],
+        "multiple_choice_targets": [
+            "Up",
+            "Down",
+            "Left",
+            "Right"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 72,
+        "inputs": "Q: A spinless electron traveling with constant velocity is subject to a uniform and static magnetic field. The electron's motion in the presence of the magnetic field is\n  choice: Elliptical\n  choice: Straight\n  choice: Hyperbolic\n  choice: Circular\n  choice: Parabolic\nA:",
+        "targets": [
+            "Circular"
+        ],
+        "multiple_choice_targets": [
+            "Straight",
+            "Circular",
+            "Parabolic",
+            "Elliptical",
+            "Hyperbolic"
+        ],
+        "multiple_choice_scores": [
+            0,
             1,
             0,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: A person is on a train going 100 km/h East and throws a ball 150 km/h to the East. How is the ball moving relative to the train?\n  choice: 150 km/h east\n  choice: 50 km/h west\n  choice: 0 km/h\n  choice: 250 km/h east\nA:",
+        "targets": [
+            "150 km/h east"
+        ],
+        "multiple_choice_targets": [
+            "0 km/h",
+            "50 km/h west",
+            "150 km/h east",
+            "250 km/h east"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: You stand to my right and throw a ball to me. I immediately drop it. What direction is the ball traveling right after it leaves your hands?\n  choice: Left\n  choice: Up\n  choice: Down\n  choice: Right\nA:",
+        "targets": [
+            "Left"
+        ],
+        "multiple_choice_targets": [
+            "Up",
+            "Down",
+            "Left",
+            "Right"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
             0
         ]
     }

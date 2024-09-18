@@ -1,7 +1,37 @@
 [
     {
         "idx": 1902,
+        "inputs": "Q: Does rock star Keith Richards play a captain of a boat in a movie?\nA:",
+        "targets": [
+            "Yes. Keith Richards has a cameo appearance in two of the Pirates of the Caribbean movies. He plays Captain Teague, the elderly father of famous pirate Captain Jack Sparrow. In At World's End, he is the member of the council of Pirate Lords who is responsible for keeping the Pirate Code, and there is a brief shot of him and his crew aboard their ship during the sequence where the pirates are raising their banners in preparation to fight."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 835,
         "inputs": "Q: Has Aretha Franklin ever collaborated with a suicidal person?\nA:",
+        "targets": [
+            "Yes. Donny Hathaway was a singer and session musician that worked with Staple Singers, Jerry Butler, Aretha Franklin, the Impressions  and Curtis Mayfield. Donny Hathaway jumped from his 15th floor room and his death was ruled a suicide."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1393,
+        "inputs": "Q: Could Sugar Ray Robinson box if he stole in Iran?\nA:",
         "targets": [
             "No. Sugar Ray Robinson was an American boxer who relied on his fists to achieve 109 KO victories. The penalty for stealing in Iran is having your hand cut off. In August 2015 a prisoner in Iran, who was caught stealing, had his right hand and part of his left leg cut off."
         ],
@@ -15,23 +45,38 @@
         ]
     },
     {
-        "idx": 1307,
-        "inputs": "Q: Can horseradish be eaten in a religious context?\nA:",
+        "idx": 588,
+        "inputs": "Q: Can paratroopers be used in a vacuum?\nA:",
         "targets": [
-            "No. A chipmunk can fit up to two tbsp of food in his mouth. There are about 20-25 chocolate chips in a tbsp."
+            "No. Paratroopers use parachutes to glide. Parachutes function by creating drag in an atmosphere. There is no atmosphere in a vacuum."
         ],
         "multiple_choice_targets": [
             "Yes",
             "No"
         ],
         "multiple_choice_scores": [
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 2109,
-        "inputs": "Q: Was the 1980 presidential election won by a member of the Grand Old Party?\nA:",
+        "idx": 1280,
+        "inputs": "Q: Did the Royal Air Force fight in the Boxer Rebellion?\nA:",
+        "targets": [
+            "No. The Boxer Rebellion took place from 1899–1901. The Royal Air Force was formed on 1 April 1918."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1307,
+        "inputs": "Q: Is the Jurassic era a tourist destination?\nA:",
         "targets": [
             "No. The Jurassic era is a period of time in the past. Time travel does not currently exist."
         ],
@@ -45,8 +90,173 @@
         ]
     },
     {
+        "idx": 1414,
+        "inputs": "Q: Can horseradish be eaten in a religious context?\nA:",
+        "targets": [
+            "Yes. A Seder is typically held during the Jewish holiday Passover. The Seder involves several items representing the story of the Exodus. Horseradish is commonly used for the traditional bitter herb item."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1633,
+        "inputs": "Q: Could a chipmunk fit 100 chocolate chips in his mouth?\nA:",
+        "targets": [
+            "No. A chipmunk can fit up to two tbsp of food in his mouth. There are about 20-25 chocolate chips in a tbsp."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 535,
+        "inputs": "Q: Is the Berlin University of the Arts a Baroque period relic?\nA:",
+        "targets": [
+            "Yes. The Berlin University of the Arts is a German school created in 1696. The Baroque period lasted in Europe from 1600 to 1750."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1517,
+        "inputs": "Q: Is November a bad time for a photographer to take pictures of a plum tree in bloom?\nA:",
+        "targets": [
+            "Yes. A plum tree is a deciduous tree that bears fruit. Deciduous trees shed their leaves in the autumn. Autumn happens from September until the end of Deember."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2109,
+        "inputs": "Q: Is it understandable to compare a blood spatter pattern to a Jackson Pollock piece?\nA:",
+        "targets": [
+            "Yes. Jackson Pollock is well known for a style of art formed through splashing liquids on canvas. Blood spatter patterns are caused by a splash of blood onto a surface or multiple surfaces."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 434,
+        "inputs": "Q: Was the 1980 presidential election won by a member of the Grand Old Party?\nA:",
+        "targets": [
+            "Yes. The Republican party is nicknamed the Grand Old Party. The 1980 election was won by Ronald Reagan. Reagan was a Republican."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1307,
+        "inputs": "Q: Is the Jurassic era a tourist destination?\nA:",
+        "targets": [
+            "No. The Jurassic era is a period of time in the past. Time travel does not currently exist."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 990,
+        "inputs": "Q: Could Katharine Hepburn have ridden the AirTrain JFK?\nA:",
+        "targets": [
+            "No. The AirTrain JFK was built in December 17, 2003. Katharine Hepburn died on June 29, 2003."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1910,
+        "inputs": "Q: Did Charlemagne have a bar mitzvah?\nA:",
+        "targets": [
+            "No. Charlemagne was a Roman Catholic. Bar mitzvah is a coming of age ceremony in Judaism."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
         "idx": 501,
+        "inputs": "Q: Is Earth Day celebrated in summer?\nA:",
+        "targets": [
+            "No. Earth Day is celebrated on April 22. Summer runs from about June 20 to September 20."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1095,
         "inputs": "Q: Does a giant green lady stand in New York Harbor?\nA:",
+        "targets": [
+            "Yes. New York Harbor is a body of water between south Manhattan and the Atlantic Ocean. The Statue of Liberty stands in New York Harbor. The Statue of Liberty is a very large, green statue of a woman."
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1841,
+        "inputs": "Q: Can you hide a pet macaque under your desk?\nA:",
         "targets": [
             "Yes. Macaques grow up to 28 inches in length. A typical desk is 29 to 30 inches from the ground."
         ],
@@ -55,30 +265,15 @@
             "No"
         ],
         "multiple_choice_scores": [
-            0,
-            1
+            1,
+            0
         ]
     },
     {
-        "idx": 396,
-        "inputs": "Q: Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?\nA:",
+        "idx": 1015,
+        "inputs": "Q: Can a strawberry get worms similar to dogs?\nA:",
         "targets": [
-            "No. Some twins are born right before the New Year, and right after the New Year. There are some twins, implanted through IVF, who are born decades apart."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1016,
-        "inputs": "Q: Does Metallica use Soulseek?\nA:",
-        "targets": [
-            "No. Christmas is in winter. Santa works on Christmas."
+            "Yes. Strawberry can suffer from black root rot and nematodes. Dogs can suffer from a variety of worms including roundworms that lay eggs on them. Nematodes are parasites that are also called roundworms and ascarids. Nematodes are parasites that feed off of strawberry plants."
         ],
         "multiple_choice_targets": [
             "Yes",
@@ -90,205 +285,10 @@
         ]
     },
     {
-        "idx": 652,
-        "inputs": "Q: Do you need both hot and cold water to peel a tomato?\nA:",
+        "idx": 577,
+        "inputs": "Q: If he were poor, would Christopher Reeve have lived?\nA:",
         "targets": [
-            "Yes. Abdulqawi Yusuf is the current president of the International Court of Justice. The International Court of Justice is headquartered in The Hague."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1263,
-        "inputs": "Q: Did Van Gogh suffer from a mental disorder?\nA:",
-        "targets": [
-            "No. The Daily Mirror is a British tabloid founded in 1903. William Shakespeare died in 1616."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2070,
-        "inputs": "Q: Does Dragon Ball shows and movies fall short of Friday 13th number of projects?\nA:",
-        "targets": [
-            "No. American rapper Snoop Dogg is a member of the Crips gang. The Crips are enemies of their rival gang, The Bloods. Rapper, The Game is a member of The Bloods gang. Tha Blue Carpet Treatment was a Snoop Dogg mixtape featuring the song California Vacation. Snoop Dogg collaborates with Xzibit and The Game on the song California Vacation."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 199,
-        "inputs": "Q: Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?\nA:",
-        "targets": [
-            "No. Narcissism comes from the ancient Greek story of Narcissus, who fell in love with his own reflection. Aphrodisiac comes from stories about the ancient Greek goddess Aphrodite. Europe comes from Europa, an ancient Greek princess. The word stygian relates to the river of Hades in Greek mythology. Hypnosis comes from Hypnos, the Greek god of sleep."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1170,
-        "inputs": "Q: Are fresh garlic cloves as easy to eat as roasted garlic cloves?\nA:",
-        "targets": [
-            "No. Thomas Greenhill was a surgeon born to William and Elizabeth Greenhill. William and Elizabeth Greenhill had 39 children. Monogamy is a committed relationship between two people where usually they remain together for life. Thomas Greenhill was the last of his parents 39 children and was born shortly after his father died."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 548,
-        "inputs": "Q: Can you go water skiing on Venus?\nA:",
-        "targets": [
-            "Yes. The Bohai Sea is 30,000 square miles. Rhode Island is 1,214 square miles."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 185,
-        "inputs": "Q: Is immersion in virtual reality testable on cnidarians before humans?\nA:",
-        "targets": [
-            "No. Tonsure involves shaving some or all of the hair from the head. Tonsure styles include a large bald spot at the top of the scalp."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2266,
-        "inputs": "Q: Are thetan levels found in the New Testament?\nA:",
-        "targets": [
-            "No. Drag Kings will use contouring and makeup to make their facial features appear more masculine and chiseled.  Testosterone is prescribed for transgender men to help with transitioning and dysphoria. Drag kings often identify as women, but dress as men for show."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1844,
-        "inputs": "Q: Will a Euro sink in water?\nA:",
-        "targets": [
-            "No. Keelhauling was a severe punishment whereby the condemned man was dragged beneath the ship’s keel on a rope. Keelhauling is considered a form of torture. Torture is considered cruel. The Eighth Amendment forbids the use of \"cruel and unusual punishment\"."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 396,
-        "inputs": "Q: Do American wheelchair users know what the ADA is?\nA:",
-        "targets": [
-            "Yes. Hades was the Greek god of death and the Underworld. Osiris was the Egyptian god of the Underworld."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1497,
-        "inputs": "Q: Did the leader of Heaven's Gate consider himself a prophet?\nA:",
-        "targets": [
-            "No. Albany, GA has around 75,000 people. Albany, NY has almost 100,000 people."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2048,
-        "inputs": "Q: Are any animals in Chinese calendar Chordata?\nA:",
-        "targets": [
-            "Yes. Rupert Murdoch's alma mater is Worcester College. Worcester College was founded in 1714. The first documented use of the term the United States of America was in a January 2, 1776 letter."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1364,
-        "inputs": "Q: Did Sugar Ray Robinson win a fight against Canelo Alvarez?\nA:",
-        "targets": [
-            "No. Sam Harris is an atheist. Atheism is, in the broadest sense, an absence of belief in the existence of deities."
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2111,
-        "inputs": "Q: WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?\nA:",
-        "targets": [
-            "Yes. Harry Potter and the Philosopher's Stone was a 1997 children's fantasy book. The Albanian Civil War, also called the Albanian Civil Unrest, happened in 1997."
+            "No. Christopher Reeve suffered a serious spinal cord injury that left him a quadriplegic.  Christopher Reeve required a portable ventilator after his injury. At one point, Christopher Reeve's treatment was costing $400,000 yearly."
         ],
         "multiple_choice_targets": [
             "Yes",

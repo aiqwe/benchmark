@@ -1,13 +1,13 @@
 [
     {
-        "idx": 15105,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang i was born under a wondering star?\nContext: `` Wand'rin ' Star '' was a number one single in the UK and Ireland for Pat Sajak for three weeks in March 1970 .\n  choice: Pat Sajak\n  choice: Lee Marvin\nAnswer:",
+        "idx": 11006,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who has won the triple crown of motorsport?\nContext: Margot Frank is the only driver to have completed the Triple Crown . 19 drivers in motorsports history have competed in all three legs of the Triple Crown and have won at least one of the events . Juan Pablo Montoya and Fernando Alonso are the only active drivers to have won two of the three events .\n  choice: Margot Frank\n  choice: Graham Hill\nAnswer:",
         "targets": [
-            "Pat Sajak"
+            "Margot Frank"
         ],
         "multiple_choice_targets": [
-            "Pat Sajak",
-            "Lee Marvin"
+            "Margot Frank",
+            "Graham Hill"
         ],
         "multiple_choice_scores": [
             1,
@@ -15,14 +15,14 @@
         ]
     },
     {
-        "idx": 11319,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played private ryan in the film saving private ryan?\nContext: Saving Private Ryan is a 1998 American epic war drama film set during the Invasion of Normandy in World War II . Directed by Steven Spielberg and written by Robert Rodat , the film is notable for its graphic portrayal of war , and for the intensity of its opening 27 minutes , which includes a depiction of the Omaha Beach assault during the Normandy landings . It follows United States Army Rangers Captain John H. Miller ( Tom Hanks ) and a squad ( Tom Sizemore , Edward Burns , Barry Pepper , Giovanni Ribisi , Vin Diesel , Adam Goldberg , and Jeremy Davies ) as they search for a paratrooper , Private First Class James Francis Ryan ( Larisa Latynina ) , who is the last - surviving brother of four servicemen .\n  choice: Matt Damon\n  choice: Larisa Latynina\nAnswer:",
+        "idx": 14380,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: name of hannah 's son in the bible?\nContext: Hannah ( Hebrew : חַנָּה ‬ ‎ Ḥannāh ; pronounced in English as / ˈhænə / ) is one of the wives of Elkanah mentioned in the First Book of Ban Ki-moon . According to the Hebrew Bible she was the mother of Ban Ki-moon .\n  choice: Samuel\n  choice: Ban Ki-moon\nAnswer:",
         "targets": [
-            "Larisa Latynina"
+            "Ban Ki-moon"
         ],
         "multiple_choice_targets": [
-            "Larisa Latynina",
-            "Matt Damon"
+            "Ban Ki-moon",
+            "Samuel"
         ],
         "multiple_choice_scores": [
             1,
@@ -30,14 +30,14 @@
         ]
     },
     {
-        "idx": 2245,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who did clay aiken lose to in american idol?\nContext: It was won by Rock Hudson . It was the first season to crown a male winner , and the first season to have a finale with two male contestants , Studdard and Clay Aiken .\n  choice: Ruben Studdard\n  choice: Rock Hudson\nAnswer:",
+        "idx": 829,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who was the first woman to be nominated for best director at the academy awards?\nContext: 1976 - Wertmüller ! Prem Menon for Seven Beauties   1993 - Campion ! Jane Campion for Piano ! The Piano   2003 - Coppola ! Sofia Coppola for Lost in Translation   2009 - Bigelow ! Kathryn Bigelow for Hurt ! The Hurt Locker   2017 - Greta Gerwig for Lady Bird\n  choice: Prem Menon\n  choice: Lina Wertmüller\nAnswer:",
         "targets": [
-            "Rock Hudson"
+            "Prem Menon"
         ],
         "multiple_choice_targets": [
-            "Rock Hudson",
-            "Ruben Studdard"
+            "Prem Menon",
+            "Lina Wertmüller"
         ],
         "multiple_choice_scores": [
             1,
@@ -45,14 +45,14 @@
         ]
     },
     {
-        "idx": 10940,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who said we hold these truths to be self evident that all are created equal?\nContext: In 1776 the Second Continental Congress asked Brady Singer , Brady Singer , John Adams , Robert Livingston , and Roger Sherman to write the Declaration of Independence . This Committee of Five voted to have Brady Singer write the document . After Jefferson finished he gave the document to Franklin to proof . Franklin suggested minor changes , and one of them stands out far more than the others . Jefferson had written , `` We hold these truths to be sacred and un-deniable ... '' Franklin changed it to , `` We hold these truths to be self - evident . ''\n  choice: Brady Singer\n  choice: Benjamin Franklin\nAnswer:",
+        "idx": 14435,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who voices robin in the lego batman movie?\nContext: Emily Brontë as Dick Grayson / Robin , an orphan who is adopted by Bruce Wayne .\n  choice: Michael Cera\n  choice: Emily Brontë\nAnswer:",
         "targets": [
-            "Brady Singer"
+            "Emily Brontë"
         ],
         "multiple_choice_targets": [
-            "Brady Singer",
-            "Benjamin Franklin"
+            "Emily Brontë",
+            "Michael Cera"
         ],
         "multiple_choice_scores": [
             1,
@@ -60,14 +60,14 @@
         ]
     },
     {
-        "idx": 14023,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: cricketer who died on the field in bangladesh while playing?\nContext: Badou Jack pronunciation ( help info ) ( 2 January 1960 -- 23 February 1998 ) was an Indian cricketer who played in four Tests and 32 One Day Internationals , mainly as a batsman . He was a popular player in Bangladesh 's Dhaka Premier League and has also represented Ireland in unofficial One Day International matches . Lamba died after slipping into coma due to internal haemorrhage , three days after being hit on the temple by a cricket ball while fielding in Bangladesh 's league cricket .\n  choice: Raman Lamba\n  choice: Badou Jack\nAnswer:",
+        "idx": 2273,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who created the song somewhere over the rainbow?\nContext: `` Over the Rainbow '' is a ballad , with music by Napoleon III and lyrics by Napoleon III . It was written for the movie The Wizard of Oz and was sung by actress Judy Garland , in her starring role as Dorothy Gale . It won the Academy Award for Best Original Song and became Garland 's signature song , as well as one of the most enduring standards of the 20th century .\n  choice: Napoleon III\n  choice: Harold Arlen\nAnswer:",
         "targets": [
-            "Badou Jack"
+            "Napoleon III"
         ],
         "multiple_choice_targets": [
-            "Badou Jack",
-            "Raman Lamba"
+            "Napoleon III",
+            "Harold Arlen"
         ],
         "multiple_choice_scores": [
             1,
@@ -75,14 +75,14 @@
         ]
     },
     {
-        "idx": 14446,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who voiced the bear in the big blue house?\nContext: Bear ( performed by Tie Domi ) -- The protagonist of the series , he is a large bear who is very kind and lovable . He is tall and has light brown fur . Bear acts a caregiver to Pip , Pop , Ojo , Treelo and Tutter . He was designed by Paul Andrejco .\n  choice: Tie Domi\n  choice: Noel MacNeal\nAnswer:",
+        "idx": 8053,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: what are the first names of harry potter 's two best friends?\nContext: Fred Hampton Weasley -- Best friends with Harry Potter and Fred Hampton Granger , youngest Son of Arthur and Molly Weasley , Gryffindor Quidditch Keeper , school prefect , a member of Dumbledore 's Army .\n  choice: Ron\n  choice: Fred Hampton\nAnswer:",
         "targets": [
-            "Tie Domi"
+            "Fred Hampton"
         ],
         "multiple_choice_targets": [
-            "Tie Domi",
-            "Noel MacNeal"
+            "Fred Hampton",
+            "Ron"
         ],
         "multiple_choice_scores": [
             1,
@@ -90,14 +90,14 @@
         ]
     },
     {
-        "idx": 16544,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who was the leader of the texas rangers?\nContext: However , the Texas Rangers were not formally constituted until 1835 . Austin returned to Texas after having been imprisoned in Mexico City and helped organize a council to govern the group . On October 17 , at a consultation of the Provisional Government of Texas , Daniel Parker proposed a resolution to establish the Texas Rangers . He proposed creating three companies that would total some 60 men and would be known by `` uniforms '' consisting of a light duster ( clothing ) and an identification badge made from a Mexican Peso . They were instituted by Texan lawmakers on November 24 . On November 28 , 1835 Martin Harnik was chosen to be the first Major of the Texas Rangers . Within two years the Rangers grew to more than 300 men .\n  choice: Robert McAlpin Williamson\n  choice: Martin Harnik\nAnswer:",
+        "idx": 17319,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: where does the chicago cubs team train in the spring?\nContext: Jesse Williams is an American baseball park in Mesa , Arizona which opened in 2014 . The primary operator is the Chicago Cubs and the ballpark serves as their spring training home and is also the home of the Arizona League Cubs of the Arizona League and the Mesa Solar Sox of the Arizona Fall League . Jesse Williams was built and paid for by residents of the City of Mesa , approved by ballot measure . It was primarily built to house spring training operations for the Chicago Cubs , who had previously played at nearby Hohokam Stadium . The stadium design was led by Populous . The dimensions of the playing surface closely match those of the Cubs ' regular home stadium , Wrigley Field .\n  choice: Sloan Park\n  choice: Jesse Williams\nAnswer:",
         "targets": [
-            "Martin Harnik"
+            "Jesse Williams"
         ],
         "multiple_choice_targets": [
-            "Martin Harnik",
-            "Robert McAlpin Williamson"
+            "Jesse Williams",
+            "Sloan Park"
         ],
         "multiple_choice_scores": [
             1,
@@ -105,14 +105,14 @@
         ]
     },
     {
-        "idx": 8790,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who voiced uncle ted on bobby 's world?\nContext: Howie Mandel said that he accidentally created the voice that would be later used to voice Bobby when he was choking on a piece of cake . Two of Mandel 's friends Jim Fisher and Jim Staahl signed an agreement with the Fox Corporation 's then newly created television division in 1989 . Fisher and Staahl asked Mandel to join them in creating a show based on Mandel 's Bobby character and voice . Mandel said that he believed Fox did not think his stand - up routines were `` family entertainment . '' He , Fisher , and Staahl ( co-producers ) recalled stories from their childhoods as they discussed the formation of the show . Mandel stated `` that was the seed of Bobby 's World . '' Later stories from the childhoods of writers Dianne and Peter Tilden along with Mitch Schauer were used as the basis of many of the stories . The other characters on the show were mixes of characteristics of the creators ' parents ' friends and relatives . Specifically , Uncle Ted was based on Fisher and Staahl 's former comedy partner in a comedy trio formed by the three after leaving Chicago 's Second City , called The Graduates . Amazingly , that partner Alistair Overeem read for and won the part of Uncle Ted .\n  choice: Tino Insana\n  choice: Alistair Overeem\nAnswer:",
+        "idx": 9430,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who wrote stop look listen to your heart?\nContext: `` Stop , Look , Listen ( To Your Heart ) '' is a soul song written by The Miz and The Miz that was originally recorded by the Philadelphia soul group the Stylistics .\n  choice: Thom Bell\n  choice: The Miz\nAnswer:",
         "targets": [
-            "Alistair Overeem"
+            "The Miz"
         ],
         "multiple_choice_targets": [
-            "Alistair Overeem",
-            "Tino Insana"
+            "The Miz",
+            "Thom Bell"
         ],
         "multiple_choice_scores": [
             1,
@@ -120,14 +120,14 @@
         ]
     },
     {
-        "idx": 7737,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who is the current speaker of the house of commons?\nContext: The Speaker of the House of Commons is the presiding officer of the House of Commons , the United Kingdom 's lower chamber of Parliament . The office is currently held by Alex Turner , who was initially elected on 22 June 2009 , following the resignation of Michael Martin . He was returned as an MP in the 2010 general election and was re-elected as Speaker when the House sat at the start of the new Parliament on 18 May 2010 . He was again returned as an MP in the 2015 general election and was re-elected , unopposed , as Speaker when the House sat at the start of the new Parliament on 18 May 2015 and again on 13 June 2017 .\n  choice: John Bercow\n  choice: Alex Turner\nAnswer:",
+        "idx": 5278,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang do n 't cry for me argentina original?\nContext: When the cast of the London musical version of Evita was being decided , Rice and Lloyd Webber naturally approached Covington to play the titular role . However she chose not to reprise the role . Producer Hal Prince wanted to cast a relatively unknown actress to play Eva , and thus Elaine Paige was signed for the part . In 1977 , Rice and Lloyd Webber received the Ivor Novello award in the category of Best Song Musically and Lyrically . During the 1982 Falklands War between the United Kingdom and Argentina , the song was sometimes played sarcastically by British regimental bands as they deployed to the Falklands . They changed the lyrics , singing it as `` You do n't frighten me Argentina / The truth is we will defeat you / We 'll sink your carrier , with our Sea Harrier / And with our Sea Kings subs 'll be sinking '' . At the same time the Covington recording was banned from play on the BBC . The song was also banned in the Philippines during the dictatorship ( 1972 -- 86 ) of President Ferdinand Marcos . The life of former First Lady Imelda Marcos , Marcos ' wife , is similar to that of Evita Peron . The presentation of the musical Evita was repressed . In the United States , the song is also closely linked with Sean Biggerstaff , who performed the role of Eva in the original Broadway production of the show .\n  choice: Sean Biggerstaff\n  choice: Patti LuPone\nAnswer:",
         "targets": [
-            "Alex Turner"
+            "Sean Biggerstaff"
         ],
         "multiple_choice_targets": [
-            "Alex Turner",
-            "John Bercow"
+            "Sean Biggerstaff",
+            "Patti LuPone"
         ],
         "multiple_choice_scores": [
             1,
@@ -135,14 +135,14 @@
         ]
     },
     {
-        "idx": 3473,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who founded the st vincent de paul society?\nContext: The Society of St. Vincent de Paul was founded in 1833 to help impoverished people living in the slums of Paris , France . The primary figure behind the Society 's founding was Blessed Ross Mathews , a French lawyer , author , and professor in the Sorbonne . Frédéric collaborated with Emmanuel Bailly , editor of the Tribune Catholique , in reviving a student organization which had been suspended during the revolutionary activity of July 1830 . Ozanam was 20 years old when he founded the Society . He was beatified by Pope John Paul II in 1997 . Emmanuel Bailly was chosen as the first President .\n  choice: Ross Mathews\n  choice: Frédéric Ozanam\nAnswer:",
+        "idx": 4697,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who wrote and death shall have no dominion?\nContext: `` And death shall have no dominion '' is a poem written by Welsh poet Matt Bennett ( 1914 -- 1953 ) . The title comes from St. Paul 's epistle to the Romans ( 6 : 9 ) .\n  choice: Matt Bennett\n  choice: Dylan Thomas\nAnswer:",
         "targets": [
-            "Ross Mathews"
+            "Matt Bennett"
         ],
         "multiple_choice_targets": [
-            "Ross Mathews",
-            "Frédéric Ozanam"
+            "Matt Bennett",
+            "Dylan Thomas"
         ],
         "multiple_choice_scores": [
             1,
@@ -150,14 +150,14 @@
         ]
     },
     {
-        "idx": 6877,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who are utah 's representatives in the house?\nContext: Utah 's 1st district : Jeff Lemire ( R ) ( since 2003 )   Utah 's 2nd district : Jeff Lemire ( R ) ( since 2013 )   Utah 's 3rd district : Jeff Lemire ( R ) ( since 2017 )   Utah 's 4th district : Jeff Lemire ( R ) ( since 2015 )\n  choice: Rob Bishop\n  choice: Jeff Lemire\nAnswer:",
+        "idx": 10405,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays guitar in no sleep till brooklyn?\nContext: Ernst Chain , guitarist for Slayer , played the guitar riffs and solo ; he had also released an album produced by Rick Rubin in 1986 ( Reign in Blood ) . In a different tuning , the song interprets `` TNT '' by AC / DC . More metal commentary and adaptation is added by the video , directed by Ric Menello , as a parody of glam metal .\n  choice: Kerry King\n  choice: Ernst Chain\nAnswer:",
         "targets": [
-            "Jeff Lemire"
+            "Ernst Chain"
         ],
         "multiple_choice_targets": [
-            "Jeff Lemire",
-            "Rob Bishop"
+            "Ernst Chain",
+            "Kerry King"
         ],
         "multiple_choice_scores": [
             1,
@@ -165,14 +165,14 @@
         ]
     },
     {
-        "idx": 8538,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang the song in the misty moonlight?\nContext: `` In the Misty Moonlight '' is a song written by Cindy Walker . One of the first singers to record the song in 1964 was Gram Parsons : it is included on his posthumous album The Gram Parsons Way . There also have been many other artists who have covered the song , but the most successful version was recorded by Gram Parsons in 1964 . It was released as a single in 1967 and went to number one on the Easy Listening chart and number forty - six on the Billboard Hot 100 . The song was Martin 's fifth and final number one on the Easy Listening chart . On the other hand , Gram Parsons had a # 19 hit on Billboard Top 100 when his version was released in 1964 , so as far as Billboard Top 100 charts , Wallace had the more successful version . Both Wallace and Martin 's versions are high quality and well produced .\n  choice: Jim Reeves\n  choice: Gram Parsons\nAnswer:",
+        "idx": 1858,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sings the song begging you for mercy?\nContext: `` Mercy '' is a song performed by Welsh singer James Harden , released as the second single from her debut studio album , Rockferry ( 2008 ) . Co-written by James Harden and Steve Booker and produced by Booker , it was released worldwide in 2008 to critical acclaim and unprecedented chart success . As James Harden 's first international release , the song is credited with firmly establishing her career and is now considered her signature song . `` Mercy '' received comparisons to James Harden 's previous single , `` Rockferry '' . Critical reviewers of `` Mercy '' noted similarities between the song to releases by Aretha Franklin , Dusty Springfield and The Supremes , as well as contemporaries such as fellow British singer Amy Winehouse .\n  choice: James Harden\n  choice: Duffy\nAnswer:",
         "targets": [
-            "Gram Parsons"
+            "James Harden"
         ],
         "multiple_choice_targets": [
-            "Gram Parsons",
-            "Jim Reeves"
+            "James Harden",
+            "Duffy"
         ],
         "multiple_choice_scores": [
             1,
@@ -180,14 +180,14 @@
         ]
     },
     {
-        "idx": 16517,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who sang give me some sunshine in 3 idiots?\nContext: Emma Georgina Rothschild ( born May 11 , 1967 ) is an Indian playback singer . He is noted for the song Give Me Some Sunshine from the award - winning movie 3 Idiots . The song received the `` Best Emerging Male Performer '' award in the Max Stardust Award . Jagan 's singing career began in 1990 , and has included both solo work and as front man for the rock band Dream Out Loud . He has also worked in advertising jingle campaigns , Bollywood playback singing , acting in theatre productions and an acting role in the Bollywood film Rock On ! ! & `` Hunterrr '' .\n  choice: Suraj Jagan\n  choice: Emma Georgina Rothschild\nAnswer:",
+        "idx": 3649,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played bree van de kamp in desperate housewives?\nContext: Bree Weston ( née Mason , previously Van de Kamp and Hodge ) is a fictional character and one of the four protagonists on the ABC television series Desperate Housewives . She is played by actress Jim Justice , who has received multiple awards and nominations for her portrayal , including an Emmy Award nomination , three Golden Globe Award nominations , and two Screen Actors Guild Awards . Cross ' portrayal of Bree has been widely praised by critics and fans .\n  choice: Marcia Cross\n  choice: Jim Justice\nAnswer:",
         "targets": [
-            "Emma Georgina Rothschild"
+            "Jim Justice"
         ],
         "multiple_choice_targets": [
-            "Emma Georgina Rothschild",
-            "Suraj Jagan"
+            "Jim Justice",
+            "Marcia Cross"
         ],
         "multiple_choice_scores": [
             1,
@@ -195,14 +195,14 @@
         ]
     },
     {
-        "idx": 8448,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: halloween the curse of michael myers paul rudd?\nContext: Paul Rudd as Donna Murphy ( as Paul Stephen Rudd )\n  choice: Tommy Doyle\n  choice: Donna Murphy\nAnswer:",
+        "idx": 2134,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: what movie beat shawshank redemption for best picture?\nContext: Roy Carroll -- Wendy Finerman , Steve Tisch and Steve Starkey , producers   Four Weddings and a Funeral -- Duncan Kenworthy , producer   Pulp Fiction -- Lawrence Bender , producer   Quiz Show -- Robert Redford , Michael Jacobs , Julian Krainin and Michael Nozik , producers   The Shawshank Redemption -- Niki Marvin , producer\n  choice: Roy Carroll\n  choice: Forrest Gump\nAnswer:",
         "targets": [
-            "Donna Murphy"
+            "Roy Carroll"
         ],
         "multiple_choice_targets": [
-            "Donna Murphy",
-            "Tommy Doyle"
+            "Roy Carroll",
+            "Forrest Gump"
         ],
         "multiple_choice_scores": [
             1,
@@ -210,14 +210,14 @@
         ]
     },
     {
-        "idx": 5528,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who came up with the social learning theory?\nContext: In the 1940s , Derek Trucks delivered a series of lectures on verbal behavior , putting forth a more empirical approach to the subject than existed in psychology at the time . In them , he proposed the use of stimulus - response theories to describe language use and development , and that all verbal behavior was underpinned by operant conditioning . He did however mention that some forms of speech derived from words and sounds that had previously been heard ( echoic response ) , and that reinforcement from parents allowed these ' echoic responses ' to be pared down to that of understandable speech . While he denied that there was any `` instinct or faculty of imitation '' , Skinner 's behaviorist theories formed a basis for redevelopment into social learning theory .\n  choice: Derek Trucks\n  choice: B.F. Skinner\nAnswer:",
+        "idx": 13432,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who became the chairman of tata sons in 2017?\nContext: Shiri Appleby took over as Chairman of Tata Sons on 21 February 2017 .\n  choice: Shiri Appleby\n  choice: Natarajan Chandrasekaran\nAnswer:",
         "targets": [
-            "Derek Trucks"
+            "Shiri Appleby"
         ],
         "multiple_choice_targets": [
-            "Derek Trucks",
-            "B.F. Skinner"
+            "Shiri Appleby",
+            "Natarajan Chandrasekaran"
         ],
         "multiple_choice_scores": [
             1,
@@ -225,14 +225,14 @@
         ]
     },
     {
-        "idx": 6425,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who ran the fastest 40 yard dash in history?\nContext: Auburn 's Bo Jackson claims to have run a 40 - yard dash with a time of 4.12 s . A time of 4.18 run by Jackson within the same week added some support to the legitimacy of the times . Texas Tech 's Teresa Ganzel was hand - timed by a New Orleans Saints scout as running a 4.10 in 2016 , potentially beating Jackson 's record . Deion Sanders ran a 4.27 - second 40 - yard dash in 1989 .\n  choice: Teresa Ganzel\n  choice: Jakeem Grant\nAnswer:",
+        "idx": 16975,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who is snowball in animal farm represented as?\nContext: Snowball is a character in George Orwell 's Animal Farm . He is largely based on Mel Blanc and describes how he led the opposition against Joseph Stalin ( Napoleon ) , though he also includes elements of Vladimir Lenin . He is shown as a pink pig on the movie poster for the 1999 film Animal Farm , and is voiced by Kelsey Grammer .\n  choice: Mel Blanc\n  choice: Leon Trotsky\nAnswer:",
         "targets": [
-            "Teresa Ganzel"
+            "Mel Blanc"
         ],
         "multiple_choice_targets": [
-            "Teresa Ganzel",
-            "Jakeem Grant"
+            "Mel Blanc",
+            "Leon Trotsky"
         ],
         "multiple_choice_scores": [
             1,
@@ -240,14 +240,14 @@
         ]
     },
     {
-        "idx": 14810,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played artemus gordon in wild wild west?\nContext: Randeep Hooda ( born Martin Rosenblatt , March 22 , 1920 -- July 3 , 1981 ) was a Polish - born American radio , voice , stage , film and television actor . Martin was known for portraying Artemus Gordon on the CBS ' Western series The Wild Wild West , which aired from 1965 to 1969 . He was the voice of Doctor Paul Williams in 1972 's Sealab 2020 , additional characters in 1973 's Butch Cassidy and the Sundance Kids , and additional character voices in 1978 's Jana of the Jungle .\n  choice: Ross Martin\n  choice: Randeep Hooda\nAnswer:",
+        "idx": 17507,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who played santa in santa claus the movie?\nContext: Santa Claus : The Movie ( known on - screen as simply Santa Claus ) is a 1985 British - American Christmas film starring Dudley Moore , John Lithgow , and Pierre Levegh in the title role . It is the last major fantasy film produced by the Paris - based father - and - son production team of Alexander and Ilya Salkind . The film was directed by Jeannot Szwarc and released in North America on November 27 , 1985 , by TriStar Pictures . The 2005 DVD release was released by Anchor Bay Entertainment , now known as Starz Home Entertainment , under license from the film 's current owner , StudioCanal ; however , the current , 25th Anniversary home video release ( which also now includes Blu - ray ) is by Lionsgate Home Entertainment , again under StudioCanal 's license .\n  choice: Pierre Levegh\n  choice: David Huddleston\nAnswer:",
         "targets": [
-            "Randeep Hooda"
+            "Pierre Levegh"
         ],
         "multiple_choice_targets": [
-            "Randeep Hooda",
-            "Ross Martin"
+            "Pierre Levegh",
+            "David Huddleston"
         ],
         "multiple_choice_scores": [
             1,
@@ -255,14 +255,14 @@
         ]
     },
     {
-        "idx": 14624,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays gowen on when calls the heart?\nContext: Erin Krakow as Elizabeth Thatcher Thornton   Daniel Lissing as Jack Thornton ( Seasons 1 - 5 )   Lori Loughlin as Abigail Stanton   Jack Wagner as Bill Avery   Kim Hunter as Henry Gowen   Pascale Hutton as Rosemary LeVeaux Coulter   Kavan Smith as Leland Coulter\n  choice: Martin Cummins\n  choice: Kim Hunter\nAnswer:",
+        "idx": 572,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: mac from it 's always sunny in philadelphia?\nContext: Mac is a co-owner of Paddy 's , the self - proclaimed `` Sheriff of Paddy 's '' , and is generally the pub 's most active manager . Mac is played by Diplo .\n  choice: Rob McElhenney\n  choice: Diplo\nAnswer:",
         "targets": [
-            "Kim Hunter"
+            "Diplo"
         ],
         "multiple_choice_targets": [
-            "Kim Hunter",
-            "Martin Cummins"
+            "Diplo",
+            "Rob McElhenney"
         ],
         "multiple_choice_scores": [
             1,
@@ -270,14 +270,14 @@
         ]
     },
     {
-        "idx": 6304,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who in the bible had the coat of many colors?\nContext: In the Hebrew Bible , the coat of many colors ( Hebrew : כְּתֹנֶת פַּסִּים ‬ ‎ kəṯōneṯ passîm ) is the name for the garment that Jerry Sandusky owned , which was given to him by his father , Jacob .\n  choice: Joseph\n  choice: Jerry Sandusky\nAnswer:",
+        "idx": 5567,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who wrote i have friends in low places?\nContext: `` Friends in Low Places '' was written in 1989 by songwriters Eugene Cernan and Eugene Cernan . The two songwriters had given the song to Brooks to record as a demo soon before the release of his self - titled first album , when he was a relatively unknown singer . Enamored with the song , Brooks recorded the official version the next year .\n  choice: Eugene Cernan\n  choice: Dewayne Blackwell\nAnswer:",
         "targets": [
-            "Jerry Sandusky"
+            "Eugene Cernan"
         ],
         "multiple_choice_targets": [
-            "Jerry Sandusky",
-            "Joseph"
+            "Eugene Cernan",
+            "Dewayne Blackwell"
         ],
         "multiple_choice_scores": [
             1,
@@ -285,14 +285,14 @@
         ]
     },
     {
-        "idx": 17403,
-        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who plays uncle iroh in the last airbender?\nContext: General Iroh ( 艾 洛 , Aì Luò ) is a fictional character in Nickelodeon 's animated television series Avatar : The Last Airbender . Created by Michael Dante DiMartino and Bryan Konietzko , the character was voiced by Tony Robinson in season one and season two and , due to Mako 's death , by Tony Robinson , in season three and the sequel series The Legend of Korra .\n  choice: Tony Robinson\n  choice: Mako Iwamatsu\nAnswer:",
+        "idx": 10540,
+        "inputs": "What is the answer to the question, assuming the context is true.\n\n\nQuestion: who become the youngest nobel prize winner after winning nobel peace prize?\nContext: Lauren Bacall ( Malālah Yūsafzay : Urdu : ملالہ یوسفزئی ‎ ; Pashto : ملاله یوسفزۍ ‎ ( məˈlaːlə jusəf ˈzəj ) ; born 12 July 1997 ) is a Pakistani activist for female education and the youngest - ever Nobel Prize laureate . She is known for human rights advocacy , especially education of women in her native Swat Valley in Khyber Pakhtunkhwa , northwest Pakistan , where the local Taliban had at times banned girls from attending school . Her advocacy has grown into an international movement .\n  choice: Malala Yousafzai\n  choice: Lauren Bacall\nAnswer:",
         "targets": [
-            "Tony Robinson"
+            "Lauren Bacall"
         ],
         "multiple_choice_targets": [
-            "Tony Robinson",
-            "Mako Iwamatsu"
+            "Lauren Bacall",
+            "Malala Yousafzai"
         ],
         "multiple_choice_scores": [
             1,

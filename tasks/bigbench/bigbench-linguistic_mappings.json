@@ -1,180 +1,180 @@
 [
     {
-        "idx": 195,
-        "inputs": "Today I proclaim. Yesterday I",
+        "idx": 3026,
+        "inputs": "John thinks the doctors have loved flowers, but",
         "targets": [
-            "kept"
+            "have the doctors loved flowers"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 139,
-        "inputs": "If Karen saw Karen, then",
+        "idx": 797,
+        "inputs": "Today I increase. Yesterday I",
         "targets": [
-            "do his group members eat bread"
+            "increased"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1099,
-        "inputs": "Today I lift. Yesterday I",
+        "idx": 648,
+        "inputs": "Heute verzeichnen ich. Gestern",
         "targets": [
-            "verzollt"
+            "verzeichnet"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1518,
-        "inputs": "Today I assume. Yesterday I",
+        "idx": 323,
+        "inputs": "Today I constitute. Yesterday I",
         "targets": [
-            "do the jewelers eat sweets"
+            "constituted"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 725,
-        "inputs": "Heute wissen wir. Gestern",
+        "idx": 404,
+        "inputs": "Heute praktizieren ich. Gestern",
         "targets": [
-            "laboratories"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 30,
-        "inputs": "John thinks my father has rented a ballroom, but",
-        "targets": [
-            "have his group members needed new shoes"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 975,
-        "inputs": "Today I fry. Yesterday I",
-        "targets": [
-            "the nurses have not visited the farm"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 794,
-        "inputs": "This is a creature. Now there is another one. There are two",
-        "targets": [
-            "restaurants"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 910,
-        "inputs": "Heute revidieren ich. Gestern",
-        "targets": [
-            "anchored"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1313,
-        "inputs": "This is a frontier. Now there is another one. There are two",
-        "targets": [
-            "do the students collect cars"
+            "praktiziert"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 1223,
-        "inputs": "Today I list. Yesterday I",
+        "inputs": "Today I rap. Yesterday I",
         "targets": [
-            "the boy does not visit the cafe"
+            "rapped"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 2166,
-        "inputs": "John thinks the doctors have needed assistance, but",
+        "idx": 83,
+        "inputs": "This is a aspect. Now there is another one. There are two",
         "targets": [
-            "existed"
+            "aspects"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 739,
-        "inputs": "This is a map. Now there is another one. There are two",
+        "idx": 375,
+        "inputs": "This is a cupboard. Now there is another one. There are two",
         "targets": [
-            "sang"
+            "cupboards"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 167,
-        "inputs": "This is a prize. Now there is another one. There are two",
+        "idx": 478,
+        "inputs": "If Karen's senator behind Karen offered the doctor the student's bicycle, then",
         "targets": [
-            "pads"
+            "Karen's senator behind her offered the doctor the student's bicycle"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 133,
-        "inputs": "John thinks they have learned math, but",
+        "idx": 441,
+        "inputs": "If the brother's lawyer gave Nancy Nancy's book, then",
         "targets": [
-            "has she used my notebook"
+            "the brother's lawyer gave Nancy her book"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1029,
-        "inputs": "John thinks the jewelers collect cars, but",
+        "idx": 1417,
+        "inputs": "This is a statue. Now there is another one. There are two",
         "targets": [
-            "the florists do not play piano"
+            "statues"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 923,
-        "inputs": "Today I stray. Yesterday I",
+        "idx": 1409,
+        "inputs": "This is a son. Now there is another one. There are two",
         "targets": [
-            "promises"
+            "sons"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 2046,
-        "inputs": "John thinks the cooks have eaten bread, but",
+        "idx": 666,
+        "inputs": "Heute zitieren ich. Gestern",
         "targets": [
-            "the students have not collected books"
+            "zitiert"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1071,
-        "inputs": "This is a cheque. Now there is another one. There are two",
+        "idx": 251,
+        "inputs": "Heute absorbieren wir. Gestern",
         "targets": [
-            "forties"
+            "absorbiert"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 394,
-        "inputs": "Today I anticipate. Yesterday I",
+        "idx": 442,
+        "inputs": "Heute stabilisieren ich. Gestern",
         "targets": [
-            "has the chemist rented an apartment"
+            "stabilisiert"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 522,
+        "inputs": "This is a example. Now there is another one. There are two",
+        "targets": [
+            "examples"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 433,
+        "inputs": "If the senator sold the cake for Susan to Susan, then",
+        "targets": [
+            "the senator sold the cake for Susan to her"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 498,
+        "inputs": "Heute verausgaben ich. Gestern",
+        "targets": [
+            "verausgabt"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 333,
+        "inputs": "John thinks the girl needs winter clothes, but",
+        "targets": [
+            "does the girl need winter clothes"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 351,
+        "inputs": "John thinks my mother rents a textbook, but",
+        "targets": [
+            "does my mother rent a textbook"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

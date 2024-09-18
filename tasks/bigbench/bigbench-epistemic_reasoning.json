@@ -1,7 +1,67 @@
 [
     {
-        "idx": 1255,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Ava assumes that Robert recognizes that firefighters in full gear are walking up a ladder. Hypothesis: Ava assumes that firefighters in full gear are walking up a ladder.\nRelation:",
+        "idx": 488,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Taylor remembers that David suspects that a young man in a backwards baseball cap balances his skateboard on the edge of the concrete. Hypothesis: David suspects that Taylor remembers that a young man in a backwards baseball cap balances his skateboard on the edge of the concrete.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 859,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Isabella suspects that Amelia recognizes that an old Indian man dressed in rags sleeps on the ground using his backpack as a pillow. Hypothesis: Amelia recognizes that an old Indian man dressed in rags sleeps on the ground using his backpack as a pillow.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1308,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: John suspects that Ava knows that a woman in blue pants and a light-blue top looks down at her hand while standing near a dirty gray truck and surrounded by muddy ground. Hypothesis: Ava knows that a woman in blue pants and a light-blue top looks down at her hand while standing near a dirty gray truck and surrounded by muddy ground.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1625,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Ava suspects that James believes that an elderly Man wearing a olive green shirt and red and white striped apron is stacking cheese. Hypothesis: James believes that an elderly Man wearing a olive green shirt and red and white striped apron is stacking cheese.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1275,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: John sees that Joseph suspects that a woman with red-hair and a leather jacket holds a harp in front of a snowy forest. Hypothesis: Joseph suspects that a woman with red-hair and a leather jacket holds a harp in front of a snowy forest.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -15,8 +75,8 @@
         ]
     },
     {
-        "idx": 965,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Isabella assumes that a toddler is intrigued by a toy lego set in a bookstore. Hypothesis: Isabella assumes that a kid is interested in a toy.\nRelation:",
+        "idx": 936,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charles thinks that John understands that a group of people examine a boat with an orange flag that is sitting on sand next to a body of water. Hypothesis: Charles thinks that a group of people examine a boat with an orange flag that is sitting on sand next to a body of water.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -30,8 +90,8 @@
         ]
     },
     {
-        "idx": 1669,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charlotte thinks that John assumes that repairing the roof of a school on the coastline. Hypothesis: Charlotte thinks that repairing the roof of a school on the coastline.\nRelation:",
+        "idx": 128,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Richard assumes that in a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis: Michael assumes that a person is skating.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -45,23 +105,8 @@
         ]
     },
     {
-        "idx": 977,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Taylor suspects that William understands that an older gentleman looks at the camera while he is building a deck. Hypothesis: William understands that an older gentleman looks at the camera while he is building a deck.\nRelation:",
-        "targets": [
-            "non-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1857,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Robert assumes that Richard learns that a man on a sidewalk is playing the accordion while happy people pass by. Hypothesis: Robert assumes that a man on a sidewalk is playing the accordion while happy people pass by.\nRelation:",
+        "idx": 227,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Thomas sees that Charlotte assumes that a woman wearing a gray jacket and visibly laughing is seated next to a woman who is wearing a dark blue sweater and is smirking. Hypothesis: Charlotte assumes that a woman wearing a gray jacket and visibly laughing is seated next to a woman who is wearing a dark blue sweater and is smirking.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -75,53 +120,8 @@
         ]
     },
     {
-        "idx": 610,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Sophia believes that Isabella learns that a man in a white t-shirt is holding a pair of sunglasses. Hypothesis: Isabella learns that a man in a white t-shirt is holding a pair of sunglasses.\nRelation:",
-        "targets": [
-            "non-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1675,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Amelia knows that a child in a red coat waves a hand in the air while lying in snow beside a red plastic sled. Hypothesis: Isabella knows that a child is playing in the snow.\nRelation:",
-        "targets": [
-            "non-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 1624,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Robert remembers that Charlotte assumes that a man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree. Hypothesis: Charlotte assumes that Robert remembers that a man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree.\nRelation:",
-        "targets": [
-            "non-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 381,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charlotte believes that people, mainly women and 2 referees, are skating fiercely during a roller derby match. Hypothesis: Charlotte believes that there is a roller derby match involving women.\nRelation:",
+        "idx": 1713,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Sophia remembers that Richard assumes that there's a red bus making a left turn into a traffic circle that has a sprinkler system. Hypothesis: Richard assumes that there's a red bus making a left turn into a traffic circle that has a sprinkler system.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -135,8 +135,8 @@
         ]
     },
     {
-        "idx": 1037,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Evelyn thinks that a group of three people are digging a large trench in a yard while another person walks close by. Hypothesis: Isabella thinks that there is a hole in the yard.\nRelation:",
+        "idx": 1853,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Richard thinks that Thomas learns that a group of travelers pulling suitcases are making their way down a platform. Hypothesis: Thomas learns that a group of travelers pulling suitcases are making their way down a platform.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -150,8 +150,38 @@
         ]
     },
     {
-        "idx": 1253,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Sophia remembers that Evelyn suspects that three bridesmaids in blue dresses hold the train of a bride's wedding dress. Hypothesis: Evelyn suspects that Sophia remembers that three bridesmaids in blue dresses hold the train of a bride's wedding dress.\nRelation:",
+        "idx": 1023,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Richard sees that Charles assumes that a small child with a backpack walks down a narrow road next to a painted wall. Hypothesis: Charles assumes that a small child with a backpack walks down a narrow road next to a painted wall.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1222,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: James understands that a bundled up toddler is walking over snow. Hypothesis: James understands that a toddler is outside.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1097,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Amelia suspects that Michael assumes that a shirtless man with red paint on his torso holding a stick. Hypothesis: Amelia suspects that a shirtless man with red paint on his torso holding a stick.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -165,23 +195,8 @@
         ]
     },
     {
-        "idx": 432,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Taylor knows that Michael assumes that two people, one wearing an orange jersey and a white belt, and another wearing a blue jersey and a red belt are playing flag football. Hypothesis: Michael assumes that two people, one wearing an orange jersey and a white belt, and another wearing a blue jersey and a red belt are playing flag football.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 966,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Abigail suspects that William learns that a young boy wearing a red shirt runs along a gravel road. Hypothesis: William learns that a young boy wearing a red shirt runs along a gravel road.\nRelation:",
+        "idx": 33,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Olivia believes that Joseph knows that a male runner in an orange and white t-shirt and black shorts is sprinting down the track. Hypothesis: Joseph knows that a male runner in an orange and white t-shirt and black shorts is sprinting down the track.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -195,8 +210,8 @@
         ]
     },
     {
-        "idx": 1573,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: James believes that a dusty boy runs along a dirt path through the grass. Hypothesis: James believes that a boy is outside running.\nRelation:",
+        "idx": 1294,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Isabella assumes that Michael sees that two female martial artists demonstrate a kick for an audience. Hypothesis: Isabella assumes that two female martial artists demonstrate a kick for an audience.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -210,53 +225,8 @@
         ]
     },
     {
-        "idx": 788,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Isabella suspects that Emma knows that an older man is speaking to a boy while both are sitting. Hypothesis: Isabella suspects that an older man is speaking to a boy while both are sitting.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 212,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Evelyn recognizes that John assumes that a toddler, sitting next to another girl who is slightly older, is using a bubble machine to blow a large bubble into the air. Hypothesis: John assumes that a toddler, sitting next to another girl who is slightly older, is using a bubble machine to blow a large bubble into the air.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 149,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Evelyn understands that James believes that a young boy sits outside in a grassy field with his back turned towards the viewer- he is holding a wooden toy that can be spun between your hands and launched into the air. Hypothesis: James believes that a young boy sits outside in a grassy field with his back turned towards the viewer- he is holding a wooden toy that can be spun between your hands and launched into the air.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "non-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1209,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Ava thinks that Taylor believes that a man wearing a white shirt and black pants is falling down onto a bed in front of a window facing the ocean. Hypothesis: Ava thinks that a man wearing a white shirt and black pants is falling down onto a bed in front of a window facing the ocean.\nRelation:",
+        "idx": 1055,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: James suspects that Isabella understands that a four piece band plays a song on a medium-size stage. Hypothesis: Isabella understands that a four piece band plays a song on a medium-size stage.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -270,8 +240,8 @@
         ]
     },
     {
-        "idx": 486,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Charles assumes that Abigail assumes that a woman in skirt, torn stockings and combat boots and a man in aviators and batman tank top walk down a city street. Hypothesis: Abigail assumes that a woman in skirt, torn stockings and combat boots and a man in aviators and batman tank top walk down a city street.\nRelation:",
+        "idx": 1177,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: John thinks that Charlotte believes that a man is holding on to a piece of rope, sitting in an inflatable boat, in front of several other larger boats. Hypothesis: John thinks that a man is holding on to a piece of rope, sitting in an inflatable boat, in front of several other larger boats.\nRelation:",
         "targets": [
             "non-entailment"
         ],
@@ -285,8 +255,38 @@
         ]
     },
     {
-        "idx": 139,
-        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Joseph recognizes that a young boy runs across a road in front of a sky blue building with barred windows. Hypothesis: Joseph recognizes that a boy is running infront of a building.\nRelation:",
+        "idx": 495,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: William remembers that a man wearing a white t-shirt and shorts is rock climbing with other people wearing blue hard hats. Hypothesis: Taylor remembers that people in blue hard hats watch as a man in a white shirt and shorts rock climb.\nRelation:",
+        "targets": [
+            "non-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1471,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Olivia learns that Robert assumes that a man dressed in a brown shirt and tan shorts is down on one knee looking at some type of machinery. Hypothesis: Robert assumes that a man dressed in a brown shirt and tan shorts is down on one knee looking at some type of machinery.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "non-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 294,
+        "inputs": "Identify the relation between the following premises and hypotheses, choosing from the options 'entailment' or 'non-entailment'.\n\nPremise: Sophia understands that four entertainers dressed in Roman style garb are performing at an outdoor theater. Hypothesis: Sophia understands that people are outdoors.\nRelation:",
         "targets": [
             "entailment"
         ],

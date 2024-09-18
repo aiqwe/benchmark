@@ -1,22 +1,7 @@
 [
     {
-        "idx": 154,
-        "inputs": "Squanto's role as a diplomat may have been essential in the provisions for the first Thanksgiving.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Prime Minister David Lloyd George said to his cabinet ministers: \"I'm beginning to understand that World War I might be a more prolonged effort than we originally thought.\"\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 54,
+        "inputs": "Alexander Graham Bell killed Alexander Hamilton in a duel.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -30,8 +15,8 @@
         ]
     },
     {
-        "idx": 46,
-        "inputs": "The Great Depression occurred during Prohibition.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 138,
+        "inputs": "Pyrrhus of Epirus brought war elephants against the Roman armies.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "No"
         ],
@@ -45,83 +30,8 @@
         ]
     },
     {
-        "idx": 123,
-        "inputs": "Homo Erectus, having survived as a species for millions of years, may have been the first Homo to utilize fire, stone tools, hunting, medicine, and social groups.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 195,
-        "inputs": "Homo neanderthalensis consumed meat as a main staple of their diet.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 84,
-        "inputs": "Abraham Lincoln and Charles Darwin kept a regular correspondence.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 166,
-        "inputs": "During their meetings in Bali, George Washington and the delegate of the Tokugawa shogunate exchanged gifts.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 214,
-        "inputs": "Benjamin Franklin assisted Benjamin Thompson in his invention of the steam boat.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 139,
-        "inputs": "Pyrrhus of Epirus brought battle drones against the Roman armies.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 33,
+        "inputs": "The winner of the first ever F1 World Championship was Dale Earnhardt Jr.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -135,38 +45,8 @@
         ]
     },
     {
-        "idx": 151,
-        "inputs": "Leonardo Da Vinci was commissioned for a portrait of Genivra de' Benci.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 224,
-        "inputs": "The Hagia Sophia has seen drastic transformations to its interior from its inception, including becoming a church, a mosque, a museum, and back to a mosque again. \nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "No"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 215,
-        "inputs": "Benjamin Franklin assisted Benjamin Thompson in his invention of the hybrid car.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 185,
+        "inputs": "Lewis Hamilton was knighted by the Queen in 1980.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -180,8 +60,23 @@
         ]
     },
     {
-        "idx": 219,
-        "inputs": "Celine Dion wrote most of her programming scripts in Julia.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 225,
+        "inputs": "The original Temple of Artemis at Ephesus has seen drastic transformations to its interior from its inception, including becoming a church, a mosque, a museum, and back to a mosque again. \nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "King Richard the Lionheart led the English armies in the Third Crusade.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "No"
         ],
@@ -195,8 +90,8 @@
         ]
     },
     {
-        "idx": 42,
-        "inputs": "Charles Babbage was a proficient Haskell programmer.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 147,
+        "inputs": "King Richard the Lionheart led the English armies in the First Crusade.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -210,38 +105,8 @@
         ]
     },
     {
-        "idx": 10,
-        "inputs": "Prime Minister David Lloyd George said to his cabinet ministers: \"I'm beginning to understand that World War I might be a more prolonged effort than we originally thought.\"\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "Yes"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 139,
-        "inputs": "Pyrrhus of Epirus brought battle drones against the Roman armies.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
-        "targets": [
-            "Yes"
-        ],
-        "multiple_choice_targets": [
-            "Yes",
-            "No"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 32,
-        "inputs": "The winner of the first ever F1 World Championship was Giuseppe Farina.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 121,
+        "inputs": "Stegosaurus is known for its large dorsal plates, potentially allowing it to regulate its body temperature and attract the attention of other Late Jurassic herbivores.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "No"
         ],
@@ -255,8 +120,113 @@
         ]
     },
     {
-        "idx": 4,
-        "inputs": "Virtually all of the Southern U.S. slaves were aware of what the 18th amendment to the U.S. Constitution meant for them.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 62,
+        "inputs": "The senator patted his pet dodo bird before signing the Affordable Care Act.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 200,
+        "inputs": "McKenzie Scott and Bill Gates announced their divorce after 27 years of marriage.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 121,
+        "inputs": "Stegosaurus is known for its large dorsal plates, potentially allowing it to regulate its body temperature and attract the attention of other Late Jurassic herbivores.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 206,
+        "inputs": "Pharoah Thutmose III successfully expanded the borders of the Egyptian empire through persistent military campaigns and improved military technology, such as spear tips made of jade.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 104,
+        "inputs": "The student recorded a live video of Connor McGregor fighting.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Johann Sebastian Bach wrote the book \"Mathematical Principles of Natural Philosophy\".\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "While the Boxer Rebellion was raging in China, Alexander the Great's forces were charging through parts of the Middle East.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "Yes"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "While the Boxer Rebellion was raging in China, Alexander the Great's forces were charging through parts of the Middle East.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -285,8 +255,23 @@
         ]
     },
     {
-        "idx": 44,
-        "inputs": "Dwight Eisenhower was a Chief Master Sergeant of the Space Force.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "idx": 110,
+        "inputs": "The pet chihuahua walked its way around the moai.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "Ponce De Leon used a telegram to report his findings to the king.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
         "targets": [
             "Yes"
         ],
@@ -297,6 +282,21 @@
         "multiple_choice_scores": [
             1,
             0
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "The emperor rode his Ferrari to the Coliseum.\nDoes the preceding sentence contain non-contemporaneous (anachronistic) elements?",
+        "targets": [
+            "No"
+        ],
+        "multiple_choice_targets": [
+            "Yes",
+            "No"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
         ]
     }
 ]

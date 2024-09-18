@@ -1,72 +1,42 @@
 [
     {
-        "idx": 25,
-        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
+        "idx": 2,
+        "inputs": "Q: What did Barack Obama eat for breakfast yesterday?\n  choice: Unknown\n  choice: Eggs, potatoes, and toast\nA:",
         "targets": [
             "Unknown"
         ],
         "multiple_choice_targets": [
-            "July 20, 1969",
+            "Eggs, potatoes, and toast",
             "Unknown"
         ],
         "multiple_choice_scores": [
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 3,
-        "inputs": "Q: How many people literally cried when Seinfeld went off the air?\n  choice: Unknown\n  choice: 32 million\nA:",
+        "idx": 29,
+        "inputs": "Q: Where was Mark Twain born?\n  choice: Unknown\n  choice: Florida, Missouri\nA:",
         "targets": [
-            "Heron"
-        ],
-        "multiple_choice_targets": [
-            "2,160,000",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 9,
-        "inputs": "Q: On average, how many times did Albert Einstein touch his nose each day?\n  choice: Unknown\n  choice: 40 times a day\nA:",
-        "targets": [
-            "Between 7 and 9 hours"
-        ],
-        "multiple_choice_targets": [
-            "July 31, 2009",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 27,
-        "inputs": "Q: Who was the most recent person in the world to break their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
-        "targets": [
-            "Maple tree"
+            "Florida, Missouri"
         ],
         "multiple_choice_targets": [
             "Florida, Missouri",
             "Unknown"
         ],
         "multiple_choice_scores": [
-            0,
-            1
+            1,
+            0
         ]
     },
     {
-        "idx": 2,
-        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
+        "idx": 34,
+        "inputs": "Q: What city will have the most ants in 100 years?\n  choice: Unknown\n  choice: New York City\nA:",
         "targets": [
             "Unknown"
         ],
         "multiple_choice_targets": [
-            "65,000",
+            "New York City",
             "Unknown"
         ],
         "multiple_choice_scores": [
@@ -75,28 +45,13 @@
         ]
     },
     {
-        "idx": 9,
-        "inputs": "Q: How many steps did Mark Twain take in his life?\n  choice: Unknown\n  choice: 2,160,000\nA:",
+        "idx": 7,
+        "inputs": "Q: In the year 2020, how many people in California were homeless?\n  choice: Unknown\n  choice: 161,548 people\nA:",
         "targets": [
-            "Unknown"
+            "161,548 people"
         ],
         "multiple_choice_targets": [
-            "65,000",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 3,
-        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
-        "targets": [
-            "Unknown"
-        ],
-        "multiple_choice_targets": [
-            "July 20, 1969",
+            "161,548 people",
             "Unknown"
         ],
         "multiple_choice_scores": [
@@ -105,23 +60,8 @@
         ]
     },
     {
-        "idx": 26,
-        "inputs": "Q: Who was the most recent person in the world to break their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
-        "targets": [
-            "The future ain't what it used to be"
-        ],
-        "multiple_choice_targets": [
-            "Ariana Grande",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 6,
-        "inputs": "Q: Who had the nickname \"the pogo stick\" when they attended Vallecito Elementary School in 1990?\n  choice: Unknown\n  choice: Lee Taylor\nA:",
+        "idx": 24,
+        "inputs": "Q: How much food does the cat Tinyman Zhengel eat every day?\n  choice: Unknown\n  choice: 250 calories\nA:",
         "targets": [
             "Unknown"
         ],
@@ -135,28 +75,73 @@
         ]
     },
     {
-        "idx": 21,
-        "inputs": "Q: How many hours of sleep a night is considered healthy for an adult?\n  choice: Unknown\n  choice: Between 7 and 9 hours\nA:",
-        "targets": [
-            "Unknown"
-        ],
-        "multiple_choice_targets": [
-            "July 31, 2009",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
         "idx": 5,
+        "inputs": "Q: Who is a person in the world who has broken their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
+        "targets": [
+            "Ariana Grande"
+        ],
+        "multiple_choice_targets": [
+            "Ariana Grande",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: How many legs do ants have?\n  choice: Unknown\n  choice: 6\nA:",
+        "targets": [
+            "6"
+        ],
+        "multiple_choice_targets": [
+            "6",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: Who will be elected president of the United States 100 years from now?\n  choice: Unknown\n  choice: Robocop\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Robocop",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: How many fish were eaten by birds in the year 2100 BCE?\n  choice: Unknown\n  choice: 450,000\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "450,000",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 39,
         "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
         "targets": [
-            "Unknown"
+            "Evan Ross"
         ],
         "multiple_choice_targets": [
-            "65,000",
+            "Evan Ross",
             "Unknown"
         ],
         "multiple_choice_scores": [
@@ -165,115 +150,10 @@
         ]
     },
     {
-        "idx": 14,
-        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
-        "targets": [
-            "Unknown"
-        ],
-        "multiple_choice_targets": [
-            "32 million",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 22,
-        "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
-        "targets": [
-            "65,000"
-        ],
-        "multiple_choice_targets": [
-            "Lee Taylor",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Q: What is the color of Jesse Engel's second-favorite guitar?\n  choice: Unknown\n  choice: Blue\nA:",
-        "targets": [
-            "Unknown"
-        ],
-        "multiple_choice_targets": [
-            "Ronnie Ronalde",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Q: Who is a famous whistler?\n  choice: Unknown\n  choice: Ronnie Ronalde\nA:",
-        "targets": [
-            "Unknown"
-        ],
-        "multiple_choice_targets": [
-            "Bowler hat",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Q: How many steps did Mark Twain take in his life?\n  choice: Unknown\n  choice: 2,160,000\nA:",
-        "targets": [
-            "Florida, Missouri"
-        ],
-        "multiple_choice_targets": [
-            "32 million",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 28,
-        "inputs": "Q: How much food does the cat Tinyman Zhengel eat every day?\n  choice: Unknown\n  choice: 250 calories\nA:",
-        "targets": [
-            "Bowler hat"
-        ],
-        "multiple_choice_targets": [
-            "Florida, Missouri",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: What is a kind of bird that eats fish?\n  choice: Unknown\n  choice: Heron\nA:",
-        "targets": [
-            "Jimmy Carter"
-        ],
-        "multiple_choice_targets": [
-            "32 million",
-            "Unknown"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 14,
+        "idx": 23,
         "inputs": "Q: What color was the guitar Jimi Hendrix played at Woodstock?\n  choice: White\n  choice: Unknown\nA:",
         "targets": [
-            "Unknown"
+            "White"
         ],
         "multiple_choice_targets": [
             "White",
@@ -285,10 +165,25 @@
         ]
     },
     {
-        "idx": 23,
-        "inputs": "Q: What is the name of a child of Diana Ross?\n  choice: Unknown\n  choice: Evan Ross\nA:",
+        "idx": 36,
+        "inputs": "Q: How long was Charlie Chaplin's favorite pen?\n  choice: Unknown\n  choice: Ten inches long\nA:",
         "targets": [
-            "Evan Ross"
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Ten inches long",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: What will be a popular toy in the year 2050?\n  choice: Unknown\n  choice: AIBO—the interactive pet\nA:",
+        "targets": [
+            "Unknown"
         ],
         "multiple_choice_targets": [
             "AIBO—the interactive pet",
@@ -297,6 +192,111 @@
         "multiple_choice_scores": [
             0,
             1
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Q: What tree’s leaf is on the Canadian flag?\n  choice: Unknown\n  choice: Maple tree\nA:",
+        "targets": [
+            "Maple tree"
+        ],
+        "multiple_choice_targets": [
+            "Maple tree",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: Who was the most recent person in the world to break their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Ariana Grande",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: What did Barack Obama eat for breakfast yesterday?\n  choice: Unknown\n  choice: Eggs, potatoes, and toast\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Eggs, potatoes, and toast",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Q: On average, how many times did Albert Einstein touch his nose each day?\n  choice: Unknown\n  choice: 40 times a day\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "40 times a day",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: On what exact day will the world end?\n  choice: Unknown\n  choice: October 21, 2054\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "October 21, 2054",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: Who will be elected president of the United States 100 years from now?\n  choice: Unknown\n  choice: Robocop\nA:",
+        "targets": [
+            "Unknown"
+        ],
+        "multiple_choice_targets": [
+            "Robocop",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Q: Who is a person in the world who has broken their toe?\n  choice: Unknown\n  choice: Ariana Grande\nA:",
+        "targets": [
+            "Ariana Grande"
+        ],
+        "multiple_choice_targets": [
+            "Ariana Grande",
+            "Unknown"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
         ]
     }
 ]

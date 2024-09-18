@@ -1,7 +1,25 @@
 [
     {
         "idx": 2384,
+        "inputs": "agent_B: \"Hello, do you know much about the quarterback position?\" agent_A: \"I do! I know that the NFL only has one left handed quarterback now, do you?\" agent_B: \"That's interesting. I did not know that. I know Vick was a lefty.\" agent_A: \"and the great Steve Young haha. Can you believe bowlers once earned more money than football players?\" agent_B: \"I find that hard to believe. Bowling has really gone downhill since then.\" agent_A: \"It really has, or has football gone up?\" agent_B: \"Maybe just football has gone up. Baker Mayfield once thought about quitting football to pursue a career in professional gaming.\" agent_A: \"I wonder if he is still great at Halo 3? I'm surprised Alex Smith is still playing, given he's basically a genius!\" agent_B: \"I have no idea if he is. That's pretty amazing about Alex Smith. He must be very smart.\" agent_A: \"Oh for sure. I love watching football games, but hate that there is only 11 minutes of actual live gameplay.\" agent_B:",
+        "targets": [
+            "\"That's very surprising. Did you know the NFL has no written rule against women playing?\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 15556,
         "inputs": "agent_A: \"Did you know Marvel got to play a lower rate on toys because they said mutants aren't people?\" agent_B: \"I did not know that ! Are you a comics fan? Did you know that Black Panther is one of the top grossing movies ever?\" agent_A: \"I heard that it was! Have you seen it? I haven't even watched it yet.\" agent_B: \"I have not. I have seen a couple of the Comic Movies.  This one set records for having a huge opening by a black director.\" agent_A: \"The Black Panther is supposedly worth $500 billion. That's more than Apple, I think! \" agent_B: \"I wonder where he got his money? I did read that his name Black Panther has nothing to do with the Black Panthers from the '60s.\" agent_A: \"I saw that it is from something calld nisibdi, which goes back to the 4th century in Nigeria. It's more likely the party was named after him. \" agent_B: \"Did you know that Marvel comics sold the screen rights of its characters for 25 million to Sony? Sony turned them down and offered 10 million only for Spiderman? They thought that was the only character people would be interested in.\" agent_A: \"Do you think it's because Sony only wanted to create video games from the movies? I have to admit that I like the Spider Man movies the most. The whole AI situation with IronMan I find a little creepy. \" agent_B: \"I did enjoy spiderman but some of the avengers are getting difficult to keep up with! I can't believe that Disney owns the rights to produce the movies but can't use it in there parks. I know Universal Theme Park has the spiderman ride.\" agent_A: \"Wow! I didn't know Universal had a Spiderman Ride. I knew that Disney owned the Star Wars franchise, now, but Marvel.\" agent_B: \"On another note, Did you know that Tom Hanks is the highest all time box office star?\" agent_A: \"I think I heard that he was. What movie did he make the most money on?\" agent_B: \"I am not sure, but I would guess it was the action one about the Vatican Scandal.Can you believe that Silence of the Lamb came out on Valentines Day? \" agent_A: \"No. I didn't remember when the movie came out. I know that I was in college because I wanted to be a prosecutor until I saw that movie.\" agent_B:",
+        "targets": [
+            "\"Yikes! Disney's biggest flop was Treasure Planet. I have never heard of it!\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11587,
+        "inputs": "agent_A: \"hi there, do you use the computer a lot?\" agent_B: \"I do, I spend most of my time on one each day, but not the kind that can run on water or anything cool like that.\" agent_A: \"I know we need to ask them russians how they came up with that\" agent_B: \"Yeah, all the way back in 1936 too.  Crazy the way technology develops isn't it?\" agent_A: \"Of course. Do you know why you should not smoke near an apple computer?\" agent_B: \"I've heard it voids the warranty.  I've never done it, and I'm not sure how they'd know if you did or not.\" agent_A: \"Exactly, how would they know. are you annoyed by insects?\" agent_B: \"All the time!  They are like the plague in florida, especially during the summer.  How about you?\" agent_A: \"I am not a fan either. have you heard of gold bugs?\" agent_B: \"No, but they sound like the kind of buy I could possible get behind.  What do they do?\" agent_A: \"they breathe in dissolved gold and excrete solid gold\" agent_B:",
         "targets": [
             "\"I wouldn't mind having some of those around.  Nothing like those wasps that turn ladybugs into zombie babysitters.\""
         ],
@@ -9,8 +27,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 413,
+        "inputs": "agent_A: \"How is it going?  Do you like football?\" agent_B: \"Hello!  I am.  I prefer college, but I am pumped for the playoffs this weekend!\" agent_A: \"Awesome!  I don't keep up with football much.  Who is in the playoffs?\" agent_B: \"`There are four teams from the National and American Football conferences.  The NFC has LA Rams, Cowboys, Eagles, and Saints.  The AFC has KC, LA Chargers, NE, and Indianapolis.\" agent_A: \"Oh ok,   I only know some of those.  Its kinda crazy to think the nfl actual gameplay is only like 11 min when it usually last about 3-4 hours!  \" agent_B: \"That is crazy!  To think they spend all that money, going as far as tracking almost every move of a player through specially designed chips for such a relative short time of actual game play.\" agent_A: \"I heard about that too,  technology has improved so many things,  like also when you are watching football they can draw on the screens and show different plays and when the line is they highlight it.  They also have amazing playback/forward replays!\" agent_B: \"Great point.  How many of us are indebted to Madden for breaking down football like that?\" agent_A: \"Probably millions lol football has some weird customs,  what is with a team painting the opposing teams locker room pink?\" agent_B: \"Ah, I know that team all too well. That's Iowa who is my team's rival as we are neighboring states. \" agent_A: \"Oh I see.  Do you know what the tactic or custom is ?  Why do they paint it pink?\" agent_B: \"I am pretty sure it was Hayden Fry (who the old tv show \"Coach\" was loosely based on).  I think it was that the pink would demotivate the opposition or make them lose their edge.\" agent_A: \"Ah I see,  maybe to soften them up I guess.  That's pretty smart,  unless they knew about it already.  Did you know there is a football player that never fumbled in his whole career?  Why isn;t this guy more sought out after lol That sounds incredible. \" agent_B: \"Wow.  Maybe he just isn't as explosive as others, but it's pretty impressive.\" agent_A: \"I know right!  I believe he played for the Patriots.  \" agent_B: \"Do you like any other sports, like basketball?\" agent_A: \"Kinda the same,  I do not follow it much.  I watch the Warrios sometimes though,  how about you?\" agent_B: \"I watch a little.  I will admit that the Warriors are not my favorite team.  I guess it's because they are so good, but I have to remember that they really built that team from scratch and then added amazing players around what they drafted.\" agent_A: \"Yeah,  true.  I find it funny that the inventor of basketball is the only losing couch in kansas university history lol \" agent_B:",
+        "targets": [
+            "\"I wonder how much he got paid for that?  In the vast majority of states today, the college basketball or football coach is the highest paid employee of the state.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 21464,
+        "inputs": "agent_B: \"Are you a fan of horror films? \" agent_A: \"Not really. I don't like jumping out of my seat! I liked Inception. That was originally stupposed to be a horror film.\" agent_B: \"Is that the one with Leo? \" agent_A: \"That's right! On the other hand, those filming the exorcist didn't think it would be considered a horror film.\" agent_B: \"Interesting, I didn't know that. Apparently you can burn 180 calories watching a horror film. \" agent_A: \"Not sure with all the buttery popcorn I eat, haha!\" agent_B: \"Hilarious, yeah. I'm not so sure that is true either. LOL\" agent_A: \"Et originally was supposed to be a horror film too. I can't imagine! I loved it when I was little.\" agent_B: \"I can believe that. I could see that being designed to be scary. \" agent_A: \"I guess he's a little creepy. I loved ET though and thought he was adordable\" agent_B: \"I also know that MnM passed on them for marketing. \" agent_A: \"Interesting! I once watched an anime film that was supposed to be horror but it was just funny. Do you like anime?\" agent_B:",
+        "targets": [
+            "\"Not really, I can't honestly say I've even seen one. \""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 17789,
+        "inputs": "agent_A: \"DO you play chess\" agent_B: \"I used to when I was younger.  It is a pretty strategic game and I am impressed by people that play it professionally.\" agent_A: \"I always wanted to play in the park of NYC \" agent_B: \"I have always seen that on TV and in movies.  That would be fun.  I wonder if they have the version of chess that allows 3 players to play against each other.  \" agent_A: \"I don't think so because of how the board is built. \" agent_B:",
+        "targets": [
+            "\"Did you know that chess is thought to have originated out of a game that was played in India?  I never would have thought that.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1991,
         "inputs": "agent_A: \"do you like football?\" agent_B: \"I love it. Do you know what color is the U of Iowa visitor locker room?\" agent_A: \"Yes it is actually all pink but I do not know why\" agent_B: \"Me either. Did you know bowlers made more than footballers in the 60s?\" agent_A: \"I guess it was a more popular sport back in the day\" agent_B: \"True. Do you know what is the highest score in college football?\" agent_A: \"Yes it was 222-0, do you know who played?\" agent_B: \"Yes it was Georgia Tech that beat Cumberland in 1916\" agent_A: \"Yeah. Did you know that ESPN won an Emmy once?\n\" agent_B: \"Yes they won it for the superimposed yellow line\" agent_A: \"Yeah it has made game watching so much easier at home\" agent_B: \"Very true. Did you know that women can play in the NFL too?\" agent_A: \"Yes there is no rule that says they cannot if they qualify\" agent_B: \"Yeah. The gameplay is only 11 minutes anyways\n\" agent_A: \"I know and yet we are glued to the tv for hours to an end\" agent_B:",
+        "targets": [
+            "\"I know right? Do you know of that rule for Saints cheerleaders?\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2204,
+        "inputs": "agent_B: \"Are you a football fan?  Do you have a favorite team?\" agent_A: \"I like the Steelers. How bout you.\" agent_B: \"I'm a Steelers fan too!  I live right on the Ohio/PA line.  Did you know that there is only 1 left handed QB in the NFL - Kellan Moore.\" agent_A: \"I did know that. You would think there would be more.\" agent_B: \"I know.  What do you think of the NFL using tracking chips in the players shoulders and in the footballs?\" agent_A: \"I think its an amazing technology. The things they can do these days.\" agent_B: \"I know.  I just wonder though what exactly those chips do.  Like ...could they read where other chips are on the field?  ..and if so...could a chip in the shoulder pads of a wide receiver be programmed to the chip that's in the football making the football come to the receiver's chip location?\" agent_A: \"That's interesting to think about. I bet belichek has already checked into that.\" agent_B: \"hahaha  An average NFL game has only 11 minutes of live gameplay.  Crazy when they make it stretch out to over 3 hours.\" agent_A: \"I know right. They get all that money for 11 minutes worth of entertainment.\" agent_B: \"it pays to be an engineer as their lifetime earnings are higher than that of the lifetime earnings of an average NFL or MLB player.\" agent_A: \"Yeah but I think it would be a lot more fun to play football for a living.\" agent_B:",
         "targets": [
             "\"I'm with you there!  lol  In the 1960's top bowlers made twice as much as top football stars.\""
         ],
@@ -18,8 +72,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 19881,
+        "inputs": "agent_B: \"Are you a fan of youtube?\" agent_A: \"Yes, although I do not like the recent changes they have made to their website.\" agent_B: \"Which changes were those, I must have missed them\" agent_A: \"They did some changes to how their algorithms work, and so far the community has hated it, but Youtube is doing anything despite all the hate they're getting.\" agent_B: \"dang, I wonder if it will be worth it in the end. Were you into the gangnam style craze years back?\" agent_A: \"I have to admit the song was catchy, and I did enjoy it. In fact, the video got so much views youtube had to upgrade the view count integer.\" agent_B: \"Right I hated the dance craze, but very catchy. It almost broke youtube with that!\" agent_A: \"Well Youtube is a very large service, it is the second largest search engine on the internet.\" agent_B: \"wow, I didn't know that. I bet it is behind Google, I think Google owns it\" agent_A: \"Google does, there are also other media cooperations that have partnerships with youtube.\" agent_B: \"Nice that is awesome. Were you one of the many people who disliked Baby by Justin Bieber?\" agent_A: \"No, but the dislike count seems to be doing fine without me, Baby is the most disliked video on Youtube.\" agent_B: \"I was one of the dislikers lol, terrible song. Do you play any instruments?\" agent_A: \"No, but I do look up to people who do, especially the violin or piano. Their hands must be very tired after playing!\" agent_B: \"I used to play piano, but I am not too good anymore. IT may be like riding a bike but don't have the time anymore. \" agent_A: \"Well, I sometimes listen to electric violins in rock music or jazz fusion.\" agent_B: \"That sounds really awesome, electric violins? \" agent_A: \"Ya, they may not be made of wood, and they can have a electric pickup, amplifier and speaker.\" agent_B:",
+        "targets": [
+            "\"I want to youtube some of those, that interests me a lot! It was so nice chatting with you!\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12682,
+        "inputs": "agent_B: \"Hey there!  Do you follow politics closely?  I have to for work, but I get sick of it!  It is important to vote though.  Astronauts even cast votes from space!\" agent_A: \"I follow a bit. Did you know that US Congress has played a Republicans vs. Democrats baseball game annually since 1909?\" agent_B: \"Yes, I did the practice for that last year was where the shooting of the congressman occurred.  Sad story, glad he survived.\" agent_A: \"Yes, I agree. Can you imagine that Elmo is the only non-human to testify before the US Congress?\" agent_B: \"I find that hysterical!  It is also hilarious that in Austin, TX voters changed their garbage dump to be named after Fred Durst!\" agent_A: \"That is crazy! Did you know that Indian government sets up a polling booth in a forest full of lions for a single voter?\" agent_B:",
+        "targets": [
+            "\"Every vote counts!  That is why it is sad to here that in Alabama 34% of the black male population can no longer vote.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 8091,
+        "inputs": "agent_A: \"Hello! Do you like to watch football?\" agent_B: \"i sometimes watch football. You?\" agent_A: \"Yes same here! I can't believe that in the 1960's, bowlers made more money than football players.\" agent_B: \"the football players might not have made much. it was a golden age for bowlers though. i guess i was born too late.\" agent_A: \"Are you good at bowling? I'm terrible so I would have made less money playing football. \" agent_B: \"i would have been terrible at both. i would have had a job painting locker rooms.\" agent_A: \"Would you paint visitor locker rooms pink like the Iowa Hawkeyes?\" agent_B: \"i guess i would try it. if it worked on the other team, then i would sell my services to every team.\" agent_A: \"I feel a business plan coming soon! I wish I was the one who created the yellow line in football games. ESPN won an emmy for that.\" agent_B:",
+        "targets": [
+            "\"i bet the person who came  up with idea got a raise and a promotion. that was a good idea.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1366,
         "inputs": "agent_A: \"Hi!  Are you a football fan?\" agent_B: \"Hi, how are you? Sure!\" agent_A: \"I tend to watch more college ball myself, how about you?\" agent_B: \"I follow the NFL around playoff time. I like those games because the stakes are high and there is a lot of energy.\" agent_A: \"Same here.  Maybe a bit more than the 11 minutes of average live game play.\" agent_B:",
+        "targets": [
+            "\"I thought it would be more, but I guess the players are waiting and standing a lot. Still lots of injuries in just 11 minutes.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8353,
+        "inputs": "agent_A: \"Hi there do you follow the NFL?\" agent_B:",
         "targets": [
             "\"Not too much. I think it's disgusting that the highest paid employees in the Department of Defense are football coaches.\""
         ],
@@ -27,8 +117,44 @@
         "multiple_choice_scores": []
     },
     {
+        "idx": 10779,
+        "inputs": "agent_A: \"I didn't know that there is only 1 episode of \"The Simpsons\" where bart neither appears, nor is mentioned\" agent_B: \"Well, I much less, I find out. And I see that program, I like it\" agent_A: \"Did you know that the highest score in football game was 222-0, but it was really while ago. It's surprising fact.\" agent_B: \"Yes, I had read something in particular about it, it's something surprising. They should have played alone in the field, that team weighed the other\" agent_A: \"I was always surprised that there isn't any written rule against female players in NFL. And still don't understand why women don't play\" agent_B: \"It's a very strange thing, there are many women capable for these types of sports, but good.\" agent_A: \"I agree. Well, maybe with average NFL game only 11 minutes of live gameplay, it's not interesting for ladies. \" agent_B: \"There will come a time when the first will be encouraged and so will the others\" agent_A: \"did you know that New orleans saints cheerleaders are forbidden from eating in the same restaurant as any NFL player\" agent_B: \"How curious is that? Well, I have some thought of some because of it, but. What do you think?\" agent_A: \"I think it's kind of stupid and old style rule. It doesn't make any sense. \" agent_B: \"Well, I suppose it's because of creating bonds in the middle of all this, it's not good for players to have their head in something else\" agent_A: \":) it could be true. However, to require to leave a place when NFL player comes... well,I'm not sure in that...\" agent_B: \"We are not sure of anything, they are pure speculations ... But we must not remove the possibility\" agent_A: \"true. Did you know that locker room for visiting team in the University of Iowa is completely painted pink?\" agent_B: \"Or yes, yes ... Also today something about this, it is rumored that it is for the visiting team to know that they are better and this feels less\" agent_A: \"some people may call it as sort of pressure, but I'm not sure.\" agent_B: \"To me that could cause me rather desire to cover their mouths and beat them to learn. But hey, all this is part of the show\" agent_A: \"I agree. NFL is all about performance!\" agent_B: \"Well of course. What is worth there is the best performance, the better the teams, the better the matches\" agent_A: \"Yes! My pleasure to talk with you. Have a good day!  \" agent_B:",
+        "targets": [
+            "\"Also, have a great day\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 20818,
+        "inputs": "agent_A: \"Do you follow FIFA soccer at all?\" agent_B: \"I do! I was so happy to see France win the world cup again. Long wait for the next one now.\" agent_A: \"I think the women play this year?  Right?\" agent_B: \"Oh yeah that's right. Should tide me over. The bids for the 2022 world cup were pretty crazy. Did you see what countries were offering?\" agent_A: \"Yeah, and they chose Qatar.  \" agent_B: \"It's a good choice but Japan would have been cool. They were going to project 3d holograms of the games! Beats 4k for sure.\" agent_A: \"That is crazy, that would definitely get my vote\" agent_B: \"Hopefully it will be cool enough in Qatar. It gets VERY hot there.\" agent_A: \"Well, seeing as they havent even built the city that will host the final, they might be building some super cool indoor stadiums or something.\" agent_B:",
+        "targets": [
+            "\"Yes with ac and all, however with things like this they never tend to go as planned. They still have time but for them at least I imagine time will fly by fast.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
         "idx": 6368,
+        "inputs": "agent_A: \"hi how are you? when was the last time you had a chat about football?\" agent_B: \"Right after the super bowl. What about you? \" agent_A: \"I have been chatting about football pretty frequently. LOL I did not see the SB this year. did you like it?\" agent_B: \"I did see it. It was a slow game. \" agent_A: \"I heard the previous one was better. A big comeback at the end. Who were you rooting for this year?\" agent_B:",
+        "targets": [
+            "\"Neither team. My team is the redskins. \""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1087,
         "inputs": "agent_A: \"Football apparently comes in different forms and names around the world.  What do you think of american football?\" agent_B: \"I like it, Im watching the Superbowl for sure this year, what do you think about the Redskins this season,\" agent_A: \"They were okay.  it was a shame that Alex Smith, the quarterback, got hurt.\" agent_B: \"Yeah I thought they were going to do better, it seems the team has a lot of determination, and it is a shame.\" agent_A: \"They have some good players and do things quietly in a way.  Adrian Peterson worked out for them and hardly anything was said.\" agent_B: \"They used to have flashy names now the team is decent, fears can always slow you down specially with all the talent out there.\" agent_A: \"True.  Alex Smith is known, he's been around 13 years, but he's not flashy if you know what I mean.\" agent_B: \"Yeah I get you, sports what team are you a fan of? \" agent_A: \"Well for the superbowl I can't really decide. I'd like to see the Rams win but then again, it'd be great to see Drew Brees win.  What about you?\" agent_B: \"I am a Patriots fan, I really like them I became a fan of the since Benjarvus Green-Ellis, so I am rooting for them in this Superbowl.\" agent_A: \"My bad a bit ago. I was still thinking of the nfc championship game.  I am pulling for the Rams to win.  did you know that green-ellis has never fumbled in his entire career?\" agent_B: \"I didnt know that, he is one of my favorite playes but didnt know that about him and what are your thoughts about the NFC championship game?\" agent_A: \"Considering the Rams player himself admitted that it should have been a penalty I think they should replay the game.  I'd like to see what would happen.  I also think they should play it out until a winner.  Let it go like back in 1916 when georgia tech defeated cumberland 222-0.\" agent_B: \"220-0 that is close score lol, I bet the other team retired from football forever.\" agent_A: \"That would be pretty bad.  So what do you think about the nfc championship game?\" agent_B:",
+        "targets": [
+            "\"I thought the Saints were going to win, I was kind of rooting for them.\""
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12668,
+        "inputs": "agent_B: \"I didn't know that astronauts could vote from space, did you?\" agent_A: \"Well, if a chimpanzee can receive enough votes to come in third in a mayoral election, I guess anything is possible.\" agent_B: \"That's true. It's also ridiculous that people in Austin Texas actually voted to have their garbage dump named Fred Durst. \" agent_A: \"I think that's hilarious, and was surprised to learn that JFK voted against the civil rights act.\" agent_B: \"That's pretty surprising since his brother, Bobby Kennedy, was very pro-civil rights. \" agent_A: \"They were so different on many things. Not surprising, Alabama seems to do Alabama things, and keep the ban on interracial marriages, even though its uneforceable.\" agent_B: \"Yes, it's also surprising to discover that 34% of black men don't have the right to vote in Alabama. That seems odd. \" agent_A: \"Is that due to felons not having the right to vote? \" agent_B: \"I'm not sure of the reason. It would seem unlikely that 34% of black men in Alabama are felons, though. In the UK, all men didn't have the right to vote until 1918. \" agent_A: \"I never knew Steven Colber went to congress to defend agriculture visas for immigrants.\" agent_B: \"I had no idea he did that, either. Good for him. I think it is strange that Elmo testified before Congress. \" agent_A: \"Ashton Kutcher testified before congress a few years ago. He is very involved in stopping sex trafficking. \" agent_B: \"That's interesting. I wonder how he became involved in that cause. I figured he would be more involved in causes surrounding pediatric heart disease. \" agent_A: \"I'm not sure, I think it was a random thing that he found when he was on the night shift when his daughter was a baby.\" agent_B:",
         "targets": [
             "\"That's interesting. Sex trafficking is a big problem around the world. It's something hardly anyone ever discusses, though. \""
         ],
@@ -36,145 +162,19 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 10649,
-        "inputs": "agent_B: \"Who do you think will take it big at the Academy Awards?\" agent_A: \"I have no idea. I haven't watched any movies this year. How about you? Did Meryl Streep do anything? She has won more Golden Globes than anyone.\" agent_B: \"Washington Post Film Critics made some forecasts.  \" agent_A: \"What was your favorite  movie this year? King Kong was one of mine in the past. Meryl Streep auditioned for the lead role in the 1976 one.\" agent_B:",
+        "idx": 19951,
+        "inputs": "agent_B: \"do you know who Malea Emma Tjandrawidjaja is? \" agent_A: \"No I dont. who is she? what does she do?\" agent_B: \"she a 7 year old little girl who sang the national anthem at a MLS game and apparently she did marvelous. \" agent_A: \"Oh, thats great! 7 years old. that is quite young. i guess she has a great career ahead of her.\" agent_B: \"She hummed the first line to herself and then let loose. All at that young age in front of such a large crowd. That's remarkable. \" agent_A: \"i would have been terrified. how did she get chosen? what else has she done?\" agent_B:",
         "targets": [
-            "\"wow thats a big statement. \""
+            "\"Well that performance in particular went viral!\""
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 20451,
-        "inputs": "agent_A: \"Hi, how are you?\" agent_B: \"I am well, how are you?\" agent_A: \"I am doing very well, are you into football at all?\" agent_B: \"I am into football. I can't wiat for today's games. I am from Chicago so I am a huge bears fan.\" agent_A: \"I am an Eagles fan myself, sorry about Parkey. Apparently most NFL games have about 11 minutes of gametime!\" agent_B: \"I know. Good luck today! Saints will be a tough one... Baker mayfield (quarterback, university of oklahoma) once considered quitting football to pursue full-time competitive gaming, and claims to be able to beat anyone at the university of oklahoma one-on-one in halo 3.\" agent_A: \"I believe that, he is good at pretty much anything he does, QBs are special, I know Alex Smith is very smart!\" agent_B:",
+        "idx": 7521,
+        "inputs": "agent_B: \"Hi, how are you?\" agent_A: \"I am well, how are you?\" agent_B: \"I am doing very well, are you into football at all?\" agent_A: \"I am into football. I can't wiat for today's games. I am from Chicago so I am a huge bears fan.\" agent_B: \"I am an Eagles fan myself, sorry about Parkey. Apparently most NFL games have about 11 minutes of gametime!\" agent_A: \"I know. Good luck today! Saints will be a tough one... Baker mayfield (quarterback, university of oklahoma) once considered quitting football to pursue full-time competitive gaming, and claims to be able to beat anyone at the university of oklahoma one-on-one in halo 3.\" agent_B: \"I believe that, he is good at pretty much anything he does, QBs are special, I know Alex Smith is very smart!\" agent_A: \"I had no idea Alex Smith took that many AP classes. Kind of mind boggling...\" agent_B: \"It really is, doing that as anyone is special, but as an athlete, even crazier!\" agent_A: \"Yeah! The circular huddle used in todays american football was created by paul d. hubbard, a deaf quarterback, so the other team could not read his hand signals. I had no clue!\" agent_B:",
         "targets": [
-            "\"Yeah, on both the players and the balls? They want to be able to track everything, I guess.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 387,
-        "inputs": "agent_B: \"Do you watch football?\" agent_A: \"Yes I do, I am a Redskins fan and like the team this year.\" agent_B: \"That's cool. The highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222-0!\" agent_A: \"That is an epic win! I wasnt aware of it, what foorball team do you like?\" agent_B: \"I like the Eagles. Amazing game last week! Did you know An average nfl game only has 11 minutes of live gameplay?\" agent_A: \"I didnt know that either, interesting stats, it sure seems like a lot longer, do you know other interesting facts.\" agent_B: \"It definitely does! The NFL has no written rules against women players. \" agent_A: \"It would be interesting to watch a woman play.\" agent_B: \"Yeah, that aspect is pro woman, but the Saints cheerleaders are forbidden from eating in the same restaurant as any NFL player and if they are already dining at a restaurant and an NFL player comes in after, the cheerleaders are required to leave!\" agent_A: \"Thats interesting, I also heard that the Iowas University locker room for visiting teams is completely pink. \" agent_B: \"That's really funny! In the 1960's top bowlers made twice as much as top football stars!\" agent_A: \"I know, it must be weird to be in a pink locker room, what do you think about the NFL chips.\" agent_B: \"It's a little creepy but gives some cool detailed information. \" agent_A: \"Its interesting, I wonder how those stats change the game.\" agent_B: \"I'm not sure. Espn won an emmy for the creation of the superimposed yellow line representing the first down line for american football games!\" agent_A: \"I didnt know they gave Emmys for that, what is your favorite NFL team?\" agent_B:",
-        "targets": [
-            "\"Strong mental health is needed for any games for having tactics and handle the pressure of the game.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2265,
-        "inputs": "agent_B: \"Hi, how are you?\" agent_A: \"Good. Did you see the New Star Wars sequel, Solo? I heard it tanked at the box office.\" agent_B: \"I watched a little of it on netflix but not the whole thing yet. I usually save movies for the gym when I am on the treadmill. Have you seen it?\" agent_A: \"No. I have it on my list of movies to watch, right after the other Star Wars movie released just before Solo, The Last Jedi.\" agent_B: \"I saw that they just released that on Netflix. I may not finish solo and just go to the last jedi. I think that got better reviews...\" agent_A: \"With a measely $100 mil on opening weekend, Solo fell under harsh criticism. I think it was destined to suffer some because Harrison Ford, the original Hans Solo, was so beloved.\" agent_B:",
-        "targets": [
-            "\"I know I do not have the patience to read it. Could you write that much?\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 9391,
-        "inputs": "agent_B: \"Did you know that the fda has burned six tons of literature in the sake of us censorship?\" agent_A: \"Do we know what theme had those books ?\" agent_B: \"I'm not sure.  But there is an annual literature contest for literature with the worst opening sentences\" agent_A: \"Now thats something I would love to see an example of ! ;)\" agent_B: \"Interestingly, the space shuttle's general purpose computer only ran on 1mb of ram\" agent_A: \"To do what... keep the txt files ?\" agent_B:",
-        "targets": [
-            "\"I'm a Steelers fan too!  I live right on the Ohio/PA line.  Did you know that there is only 1 left handed QB in the NFL - Kellan Moore.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 5644,
-        "inputs": "agent_B: \"The national football league is the one of the major sports league in North america. It consist of 32 team.\" agent_A: \"They divide them into two divisions, so that they can play against each other to work their way toward the super bowl.\" agent_B: \"The NFL season starts from September to late December.  The NFL is started in 1920 as APFA, re-naming itself in 1922 as NFL.\" agent_A: \"I didnt know that.  As long as I have heard about pro football it has always been the NFL.\" agent_B: \"The NFL has no written rule against the female player they want to met the leagues eligibility requirement. \" agent_A: \"Im not sure many women would want to play, they dont even treat cheerleaders well.  I cant imagine who they would treat a female player.\" agent_B: \"Women they want to work hard to fit in the game. NFL uses tracking chips in the players shoulder pads to records move in the field. This shows their aggression to win the trophy.\" agent_A: \"It isnt hard to be aggressive for just 11 minutes, that is how much game play there is in the average game.\" agent_B:",
-        "targets": [
-            "\"There is also only one left handed quarterback in the NFL, Kellan Moore.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 11778,
-        "inputs": "agent_A: \"Are you a Bills fan? My son is a huge one! \" agent_B: \"Can't say that I am actually haha. I don't really watch sports. How often do you watch the NFL?\" agent_A: \"Quite a bit. I have 2 boys! The bills always have an issue at quarterback, that is why their season isn't the greatest. I am surprised that they benched Peterman and started Allen...but they don't always do what I think they should.\" agent_B: \"Haha yeah I can see that. did you know the NFL uses tracking chips. They put it in the shoulder pads. that would scare me if they could players off the field haha\" agent_A: \"Yes! And in the footballs! That is crazy. They are trying to register everything that happens. I guess that is what happens when you are paying somebody big money!\" agent_B: \"Haha yep I agree. Did you know that there is a coach in the NFL that's actually a rocket scientist? His name is Matt Patricia\" agent_A: \"No way!  I had no idea. The one thing that I have heard is that it is better to be an engineer than a nfl or mlb player. Much more earnings!\" agent_B: \"Yep you're right! Did you hear about the first NFL playoff game? It happened back in 1932 on an 80-yard dirt filled back in Chicago somewhere haha\" agent_A: \"I didn't but I did hear about how the New Orleans Saints cheerleaders are forbidden to eating in the same restaurant as any NFL player and they have to leave if one comes in. That is too much!\" agent_B: \"I know isn't that weird! you would think in this day and age that that wouldn't be necessary. If I were them I would be really upset, are there any quarterbacks that you like?\" agent_A: \"Yes. I do like Tom Brady...even though there are the haters out there. With his record! Who couldn't be a fan.\" agent_B: \"Yep I agree! I think he's the best too! What do you think about Kellen Moore? He is the only left-handed quarterback in the entire NFL apparently\" agent_A: \"I heard about that. Did you know that Tom Brady's high school football team never played him. Even though they had the worse season where they never won a game or even scored a touchdown.\" agent_B: \"No I didn't know that. That seems very silly. Although I wonder if he got better or if his coach was just stupid haha. Did you hear about the guy who threw a touchdown pass in the Super Bowl, to himself?\" agent_A: \"No!? I didn't. That would have been something to see. I heard that Baker Mayfield the quarterback for Oklahoma considered quitting to be a competitive gamer. Video games. Do you think there is any money in that?\" agent_B: \"No I don't think so. At least not a lot anyway. I think you made the right choice! What's weird to me is that only two African-American quarterbacks have won the Superbowl. I wonder why that is\" agent_A: \"Not sure. But the huddle was created by a man who was deaf and did not want the other team to read his signals.\" agent_B:",
-        "targets": [
-            "\"I was rooting for the Patriots as well, good thing we won, although it was a boring Superbowl, it needed more action\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 17423,
-        "inputs": "agent_A: \"Quarterbacks must be one of the most important players on an American Football team...right?\" agent_B: \"I agree, after all he is the only one who participates in every offensive play, the QB does an important job indeed.\" agent_A: \"Plus, he gets to call the team to a huddle, which usually gets a TV closeup!\" agent_B: \"Yeah the QB definitely gets a lot of attention from the cameras, do you know who Tom Brady is?\" agent_A: \"Not really, but I have heard the name...I don't know much about football...do you?\" agent_B: \"I know a bit about it, so Brady is one of the best QB ever, a hall of famer and all and he didnt make it to the main team in high school, his team lost like almost every match.\" agent_A: \"Wow that is inspiring! I think the most exciting thing for me around football season is the traditional foods...do you have a fav football food?\" agent_B: \"My favorite food is chicken wings for sure, are you watching the Superbowl?\" agent_A: \"That's my favorite, too. I might watch the Superbowl. I don't even know who is playing, though!\" agent_B:",
-        "targets": [
-            "\"It's actually parks East of the Mississippi, so I'm guessing mostly Disney World in Orlando.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 15568,
-        "inputs": "agent_A: \"Do you like to go to concerts? \" agent_B: \"Yeah, but I don't have much money and I don't know many musicians, especially contemporary music like John Corigliano.  \" agent_A: \"Did you know that Linkin Park played 324 concerts in 2001 alone? \" agent_B: \"No, what was the name of the tour and I don't know them very much, they seems as popular as ABBA. \" agent_A: \"I've never heard of ABBA. Who is that? \" agent_B: \"They are a Swedish band, very popular in the disco era, they recently turned down a 1 billion offer to reunite. I guess they don't like each other anymore.  \" agent_A: \"I've never heard of them. Interesting, did you know that the Ramones played 2,263 concerts? \" agent_B: \"That is a lot, in how many years they did this ?\" agent_A: \"It took them about 20 years. \" agent_B: \"That is around 100 concerts per year, it is a lot but it is doable. I hope they don't play as loud as Deep Purple.  \" agent_A: \"Do they play really loud? \" agent_B: \"They have the world record for the loudest concert, 3 people in the crowd lost consciousness because it was too loud. The Foo Fighters also give loud concert. \" agent_A: \"Interesting. I didn't know that. Did they get in trouble? I've seen the Foo Fighters. \" agent_B: \"The Foo Fighters did not get in troubles, but they gave a concert so loud that it showed on seismic monitors. \" agent_A: \"Yeah, I like Dave Grohl, have you seen them live? \" agent_B:",
-        "targets": [
-            "\"Cool.  Say, did you know that George Lucas' wife worked on the movie?\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 18103,
-        "inputs": "agent_A: \"Hello! So do like football?\" agent_B:",
-        "targets": [
-            "\"An amusing contrast to the fact that the players are not paid anything\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 21938,
-        "inputs": "agent_B: \"hi how are you?\" agent_A: \"Good, how about you? Are you a football fan?\" agent_B: \"if there is money in it, i am. i like to watch the game for gambling. you?\" agent_A: \"I play fantasy, which is partially gambling, and I bet on the super bowl. who would have bet the highest score for a football game was georgia tech defeating cumberland 222-0?\" agent_B: \"that was a blow out. i figure that GT had something to prove to cumberland. i dont know what, but they proved it.\" agent_A: \"Lots of fumbles, interceptions, etc. \" agent_B: \"that must have been a lot of fun for the teams. good experience. a learning experience for everyone involved. i envy them\" agent_A: \"Probably sad for Cumberland lol, but yea they can learn from it\" agent_B: \"They can learn that football is not their sport.\" agent_A: \"lol yes, I didnt realize the average nfl game has only 11 minutes of actual gameplay\" agent_B: \"the players union has ensured that work time is minimal. the fans are steamed about it but what can they do? put in other players? \" agent_A: \"I dunno, to be honest, I dont know that players would take much more than 11 minutes of high speed contact.\" agent_B:",
-        "targets": [
-            "\"Quarterbacks are members of the offensive team and line up directly behind the offensive line.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4041,
-        "inputs": "agent_B: \"Hi, how are you over there? Are you feeling good? \" agent_A: \"Hi! Yes, pretty great Thank you! just finished watching some football videos. Are you a fan of Football?\" agent_B: \"I do not usually watch the football. It is violence, and my household does not truck with violence on TV, only in person.\" agent_A: \"Haha! I agree it is a very aggressive sport. Which got me wondering why I hadn't seen any female football players did you know there are currently no written rules against female players in the NFL.\" agent_B: \"I think that violence against women would be an queer spectator sport, even in America. Is there a sport with violence against the women?\" agent_A: \"Um, no I don't think so, but did you know an average nfl game is only 11 minutes of gameplay? \" agent_B: \"Thats scandalous. Therre should be some sort of law about minimal work time or something.\" agent_A: \"Yes, It makes me ponder how much times have changed. Back in the 60's top bowlers made twice as much as top football stars.\" agent_B: \"How much money was that exactly? I dont think either of them groups made much. I guess the bowlers got all the women and the glory though. They were graceful ahtletes.\" agent_A: \"Im not sure, but yes there seems to be a lot of irregularities within the sport for instance New Orleans Saints cheerleaders are not allowed to be in the same restaurants as any of the players.\" agent_B: \"I think thats a sexist form of misogyny or seomething along those lines. The men should be chivalrous and leave the women. \" agent_A: \"To each their own I suppose, speaking of lines, That super imposed yellow line you see in the game, ESPN has won an emmy for that. Did know that was possible.\" agent_B: \"I think ESPN should try to put a line where the cheerleaders are so that they dont have problems with players. That would be chivalrous of ESPN. What does ESPN stand for?\" agent_A: \"I think people should just have some common sense but I don't see that happening anytime soon. The NFL uses tracking devices to track players on the field, im sure that a way to keep tabs on players\" agent_B: \"I think they could track them off the field too. Too many of them guys get into all kinds of criminal mischief. They need some help.\" agent_A: \"in that case the whole world would be tracked, I think we can think of better ways than to \"control\"\" agent_B: \"NFL players are role models for many young people. I am not. I cannot speak for you. I figure that if they don't get into trouble, they dont need tracking. But some of them,.. I dunno.\" agent_A: \"Thats a whole other subject we dont have enough time here for. but this would be a whole different place if more Love was implemented the current system has people going crazy and violence is out of hand, we must look within oneself.\" agent_B: \"I suppose that we are running out of time. The NFL should invent a chip to help up look within ourselves not just track each other. What is inside? Chips might just help us there.\" agent_A: \"I disagree, we have everything we need to look within ourself... you would just be giving YOUR power away by allowing to get chipped. Someone else in control of you and your decision. This plante would no longer be free will. The NFL should just stick with tracking balls to track speed and rotation\" agent_B:",
-        "targets": [
-            "\"Yeah?  That would be cool to see in a movie. They could make it a comedy of sorts.  Speaking of superheroes did you know that there are over 300 registered superheroes in the United States?\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 16793,
-        "inputs": "agent_A: \"Are you interested in Fashion Week at all?\" agent_B: \"To be honest, I don't pay attention to fashion trends that much. I just wear comfortable clothes as much as possible. \" agent_A: \"Me too, I wear sustainable clothing or recyled clothes. Better for the planet.\" agent_B: \"That's a good idea. I tend to dress very plainly, but with cheaper clothes. Apparently, Mark Zuckerberg's plain grey shirts cost $300 to $400!\" agent_A: \"Wow! I don't need a 300 shirt, even if I am rich, LOL\" agent_B: \"Right? But wearing expensive clothes isn't anything new since the greeks used to wear asbestos that used to cost as much as gold\" agent_A: \"Asbestos, huh? No wonder they are ALL dead. I'm just saying.......\" agent_B: \"Yeah people did all sorts of crazy stuff back in the day. They used to wash clothes on Old Faithful too, like an explosive washing machine. \" agent_A: \"I'll bet they ended up losing a lot of clothes. Also, who knew Pilgrims wore colorful clothing? They only wore black for special occasions, I just found out.\" agent_B: \"I didn't know about that, I only ever see pilgrim pictures in Thanksgiving so I guess that makes sense. Did you know that t-shirts were invented in 1904 for bachelors who didn't know how to sew. \" agent_A: \"I just see the image of Pilgrims dressed in black and white, with those big ole buckles on the hats and shoes.\" agent_B: \"Same here, usually they're eating some turkey with some Native American tribe.\" agent_A: \"And learning from said Native Americans how not to starve come winter, but I digress.....\" agent_B: \"The Native Americans didn't start dressing like the pilgrims though, unlike an African tribe that still wears Victorian clothes in the style of German colonizers. \" agent_A: \"Man, those colonizers were bad news...... That was a cool fact about the origin of the t-shirt, BTW\" agent_B: \"Yeah they were bad news, but at least the tribe kind of made it their own style. \" agent_A: \"I would trade land rights, and liberty over style any day, but I see your point.\" agent_B:",
-        "targets": [
-            "\"I have no idea.  They must be there for a reason.  lol  The highest score ever for a football game was 222-0!  Thanks for the chat!\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 20384,
-        "inputs": "agent_B: \"Hello there, did you know that scientists in Italy do checkups and ice treatments on this man who died 5,300 years ago? Imagine that!\" agent_A: \"Wow, that is crazy. The emperor of Japan apparently is a scientist and still publishing. What a guy\" agent_B: \"Really? Two roles for one person - he must be very busy. Another scientist who has two careers would be Harrison schmitt. He is the only scientist to walk on the moon!\" agent_A: \"That is pretty cool. Good for him. Another scientist was able to divide two 8-digit numbers at the age of 6\" agent_B: \"I can barely even divide 7. That person must have got into Harvard. Speaking of Harvard, did you know that Harvard Scientists managed to store an animation of a galloping horse onto the DNA of a bacteria? I found that really fascinating.\" agent_A: \"Wow that is pretty advanced and sound intriguing. Do you know how www was invented?\" agent_B: \"I believe that it was invented by an english scientist in 1989. That scientist was working in Switzerland. Do you know anymore details on how it was invented? I am really curious to know.\" agent_A: \"Just a bit like, he was working for CERN which is a European state-funded organization that does research\" agent_B: \"Really? That is pretty cool. I found it very interesting that a store in Alabama only sells items found in unclaimed baggage at the airport.\" agent_A: \"THat is something, I would like to check that out at some point. Even Apple had a clothing line back in the day\" agent_B: \"That is the same as how Amazon used to be an online book retailer. It's hard to imagine how much that they have grown over these few decades.\" agent_A: \"That is true, they are a giant now. DO you know when pilgrims wear black clothes?\" agent_B: \"No I did not know that! Furthermore, Rip curl is a company that manufactures in North Korea but labels it as made in China. \" agent_A: \"Hahah go figure. DO you know how fashion aficionados can tell if you need your clothes tailored?\" agent_B: \"Interesting. Speaking of fashion, did you know that British politicians had to wear a top if when they made a point on the House of Commons? This was mandatory up until 1998!\" agent_A: \"That is strange to me but I guess it worked for them. Do you know how the tipping of the hat originated/.\" agent_B:",
-        "targets": [
-            "\"WOw cool. Bill O'Reilly faked a press organization just so he could get free tickets to their games\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 17291,
-        "inputs": "agent_B: \"Did you know that the fda has burned six tons of literature in the sake of us censorship?\" agent_A: \"Do we know what theme had those books ?\" agent_B: \"I'm not sure.  But there is an annual literature contest for literature with the worst opening sentences\" agent_A: \"Now thats something I would love to see an example of ! ;)\" agent_B: \"Interestingly, the space shuttle's general purpose computer only ran on 1mb of ram\" agent_A: \"To do what... keep the txt files ?\" agent_B: \"I don't know, but doesn't sound like a lot of memory.  In 1936 Russians made a computer that ran on water.  I wish I could do that if I could save money and recycle the water.\" agent_A: \"Ran on water... was it like a cyborg Jesus ? :)\" agent_B: \"Don't smoke near an apple computer or it will void the warranty making it a biohazard\" agent_A: \"I don't believe that... how would they know ? :)\" agent_B: \"Maybe the smell?  \" agent_A: \"What, when You go to the service depot, they can smell if somebody was smoking close to it ? ;)\" agent_B: \"Somebody made up the rule, so there has to be some test :)  Pixar spent three years studying physics of curly hair to correctly render merida's hair in \"brave\"\" agent_A: \"Now that's interesting. I wonder if that research helped creating Nvidia Hairworks technology :)\" agent_B: \"Could be!  They think that an ancient Chinese dye used on the terra cotta army may lead to quantum physics breakthroughs.  wonder how?\" agent_A: \"terra cotta army ? what is that ?\" agent_B:",
-        "targets": [
-            "\"OHHHH. speaking of qbs, did you know that there is only one left handed one? Kellan Moore.\""
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10029,
-        "inputs": "agent_A: \"hi how are you? do you listen to the radio?\" agent_B: \"Yeah. I love listening to the radio.\" agent_A: \"I dont listen to it much now. i used to listen a lot as a kid.\" agent_B:",
-        "targets": [
-            "\"oh that's so nice of them! making all kids feel like they can be a hero too\""
+            "\"I wonder how good he was as a deaf quarterback, it might help in opposing stadiums!\""
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

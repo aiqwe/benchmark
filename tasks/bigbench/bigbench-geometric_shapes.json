@@ -1,9 +1,9 @@
 [
     {
-        "idx": 19,
-        "inputs": "Q: This SVG path element <path d=\"M 23.33,42.35 L 22.72,41.71 L 7.96,55.69 M 7.96,55.69 L 8.56,56.33 L 23.33,42.35\"/> draws a \n  choice: octagon\n  choice: circle\n  choice: trapezoid\n  choice: triangle\n  choice: hexagon\n  choice: heptagon\n  choice: sector\n  choice: line\n  choice: rectangle\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 341,
+        "inputs": "Q: This SVG path element <path d=\"M 65.00,42.00 A 21.00,21.00 0.00 1,0 23.00,42.00 A 21.00,21.00 0.00 1,0 65.00,42.00\"/> draws a \n  choice: line\n  choice: circle\n  choice: sector\n  choice: triangle\n  choice: heptagon\n  choice: ellipse\n  choice: rectangle\n  choice: kite\n  choice: pentagon\n  choice: hexagon\n  choice: octagon\nA:",
         "targets": [
-            "rectangle"
+            "circle"
         ],
         "multiple_choice_targets": [
             "circle",
@@ -16,27 +16,27 @@
             "rectangle",
             "sector",
             "triangle",
-            "trapezoid"
+            "ellipse"
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
             1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             1
         ]
     },
     {
-        "idx": 174,
-        "inputs": "Q: This SVG path element <path d=\"M 79.00,20.00 L 60.00,41.00 L 13.00,7.00 L 79.00,20.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 283,
+        "inputs": "Q: This SVG path element <path d=\"M 53.73,61.64 L 50.59,49.13 L 61.50,52.50 L 66.59,62.74 L 53.73,61.64\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
-            "triangle"
+            "kite"
         ],
         "multiple_choice_targets": [
             "circle",
@@ -54,18 +54,18 @@
             0,
             0,
             0,
+            1,
             0,
             0,
             0,
             0,
             0,
-            0,
-            1
+            0
         ]
     },
     {
-        "idx": 315,
-        "inputs": "Q: This SVG path element <path d=\"M 64.39,14.52 L 78.74,22.38 L 73.63,31.70 M 73.63,31.70 L 59.28,23.84 L 54.17,33.17 L 46.96,10.57 M 46.96,10.57 L 69.50,5.19 L 64.39,14.52\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 153,
+        "inputs": "Q: This SVG path element <path d=\"M 62.25,27.53 L 52.77,26.60 M 52.77,26.60 L 47.60,32.11 M 47.60,32.11 L 41.50,34.36 L 33.95,29.67 L 41.91,21.19 L 49.46,13.14 L 62.25,27.53\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
             "heptagon"
         ],
@@ -95,8 +95,101 @@
         ]
     },
     {
-        "idx": 136,
-        "inputs": "Q: This SVG path element <path d=\"M 38.00,62.00 L 48.00,60.00 L 51.00,49.00 L 54.00,60.00 L 65.00,62.00 L 54.00,64.00 L 51.00,74.00 L 48.00,64.00 L 38.00,62.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 339,
+        "inputs": "Q: This SVG path element <path d=\"M 54.96,21.98 L 51.72,25.83 L 41.24,25.15 L 50.36,19.95 M 50.36,19.95 L 54.96,21.98\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "kite"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 53,
+        "inputs": "Q: This SVG path element <path d=\"M 41.00,39.00 L 38.00,35.00 L 41.00,25.00 L 44.00,35.00 L 41.00,39.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "kite"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Q: This SVG path element <path d=\"M 41.48,55.75 L 33.96,29.96 M 33.96,29.96 L 54.25,45.75 M 54.25,45.75 L 81.49,48.18 L 54.72,56.47 L 51.27,70.26 L 34.15,86.84 M 34.15,86.84 L 41.48,55.75\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "heptagon"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 135,
+        "inputs": "Q: This SVG path element <path d=\"M 37.73,31.58 L 41.81,33.73 M 41.81,33.73 L 49.19,34.44 L 44.69,40.33 M 44.69,40.33 L 43.49,44.78 L 40.07,42.34 M 40.07,42.34 L 32.69,41.63 M 32.69,41.63 L 37.19,35.74 L 37.73,31.58\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
             "octagon"
         ],
@@ -126,10 +219,103 @@
         ]
     },
     {
-        "idx": 198,
-        "inputs": "Q: This SVG path element <path d=\"M 83.34,41.82 L 22.52,69.63 M 22.52,69.63 L 7.52,36.82 M 7.52,36.82 L 68.34,9.01 L 83.34,41.82\"/> draws a \n  choice: octagon\n  choice: circle\n  choice: trapezoid\n  choice: triangle\n  choice: hexagon\n  choice: heptagon\n  choice: sector\n  choice: line\n  choice: rectangle\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 59,
+        "inputs": "Q: This SVG path element <path d=\"M 90.41,82.38 L 45.53,97.84\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
-            "rectangle"
+            "line"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 54,
+        "inputs": "Q: This SVG path element <path d=\"M 96.44,60.28 L 86.06,66.88 M 86.06,66.88 L 73.46,63.12 M 73.46,63.12 L 64.51,64.29 L 53.86,55.81 L 62.89,41.49 L 81.34,35.46 L 77.03,51.74 L 96.44,60.28\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "octagon"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 283,
+        "inputs": "Q: This SVG path element <path d=\"M 53.73,61.64 L 50.59,49.13 L 61.50,52.50 L 66.59,62.74 L 53.73,61.64\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "kite"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 79,
+        "inputs": "Q: This SVG path element <path d=\"M 33.99,60.12 A 11.75,11.75 158.24 1,0 55.81,51.40 A 11.75,11.75 158.24 1,0 33.99,60.12\"/> draws a \n  choice: line\n  choice: circle\n  choice: sector\n  choice: triangle\n  choice: heptagon\n  choice: ellipse\n  choice: rectangle\n  choice: kite\n  choice: pentagon\n  choice: hexagon\n  choice: octagon\nA:",
+        "targets": [
+            "circle"
         ],
         "multiple_choice_targets": [
             "circle",
@@ -142,11 +328,41 @@
             "rectangle",
             "sector",
             "triangle",
-            "trapezoid"
+            "ellipse"
         ],
         "multiple_choice_scores": [
+            1,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 139,
+        "inputs": "Q: This SVG path element <path d=\"M 41.00,62.00 L 46.00,58.00 L 51.00,49.00 L 56.00,58.00 L 61.00,62.00 L 56.00,65.00 L 51.00,74.00 L 46.00,65.00 L 41.00,62.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "octagon"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
             0,
             0,
             0,
@@ -155,12 +371,44 @@
             1,
             0,
             0,
-            1
+            0,
+            0
         ]
     },
     {
-        "idx": 263,
-        "inputs": "Q: This SVG path element <path d=\"M 16.60,61.04 L 49.13,51.93 L 23.67,29.15 L 29.62,52.34 M 29.62,52.34 L 21.26,43.24 L 16.60,61.04\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 144,
+        "inputs": "Q: This SVG path element <path d=\"M 41.41,76.90 L 70.55,55.28 M 70.55,55.28 L 69.15,30.98 M 69.15,30.98 L 54.95,12.01 M 54.95,12.01 L 45.92,53.83 L 38.46,76.28 M 38.46,76.28 L 41.41,76.90\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "targets": [
+            "hexagon"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 309,
+        "inputs": "Q: This SVG path element <path d=\"M 62.00,52.00 L 45.00,58.00 L 95.00,60.00 L 71.00,50.00 L 66.00,32.00 L 62.00,52.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
             "pentagon"
         ],
@@ -190,8 +438,41 @@
         ]
     },
     {
-        "idx": 195,
-        "inputs": "Q: This SVG path element <path d=\"M 79.20,79.15 L 73.02,81.37 L 69.84,74.87 L 63.33,78.05 L 59.81,72.52 L 63.43,65.10 L 73.81,63.24 M 73.81,63.24 L 80.55,72.04 M 80.55,72.04 L 79.20,79.15\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 107,
+        "inputs": "Q: This SVG path element <path d=\"M 54.00,35.00 A 8.00,8.00 0.00 1,0 38.00,35.00 A 8.00,8.00 0.00 1,0 54.00,35.00\"/> draws a \n  choice: line\n  choice: circle\n  choice: sector\n  choice: triangle\n  choice: heptagon\n  choice: ellipse\n  choice: rectangle\n  choice: kite\n  choice: pentagon\n  choice: hexagon\n  choice: octagon\nA:",
+        "targets": [
+            "circle"
+        ],
+        "multiple_choice_targets": [
+            "circle",
+            "heptagon",
+            "hexagon",
+            "kite",
+            "line",
+            "octagon",
+            "pentagon",
+            "rectangle",
+            "sector",
+            "triangle",
+            "ellipse"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 175,
+        "inputs": "Q: This SVG path element <path d=\"M 53.07,5.04 L 61.70,11.14 L 62.83,22.38 L 66.68,29.10 L 63.41,40.33 L 49.09,37.83 L 38.28,25.14 L 52.62,23.25 L 53.07,5.04\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
             "octagon"
         ],
@@ -221,10 +502,10 @@
         ]
     },
     {
-        "idx": 41,
-        "inputs": "Q: This SVG path element <path d=\"M 78.01,21.13 L 69.60,22.72 L 77.07,62.39 L 85.49,60.81 L 78.01,21.13\"/> draws a \n  choice: octagon\n  choice: circle\n  choice: trapezoid\n  choice: triangle\n  choice: hexagon\n  choice: heptagon\n  choice: sector\n  choice: line\n  choice: rectangle\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 104,
+        "inputs": "Q: This SVG path element <path d=\"M 41.00,42.00 L 37.00,32.00 L 41.00,30.00 L 45.00,32.00 L 41.00,42.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
-            "rectangle"
+            "kite"
         ],
         "multiple_choice_targets": [
             "circle",
@@ -236,28 +517,26 @@
             "pentagon",
             "rectangle",
             "sector",
-            "triangle",
-            "trapezoid"
+            "triangle"
         ],
         "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
             0,
             0,
             0,
             1,
             0,
             0,
-            1
+            0,
+            0,
+            0,
+            0
         ]
     },
     {
-        "idx": 107,
-        "inputs": "Q: This SVG path element <path d=\"M 54.00,35.00 A 8.00,8.00 0.00 1,0 38.00,35.00 A 8.00,8.00 0.00 1,0 54.00,35.00\"/> draws a \n  choice: line\n  choice: circle\n  choice: sector\n  choice: triangle\n  choice: heptagon\n  choice: ellipse\n  choice: rectangle\n  choice: kite\n  choice: pentagon\n  choice: hexagon\n  choice: octagon\nA:",
+        "idx": 351,
+        "inputs": "Q: This SVG path element <path d=\"M 15.58,68.68 L 0.01,36.09 M 0.01,36.09 L 9.06,81.94 L 15.58,68.68\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
-            "circle"
+            "triangle"
         ],
         "multiple_choice_targets": [
             "circle",
@@ -269,11 +548,9 @@
             "pentagon",
             "rectangle",
             "sector",
-            "triangle",
-            "ellipse"
+            "triangle"
         ],
         "multiple_choice_scores": [
-            1,
             0,
             0,
             0,
@@ -318,227 +595,8 @@
         ]
     },
     {
-        "idx": 123,
-        "inputs": "Q: This SVG path element <path d=\"M 54.15,61.87 L 55.89,48.26 L 65.39,55.82 L 66.47,67.92 L 54.15,61.87\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "kite"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 307,
-        "inputs": "Q: This SVG path element <path d=\"M 41.00,45.00 L 23.18,47.54 A 18.00,18.00 0.00 0,1 58.28,39.97 L 41.00,45.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "sector"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 154,
-        "inputs": "Q: This SVG path element <path d=\"M 79.18,73.28 A 7.24,7.24 320.43 1,0 68.03,82.50 A 7.24,7.24 320.43 1,0 79.18,73.28\"/> draws a \n  choice: line\n  choice: circle\n  choice: sector\n  choice: triangle\n  choice: heptagon\n  choice: ellipse\n  choice: rectangle\n  choice: kite\n  choice: pentagon\n  choice: hexagon\n  choice: octagon\nA:",
-        "targets": [
-            "circle"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle",
-            "ellipse"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 177,
-        "inputs": "Q: This SVG path element <path d=\"M 41.00,39.00 L 34.00,38.00 L 41.00,34.00 L 48.00,38.00 L 41.00,39.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "kite"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 229,
-        "inputs": "Q: This SVG path element <path d=\"M 4.12,72.94 L 38.85,35.38 M 38.85,35.38 L 50.28,77.12 L 30.89,80.59 M 30.89,80.59 L 31.43,90.13 L 22.93,92.01 M 22.93,92.01 L 4.12,72.94\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "hexagon"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 47,
-        "inputs": "Q: This SVG path element <path d=\"M 7.80,73.66 L 43.04,49.62 L 74.38,63.87 M 74.38,63.87 L 37.84,14.76 M 37.84,14.76 L 23.29,44.53 L 33.81,44.10 L 7.80,73.66\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "hexagon"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: This SVG path element <path d=\"M 75.62,54.56 L 90.25,65.20 A 18.09,18.09 338.71 0,1 74.58,72.62 L 75.62,54.56\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "sector"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 349,
-        "inputs": "Q: This SVG path element <path d=\"M 95.20,70.83 L 87.79,78.67 L 75.59,79.89 L 69.02,71.72 L 67.78,63.84 L 72.64,57.51 L 82.81,55.78 L 93.46,60.66 L 95.20,70.83\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
+        "idx": 135,
+        "inputs": "Q: This SVG path element <path d=\"M 37.73,31.58 L 41.81,33.73 M 41.81,33.73 L 49.19,34.44 L 44.69,40.33 M 44.69,40.33 L 43.49,44.78 L 40.07,42.34 M 40.07,42.34 L 32.69,41.63 M 32.69,41.63 L 37.19,35.74 L 37.73,31.58\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
         "targets": [
             "octagon"
         ],
@@ -562,68 +620,6 @@
             0,
             1,
             0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 329,
-        "inputs": "Q: This SVG path element <path d=\"M 55.58,17.52 L 53.95,26.14 L 47.22,29.95 M 47.22,29.95 L 48.21,22.28 L 55.58,17.52\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "kite"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 113,
-        "inputs": "Q: This SVG path element <path d=\"M 76.00,30.00 L 58.00,25.00 L 42.00,26.00 L 41.00,41.00 L 47.00,54.00 L 76.00,30.00\"/> draws a \n  choice: sector\n  choice: heptagon\n  choice: octagon\n  choice: circle\n  choice: rectangle\n  choice: hexagon\n  choice: triangle\n  choice: line\n  choice: kite\n  choice: pentagon\nA:",
-        "targets": [
-            "pentagon"
-        ],
-        "multiple_choice_targets": [
-            "circle",
-            "heptagon",
-            "hexagon",
-            "kite",
-            "line",
-            "octagon",
-            "pentagon",
-            "rectangle",
-            "sector",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
             0,
             0,
             0

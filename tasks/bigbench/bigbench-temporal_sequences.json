@@ -1,9 +1,66 @@
 [
     {
         "idx": 418,
+        "inputs": "Today, Nancy went to the swimming pool. Between what times could they have gone?\nWe know that: \nNancy woke up at 8am.\nElizabeth saw Nancy sitting on a rooftop from 8am to 3pm.\nJohn saw Nancy buying cookies at a bakery from 3pm to 5pm.\nWilliam saw Nancy taking photos near the Eiffel Tower from 5pm to 6pm.\nLinda saw Nancy driving to the water park from 7pm to 10pm.\nThe swimming pool was closed after 10pm.\nBetween what times could Nancy have gone to the swimming pool?\n  choice: 6pm to 7pm\n  choice: 8am to 3pm\n  choice: 3pm to 5pm\n  choice: 7pm to 10pm\nPossible times:",
+        "targets": [
+            "6pm to 7pm"
+        ],
+        "multiple_choice_targets": [
+            "6pm to 7pm",
+            "7pm to 10pm",
+            "8am to 3pm",
+            "3pm to 5pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 461,
         "inputs": "Today, Mark went to the museum. Between what times could they have gone?\nWe know that: \nMark woke up at 5am.\nBetty saw Mark buying lunch at the deli from 2pm to 4pm.\nWilliam saw Mark watching a movie at the theater from 4pm to 9pm.\nKimberly saw Mark buying clothes at the mall from 9pm to 10pm.\nThe museum was closed after 10pm.\nBetween what times could Mark have gone to the museum?\n  choice: 4pm to 9pm\n  choice: 9pm to 10pm\n  choice: 2pm to 4pm\n  choice: 5am to 2pm\nPossible times:",
         "targets": [
+            "5am to 2pm"
+        ],
+        "multiple_choice_targets": [
+            "5am to 2pm",
+            "9pm to 10pm",
+            "4pm to 9pm",
+            "2pm to 4pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 705,
+        "inputs": "Today, William went to the art show. Between what times could they have gone?\nWe know that: \nWilliam woke up at 5am.\nSarah saw William watching a movie at the theater from 8am to 10am.\nJennifer saw William buying a bike at the bike shop from 10am to 1pm.\nJason saw William buying a phone at the electronics store from 1pm to 6pm.\nLinda saw William buying cookies at a bakery from 6pm to 8pm.\nThe art show was closed after 8pm.\nBetween what times could William have gone to the art show?\n  choice: 1pm to 6pm\n  choice: 8am to 10am\n  choice: 10am to 1pm\n  choice: 5am to 8am\nPossible times:",
+        "targets": [
             "5am to 8am"
+        ],
+        "multiple_choice_targets": [
+            "5am to 8am",
+            "10am to 1pm",
+            "8am to 10am",
+            "1pm to 6pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 608,
+        "inputs": "Today, Leslie went to the gas station. Between what times could they have gone?\nWe know that: \nLeslie woke up at 6am.\nEmily saw Leslie buying cookies at a bakery from 6am to 7am.\nLeslie saw Leslie buying clothes at the mall from 8am to 1pm.\nBetty saw Leslie waiting at the train station from 1pm to 3pm.\nSusan saw Leslie taking photos near the Leaning Tower of Pisa from 3pm to 6pm.\nDavid saw Leslie attending class at the school from 6pm to 9pm.\nThe gas station was closed after 9pm.\nBetween what times could Leslie have gone to the gas station?\n  choice: 6am to 7am\n  choice: 7am to 8am\n  choice: 1pm to 3pm\n  choice: 6pm to 9pm\nPossible times:",
+        "targets": [
+            "7am to 8am"
         ],
         "multiple_choice_targets": [
             "7am to 8am",
@@ -19,10 +76,86 @@
         ]
     },
     {
+        "idx": 481,
+        "inputs": "Today, Hannah went to the construction site. Between what times could they have gone?\nWe know that: \nHannah woke up at 5am.\nSarah saw Hannah working out at the gym from 5am to 9am.\nJennifer saw Hannah getting a coffee at the cafe from 9am to 12pm.\nJessica saw Hannah reading at the library from 12pm to 2pm.\nThomas saw Hannah waiting at the train station from 2pm to 4pm.\nThe construction site was closed after 5pm.\nBetween what times could Hannah have gone to the construction site?\n  choice: 4pm to 5pm\n  choice: 9am to 12pm\n  choice: 12pm to 2pm\n  choice: 5am to 9am\nPossible times:",
+        "targets": [
+            "4pm to 5pm"
+        ],
+        "multiple_choice_targets": [
+            "4pm to 5pm",
+            "5am to 9am",
+            "9am to 12pm",
+            "12pm to 2pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "idx": 298,
+        "inputs": "Today, Mary went to the amusement park. Between what times could they have gone?\nWe know that: \nMary woke up at 8am.\nLeslie saw Mary watching a movie at the theater from 8am to 11am.\nMichael saw Mary getting a coffee at the cafe from 11am to 1pm.\nJessica saw Mary taking photos near the Leaning Tower of Pisa from 1pm to 6pm.\nThe amusement park was closed after 9pm.\nBetween what times could Mary have gone to the amusement park?\n  choice: 1pm to 6pm\n  choice: 8am to 11am\n  choice: 11am to 1pm\n  choice: 6pm to 9pm\nPossible times:",
+        "targets": [
+            "6pm to 9pm"
+        ],
+        "multiple_choice_targets": [
+            "6pm to 9pm",
+            "11am to 1pm",
+            "1pm to 6pm",
+            "8am to 11am"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 33,
         "inputs": "Today, Ashley went to the amusement park. Between what times could they have gone?\nWe know that: \nAshley woke up at 7am.\nKimberly saw Ashley driving to the water park from 7am to 8am.\nLisa saw Ashley buying clothes at the mall from 8am to 10am.\nHannah saw Ashley taking photos near the Eiffel Tower from 10am to 3pm.\nJessica saw Ashley walking in the garden from 3pm to 4pm.\nWilliam saw Ashley getting a coffee at the cafe from 4pm to 7pm.\nThe amusement park was closed after 9pm.\nBetween what times could Ashley have gone to the amusement park?\n  choice: 7am to 8am\n  choice: 8am to 10am\n  choice: 4pm to 7pm\n  choice: 7pm to 9pm\nPossible times:",
         "targets": [
+            "7pm to 9pm"
+        ],
+        "multiple_choice_targets": [
+            "7pm to 9pm",
+            "8am to 10am",
+            "7am to 8am",
+            "4pm to 7pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 237,
+        "inputs": "Today, Ashley went to the orchestra hall. Between what times could they have gone?\nWe know that: \nAshley woke up at 5am.\nSusan saw Ashley waiting at the airport from 5am to 6am.\nThomas saw Ashley taking photos near the Leaning Tower of Pisa from 7am to 9am.\nMark saw Ashley watching a movie at the theater from 9am to 1pm.\nSarah saw Ashley walking in the garden from 1pm to 4pm.\nNancy saw Ashley working out at the gym from 4pm to 9pm.\nThe orchestra hall was closed after 9pm.\nBetween what times could Ashley have gone to the orchestra hall?\n  choice: 4pm to 9pm\n  choice: 7am to 9am\n  choice: 1pm to 4pm\n  choice: 6am to 7am\nPossible times:",
+        "targets": [
             "6am to 7am"
+        ],
+        "multiple_choice_targets": [
+            "6am to 7am",
+            "7am to 9am",
+            "1pm to 4pm",
+            "4pm to 9pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 295,
+        "inputs": "Today, Mary went to the construction site. Between what times could they have gone?\nWe know that: \nMary woke up at 9am.\nWilliam saw Mary working out at the gym from 9am to 1pm.\nTiffany saw Mary buying cookies at a bakery from 3pm to 6pm.\nThomas saw Mary taking photos near the Leaning Tower of Pisa from 6pm to 8pm.\nMark saw Mary working at the office from 8pm to 9pm.\nThe construction site was closed after 9pm.\nBetween what times could Mary have gone to the construction site?\n  choice: 6pm to 8pm\n  choice: 9am to 1pm\n  choice: 1pm to 3pm\n  choice: 8pm to 9pm\nPossible times:",
+        "targets": [
+            "1pm to 3pm"
         ],
         "multiple_choice_targets": [
             "1pm to 3pm",
@@ -38,10 +171,86 @@
         ]
     },
     {
+        "idx": 723,
+        "inputs": "Today, Mary went to the gas station. Between what times could they have gone?\nWe know that: \nMary woke up at 9am.\nLeslie saw Mary playing tennis at the tennis court from 9am to 1pm.\nRichard saw Mary buying a phone at the electronics store from 1pm to 4pm.\nSteven saw Mary fixing their computer at the electronic store from 4pm to 5pm.\nMark saw Mary driving to the water park from 5pm to 8pm.\nDavid saw Mary working at the office from 8pm to 9pm.\nThe gas station was closed after 10pm.\nBetween what times could Mary have gone to the gas station?\n  choice: 8pm to 9pm\n  choice: 9pm to 10pm\n  choice: 5pm to 8pm\n  choice: 9am to 1pm\nPossible times:",
+        "targets": [
+            "9pm to 10pm"
+        ],
+        "multiple_choice_targets": [
+            "9pm to 10pm",
+            "5pm to 8pm",
+            "8pm to 9pm",
+            "9am to 1pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "idx": 289,
+        "inputs": "Today, Elizabeth went to the clothing store. Between what times could they have gone?\nWe know that: \nElizabeth woke up at 7am.\nJennifer saw Elizabeth reading at the library from 7am to 9am.\nAndrew saw Elizabeth waiting at the train station from 11am to 12pm.\nDavid saw Elizabeth walking in the garden from 12pm to 4pm.\nThe clothing store was closed after 4pm.\nBetween what times could Elizabeth have gone to the clothing store?\n  choice: 12pm to 4pm\n  choice: 9am to 11am\n  choice: 11am to 12pm\n  choice: 7am to 9am\nPossible times:",
+        "targets": [
+            "9am to 11am"
+        ],
+        "multiple_choice_targets": [
+            "9am to 11am",
+            "7am to 9am",
+            "11am to 12pm",
+            "12pm to 4pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 719,
         "inputs": "Today, James went to the movies. Between what times could they have gone?\nWe know that: \nJames woke up at 6am.\nAnthony saw James stretching at a yoga studio from 6am to 10am.\nLinda saw James working out at the gym from 10am to 11am.\nBetty saw James buying clothes at the mall from 11am to 2pm.\nJason saw James working at the office from 5pm to 10pm.\nThe movies was closed after 10pm.\nBetween what times could James have gone to the movies?\n  choice: 11am to 2pm\n  choice: 5pm to 10pm\n  choice: 10am to 11am\n  choice: 2pm to 5pm\nPossible times:",
         "targets": [
+            "2pm to 5pm"
+        ],
+        "multiple_choice_targets": [
+            "2pm to 5pm",
+            "10am to 11am",
+            "5pm to 10pm",
+            "11am to 2pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 880,
+        "inputs": "Today, David went to the museum. Between what times could they have gone?\nWe know that: \nDavid woke up at 5am.\nJason saw David buying clothes at the mall from 5am to 10am.\nSteven saw David watching a movie at the theater from 10am to 12pm.\nMark saw David sitting on a rooftop from 1pm to 4pm.\nEmily saw David waiting at the train station from 4pm to 6pm.\nJames saw David waiting at the airport from 6pm to 10pm.\nThe museum was closed after 10pm.\nBetween what times could David have gone to the museum?\n  choice: 12pm to 1pm\n  choice: 6pm to 10pm\n  choice: 10am to 12pm\n  choice: 5am to 10am\nPossible times:",
+        "targets": [
             "12pm to 1pm"
+        ],
+        "multiple_choice_targets": [
+            "12pm to 1pm",
+            "6pm to 10pm",
+            "5am to 10am",
+            "10am to 12pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 464,
+        "inputs": "Today, David went to the restaurant. Between what times could they have gone?\nWe know that: \nDavid woke up at 6am.\nMark saw David reading at the library from 6am to 7am.\nLisa saw David watching a movie at the theater from 11am to 6pm.\nDavid saw David waiting at the train station from 6pm to 9pm.\nThe restaurant was closed after 9pm.\nBetween what times could David have gone to the restaurant?\n  choice: 6am to 7am\n  choice: 7am to 11am\n  choice: 11am to 6pm\n  choice: 6pm to 9pm\nPossible times:",
+        "targets": [
+            "7am to 11am"
         ],
         "multiple_choice_targets": [
             "7am to 11am",
@@ -57,10 +266,86 @@
         ]
     },
     {
+        "idx": 72,
+        "inputs": "Today, Ashley went to the art studio. Between what times could they have gone?\nWe know that: \nAshley woke up at 5am.\nMary saw Ashley getting a coffee at the cafe from 5am to 6am.\nWilliam saw Ashley buying a phone at the electronics store from 6am to 4pm.\nJennifer saw Ashley buying a bike at the bike shop from 4pm to 5pm.\nAnthony saw Ashley waiting at the train station from 5pm to 6pm.\nThe art studio was closed after 8pm.\nBetween what times could Ashley have gone to the art studio?\n  choice: 5am to 6am\n  choice: 6pm to 8pm\n  choice: 4pm to 5pm\n  choice: 6am to 4pm\nPossible times:",
+        "targets": [
+            "6pm to 8pm"
+        ],
+        "multiple_choice_targets": [
+            "6pm to 8pm",
+            "4pm to 5pm",
+            "6am to 4pm",
+            "5am to 6am"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "idx": 703,
+        "inputs": "Today, John went to the gas station. Between what times could they have gone?\nWe know that: \nJohn woke up at 12pm.\nAshley saw John working at the office from 12pm to 1pm.\nDavid saw John walking in the garden from 4pm to 5pm.\nRichard saw John driving to the water park from 5pm to 7pm.\nThe gas station was closed after 7pm.\nBetween what times could John have gone to the gas station?\n  choice: 1pm to 4pm\n  choice: 5pm to 7pm\n  choice: 12pm to 1pm\n  choice: 4pm to 5pm\nPossible times:",
+        "targets": [
+            "1pm to 4pm"
+        ],
+        "multiple_choice_targets": [
+            "1pm to 4pm",
+            "4pm to 5pm",
+            "12pm to 1pm",
+            "5pm to 7pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 239,
         "inputs": "Today, John went to the coffee shop. Between what times could they have gone?\nWe know that: \nJohn woke up at 5am.\nDavid saw John sitting on a rooftop from 5am to 8am.\nSean saw John watching a movie at the theater from 8am to 11am.\nTiffany saw John stretching at a yoga studio from 4pm to 5pm.\nMichael saw John buying a phone at the electronics store from 5pm to 7pm.\nThe coffee shop was closed after 7pm.\nBetween what times could John have gone to the coffee shop?\n  choice: 5am to 8am\n  choice: 8am to 11am\n  choice: 11am to 4pm\n  choice: 5pm to 7pm\nPossible times:",
         "targets": [
+            "11am to 4pm"
+        ],
+        "multiple_choice_targets": [
+            "11am to 4pm",
+            "5pm to 7pm",
+            "5am to 8am",
+            "8am to 11am"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 946,
+        "inputs": "Today, William went to the restaurant. Between what times could they have gone?\nWe know that: \nWilliam woke up at 9am.\nTiffany saw William playing tennis at the tennis court from 12pm to 1pm.\nLinda saw William waiting at the airport from 1pm to 3pm.\nHannah saw William buying cookies at a bakery from 3pm to 7pm.\nSarah saw William buying a bike at the bike shop from 7pm to 9pm.\nAndrew saw William watching a movie at the theater from 9pm to 10pm.\nThe restaurant was closed after 10pm.\nBetween what times could William have gone to the restaurant?\n  choice: 3pm to 7pm\n  choice: 9pm to 10pm\n  choice: 12pm to 1pm\n  choice: 9am to 12pm\nPossible times:",
+        "targets": [
             "9am to 12pm"
+        ],
+        "multiple_choice_targets": [
+            "9am to 12pm",
+            "3pm to 7pm",
+            "9pm to 10pm",
+            "12pm to 1pm"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 270,
+        "inputs": "Today, Kimberly went to the park. Between what times could they have gone?\nWe know that: \nKimberly woke up at 9am.\nRichard saw Kimberly stretching at a yoga studio from 9am to 11am.\nSean saw Kimberly watching a movie at the theater from 12pm to 4pm.\nWilliam saw Kimberly playing tennis at the tennis court from 4pm to 9pm.\nThe park was closed after 9pm.\nBetween what times could Kimberly have gone to the park?\n  choice: 12pm to 4pm\n  choice: 9am to 11am\n  choice: 11am to 12pm\n  choice: 4pm to 9pm\nPossible times:",
+        "targets": [
+            "11am to 12pm"
         ],
         "multiple_choice_targets": [
             "11am to 12pm",
@@ -76,301 +361,16 @@
         ]
     },
     {
-        "idx": 810,
-        "inputs": "Today, Susan went to the physics classroom. Between what times could they have gone?\nWe know that: \nSusan woke up at 10am.\nAnthony saw Susan waiting at the train station from 10am to 1pm.\nMark saw Susan taking photos near the Leaning Tower of Pisa from 1pm to 5pm.\nDavid saw Susan reading at the library from 5pm to 6pm.\nMichael saw Susan buying cookies at a bakery from 6pm to 8pm.\nThe physics classroom was closed after 10pm.\nBetween what times could Susan have gone to the physics classroom?\n  choice: 1pm to 5pm\n  choice: 8pm to 10pm\n  choice: 10am to 1pm\n  choice: 5pm to 6pm\nPossible times:",
+        "idx": 806,
+        "inputs": "Today, William went to the basketball court. Between what times could they have gone?\nWe know that: \nWilliam woke up at 6am.\nMichael saw William buying lunch at the deli from 6am to 10am.\nBetty saw William reading at the library from 10am to 2pm.\nLinda saw William stretching at a yoga studio from 2pm to 3pm.\nWilliam saw William working out at the gym from 5pm to 7pm.\nElizabeth saw William attending class at the school from 7pm to 8pm.\nThe basketball court was closed after 8pm.\nBetween what times could William have gone to the basketball court?\n  choice: 3pm to 5pm\n  choice: 7pm to 8pm\n  choice: 10am to 2pm\n  choice: 6am to 10am\nPossible times:",
         "targets": [
-            "6am to 10am"
-        ],
-        "multiple_choice_targets": [
-            "10am to 1pm",
-            "5pm to 7pm",
-            "1pm to 4pm",
-            "9am to 10am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 956,
-        "inputs": "Today, Kimberly went to the construction site. Between what times could they have gone?\nWe know that: \nKimberly woke up at 6am.\nHannah saw Kimberly buying cookies at a bakery from 7am to 8am.\nThomas saw Kimberly fixing their computer at the electronic store from 8am to 10am.\nJohn saw Kimberly buying a phone at the electronics store from 10am to 11am.\nDavid saw Kimberly playing tennis at the tennis court from 11am to 2pm.\nMark saw Kimberly watching a movie at the theater from 2pm to 3pm.\nThe construction site was closed after 3pm.\nBetween what times could Kimberly have gone to the construction site?\n  choice: 11am to 2pm\n  choice: 8am to 10am\n  choice: 10am to 11am\n  choice: 6am to 7am\nPossible times:",
-        "targets": [
-            "11am to 1pm"
-        ],
-        "multiple_choice_targets": [
-            "10am to 1pm",
-            "3pm to 7pm",
-            "7pm to 10pm",
-            "7am to 10am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 230,
-        "inputs": "Today, Andrew went to the gas station. Between what times could they have gone?\nWe know that: \nAndrew woke up at 7am.\nWilliam saw Andrew attending class at the school from 7am to 9am.\nRichard saw Andrew waiting at the train station from 10am to 4pm.\nThomas saw Andrew buying a phone at the electronics store from 4pm to 8pm.\nThe gas station was closed after 8pm.\nBetween what times could Andrew have gone to the gas station?\n  choice: 4pm to 8pm\n  choice: 9am to 10am\n  choice: 10am to 4pm\n  choice: 7am to 9am\nPossible times:",
-        "targets": [
-            "12pm to 1pm"
-        ],
-        "multiple_choice_targets": [
-            "9am to 10am",
-            "2pm to 6pm",
-            "11am to 2pm",
-            "10am to 11am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 846,
-        "inputs": "Today, Andrew went to the park. Between what times could they have gone?\nWe know that: \nAndrew woke up at 5am.\nTiffany saw Andrew reading at the library from 6am to 10am.\nNancy saw Andrew walking in the garden from 10am to 12pm.\nSarah saw Andrew working out at the gym from 12pm to 5pm.\nEmily saw Andrew waiting at the airport from 5pm to 9pm.\nThe park was closed after 9pm.\nBetween what times could Andrew have gone to the park?\n  choice: 5am to 6am\n  choice: 6am to 10am\n  choice: 12pm to 5pm\n  choice: 5pm to 9pm\nPossible times:",
-        "targets": [
-            "6pm to 10pm"
-        ],
-        "multiple_choice_targets": [
-            "12pm to 1pm",
-            "10am to 11am",
-            "1pm to 6pm",
-            "6am to 10am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 811,
-        "inputs": "Today, Sarah went to the amusement park. Between what times could they have gone?\nWe know that: \nSarah woke up at 7am.\nAshley saw Sarah walking in the garden from 7am to 1pm.\nLinda saw Sarah working out at the gym from 1pm to 4pm.\nNancy saw Sarah waiting at the airport from 4pm to 5pm.\nSteven saw Sarah playing tennis at the tennis court from 6pm to 7pm.\nDavid saw Sarah taking photos near the Eiffel Tower from 7pm to 8pm.\nThe amusement park was closed after 8pm.\nBetween what times could Sarah have gone to the amusement park?\n  choice: 5pm to 6pm\n  choice: 7pm to 8pm\n  choice: 4pm to 5pm\n  choice: 6pm to 7pm\nPossible times:",
-        "targets": [
-            "5am to 9am"
-        ],
-        "multiple_choice_targets": [
-            "1pm to 3pm",
-            "8am to 12pm",
-            "12pm to 1pm",
-            "6pm to 9pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 582,
-        "inputs": "Today, James went to the park. Between what times could they have gone?\nWe know that: \nJames woke up at 8am.\nMichael saw James buying clothes at the mall from 9am to 12pm.\nSarah saw James playing tennis at the tennis court from 12pm to 3pm.\nHannah saw James watching a movie at the theater from 3pm to 8pm.\nAnthony saw James buying lunch at the deli from 8pm to 9pm.\nDavid saw James working at the office from 9pm to 10pm.\nThe park was closed after 10pm.\nBetween what times could James have gone to the park?\n  choice: 8am to 9am\n  choice: 9am to 12pm\n  choice: 12pm to 3pm\n  choice: 8pm to 9pm\nPossible times:",
-        "targets": [
-            "1pm to 3pm"
-        ],
-        "multiple_choice_targets": [
-            "11am to 12pm",
-            "2pm to 8pm",
-            "9pm to 10pm",
-            "8pm to 9pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 479,
-        "inputs": "Today, William went to the art show. Between what times could they have gone?\nWe know that: \nWilliam woke up at 5am.\nSarah saw William watching a movie at the theater from 8am to 10am.\nJennifer saw William buying a bike at the bike shop from 10am to 1pm.\nJason saw William buying a phone at the electronics store from 1pm to 6pm.\nLinda saw William buying cookies at a bakery from 6pm to 8pm.\nThe art show was closed after 8pm.\nBetween what times could William have gone to the art show?\n  choice: 1pm to 6pm\n  choice: 8am to 10am\n  choice: 10am to 1pm\n  choice: 5am to 8am\nPossible times:",
-        "targets": [
-            "7am to 8am"
-        ],
-        "multiple_choice_targets": [
-            "2pm to 3pm",
-            "3pm to 6pm",
-            "6pm to 8pm",
-            "7am to 2pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 965,
-        "inputs": "Today, Tiffany went to the soccer field. Between what times could they have gone?\nWe know that: \nTiffany woke up at 5am.\nThomas saw Tiffany fixing their computer at the electronic store from 7am to 10am.\nMary saw Tiffany watching a movie at the theater from 10am to 2pm.\nAndrew saw Tiffany sitting on a rooftop from 2pm to 10pm.\nThe soccer field was closed after 10pm.\nBetween what times could Tiffany have gone to the soccer field?\n  choice: 2pm to 10pm\n  choice: 7am to 10am\n  choice: 10am to 2pm\n  choice: 5am to 7am\nPossible times:",
-        "targets": [
-            "10am to 11am"
-        ],
-        "multiple_choice_targets": [
-            "3pm to 8pm",
-            "12pm to 3pm",
-            "8pm to 10pm",
-            "6am to 12pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 448,
-        "inputs": "Today, Kimberly went to the football field. Between what times could they have gone?\nWe know that: \nKimberly woke up at 6am.\nWilliam saw Kimberly buying a phone at the electronics store from 6am to 8am.\nJason saw Kimberly waiting at the train station from 8am to 9am.\nTiffany saw Kimberly walking towards the Statue of Liberty from 9am to 1pm.\nLinda saw Kimberly stretching at a yoga studio from 3pm to 8pm.\nSean saw Kimberly driving to the water park from 8pm to 9pm.\nThe football field was closed after 9pm.\nBetween what times could Kimberly have gone to the football field?\n  choice: 8am to 9am\n  choice: 9am to 1pm\n  choice: 1pm to 3pm\n  choice: 8pm to 9pm\nPossible times:",
-        "targets": [
-            "10am to 12pm"
-        ],
-        "multiple_choice_targets": [
-            "7am to 1pm",
-            "5pm to 6pm",
-            "2pm to 3pm",
             "3pm to 5pm"
         ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 442,
-        "inputs": "Today, Jason went to the construction site. Between what times could they have gone?\nWe know that: \nJason woke up at 5am.\nSarah saw Jason getting a coffee at the cafe from 5am to 12pm.\nNancy saw Jason fixing their computer at the electronic store from 12pm to 2pm.\nJames saw Jason working out at the gym from 2pm to 5pm.\nThe construction site was closed after 9pm.\nBetween what times could Jason have gone to the construction site?\n  choice: 2pm to 5pm\n  choice: 5pm to 9pm\n  choice: 12pm to 2pm\n  choice: 5am to 12pm\nPossible times:",
-        "targets": [
-            "6pm to 8pm"
-        ],
         "multiple_choice_targets": [
-            "12pm to 2pm",
-            "7pm to 10pm",
-            "5am to 12pm",
-            "2pm to 7pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 26,
-        "inputs": "Today, Nancy went to the bookstore. Between what times could they have gone?\nWe know that: \nNancy woke up at 8am.\nJennifer saw Nancy buying cookies at a bakery from 8am to 9am.\nWilliam saw Nancy taking photos near the Eiffel Tower from 9am to 12pm.\nMary saw Nancy playing tennis at the tennis court from 12pm to 2pm.\nThe bookstore was closed after 9pm.\nBetween what times could Nancy have gone to the bookstore?\n  choice: 2pm to 9pm\n  choice: 9am to 12pm\n  choice: 12pm to 2pm\n  choice: 8am to 9am\nPossible times:",
-        "targets": [
-            "7pm to 10pm"
-        ],
-        "multiple_choice_targets": [
-            "6pm to 8pm",
-            "10am to 2pm",
-            "4pm to 6pm",
-            "5am to 10am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 856,
-        "inputs": "Today, William went to the amusement park. Between what times could they have gone?\nWe know that: \nWilliam woke up at 5am.\nAnthony saw William stretching at a yoga studio from 5am to 6am.\nTiffany saw William watching a movie at the theater from 6am to 11am.\nLinda saw William working out at the gym from 11am to 12pm.\nRichard saw William buying lunch at the deli from 6pm to 8pm.\nJames saw William taking photos near the Eiffel Tower from 8pm to 10pm.\nThe amusement park was closed after 10pm.\nBetween what times could William have gone to the amusement park?\n  choice: 5am to 6am\n  choice: 8pm to 10pm\n  choice: 12pm to 6pm\n  choice: 6pm to 8pm\nPossible times:",
-        "targets": [
-            "7pm to 9pm"
-        ],
-        "multiple_choice_targets": [
-            "9am to 12pm",
-            "12pm to 3pm",
-            "6am to 9am",
-            "3pm to 7pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 21,
-        "inputs": "Today, Andrew went to the restaurant. Between what times could they have gone?\nWe know that: \nAndrew woke up at 6am.\nElizabeth saw Andrew taking photos near the Eiffel Tower from 6am to 8am.\nJohn saw Andrew taking photos near the Leaning Tower of Pisa from 10am to 1pm.\nDavid saw Andrew driving to the water park from 1pm to 3pm.\nWilliam saw Andrew walking towards the Statue of Liberty from 3pm to 4pm.\nMary saw Andrew stretching at a yoga studio from 4pm to 5pm.\nThe restaurant was closed after 5pm.\nBetween what times could Andrew have gone to the restaurant?\n  choice: 1pm to 3pm\n  choice: 8am to 10am\n  choice: 10am to 1pm\n  choice: 3pm to 4pm\nPossible times:",
-        "targets": [
-            "9pm to 10pm"
-        ],
-        "multiple_choice_targets": [
-            "11am to 3pm",
-            "10am to 11am",
-            "3pm to 7pm",
-            "8am to 10am"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 590,
-        "inputs": "Today, Betty went to the bookstore. Between what times could they have gone?\nWe know that: \nBetty woke up at 6am.\nAshley saw Betty stretching at a yoga studio from 6am to 7am.\nAnthony saw Betty buying cookies at a bakery from 8am to 5pm.\nThomas saw Betty waiting at the train station from 5pm to 8pm.\nThe bookstore was closed after 8pm.\nBetween what times could Betty have gone to the bookstore?\n  choice: 6am to 7am\n  choice: 8am to 5pm\n  choice: 5pm to 8pm\n  choice: 7am to 8am\nPossible times:",
-        "targets": [
-            "9am to 10am"
-        ],
-        "multiple_choice_targets": [
-            "4pm to 10pm",
-            "8am to 10am",
-            "7am to 8am",
-            "2pm to 4pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 481,
-        "inputs": "Today, Kimberly went to the construction site. Between what times could they have gone?\nWe know that: \nKimberly woke up at 8am.\nRichard saw Kimberly taking photos near the Eiffel Tower from 8am to 9am.\nSarah saw Kimberly watching a movie at the theater from 9am to 12pm.\nTiffany saw Kimberly reading at the library from 1pm to 5pm.\nThe construction site was closed after 5pm.\nBetween what times could Kimberly have gone to the construction site?\n  choice: 1pm to 5pm\n  choice: 9am to 12pm\n  choice: 12pm to 1pm\n  choice: 8am to 9am\nPossible times:",
-        "targets": [
-            "9pm to 10pm"
-        ],
-        "multiple_choice_targets": [
-            "3pm to 6pm",
-            "6pm to 7pm",
-            "11am to 3pm",
-            "7pm to 10pm"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 284,
-        "inputs": "Today, Andrew went to the art show. Between what times could they have gone?\nWe know that: \nAndrew woke up at 6am.\nKimberly saw Andrew waiting at the airport from 10am to 12pm.\nAnthony saw Andrew attending class at the school from 12pm to 7pm.\nJohn saw Andrew working out at the gym from 7pm to 8pm.\nThe art show was closed after 8pm.\nBetween what times could Andrew have gone to the art show?\n  choice: 12pm to 7pm\n  choice: 7pm to 8pm\n  choice: 10am to 12pm\n  choice: 6am to 10am\nPossible times:",
-        "targets": [
-            "6am to 11am"
-        ],
-        "multiple_choice_targets": [
-            "5am to 1pm",
-            "5pm to 7pm",
-            "2pm to 3pm",
-            "1pm to 2pm"
+            "3pm to 5pm",
+            "7pm to 8pm",
+            "6am to 10am",
+            "10am to 2pm"
         ],
         "multiple_choice_scores": [
             1,

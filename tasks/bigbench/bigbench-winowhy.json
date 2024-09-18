@@ -1,6 +1,21 @@
 [
     {
         "idx": 2583,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe woman held the girl against her chest The 'her' refers to the woman because he girl against her will because the woman.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 947,
         "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe cat was lying by the mouse hole waiting for the mouse, but it was too impatient. The 'it' refers to the cat because it can be heard saying \"I can't wait for it to die.\nThe above reasoning is",
         "targets": [
             "incorrect"
@@ -15,10 +30,115 @@
         ]
     },
     {
-        "idx": 895,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink. The 'it' refers to the coffee because i Couldn't find a spoon, so I tried using a pen to stir my coffee.\nThe above reasoning is",
+        "idx": 278,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe sculpture rolled off the shelf because it wasn't level. The 'it' refers to the shelf because The shelf is referred to as the pronoun here a word that can function by itself as a noun phrase and that refers either to the participants in the discourse.\nThe above reasoning is",
         "targets": [
             "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 618,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe drain is clogged with hair. It has to be cleaned. The 'It' refers to the drain because Removing a whole drain would be an extreme procedure- it would be more logical to remove the hair.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 37,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too small. The 'it' refers to the suitcase because it's a part of it.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 895,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAdam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be here by this time. The 'he' refers to bob because Adam is waiting to be replaced: therefore Bob was the one not leaving for work on time.\nThe above reasoning is",
+        "targets": [
+            "correct"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2071,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink. The 'it' refers to the coffee because i Couldn't find a spoon, so I tried using a pen to stir my coffee.\nThe above reasoning is",
+        "targets": [
+            "correct"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1867,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nArchaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks. The 'They' refers to archaeologists because the red should refer to the humans.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1528,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nMary tucked her daughter Anne into bed, so that she could work. The 'she' refers to mary because so that she could work.Mary tucked her daughter Anne into bed,.\nThe above reasoning is",
+        "targets": [
+            "correct"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 247,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAlthough they ran at about the same speed, Sue beat Sally because she had such a good start. The 'she' refers to sue because Sue won. The reason Sue won is because she had a good start.\nThe above reasoning is",
+        "targets": [
+            "correct"
         ],
         "multiple_choice_targets": [
             "correct",
@@ -31,9 +151,69 @@
     },
     {
         "idx": 2530,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAs Ollie carried Tommy up the long winding steps, his legs ached. The 'his' refers to ollie because he was named after a character in the show.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2612,
         "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nPam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it. The 'They' refers to pam and paul because pam's parents were not enjoying the sex.\nThe above reasoning is",
         "targets": [
             "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2731,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nJames asked Robert for a favor but he refused. The 'he' refers to robert because the man's name is Robert.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2525,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAs Ollie carried Tommy up the long winding steps, his legs ached. The 'his' refers to ollie because Tommy is being carried, so his legs most likely would not be aching.\nThe above reasoning is",
+        "targets": [
+            "correct"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1979,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nWhen the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority. The 'They' refers to the sponsors because there were lots of opponents.\nThe above reasoning is",
+        "targets": [
+            "correct"
         ],
         "multiple_choice_targets": [
             "correct",
@@ -46,6 +226,21 @@
     },
     {
         "idx": 2700,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nI tried to paint a picture of an orchard, with lemons in the lemon trees,  but they came out looking more like light bulbs. The 'they' refers to lemons because the 'they' and the 'they', i.e.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1998,
         "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nEveryone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make more of them . The 'them' refers to the oatmeal cookies because oatmeal cookies was the favored one by most of them.\nThe above reasoning is",
         "targets": [
             "correct"
@@ -55,240 +250,15 @@
             "incorrect"
         ],
         "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2259,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nFred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped. The 'them' refers to his eyes because they are the most visible part of the human body and the only part which can be seen through the.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
             1,
             0
-        ]
-    },
-    {
-        "idx": 1125,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nSam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research. The 'he' refers to goodman because he was actually the Spartan general Xenophanes was writing about.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2858,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nKirilov ceded the presidency to Shatov because he was more popular. The 'he' refers to shatov because The one less popular is likely to cede.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 394,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nJohn hired Bill to take care of him . The 'him' refers to john because Bill is the closest thing that has been established to whom John actually is, and it was Bill who.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2538,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nJohn hired himself out to Bill to take care of him . The 'him' refers to bill because Hired himself to bill.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1625,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAnna did a lot worse than her good friend Lucy on the test because she had studied so hard. The 'she' refers to lucy because she had studied for her test as well.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2314,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nAlice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely. The 'she' refers to alice because Her daughter barking would be considered as strange.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2801,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe firemen arrived after the police because they were coming from so far away. The 'they' refers to the firemen because they were called out from a distance of 500-700 metres.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 382,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very bold. The 'They' refers to the foxes because the foxes are the aggressors, so the sentence is referring to the foxes as getting bold.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1949,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nTom threw his schoolbag down to Ray after he reached the top of the stairs. The 'he' refers to tom because of the way the two share their names, but it is not certain.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 338,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nI stuck a pin through a carrot. When I pulled the pin out, it had a hole. The 'it' refers to the carrot because The carrot was being stuck by the pin; therefore it would have the hole.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2317,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe sack of potatoes had been placed above the bag of flour, so it had to be moved first. The 'it' refers to the sack of potatoes because Its on top.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 865,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nMadonna fired her trainer because she couldn't stand her boyfriend. The 'her' refers to the trainer because Madonna fired her trainer she slept with her boyfriend.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 190,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nSam's drawing was hung just above Tina's and it did look much better with another one above it. The 'it' refers to tina's drawing because it was the first one she ever drew.\nThe above reasoning is",
-        "targets": [
-            "correct"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2308,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nJane gave Joan candy because she was hungry. The 'she' refers to joan because MORE LIKELY TO REFER TO JANE.\nThe above reasoning is",
-        "targets": [
-            "incorrect"
-        ],
-        "multiple_choice_targets": [
-            "correct",
-            "incorrect"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
         ]
     },
     {
         "idx": 64,
-        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt. The 'He' refers to bob because He is very ungrateful Bob paid for Charlie's college education, but now Charlie acts as though it never happened.\nThe above reasoning is",
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nPaul tried to call George on the phone, but he wasn't successful. The 'he' refers to paul because Paul is referred to as the pronoun here a word that can function by itself as a noun phrase and that refers either to the participants in the discourse.\nThe above reasoning is",
         "targets": [
-            "incorrect"
+            "correct"
         ],
         "multiple_choice_targets": [
             "correct",
@@ -297,6 +267,36 @@
         "multiple_choice_scores": [
             1,
             0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too large. The 'it' refers to the trophy because it's more likely for the brown suitcase to be to small in order to fit the trophy inside. IF it was the trophy it wouldn't make sense.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2179,
+        "inputs": "Please answer the following questions about which words certain pronouns refer to.\n\nJohn ordered Bill to leave, so an hour later he left. The 'he' refers to bill because his father is Bill's grandfather (who has not yet been named), as well as Bill's mom.\nThe above reasoning is",
+        "targets": [
+            "incorrect"
+        ],
+        "multiple_choice_targets": [
+            "correct",
+            "incorrect"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
         ]
     }
 ]

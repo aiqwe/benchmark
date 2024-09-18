@@ -1,382 +1,182 @@
 [
     {
-        "idx": 1,
-        "inputs": "Q: 4 + 9 = option: 3 option: 6 option: 13 option: 4\nA:",
+        "idx": 18,
+        "inputs": "Q: 9 + 74 =",
         "targets": [
-            "7"
+            "83"
         ],
-        "multiple_choice_targets": [
-            "5",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 1,
-        "inputs": "Q: 6 + 4 = option: 3 option: 6 option: 10 option: 4\nA:",
+        "idx": 8,
+        "inputs": "Q: 0 + 4 =",
         "targets": [
-            "10"
+            "4"
         ],
-        "multiple_choice_targets": [
-            "5",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 6,
-        "inputs": "Q: 6 + 4 = option: 3 option: 6 option: 10 option: 4\nA:",
+        "idx": 25,
+        "inputs": "Q: 516 + 962 =",
         "targets": [
-            "9"
+            "1478"
         ],
-        "multiple_choice_targets": [
-            "11",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 2,
-        "inputs": "Q: 5 + 2 = option: 4 option: 7 option: 3 option: 6\nA:",
+        "idx": 27,
+        "inputs": "Q: 389 + 442 =",
         "targets": [
-            "11"
+            "831"
         ],
-        "multiple_choice_targets": [
-            "11",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 3,
-        "inputs": "Q: 5 + 6 = option: 3 option: 6 option: 11 option: 4\nA:",
+        "idx": 0,
+        "inputs": "Q: 1 + 4 =",
         "targets": [
-            "13"
+            "5"
         ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 1,
-        "inputs": "Q: 5 + 6 = option: 3 option: 6 option: 11 option: 4\nA:",
+        "idx": 24,
+        "inputs": "Q: 635 + 613 =",
         "targets": [
-            "11"
+            "1248"
         ],
-        "multiple_choice_targets": [
-            "11",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 7,
-        "inputs": "Q: 4 + 9 = option: 3 option: 6 option: 13 option: 4\nA:",
+        "idx": 25,
+        "inputs": "Q: 516 + 962 =",
         "targets": [
-            "7"
+            "1478"
         ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
         "idx": 5,
-        "inputs": "Q: 6 + 4 = option: 3 option: 6 option: 10 option: 4\nA:",
+        "inputs": "Q: 5 + 6 =",
         "targets": [
-            "13"
+            "11"
         ],
-        "multiple_choice_targets": [
-            "5",
-            "4",
-            "6",
-            "3"
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 22,
+        "inputs": "Q: 13 + 476 =",
+        "targets": [
+            "489"
         ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 13,
+        "inputs": "Q: 31 + 46 =",
+        "targets": [
+            "77"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: 47 + 8 =",
+        "targets": [
+            "55"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8,
+        "inputs": "Q: 0 + 4 =",
+        "targets": [
+            "4"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
         "idx": 4,
-        "inputs": "Q: 4 + 9 = option: 3 option: 6 option: 13 option: 4\nA:",
-        "targets": [
-            "10"
-        ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 4,
-        "inputs": "Q: 8 + 1 = option: 4 option: 9 option: 3 option: 6\nA:",
+        "inputs": "Q: 8 + 3 =",
         "targets": [
             "11"
         ],
-        "multiple_choice_targets": [
-            "5",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 5,
-        "inputs": "Q: 6 + 4 = option: 3 option: 6 option: 10 option: 4\nA:",
-        "targets": [
-            "11"
-        ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 3,
-        "inputs": "Q: 5 + 0 = option: 4 option: 6 option: 3 option: 5\nA:",
-        "targets": [
-            "9"
-        ],
-        "multiple_choice_targets": [
-            "7",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 3,
-        "inputs": "Q: 5 + 6 = option: 3 option: 6 option: 11 option: 4\nA:",
-        "targets": [
-            "5"
-        ],
-        "multiple_choice_targets": [
-            "10",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 5,
-        "inputs": "Q: 5 + 2 = option: 4 option: 7 option: 3 option: 6\nA:",
-        "targets": [
-            "11"
-        ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 5,
-        "inputs": "Q: 6 + 4 = option: 3 option: 6 option: 10 option: 4\nA:",
-        "targets": [
-            "9"
-        ],
-        "multiple_choice_targets": [
-            "7",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 2,
-        "inputs": "Q: 8 + 3 = option: 3 option: 6 option: 11 option: 4\nA:",
-        "targets": [
-            "5"
-        ],
-        "multiple_choice_targets": [
-            "10",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
         "idx": 6,
-        "inputs": "Q: 5 + 2 = option: 4 option: 7 option: 3 option: 6\nA:",
+        "inputs": "Q: 5 + 2 =",
         "targets": [
-            "11"
+            "7"
         ],
-        "multiple_choice_targets": [
-            "10",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
-        "idx": 7,
-        "inputs": "Q: 4 + 9 = option: 3 option: 6 option: 13 option: 4\nA:",
+        "idx": 24,
+        "inputs": "Q: 635 + 613 =",
         "targets": [
-            "5"
+            "1248"
         ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "Q: 47 + 8 =",
+        "targets": [
+            "55"
         ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: 6 + 4 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     },
     {
         "idx": 2,
-        "inputs": "Q: 5 + 2 = option: 4 option: 7 option: 3 option: 6\nA:",
-        "targets": [
-            "13"
-        ],
-        "multiple_choice_targets": [
-            "7",
-            "4",
-            "6",
-            "3"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 7,
-        "inputs": "Q: 8 + 3 = option: 3 option: 6 option: 11 option: 4\nA:",
+        "inputs": "Q: 5 + 0 =",
         "targets": [
             "5"
         ],
-        "multiple_choice_targets": [
-            "13",
-            "4",
-            "6",
-            "3"
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Q: 30 + 58 =",
+        "targets": [
+            "88"
         ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "Q: 6 + 4 =",
+        "targets": [
+            "10"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
     }
 ]

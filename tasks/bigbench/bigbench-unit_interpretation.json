@@ -1,30 +1,30 @@
 [
     {
         "idx": 0,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A newsstand sells 5 newspapers every 2 weeks. It will sell () newspapers in 60 weeks.\n  choice: 120\n  choice: 300\n  choice: 150\n  choice: 12\n  choice: 24\nA:",
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 2 men and 4 hours to cut down 5 trees. It will take () men and 4 hours to cut down 20 trees.\n  choice: 2\n  choice: 8\n  choice: 32\n  choice: 16\n  choice: 4\nA:",
         "targets": [
-            "144 times"
+            "8"
         ],
         "multiple_choice_targets": [
-            "640",
-            "1024",
-            "3200",
-            "12800",
-            "40"
+            "4",
+            "16",
+            "8",
+            "32",
+            "2"
         ],
         "multiple_choice_scores": [
             0,
-            1,
             0,
+            1,
             0,
             0
         ]
     },
     {
-        "idx": 14,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A plane is flying at 4 kilometers per hour, and is 8 hours from destination. It is () kilometers from destination.\n  choice: 2\n  choice: 8\n  choice: 32\n  choice: 16\n  choice: 4\nA:",
+        "idx": 10,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A newsstand sells 5 newspapers every 2 weeks. It will sell () newspapers in 60 weeks.\n  choice: 120\n  choice: 300\n  choice: 150\n  choice: 12\n  choice: 24\nA:",
         "targets": [
-            "162"
+            "150"
         ],
         "multiple_choice_targets": [
             "12",
@@ -36,6 +36,174 @@
         "multiple_choice_scores": [
             0,
             0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 0,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 36 seconds multiplied by 4 times per second is ().\n  choice: 144 times\n  choice: 9 times\n  choice: 144 times per second\n  choice: 144 seconds\n  choice: 9 seconds\nA:",
+        "targets": [
+            "144 times"
+        ],
+        "multiple_choice_targets": [
+            "9 times",
+            "144 times",
+            "144 times per second",
+            "9 seconds",
+            "144 seconds"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 5 protons and 20 neutrons to make 200 nuclei. It will take 16 protons and 64 neutrons to make () nuclei.\n  choice: 12800\n  choice: 640\n  choice: 3200\n  choice: 1024\n  choice: 40\nA:",
+        "targets": [
+            "640"
+        ],
+        "multiple_choice_targets": [
+            "640",
+            "1024",
+            "3200",
+            "12800",
+            "40"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 48 days times 6 eggs per day is ().\n  choice: 288 eggs\n  choice: 8 eggs\n  choice: 288 eggs per hen\n  choice: 288 days per egg\n  choice: 8 days\nA:",
+        "targets": [
+            "288 eggs"
+        ],
+        "multiple_choice_targets": [
+            "288 eggs per hen",
+            "288 eggs",
+            "8 days",
+            "8 eggs",
+            "288 days per egg"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 20 dollars to hire 3 programmers for 2 days. It will take 480 dollars to hire () programmers for 12 days\n  choice: 144\n  choice: 72\n  choice: 24\n  choice: 12\n  choice: 48\nA:",
+        "targets": [
+            "12"
+        ],
+        "multiple_choice_targets": [
+            "72",
+            "144",
+            "12",
+            "24",
+            "48"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A plane is flying at 4 kilometers per hour, and is 8 hours from destination. It is () kilometers from destination.\n  choice: 2\n  choice: 8\n  choice: 32\n  choice: 16\n  choice: 4\nA:",
+        "targets": [
+            "32"
+        ],
+        "multiple_choice_targets": [
+            "16",
+            "8",
+            "4",
+            "2",
+            "32"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A heart beats 8 times every 18 seconds. If it beats four times as often, it will beat 288 times in () seconds.\n  choice: 162\n  choice: 648\n  choice: 32\n  choice: 128\n  choice: 512\nA:",
+        "targets": [
+            "162"
+        ],
+        "multiple_choice_targets": [
+            "32",
+            "128",
+            "512",
+            "162",
+            "648"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 10,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A newsstand sells 5 newspapers every 2 weeks. It will sell () newspapers in 60 weeks.\n  choice: 120\n  choice: 300\n  choice: 150\n  choice: 12\n  choice: 24\nA:",
+        "targets": [
+            "150"
+        ],
+        "multiple_choice_targets": [
+            "12",
+            "24",
+            "120",
+            "300",
+            "150"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 27 eggs divided by 9 eggs per hen per day is ().\n  choice: 243 hen-days\n  choice: 3 hen-days\n  choice: 3 days\n  choice: 243 eggs\n  choice: 3 eggs\nA:",
+        "targets": [
+            "3 hen-days"
+        ],
+        "multiple_choice_targets": [
+            "3 eggs",
+            "3 days",
+            "3 hen-days",
+            "243 hen-days",
+            "243 eggs"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
             1,
             0,
             0
@@ -43,9 +211,72 @@
     },
     {
         "idx": 2,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A bell rings 12 times every 3 hours. If it rings twice as often, it will ring () times in 36 hours.\n  choice: 18\n  choice: 9\n  choice: 288\n  choice: 144\n  choice: 72\nA:",
+        "targets": [
+            "288"
+        ],
+        "multiple_choice_targets": [
+            "9",
+            "18",
+            "72",
+            "144",
+            "288"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 22,
         "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 5 protons and 20 neutrons to make 200 nuclei. It will take 16 protons and 64 neutrons to make () nuclei.\n  choice: 12800\n  choice: 640\n  choice: 3200\n  choice: 1024\n  choice: 40\nA:",
         "targets": [
+            "640"
+        ],
+        "multiple_choice_targets": [
+            "640",
+            "1024",
+            "3200",
+            "12800",
+            "40"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A heart beats 8 times every 18 seconds. If it beats four times as often, it will beat 288 times in () seconds.\n  choice: 162\n  choice: 648\n  choice: 32\n  choice: 128\n  choice: 512\nA:",
+        "targets": [
             "162"
+        ],
+        "multiple_choice_targets": [
+            "32",
+            "128",
+            "512",
+            "162",
+            "648"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 6 trees divided by 2 man-days is ().\n  choice: 12 trees per man per day\n  choice: 3 trees per man per day\n  choice: 3 trees\n  choice: 12 man-days\n  choice: 3 trees per day\nA:",
+        "targets": [
+            "3 trees per man per day"
         ],
         "multiple_choice_targets": [
             "3 trees",
@@ -56,6 +287,27 @@
         ],
         "multiple_choice_scores": [
             0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 11,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 24 miles per gallon multiplied by 3 gallons is ().\n  choice: 72 miles\n  choice: 8 miles\n  choice: 72 miles per gallon\n  choice: 72 gallons per mile\n  choice: 8 gallons\nA:",
+        "targets": [
+            "72 miles"
+        ],
+        "multiple_choice_targets": [
+            "72 miles per gallon",
+            "72 miles",
+            "8 gallons",
+            "8 miles",
+            "72 gallons per mile"
+        ],
+        "multiple_choice_scores": [
+            0,
             1,
             0,
             0,
@@ -64,219 +316,9 @@
     },
     {
         "idx": 23,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 36 trees per man per day times 3 men is ().\n  choice: 108 trees\n  choice: 12 trees per man per day\n  choice: 108 trees per day\n  choice: 108 men\n  choice: 12 trees per day\nA:",
-        "targets": [
-            "192"
-        ],
-        "multiple_choice_targets": [
-            "6",
-            "14",
-            "90",
-            "504",
-            "36"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 27 meters per second times 9 seconds is ().\n  choice: 243 seconds\n  choice: 3 seconds\n  choice: 243 seconds per meter\n  choice: 243 meters\n  choice: 3 meters\nA:",
-        "targets": [
-            "60"
-        ],
-        "multiple_choice_targets": [
-            "2",
-            "4",
-            "20",
-            "40",
-            "80"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 15,
         "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A reporter speaks 4 words every 32 minutes. They will speak 224 words in () minutes.\n  choice: 1792\n  choice: 896\n  choice: 28\n  choice: 128\n  choice: 56\nA:",
         "targets": [
-            "4 pills per day"
-        ],
-        "multiple_choice_targets": [
-            "4",
-            "8",
-            "12",
-            "24",
-            "72"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 5,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 2 cookers and 2 minutes to cook 2 pies. It will take 8 cookers and () minutes to cook 16 pies.\n  choice: 2\n  choice: 8\n  choice: 32\n  choice: 16\n  choice: 4\nA:",
-        "targets": [
-            "30"
-        ],
-        "multiple_choice_targets": [
-            "3",
-            "4",
-            "12",
-            "18",
-            "36"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 32 feet divided by 4 days is ().\n  choice: 128 feet per day\n  choice: 8 feet per day\n  choice: 8 days per foot\n  choice: 128 days\n  choice: 8 feet\nA:",
-        "targets": [
-            "243 meters"
-        ],
-        "multiple_choice_targets": [
-            "1200",
-            "40",
-            "240",
-            "3200",
-            "3840"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 23,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A newsstand sells 24 newspapers every 5 weeks. If it sells newspapers with intervals twice as long, it will sell () newspapers in 120 weeks.\n  choice: 25\n  choice: 576\n  choice: 288\n  choice: 1152\n  choice: 50\nA:",
-        "targets": [
-            "4 pills per day"
-        ],
-        "multiple_choice_targets": [
-            "100",
-            "20",
-            "4",
-            "25",
-            "50"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 23,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A newsstand sells 5 newspapers every 2 weeks. It will sell () newspapers in 60 weeks.\n  choice: 120\n  choice: 300\n  choice: 150\n  choice: 12\n  choice: 24\nA:",
-        "targets": [
-            "40"
-        ],
-        "multiple_choice_targets": [
-            "3",
-            "12",
-            "48",
-            "72",
-            "144"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 20,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A reporter speaks 27 words every 2 minutes. They will speak 216 words in () minutes.\n  choice: 2916\n  choice: 8\n  choice: 4\n  choice: 16\n  choice: 432\nA:",
-        "targets": [
-            "192"
-        ],
-        "multiple_choice_targets": [
-            "16",
-            "20",
-            "25",
-            "80",
-            "100"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 9,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 20 dollars to hire 3 programmers for 2 days. It will take 480 dollars to hire () programmers for 12 days\n  choice: 144\n  choice: 72\n  choice: 24\n  choice: 12\n  choice: 48\nA:",
-        "targets": [
-            "50"
-        ],
-        "multiple_choice_targets": [
-            "72",
-            "120",
-            "20",
-            "16",
-            "720"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 6 cookers and 4 minutes to cook 3 pies. It will take () cookers and 2 minutes to cook 36 pies.\n  choice: 144\n  choice: 72\n  choice: 3\n  choice: 12\n  choice: 48\nA:",
-        "targets": [
-            "24 days"
-        ],
-        "multiple_choice_targets": [
-            "4",
-            "8",
-            "32",
-            "66",
-            "128"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 6,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 48 days times 6 eggs per day is ().\n  choice: 288 eggs\n  choice: 8 eggs\n  choice: 288 eggs per hen\n  choice: 288 days per egg\n  choice: 8 days\nA:",
-        "targets": [
-            "3"
+            "1792"
         ],
         "multiple_choice_targets": [
             "128",
@@ -286,137 +328,95 @@
             "28"
         ],
         "multiple_choice_scores": [
-            1,
             0,
+            1,
             0,
             0,
             0
         ]
     },
     {
-        "idx": 6,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 3 dollars to hire 15 programmers for 4 days. It will take 180 dollars to hire 3 programmers for () days\n  choice: 15\n  choice: 900\n  choice: 240\n  choice: 1200\n  choice: 60\nA:",
+        "idx": 12,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: 36 trees per man per day times 3 men is ().\n  choice: 108 trees\n  choice: 12 trees per man per day\n  choice: 108 trees per day\n  choice: 108 men\n  choice: 12 trees per day\nA:",
         "targets": [
-            "3"
+            "108 trees per day"
+        ],
+        "multiple_choice_targets": [
+            "108 trees",
+            "108 trees per day",
+            "12 trees per day",
+            "12 trees per man per day",
+            "108 men"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A reporter speaks 48 words every minute. They will speak () words in 4 minutes.\n  choice: 128\n  choice: 48\n  choice: 192\n  choice: 12\n  choice: 240\nA:",
+        "targets": [
+            "192"
+        ],
+        "multiple_choice_targets": [
+            "12",
+            "48",
+            "128",
+            "192",
+            "240"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 19,
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A heart beats one time every 6 seconds. It will beat () times in 84 seconds.\n  choice: 36\n  choice: 90\n  choice: 504\n  choice: 14\n  choice: 6\nA:",
+        "targets": [
+            "14"
         ],
         "multiple_choice_targets": [
             "6",
-            "2",
-            "18",
-            "648",
-            "1944"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 16,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 27 protons and 6 neutrons to make 54 nuclei. It will take () protons and 54 neutrons to make 486 nuclei.\n  choice: 243\n  choice: 9\n  choice: 27\n  choice: 12\n  choice: 54\nA:",
-        "targets": [
-            "270"
-        ],
-        "multiple_choice_targets": [
-            "12 pounds",
-            "12 dollars",
-            "12 pounds per dollar",
-            "3 dollars",
-            "3 pounds"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 4,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A heart beats 2 times every second. It will beat 88 times in () seconds.\n  choice: 4\n  choice: 90\n  choice: 44\n  choice: 176\n  choice: 88\nA:",
-        "targets": [
-            "45"
-        ],
-        "multiple_choice_targets": [
-            "32",
-            "96",
-            "200",
-            "600",
-            "1800"
+            "14",
+            "90",
+            "504",
+            "36"
         ],
         "multiple_choice_scores": [
             0,
-            0,
-            0,
             1,
+            0,
+            0,
             0
         ]
     },
     {
         "idx": 2,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A bamboo grows at 6 feet per day, and it grows 30 feet to reach the height of maturity. It grows () days to reach the height of maturity.\n  choice: 30\n  choice: 6\n  choice: 5\n  choice: 180\n  choice: 50\nA:",
+        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: It takes 3 men and 3 hours to cut down 9 trees. It will take 2 men and 4 hours to cut down () trees.\n  choice: 18\n  choice: 8\n  choice: 3\n  choice: 12\n  choice: 6\nA:",
         "targets": [
-            "16"
-        ],
-        "multiple_choice_targets": [
-            "4",
-            "90",
-            "44",
-            "88",
-            "176"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A car is consuming fuel at 5 gallons per mile, and has 40 gallons left to run. It has () miles left to run.\n  choice: 40\n  choice: 88\n  choice: 5\n  choice: 200\n  choice: 8\nA:",
-        "targets": [
-            "4"
-        ],
-        "multiple_choice_targets": [
-            "72",
-            "120",
-            "20",
-            "16",
-            "720"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 18,
-        "inputs": "Please select the option that best replaces '()' in each text input given the chocies presented.\n\nQ: A patient takes a pill every 3 days. If they takes pills twice as often, They will take () pills in 30 days.\n  choice: 180\n  choice: 90\n  choice: 20\n  choice: 10\n  choice: 5\nA:",
-        "targets": [
-            "360 pies per cooker"
-        ],
-        "multiple_choice_targets": [
-            "12",
-            "48",
-            "108",
-            "432",
             "8"
         ],
+        "multiple_choice_targets": [
+            "8",
+            "6",
+            "12",
+            "18",
+            "3"
+        ],
         "multiple_choice_scores": [
+            1,
             0,
             0,
             0,
-            0,
-            1
+            0
         ]
     }
 ]

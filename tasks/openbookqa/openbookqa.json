@@ -1,13 +1,13 @@
 [
     {
-        "id": "12-444",
-        "question_stem": "A bee may be vital for",
+        "id": "13-366",
+        "question_stem": "DNA is a vehicle for passing inherited characteristics from parent to what?",
         "choices": {
             "text": [
-                "penguins",
-                "snakes",
-                "turtles",
-                "kittens"
+                "pets",
+                "homes",
+                "younglings",
+                "food"
             ],
             "label": [
                 "A",
@@ -19,14 +19,14 @@
         "answerKey": "C"
     },
     {
-        "id": "7-525",
-        "question_stem": "if a person remotely controls a machine to do something, which of these is required?",
+        "id": "12-928",
+        "question_stem": "if a toy car needed to be measured for its content capacity, which of these might help?",
         "choices": {
             "text": [
-                "flying",
-                "money",
-                "restaurants",
-                "sustenance"
+                "an aluminum coated barometer",
+                "a metal wind vane",
+                "a mercury filled thermometer",
+                "a cylinder with standardized markings"
             ],
             "label": [
                 "A",
@@ -38,14 +38,14 @@
         "answerKey": "D"
     },
     {
-        "id": "12-960",
-        "question_stem": "If the trees in an area are growing in soil rich with a certain vitamin, what might happen?",
+        "id": "1093",
+        "question_stem": "What does gravity cause substances on a planet?",
         "choices": {
             "text": [
-                "damp spot",
-                "a curl",
-                "some ice",
-                "a singe mark"
+                "things to move sideways",
+                "things to be moved upwards",
+                "things to descend to the lowest surface possible",
+                "things to stay in the same place"
             ],
             "label": [
                 "A",
@@ -54,93 +54,36 @@
                 "D"
             ]
         },
-        "answerKey": "D"
+        "answerKey": "C"
     },
     {
-        "id": "11-446",
-        "question_stem": "What has a positive impact on a living things health?",
+        "id": "13-250",
+        "question_stem": "As watering holes dry up more animals will",
         "choices": {
             "text": [
-                "access to food lacking in nutrients",
-                "access to dirty, tainted water",
-                "access to viable and required items",
-                "access to roadways and highways"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "14-773",
-        "question_stem": "What will increase as the animal eats more food?",
-        "choices": {
-            "text": [
-                "one might happen upon a wild dinosaur in its home",
-                "one might happen upon a wild shark in a forest",
-                "one might happen upon a wild eagle in a van",
-                "one might happen upon a wild osprey in a forest"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "10-82",
-        "question_stem": "Because a logging company has been working here the area has more",
-        "choices": {
-            "text": [
-                "Is used for grinding metal",
-                "is an oil machine",
-                "is an electric Motor",
-                "is a battery operated machine"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "B"
-    },
-    {
-        "id": "14-1355",
-        "question_stem": "A tree must die",
-        "choices": {
-            "text": [
-                "hot remains",
-                "fresh remains",
-                "wet remains",
-                "skeletal remains"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "A"
-    },
-    {
-        "id": "13-120",
-        "question_stem": "If a tree is cut down what will happen to it?",
-        "choices": {
-            "text": [
-                "whimper",
-                "Rot",
                 "die",
-                "cook"
+                "move in",
+                "join together",
+                "dig wells"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A"
+    },
+    {
+        "id": "13-215",
+        "question_stem": "A pulley is used to lift a flag on a flagpole by",
+        "choices": {
+            "text": [
+                "putting something in the air",
+                "yanking string up a wheel",
+                "moving a rope sideways",
+                "moving things with wheels"
             ],
             "label": [
                 "A",
@@ -152,33 +95,14 @@
         "answerKey": "B"
     },
     {
-        "id": "12-772",
-        "question_stem": "Which relationship is accurate?",
+        "id": "9-954",
+        "question_stem": "A locations climate is what in the area?",
         "choices": {
             "text": [
-                "air",
-                "hotness",
-                "electricity",
-                "cold"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "9-1106",
-        "question_stem": "Water vapor condensing in clouds may cause",
-        "choices": {
-            "text": [
-                "plants",
-                "eukaryotes",
-                "apes",
-                "amoebas"
+                "Common forecast",
+                "water tide",
+                "rare storms",
+                "earthquakes"
             ],
             "label": [
                 "A",
@@ -190,14 +114,14 @@
         "answerKey": "A"
     },
     {
-        "id": "11-632",
-        "question_stem": "Winter in the Northern Hemisphere",
+        "id": "9-831",
+        "question_stem": "strumming a string can cause what type of wave?",
         "choices": {
             "text": [
-                "Run a mile",
-                "Swim",
-                "bake a bagel",
-                "Rock climb"
+                "Tidal",
+                "Pressure",
+                "Light",
+                "Dark"
             ],
             "label": [
                 "A",
@@ -206,17 +130,17 @@
                 "D"
             ]
         },
-        "answerKey": "D"
+        "answerKey": "B"
     },
     {
-        "id": "12-367",
-        "question_stem": "An animal that perhaps uses light to it's advantage is",
+        "id": "10-932",
+        "question_stem": "Squirrels eat a variety of foods including",
         "choices": {
             "text": [
-                "living regions",
-                "time travel",
-                "space",
-                "Jupiter"
+                "beef",
+                "tender leaf buds",
+                "pork",
+                "cotton candy"
             ],
             "label": [
                 "A",
@@ -225,36 +149,17 @@
                 "D"
             ]
         },
-        "answerKey": "D"
+        "answerKey": "B"
     },
     {
-        "id": "14-538",
-        "question_stem": "Disregarding nuclear holocausts, how many suns will be in the sunset?",
+        "id": "612",
+        "question_stem": "The earth revolves around",
         "choices": {
             "text": [
-                "a pond with more fish",
-                "a pond of less size",
-                "water level fluctuations constantly",
-                "frogs in the pond"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "11-652",
-        "question_stem": "High surface air temperatures, arid conditions, land overuse and over-population can all contribute to",
-        "choices": {
-            "text": [
-                "white paper",
-                "mirrors",
-                "coal",
-                "water"
+                "a heat source",
+                "the Milky Way",
+                "a neighboring planet",
+                "the moon"
             ],
             "label": [
                 "A",
@@ -266,33 +171,14 @@
         "answerKey": "A"
     },
     {
-        "id": "12-823",
-        "question_stem": "An Afghan Hound get all its hair from",
+        "id": "10-20",
+        "question_stem": "An iron horseshoe with red stripes is held over a paperclip and",
         "choices": {
             "text": [
-                "muscles crumple",
-                "ribs guard it",
-                "hearts are stone",
-                "hearts are hollow"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "C"
-    },
-    {
-        "id": "12-258",
-        "question_stem": "If above your head in the out of doors is gray during the daylight hours then the likeliest need for your travels that day would be",
-        "choices": {
-            "text": [
-                "habits.",
-                "money",
-                "nose",
-                "thoughts"
+                "melts it",
+                "drops it",
+                "burns it",
+                "yanks it"
             ],
             "label": [
                 "A",
@@ -304,33 +190,14 @@
         "answerKey": "D"
     },
     {
-        "id": "12-636",
-        "question_stem": "What could be a conductor of energy?",
+        "id": "10",
+        "question_stem": "If a snow storm is coming you should?",
         "choices": {
             "text": [
-                "Bees making nectar",
-                "bees making honey.",
-                "bees stinging human",
-                "Bees collecting nectar"
-            ],
-            "label": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
-        },
-        "answerKey": "D"
-    },
-    {
-        "id": "13-156",
-        "question_stem": "What is least likely to absorb light?",
-        "choices": {
-            "text": [
-                "cloud formation",
-                "condensation",
-                "transpiration",
-                "precipitation"
+                "Go out",
+                "Find pizza",
+                "Buy supplies",
+                "Watch Tv"
             ],
             "label": [
                 "A",
@@ -342,14 +209,71 @@
         "answerKey": "C"
     },
     {
-        "id": "7-110",
-        "question_stem": "If you eat a lot of chicken your body has what it needs to",
+        "id": "14-116",
+        "question_stem": "A supermodel with a big nose probably",
         "choices": {
             "text": [
-                "cobalt",
-                "wood",
-                "styrofoam",
-                "paper"
+                "ate an animal with a big nose",
+                "had a parent also with one",
+                "didn't pay the photographer enough",
+                "ate dog food a lot"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "7-296",
+        "question_stem": "An attraction may be magnetic if",
+        "choices": {
+            "text": [
+                "two metals are placed together",
+                "substances find one another irresistible",
+                "nickel is in a metal rod",
+                "iron and nickel are in a bowl"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "14-1102",
+        "question_stem": "As the pull of gravity decreases air molecules",
+        "choices": {
+            "text": [
+                "explode",
+                "disperse",
+                "crowd together",
+                "party"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "12-614",
+        "question_stem": "A woman looking through binoculars is watching something",
+        "choices": {
+            "text": [
+                "distant",
+                "near",
+                "close",
+                "beside her"
             ],
             "label": [
                 "A",
@@ -361,14 +285,90 @@
         "answerKey": "A"
     },
     {
-        "id": "10-775",
-        "question_stem": "Which relationship is true?",
+        "id": "12-1196",
+        "question_stem": "Which is likely made of molecules?",
         "choices": {
             "text": [
-                "pluto",
-                "the moon",
-                "the milky way",
-                "the sun"
+                "empty space",
+                "an osprey",
+                "one's soul",
+                "nothingness"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "10-865",
+        "question_stem": "An animal will become thicker if it does all aside from",
+        "choices": {
+            "text": [
+                "gorge",
+                "refuse food",
+                "feed",
+                "eat food"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B"
+    },
+    {
+        "id": "13-1054",
+        "question_stem": "An plant that requires lots of watering would do better in",
+        "choices": {
+            "text": [
+                "craters on Earth's moon",
+                "a sandy, barren desert",
+                "a lush elm-filled area",
+                "a large expanse of frozen tundra"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C"
+    },
+    {
+        "id": "11-249",
+        "question_stem": "A person needing to know if a ball is orange or turquoise can decide by sparing it a",
+        "choices": {
+            "text": [
+                "meal",
+                "thought",
+                "dollar",
+                "peek"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D"
+    },
+    {
+        "id": "9-5",
+        "question_stem": "as the year progress from June to November the hours of light per day",
+        "choices": {
+            "text": [
+                "increases by a few hours",
+                "decreases by a few hours",
+                "decreases by 10 minutes",
+                "increases by 10 minutes"
             ],
             "label": [
                 "A",

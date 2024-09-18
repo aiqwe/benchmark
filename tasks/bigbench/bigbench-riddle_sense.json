@@ -1,16 +1,16 @@
 [
     {
-        "idx": 7,
-        "inputs": "Q: Just one side of me can be seen by many. Leaving aside the crime of pretending to be in the right place at the right moment, You're really clever if you can work this out.\n  choice: metal\n  choice: town\n  choice: moon\n  choice: beauty\n  choice: north america\nA:",
+        "idx": 34,
+        "inputs": "Q: Although I have an eye, I am blind. I have no limbs but I'm quicker than any man alive. What am I?\n  choice: choroid\n  choice: private eye\n  choice: crying\n  choice: anatomical structure\n  choice: hurricane\nA:",
         "targets": [
-            "piano"
+            "hurricane"
         ],
         "multiple_choice_targets": [
-            "visual signal",
-            "shop",
-            "night time",
-            "it was day time",
-            "lamplight"
+            "private eye",
+            "anatomical structure",
+            "crying",
+            "hurricane",
+            "choroid"
         ],
         "multiple_choice_scores": [
             0,
@@ -21,17 +21,38 @@
         ]
     },
     {
-        "idx": 12,
-        "inputs": "Q: This is a house. It has red earth and sky and can go in, out, up, and down. It is surrounded by a white picket fence. What am I?\n  choice: lawn\n  choice: your tongue\n  choice: mercury\n  choice: doctor\n  choice: wound\nA:",
+        "idx": 7,
+        "inputs": "Q: What is it that falls but never gets hurt?\n  choice: boat\n  choice: put a bar\n  choice: place\n  choice: ball\n  choice: punch\nA:",
         "targets": [
-            "rhyme"
+            "ball"
         ],
         "multiple_choice_targets": [
-            "fire",
-            "black",
-            "undies",
-            "stick",
-            "breakwater"
+            "ball",
+            "punch",
+            "boat",
+            "place",
+            "put a bar"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Q: I have eyes on the back of my head, am unable to run, and am not usually in tropical areas.\n  choice: bush\n  choice: peacock\n  choice: countryside\n  choice: animal\n  choice: lawn\nA:",
+        "targets": [
+            "peacock"
+        ],
+        "multiple_choice_targets": [
+            "lawn",
+            "countryside",
+            "animal",
+            "peacock",
+            "bush"
         ],
         "multiple_choice_scores": [
             0,
@@ -43,142 +64,37 @@
     },
     {
         "idx": 5,
-        "inputs": "Q: When night falls, what is dressed, and when day breaks, what is undressed?\n  choice: breakwater\n  choice: undies\n  choice: fire\n  choice: black\n  choice: stick\nA:",
+        "inputs": "Q: I cannot be felt, heard, or touched; however, I can be found in everyone; my existence is constantly contested; however, I have my own musical style. What exactly am I?\n  choice: bluegrass\n  choice: soul\n  choice: hip\n  choice: antiphony\n  choice: night club\nA:",
         "targets": [
-            "bread"
+            "soul"
         ],
         "multiple_choice_targets": [
-            "metal",
-            "town",
-            "beauty",
-            "north america",
-            "moon"
+            "antiphony",
+            "night club",
+            "bluegrass",
+            "hip",
+            "soul"
         ],
         "multiple_choice_scores": [
             0,
             0,
             0,
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 29,
-        "inputs": "Q: I went to the city, stayed there, never went back, and then returned. What exactly is it?\n  choice: change\n  choice: watch\n  choice: eye\n  choice: approach\n  choice: go somewhere\nA:",
-        "targets": [
-            "noon"
-        ],
-        "multiple_choice_targets": [
-            "go somewhere",
-            "eye",
-            "approach",
-            "watch",
-            "change"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 13,
-        "inputs": "Q: I have eyes on the back of my head, am unable to run, and am not usually in tropical areas.\n  choice: bush\n  choice: peacock\n  choice: countryside\n  choice: animal\n  choice: lawn\nA:",
-        "targets": [
-            "your tongue"
-        ],
-        "multiple_choice_targets": [
-            "morning",
-            "date",
-            "noon",
-            "evening",
-            "hundredweight"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Q: I am in chandigarh and I rhyme with sand. What am I?\n  choice: hand\n  choice: windowsill\n  choice: runway\n  choice: dirt\n  choice: window\nA:",
-        "targets": [
-            "moon"
-        ],
-        "multiple_choice_targets": [
-            "lawn",
-            "countryside",
-            "animal",
-            "peacock",
-            "bush"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 20,
-        "inputs": "Q: I'm always busy, but if you need a response, I can provide it. Some people think I'm dumb, while others believe I'm brilliant. What am I? I'm sure you'll get anything if you press my buttons just right.\n  choice: computer\n  choice: touch\n  choice: present\n  choice: ask questions\n  choice: problem\nA:",
-        "targets": [
-            "fire"
-        ],
-        "multiple_choice_targets": [
-            "syllables",
-            "rhyme",
-            "knock",
-            "spoken",
-            "synonymous"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 25,
-        "inputs": "Q: I have eyes on the back of my head, am unable to run, and am not usually in tropical areas.\n  choice: bush\n  choice: peacock\n  choice: countryside\n  choice: animal\n  choice: lawn\nA:",
-        "targets": [
-            "your tongue"
-        ],
-        "multiple_choice_targets": [
-            "echo",
-            "scripture",
-            "repetition",
-            "rock",
-            "game"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 13,
+        "idx": 35,
         "inputs": "Q: What has to go up, but not down?\n  choice: committee\n  choice: party\n  choice: go down\n  choice: age\n  choice: look down\nA:",
         "targets": [
-            "match"
+            "age"
         ],
         "multiple_choice_targets": [
-            "dirt",
-            "runway",
-            "windowsill",
-            "window",
-            "hand"
+            "age",
+            "committee",
+            "party",
+            "go down",
+            "look down"
         ],
         "multiple_choice_scores": [
             1,
@@ -189,59 +105,101 @@
         ]
     },
     {
-        "idx": 16,
-        "inputs": "Q: You may be in a room full of flowers in one case, but you'll never step into it in another. What makes you say that?\n  choice: funeral\n  choice: windowsill\n  choice: leg\n  choice: disparagement\n  choice: vase\nA:",
+        "idx": 18,
+        "inputs": "Q: I can make you scream, revive the dead, make you smile, and turn back time. I come into being in a moment, but I live a lifetime. What exactly am I?\n  choice: memory\n  choice: wakefulness\n  choice: record\n  choice: corpse\n  choice: tomb\nA:",
         "targets": [
-            "doctor"
+            "memory"
         ],
         "multiple_choice_targets": [
-            "band aid",
-            "covering",
-            "glove",
-            "triangle",
-            "index finger"
+            "wakefulness",
+            "record",
+            "memory",
+            "tomb",
+            "corpse"
         ],
         "multiple_choice_scores": [
+            0,
+            0,
             1,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: What runs 24 hours a day, 7 days a week, and never stops?\n  choice: lips\n  choice: run\n  choice: nightmare\n  choice: light\n  choice: river\nA:",
+        "targets": [
+            "river"
+        ],
+        "multiple_choice_targets": [
+            "run",
+            "light",
+            "lips",
+            "river",
+            "nightmare"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 39,
+        "inputs": "Q: You step on us every day; we can't exist without each other, and I'll never be able to support you.\n  choice: extensions\n  choice: shadow\n  choice: light\n  choice: area\n  choice: obstacle\nA:",
+        "targets": [
+            "shadow"
+        ],
+        "multiple_choice_targets": [
+            "extensions",
+            "shadow",
+            "light",
+            "obstacle",
+            "area"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
             0,
             0,
             0
         ]
     },
     {
-        "idx": 25,
-        "inputs": "Q: I went to the city, stayed there, never went back, and then returned. What exactly is it?\n  choice: change\n  choice: watch\n  choice: eye\n  choice: approach\n  choice: go somewhere\nA:",
+        "idx": 23,
+        "inputs": "Q: I came across an interesting book: The beginning follows the epilogue; the conclusion is in the first half of the book; and the index comes before the introduction. What is the book?\n  choice: concluding sentence\n  choice: list\n  choice: dictionary\n  choice: concluding paragraph\n  choice: folder\nA:",
+        "targets": [
+            "dictionary"
+        ],
+        "multiple_choice_targets": [
+            "concluding paragraph",
+            "list",
+            "concluding sentence",
+            "folder",
+            "dictionary"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 36,
+        "inputs": "Q: When night falls, what is dressed, and when day breaks, what is undressed?\n  choice: breakwater\n  choice: undies\n  choice: fire\n  choice: black\n  choice: stick\nA:",
         "targets": [
             "fire"
         ],
         "multiple_choice_targets": [
-            "vase",
-            "leg",
-            "disparagement",
-            "windowsill",
-            "funeral"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "Q: I have a lot of keys, but I can't open anything. What exactly am I?\n  choice: chair\n  choice: piano\n  choice: note\n  choice: bar\n  choice: paper\nA:",
-        "targets": [
-            "computer"
-        ],
-        "multiple_choice_targets": [
-            "oil refinery",
-            "productive",
-            "advantageous",
-            "cupboard love",
-            "anchor"
+            "fire",
+            "black",
+            "undies",
+            "stick",
+            "breakwater"
         ],
         "multiple_choice_scores": [
             1,
@@ -252,17 +210,164 @@
         ]
     },
     {
-        "idx": 10,
-        "inputs": "Q: Although you can hear and feel me but not see or smell me, everybody has a taste for me. I can be learned once, but only remembered after that. What exactly am I?\n  choice: opus\n  choice: shrinkage\n  choice: organ\n  choice: music\n  choice: remembering\nA:",
+        "idx": 12,
+        "inputs": "Q: Shadow's light, scythe of darkness. The guiding eye of thirteenth sight.\n  choice: hide\n  choice: semidarkness\n  choice: moon\n  choice: attic\n  choice: night\nA:",
+        "targets": [
+            "moon"
+        ],
+        "multiple_choice_targets": [
+            "moon",
+            "attic",
+            "night",
+            "hide",
+            "semidarkness"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Q: It only has a body and mouth, no back, legs, eyes, nose, ears, or feet. When you ask a question, it responds. It has several mouths.\n  choice: human face\n  choice: wine\n  choice: nice\n  choice: books\n  choice: pants\nA:",
+        "targets": [
+            "books"
+        ],
+        "multiple_choice_targets": [
+            "human face",
+            "nice",
+            "books",
+            "pants",
+            "wine"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: This is a house. It has red earth and sky and can go in, out, up, and down. It is surrounded by a white picket fence. What am I?\n  choice: lawn\n  choice: your tongue\n  choice: mercury\n  choice: doctor\n  choice: wound\nA:",
         "targets": [
             "your tongue"
         ],
         "multiple_choice_targets": [
-            "metal",
-            "town",
-            "beauty",
-            "north america",
-            "moon"
+            "wound",
+            "your tongue",
+            "doctor",
+            "mercury",
+            "lawn"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "Q: For those who live in the dark, this is a valuable tool. Within you, a deadly spell is wreaking havoc.\n  choice: misfortune\n  choice: witch\n  choice: poison\n  choice: highway\n  choice: walking\nA:",
+        "targets": [
+            "poison"
+        ],
+        "multiple_choice_targets": [
+            "misfortune",
+            "highway",
+            "poison",
+            "witch",
+            "walking"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 42,
+        "inputs": "Q: We link to a cavern that is slimy all the way through through a hole leading in and a hole leading out. What exactly are we?\n  choice: mine\n  choice: your nose\n  choice: particle\n  choice: connection\n  choice: point\nA:",
+        "targets": [
+            "your nose"
+        ],
+        "multiple_choice_targets": [
+            "your nose",
+            "mine",
+            "point",
+            "connection",
+            "particle"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 14,
+        "inputs": "Q: It goes from hard and dry to soft and wet.\n  choice: milk\n  choice: shirt pocket\n  choice: rug\n  choice: gum\n  choice: shirt\nA:",
+        "targets": [
+            "gum"
+        ],
+        "multiple_choice_targets": [
+            "shirt",
+            "rug",
+            "gum",
+            "shirt pocket",
+            "milk"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: I can make you scream, revive the dead, make you smile, and turn back time. I come into being in a moment, but I live a lifetime. What exactly am I?\n  choice: memory\n  choice: wakefulness\n  choice: record\n  choice: corpse\n  choice: tomb\nA:",
+        "targets": [
+            "memory"
+        ],
+        "multiple_choice_targets": [
+            "wakefulness",
+            "record",
+            "memory",
+            "tomb",
+            "corpse"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 5,
+        "inputs": "Q: I cannot be felt, heard, or touched; however, I can be found in everyone; my existence is constantly contested; however, I have my own musical style. What exactly am I?\n  choice: bluegrass\n  choice: soul\n  choice: hip\n  choice: antiphony\n  choice: night club\nA:",
+        "targets": [
+            "soul"
+        ],
+        "multiple_choice_targets": [
+            "antiphony",
+            "night club",
+            "bluegrass",
+            "hip",
+            "soul"
         ],
         "multiple_choice_scores": [
             0,
@@ -273,38 +378,17 @@
         ]
     },
     {
-        "idx": 29,
-        "inputs": "Q: When I'm full, I'll be able to point the way. Nothing moves me when I'm empty. I have two skins: one that is outside and one that is within. What exactly am I?\n  choice: covering\n  choice: triangle\n  choice: glove\n  choice: band aid\n  choice: index finger\nA:",
+        "idx": 14,
+        "inputs": "Q: It goes from hard and dry to soft and wet.\n  choice: milk\n  choice: shirt pocket\n  choice: rug\n  choice: gum\n  choice: shirt\nA:",
         "targets": [
-            "sunflower"
+            "gum"
         ],
         "multiple_choice_targets": [
-            "oil refinery",
-            "productive",
-            "advantageous",
-            "cupboard love",
-            "anchor"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 21,
-        "inputs": "Q: When I'm in, I'm useless. When I'm out, I'm useful. What exactly am I?\n  choice: anchor\n  choice: productive\n  choice: cupboard love\n  choice: advantageous\n  choice: oil refinery\nA:",
-        "targets": [
-            "it was day time"
-        ],
-        "multiple_choice_targets": [
-            "music",
-            "remembering",
-            "shrinkage",
-            "organ",
-            "opus"
+            "shirt",
+            "rug",
+            "gum",
+            "shirt pocket",
+            "milk"
         ],
         "multiple_choice_scores": [
             0,
@@ -315,107 +399,23 @@
         ]
     },
     {
-        "idx": 29,
-        "inputs": "Q: My eyes are black and my hair is bright, and my feet are firmly rooted on the ground. I enjoy having the sun on my face, and I try to keep up with it. It is said that when I am dead and gone, I will droop real low, keeping the birds well fed, standing stiff in my row. What exactly am I?\n  choice: corpse\n  choice: sunflower\n  choice: graveyard\n  choice: bean\n  choice: sunburns\nA:",
+        "idx": 6,
+        "inputs": "Q: Before you can have me, I need to be taken. What am I?\n  choice: beg\n  choice: picture\n  choice: move\n  choice: become adult\n  choice: paper\nA:",
         "targets": [
-            "glove"
+            "picture"
         ],
         "multiple_choice_targets": [
-            "blast",
-            "file",
-            "handle",
-            "mouse",
-            "bomb"
+            "beg",
+            "picture",
+            "become adult",
+            "paper",
+            "move"
         ],
         "multiple_choice_scores": [
             0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 32,
-        "inputs": "Q: What do you put in a toaster?\n  choice: bread\n  choice: internet cafe\n  choice: coffee\n  choice: appliance\n  choice: crumpet\nA:",
-        "targets": [
-            "table"
-        ],
-        "multiple_choice_targets": [
-            "blast",
-            "file",
-            "handle",
-            "mouse",
-            "bomb"
-        ],
-        "multiple_choice_scores": [
             1,
             0,
             0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 9,
-        "inputs": "Q: I went to the city, stayed there, never went back, and then returned. What exactly is it?\n  choice: change\n  choice: watch\n  choice: eye\n  choice: approach\n  choice: go somewhere\nA:",
-        "targets": [
-            "noon"
-        ],
-        "multiple_choice_targets": [
-            "bean",
-            "corpse",
-            "graveyard",
-            "sunflower",
-            "sunburns"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "Q: I came across an interesting book: The beginning follows the epilogue; the conclusion is in the first half of the book; and the index comes before the introduction. What is the book?\n  choice: concluding sentence\n  choice: list\n  choice: dictionary\n  choice: concluding paragraph\n  choice: folder\nA:",
-        "targets": [
-            "anchor"
-        ],
-        "multiple_choice_targets": [
-            "go somewhere",
-            "eye",
-            "approach",
-            "watch",
-            "change"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: I'm always busy, but if you need a response, I can provide it. Some people think I'm dumb, while others believe I'm brilliant. What am I? I'm sure you'll get anything if you press my buttons just right.\n  choice: computer\n  choice: touch\n  choice: present\n  choice: ask questions\n  choice: problem\nA:",
-        "targets": [
-            "doctor"
-        ],
-        "multiple_choice_targets": [
-            "chair",
-            "note",
-            "bar",
-            "piano",
-            "paper"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
             0
         ]
     }

@@ -1,7 +1,67 @@
 [
     {
-        "idx": 132,
-        "inputs": "On July 8 2020, the following claim was made: COVID-19 only infects individuals living with chronic conditions such as asthma and diabetes.\nQ: Was this claim true or false?\nA:",
+        "idx": 3998,
+        "inputs": "On June 2017, the following claim was made: Half Girlfriend's principal photography began in 2016.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 3860,
+        "inputs": "On June 2017, the following claim was made: Granular is granite.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1915,
+        "inputs": "On June 2017, the following claim was made: Probot had a guitar in it.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 177,
+        "inputs": "On September 28 2011, the following claim was made: Only four Texas legislators voted against a law giving in-state tuition rates to certain illegal immigrants.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 274,
+        "inputs": "On June 2017, the following claim was made: Lorelai Gilmore's mother remains an offscreen and unvoiced character for the entire length of the show.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -15,68 +75,8 @@
         ]
     },
     {
-        "idx": 3438,
-        "inputs": "On June 2017, the following claim was made: Buffy the Vampire Slayer's creator is Joss Whedon.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 0,
-        "inputs": "On June 2017, the following claim was made: Ukrainian Soviet Socialist Republic was a founding participant of the UN.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1751,
-        "inputs": "On June 2017, the following claim was made: Austin Lee Russells is the real name of Chumlee.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 3450,
-        "inputs": "On June 2017, the following claim was made: Pocahontas was in the attendance of a festive form of courtly entertainment at Whitehall Palace.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 3063,
-        "inputs": "On June 2017, the following claim was made: Half Girlfriend's principal photography ended in January of 2016.\nQ: Was this claim true or false?\nA:",
+        "idx": 614,
+        "inputs": "On June 2017, the following claim was made: Balibo (film) takes place in Boston only.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -90,8 +90,8 @@
         ]
     },
     {
-        "idx": 149,
-        "inputs": "On June 27 2008, the following claim was made: Obama opposes offshore drilling and a gas tax holiday.\nQ: Was this claim true or false?\nA:",
+        "idx": 5054,
+        "inputs": "On June 2017, the following claim was made: Aristocracy is a term with Greek heritage.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "true"
         ],
@@ -105,8 +105,23 @@
         ]
     },
     {
-        "idx": 5509,
-        "inputs": "On June 2017, the following claim was made: Elizabeth of York married in 1811.\nQ: Was this claim true or false?\nA:",
+        "idx": 3327,
+        "inputs": "On June 2017, the following claim was made: Howard impersonated James Rhodes.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "On October 31 2012, the following claim was made: An Obama campaign tactic for rallying voters is to offer them cell phones.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -120,38 +135,8 @@
         ]
     },
     {
-        "idx": 5227,
-        "inputs": "On June 2017, the following claim was made: In many navies, Commodore is used.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 3197,
-        "inputs": "On June 2017, the following claim was made: Dark matter is a hypothetical type of matter.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 53,
-        "inputs": "On October 7 2012, the following claim was made: U.S. Sen. Sheldon Whitehouse rewarded Wall Street executives with millions in bonuses.\nQ: Was this claim true or false?\nA:",
+        "idx": 2124,
+        "inputs": "On June 2017, the following claim was made: The Stanford prison experiment was an examination of the causes of troubles between guards and prisoners.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -165,8 +150,8 @@
         ]
     },
     {
-        "idx": 4520,
-        "inputs": "On June 2017, the following claim was made: Catherine Keener was passed up for all roles in Get Out.\nQ: Was this claim true or false?\nA:",
+        "idx": 219,
+        "inputs": "On June 2017, the following claim was made: UNESCO's City of Literature program is separate from its Creative Cities Network.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -180,8 +165,8 @@
         ]
     },
     {
-        "idx": 269,
-        "inputs": "On June 2017, the following claim was made: Aphrodite is a goddess in Greek mythology.\nQ: Was this claim true or false?\nA:",
+        "idx": 29,
+        "inputs": "On July 8 2020, the following claim was made: Spraying alcohol or chlorine all over human body kill the COVID-19\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -195,8 +180,8 @@
         ]
     },
     {
-        "idx": 3760,
-        "inputs": "On June 2017, the following claim was made: Floyd Mayweather Jr. has a record 26 world title wins without a loss from boxing professionally.\nQ: Was this claim true or false?\nA:",
+        "idx": 2590,
+        "inputs": "On June 2017, the following claim was made: Brian De Palma is a screenwriter.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "true"
         ],
@@ -210,8 +195,8 @@
         ]
     },
     {
-        "idx": 1204,
-        "inputs": "On June 2017, the following claim was made: Solanum contains ripe horse nettles.\nQ: Was this claim true or false?\nA:",
+        "idx": 6175,
+        "inputs": "On June 2017, the following claim was made: Simi Valley, California, reported a median household income of $87,894 in the 2012 U.S. Census.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "true"
         ],
@@ -225,8 +210,38 @@
         ]
     },
     {
-        "idx": 2462,
-        "inputs": "On June 2017, the following claim was made: In golf, players do not hit balls.\nQ: Was this claim true or false?\nA:",
+        "idx": 929,
+        "inputs": "On June 2017, the following claim was made: Edouard Seguin worked in a place.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 5077,
+        "inputs": "On June 2017, the following claim was made: David Lloyd George was a prime minister.\nQ: Was this claim true or false?\nA:",
+        "targets": [
+            "true"
+        ],
+        "multiple_choice_targets": [
+            "true",
+            "false"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2003,
+        "inputs": "On June 2017, the following claim was made: Jack Lowden is incapable of being in films.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -240,8 +255,8 @@
         ]
     },
     {
-        "idx": 733,
-        "inputs": "On June 2017, the following claim was made: The Blue Dog Coalition came into existence in the year 2023.\nQ: Was this claim true or false?\nA:",
+        "idx": 1181,
+        "inputs": "On June 2017, the following claim was made: In 2005, The Quiet was released.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "false"
         ],
@@ -255,38 +270,23 @@
         ]
     },
     {
-        "idx": 3657,
-        "inputs": "On June 2017, the following claim was made: Matt Bomer acts.\nQ: Was this claim true or false?\nA:",
+        "idx": 5930,
+        "inputs": "On June 2017, the following claim was made: Woodrow Wilson did not work in the United States.\nQ: Was this claim true or false?\nA:",
         "targets": [
-            "true"
+            "false"
         ],
         "multiple_choice_targets": [
             "true",
             "false"
         ],
         "multiple_choice_scores": [
-            1,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 3478,
-        "inputs": "On June 2017, the following claim was made: The Bengal tiger is a member of the largest cat species.\nQ: Was this claim true or false?\nA:",
-        "targets": [
-            "true"
-        ],
-        "multiple_choice_targets": [
-            "true",
-            "false"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1997,
-        "inputs": "On June 2017, the following claim was made: No Way Out is by Puff Daddy and credits \"The Family\".\nQ: Was this claim true or false?\nA:",
+        "idx": 3477,
+        "inputs": "On June 2017, the following claim was made: While Trick-or-Treating children wear costumes.\nQ: Was this claim true or false?\nA:",
         "targets": [
             "true"
         ],

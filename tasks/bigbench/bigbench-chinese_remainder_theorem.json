@@ -1,180 +1,180 @@
 [
     {
-        "idx": 391,
-        "inputs": "Q: There is a container of no more than 1302943 bananas. If we divide them equally among 43 people, we have 12 left; if we divide them equally among 157 penguins, we have 8 left; if we divide them equally among 193 lemurs, we have 13 left. How many bananas are in the container?\nA:",
+        "idx": 19,
+        "inputs": "Q: There is a container of no more than 1650049 apples. If we divide them equally among 53 racoons, we have 41 left; if we divide them equally among 163 crocodiles, we have 151 left; if we divide them equally among 191 elephants, we have 32 left. How many apples are in the container?\nA:",
         "targets": [
-            "680917"
+            "8627"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 353,
-        "inputs": "Q: There is a box of no more than 722941 pears. If we divide them equally among 29 bears, we have 27 left; if we divide them equally among 97 horses, we have 42 left; if we divide them equally among 257 lemurs, we have 208 left. How many pears are in the box?\nA:",
+        "idx": 55,
+        "inputs": "Q: There is a field of no more than 6545719 limes. If we divide them equally among 149 hippos, we have 137 left; if we divide them equally among 197 monkeys, we have 169 left; if we divide them equally among 223 dinosaurs, we have 220 left. How many limes are in the field?\nA:",
         "targets": [
-            "479513"
+            "3326711"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 94,
-        "inputs": "Q: There is a field of no more than 4436021 tomatoes. If we divide them equally among 101 elephants, we have 88 left; if we divide them equally among 167 lemurs, we have 84 left; if we divide them equally among 263 bears, we have 141 left. How many tomatoes are in the field?\nA:",
+        "idx": 305,
+        "inputs": "Q: There is a container of no more than 91531 passionfruits. If we divide them equally among 11 hippos, we have 3 left; if we divide them equally among 53 hippos, we have 42 left; if we divide them equally among 157 racoons, we have 19 left. How many passionfruits are in the container?\nA:",
         "targets": [
-            "775465"
+            "10695"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 184,
-        "inputs": "Q: There is a ship of no more than 125171 bananas. If we divide them equally among 17 lemurs, we have 8 left; if we divide them equally among 37 penguins, we have 36 left; if we divide them equally among 199 crocodiles, we have 11 left. How many bananas are in the ship?\nA:",
+        "idx": 222,
+        "inputs": "Q: There is a field of no more than 64222 watermelons. If we divide them equally among 2 lemurs, we have 0 left; if we divide them equally among 163 bears, we have 150 left; if we divide them equally among 197 crocodiles, we have 125 left. How many watermelons are in the field?\nA:",
         "targets": [
-            "17722"
+            "21992"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 308,
-        "inputs": "Q: There is a ship of no more than 4983 avocadoes. If we divide them equally among 3 cows, we have 2 left; if we divide them equally among 11 elephants, we have 3 left; if we divide them equally among 151 penguins, we have 125 left. How many avocadoes are in the ship?\nA:",
+        "idx": 176,
+        "inputs": "Q: There is a basket of no more than 6967957 avocadoes. If we divide them equally among 137 hippos, we have 24 left; if we divide them equally among 181 people, we have 25 left; if we divide them equally among 281 horses, we have 31 left. How many avocadoes are in the basket?\nA:",
         "targets": [
-            "2390"
+            "5658809"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 432,
-        "inputs": "Q: There is a container of no more than 346531 pineapples. If we divide them equally among 47 bears, we have 23 left; if we divide them equally among 73 crocodiles, we have 49 left; if we divide them equally among 101 racoons, we have 23 left. How many pineapples are in the container?\nA:",
+        "idx": 373,
+        "inputs": "Q: There is a room of no more than 220597 watermelons. If we divide them equally among 13 bears, we have 7 left; if we divide them equally among 71 monkeys, we have 67 left; if we divide them equally among 239 dinosaurs, we have 217 left. How many watermelons are in the room?\nA:",
         "targets": [
-            "61734"
+            "142422"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 371,
-        "inputs": "Q: There is a box of no more than 1796749 tomatoes. If we divide them equally among 73 crocodiles, we have 42 left; if we divide them equally among 151 bears, we have 121 left; if we divide them equally among 163 bears, we have 33 left. How many tomatoes are in the box?\nA:",
+        "idx": 402,
+        "inputs": "Q: There is a room of no more than 1939181 watermelons. If we divide them equally among 67 racoons, we have 38 left; if we divide them equally among 103 lemurs, we have 14 left; if we divide them equally among 281 cows, we have 4 left. How many watermelons are in the room?\nA:",
         "targets": [
-            "312993"
+            "1651722"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 271,
-        "inputs": "Q: There is a field of no more than 12135647 apples. If we divide them equally among 193 penguins, we have 131 left; if we divide them equally among 227 cows, we have 211 left; if we divide them equally among 277 lemurs, we have 25 left. How many apples are in the field?\nA:",
+        "idx": 160,
+        "inputs": "Q: There is a basket of no more than 1303681 pears. If we divide them equally among 83 horses, we have 4 left; if we divide them equally among 113 hippos, we have 32 left; if we divide them equally among 139 penguins, we have 22 left. How many pears are in the basket?\nA:",
         "targets": [
-            "9158753"
+            "861544"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 471,
-        "inputs": "Q: There is a room of no more than 93215 apples. If we divide them equally among 5 elephants, we have 4 left; if we divide them equally among 103 lemurs, we have 17 left; if we divide them equally among 181 lemurs, we have 39 left. How many apples are in the room?\nA:",
+        "idx": 223,
+        "inputs": "Q: There is a bag of no more than 114955 limes. If we divide them equally among 5 crocodiles, we have 2 left; if we divide them equally among 83 bears, we have 50 left; if we divide them equally among 277 racoons, we have 194 left. How many limes are in the bag?\nA:",
         "targets": [
-            "944"
+            "41467"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 51,
-        "inputs": "Q: There is a bag of no more than 200659 apricots. If we divide them equally among 19 racoons, we have 17 left; if we divide them equally among 59 monkeys, we have 36 left; if we divide them equally among 179 people, we have 177 left. How many apricots are in the bag?\nA:",
+        "idx": 310,
+        "inputs": "Q: There is a basket of no more than 36395 peaches. If we divide them equally among 5 hippos, we have 2 left; if we divide them equally among 29 dinosaurs, we have 22 left; if we divide them equally among 251 hippos, we have 232 left. How many peaches are in the basket?\nA:",
         "targets": [
-            "3399"
+            "12782"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 325,
-        "inputs": "Q: There is a bag of no more than 12395 watermelons. If we divide them equally among 5 people, we have 4 left; if we divide them equally among 37 dinosaurs, we have 0 left; if we divide them equally among 67 dinosaurs, we have 40 left. How many watermelons are in the bag?\nA:",
+        "idx": 261,
+        "inputs": "Q: There is a truck of no more than 4373959 bananas. If we divide them equally among 131 dinosaurs, we have 7 left; if we divide them equally among 173 hippos, we have 131 left; if we divide them equally among 193 penguins, we have 62 left. How many bananas are in the truck?\nA:",
         "targets": [
-            "8214"
+            "479860"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 486,
-        "inputs": "Q: There is a ship of no more than 11842 coconuts. If we divide them equally among 2 lemurs, we have 1 left; if we divide them equally among 31 penguins, we have 6 left; if we divide them equally among 191 cows, we have 42 left. How many coconuts are in the ship?\nA:",
+        "idx": 59,
+        "inputs": "Q: There is a field of no more than 64201 tomatoes. If we divide them equally among 19 people, we have 2 left; if we divide them equally among 31 cows, we have 28 left; if we divide them equally among 109 penguins, we have 99 left. How many tomatoes are in the field?\nA:",
         "targets": [
-            "11693"
+            "58959"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 349,
-        "inputs": "Q: There is a room of no more than 11675767 mangos. If we divide them equally among 181 cows, we have 11 left; if we divide them equally among 251 penguins, we have 5 left; if we divide them equally among 257 crocodiles, we have 35 left. How many mangos are in the room?\nA:",
+        "idx": 197,
+        "inputs": "Q: There is a field of no more than 1065157 peaches. If we divide them equally among 79 lemurs, we have 24 left; if we divide them equally among 97 bears, we have 86 left; if we divide them equally among 139 bears, we have 35 left. How many peaches are in the field?\nA:",
         "targets": [
-            "3611142"
+            "488481"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 60,
-        "inputs": "Q: There is a truck of no more than 624661 tomatoes. If we divide them equally among 43 cows, we have 36 left; if we divide them equally among 73 elephants, we have 29 left; if we divide them equally among 199 cows, we have 101 left. How many tomatoes are in the truck?\nA:",
+        "idx": 460,
+        "inputs": "Q: There is a bag of no more than 60931 papayas. If we divide them equally among 13 bears, we have 4 left; if we divide them equally among 43 crocodiles, we have 29 left; if we divide them equally among 109 monkeys, we have 22 left. How many papayas are in the bag?\nA:",
         "targets": [
-            "230344"
+            "39589"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 380,
-        "inputs": "Q: There is a room of no more than 6409961 avocadoes. If we divide them equally among 131 hippos, we have 4 left; if we divide them equally among 167 penguins, we have 47 left; if we divide them equally among 293 people, we have 105 left. How many avocadoes are in the room?\nA:",
+        "idx": 295,
+        "inputs": "Q: There is a truck of no more than 1021873 tomatoes. If we divide them equally among 29 crocodiles, we have 5 left; if we divide them equally among 167 dinosaurs, we have 133 left; if we divide them equally among 211 penguins, we have 21 left. How many tomatoes are in the truck?\nA:",
         "targets": [
-            "3043789"
+            "660451"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 201,
-        "inputs": "Q: There is a bag of no more than 293237 dragonfruits. If we divide them equally among 7 crocodiles, we have 2 left; if we divide them equally among 163 hippos, we have 74 left; if we divide them equally among 257 horses, we have 54 left. How many dragonfruits are in the bag?\nA:",
+        "idx": 97,
+        "inputs": "Q: There is a field of no more than 3860579 pears. If we divide them equally among 83 lemurs, we have 67 left; if we divide them equally among 193 elephants, we have 143 left; if we divide them equally among 241 elephants, we have 68 left. How many pears are in the field?\nA:",
         "targets": [
-            "159651"
+            "2392957"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 369,
-        "inputs": "Q: There is a truck of no more than 3819 dragonfruits. If we divide them equally among 3 cows, we have 0 left; if we divide them equally among 19 racoons, we have 4 left; if we divide them equally among 67 hippos, we have 47 left. How many dragonfruits are in the truck?\nA:",
+        "idx": 130,
+        "inputs": "Q: There is a basket of no more than 2037601 oranges. If we divide them equally among 107 hippos, we have 86 left; if we divide them equally among 137 dinosaurs, we have 43 left; if we divide them equally among 139 racoons, we have 63 left. How many oranges are in the basket?\nA:",
         "targets": [
-            "1923"
+            "1217425"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 77,
-        "inputs": "Q: There is a field of no more than 68809 dragonfruits. If we divide them equally among 13 lemurs, we have 6 left; if we divide them equally among 67 dinosaurs, we have 34 left; if we divide them equally among 79 cows, we have 27 left. How many dragonfruits are in the field?\nA:",
+        "idx": 22,
+        "inputs": "Q: There is a basket of no more than 1748701 coconuts. If we divide them equally among 59 bears, we have 4 left; if we divide them equally among 107 bears, we have 83 left; if we divide them equally among 277 racoons, we have 204 left. How many coconuts are in the basket?\nA:",
         "targets": [
-            "26097"
+            "1682979"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 430,
-        "inputs": "Q: There is a truck of no more than 60931 pears. If we divide them equally among 13 bears, we have 4 left; if we divide them equally among 43 cows, we have 40 left; if we divide them equally among 109 racoons, we have 102 left. How many pears are in the truck?\nA:",
+        "idx": 362,
+        "inputs": "Q: There is a box of no more than 11680327 passionfruits. If we divide them equally among 197 cows, we have 146 left; if we divide them equally among 211 elephants, we have 33 left; if we divide them equally among 281 penguins, we have 233 left. How many passionfruits are in the box?\nA:",
         "targets": [
-            "39342"
+            "2659055"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 172,
-        "inputs": "Q: There is a basket of no more than 853921 pears. If we divide them equally among 23 crocodiles, we have 22 left; if we divide them equally among 137 cows, we have 88 left; if we divide them equally among 271 penguins, we have 178 left. How many pears are in the basket?\nA:",
+        "idx": 223,
+        "inputs": "Q: There is a bag of no more than 114955 limes. If we divide them equally among 5 crocodiles, we have 2 left; if we divide them equally among 83 bears, we have 50 left; if we divide them equally among 277 racoons, we have 194 left. How many limes are in the bag?\nA:",
         "targets": [
-            "305324"
+            "41467"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

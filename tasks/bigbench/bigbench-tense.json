@@ -1,7 +1,25 @@
 [
     {
         "idx": 85,
+        "inputs": "Q: Father will be fixing his bicycle. Change tense to PRESENT CONTINUOUS: \nA:",
+        "targets": [
+            "Father is fixing his bicycle."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 208,
         "inputs": "Q: I am happy. Change tense to SIMPLE PRESENT: \nA:",
+        "targets": [
+            "I am happy."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 248,
+        "inputs": "Q: Sonia did not come. Change tense to SIMPLE FUTURE: \nA:",
         "targets": [
             "Sonia will not come."
         ],
@@ -9,107 +27,17 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 205,
-        "inputs": "Q: She had studied in France in College Change tense to FUTURE PERFECT: \nA:",
+        "idx": 246,
+        "inputs": "Q: Jane mopped the floor and Peter cleaned the windows. Change tense to SIMPLE FUTURE: \nA:",
         "targets": [
-            "Mother is getting ready for office."
+            "Jane will mop the floor and Peter will clean the windows."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 199,
-        "inputs": "Q: I have not been watching the cricket match on television for two hours. Change tense to PAST PERFECT CONTINUOUS: \nA:",
-        "targets": [
-            "Won’t we have to report this matter?"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 284,
-        "inputs": "Q: I drank coffee in the morning. Change tense to SIMPLE FUTURE: \nA:",
-        "targets": [
-            "The child is waiting for the school bus."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 111,
-        "inputs": "Q: She will have washed her hands before she cooked the dinner. Change tense to PAST PERFECT: \nA:",
-        "targets": [
-            "He will have done his work with diligence."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 29,
-        "inputs": "Q: The weather changed, but the team will have planned its next move. Change tense to PAST PERFECT: \nA:",
-        "targets": [
-            "Stella did not pass her exam."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 80,
-        "inputs": "Q: She will have washed her hands before she cooked the dinner. Change tense to PAST PERFECT: \nA:",
-        "targets": [
-            "I think of him."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 35,
-        "inputs": "Q: The plumber and his assistant had soldered all the new joins in the pipes before they left for the next job. Change tense to FUTURE PERFECT: \nA:",
-        "targets": [
-            "I have been writing articles on various topics for three hours."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 126,
-        "inputs": "Q: They will have walked to school today. Change tense to PAST PERFECT: \nA:",
-        "targets": [
-            "The health department had decided that all children should be immunized against meningitis."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 161,
-        "inputs": "Q: The lyricist has been writing realistic songs since the beginning of his career. Change tense to PAST PERFECT CONTINUOUS: \nA:",
-        "targets": [
-            "I shall be writing articles on different topics."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 135,
-        "inputs": "Q: She stayed up all night because she had received bad news. Change tense to PAST PERFECT: \nA:",
-        "targets": [
-            "Karan was repairing his car."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 161,
-        "inputs": "Q: He had completed his project by Saturday Change tense to FUTURE PERFECT: \nA:",
-        "targets": [
-            "We have realized our mistake."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 37,
-        "inputs": "Q: Fish live in water. Change tense to SIMPLE PAST: \nA:",
+        "idx": 109,
+        "inputs": "Q: Her English was improving. Change tense to FUTURE CONTINUOUS: \nA:",
         "targets": [
             "Her English will be improving."
         ],
@@ -117,64 +45,136 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 67,
-        "inputs": "Q: We will have been enjoying the musical drama before the game show starts. Change tense to PAST PERFECT CONTINUOUS: \nA:",
+        "idx": 205,
+        "inputs": "Q: You will have studied the English tenses. Change tense to FUTURE PERFECT: \nA:",
         "targets": [
-            "By the time you get back from lunch, we will have finished writing the letters."
+            "You will have studied the English tenses."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 145,
-        "inputs": "Q: I am sure she will be waiting for me. Change tense to PRESENT CONTINUOUS: \nA:",
+        "idx": 30,
+        "inputs": "Q: She had studied in France in College Change tense to FUTURE PERFECT: \nA:",
         "targets": [
-            "The children often do their homework."
+            "She will have studied in France in College"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 270,
-        "inputs": "Q: We had realized our mistake. Change tense to PRESENT PERFECT: \nA:",
+        "idx": 84,
+        "inputs": "Q: Mother shall be getting ready for office. Change tense to PRESENT CONTINUOUS: \nA:",
         "targets": [
-            "He will be riding a horse."
+            "Mother is getting ready for office."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 68,
+        "idx": 194,
+        "inputs": "Q: At 6 o'clock, I was eating dinner. Change tense to PAST CONTINUOUS: \nA:",
+        "targets": [
+            "At 6 o'clock, I was eating dinner."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1,
+        "inputs": "Q: I had received his reply. Change tense to PRESENT PERFECT: \nA:",
+        "targets": [
+            "I have received his reply."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 199,
+        "inputs": "Q: We have eaten the lasagna here. Change tense to PRESENT PERFECT: \nA:",
+        "targets": [
+            "We have eaten the lasagna here."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 135,
         "inputs": "Q: I have not been watching the cricket match on television for two hours. Change tense to PAST PERFECT CONTINUOUS: \nA:",
         "targets": [
-            "They have kicked the ball."
+            "I had not been watching the cricket match on television for two hours."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 232,
+        "inputs": "Q: Don’t we have to report this matter? Change tense to SIMPLE FUTURE: \nA:",
+        "targets": [
+            "Won’t we have to report this matter?"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 146,
+        "inputs": "Q: You have been shopping in that market for three hours. Change tense to FUTURE PERFECT CONTINUOUS: \nA:",
+        "targets": [
+            "You will have been shopping in that market for three hours."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 216,
+        "inputs": "Q: It did not matter. Change tense to SIMPLE PRESENT: \nA:",
+        "targets": [
+            "It does not matter."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 284,
+        "inputs": "Q: He has just returned.: \nA:",
+        "targets": [
+            "He will have just returned."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 249,
+        "inputs": "Q: I drank coffee in the morning. Change tense to SIMPLE FUTURE: \nA:",
+        "targets": [
+            "I will drink coffee in the morning."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 79,
-        "inputs": "Q: I have been shopping with my elder brother at the fair since morning. Change tense to PAST PERFECT CONTINUOUS: \nA:",
+        "inputs": "Q: The child was waiting for the school bus. Change tense to PRESENT CONTINUOUS: \nA:",
         "targets": [
-            "We will have been shopping at this fair for two hours."
+            "The child is waiting for the school bus."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 104,
-        "inputs": "Q: I have not been watching the cricket match on television for two hours. Change tense to PAST PERFECT CONTINUOUS: \nA:",
+        "idx": 97,
+        "inputs": "Q: He is going to the library. Change tense to FUTURE CONTINUOUS: \nA:",
         "targets": [
-            "She looks after her aged parents."
+            "He will be going to the library."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 26,
-        "inputs": "Q: She has just left the scene when the ambulance arrived. Change tense to PAST PERFECT: \nA:",
+        "idx": 151,
+        "inputs": "Q: The poet will have been writing romantic poems for several hours. Change tense to PRESENT PERFECT CONTINUOUS: \nA:",
         "targets": [
-            "It does not matter."
+            "The poet has been writing romantic poems for several hours."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

@@ -1,21 +1,269 @@
 [
     {
-        "idx": 140,
-        "inputs": "The MDI is dependent on the propulsive force of the propellant system used in its manufacture.\n  choice: Realistically, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Coincidentally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Likewise, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: And the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Nationally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Evidently, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Happily, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Frankly, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Namely, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
+        "idx": 760,
+        "inputs": "In one example, the acceleration threshold is based on a pedal position of the accelerator pedal, and the acceleration threshold is set at a pedal position of five percent.\n  choice: Specifically, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Alternatively or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Personally, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Additionally or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Regardless, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Although, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Suddenly, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: On the contrary, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: In contrast, or alternatively, the method may determine if a torque demand is greater than a torque threshold.\n  choice: Probably, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
         "targets": [
-            "Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability."
+            "Additionally or alternatively, the method may determine if a torque demand is greater than a torque threshold."
         ],
         "multiple_choice_targets": [
-            "Likewise, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Nationally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Evidently, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "And the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Happily, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Coincidentally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Realistically, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Frankly, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Namely, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability."
+            "Probably, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Additionally or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Suddenly, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Specifically, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Personally, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "On the contrary, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Although, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Regardless, or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "Alternatively or alternatively, the method may determine if a torque demand is greater than a torque threshold.",
+            "In contrast, or alternatively, the method may determine if a torque demand is greater than a torque threshold."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 548,
+        "inputs": "Once the Newton's laws analysis has been completed and the acceleration determined, the kinematics portion of the problem can be tackled.\n  choice: Notably, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Currently, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Interestingly, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Conversely determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Namely, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: First, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Originally, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Furthermore determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Firstly, determine the distance along the incline from the height of the hill and the angle of incline.\n  choice: Likewise, determine the distance along the incline from the height of the hill and the angle of incline.",
+        "targets": [
+            "First, determine the distance along the incline from the height of the hill and the angle of incline."
+        ],
+        "multiple_choice_targets": [
+            "Currently, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Notably, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Namely, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "First, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Originally, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Interestingly, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Conversely determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Likewise, determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Furthermore determine the distance along the incline from the height of the hill and the angle of incline.",
+            "Firstly, determine the distance along the incline from the height of the hill and the angle of incline."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 780,
+        "inputs": "On January 22nd, Councilwoman Gross held a post agenda to explore the potential use of alternative sidewalk materials.\n  choice: Slowly, city code requires sidewalks be created with cement.\n  choice: Clearly, city code requires sidewalks be created with cement.\n  choice: Nonetheless city code requires sidewalks be created with cement.\n  choice: Already, city code requires sidewalks be created with cement.\n  choice: Only, city code requires sidewalks be created with cement.\n  choice: Currently, city code requires sidewalks be created with cement.\n  choice: Truthfully, city code requires sidewalks be created with cement.\n  choice: In particular, city code requires sidewalks be created with cement.\n  choice: Happily, city code requires sidewalks be created with cement.\n  choice: Occasionally, city code requires sidewalks be created with cement.",
+        "targets": [
+            "Currently, city code requires sidewalks be created with cement."
+        ],
+        "multiple_choice_targets": [
+            "Only, city code requires sidewalks be created with cement.",
+            "Nonetheless city code requires sidewalks be created with cement.",
+            "Truthfully, city code requires sidewalks be created with cement.",
+            "Currently, city code requires sidewalks be created with cement.",
+            "Already, city code requires sidewalks be created with cement.",
+            "Slowly, city code requires sidewalks be created with cement.",
+            "Happily, city code requires sidewalks be created with cement.",
+            "In particular, city code requires sidewalks be created with cement.",
+            "Clearly, city code requires sidewalks be created with cement.",
+            "Occasionally, city code requires sidewalks be created with cement."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 706,
+        "inputs": "Would my ideal werewolf hero be a good guy?\n  choice: Optionally, maybe not.\n  choice: Arguably, maybe not.\n  choice: Locally, maybe not.\n  choice:  maybe not.\n  choice: Only, maybe not.\n  choice: In sum, maybe not.\n  choice: Ultimately, maybe not.\n  choice: Lately, maybe not.\n  choice: Interestingly, maybe not.\n  choice: Maybe, maybe not.",
+        "targets": [
+            "Maybe, maybe not."
+        ],
+        "multiple_choice_targets": [
+            "Ultimately, maybe not.",
+            "Optionally, maybe not.",
+            "Arguably, maybe not.",
+            "Interestingly, maybe not.",
+            "Only, maybe not.",
+            "Maybe, maybe not.",
+            "maybe not.",
+            "Lately, maybe not.",
+            "In sum, maybe not.",
+            "Locally, maybe not."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 189,
+        "inputs": "Above all else, the home is supremely secure, behind the safety of two gates, and equipped with a state of the art video surveillance system.\n  choice: Truly, one of a kind.\n  choice: Because of that one of a kind.\n  choice: Frankly, one of a kind.\n  choice: Arguably, one of a kind.\n  choice: Maybe, one of a kind.\n  choice: Besides, one of a kind.\n  choice: Typically, one of a kind.\n  choice: Coincidentally, one of a kind.\n  choice: By then one of a kind.\n  choice: Interestingly, one of a kind.",
+        "targets": [
+            "Truly, one of a kind."
+        ],
+        "multiple_choice_targets": [
+            "Frankly, one of a kind.",
+            "Truly, one of a kind.",
+            "Because of that one of a kind.",
+            "Arguably, one of a kind.",
+            "Maybe, one of a kind.",
+            "Coincidentally, one of a kind.",
+            "Besides, one of a kind.",
+            "By then one of a kind.",
+            "Typically, one of a kind.",
+            "Interestingly, one of a kind."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 196,
+        "inputs": "Long story short, the ENERGY STAR program, run by the Environmental Protection Agency and the Department of Energy, gives people and businesses a chance to save money and protect the environment.\n  choice: Thankfully, a new government program will provide a similar service for water products.\n  choice: Furthermore a new government program will provide a similar service for water products.\n  choice: Regardless, a new government program will provide a similar service for water products.\n  choice: Apparently, a new government program will provide a similar service for water products.\n  choice: Surprisingly, a new government program will provide a similar service for water products.\n  choice: Lately, a new government program will provide a similar service for water products.\n  choice: Ultimately, a new government program will provide a similar service for water products.\n  choice: Once, a new government program will provide a similar service for water products.\n  choice: Nationally, a new government program will provide a similar service for water products.\n  choice: Soon, a new government program will provide a similar service for water products.",
+        "targets": [
+            "Soon, a new government program will provide a similar service for water products."
+        ],
+        "multiple_choice_targets": [
+            "Ultimately, a new government program will provide a similar service for water products.",
+            "Soon, a new government program will provide a similar service for water products.",
+            "Thankfully, a new government program will provide a similar service for water products.",
+            "Apparently, a new government program will provide a similar service for water products.",
+            "Surprisingly, a new government program will provide a similar service for water products.",
+            "Once, a new government program will provide a similar service for water products.",
+            "Lately, a new government program will provide a similar service for water products.",
+            "Regardless, a new government program will provide a similar service for water products.",
+            "Nationally, a new government program will provide a similar service for water products.",
+            "Furthermore a new government program will provide a similar service for water products."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 221,
+        "inputs": "This civilized oasis will be going out of business on December 31.\n  choice: Second, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: And this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: In short, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Amazingly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: On the contrary, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Certainly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Still, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Firstly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Collectively, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.\n  choice: Later, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+        "targets": [
+            "Amazingly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :."
+        ],
+        "multiple_choice_targets": [
+            "In short, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Collectively, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "And this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Firstly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "On the contrary, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Later, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Certainly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Still, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Amazingly, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :.",
+            "Second, this tidbit I wrote for the PTSNBN's holiday shopping guide a million years ago still exists :."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 756,
+        "inputs": "Startled by the couple's arrival, deputies said Blackburn , 33, quickly ran out of the house.\n  choice: Sometimes, several neighbors were outside when it happened and rushed to help.\n  choice: But several neighbors were outside when it happened and rushed to help.\n  choice: Nonetheless several neighbors were outside when it happened and rushed to help.\n  choice: Actually, several neighbors were outside when it happened and rushed to help.\n  choice: So, several neighbors were outside when it happened and rushed to help.\n  choice: In sum, several neighbors were outside when it happened and rushed to help.\n  choice: Subsequently, several neighbors were outside when it happened and rushed to help.\n  choice: Luckily, several neighbors were outside when it happened and rushed to help.\n  choice: Interestingly, several neighbors were outside when it happened and rushed to help.\n  choice: Seriously, several neighbors were outside when it happened and rushed to help.",
+        "targets": [
+            "Luckily, several neighbors were outside when it happened and rushed to help."
+        ],
+        "multiple_choice_targets": [
+            "Seriously, several neighbors were outside when it happened and rushed to help.",
+            "Nonetheless several neighbors were outside when it happened and rushed to help.",
+            "So, several neighbors were outside when it happened and rushed to help.",
+            "Actually, several neighbors were outside when it happened and rushed to help.",
+            "But several neighbors were outside when it happened and rushed to help.",
+            "Luckily, several neighbors were outside when it happened and rushed to help.",
+            "In sum, several neighbors were outside when it happened and rushed to help.",
+            "Interestingly, several neighbors were outside when it happened and rushed to help.",
+            "Subsequently, several neighbors were outside when it happened and rushed to help.",
+            "Sometimes, several neighbors were outside when it happened and rushed to help."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 495,
+        "inputs": "It didn't matter to me who paid - all I know is I didn't!\n  choice: Thankfully, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Amazingly, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Only, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Also, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Presently, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Because of that customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Well, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Luckily, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Importantly, customer satisfaction I felt I am sure my next purchase will be a Ford product.\n  choice: Personally, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+        "targets": [
+            "Because of that customer satisfaction I felt I am sure my next purchase will be a Ford product."
+        ],
+        "multiple_choice_targets": [
+            "Amazingly, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Luckily, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Also, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Importantly, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Only, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Thankfully, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Because of that customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Personally, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Well, customer satisfaction I felt I am sure my next purchase will be a Ford product.",
+            "Presently, customer satisfaction I felt I am sure my next purchase will be a Ford product."
         ],
         "multiple_choice_scores": [
             0,
@@ -31,22 +279,115 @@
         ]
     },
     {
-        "idx": 339,
-        "inputs": "We all know Patrick Dempsey as McDreamy, obviously.\n  choice: Instead, did you know that he also dabbles in auto racing?\n  choice: Apparently, did you know that he also dabbles in auto racing?\n  choice: Further, did you know that he also dabbles in auto racing?\n  choice: Altogether, did you know that he also dabbles in auto racing?\n  choice: In the meantime, did you know that he also dabbles in auto racing?\n  choice: But did you know that he also dabbles in auto racing?\n  choice: Similarly, did you know that he also dabbles in auto racing?\n  choice: Currently, did you know that he also dabbles in auto racing?\n  choice: By comparison, did you know that he also dabbles in auto racing?\n  choice: In the end, did you know that he also dabbles in auto racing?",
+        "idx": 283,
+        "inputs": "A decrease in the surface energy of the treated surface has been observed in most samples implanted according to the present invention.\n  choice: Therefore this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: In particular, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Personally, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Actually, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Realistically, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Meantime, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Thus, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: On the other hand this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Moreover this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.\n  choice: Presumably, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
         "targets": [
-            "But did you know that he also dabbles in auto racing?"
+            "Presumably, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic."
         ],
         "multiple_choice_targets": [
-            "By comparison, did you know that he also dabbles in auto racing?",
-            "In the meantime, did you know that he also dabbles in auto racing?",
-            "Apparently, did you know that he also dabbles in auto racing?",
-            "Similarly, did you know that he also dabbles in auto racing?",
-            "Instead, did you know that he also dabbles in auto racing?",
-            "Altogether, did you know that he also dabbles in auto racing?",
-            "Currently, did you know that he also dabbles in auto racing?",
-            "In the end, did you know that he also dabbles in auto racing?",
-            "Further, did you know that he also dabbles in auto racing?",
-            "But did you know that he also dabbles in auto racing?"
+            "Realistically, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Personally, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Presumably, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Therefore this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Moreover this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Thus, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Actually, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "On the other hand this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "In particular, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic.",
+            "Meantime, this is due to a reduction in the amount of oxygen and an increase in carbon content in the implanted layer, making the polymer surface more hydrophobic."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 741,
+        "inputs": "Or maybe not.\n  choice: Subsequently, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Hopefully, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Plus, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Also, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Similarly, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Immediately, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Then, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Luckily, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Lastly, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.\n  choice: Regardless, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+        "targets": [
+            "Regardless, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean."
+        ],
+        "multiple_choice_targets": [
+            "Immediately, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Luckily, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Similarly, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Also, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Plus, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Subsequently, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Regardless, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Then, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Lastly, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean.",
+            "Hopefully, we really enjoy the new Mom, even though she definitely likes to make sure all her girls get some air-time...if you know what I mean."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 603,
+        "inputs": "It seems to be very finicky.\n  choice: Probably, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: By doing this, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: In other words \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Alternately, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Ironically, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Essentially, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Supposedly, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: In contrast, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Historically, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"\n  choice: Inevitably, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+        "targets": [
+            "Supposedly, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\""
+        ],
+        "multiple_choice_targets": [
+            "Inevitably, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "In other words \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "By doing this, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Historically, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Essentially, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "In contrast, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Supposedly, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Ironically, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Probably, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\"",
+            "Alternately, \"Avid made some adjustments after the '05 J7's to solve the``turkey gobble\"\"problem - to which I can't comment.\""
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 778,
+        "inputs": "Secondly, it emphasises the need for assistance for the elderly and low-income earners during times of critical need.\n  choice: Truly, it recommends that China's system of administration needs revising.\n  choice: Firstly, it recommends that China's system of administration needs revising.\n  choice: Separately, it recommends that China's system of administration needs revising.\n  choice: By contrast, it recommends that China's system of administration needs revising.\n  choice: Traditionally, it recommends that China's system of administration needs revising.\n  choice: Ideally, it recommends that China's system of administration needs revising.\n  choice: Usually, it recommends that China's system of administration needs revising.\n  choice: Meantime, it recommends that China's system of administration needs revising.\n  choice: Maybe, it recommends that China's system of administration needs revising.\n  choice: Thirdly, it recommends that China's system of administration needs revising.",
+        "targets": [
+            "Thirdly, it recommends that China's system of administration needs revising."
+        ],
+        "multiple_choice_targets": [
+            "Meantime, it recommends that China's system of administration needs revising.",
+            "Ideally, it recommends that China's system of administration needs revising.",
+            "Usually, it recommends that China's system of administration needs revising.",
+            "Truly, it recommends that China's system of administration needs revising.",
+            "Traditionally, it recommends that China's system of administration needs revising.",
+            "Separately, it recommends that China's system of administration needs revising.",
+            "Maybe, it recommends that China's system of administration needs revising.",
+            "By contrast, it recommends that China's system of administration needs revising.",
+            "Firstly, it recommends that China's system of administration needs revising.",
+            "Thirdly, it recommends that China's system of administration needs revising."
         ],
         "multiple_choice_scores": [
             0,
@@ -62,22 +403,53 @@
         ]
     },
     {
-        "idx": 559,
-        "inputs": "This is the type of real-world parenting from my own experience I keep in mind when thinking about how to help families in the library.\n  choice: Or, just this morning this article was published on Kidscreen :.\n  choice: Anyway, just this morning this article was published on Kidscreen :.\n  choice: Here, just this morning this article was published on Kidscreen :.\n  choice: Also, just this morning this article was published on Kidscreen :.\n  choice: Once, just this morning this article was published on Kidscreen :.\n  choice: By then just this morning this article was published on Kidscreen :.\n  choice: Significantly, just this morning this article was published on Kidscreen :.\n  choice: Especially, just this morning this article was published on Kidscreen :.\n  choice: Coincidentally, just this morning this article was published on Kidscreen :.\n  choice: In turn, just this morning this article was published on Kidscreen :.",
+        "idx": 537,
+        "inputs": "First to cooperate when called upon, as agents will be reaching out to many across the nation to help gather information and intelligence.\n  choice: Second, to be aware of your surroundings and report anything suspicious.\n  choice: Certainly, to be aware of your surroundings and report anything suspicious.\n  choice: Immediately, to be aware of your surroundings and report anything suspicious.\n  choice: Absolutely, to be aware of your surroundings and report anything suspicious.\n  choice: Presumably, to be aware of your surroundings and report anything suspicious.\n  choice: Elsewhere, to be aware of your surroundings and report anything suspicious.\n  choice: Thereafter, to be aware of your surroundings and report anything suspicious.\n  choice: Here, to be aware of your surroundings and report anything suspicious.\n  choice: Especially, to be aware of your surroundings and report anything suspicious.\n  choice: Often, to be aware of your surroundings and report anything suspicious.",
         "targets": [
-            "Coincidentally, just this morning this article was published on Kidscreen :."
+            "Second, to be aware of your surroundings and report anything suspicious."
         ],
         "multiple_choice_targets": [
-            "Also, just this morning this article was published on Kidscreen :.",
-            "Here, just this morning this article was published on Kidscreen :.",
-            "Once, just this morning this article was published on Kidscreen :.",
-            "Anyway, just this morning this article was published on Kidscreen :.",
-            "Significantly, just this morning this article was published on Kidscreen :.",
-            "Especially, just this morning this article was published on Kidscreen :.",
-            "By then just this morning this article was published on Kidscreen :.",
-            "Coincidentally, just this morning this article was published on Kidscreen :.",
-            "In turn, just this morning this article was published on Kidscreen :.",
-            "Or, just this morning this article was published on Kidscreen :."
+            "Absolutely, to be aware of your surroundings and report anything suspicious.",
+            "Elsewhere, to be aware of your surroundings and report anything suspicious.",
+            "Certainly, to be aware of your surroundings and report anything suspicious.",
+            "Presumably, to be aware of your surroundings and report anything suspicious.",
+            "Immediately, to be aware of your surroundings and report anything suspicious.",
+            "Often, to be aware of your surroundings and report anything suspicious.",
+            "Second, to be aware of your surroundings and report anything suspicious.",
+            "Especially, to be aware of your surroundings and report anything suspicious.",
+            "Here, to be aware of your surroundings and report anything suspicious.",
+            "Thereafter, to be aware of your surroundings and report anything suspicious."
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 611,
+        "inputs": "Sudden thought: Maybe that nice lady was a seamstress too and recognised the Ikea canvas?\n  choice: Thankfully, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Anyway, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Meanwhile, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Accordingly i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Presently, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Certainly, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Truly, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Hence, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Fortunately, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.\n  choice: Notably, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+        "targets": [
+            "Anyway, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some."
+        ],
+        "multiple_choice_targets": [
+            "Presently, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Fortunately, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Notably, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Accordingly i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Truly, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Meanwhile, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Thankfully, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Anyway, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Certainly, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some.",
+            "Hence, i fell in love with this fabric about 2 years ago when I saw it used in a project on BurdaStyle and went straight out to buy some."
         ],
         "multiple_choice_scores": [
             0,
@@ -93,53 +465,22 @@
         ]
     },
     {
-        "idx": 777,
-        "inputs": "After a number of trials in various weather conditions, a driving regime was developed which attempted to duplicate the real world experience of the test drivers.\n  choice: This, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Because of this the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Later, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Anyway, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Once, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Here, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Yet, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Initially, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Incidentally, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.\n  choice: Oddly, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
+        "idx": 289,
+        "inputs": "Waiting, praying, hoping--and with good reason.\n  choice: Or, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Because of that remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Incidentally, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Amazingly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Nevertheless remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Firstly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Therefore remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: In the meantime, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: In fact, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?\n  choice: Interestingly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
         "targets": [
-            "Initially, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle."
+            "Incidentally, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?"
         ],
         "multiple_choice_targets": [
-            "Oddly, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Yet, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "This, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Later, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Incidentally, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Because of this the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Here, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Anyway, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Initially, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle.",
-            "Once, the driving schedule was put on a strip chart mounted on a recorder placed in the test vehicle."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 366,
-        "inputs": "And one of the things we've found is that we can typically align behavior with usability and interaction/interface design.\n  choice: Slowly, we can typically align perception with visual (aesthetic) design.\n  choice: Currently, we can typically align perception with visual (aesthetic) design.\n  choice: Meanwhile, we can typically align perception with visual (aesthetic) design.\n  choice: By doing this, we can typically align perception with visual (aesthetic) design.\n  choice: Sadly, we can typically align perception with visual (aesthetic) design.\n  choice: Inevitably, we can typically align perception with visual (aesthetic) design.\n  choice: Thus, we can typically align perception with visual (aesthetic) design.\n  choice: Meaning, we can typically align perception with visual (aesthetic) design.\n  choice: Likewise, we can typically align perception with visual (aesthetic) design.\n  choice: Notably, we can typically align perception with visual (aesthetic) design.",
-        "targets": [
-            "Likewise, we can typically align perception with visual (aesthetic) design."
-        ],
-        "multiple_choice_targets": [
-            "Meanwhile, we can typically align perception with visual (aesthetic) design.",
-            "Sadly, we can typically align perception with visual (aesthetic) design.",
-            "By doing this, we can typically align perception with visual (aesthetic) design.",
-            "Slowly, we can typically align perception with visual (aesthetic) design.",
-            "Thus, we can typically align perception with visual (aesthetic) design.",
-            "Inevitably, we can typically align perception with visual (aesthetic) design.",
-            "Meaning, we can typically align perception with visual (aesthetic) design.",
-            "Notably, we can typically align perception with visual (aesthetic) design.",
-            "Currently, we can typically align perception with visual (aesthetic) design.",
-            "Likewise, we can typically align perception with visual (aesthetic) design."
+            "In fact, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Firstly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Or, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Interestingly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Amazingly, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "In the meantime, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Nevertheless remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Because of that remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Therefore remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?",
+            "Incidentally, remember all the contradictory ideas floating about before the recent Vatican instruction about homosexual men and the priesthood?"
         ],
         "multiple_choice_scores": [
             0,
@@ -155,115 +496,22 @@
         ]
     },
     {
-        "idx": 140,
-        "inputs": "The MDI is dependent on the propulsive force of the propellant system used in its manufacture.\n  choice: Realistically, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Coincidentally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Likewise, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: And the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Nationally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Evidently, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Happily, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Frankly, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.\n  choice: Namely, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
+        "idx": 102,
+        "inputs": "\"Since those were followed up by several``Spenser\"\"movies leading up to DS9, they were afraid people would be thinking of him as Hawk.\"\n  choice: Namely, the hair.\n  choice: Evidently, the hair.\n  choice: In sum, the hair.\n  choice: Besides, the hair.\n  choice: Likewise, the hair.\n  choice: For example the hair.\n  choice: Truly, the hair.\n  choice: Hence, the hair.\n  choice: Gradually, the hair.\n  choice: Later, the hair.",
         "targets": [
-            "Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability."
+            "Hence, the hair."
         ],
         "multiple_choice_targets": [
-            "Likewise, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Nationally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Evidently, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "And the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Happily, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Coincidentally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Traditionally, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Realistically, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Frankly, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability.",
-            "Namely, the propellant system has consisted of a mixture of chlorofluorocarbons (CFCs) which are selected to provide the desired vapor pressure and suspension stability."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 354,
-        "inputs": "They were recommended for $431,000, pending a successful feasibility study that would be approved by the Council, among other things.\n  choice: Subsequently, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Further, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Naturally, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Arguably, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Separately, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Ideally, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Together, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Mostly, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Instead, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.\n  choice: Rather, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-        "targets": [
-            "Separately, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota."
-        ],
-        "multiple_choice_targets": [
-            "Instead, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Subsequently, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Naturally, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Separately, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Rather, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Ideally, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Mostly, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Arguably, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Together, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota.",
-            "Further, the Northern Corn Development Corp. is involved with another company called Northern Plains Nitrogen, a separate $1 billion project somewhere in North Dakota."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 781,
-        "inputs": "Catnip included (catnip that can be sprinkled on the scratcher to entice use).\n  choice: Soon, manufacturers require that products be advertised only at their suggested prices.\n  choice: Again, manufacturers require that products be advertised only at their suggested prices.\n  choice: On the contrary, manufacturers require that products be advertised only at their suggested prices.\n  choice: Accordingly manufacturers require that products be advertised only at their suggested prices.\n  choice: Sometimes, manufacturers require that products be advertised only at their suggested prices.\n  choice: Apparently, manufacturers require that products be advertised only at their suggested prices.\n  choice: Well, manufacturers require that products be advertised only at their suggested prices.\n  choice: Normally, manufacturers require that products be advertised only at their suggested prices.\n  choice: Arguably, manufacturers require that products be advertised only at their suggested prices.\n  choice: Presently, manufacturers require that products be advertised only at their suggested prices.",
-        "targets": [
-            "Sometimes, manufacturers require that products be advertised only at their suggested prices."
-        ],
-        "multiple_choice_targets": [
-            "Soon, manufacturers require that products be advertised only at their suggested prices.",
-            "Well, manufacturers require that products be advertised only at their suggested prices.",
-            "Normally, manufacturers require that products be advertised only at their suggested prices.",
-            "Again, manufacturers require that products be advertised only at their suggested prices.",
-            "Accordingly manufacturers require that products be advertised only at their suggested prices.",
-            "Apparently, manufacturers require that products be advertised only at their suggested prices.",
-            "Presently, manufacturers require that products be advertised only at their suggested prices.",
-            "Arguably, manufacturers require that products be advertised only at their suggested prices.",
-            "Sometimes, manufacturers require that products be advertised only at their suggested prices.",
-            "On the contrary, manufacturers require that products be advertised only at their suggested prices."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 402,
-        "inputs": "And actually think that it's a successful development model.\n  choice: Slowly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: By contrast, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Notably, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Amazingly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Really, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Certainly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Yet, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Mostly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: In sum, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.\n  choice: Once, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-        "targets": [
-            "Yet, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses."
-        ],
-        "multiple_choice_targets": [
-            "Notably, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Once, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Slowly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "In sum, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Yet, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Mostly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "By contrast, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Certainly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Amazingly, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses.",
-            "Really, game after game, that same model fails to attract what it should attract if they just pulled their heads out of their asses."
+            "Truly, the hair.",
+            "Besides, the hair.",
+            "In sum, the hair.",
+            "Namely, the hair.",
+            "Hence, the hair.",
+            "Later, the hair.",
+            "Likewise, the hair.",
+            "Gradually, the hair.",
+            "Evidently, the hair.",
+            "For example the hair."
         ],
         "multiple_choice_scores": [
             0,
@@ -279,22 +527,22 @@
         ]
     },
     {
-        "idx": 840,
-        "inputs": ", Ahimsa - non-violence (don't hurt yourself trying to do something that isn't available to your body), Svadhyaya - self-study (why don't I want to use my knees? )\n  choice: Seriously, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: And ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: For instance ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Altogether, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Namely, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Because of this ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Truthfully, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Collectively, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: By contrast, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).\n  choice: Luckily, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
+        "idx": 852,
+        "inputs": "My epic journey across the countryside was helped immensely by the level 12 pawn i got from fredrick_s.\n  choice: Thirdly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Later, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Sadly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Frequently, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Surprisingly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Likewise, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Undoubtedly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: On the other hand when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Meantime, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.\n  choice: Specifically, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
         "targets": [
-            "And ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right)."
+            "Later, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn."
         ],
         "multiple_choice_targets": [
-            "Because of this ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Luckily, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Altogether, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Seriously, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Collectively, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "And ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Namely, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "By contrast, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "For instance ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right).",
-            "Truthfully, ishvara Pranidhana - surrender (trust your practice will bring you to Chaturanga Dandasana when the time is right)."
+            "Meantime, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "On the other hand when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Thirdly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Likewise, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Sadly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Later, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Specifically, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Undoubtedly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Surprisingly, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn.",
+            "Frequently, when I found a riftstone, I dismissed him, and hired him back as a level 18 pawn."
         ],
         "multiple_choice_scores": [
             0,
@@ -310,239 +558,22 @@
         ]
     },
     {
-        "idx": 508,
-        "inputs": "There is Ike Jefferson, one of the first black students to grace the halls of Peninsula High, and the three mysterious residents of the local orphanage, Betty, Starla, and Niles.\n  choice: Usually, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: In the end, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Strangely, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: By contrast, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: This, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Lastly, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Yet, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Perhaps, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Nonetheless there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.\n  choice: Surely, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
+        "idx": 198,
+        "inputs": "So what stands out as good video game writing to chuck beaver?\n  choice: Thankfully, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: By contrast, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Only, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Because of that he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Still, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Increasingly, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Unsurprisingly, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Nationally, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Maybe, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''\n  choice: Or, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
         "targets": [
-            "Lastly, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society."
+            "Unsurprisingly, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''"
         ],
         "multiple_choice_targets": [
-            "Nonetheless there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "In the end, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Lastly, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Surely, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Usually, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Strangely, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "By contrast, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "This, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Yet, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society.",
-            "Perhaps, there are Molly and Chad, the blue-blooded and aristocratic couple from the upper crust of Charleston society."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 398,
-        "inputs": "It's all about the local spirits of that particular place, and they may have a dual nature--beneficial or destructive.\n  choice: On the contrary, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Because of that buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Generally, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Alternately, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Meanwhile, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: By contrast, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Then, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Elsewhere, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: Currently, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.\n  choice: In fact, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-        "targets": [
-            "By contrast, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said."
-        ],
-        "multiple_choice_targets": [
-            "Because of that buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Currently, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Elsewhere, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "In fact, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Generally, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Then, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Meanwhile, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "Alternately, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "On the contrary, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said.",
-            "By contrast, buddhism, the dominant religion now, is less about the spirits of the natural world and more about rituals of society, family and state, Nelson said."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 623,
-        "inputs": "Many rooms even provide additional bathroom, additional toilet, mirror, towels, internet access - wireless (complimentary) to please the most discerning guest.\n  choice: Secondly, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: In turn, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Or, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Besides, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Second, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Later, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Slowly, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Normally, the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Nonetheless the hotel's host of recreational offerings ensures you have plenty to do during your stay.\n  choice: Previously, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-        "targets": [
-            "Besides, the hotel's host of recreational offerings ensures you have plenty to do during your stay."
-        ],
-        "multiple_choice_targets": [
-            "Normally, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Nonetheless the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Besides, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Later, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Slowly, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "In turn, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Previously, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Or, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Second, the hotel's host of recreational offerings ensures you have plenty to do during your stay.",
-            "Secondly, the hotel's host of recreational offerings ensures you have plenty to do during your stay."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 750,
-        "inputs": "The object is to read 12 books featuring cats or at least mentioning cats in the title during the year.\n  choice: Therefore like I said, I don't want to read about cats.\n  choice: Arguably, like I said, I don't want to read about cats.\n  choice: Only, like I said, I don't want to read about cats.\n  choice: Absolutely, like I said, I don't want to read about cats.\n  choice: Really, like I said, I don't want to read about cats.\n  choice: By then like I said, I don't want to read about cats.\n  choice: Unsurprisingly, like I said, I don't want to read about cats.\n  choice: Once, like I said, I don't want to read about cats.\n  choice: Ironically, like I said, I don't want to read about cats.\n  choice: Originally, like I said, I don't want to read about cats.",
-        "targets": [
-            "Only, like I said, I don't want to read about cats."
-        ],
-        "multiple_choice_targets": [
-            "Only, like I said, I don't want to read about cats.",
-            "By then like I said, I don't want to read about cats.",
-            "Once, like I said, I don't want to read about cats.",
-            "Unsurprisingly, like I said, I don't want to read about cats.",
-            "Ironically, like I said, I don't want to read about cats.",
-            "Therefore like I said, I don't want to read about cats.",
-            "Really, like I said, I don't want to read about cats.",
-            "Originally, like I said, I don't want to read about cats.",
-            "Absolutely, like I said, I don't want to read about cats.",
-            "Arguably, like I said, I don't want to read about cats."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 436,
-        "inputs": "The location of each Guanhaes hotel listed is shown on the detailed zoomable map.\n  choice: Sometimes, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Curiously, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Moreover guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Accordingly guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Recently, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Fortunately, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Third, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Importantly, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Hopefully, guanhaes hotel map is available where all hotels in Guanhaes are marked.\n  choice: Obviously, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-        "targets": [
-            "Moreover guanhaes hotel map is available where all hotels in Guanhaes are marked."
-        ],
-        "multiple_choice_targets": [
-            "Fortunately, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Importantly, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Third, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Obviously, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Moreover guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Curiously, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Hopefully, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Sometimes, guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Accordingly guanhaes hotel map is available where all hotels in Guanhaes are marked.",
-            "Recently, guanhaes hotel map is available where all hotels in Guanhaes are marked."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 779,
-        "inputs": "Death vs. Hope The pace of medical progress should give patients and doctors pause when considering assisted suicide.\n  choice: Though, there is an issue here in desperate need of attention.\n  choice: Frequently, there is an issue here in desperate need of attention.\n  choice: Sadly, there is an issue here in desperate need of attention.\n  choice: Clearly, there is an issue here in desperate need of attention.\n  choice: Surely, there is an issue here in desperate need of attention.\n  choice: Locally, there is an issue here in desperate need of attention.\n  choice: Unfortunately, there is an issue here in desperate need of attention.\n  choice: Remarkably, there is an issue here in desperate need of attention.\n  choice: On the contrary, there is an issue here in desperate need of attention.\n  choice: Similarly, there is an issue here in desperate need of attention.",
-        "targets": [
-            "Clearly, there is an issue here in desperate need of attention."
-        ],
-        "multiple_choice_targets": [
-            "Though, there is an issue here in desperate need of attention.",
-            "Similarly, there is an issue here in desperate need of attention.",
-            "Frequently, there is an issue here in desperate need of attention.",
-            "Unfortunately, there is an issue here in desperate need of attention.",
-            "Locally, there is an issue here in desperate need of attention.",
-            "Sadly, there is an issue here in desperate need of attention.",
-            "Surely, there is an issue here in desperate need of attention.",
-            "Clearly, there is an issue here in desperate need of attention.",
-            "Remarkably, there is an issue here in desperate need of attention.",
-            "On the contrary, there is an issue here in desperate need of attention."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 133,
-        "inputs": "A Gong Li beauty break and those six of her most famous films after the jump....\n  choice: Suddenly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: In other words we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: So, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Firstly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Soon, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Meantime, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Theoretically, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Probably, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Oddly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.\n  choice: Sometimes, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-        "targets": [
-            "Soon, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race."
-        ],
-        "multiple_choice_targets": [
-            "So, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Firstly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Probably, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Suddenly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "In other words we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Meantime, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Oddly, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Soon, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Sometimes, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race.",
-            "Theoretically, we'll be buried in an avalanche of awards news again so tonight a brief respite from the current Oscar race."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 393,
-        "inputs": "This responsibility maybe shared between different people within the organisation, with some focusing on fundraising events and individual donations, and others looking at funding applications and tenders.\n  choice: Therefore charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Already, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Firstly, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Afterward charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Technically, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Apparently, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Traditionally, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Eventually, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Arguably, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.\n  choice: Subsequently, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-        "targets": [
-            "Traditionally, charities and voluntary organisations have relied on individual donations and grants for the majority of their income."
-        ],
-        "multiple_choice_targets": [
-            "Technically, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Afterward charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Eventually, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Firstly, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Apparently, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Traditionally, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Subsequently, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Already, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Arguably, charities and voluntary organisations have relied on individual donations and grants for the majority of their income.",
-            "Therefore charities and voluntary organisations have relied on individual donations and grants for the majority of their income."
+            "Maybe, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Increasingly, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Still, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Nationally, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Because of that he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Unsurprisingly, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Or, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Thankfully, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "By contrast, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''",
+            "Only, he mentioned Portal 2, stating that it``succeeds at least as much on its writing as its masterful platformer level design . ''"
         ],
         "multiple_choice_scores": [
             0,
@@ -558,53 +589,22 @@
         ]
     },
     {
-        "idx": 369,
-        "inputs": "I think this might be my new mission as a psychologist.\n  choice: So, i could find nothing in the psychological literature on this issue.\n  choice: Accordingly i could find nothing in the psychological literature on this issue.\n  choice: Arguably, i could find nothing in the psychological literature on this issue.\n  choice:  i could find nothing in the psychological literature on this issue.\n  choice: Realistically, i could find nothing in the psychological literature on this issue.\n  choice: Afterward i could find nothing in the psychological literature on this issue.\n  choice: Strangely, i could find nothing in the psychological literature on this issue.\n  choice: Altogether, i could find nothing in the psychological literature on this issue.\n  choice: Although, i could find nothing in the psychological literature on this issue.\n  choice: Obviously, i could find nothing in the psychological literature on this issue.",
+        "idx": 303,
+        "inputs": "[ uefa champions league] with one slip, the biggest game of arsenal teenager kieran gibbs' career quickly turned into a nightmare, and by halftime he was gone.\n  choice: Still, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Essentially, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Later, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: By then gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Seriously, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: First, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Suddenly, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Initially, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Indeed, gunners' hopes of advancing to the UEFA Champions League final had evaporated.\n  choice: Plus, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
         "targets": [
-            "Strangely, i could find nothing in the psychological literature on this issue."
+            "By then gunners' hopes of advancing to the UEFA Champions League final had evaporated."
         ],
         "multiple_choice_targets": [
-            "Arguably, i could find nothing in the psychological literature on this issue.",
-            "i could find nothing in the psychological literature on this issue.",
-            "Afterward i could find nothing in the psychological literature on this issue.",
-            "Obviously, i could find nothing in the psychological literature on this issue.",
-            "Accordingly i could find nothing in the psychological literature on this issue.",
-            "Strangely, i could find nothing in the psychological literature on this issue.",
-            "Altogether, i could find nothing in the psychological literature on this issue.",
-            "Although, i could find nothing in the psychological literature on this issue.",
-            "Realistically, i could find nothing in the psychological literature on this issue.",
-            "So, i could find nothing in the psychological literature on this issue."
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 239,
-        "inputs": "Formally the coking coal collieries - main source for steel production - were nationalised in 1971, and the non-coking ones in 1973.\n  choice: Thirdly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: By doing this, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Slowly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: As a result, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Subsequently, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Increasingly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Well, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Plus, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Lastly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.\n  choice: Strangely, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-        "targets": [
-            "Subsequently, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975."
-        ],
-        "multiple_choice_targets": [
-            "Increasingly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Lastly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Strangely, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Subsequently, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Slowly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Plus, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "As a result, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Well, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "By doing this, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975.",
-            "Thirdly, all coking and non-coking collieries were merged into the Coal India Ltd. (CIL) on 1st of November 1975."
+            "Seriously, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Initially, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Indeed, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "By then gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Plus, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Later, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Essentially, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Still, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "First, gunners' hopes of advancing to the UEFA Champions League final had evaporated.",
+            "Suddenly, gunners' hopes of advancing to the UEFA Champions League final had evaporated."
         ],
         "multiple_choice_scores": [
             0,

@@ -1,180 +1,180 @@
 [
     {
-        "idx": 146,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n23 * 59 -> 1357\n34 * 85 -> 2890\n26 * 82 -> 2132\n75 * 19 -> 1425\n64 * 84 -> 5376\n48 * 0 ->",
+        "idx": 346,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n352 - 195 -> 158\n792 - 915 -> -122\n929 - 665 -> 265\n381 - 644 -> -262\n226 - 700 -> -473\n475 - 476 ->",
         "targets": [
-            "518"
+            "0"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 296,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n856 - 181 -> 675\n457 - 917 -> -460\n850 - 832 -> 18\n63 - 838 -> -775\n259 - 192 -> 67\n654 - 615 ->",
+        "idx": 690,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n437 - 214 -> 224\n428 - 790 -> -361\n497 - 539 -> -41\n746 - 366 -> 381\n312 - 537 -> -224\n920 - 53 ->",
         "targets": [
-            "373"
+            "868"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 312,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n672 - 713 -> -41\n935 - 927 -> 8\n241 - 864 -> -623\n1 - 224 -> -223\n800 - 744 -> 56\n972 - 925 ->",
+        "idx": 647,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n47 * 6 -> 283\n58 * 68 -> 3945\n10 * 14 -> 141\n63 * 2 -> 127\n68 * 22 -> 1497\n52 * 36 ->",
         "targets": [
-            "425"
+            "1873"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 461,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n608 - 628 -> -20\n198 - 831 -> -633\n485 - 532 -> -47\n199 - 370 -> -171\n958 - 852 -> 106\n447 - 247 ->",
+        "idx": 864,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n31 * 31 -> 961\n41 * 31 -> 1271\n25 * 0 -> 0\n55 * 1 -> 55\n80 * 29 -> 2320\n70 * 51 ->",
         "targets": [
-            "1856"
+            "3570"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 584,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n980 + 183 -> 1163\n950 + 367 -> 1317\n982 + 197 -> 1179\n370 + 372 -> 742\n972 + 496 -> 1468\n598 + 200 ->",
+        "idx": 849,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n433 - 206 -> 228\n27 - 681 -> -653\n335 - 587 -> -251\n627 - 68 -> 560\n865 - 745 -> 121\n512 - 166 ->",
         "targets": [
-            "1296"
+            "347"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 764,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n75 * 37 -> 2775\n35 * 40 -> 1400\n68 * 12 -> 816\n86 * 57 -> 4902\n49 * 29 -> 1421\n61 * 24 ->",
+        "idx": 385,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n419 - 610 -> -191\n428 - 374 -> 54\n72 - 948 -> -876\n997 - 633 -> 364\n29 - 187 -> -158\n363 - 865 ->",
         "targets": [
-            "1422"
+            "-502"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 97,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n45 - 666 -> -621\n112 - 232 -> -120\n16 - 359 -> -343\n222 - 865 -> -643\n699 - 447 -> 252\n855 - 364 ->",
+        "idx": 267,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n742 + 799 -> 1541\n160 + 783 -> 943\n459 + 549 -> 1008\n499 + 737 -> 1236\n508 + 653 -> 1161\n803 + 480 ->",
         "targets": [
-            "1702"
+            "1283"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 386,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n578 + 508 -> 1086\n331 + 92 -> 423\n687 + 656 -> 1343\n518 + 268 -> 786\n375 + 833 -> 1208\n3 + 137 ->",
+        "idx": 896,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n415 + 531 -> 947\n440 + 737 -> 1178\n945 + 463 -> 1409\n920 + 395 -> 1316\n710 + 550 -> 1261\n656 + 556 ->",
         "targets": [
-            "1076"
+            "1213"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 451,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n558 + 757 -> 1315\n126 + 146 -> 272\n117 + 910 -> 1027\n381 + 411 -> 792\n663 + 583 -> 1246\n362 + 508 ->",
+        "idx": 360,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n933 - 436 -> 497\n828 - 675 -> 153\n935 - 464 -> 471\n285 - 264 -> 21\n319 - 672 -> -353\n375 - 819 ->",
         "targets": [
-            "1242"
+            "-444"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 169,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n545 - 705 -> -160\n324 - 54 -> 270\n777 - 991 -> -214\n41 - 296 -> -255\n972 - 230 -> 742\n452 - 889 ->",
+        "idx": 791,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n71 * 19 -> 1350\n53 * 85 -> 4506\n82 * 29 -> 2379\n52 * 91 -> 4733\n98 * 62 -> 6077\n10 * 30 ->",
         "targets": [
-            "881"
+            "301"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 654,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n22 * 24 -> 529\n20 * 60 -> 1201\n62 * 51 -> 3163\n87 * 24 -> 2089\n54 * 45 -> 2431\n31 * 54 ->",
+        "idx": 316,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n431 - 684 -> -253\n739 - 349 -> 390\n182 - 112 -> 70\n182 - 480 -> -298\n145 - 830 -> -685\n627 - 112 ->",
         "targets": [
-            "1540"
+            "515"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 795,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n54 * 0 -> 0\n71 * 86 -> 6106\n37 * 5 -> 185\n85 * 24 -> 2040\n81 * 16 -> 1296\n60 * 11 ->",
+        "idx": 758,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n59 * 40 -> 2361\n32 * 82 -> 2625\n82 * 96 -> 7873\n15 * 22 -> 331\n6 * 25 -> 151\n95 * 11 ->",
         "targets": [
-            "73"
+            "1046"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 450,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n5 * 78 -> 390\n26 * 9 -> 234\n72 * 96 -> 6912\n95 * 47 -> 4465\n69 * 58 -> 4002\n58 * 1 ->",
+        "idx": 719,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n975 - 791 -> 185\n431 - 486 -> -54\n605 - 428 -> 178\n268 - 708 -> -439\n536 - 147 -> 390\n117 - 849 ->",
         "targets": [
-            "-176"
+            "-731"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 517,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n438 - 105 -> 334\n180 - 183 -> -2\n225 - 776 -> -550\n789 - 908 -> -118\n88 - 687 -> -598\n529 - 370 ->",
+        "idx": 583,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n806 + 707 -> 1513\n186 + 344 -> 530\n223 + 829 -> 1052\n487 + 908 -> 1395\n876 + 848 -> 1724\n228 + 389 ->",
         "targets": [
-            "2552"
+            "617"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 80,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n8 * 16 -> 129\n68 * 57 -> 3877\n56 * 61 -> 3417\n94 * 51 -> 4795\n60 * 39 -> 2341\n37 * 42 ->",
+        "idx": 631,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n12 * 14 -> 169\n88 * 86 -> 7569\n59 * 21 -> 1240\n62 * 89 -> 5519\n96 * 74 -> 7105\n73 * 24 ->",
         "targets": [
-            "554"
+            "1753"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 176,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n382 - 133 -> 249\n425 - 24 -> 401\n502 - 184 -> 318\n84 - 566 -> -482\n762 - 143 -> 619\n862 - 909 ->",
+        "idx": 912,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n420 + 258 -> 679\n947 + 46 -> 994\n862 + 524 -> 1387\n887 + 207 -> 1095\n310 + 746 -> 1057\n148 + 833 ->",
         "targets": [
-            "-237"
+            "982"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 215,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n605 + 661 -> 1266\n757 + 288 -> 1045\n413 + 720 -> 1133\n637 + 234 -> 871\n415 + 937 -> 1352\n498 + 973 ->",
+        "idx": 167,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n401 - 442 -> -41\n489 - 614 -> -125\n272 - 525 -> -253\n158 - 151 -> 7\n994 - 619 -> 375\n187 - 812 ->",
         "targets": [
-            "2575"
+            "-625"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 444,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n352 + 195 -> 548\n792 + 915 -> 1708\n929 + 665 -> 1595\n381 + 644 -> 1026\n226 + 700 -> 927\n475 + 476 ->",
+        "idx": 120,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n74 * 69 -> 5107\n17 * 84 -> 1429\n41 * 40 -> 1641\n37 * 33 -> 1222\n16 * 36 -> 577\n24 * 75 ->",
         "targets": [
-            "1837"
+            "1801"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 421,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n619 + 264 -> 883\n204 + 78 -> 282\n154 + 782 -> 936\n987 + 996 -> 1983\n246 + 530 -> 776\n857 + 947 ->",
+        "idx": 831,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n36 * 49 -> 1764\n33 * 74 -> 2442\n32 * 30 -> 960\n53 * 43 -> 2279\n33 * 70 -> 2310\n61 * 22 ->",
         "targets": [
-            "78"
+            "1342"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 273,
-        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n496 - 515 -> -19\n348 - 981 -> -633\n920 - 396 -> 524\n721 - 160 -> 561\n15 - 492 -> -477\n425 - 107 ->",
+        "idx": 416,
+        "inputs": "In the following lines, the symbol -> represents a simple mathematical operation.\n77 * 9 -> 694\n35 * 33 -> 1156\n72 * 27 -> 1945\n10 * 77 -> 771\n38 * 46 -> 1749\n18 * 14 ->",
         "targets": [
-            "648"
+            "253"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

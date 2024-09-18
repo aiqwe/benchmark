@@ -1,95 +1,25 @@
 [
     {
-        "idx": 209,
-        "inputs": "Q: What are the commonality of Chimila, Mehri, and Southeastern Tarahumara? Answer: They are all",
+        "idx": 214,
+        "inputs": "Q: JavaScrpit, Delphi, and Julia can be classified as",
         "targets": [
-            "extinct languages",
-            "endangered languages"
+            "programming languages"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 270,
-        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
+        "idx": 298,
+        "inputs": "Q: Liouville's theorem, Pu's inequality, and Picard–Lindelöf theorem are instances of",
         "targets": [
-            "Computer Science books",
-            "Programming books"
+            "math theorems"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 269,
-        "inputs": "Q: Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, and Expert C Programming: Deep C Secrets can be classified as",
-        "targets": [
-            "Computer Science books",
-            "Programming books"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 270,
-        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
-        "targets": [
-            "Computer Science books",
-            "Programming books"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 270,
-        "inputs": "Q: The Architecture of Open Source Applications, Algorithms to Live By: The Computer Science of Human Decisions, and The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything can be classified as",
-        "targets": [
-            "Computer Science books",
-            "Programming books"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 197,
-        "inputs": "Q: Profitable home Chelisheva, The House with Lions, and House under the steeple can be classified as",
-        "targets": [
-            "tourist_attractions",
-            "architecture in Russia",
-            "architecture in Russia"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 189,
-        "inputs": "Q: AMERICAN REVOLUTION, NETHERLAND'S WAR OF INDEPENDENCE, and FRANCO-PRUSSIAN WAR are examples of",
-        "targets": [
-            "historical wars"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 125,
-        "inputs": "Q: Antarctica, Zealandia, and Oceania are instances of",
-        "targets": [
-            "continents"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 46,
-        "inputs": "Q: Delta Force Black Hawk Down, Spartans Vs Zombies Defense, and Devil's Workshop pack are instances of",
-        "targets": [
-            "games on Steam"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 282,
-        "inputs": "Q: molybdenum, indium, and yttrium are instances of",
+        "idx": 289,
+        "inputs": "Q: boron, chromium, and copper are all",
         "targets": [
             "chemical elements with high density"
         ],
@@ -97,56 +27,57 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 223,
-        "inputs": "Q: Indonesia, Ethiopia, and Bangladesh are all",
+        "idx": 267,
+        "inputs": "Q: Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Big Data: A Revolution That Will Transform How We Live, Work, and Think, and Our Final Invention: Artificial Intelligence and the End of the Human Era can be classified as",
         "targets": [
-            "countries with large population"
+            "Computer Science books",
+            "Programming books"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 14,
-        "inputs": "Q: Square, circle, triangle are different",
+        "idx": 161,
+        "inputs": "Q: Jeans, Tops, and Suits are examples of",
         "targets": [
-            "shapes"
+            "Apparel",
+            "clothing"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 153,
-        "inputs": "Q: Takeaway, Senorita, and Otro Trago - Remix are instances of",
+        "idx": 133,
+        "inputs": "Q: Turtwig, Seel, and Drifloon can be classified as",
         "targets": [
-            "popular songs",
-            "top Spotify Songs"
+            "pokeman"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 194,
-        "inputs": "Q: The similarity among Volga-Don channel, Monument Dog Squad, and The building of the Medical Academy is that they are all",
+        "idx": 104,
+        "inputs": "Q: DataStax, SocialBakers, and Coveo are all",
         "targets": [
-            "tourist_attractions",
-            "architecture in Russia",
-            "architecture in Russia"
+            "tech companies",
+            "software companies"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 237,
-        "inputs": "Q: What are the commonality of Nature Reviews Molecular Cell Biology, IEEE Communications Surveys and Tutorials, and Nature Photonics? Answer: They are all",
+        "idx": 160,
+        "inputs": "Q: What are the commonality of Night suits, Socks, and Sweatshirts? Answer: They are all",
         "targets": [
-            "top journals"
+            "Apparel",
+            "clothing"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 125,
-        "inputs": "Q: Antarctica, Zealandia, and Oceania are instances of",
+        "idx": 122,
+        "inputs": "Q: Afro-Eurasia, Americas, and North America are all",
         "targets": [
             "continents"
         ],
@@ -154,10 +85,10 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 83,
-        "inputs": "Q: Uganda, Namibia, and Kenya are instances of",
+        "idx": 135,
+        "inputs": "Q: Lanturn, Pikachu, and Aerodactyl are all",
         "targets": [
-            "African countries"
+            "pokeman"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
@@ -173,20 +104,84 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 269,
-        "inputs": "Q: Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, and Expert C Programming: Deep C Secrets can be classified as",
+        "idx": 67,
+        "inputs": "Q: Red Deer, African Bush Elephant, and Wood Duck can be classified as",
         "targets": [
-            "Computer Science books",
-            "Programming books"
+            "animals"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 20,
-        "inputs": "Q: Marie Curie, Albert Einstein, Mo Yan, Michael Houghton have all won",
+        "idx": 153,
+        "inputs": "Q: Takeaway, Senorita, and Otro Trago - Remix are instances of",
         "targets": [
-            "the Nobel Prize"
+            "popular songs",
+            "top Spotify Songs"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 234,
+        "inputs": "Q: What are the commonality of Reviews of Modern Physics, Ca-A Cancer Journal for Clinicians, and Progress in Polymer Science? Answer: They are all",
+        "targets": [
+            "top journals"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 161,
+        "inputs": "Q: Jeans, Tops, and Suits are examples of",
+        "targets": [
+            "Apparel",
+            "clothing"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 37,
+        "inputs": "Q: What are the commonality of Theodore Roosevelt, Benjamin Harrison, and Martin Van Buren? Answer: They are all",
+        "targets": [
+            "presidents of the U.S"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
+        "inputs": "Q: C++, python, Java are popular",
+        "targets": [
+            "programming languages"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 234,
+        "inputs": "Q: What are the commonality of Reviews of Modern Physics, Ca-A Cancer Journal for Clinicians, and Progress in Polymer Science? Answer: They are all",
+        "targets": [
+            "top journals"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 318,
+        "inputs": "Q: What are the commonality of Australia, United States of America, People's Republic of China, and Russia? Answer: They are all",
+        "targets": [
+            "countries in United Nations"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 288,
+        "inputs": "Q: californium, uranium, and tin are all",
+        "targets": [
+            "chemical elements with high density"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

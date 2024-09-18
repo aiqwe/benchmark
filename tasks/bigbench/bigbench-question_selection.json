@@ -1,13 +1,13 @@
 [
     {
         "idx": 848,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: The logo for the Twelfth Doctor Context: The original logo used for the First Doctor (and briefly for the Second Doctor) was reused in a slightly modified format for the 50th anniversary special \"The Day of the Doctor\" during the Eleventh Doctor's run. The logo used in the television movie featuring the Eighth Doctor was an updated version of the logo used for the Third Doctor. The logo from 1973–80 was used for the Third Doctor's final season and for the majority of the Fourth Doctor's tenure. The following logo, while most associated with the Fifth Doctor, was also used for the Fourth Doctor's final season. The logo used for the Ninth Doctor was slightly edited for the Tenth Doctor, but it retained the same general appearance. The logo used for the Eleventh Doctor had the \"DW\" TARDIS insignia placed to the right in 2012, but the same font remained, albeit with a slight edit to the texture every episode, with the texture relating to some aspect of the story. The logo for the Twelfth Doctor had the \"DW\" TARDIS insignia removed and the font was subtly altered, as well as made slightly larger. As of 2014, the logo used for the Third and Eighth Doctors is the primary logo used on all media and merchandise relating to past Doctors, and the current Doctor Who logo is used for all merchandise relating to the current Doctor.\n  choice: During the 50th anniversary special, who was the new doctor?\n  choice: The dw tardis insignia was stripped from the logo?\n  choice: Which logo was used for the final season of doctor who?\nChoose the appropriate question which has the given answer.",
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Gasquet Context: Gasquet (1908) claimed that the Latin name atra mors (Black Death) for the 14th-century epidemic first appeared in modern times in 1631 in a book on Danish history by J.I. Pontanus: \"Vulgo & ab effectu atram mortem vocatibant. (\"Commonly and from its effects, they called it the black death\"). The name spread through Scandinavia and then Germany, gradually becoming attached to the mid 14th-century epidemic as a proper name. In England, it was not until 1823 that the medieval epidemic was first called the Black Death.\n  choice: Who says the word \"black death\" was first used in 1631?\n  choice: Who is credited with coining the term \"black death\"?\nChoose the appropriate question which has the given answer.",
         "targets": [
-            "Which logo was used for the final season of doctor who?"
+            "Who says the word \"black death\" was first used in 1631?"
         ],
         "multiple_choice_targets": [
-            "What is the material used to make the gloucester candlestick?",
-            "What is the substance of the becket casket?"
+            "Who says the word \"black death\" was first used in 1631?",
+            "Who is credited with coining the term \"black death\"?"
         ],
         "multiple_choice_scores": [
             1,
@@ -15,14 +15,64 @@
         ]
     },
     {
-        "idx": 706,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Al-Muwaffaq Context: The advances made in the Middle East in botany and chemistry led medicine in medieval Islam substantially to develop pharmacology. Muhammad ibn Zakarīya Rāzi (Rhazes) (865–915), for instance, acted to promote the medical uses of chemical compounds. Abu al-Qasim al-Zahrawi (Abulcasis) (936–1013) pioneered the preparation of medicines by sublimation and distillation. His Liber servitoris is of particular interest, as it provides the reader with recipes and explains how to prepare the `simples’ from which were compounded the complex drugs then generally used. Sabur Ibn Sahl (d 869), was, however, the first physician to initiate pharmacopoedia, describing a large variety of drugs and remedies for ailments. Al-Biruni (973–1050) wrote one of the most valuable Islamic works on pharmacology, entitled Kitab al-Saydalah (The Book of Drugs), in which he detailed the properties of drugs and outlined the role of pharmacy and the functions and duties of the pharmacist. Avicenna, too, described no less than 700 preparations, their properties, modes of action, and their indications. He devoted in fact a whole volume to simple drugs in The Canon of Medicine. Of great impact were also the works by al-Maridini of Baghdad and Cairo, and Ibn al-Wafid (1008–1074), both of which were printed in Latin more than fifty times, appearing as De Medicinis universalibus et particularibus by 'Mesue' the younger, and the Medicamentis simplicibus by 'Abenguefit'. Peter of Abano (1250–1316) translated and added a supplement to the work of al-Maridini under the title De Veneris. Al-Muwaffaq’s contributions in the field are also pioneering. Living in the 10th century, he wrote The foundations of the true properties of Remedies, amongst others describing arsenious oxide, and being acquainted with silicic acid. He made clear distinction between sodium carbonate and potassium carbonate, and drew attention to the poisonous nature of copper compounds, especially copper vitriol, and also lead compounds. He also describes the distillation of sea-water for drinking.[verification needed]\n  choice: Who was the author of liber servitoris?\n  choice: Who was the first to write about distilling drinking water from seawater?\n  choice: Who were the people who pushed for the use of chemical compounds as medicines?\nChoose the appropriate question which has the given answer.",
+        "idx": 559,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: The Walt Disney Company Context: The motion picture, television, and music industry is centered on the Los Angeles in southern California. Hollywood, a district within Los Angeles, is also a name associated with the motion picture industry. Headquartered in southern California are The Walt Disney Company (which also owns ABC), Sony Pictures, Universal, MGM, Paramount Pictures, 20th Century Fox, and Warner Brothers. Universal, Warner Brothers, and Sony also run major record companies as well.\n  choice: What city is the hollywood district located in?\n  choice: Abc is owned by which corporation?\nChoose the appropriate question which has the given answer.",
         "targets": [
-            "Other than a school, where can a teacher find an indoor location?"
+            "Abc is owned by which corporation?"
         ],
         "multiple_choice_targets": [
-            "Who invented the 50?",
-            "What is the name of the award awarded to the super bowl champion?"
+            "Abc is owned by which corporation?",
+            "What city is the hollywood district located in?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 441,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Manhattan's lower east side Context: In 1882, Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment. In June 1884, he relocated to New York City:57–60 where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side. Tesla's work for Edison began with simple electrical engineering and quickly progressed to solving more difficult problems.\n  choice: In 1884, where did tesla start his career?\n  choice: Where did the continental edison company have its headquarters?\n  choice: In 1882, where did tesla start a new job?\n  choice: What was the location of edison machine works?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "What was the location of edison machine works?"
+        ],
+        "multiple_choice_targets": [
+            "What was the location of edison machine works?",
+            "Where did the continental edison company have its headquarters?",
+            "In 1884, where did tesla start his career?",
+            "In 1882, where did tesla start a new job?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 1546,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1987 Context: In 1987, a United Methodist church court in New Hampshire defrocked Methodist minister Rose Mary Denman for openly living with a same-sex partner. In 2005, clergy credentials were removed from Irene Elizabeth Stroud after she was convicted in a church trial of violating church law by engaging in a lesbian relationship; this conviction was later upheld by the Judicial Council, the highest court in the denomination. The Judicial Council also affirmed that a Virginia pastor had the right to deny local church membership to a man in an openly gay relationship. This affirmation, however, was based upon a senior pastor's right to judge the readiness of a congregant to join as a full member of the church. However, at the same time, the UMC Judicial Council, in 2008, ruled that conferences can determine their own policy related to transgender pastors, and therefore some regional conferences have voted to recognize ordained transgender pastors. The Baltimore-Washington Conference of the UMC has approved the appointment of an openly partnered lesbian to the provisional diaconate.\n  choice: Rose mary denman was defrocked in what year for publicly living with a same-sex partner?\n  choice: Irene elizabeth stroud was found guilty in a church trial in what year?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Rose mary denman was defrocked in what year for publicly living with a same-sex partner?"
+        ],
+        "multiple_choice_targets": [
+            "Rose mary denman was defrocked in what year for publicly living with a same-sex partner?",
+            "Irene elizabeth stroud was found guilty in a church trial in what year?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1049,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Muhammad ibn Zakarīya Rāzi Context: The advances made in the Middle East in botany and chemistry led medicine in medieval Islam substantially to develop pharmacology. Muhammad ibn Zakarīya Rāzi (Rhazes) (865–915), for instance, acted to promote the medical uses of chemical compounds. Abu al-Qasim al-Zahrawi (Abulcasis) (936–1013) pioneered the preparation of medicines by sublimation and distillation. His Liber servitoris is of particular interest, as it provides the reader with recipes and explains how to prepare the `simples’ from which were compounded the complex drugs then generally used. Sabur Ibn Sahl (d 869), was, however, the first physician to initiate pharmacopoedia, describing a large variety of drugs and remedies for ailments. Al-Biruni (973–1050) wrote one of the most valuable Islamic works on pharmacology, entitled Kitab al-Saydalah (The Book of Drugs), in which he detailed the properties of drugs and outlined the role of pharmacy and the functions and duties of the pharmacist. Avicenna, too, described no less than 700 preparations, their properties, modes of action, and their indications. He devoted in fact a whole volume to simple drugs in The Canon of Medicine. Of great impact were also the works by al-Maridini of Baghdad and Cairo, and Ibn al-Wafid (1008–1074), both of which were printed in Latin more than fifty times, appearing as De Medicinis universalibus et particularibus by 'Mesue' the younger, and the Medicamentis simplicibus by 'Abenguefit'. Peter of Abano (1250–1316) translated and added a supplement to the work of al-Maridini under the title De Veneris. Al-Muwaffaq’s contributions in the field are also pioneering. Living in the 10th century, he wrote The foundations of the true properties of Remedies, amongst others describing arsenious oxide, and being acquainted with silicic acid. He made clear distinction between sodium carbonate and potassium carbonate, and drew attention to the poisonous nature of copper compounds, especially copper vitriol, and also lead compounds. He also describes the distillation of sea-water for drinking.[verification needed]\n  choice: Who was the author of liber servitoris?\n  choice: Who was the first to write about distilling drinking water from seawater?\n  choice: Who were the people who pushed for the use of chemical compounds as medicines?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who were the people who pushed for the use of chemical compounds as medicines?"
+        ],
+        "multiple_choice_targets": [
+            "Who were the people who pushed for the use of chemical compounds as medicines?",
+            "Who was the author of liber servitoris?",
+            "Who was the first to write about distilling drinking water from seawater?"
         ],
         "multiple_choice_scores": [
             1,
@@ -31,14 +81,225 @@
         ]
     },
     {
-        "idx": 996,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Prince Louis de Condé Context: Prince Louis de Condé, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbrücken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism and welcomed technically skilled immigrants into his lands, regardless of their religion. The Condés established a thriving glass-making works, which provided wealth to the principality for many years. Other founding families created enterprises based on textiles and such traditional Huguenot occupations in France. The community and its congregation remain active to this day, with descendants of many of the founding families still living in the region. Some members of this community emigrated to the United States in the 1890s.\n  choice: With which count did the prince reach an agreement?\n  choice: Which noble helped create the saarland huguenot settlement?\nChoose the appropriate question which has the given answer.",
+        "idx": 233,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Jonathan Stewart Context: After a punt from both teams, Carolina got on track with a 9-play, 73-yard scoring drive. Newton completed 4 of 4 passes for 51 yards and rushed twice for 25 yards, while Jonathan Stewart finished the drive with a 1-yard touchdown run, cutting the score to 10–7 with 11:28 left in the second quarter. Later on, Broncos receiver Jordan Norwood received Brad Nortman's short 28-yard punt surrounded by Panthers players, but none of them attempted to make a tackle, apparently thinking Norwood had called a fair catch. Norwood had not done so, and with no resistance around him, he took off for a Super Bowl record 61-yard return before Mario Addison dragged him down on the Panthers 14-yard line. Despite Denver's excellent field position, they could not get the ball into the end zone, so McManus kicked a 33-yard field goal that increased their lead to 13–7.\n  choice: For carolina, who punted the ball?\n  choice: When players felt he called for a fair catch but didn't, who got a 61-yard return?\n  choice: Who scored to make the score 10-10?\nChoose the appropriate question which has the given answer.",
         "targets": [
-            "In super bowl 50, which nfl team represented the nfc?"
+            "Who scored to make the score 10-10?"
         ],
         "multiple_choice_targets": [
-            "Who was responsible for the construction of the sage gateshead music center?",
-            "Who commissioned the millennium bridge in gateshead?"
+            "Who scored to make the score 10-10?",
+            "For carolina, who punted the ball?",
+            "When players felt he called for a fair catch but didn't, who got a 61-yard return?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 706,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: citizens Context: Although the European Union does not have a codified constitution, like every political body it has laws which \"constitute\" its basic governance structure. The EU's primary constitutional sources are the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU), which have been agreed or adhered to among the governments of all 28 member states. The Treaties establish the EU's institutions, list their powers and responsibilities, and explain the areas in which the EU can legislate with Directives or Regulations. The European Commission has the initiative to propose legislation. During the ordinary legislative procedure, the Council (which are ministers from member state governments) and the European Parliament (elected by citizens) can make amendments and must give their consent for laws to pass. The Commission oversees departments and various agencies that execute or enforce EU law. The \"European Council\" (rather than the Council, made up of different government Ministers) is composed of the Prime Ministers or executive Presidents of the member states. It appoints the Commissioners and the board of the European Central Bank. The European Court of Justice is the supreme judicial body which interprets EU law, and develops it through precedent. The Court can review the legality of the EU institutions' actions, in compliance with the Treaties. It can also decide upon claims for breach of EU laws from member states and citizens.\n  choice: Within the european union, who has the authority to initiate legislation?\n  choice: Who chooses the european parliament's members?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who chooses the european parliament's members?"
+        ],
+        "multiple_choice_targets": [
+            "Who chooses the european parliament's members?",
+            "Within the european union, who has the authority to initiate legislation?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 880,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: seven Context: There are eleven LEA-funded 11 to 18 schools and seven independent schools with sixth forms in Newcastle. There are a number of successful state schools, including Walker Technology College, Gosforth High School, Heaton Manor School, St Cuthbert's High School, St. Mary's Catholic Comprehensive School, Kenton School, George Stephenson High School, Sacred Heart and Benfield School. The largest co-ed independent school is the Royal Grammar School. The largest girls' independent school is Newcastle High School for Girls. Both schools are located on the same street in Jesmond. Newcastle School for Boys is the only independent boys' only school in the city and is situated in Gosforth. Newcastle College is the largest general further education college in the North East and is a beacon status college; there are two smaller colleges in the Newcastle area. St Cuthbert's High School and Sacred Heart are the two primary state-Catholic run high schools, and are both achieving results on par with the independent schools in Newcastle.\n  choice: In newcastle, how many lea-funded 11 to 18-year-old schools are there?\n  choice: How many private schools are there in newcastle?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "How many private schools are there in newcastle?"
+        ],
+        "multiple_choice_targets": [
+            "How many private schools are there in newcastle?",
+            "In newcastle, how many lea-funded 11 to 18-year-old schools are there?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 227,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Brandon McManus Context: Denver took the opening kickoff and started out strong with Peyton Manning completing an 18-yard pass to tight end Owen Daniels and a 22-yard throw to receiver Andre Caldwell. A pair of carries by C. J. Anderson moved the ball up 20 yards to the Panthers 14-yard line, but Carolina's defense dug in over the next three plays. First, linebacker Shaq Thompson tackled Ronnie Hillman for a 3-yard loss. Then after an incompletion, Thomas Davis tackled Anderson for a 1-yard gain on third down, forcing Denver to settle for a 3–0 lead on a Brandon McManus 34-yard field goal. The score marked the first time in the entire postseason that Carolina was facing a deficit.\n  choice: On a shaq thompson tackle, who gave up 3 yards?\n  choice: On the first drive, peyton manning threw an 18-yard pass to who?\n  choice: Who was the lucky recipient of peyton manning's 22-yard pass?\n  choice: On this drive, who rushed the ball twice for 20 yards?\n  choice: Who was the first denver player to score a point?\n  choice: Ronnie hillman was tackled for a lack of yardage by who?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who was the first denver player to score a point?"
+        ],
+        "multiple_choice_targets": [
+            "Who was the first denver player to score a point?",
+            "Who was the lucky recipient of peyton manning's 22-yard pass?",
+            "On a shaq thompson tackle, who gave up 3 yards?",
+            "On this drive, who rushed the ball twice for 20 yards?",
+            "Ronnie hillman was tackled for a lack of yardage by who?",
+            "On the first drive, peyton manning threw an 18-yard pass to who?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 580,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: five Context: In November 2006, the Victorian Legislative Council elections were held under a new multi-member proportional representation system. The State of Victoria was divided into eight electorates with each electorate represented by five representatives elected by Single Transferable Vote. The total number of upper house members was reduced from 44 to 40 and their term of office is now the same as the lower house members—four years. Elections for the Victorian Parliament are now fixed and occur in November every four years. Prior to the 2006 election, the Legislative Council consisted of 44 members elected to eight-year terms from 22 two-member electorates.\n  choice: What is the total number of electorates in victoria?\n  choice: What is the number of members in each electorate?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "What is the number of members in each electorate?"
+        ],
+        "multiple_choice_targets": [
+            "What is the number of members in each electorate?",
+            "What is the total number of electorates in victoria?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1388,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Siegfried Context: Germanic tribes crossed the Rhine in the Migration period, by the 5th century establishing the kingdoms of Francia on the Lower Rhine, Burgundy on the Upper Rhine and Alemannia on the High Rhine. This \"Germanic Heroic Age\" is reflected in medieval legend, such as the Nibelungenlied which tells of the hero Siegfried killing a dragon on the Drachenfels (Siebengebirge) (\"dragons rock\"), near Bonn at the Rhine and of the Burgundians and their court at Worms, at the Rhine and Kriemhild's golden treasure, which was thrown into the Rhine by Hagen.\n  choice: Who is the drachenfels hero who slayed a dragon?\n  choice: According to legend, who threw gold into the rhine?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who is the drachenfels hero who slayed a dragon?"
+        ],
+        "multiple_choice_targets": [
+            "Who is the drachenfels hero who slayed a dragon?",
+            "According to legend, who threw gold into the rhine?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1389,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Hagen Context: Germanic tribes crossed the Rhine in the Migration period, by the 5th century establishing the kingdoms of Francia on the Lower Rhine, Burgundy on the Upper Rhine and Alemannia on the High Rhine. This \"Germanic Heroic Age\" is reflected in medieval legend, such as the Nibelungenlied which tells of the hero Siegfried killing a dragon on the Drachenfels (Siebengebirge) (\"dragons rock\"), near Bonn at the Rhine and of the Burgundians and their court at Worms, at the Rhine and Kriemhild's golden treasure, which was thrown into the Rhine by Hagen.\n  choice: Who is the drachenfels hero who slayed a dragon?\n  choice: According to legend, who threw gold into the rhine?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "According to legend, who threw gold into the rhine?"
+        ],
+        "multiple_choice_targets": [
+            "According to legend, who threw gold into the rhine?",
+            "Who is the drachenfels hero who slayed a dragon?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1214,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: graduate and undergraduate students Context: All Recognized Student Organizations, from the University of Chicago Scavenger Hunt to Model UN, in addition to academic teams, sports club, arts groups, and more are funded by The University of Chicago Student Government. Student Government is made up of graduate and undergraduate students elected to represent members from their respective academic unit. It is led by an Executive Committee, chaired by a President with the assistance of two Vice Presidents, one for Administration and the other for Student Life, elected together as a slate by the student body each spring. Its annual budget is greater than $2 million.\n  choice: Who is in charge of the student government?\n  choice: Who are the members of the student government?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "Who are the members of the student government?"
+        ],
+        "multiple_choice_targets": [
+            "Who are the members of the student government?",
+            "Who is in charge of the student government?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 996,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: January 7, 2014 Context: The most recent episodes of the network's shows are usually made available on WATCH ABC, Hulu and ABC on Demand the day after their original broadcast. In addition, ABC on Demand (like the video-on-demand television services provided by the other U.S. broadcast networks) disallows fast forwarding of accessed content. Restrictions implemented by Disney–ABC Television Group on January 7, 2014 restrict streaming of the most recent episode of any ABC program on Hulu and WATCH ABC until eight days after their initial broadcast, in order to encourage live or same-week (via both DVR and cable on demand) viewing, with day-after-air streaming on either service limited to subscribers of participating pay television providers (such as Comcast, Verizon FiOS and Time Warner Cable) using an ISP account via an authenticated user login.\n  choice: When do new episodes of abc shows typically become available on video-on-demand services?\n  choice: When did the disney-abc television group impose hulu and watch abc limitations to promote live viewing?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "When did the disney-abc television group impose hulu and watch abc limitations to promote live viewing?"
+        ],
+        "multiple_choice_targets": [
+            "When did the disney-abc television group impose hulu and watch abc limitations to promote live viewing?",
+            "When do new episodes of abc shows typically become available on video-on-demand services?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1079,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: blind plea Context: Sometimes the prosecution proposes a plea bargain to civil disobedients, as in the case of the Camden 28, in which the defendants were offered an opportunity to plead guilty to one misdemeanor count and receive no jail time. In some mass arrest situations, the activists decide to use solidarity tactics to secure the same plea bargain for everyone. But some activists have opted to enter a blind plea, pleading guilty without any plea agreement in place. Mohandas Gandhi pleaded guilty and told the court, \"I am here to . . . submit cheerfully to the highest penalty that can be inflicted upon me for what in law is a deliberate crime and what appears to me to be the highest duty of a citizen.\"\n  choice: What kind of pleading is often construed as disobedience?\n  choice: Civil disobedients are often subjected to what kind of punishment?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "What kind of pleading is often construed as disobedience?"
+        ],
+        "multiple_choice_targets": [
+            "What kind of pleading is often construed as disobedience?",
+            "Civil disobedients are often subjected to what kind of punishment?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1366,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1962 Context: Chloroplasts have their own DNA, often abbreviated as ctDNA, or cpDNA. It is also known as the plastome. Its existence was first proved in 1962, and first sequenced in 1986—when two Japanese research teams sequenced the chloroplast DNA of liverwort and tobacco. Since then, hundreds of chloroplast DNAs from various species have been sequenced, but they're mostly those of land plants and green algae—glaucophytes, red algae, and other algal groups are extremely underrepresented, potentially introducing some bias in views of \"typical\" chloroplast DNA structure and content.\n  choice: When did the plastome first appear?\n  choice: How long has it been since the first plastome was sequenced?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "When did the plastome first appear?"
+        ],
+        "multiple_choice_targets": [
+            "When did the plastome first appear?",
+            "How long has it been since the first plastome was sequenced?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 631,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Oliver Evans Context: Around 1800 Richard Trevithick and, separately, Oliver Evans in 1801 introduced engines using high-pressure steam; Trevithick obtained his high-pressure engine patent in 1802. These were much more powerful for a given cylinder size than previous engines and could be made small enough for transport applications. Thereafter, technological developments and improvements in manufacturing techniques (partly brought about by the adoption of the steam engine as a power source) resulted in the design of more efficient engines that could be smaller, faster, or more powerful, depending on the intended application.\n  choice: In 1801 who invented a high-pressure steam engine?\n  choice: Around 1800, who invented a high-pressure steam engine?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "In 1801 who invented a high-pressure steam engine?"
+        ],
+        "multiple_choice_targets": [
+            "In 1801 who invented a high-pressure steam engine?",
+            "Around 1800, who invented a high-pressure steam engine?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 93,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 11 Context: Super Bowl 50 featured numerous records from individuals and teams. Denver won despite being massively outgained in total yards (315 to 194) and first downs (21 to 11). Their 194 yards and 11 first downs were both the lowest totals ever by a Super Bowl winning team. The previous record was 244 yards by the Baltimore Ravens in Super Bowl XXXV. Only seven other teams had ever gained less than 200 yards in a Super Bowl, and all of them had lost. The Broncos' seven sacks tied a Super Bowl record set by the Chicago Bears in Super Bowl XX. Kony Ealy tied a Super Bowl record with three sacks. Jordan Norwood's 61-yard punt return set a new record, surpassing the old record of 45 yards set by John Taylor in Super Bowl XXIII. Denver was just 1-of-14 on third down, while Carolina was barely better at 3-of-15. The two teams' combined third down conversion percentage of 13.8 was a Super Bowl low. Manning and Newton had quarterback passer ratings of 56.6 and 55.4, respectively, and their added total of 112 is a record lowest aggregate passer rating for a Super Bowl. Manning became the oldest quarterback ever to win a Super Bowl at age 39, and the first quarterback ever to win a Super Bowl with two different teams, while Gary Kubiak became the first head coach to win a Super Bowl with the same franchise he went to the Super Bowl with as a player.\n  choice: In super bowl 50, how many first downs did the panthers get?\n  choice: What was the total yardage gained by denver?\n  choice: In super bowl 50, how many yards did denver have?\n  choice: How many first downs did the broncos get?\n  choice: Manning has shared the super bowl with how many different teams?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "How many first downs did the broncos get?"
+        ],
+        "multiple_choice_targets": [
+            "How many first downs did the broncos get?",
+            "What was the total yardage gained by denver?",
+            "In super bowl 50, how many yards did denver have?",
+            "In super bowl 50, how many first downs did the panthers get?",
+            "Manning has shared the super bowl with how many different teams?"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 451,
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1882 Context: In 1882, Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment. In June 1884, he relocated to New York City:57–60 where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side. Tesla's work for Edison began with simple electrical engineering and quickly progressed to solving more difficult problems.\n  choice: When did tesla make the decision to move to new york city?\n  choice: When did tesla first start working for continental edison?\nChoose the appropriate question which has the given answer.",
+        "targets": [
+            "When did tesla first start working for continental edison?"
+        ],
+        "multiple_choice_targets": [
+            "When did tesla first start working for continental edison?",
+            "When did tesla make the decision to move to new york city?"
         ],
         "multiple_choice_scores": [
             1,
@@ -47,278 +308,13 @@
     },
     {
         "idx": 809,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: George Frampton Context: Sculptors both British and Europeans who were based in Britain and whose work is in the collection include Nicholas Stone, Caius Gabriel Cibber, Grinling Gibbons, John Michael Rysbrack, Louis-François Roubiliac, Peter Scheemakers, Sir Henry Cheere, Agostino Carlini, Thomas Banks, Joseph Nollekens, Joseph Wilton, John Flaxman, Sir Francis Chantrey, John Gibson, Edward Hodges Baily, Lord Leighton, Alfred Stevens, Thomas Brock, Alfred Gilbert, George Frampton, and Eric Gill. A sample of some of these sculptors' work is on display in the British Galleries.\n  choice: Which british sculptor is portrayed in the v&a collection as a key figure in the new sculpture movement?\n  choice: Which british sculptor's work is included in the v&a series, including the queen victoria memorial in front of buckingham palace?\n  choice: Which english sculptor rose to prominence as britain's foremost portrait sculptor during the regency period is depicted in the v&a collection?\nChoose the appropriate question which has the given answer.",
+        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: ctenophores and cnidarians Context: Ctenophores form an animal phylum that is more complex than sponges, about as complex as cnidarians (jellyfish, sea anemones, etc.), and less complex than bilaterians (which include almost all other animals). Unlike sponges, both ctenophores and cnidarians have: cells bound by inter-cell connections and carpet-like basement membranes; muscles; nervous systems; and some have sensory organs. Ctenophores are distinguished from all other animals by having colloblasts, which are sticky and adhere to prey, although a few ctenophore species lack them.\n  choice: Which two groups have intercellular connections and membranes, as well as muscles, a nervous system, and sensory organs?\n  choice: Which phylum has a higher level of complexity than sponges?\nChoose the appropriate question which has the given answer.",
         "targets": [
-            "Who were the sideline announcers for westwood one?"
+            "Which two groups have intercellular connections and membranes, as well as muscles, a nervous system, and sensory organs?"
         ],
         "multiple_choice_targets": [
-            "According to reuters, who received the nobel prize in physics in 1915?",
-            "Who was the lucky winner of the prize?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 617,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: a modern context Context: Sayyid Abul Ala Maududi was an important early twentieth-century figure in the Islamic revival in India, and then after independence from Britain, in Pakistan. Trained as a lawyer he chose the profession of journalism, and wrote about contemporary issues and most importantly about Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but liberal modernizer Islamists such as al-Faruqi, whose \"Islamization of Knowledge\" carried forward some of Maududi's key principles.\n  choice: Where did maududi have the greatest influence?\n  choice: What role did islam play in maududi's books?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "In which book was the theory about the amazon rainforest's low population discussed?"
-        ],
-        "multiple_choice_targets": [
-            "In may of 2000, where was parliament temporarily relocated?",
-            "Where did parliament stay while the permanent structure was being built?",
-            "Where did the interviews take place when the parliament was housed in a makeshift structure?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 671,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: platyctenids Context: Most species are hermaphrodites—a single animal can produce both eggs and sperm, meaning it can fertilize its own egg, not needing a mate. Some are simultaneous hermaphrodites, which can produce both eggs and sperm at the same time. Others are sequential hermaphrodites, in which the eggs and sperm mature at different times. Fertilization is generally external, although platyctenids' eggs are fertilized inside their parents' bodies and kept there until they hatch. The young are generally planktonic and in most species look like miniature cydippids, gradually changing into their adult shapes as they grow. The exceptions are the beroids, whose young are miniature beroids with large mouths and no tentacles, and the platyctenids, whose young live as cydippid-like plankton until they reach near-adult size, but then sink to the bottom and rapidly metamorphose into the adult form. In at least some species, juveniles are capable of reproduction before reaching the adult size and shape. The combination of hermaphroditism and early reproduction enables small populations to grow at an explosive rate.\n  choice: Which species' eggs are fertilized and held within the body of their parents until they hatch?\n  choice: Which community has babies born without tentacles and with a big mouth?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "According to reuters, who received the nobel prize in physics in 1915?"
-        ],
-        "multiple_choice_targets": [
-            "What year did the national highway designated act become law?",
-            "When was the energy department established at the cabinet level?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 359,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 487 Context: The Panthers beat the Seattle Seahawks in the divisional round, running up a 31–0 halftime lead and then holding off a furious second half comeback attempt to win 31–24, avenging their elimination from a year earlier. The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49–15, racking up 487 yards and forcing seven turnovers.\n  choice: During the nfc championship game, how many turnovers did the panthers force?\n  choice: In the nfc championship game, how many yards did the carolina panthers earn in the 487?\n  choice: In the nfc championship, how many times did arizona turn the ball over?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "When was the v&a's ceramics and glass collection's main gallery redesigned?"
-        ],
-        "multiple_choice_targets": [
-            "Which genghis khan descendant sacked baghdad?",
-            "Which of genghis khan's descendants was responsible for driving the mamluks from palestine?",
-            "Which of eastern europe's big cities survived the mongol invasion?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1024,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Prince Frederick III Context: The enforcement of the ban on the 95 Theses fell to the secular authorities. On 18 April 1521, Luther appeared as ordered before the Diet of Worms. This was a general assembly of the estates of the Holy Roman Empire that took place in Worms, a town on the Rhine. It was conducted from 28 January to 25 May 1521, with Emperor Charles V presiding. Prince Frederick III, Elector of Saxony, obtained a safe conduct for Luther to and from the meeting.\n  choice: Who gave luther a safe conduct pass so he could enter and exit the event?\n  choice: What is the order behind the assembly?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "On westwood one, who was in charge of pre-game coverage?"
-        ],
-        "multiple_choice_targets": [
-            "At 0 degrees celsius, how much more oxygen dissolves than at 20 degrees celsius?",
-            "Under normal circumstances, how much oxygen can be contained in a liter of fresh water?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 86,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 5½ Context: The Broncos' defense ranked first in the NFL yards allowed (4,530) for the first time in franchise history, and fourth in points allowed (296). Defensive ends Derek Wolfe and Malik Jackson each had 5½ sacks. Pro Bowl linebacker Von Miller led the team with 11 sacks, forced four fumbles, and recovered three. Linebacker DeMarcus Ware was selected to play in the Pro Bowl for the ninth time in his career, ranking second on the team with 7½ sacks. Linebacker Brandon Marshall led the team in total tackles with 109, while Danny Trevathan ranked second with 102. Cornerbacks Aqib Talib (three interceptions) and Chris Harris, Jr. (two interceptions) were the other two Pro Bowl selections from the defense.\n  choice: Derek wolfe racked up how many sacks?\n  choice: What was the total number of yards allowed by the broncos' defense?\n  choice: During the regular season, how many interceptions did aqib talib have?\n  choice: Aqib talib had how many picks?\n  choice: What was the total number of points allowed by the broncos defense?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Victoria has how many full-time teachers?"
-        ],
-        "multiple_choice_targets": [
-            "When was levi's stadium given final approval to host super bowl 50?",
-            "Prior to super bowl 50, when was the last time a super bowl was held in the san francisco bay area?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 641,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: James Gamble & Reuben Townroe Context: An ambitious scheme of decoration was developed for these new areas: a series of mosaic figures depicting famous European artists of the Medieval and Renaissance period. These have now been removed to other areas of the museum. Also started were a series of frescoes by Lord Leighton: Industrial Arts as Applied to War 1878–1880 and Industrial Arts Applied to Peace, which was started but never finished. To the east of this were additional galleries, the decoration of which was the work of another designer Owen Jones, these were the Oriental Courts (covering India, China and Japan) completed in 1863, none of this decoration survives, part of these galleries became the new galleries covering the 19th century, opened in December 2006. The last work by Fowke was the design for the range of buildings on the north and west sides of the garden, this includes the refreshment rooms, reinstated as the Museum Café in 2006, with the silver gallery above, (at the time the ceramics gallery), the top floor has a splendid lecture theatre although this is seldom open to the general public. The ceramic staircase in the northwest corner of this range of buildings was designed by F. W. Moody and has architectural details of moulded and coloured pottery. All the work on the north range was designed and built in 1864–69. The style adopted for this part of the museum was Italian Renaissance, much use was made of terracotta, brick and mosaic, this north façade was intended as the main entrance to the museum with its bronze doors designed by James Gamble & Reuben Townroe having six panels depicting: Humphry Davy (chemistry); Isaac Newton (astronomy); James Watt (mechanics); Bramante (architecture); Michelangelo (sculpture); Titian (painting); thus representing the range of the museums collections, Godfrey Sykes also designed the terracotta embellishments and the mosaic in the pediment of the North Façade commemorating the Great Exhibition the profits from which helped to fund the museum, this is flanked by terracotta statue groups by Percival Ball. This building replaced Brompton Park House, which could then be demolished to make way for the south range.\n  choice: Who created the bronze doors that serve as the museum's main entrance?\n  choice: Who built the oriental courts and how did they come to be?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "What year was newcomen's engine used to pump water in a mine?"
-        ],
-        "multiple_choice_targets": [
-            "What happened to the rhine?",
-            "What is the starting point for the rhine?",
-            "What is the location of the rhine's apex?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 855,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Devin Funchess Context: There would be no more scoring in the third quarter, but early in the fourth, the Broncos drove to the Panthers 41-yard line. On the next play, Ealy knocked the ball out of Manning's hand as he was winding up for a pass, and then recovered it for Carolina on the 50-yard line. A 16-yard reception by Devin Funchess and a 12-yard run by Stewart then set up Gano's 39-yard field goal, cutting the Panthers deficit to one score at 16–10. The next three drives of the game would end in punts.\n  choice: On this drive, who caught a 16-yard pass?\n  choice: Who was the first to recover a manning fumble?\n  choice: On the next play, who snatched the ball from manning's grip?\n  choice: On this drive, who had a 12-yard rush?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Emma's brother, who was he?"
-        ],
-        "multiple_choice_targets": [
-            "In 2015, the panthers defense was credited with how many interceptions?",
-            "What was the total number of points allowed by the panthers defense?",
-            "Jared allen had how many sacks in his career?",
-            "Luke kuechly racked up how many tackles?",
-            "Josh norman intercepted how many balls?",
-            "How many members of the panthers' defense have been named to the pro bowl?",
-            "Thomas davis had how many forced fumbles?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 665,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1938 Context: In 1934, Mutual filed a complaint with the Federal Communications Commission (FCC) regarding its difficulties in establishing new stations, in a radio market that was already being saturated by NBC and CBS. In 1938, the FCC began a series of investigations into the practices of radio networks and published its report on the broadcasting of network radio programs in 1940. The report recommended that RCA give up control of either NBC Red or NBC Blue. At that time, the NBC Red Network was the principal radio network in the United States and, according to the FCC, RCA was using NBC Blue to eliminate any hint of competition. Having no power over the networks themselves, the FCC established a regulation forbidding licenses to be issued for radio stations if they were affiliated with a network which already owned multiple networks that provided content of public interest.\n  choice: What year did the federal communications commission issue its report?\n  choice: In what year did the federal communications commission (fcc) launch an investigation into the activity of radio networks in the united states?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "What is the number of vocational schools at the university of chicago?"
-        ],
-        "multiple_choice_targets": [
-            "When did the first episode of general hospital air?",
-            "When did the first episode of good morning america air?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 180,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: March 2011 Context: Originating as the Jama'at al-Tawhid wal-Jihad in 1999, it pledged allegiance to al-Qaeda in 2004, participated in the Iraqi insurgency that followed the March 2003 invasion of Iraq by Western forces, joined the fight in the Syrian Civil War beginning in March 2011, and was expelled from al-Qaeda in early 2014, (which complained of its failure to consult and \"notorious intransigence\"). The group gained prominence after it drove Iraqi government forces out of key cities in western Iraq in a 2014 offensive. The group is adept at social media, posting Internet videos of beheadings of soldiers, civilians, journalists and aid workers, and is known for its destruction of cultural heritage sites. The United Nations has held ISIL responsible for human rights abuses and war crimes, and Amnesty International has reported ethnic cleansing by the group on a \"historic scale\". The group has been designated a terrorist organisation by the United Nations, the European Union and member states, the United States, India, Indonesia, Turkey, Saudi Arabia, Syria and other countries.\n  choice: When did syria's civil war start?\n  choice: When did the islamic state of iraq and the levant (isil) swear allegiance to al-qaeda?\n  choice: When did the united states and its allies occupy iraq?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "In the game, how many tackles did von miller make by himself?"
-        ],
-        "multiple_choice_targets": [
-            "When was the warsaw royal university founded?",
-            "When did warsaw become the capital of poland's congress?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1206,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: several Context: There are 13 natural reserves in Warsaw – among others, Bielany Forest, Kabaty Woods, Czerniaków Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw – mainly the oxbow lakes, like Czerniaków Lake, the lakes in the Łazienki or Wilanów Parks, Kamionek Lake. There are lot of small lakes in the parks, but only a few are permanent – the majority are emptied before winter to clean them of plants and sediments.\n  choice: In warsaw, how many natural reserves are there?\n  choice: In warsaw, how many lakes are there?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Who did the mongols appoint as administrators in bukhara?"
-        ],
-        "multiple_choice_targets": [
-            "Which player was chastised for not diving into the muck to retrieve the ball?",
-            "Which panthers player was penalized, resulting in a new set of downs for the broncos?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 635,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 1977 Context: To help reduce consumption, in 1974 a national maximum speed limit of 55 mph (about 88 km/h) was imposed through the Emergency Highway Energy Conservation Act. Development of the Strategic Petroleum Reserve began in 1975, and in 1977 the cabinet-level Department of Energy was created, followed by the National Energy Act of 1978.[citation needed] On November 28, 1995, Bill Clinton signed the National Highway Designation Act, ending the federal 55 mph (89 km/h) speed limit, allowing states to restore their prior maximum speed limit.\n  choice: When was the energy department established at the cabinet level?\n  choice: What year did the national highway designated act become law?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "How many nfl teams have just lost one game during the regular season?"
-        ],
-        "multiple_choice_targets": [
-            "What is the most likely location for a teacher to teach?",
-            "Where do the majority of teachers get their credentials?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 156,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Hoelun Context: For the next several years, Hoelun and her children lived in poverty, surviving primarily on wild fruits and ox carcasses, marmots, and other small game killed by Temüjin and his brothers. Begter, Temujin's older half-brother, began to exercise the power of the eldest male in the family and eventually Temujin's mother Hoelun (not Begter's mother) would have to accept him as her husband if and when he became an adult. Temujin's resentment erupted during one hunting excursion that Temüjin and his brother Khasar killed their half-brother Begter.\n  choice: Who assassinated tem jin's half-brother, begter?\n  choice: When begter reached marriageable age, who would he have married?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "How many times has the plague struck venice?"
-        ],
-        "multiple_choice_targets": [
-            "Who was the iranian revolution's ideologue?",
-            "Who was it appropriate for muslims to imitate?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 397,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: 6,000 square kilometres Context: More than 26,000 square kilometres (10,000 sq mi) of Victorian farmland are sown for grain, mostly in the state's west. More than 50% of this area is sown for wheat, 33% for barley and 7% for oats. A further 6,000 square kilometres (2,300 sq mi) is sown for hay. In 2003–04, Victorian farmers produced more than 3 million tonnes of wheat and 2 million tonnes of barley. Victorian farms produce nearly 90% of Australian pears and third of apples. It is also a leader in stone fruit production. The main vegetable crops include asparagus, broccoli, carrots, potatoes and tomatoes. Last year, 121,200 tonnes of pears and 270,000 tonnes of tomatoes were produced.\n  choice: How many australian pears does victoria produce?\n  choice: How much grain is grown on victorian farmland?\n  choice: How much hay is grown on victoria's farmland?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "On westwood one, who did the play-by-play?"
-        ],
-        "multiple_choice_targets": [
-            "Who else was on the sidelines with evan washburn?",
-            "Who were the super bowl 50 announcers?",
-            "Who were the sideline announcers for super bowl 50?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 210,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Franz Pieper Context: The Lutheran theologian Franz Pieper observed that Luther's teaching about the state of the Christian's soul after death differed from the later Lutheran theologians such as Johann Gerhard. Lessing (1755) had earlier reached the same conclusion in his analysis of Lutheran orthodoxy on this issue.\n  choice: Who might have guessed luther's perspective on the soul after death differed from that of later theologians?\n  choice: Who else noticed that luther's perspective on souls differed from later views?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Since the 2005 christmas special, who has performed all of the doctor who music?"
-        ],
-        "multiple_choice_targets": [
-            "Pharmacists are what kind of professionals?",
-            "What types of treatments do pharmacists play a role in?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 1233,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Diarmaid MacCulloch Context: On 17 December 1941, seven Protestant regional church confederations issued a statement agreeing with the policy of forcing Jews to wear the yellow badge, \"since after his bitter experience Luther had already suggested preventive measures against the Jews and their expulsion from German territory.\" According to Daniel Goldhagen, Bishop Martin Sasse, a leading Protestant churchman, published a compendium of Luther's writings shortly after Kristallnacht, for which Diarmaid MacCulloch, Professor of the History of the Church in the University of Oxford argued that Luther's writing was a \"blueprint.\" Sasse applauded the burning of the synagogues and the coincidence of the day, writing in the introduction, \"On 10 November 1938, on Luther's birthday, the synagogues are burning in Germany.\" The German people, he urged, ought to heed these words \"of the greatest antisemite of his time, the warner of his people against the Jews.\"\n  choice: Who said that luther's writings were a model for anti-semitic behavior?\n  choice: Who was in favor of burning synagogues?\n  choice: Who, according to the churches, advocated for the removal of jews from germany?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Who was the one who came up with the theory of relativity?"
-        ],
-        "multiple_choice_targets": [
-            "Kublai had a preference for which faith?",
-            "Which khanates had become muslim?"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 950,
-        "inputs": "Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.\n\nHere is the short answer followed by the context.\nShort Answer: Sherwood Boehlert Context: On 23 June 2005, Rep. Joe Barton, chairman of the House Committee on Energy and Commerce wrote joint letters with Ed Whitfield, Chairman of the Subcommittee on Oversight and Investigations demanding full records on climate research, as well as personal information about their finances and careers, from Mann, Bradley and Hughes. Sherwood Boehlert, chairman of the House Science Committee, said this was a \"misguided and illegitimate investigation\" apparently aimed at intimidating scientists, and at his request the U.S. National Academy of Sciences arranged for its National Research Council to set up a special investigation. The National Research Council's report agreed that there were some statistical failings, but these had little effect on the graph, which was generally correct. In a 2006 letter to Nature, Mann, Bradley, and Hughes pointed out that their original article had said that \"more widespread high-resolution data are needed before more confident conclusions can be reached\" and that the uncertainties were \"the point of the article\".\n  choice: Who denied barton's investigation was illegitimate?\n  choice: Who was the chairman of the house energy and commerce committee?\n  choice: Who was the chairman of the oversight and investigations subcommittee?\nChoose the appropriate question which has the given answer.",
-        "targets": [
-            "Which mls team has been suspended?"
-        ],
-        "multiple_choice_targets": [
-            "Who was the chairman of the house energy and commerce committee?",
-            "Who was the chairman of the oversight and investigations subcommittee?",
-            "What was the name of the house science committee's chairman?",
-            "Who denied barton's investigation was illegitimate?"
+            "Which two groups have intercellular connections and membranes, as well as muscles, a nervous system, and sensory organs?",
+            "Which phylum has a higher level of complexity than sponges?"
         ],
         "multiple_choice_scores": [
             1,

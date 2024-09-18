@@ -1,77 +1,5 @@
 [
     {
-        "idx": 58,
-        "inputs": "Q: Try to identify the 2 words best associated with the word fluffy from the following list: whale, france, key, board, crane, tokyo, strike, knife, bank, cotton, casino, fall, millionaire, press. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "cotton, crane"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 39,
-        "inputs": "Q: Try to identify the 1 word best associated with the word PREHISTORIC from the following list: boom, new york, cotton, green, ball, pumpkin, force, suit, board, jet, mug, head, mammoth, seal, day, engine. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "mammoth"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2,
-        "inputs": "Q: Try to identify the 2 words best associated with the word MOISTURE from the following list: cable, ant, genie, razor, tear, fog, cowboy, mountie, government, king arthur, whistle, crystal, locust, sphinx, craft, fever, sherwood. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "fog, tear"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 66,
-        "inputs": "Q: Try to identify the 2 words best associated with the word WEDDING from the following list: tube , ring, doctor, snowman, post, copper, shadow, van, tie, cap, shark, horseshoe, date, car, stock, dice, skyscraper, tablet, thumb, hawk, knight. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "date, ring"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 47,
-        "inputs": "Q: Try to identify the 2 words best associated with the word FASHION from the following list: spell, battery, australia, fall, lock, jam, jack, table, ham, pilot, trip, calf, slip, dragon, robin, kangaroo, boot, centaur, web, ruler. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "boot, slip"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 72,
-        "inputs": "Q: Try to identify the 3 words best associated with the word TOOL from the following list: drill, vet, ship, wave, centaur, antarctica, battery, boot, calf, jupiter, slip , point, ham, honey, pie, jack, helicopter. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "battery, drill, jack"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 65,
-        "inputs": "Q: Try to identify the 3 words best associated with the word BLOWING from the following list: wind, shark, hawk, tube , doctor, copper, stock, date, thumb, tablet, knight, snowman, cap, air, draft, shadow, ghost, post, dice, tie, horseshoe, ring, van, skyscraper, car. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "air, draft, wind"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 38,
-        "inputs": "Q: Try to identify the 2 words best associated with the word BIRD from the following list: day, jet, mug, new york, boom, force, engine, pumpkin, phoenix, head, seal, ball. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "jet, phoenix"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
         "idx": 41,
         "inputs": "Q: Try to identify the 2 words best associated with the word FABRIC from the following list: day, ball, suit, cotton, seal, board, pumpkin, new york, head, mug, boom, force, jet, engine. Give your answer in alphabetical order.\nA:",
         "targets": [
@@ -81,82 +9,64 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 5,
-        "inputs": "Q: Try to identify the 2 words best associated with the word HOT from the following list: rainbow, volume, page, anchor, brazil, sack, gear, mark, hide, boss, kick, book, shorts, rope, sugar, drum, nose, tunnel, pacific, magician, glacier, ram, shoulder. Give your answer in alphabetical order.\nA:",
+        "idx": 7,
+        "inputs": "Q: Try to identify the 1 word best associated with the word PROMOTION from the following list: mark, ram, anchor, drum, gear, kick, book, nose, boss, sack, volume, page, pacific, tunnel, rainbow, glacier, shoulder, rope, magician. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "brazil, shorts"
+            "boss"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 73,
-        "inputs": "Q: Try to identify the 1 word best associated with the word SWEET from the following list: battery, vet, antarctica, point, jupiter, boot, calf, centaur, helicopter, honey, ham, ship, slip , wave. Give your answer in alphabetical order.\nA:",
+        "idx": 29,
+        "inputs": "Q: Try to identify the 3 words best associated with the word PLANK from the following list: bench, country, wool, pocket, goldilocks, tank, snap, cake, iceland, clock, door, sail, elephant, silk, taste, oasis, blacksmith. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "honey"
+            "bench, door, sail"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 22,
-        "inputs": "Q: Try to identify the 1 word best associated with the word MENSTRUAL from the following list: wish, judge, tip, laundry, pad, brain, sun, helmet, wedding, halloween, einstein. Give your answer in alphabetical order.\nA:",
+        "idx": 4,
+        "inputs": "Q: Try to identify the 2 words best associated with the word CHAMPAGNE from the following list: magician, boss, hide, drum, kick, book, gear, sugar, pacific, spirit, volume, page, nose, tunnel, brazil, rope, glacier, mark, pop, shoulder, ram, anchor, rainbow, shorts, sack. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "pad"
+            "pop, spirit"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 59,
-        "inputs": "Q: Try to identify the 3 words best associated with the word HIKE from the following list: stream, church, head, heart, scale, watch, trip, spine, limousine, model, capital, day, kangaroo, forest. Give your answer in alphabetical order.\nA:",
+        "idx": 40,
+        "inputs": "Q: Try to identify the 1 word best associated with the word COLOR from the following list: ball, cotton, head, suit, seal, green, day, board, mug, new york, force, engine, boom, pumpkin, jet. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "forest, stream, trip"
+            "green"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 14,
-        "inputs": "Q: Try to identify the 2 words best associated with the word SHATTER from the following list: laundry, judge, quarter, pad, sleep, crusader, tip, earthquake, halloween, wish, groom, helmet, stamp, minotaur, einstein, sun, troll, wedding, slipper, brain, nude, mirror. Give your answer in alphabetical order.\nA:",
+        "idx": 51,
+        "inputs": "Q: Try to identify the 1 word best associated with the word BIRD from the following list: calf, ruler, pilot, jack, centaur, robin, australia, spell, table, battery, jam, kangaroo, lock. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "earthquake, mirror"
+            "robin"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 73,
-        "inputs": "Q: Try to identify the 1 word best associated with the word SWEET from the following list: battery, vet, antarctica, point, jupiter, boot, calf, centaur, helicopter, honey, ham, ship, slip , wave. Give your answer in alphabetical order.\nA:",
+        "idx": 34,
+        "inputs": "Q: Try to identify the 2 words best associated with the word SPACE from the following list: helicopter, green, engine, mammoth, moscow, mercury, cotton, pumpkin, force, head, ball, seal, jet, mug, hospital, board, ambulance, diamond, day, boom, star, phoenix, new york, suit. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "honey"
+            "mercury, star"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 77,
-        "inputs": "Q: Try to identify the 4 words best associated with the word ENTERTAINMENT from the following list: pool, bomb, cross, change, needle, scorpion, egypt, fan, concert, brush, straw, card, bermuda, grass, match, europe, net, lion. Give your answer in alphabetical order.\nA:",
+        "idx": 8,
+        "inputs": "Q: Try to identify the 2 words best associated with the word CRYSTAL from the following list: page, anchor, drum, sack, pacific, shoulder, mark, glacier, sugar, gear, tunnel, book. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "card, concert, match, pool"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 12,
-        "inputs": "Q: Try to identify the 2 words best associated with the word WHITE from the following list: book, anchor, rainbow, shoulder, tunnel, sack, drum, pacific, page, mark, gear, glacier. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "glacier, page"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 49,
-        "inputs": "Q: Try to identify the 2 words best associated with the word YOUTUBE from the following list: dragon, kangaroo, lock, jam, battery, centaur, pilot, calf, web, australia, jack, spell, ruler, table. Give your answer in alphabetical order.\nA:",
-        "targets": [
-            "jam, web"
+            "glacier, sugar"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
@@ -171,10 +81,100 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 19,
-        "inputs": "Q: Try to identify the 1 word best associated with the word MAIL from the following list: tip, wish, crusader, stamp, wedding, sun, brain, einstein, laundry, pad, helmet, halloween, judge, quarter. Give your answer in alphabetical order.\nA:",
+        "idx": 72,
+        "inputs": "Q: Try to identify the 3 words best associated with the word TOOL from the following list: drill, vet, ship, wave, centaur, antarctica, battery, boot, calf, jupiter, slip , point, ham, honey, pie, jack, helicopter. Give your answer in alphabetical order.\nA:",
         "targets": [
-            "stamp"
+            "battery, drill, jack"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 40,
+        "inputs": "Q: Try to identify the 1 word best associated with the word COLOR from the following list: ball, cotton, head, suit, seal, green, day, board, mug, new york, force, engine, boom, pumpkin, jet. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "green"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 27,
+        "inputs": "Q: Try to identify the 4 words best associated with the word ORGANIC from the following list: door, iceland, pocket, cherry, bench, taste, garden, wool, clock, tank, country, oasis, smell, joan of arc, goldilocks, potato, cake, snap, sail, blacksmith. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "cherry, garden, potato, wool"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 83,
+        "inputs": "Q: Try to identify the 2 words best associated with the word GARDEN from the following list: cover, star, spell, mug, wake, moon, seal, mouse, rose, canada, moscow, lab, arm, pass, iron, ruler, shop, soul. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "mouse, rose"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 63,
+        "inputs": "Q: Try to identify the 1 word best associated with the word AIRCRAFT from the following list: kangaroo, watch, stream, fish, capital, heart, model, head, limousine, spine, church, scale, day, jet. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "jet"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 50,
+        "inputs": "Q: Try to identify the 2 words best associated with the word SMOKING from the following list: ruler, australia, battery, ham, robin, dragon, lock, centaur, calf, jam, table, pilot, jack, kangaroo. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "dragon, ham"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 82,
+        "inputs": "Q: Try to identify the 3 words best associated with the word CONSOLE from the following list: lab, arm, star, web, canada, seal, mouse, theater, wake, shop, switch, ruler, mug, spell, moscow, moon, soul, cover, iron. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "mouse, switch, web"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 58,
+        "inputs": "Q: Try to identify the 2 words best associated with the word fluffy from the following list: whale, france, key, board, crane, tokyo, strike, knife, bank, cotton, casino, fall, millionaire, press. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "cotton, crane"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 18,
+        "inputs": "Q: Try to identify the 1 word best associated with the word UGLY from the following list: brain, troll, pad, stamp, einstein, judge, crusader, laundry, sun, wish, tip, quarter, halloween, wedding, helmet. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "troll"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 33,
+        "inputs": "Q: Try to identify the 2 words best associated with the word OCEAN from the following list: mug, head, pumpkin, ball, ambulance, seal, cotton, force, wave, boom, day, engine, new york, jet, mammoth, helicopter. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "seal, wave"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 17,
+        "inputs": "Q: Try to identify the 1 word best associated with the word BULL from the following list: judge, sun, crusader, brain, halloween, einstein, tip, helmet, troll, wish, wedding, quarter, pad, minotaur, stamp, laundry, nude. Give your answer in alphabetical order.\nA:",
+        "targets": [
+            "minotaur"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

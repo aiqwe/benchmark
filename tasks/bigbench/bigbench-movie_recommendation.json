@@ -1,218 +1,9 @@
 [
     {
         "idx": 19,
-        "inputs": "Find a movie similar to Terminator 2 Judgment Day, Pulp Fiction, Aladdin, The Lion King:\n  choice: Le Maître d'école\n  choice: The Scent of Green Papaya\n  choice: Hawks and Sparrows\n  choice: Schindler's List",
+        "inputs": "Find a movie similar to American Beauty, Star Wars Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars Episode IV - A New Hope:\n  choice: Groundhog Day\n  choice: Snow Falling on Cedars\n  choice: Colombiana\n  choice: Santa's Little Helper",
         "targets": [
-            "Forrest Gump"
-        ],
-        "multiple_choice_targets": [
-            "From Hell",
-            "The Insider",
-            "Independence Day",
-            "Bride of Chucky"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 373,
-        "inputs": "Find a movie similar to Gladiator, Raiders of the Lost Ark, Schindler's List, Saving Private Ryan:\n  choice: Scorpio\n  choice: The Prophecy\n  choice: Oh, Hello On Broadway\n  choice: The Matrix",
-        "targets": [
-            "One Flew Over the Cuckoo's Nest"
-        ],
-        "multiple_choice_targets": [
-            "Be Cool",
-            "Just Visiting",
-            "Swept from the Sea",
-            "The Terminator"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 59,
-        "inputs": "Find a movie similar to Jurassic Park, The Silence of the Lambs, Dances with Wolves, Seven:\n  choice: Cheech and Chong's Up in Smoke\n  choice: Righteous Kill\n  choice: Blood The Last Vampire\n  choice: Forrest Gump",
-        "targets": [
-            "The Mask"
-        ],
-        "multiple_choice_targets": [
-            "The Lawnmower Man",
-            "Virus",
-            "Jaws The Revenge",
-            "Get Shorty"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 22,
-        "inputs": "Find a movie similar to Fargo, Pulp Fiction, American Beauty, Seven:\n  choice: Lady Vengeance\n  choice: The Usual Suspects\n  choice: K-19 The Widowmaker\n  choice: That Demon Within",
-        "targets": [
-            "One Flew Over the Cuckoo's Nest"
-        ],
-        "multiple_choice_targets": [
-            "The Front Page",
-            "Maelstrom",
-            "The Lion King",
-            "Lamerica"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 275,
-        "inputs": "Find a movie similar to Aladdin, Die Hard With a Vengeance, Jurassic Park, Independence Day:\n  choice: Celebrity\n  choice: Things You Can Tell Just by Looking at Her\n  choice: Batman\n  choice: Roxanne",
-        "targets": [
-            "WALL·E"
-        ],
-        "multiple_choice_targets": [
-            "The Shawshank Redemption",
-            "Pineapple Express",
-            "Neighbors",
-            "Paranormal Activity 4"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 343,
-        "inputs": "Find a movie similar to The Lion King, The Fugitive, Terminator 2 Judgment Day, Toy Story:\n  choice: Black Mirror\n  choice: The Stunt Man\n  choice: Aladdin\n  choice: Super Mario Bros",
-        "targets": [
-            "Independence Day"
-        ],
-        "multiple_choice_targets": [
-            "The Fugitive",
-            "Tristram Shandy A Cock and Bull Story",
-            "Barefoot in the Park",
-            "Dante's Inferno An Animated Epic"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 340,
-        "inputs": "Find a movie similar to Dances with Wolves, The Shawshank Redemption, The Fugitive, Stargate:\n  choice: Bone Tomahawk\n  choice: Mambo Italiano\n  choice: Air Force One\n  choice: Clear and Present Danger",
-        "targets": [
-            "The Lord of the Rings The Fellowship of the Ring"
-        ],
-        "multiple_choice_targets": [
-            "The Matrix",
-            "Scorpio",
-            "Oh, Hello On Broadway",
-            "The Prophecy"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 63,
-        "inputs": "Find a movie similar to Raiders of the Lost Ark, Schindler's List, Inception, The Lord of the Rings The Two Towers:\n  choice: The Brothers Grimm\n  choice: WALL·E\n  choice: The Black Stallion Returns\n  choice: The Toxic Avenger, Part II",
-        "targets": [
-            "The Silence of the Lambs"
-        ],
-        "multiple_choice_targets": [
-            "The Fiendish Plot of Dr Fu Manchu",
-            "The Hurricane",
-            "Sex Drive",
-            "Star Wars Episode IV - A New Hope"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 341,
-        "inputs": "Find a movie similar to The Silence of the Lambs, Schindler's List, The Usual Suspects, Seven:\n  choice: Blame It on the Bellboy\n  choice: Frank\n  choice: Barcelona\n  choice: Forrest Gump",
-        "targets": [
-            "Batman"
-        ],
-        "multiple_choice_targets": [
-            "My Neighbor Totoro",
-            "Hang 'Em High",
-            "They Came Together",
-            "Toy Story"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 151,
-        "inputs": "Find a movie similar to The Shawshank Redemption, Forrest Gump, The Matrix, Good Will Hunting:\n  choice: Made in Dagenham\n  choice: What's Your Number\n  choice: Cake\n  choice: Star Wars Episode VI - Return of the Jedi",
-        "targets": [
-            "Independence Day"
-        ],
-        "multiple_choice_targets": [
-            "The Towering Inferno",
-            "The Collector",
-            "Diabolique",
-            "The Fugitive"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 340,
-        "inputs": "Find a movie similar to Back to the Future, Raiders of the Lost Ark, The Matrix, The Terminator:\n  choice: Cave of Forgotten Dreams\n  choice: What's Up, Tiger Lily\n  choice: Batman\n  choice: Quatermass and the Pit",
-        "targets": [
-            "The Usual Suspects"
-        ],
-        "multiple_choice_targets": [
-            "Indiana Jones and the Last Crusade",
-            "Suddenly, Last Summer",
-            "Passion",
-            "Life of Pi"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 315,
-        "inputs": "Find a movie similar to Independence Day, Fargo, Forrest Gump, Heat:\n  choice: Mrs Dalloway\n  choice: The Silence of the Lambs\n  choice: Mike's New Car\n  choice: Pusher",
-        "targets": [
-            "Rear Window"
+            "Groundhog Day"
         ],
         "multiple_choice_targets": [
             "Colombiana",
@@ -221,61 +12,80 @@
             "Santa's Little Helper"
         ],
         "multiple_choice_scores": [
+            0,
+            0,
             1,
-            0,
-            0,
             0
         ]
     },
     {
-        "idx": 0,
-        "inputs": "Find a movie similar to The Usual Suspects, Pulp Fiction, Goodfellas, The Godfather:\n  choice: Kiss Kiss Bang Bang\n  choice: Monty Python and the Holy Grail\n  choice: Big Daddy\n  choice: Mogambo",
+        "idx": 55,
+        "inputs": "Find a movie similar to Jurassic Park, Independence Day, Forrest Gump, Batman:\n  choice: Roger Dodger\n  choice: The Silence of the Lambs\n  choice: Innocent Man, An\n  choice: The Firm",
         "targets": [
-            "The Fugitive"
+            "The Silence of the Lambs"
         ],
         "multiple_choice_targets": [
-            "I Know Who Killed Me",
-            "Oceans",
-            "Dances with Wolves",
-            "It Can't Be!"
+            "The Firm",
+            "Roger Dodger",
+            "Innocent Man, An",
+            "The Silence of the Lambs"
         ],
         "multiple_choice_scores": [
-            1,
             0,
             0,
-            0
+            0,
+            1
         ]
     },
     {
-        "idx": 296,
-        "inputs": "Find a movie similar to Back to the Future, Star Wars Episode IV - A New Hope, Star Wars Episode VI - Return of the Jedi, Independence Day:\n  choice: Just Visiting\n  choice: The Terminator\n  choice: Be Cool\n  choice: Swept from the Sea",
+        "idx": 305,
+        "inputs": "Find a movie similar to The Matrix, Up, Star Wars Episode IV - A New Hope, Inception:\n  choice: Frida\n  choice: Raiders of the Lost Ark\n  choice: And Your Mother Too\n  choice: Heavy Metal 2000",
         "targets": [
-            "Independence Day"
+            "Raiders of the Lost Ark"
         ],
         "multiple_choice_targets": [
-            "Bad Boy Bubby",
             "Raiders of the Lost Ark",
-            "Whatever Works",
-            "Porco Rosso"
+            "And Your Mother Too",
+            "Frida",
+            "Heavy Metal 2000"
         ],
         "multiple_choice_scores": [
+            1,
             0,
             0,
-            0,
-            1
+            0
         ]
     },
     {
-        "idx": 226,
-        "inputs": "Find a movie similar to Star Wars Episode IV - A New Hope, The Fugitive, Being John Malkovich, Mission Impossible:\n  choice: Pet Sematary II\n  choice: Winnie Pooh\n  choice: Ken Park\n  choice: Star Wars Episode V - The Empire Strikes Back",
+        "idx": 222,
+        "inputs": "Find a movie similar to Dances with Wolves, Pulp Fiction, Schindler's List, The Usual Suspects:\n  choice: Boys on the Side\n  choice: Suburban Commando\n  choice: Bats\n  choice: Braveheart",
         "targets": [
-            "Fargo"
+            "Braveheart"
         ],
         "multiple_choice_targets": [
-            "Pushing Hands",
-            "Mortal Kombat The Journey Begins",
-            "Sin Nombre",
-            "The Godfather"
+            "Braveheart",
+            "Boys on the Side",
+            "Bats",
+            "Suburban Commando"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 176,
+        "inputs": "Find a movie similar to Pretty Woman, The Mask, Pulp Fiction, The Lion King:\n  choice: Hollywoodland\n  choice: The Eyes of Tammy Faye\n  choice: Batman\n  choice: Snow White and the Huntsman",
+        "targets": [
+            "Batman"
+        ],
+        "multiple_choice_targets": [
+            "The Eyes of Tammy Faye",
+            "Hollywoodland",
+            "Snow White and the Huntsman",
+            "Batman"
         ],
         "multiple_choice_scores": [
             0,
@@ -285,35 +95,16 @@
         ]
     },
     {
-        "idx": 242,
-        "inputs": "Find a movie similar to American Beauty, Forrest Gump, The Usual Suspects, The Silence of the Lambs:\n  choice: Scream\n  choice: Three Men and a Little Lady\n  choice: Kong Skull Island\n  choice: Star Wars Episode IV - A New Hope",
+        "idx": 373,
+        "inputs": "Find a movie similar to Pulp Fiction, The Fugitive, Get Shorty, The Usual Suspects:\n  choice: Little Women\n  choice: The Shawshank Redemption\n  choice: Laggies\n  choice: The Sea Inside",
         "targets": [
             "The Shawshank Redemption"
         ],
         "multiple_choice_targets": [
-            "The Expendables",
-            "Blood Beach",
-            "Apollo 13",
-            "Stage Door"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 145,
-        "inputs": "Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Batman, Jurassic Park, Toy Story:\n  choice: Inhale\n  choice: The Internet's Own Boy The Story of Aaron Swartz\n  choice: Ghostbusters II\n  choice: Only Old Men Are Going to Battle",
-        "targets": [
-            "Clear and Present Danger"
-        ],
-        "multiple_choice_targets": [
-            "Star Wars Episode V - The Empire Strikes Back",
-            "Cradle 2 the Grave",
-            "Irreversible",
-            "Stigmata"
+            "The Sea Inside",
+            "Laggies",
+            "Little Women",
+            "The Shawshank Redemption"
         ],
         "multiple_choice_scores": [
             0,
@@ -323,36 +114,17 @@
         ]
     },
     {
-        "idx": 171,
-        "inputs": "Find a movie similar to Raiders of the Lost Ark, The Matrix, Gattaca, Gladiator:\n  choice: Maggie's Plan\n  choice: The Fifth Element\n  choice: For the Boys\n  choice: Swimming Pool",
+        "idx": 402,
+        "inputs": "Find a movie similar to Pulp Fiction, The Fugitive, The Shawshank Redemption, Dances with Wolves:\n  choice: Forrest Gump\n  choice: Saint Ralph\n  choice: Babylon 5 A Call to Arms\n  choice: Letters from Iwo Jima",
         "targets": [
-            "Pulp Fiction"
-        ],
-        "multiple_choice_targets": [
-            "John Q",
-            "Raiders of the Lost Ark",
-            "No Man's Land",
-            "The Morning After"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 158,
-        "inputs": "Find a movie similar to Don Juan DeMarco, Mr Holland's Opus, What's Eating Gilbert Grape, Pulp Fiction:\n  choice: Get Shorty\n  choice: Kolya\n  choice: Death Wish 2\n  choice: Gold Diggers of 1933",
-        "targets": [
-            "Inception"
-        ],
-        "multiple_choice_targets": [
-            "Baby Secret of the Lost Legend",
-            "The Care Bears Movie",
-            "The Fiendish Plot of Dr Fu Manchu",
             "Forrest Gump"
         ],
+        "multiple_choice_targets": [
+            "Babylon 5 A Call to Arms",
+            "Letters from Iwo Jima",
+            "Forrest Gump",
+            "Saint Ralph"
+        ],
         "multiple_choice_scores": [
             0,
             0,
@@ -361,16 +133,244 @@
         ]
     },
     {
-        "idx": 23,
-        "inputs": "Find a movie similar to Stargate, The Shawshank Redemption, Dances with Wolves, The Fugitive:\n  choice: Beauty of the Day\n  choice: The Omega Man\n  choice: Angel at My Table, An\n  choice: Pulp Fiction",
+        "idx": 160,
+        "inputs": "Find a movie similar to Pretty Woman, Aladdin, The Lion King, Batman:\n  choice: Everlasting Piece, An\n  choice: The Last Temptation of Christ\n  choice: Cloverfield\n  choice: Terminator 2 Judgment Day",
+        "targets": [
+            "Terminator 2 Judgment Day"
+        ],
+        "multiple_choice_targets": [
+            "Terminator 2 Judgment Day",
+            "Everlasting Piece, An",
+            "Cloverfield",
+            "The Last Temptation of Christ"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 223,
+        "inputs": "Find a movie similar to The Fugitive, Braveheart, Schindler's List, The Lion King:\n  choice: Mad City\n  choice: The Shawshank Redemption\n  choice: City of Men\n  choice: The Scorpion King",
+        "targets": [
+            "The Shawshank Redemption"
+        ],
+        "multiple_choice_targets": [
+            "Mad City",
+            "The Scorpion King",
+            "The Shawshank Redemption",
+            "City of Men"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 310,
+        "inputs": "Find a movie similar to A Beautiful Mind, Finding Nemo, The Shawshank Redemption, Shrek:\n  choice: Houseboat\n  choice: Thor Ragnarok\n  choice: Cape Fear\n  choice: Monsters, Inc",
+        "targets": [
+            "Monsters, Inc"
+        ],
+        "multiple_choice_targets": [
+            "Thor Ragnarok",
+            "Cape Fear",
+            "Houseboat",
+            "Monsters, Inc"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 261,
+        "inputs": "Find a movie similar to Star Wars Episode V - The Empire Strikes Back, The Usual Suspects, Star Wars Episode IV - A New Hope, The Lord of the Rings The Return of the King:\n  choice: LA Confidential\n  choice: PS I Love You\n  choice: Boyz N the Hood\n  choice: Let It Ride",
+        "targets": [
+            "LA Confidential"
+        ],
+        "multiple_choice_targets": [
+            "LA Confidential",
+            "PS I Love You",
+            "Boyz N the Hood",
+            "Let It Ride"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "Find a movie similar to Forrest Gump, The Silence of the Lambs, Seven, Fargo:\n  choice: Gandhi\n  choice: Schindler's List\n  choice: Dogfight\n  choice: Repo Man",
         "targets": [
             "Schindler's List"
         ],
         "multiple_choice_targets": [
+            "Gandhi",
+            "Schindler's List",
+            "Dogfight",
+            "Repo Man"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 197,
+        "inputs": "Find a movie similar to The Shawshank Redemption, Schindler's List, Aladdin, Terminator 2 Judgment Day:\n  choice: The Lion King\n  choice: Wolf Children\n  choice: Jackass 3D\n  choice: The Missing",
+        "targets": [
+            "The Lion King"
+        ],
+        "multiple_choice_targets": [
+            "Wolf Children",
+            "The Missing",
+            "Jackass 3D",
+            "The Lion King"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 460,
+        "inputs": "Find a movie similar to American Beauty, Pi, X-Men, The Godfather:\n  choice: Police Academy Mission to Moscow\n  choice: The Matrix\n  choice: Carnival of Souls\n  choice: SupermanDoomsday",
+        "targets": [
+            "The Matrix"
+        ],
+        "multiple_choice_targets": [
+            "Police Academy Mission to Moscow",
+            "The Matrix",
+            "Carnival of Souls",
+            "SupermanDoomsday"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 295,
+        "inputs": "Find a movie similar to Forrest Gump, The Matrix, Raiders of the Lost Ark, Inception:\n  choice: Master and Commander The Far Side of the World\n  choice: Thirteen\n  choice: Agent Cody Banks 2 Destination London\n  choice: Pulp Fiction",
+        "targets": [
+            "Pulp Fiction"
+        ],
+        "multiple_choice_targets": [
+            "Thirteen",
+            "Agent Cody Banks 2 Destination London",
             "Pulp Fiction",
-            "Rude Boy",
-            "American Psycho II All American Girl",
-            "Wadjda"
+            "Master and Commander The Far Side of the World"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 97,
+        "inputs": "Find a movie similar to Star Wars Episode IV - A New Hope, Superman, The Terminator, American Beauty:\n  choice: Highlander The Search for Vengeance\n  choice: Supergirl\n  choice: Austin Powers International Man of Mystery\n  choice: Opera",
+        "targets": [
+            "Austin Powers International Man of Mystery"
+        ],
+        "multiple_choice_targets": [
+            "Opera",
+            "Austin Powers International Man of Mystery",
+            "Highlander The Search for Vengeance",
+            "Supergirl"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 130,
+        "inputs": "Find a movie similar to Gladiator, Raiders of the Lost Ark, Schindler's List, Saving Private Ryan:\n  choice: Scorpio\n  choice: The Prophecy\n  choice: Oh, Hello On Broadway\n  choice: The Matrix",
+        "targets": [
+            "The Matrix"
+        ],
+        "multiple_choice_targets": [
+            "The Matrix",
+            "Scorpio",
+            "Oh, Hello On Broadway",
+            "The Prophecy"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 22,
+        "inputs": "Find a movie similar to The Princess Bride, American Beauty, Monty Python and the Holy Grail, Raiders of the Lost Ark:\n  choice: Star Wars Episode IV - A New Hope\n  choice: The Nutty Professor\n  choice: Antichrist\n  choice: Stroszek",
+        "targets": [
+            "Star Wars Episode IV - A New Hope"
+        ],
+        "multiple_choice_targets": [
+            "The Nutty Professor",
+            "Star Wars Episode IV - A New Hope",
+            "Antichrist",
+            "Stroszek"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 362,
+        "inputs": "Find a movie similar to Raiders of the Lost Ark, The Matrix, Pulp Fiction, Forrest Gump:\n  choice: Inception\n  choice: Trail of the Pink Panther\n  choice: Firestarter\n  choice: Joe's Apartment",
+        "targets": [
+            "Inception"
+        ],
+        "multiple_choice_targets": [
+            "Trail of the Pink Panther",
+            "Inception",
+            "Firestarter",
+            "Joe's Apartment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 223,
+        "inputs": "Find a movie similar to The Fugitive, Braveheart, Schindler's List, The Lion King:\n  choice: Mad City\n  choice: The Shawshank Redemption\n  choice: City of Men\n  choice: The Scorpion King",
+        "targets": [
+            "The Shawshank Redemption"
+        ],
+        "multiple_choice_targets": [
+            "Mad City",
+            "The Scorpion King",
+            "The Shawshank Redemption",
+            "City of Men"
         ],
         "multiple_choice_scores": [
             0,

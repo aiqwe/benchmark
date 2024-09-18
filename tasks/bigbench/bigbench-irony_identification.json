@@ -1,9 +1,99 @@
 [
     {
         "idx": 27,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The dancer is flexible and moves swiftly on the stage.\nIronic/Not ironic?",
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: He updated his status on Facebook about how Facebook is a waste of time and energy.\nIronic/Not ironic?",
         "targets": [
             "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 72,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Sometimes people need a high five to cheer them up. You never know how someone's day has been.\nIronic/Not ironic?",
+        "targets": [
+            "not ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 91,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The dancer is clumsy and keeps falling over things.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 40,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I am not known for forgetting faces, but in your case I'll be more than happy to erase it from my memory.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 27,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: He updated his status on Facebook about how Facebook is a waste of time and energy.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 83,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: An anti-violence protest ended with fighting.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 63,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I never resort to lying; I can prove that I was telling the truth.\nIronic/Not ironic?",
+        "targets": [
+            "not ironic"
         ],
         "multiple_choice_targets": [
             "ironic",
@@ -16,22 +106,7 @@
     },
     {
         "idx": 50,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The professor's son was an A student.\nIronic/Not ironic?",
-        "targets": [
-            "ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The chef was disgusted after eating the bland chicken, not knowing it was his own food being served under a different name.\nIronic/Not ironic?",
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: My friends are so much better than theirs. They’re always there for me and let me borrow their stuff.\nIronic/Not ironic?",
         "targets": [
             "not ironic"
         ],
@@ -45,8 +120,8 @@
         ]
     },
     {
-        "idx": 54,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The lawyer got him out on bail.\nIronic/Not ironic?",
+        "idx": 82,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The animal rights activist was wearing a denim jacket made out of spandex and polyester.\nIronic/Not ironic?",
         "targets": [
             "not ironic"
         ],
@@ -60,53 +135,8 @@
         ]
     },
     {
-        "idx": 17,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: If human beings are the only intelligent creatures in the whole wide universe, then the upside is that there’s a finite number of fools.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 14,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Honesty is the best policy, since it saves you from deception.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Two wrongs don’t make a right—which is why you shouldn't reciprocate his evil actions.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 67,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Two wrongs never make a right—just look at those parents and you’ll see what I mean.\nIronic/Not ironic?",
+        "idx": 58,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Life is good. Maybe you should try getting one.\nIronic/Not ironic?",
         "targets": [
             "ironic"
         ],
@@ -120,128 +150,8 @@
         ]
     },
     {
-        "idx": 68,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: We English are good at forgiving our enemies; it allows us to sleep well at night.\nIronic/Not ironic?",
-        "targets": [
-            "ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 55,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The CEO always tell new hires not to think of him as their boss, but as their friend who wants to see them grow professionally.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 64,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I made the brilliant decision to buy a bike right before I started commuting to my university.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 64,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: An anti-violence protest ended with fighting.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 20,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: It’s okay if you don’t like me. Not everyone can have impeccable preferences in people they are partial to.\nIronic/Not ironic?",
-        "targets": [
-            "ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 41,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I never resort to lying; I just like to do some creative writing with my mouth.\nIronic/Not ironic?",
-        "targets": [
-            "not ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 39,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I never resort to lying; I can prove that I was telling the truth.\nIronic/Not ironic?",
-        "targets": [
-            "ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 10,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: If you’re going to tell people the truth to their faces, you should always do it using humor or they will end you.\nIronic/Not ironic?",
-        "targets": [
-            "ironic"
-        ],
-        "multiple_choice_targets": [
-            "ironic",
-            "not ironic"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 16,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I’m trying to snore less loudly so that my roommates can sleep.\nIronic/Not ironic?",
+        "idx": 18,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Living on Earth is expensive, but it does include a free trip around the sun.\nIronic/Not ironic?",
         "targets": [
             "ironic"
         ],
@@ -256,7 +166,37 @@
     },
     {
         "idx": 33,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: The biology teacher did not believe in teaching students about the theory of evolution.\nIronic/Not ironic?",
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Don’t take life too seriously. You should enjoy and have fun.\nIronic/Not ironic?",
+        "targets": [
+            "not ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 17,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Sarcasm is one of the useless ways of insulting people indirectly.\nIronic/Not ironic?",
+        "targets": [
+            "not ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 31,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I guess I should thank you for leaving my side when I was miserable and at my lowest. I realized I could accomplish so much more without you weighing me down.\nIronic/Not ironic?",
         "targets": [
             "ironic"
         ],
@@ -270,7 +210,37 @@
         ]
     },
     {
-        "idx": 69,
+        "idx": 95,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: We English are good at forgiving our enemies; it releases us from the obligation of liking our friends.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 71,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: If human beings are the only intelligent creatures in the whole wide universe, then we are incredibly lonely in this vastness of space.\nIronic/Not ironic?",
+        "targets": [
+            "not ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 68,
         "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Don't worry about what people think, just do your own thing and succeed at it.\nIronic/Not ironic?",
         "targets": [
             "not ironic"
@@ -285,10 +255,40 @@
         ]
     },
     {
-        "idx": 56,
-        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I made the brilliant decision to sell my car right before I decided to move to another city for work.\nIronic/Not ironic?",
+        "idx": 33,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: Don’t take life too seriously. You should enjoy and have fun.\nIronic/Not ironic?",
         "targets": [
             "not ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 95,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: We English are good at forgiving our enemies; it releases us from the obligation of liking our friends.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
+        ],
+        "multiple_choice_targets": [
+            "ironic",
+            "not ironic"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 74,
+        "inputs": "Are the given example sentences examples of irony or not? Respond 'ironic' or 'not ironic' to each example.\n\nExample: I feel so awful without you. It’s almost the same as having you sitting beside me.\nIronic/Not ironic?",
+        "targets": [
+            "ironic"
         ],
         "multiple_choice_targets": [
             "ironic",

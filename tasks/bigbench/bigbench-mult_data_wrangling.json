@@ -1,180 +1,180 @@
 [
     {
-        "idx": 15,
-        "inputs": "the input string/s 'Maecenas ut urna euismod,YZ, dapibus ex' is/are formatted as",
+        "idx": 9,
+        "inputs": "the input string/s 'Robert Zeneca' is/are formatted as",
         "targets": [
-            "'56L'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 23,
-        "inputs": "the input string/s 'Amr.Zita@northwindtraders.com' is/are formatted as",
-        "targets": [
-            "'85 KG'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 20,
-        "inputs": "Input: '[iu-345' Output:",
-        "targets": [
-            "'Drew@domain.com'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10,
-        "inputs": "the input string/s '09:50-08:30' is/are formatted as",
-        "targets": [
-            "'(36) 734-2192'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10,
-        "inputs": "the input string/s 'newsproducer@WJM.com' is/are formatted as",
-        "targets": [
-            "'17jun11'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 17,
-        "inputs": "the input string/s 'Durban Gig-Verde' is/are formatted as",
-        "targets": [
-            "'maria@gmail.com'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 15,
-        "inputs": "the input string/s '07:05', '30' is/are formatted as",
-        "targets": [
-            "'15:20'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4,
-        "inputs": "the input string/s '1-7895' is/are formatted as",
-        "targets": [
-            "'11aug10'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 21,
-        "inputs": "the input string/s '(481)-352-7960' is/are formatted as",
-        "targets": [
-            "'1'"
+            "''"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 8,
-        "inputs": "Input: 'aleix', 'gmail' Output:",
+        "inputs": "Input: 'homme' Output:",
         "targets": [
-            "'Meryl@domain.com'"
+            "'h'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 5,
-        "inputs": "the input string/s '20040720' is/are formatted as",
+        "inputs": "the input string/s '(195)-846-2730' is/are formatted as",
         "targets": [
-            "'E.Davis'"
+            "'195-846-2730'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 14,
-        "inputs": "Input: '31/08/2010' Output:",
+        "idx": 6,
+        "inputs": "the input string/s '02:34', 'CST', 'UTC' is/are formatted as",
         "targets": [
-            "'9226'"
+            "'08:34:00'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 27,
+        "inputs": "the input string/s '07-02-2018' is/are formatted as",
+        "targets": [
+            "'07-02-2018'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 5,
-        "inputs": "the input string/s '12:55 AM CET' is/are formatted as",
+        "inputs": "the input string/s '21:20', '12h' is/are formatted as",
         "targets": [
-            "'31th'"
+            "'09:20 PM'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 6,
-        "inputs": "the input string/s 'Mr. Arnold Sagar' is/are formatted as",
+        "idx": 19,
+        "inputs": "the input string/s 'Mea navis aëricumbens anguillis abundant.' is/are formatted as",
         "targets": [
-            "'15:10'"
+            "'MEA NAVIS AËRICUMBENS ANGUILLIS ABUNDANT'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 6,
-        "inputs": "Input: 'Ad meliora.' Output:",
+        "idx": 0,
+        "inputs": "Input: 'Maria Sartori' Output:",
         "targets": [
-            "'AQUILA NON CAPIT MUSCAS'"
+            "'masa'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 2,
-        "inputs": "the input string/s 'Mea navis volitans anguillis plena est' is/are formatted as",
+        "idx": 7,
+        "inputs": "Input: '(481)-352-7961' Output:",
         "targets": [
-            "'Germany'"
+            "'481-352-7961'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 14,
-        "inputs": "the input string/s 'Garet Anderson, PhD' is/are formatted as",
+        "idx": 5,
+        "inputs": "Input: '07/12/2011', 'us_7dec11.log' Output:",
         "targets": [
-            "'65-846-2732'"
+            "'7dec11'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 23,
+        "inputs": "the input string/s '00:20', '30' is/are formatted as",
+        "targets": [
+            "'00:20:30'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10,
+        "inputs": "the input string/s '990 2727 251' is/are formatted as",
+        "targets": [
+            "'9902727251'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 24,
+        "inputs": "Input: '09/12/2011', 'us_12sep11.log' Output:",
+        "targets": [
+            "'12sep11'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 30,
+        "inputs": "the input string/s '1-4574' is/are formatted as",
+        "targets": [
+            "'14574'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 16,
+        "inputs": "the input string/s 'Jerry McGonahn Jr.' is/are formatted as",
+        "targets": [
+            "'J. McGonahn'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 3,
-        "inputs": "the input string/s '10:05:00 AM' is/are formatted as",
+        "inputs": "Input: '1-406-789-1562' Output:",
         "targets": [
-            "'hotmail.com'"
+            "'14067891562'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 2,
-        "inputs": "the input string/s '21-465-81-39', 'France' is/are formatted as",
+        "idx": 3,
+        "inputs": "the input string/s '07:05:59' is/are formatted as",
         "targets": [
-            "'22:15:00'"
+            "'7'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 12,
-        "inputs": "Input: '39.88 mA' Output:",
+        "idx": 24,
+        "inputs": "the input string/s '05:34:00', 'CST', 'UTC' is/are formatted as",
         "targets": [
-            "'(+254) 25-427-12-20'"
+            "'11:34:00'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "the input string/s 'Giussepe Hindravtoks' is/are formatted as",
+        "targets": [
+            "'Hindravtoks, G.'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3,
+        "inputs": "the input string/s 'Hass', '2' is/are formatted as",
+        "targets": [
+            "'Mr. Hass'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

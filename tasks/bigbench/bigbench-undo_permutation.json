@@ -1,9 +1,9 @@
 [
     {
         "idx": 8,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: it by yourself did you make?\nA:",
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: a tht  diaotuu   sronwer hedebtute.\nA:",
         "targets": [
-            "I bought him a drink in return for his help."
+            "What he said turned out to be true."
         ],
         "multiple_choice_targets": [
             "What he said turned out to be true.",
@@ -27,23 +27,26 @@
         ]
     },
     {
-        "idx": 2,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: he really i can not figure out what wants.\nA:",
+        "idx": 90,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: it by yourself did you make?\nA:",
         "targets": [
-            "1-6, 2-1, 0-1, 5-1, 5-0, 4-5, 3-0, 7-5, 2-7, 3-2, 4-0"
+            "Did you make it by yourself?"
         ],
         "multiple_choice_targets": [
-            "I was allowed to take a week off.",
-            "I was allowed to take a month off.",
-            "I was not allowed to take a week off.",
-            "Off to was allowed week i a take.",
-            "I to take was allowed off a week.",
-            "Allowed was week off i take to a.",
-            "I was allowed to claim a workweek off.",
-            "I was provide to require a calendar week off."
+            "Did you make it by yourself?",
+            "Did he make it by himself?",
+            "Did you make it on your own?",
+            "You it did yourself by make?",
+            "It by yourself did you make?",
+            "It make you yourself did by?",
+            "Did you make up it by yourself?",
+            "Did you prepare it by yourself?"
         ],
         "multiple_choice_scores": [
             1,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -51,10 +54,118 @@
         ]
     },
     {
-        "idx": 26,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: you do ideas it have any about?\nA:",
+        "idx": 61,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: rb h hargos muil  penttroii f  kei urnnhihd.\nA:",
         "targets": [
-            "There is a very old temple in the town."
+            "I bought him a drink in return for his help."
+        ],
+        "multiple_choice_targets": [
+            "I bought him a drink in return for his help.",
+            "I bought him a card in return for his help.",
+            "I bought her a drink in return for her help.",
+            "Drink his him bought for return i in a help.",
+            "Help i bought him return for his a drink in.",
+            "Help a drink in return for his i bought him.",
+            "I grease ones palms him a drink in coming back for his assist.",
+            "I grease ones palms him a swallow in rejoin for his serve."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 8,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: a tht  diaotuu   sronwer hedebtute.\nA:",
+        "targets": [
+            "What he said turned out to be true."
+        ],
+        "multiple_choice_targets": [
+            "What he said turned out to be true.",
+            "What she said turned out to be true.",
+            "What he said turned out to be false.",
+            "What he said be true turned out to.",
+            "Out to be true said turned what he.",
+            "Said be to true he what out turned.",
+            "What he enjoin change state out to be avowedly.",
+            "What he said wrench out to be truthful."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 55,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: to new york please one ticket.\nA:",
+        "targets": [
+            "One ticket to New York please."
+        ],
+        "multiple_choice_targets": [
+            "One ticket to New York please.",
+            "One ticket to London please.",
+            "Two tickets to New York please.",
+            "Please to york one new ticket.",
+            "One new ticket york to please.",
+            "Please new one york ticket to.",
+            "One just the ticket to young York please.",
+            "Unity ticket to New York delight."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 2,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: view used to now differently life i than i.\nA:",
+        "targets": [
+            "I now view life differently than I used to."
+        ],
+        "multiple_choice_targets": [
+            "I now view life differently than I used to.",
+            "I now view life just the way I used to.",
+            "I now see life differently than I used to.",
+            "I used differently than i now to view life.",
+            "I used view life differently than i now to.",
+            "I used to life differently than i now view.",
+            "I now view lifetime other than than I practice to.",
+            "I now consider sprightliness otherwise than I used to."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: he really i can not figure out what wants.\nA:",
+        "targets": [
+            "I can not figure out what he really wants."
         ],
         "multiple_choice_targets": [
             "I can not figure out what he really wants.",
@@ -78,20 +189,41 @@
         ]
     },
     {
-        "idx": 19,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: i will have know to let you.\nA:",
+        "idx": 73,
+        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: no for it asking use is help him.\n  choice: 1-6, 2-1, 0-1, 5-1, 5-0, 4-5, 3-0, 7-5, 2-7, 3-2, 4-0\n  choice: 5-7, 4-5, 7-1, 5-4, 1-6, 3-7, 6-4, 6-5, 4-3\n  choice: 1-6, 6-0, 7-2, 5-3, 1-2\n  choice: 0-6, 7-5, 0-3, 0-2\n  choice: 3-7, 6-7, 3-1, 4-7, 6-2, 1-2, 5-0, 4-6, 6-7, 4-5, 2-6, 2-1, 4-0, 3-6, 7-3\nA:",
         "targets": [
-            "There is an urgent need for qualified teachers."
+            "1-6, 2-1, 0-1, 5-1, 5-0, 4-5, 3-0, 7-5, 2-7, 3-2, 4-0"
         ],
         "multiple_choice_targets": [
-            "I do not know his address.",
-            "I do not know her address.",
-            "I do not know his name.",
-            "I know not address do his.",
-            "Know his address i do not.",
-            "His address not know i do.",
-            "I do not have a go at it his speech.",
-            "I do not have it away his come up to."
+            "1-6, 2-1, 0-1, 5-1, 5-0, 4-5, 3-0, 7-5, 2-7, 3-2, 4-0",
+            "5-7, 4-5, 7-1, 5-4, 1-6, 3-7, 6-4, 6-5, 4-3",
+            "1-6, 6-0, 7-2, 5-3, 1-2",
+            "3-7, 6-7, 3-1, 4-7, 6-2, 1-2, 5-0, 4-6, 6-7, 4-5, 2-6, 2-1, 4-0, 3-6, 7-3",
+            "0-6, 7-5, 0-3, 0-2"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: e okiwaat e o  tds keffolewa alw.\nA:",
+        "targets": [
+            "I was allowed to take a week off."
+        ],
+        "multiple_choice_targets": [
+            "I was allowed to take a week off.",
+            "I was allowed to take a month off.",
+            "I was not allowed to take a week off.",
+            "Off to was allowed week i a take.",
+            "I to take was allowed off a week.",
+            "Allowed was week off i take to a.",
+            "I was allowed to claim a workweek off.",
+            "I was provide to require a calendar week off."
         ],
         "multiple_choice_scores": [
             1,
@@ -105,17 +237,17 @@
         ]
     },
     {
-        "idx": 70,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: see the page 5 footnote on.\nA:",
+        "idx": 71,
+        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: find you key where did the?\n  choice: 1-2, 2-3, 4-0, 4-1, 3-4, 0-4, 4-5, 4-5, 5-1, 1-0\n  choice: 5-1, 0-1, 5-3, 3-5, 0-2, 0-1, 1-0, 2-3\n  choice: 1-4, 5-4, 0-1, 3-1, 0-4\n  choice: 0-3, 3-4, 0-1, 2-5, 0-5, 0-4, 1-3, 1-4, 1-5, 4-5, 1-3\n  choice: 4-1, 1-0, 2-3, 1-0, 2-3, 3-2, 2-4, 0-3, 0-2, 0-4, 5-4, 5-2\nA:",
         "targets": [
-            "There was an accident at the intersection."
+            "4-1, 1-0, 2-3, 1-0, 2-3, 3-2, 2-4, 0-3, 0-2, 0-4, 5-4, 5-2"
         ],
         "multiple_choice_targets": [
-            "2-4, 6-7, 0-1, 2-4, 4-2, 5-0, 2-1, 6-1, 5-7",
-            "6-5, 4-5, 1-4, 7-5, 1-6, 7-6, 5-4, 0-6, 0-4, 3-0, 2-4",
-            "1-6, 0-4, 1-3, 6-3, 4-3, 1-4",
-            "4-7, 7-6, 3-6, 4-7, 4-1, 5-0, 4-6, 4-7, 7-0, 1-5, 4-0, 7-3, 7-3, 5-0, 6-1, 5-2",
-            "3-4, 3-0, 1-5, 7-1, 7-2"
+            "4-1, 1-0, 2-3, 1-0, 2-3, 3-2, 2-4, 0-3, 0-2, 0-4, 5-4, 5-2",
+            "1-4, 5-4, 0-1, 3-1, 0-4",
+            "1-2, 2-3, 4-0, 4-1, 3-4, 0-4, 4-5, 4-5, 5-1, 1-0",
+            "0-3, 3-4, 0-1, 2-5, 0-5, 0-4, 1-3, 1-4, 1-5, 4-5, 1-3",
+            "5-1, 0-1, 5-3, 3-5, 0-2, 0-1, 1-0, 2-3"
         ],
         "multiple_choice_scores": [
             1,
@@ -126,44 +258,20 @@
         ]
     },
     {
-        "idx": 56,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: shower a before tom takes breakfast usually.\n  choice: 2-4, 1-6, 1-4, 0-1, 2-5, 6-0, 5-0, 3-0, 1-5, 5-6\n  choice: 6-4, 5-6, 5-6, 4-5, 2-4, 3-0, 2-4, 4-0, 4-6, 6-3\n  choice: 4-6, 5-1, 3-2, 1-3, 1-4, 1-0, 0-2, 4-3, 2-6, 3-5, 4-2, 1-4, 6-2, 2-1\n  choice: 1-0, 2-1, 4-5, 1-6, 0-2, 2-6, 0-2, 1-2\n  choice: 6-1, 1-0, 4-3, 0-1, 5-0, 3-4, 1-0\nA:",
+        "idx": 26,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: ny etecnu l ree ui mtmr grwdiionheuhvs t.\nA:",
         "targets": [
-            "5-3, 3-2, 5-4, 5-3, 6-2, 2-6"
+            "We live in the country during the summer."
         ],
         "multiple_choice_targets": [
-            "He won the first prize at the chess tournament.",
-            "He won the second prize at the chess tournament.",
-            "He won the first prize at the wrestling tournament.",
-            "First prize at the chess tournament he won the.",
-            "Prize at the chess the first he won tournament.",
-            "He won prize at the first the chess tournament.",
-            "He won the maiden prize at the chess tourney.",
-            "He won the kickoff prize at the chess game tourney."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 97,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: fttgt k o  e ntxmd kfoos waagiyen  ewiaoe.\nA:",
-        "targets": [
-            "She asked him where he lived."
-        ],
-        "multiple_choice_targets": [
-            "I do not go to school on Sunday.",
-            "I do not go to school on Saturday.",
-            "I do not go to work on Sunday.",
-            "On sunday to school i do not go.",
-            "On sunday go to school i do not.",
-            "To school not go i do on sunday.",
-            "I do not kick the bucket to civilise on Sunday.",
-            "I do not conk to schooling on billy sunday."
+            "We live in the country during the summer.",
+            "They live in the country during the summer.",
+            "We live in the city during the winter.",
+            "Country during the summer we live in the.",
+            "In live summer during the we the country.",
+            "The the we during summer live in country.",
+            "We subsist in the country during the summertime.",
+            "We springy in the country during the summertime."
         ],
         "multiple_choice_scores": [
             1,
@@ -177,20 +285,20 @@
         ]
     },
     {
-        "idx": 83,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: please we more bread have some can?\n  choice: 1-6, 2-1, 0-3, 4-0, 4-3, 1-5\n  choice: 6-2, 4-6, 0-3, 6-5, 2-0, 0-1, 4-3, 6-1, 0-4\n  choice: 6-0, 3-1, 1-3, 3-5, 4-2\n  choice: 1-5, 4-0, 2-4, 2-0, 4-0, 2-0, 0-4\n  choice: 6-0, 4-5, 3-4, 5-0, 2-5, 3-6, 6-4, 2-5, 4-6, 2-3, 2-5, 0-1\nA:",
+        "idx": 87,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: you do ideas it have any about?\nA:",
         "targets": [
-            "3-8, 0-2, 8-6, 9-2, 6-0, 2-5, 9-2, 8-9, 5-7, 4-8, 0-8, 7-3, 5-4, 4-0, 9-6, 4-1, 4-0, 2-3, 2-8, 5-4"
+            "Do you have any ideas about it?"
         ],
         "multiple_choice_targets": [
-            "What do you want to drink?",
-            "What do you want to eat?",
-            "What does he want to drink?",
-            "Want to you what do drink?",
-            "Want to drink what do you?",
-            "To drink you want what do?",
-            "What do you need to imbibe?",
-            "What do you want to potable?"
+            "Do you have any ideas about it?",
+            "Does he have any ideas about it?",
+            "Do you have any idea about cars?",
+            "Any have you it about do ideas?",
+            "It have any do you ideas about?",
+            "Have any ideas about do you it?",
+            "Do you have any theme about it?",
+            "Do you have any estimate about it?"
         ],
         "multiple_choice_scores": [
             1,
@@ -204,23 +312,26 @@
         ]
     },
     {
-        "idx": 74,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: i you agree not do with.\n  choice: 2-0, 3-5, 5-4, 3-1, 1-3, 2-0, 5-1, 4-2\n  choice: 2-5, 4-3, 5-0, 4-1, 5-2, 1-5, 0-2, 2-4, 2-4, 5-4, 1-0\n  choice: 2-1, 1-4, 5-4, 5-4, 1-2, 3-0, 2-1, 3-0\n  choice: 2-0, 1-3, 1-5, 0-5, 1-2, 0-1, 5-2, 4-3, 3-5\n  choice: 2-3, 5-1, 0-5, 4-1, 0-5\nA:",
+        "idx": 75,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: town the there old in temple a very is.\nA:",
         "targets": [
-            "How much do I owe you?"
+            "There is a very old temple in the town."
         ],
         "multiple_choice_targets": [
-            "I have a lot of things to do.",
-            "I do not have a lot of things to do.",
-            "I have a lot of things to do today.",
-            "Lot of things i have a to do.",
-            "I have of things a lot to do.",
-            "I have of things to do a lot.",
-            "I have a mickle of thing to do.",
-            "I have a quite a little of thing to do."
+            "There is a very old temple in the town.",
+            "There is a very old temple in this town.",
+            "There is a very old fort in the town.",
+            "Town a is in the there old temple very.",
+            "Very old temple there is a in the town.",
+            "Old temple the in town a there very is.",
+            "There is a very older synagogue in the township.",
+            "There is a very one time synagogue in the townsfolk."
         ],
         "multiple_choice_scores": [
             1,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -228,23 +339,26 @@
         ]
     },
     {
-        "idx": 32,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: understand everyone he enough for slowly to spoke.\n  choice: 3-4, 4-6, 6-3, 4-0, 4-0, 0-3, 4-2, 3-7, 7-6, 1-4, 5-7\n  choice: 6-3, 0-3, 3-5, 5-4, 0-6\n  choice: 4-5, 0-2, 4-6, 4-3, 7-1, 2-3, 0-2, 2-3, 0-7, 1-4, 2-4, 2-6, 0-1, 3-7, 6-0\n  choice: 3-0, 7-1, 5-2, 3-0, 5-7, 7-0\n  choice: 6-1, 6-3, 1-7, 1-2, 7-2\nA:",
+        "idx": 34,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: is netufr ht twatwic nn aa ge lhueorayol .\nA:",
         "targets": [
             "I can not figure out what he really wants."
         ],
         "multiple_choice_targets": [
-            "He lives at the top of the hill.",
-            "He lives at the bottom of the hill.",
-            "He lives at the top of the valley.",
-            "The he top hill of the at lives.",
-            "Top of the hill he lives at the.",
-            "He lives top of at the the hill.",
-            "He live at the round top of the james jerome hill.",
-            "He live on at the clear of the hill."
+            "I can not figure out what he really wants.",
+            "I can not figure out what she really wants.",
+            "I can not understand out what he really wants.",
+            "Wants can out not what really he i figure.",
+            "Figure out what i can not he really wants.",
+            "Figure out really wants what he i can not.",
+            "I can not figure out what he really neediness.",
+            "I can not cypher out what he very lack."
         ],
         "multiple_choice_scores": [
             1,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -252,20 +366,20 @@
         ]
     },
     {
-        "idx": 59,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: book about i asked new his tom.\n  choice: 1-3, 6-0, 0-2, 4-5\n  choice: 6-5, 5-0, 3-2, 4-5, 3-5, 5-3, 2-6, 5-4, 3-5, 5-6, 3-6\n  choice: 3-5, 3-5, 0-6, 3-6, 2-4, 5-1\n  choice: 0-5, 6-5, 3-0, 3-0, 0-2, 6-1, 5-0, 3-1, 0-1, 0-6, 6-3, 2-3, 4-5, 1-4\n  choice: 5-4, 6-1, 0-5, 6-5, 5-2, 6-0, 6-3, 5-1, 3-2, 4-6, 0-5, 5-6, 2-1\nA:",
+        "idx": 99,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: care you we of for this take will.\nA:",
         "targets": [
-            "There was an accident at the intersection."
+            "We will take care of this for you."
         ],
         "multiple_choice_targets": [
-            "She was always quarreling with her brothers.",
-            "She was always quarreling with her sisters.",
-            "She was always fighting with her brothers.",
-            "Always quarreling brothers with her she was.",
-            "She her brothers always with was quarreling.",
-            "Brothers she was always quarreling with her.",
-            "She was forever quarrel with her chum.",
-            "She was perpetually quarreling with her brothers."
+            "We will take care of this for you.",
+            "I will take care of this for you.",
+            "We will take care of this.",
+            "For you of this take care we will.",
+            "We will take for you care of this.",
+            "Care of this for you we will take.",
+            "We will shoot fear of this for you.",
+            "We will use up aid of this for you."
         ],
         "multiple_choice_scores": [
             1,
@@ -279,20 +393,20 @@
         ]
     },
     {
-        "idx": 78,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ:  andaoactueyto lgma  cmi  h.\nA:",
+        "idx": 19,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: night i dream had last a strange.\nA:",
         "targets": [
-            "5-6, 0-5, 4-6, 4-6, 4-5, 0-1, 2-1, 2-4"
+            "I had a strange dream last night."
         ],
         "multiple_choice_targets": [
-            "You should not judge others on how they look.",
-            "You should not judge others on how they dress.",
-            "He should not judge others on how they look.",
-            "You should look others on how they not judge.",
-            "How they look judge others on you should not.",
-            "Judge others on you should not how they look.",
-            "You should not evaluate others on how they look.",
-            "You should not adjudicate others on how they calculate."
+            "I had a strange dream last night.",
+            "I had a funny dream last night.",
+            "I had a strange nightmare last night.",
+            "Night strange dream last i had a.",
+            "Dream last a strange i had night.",
+            "I had a night strange dream last.",
+            "I had a unusual daydream last nighttime.",
+            "I had a strange ambition hold up night."
         ],
         "multiple_choice_scores": [
             1,
@@ -306,38 +420,20 @@
         ]
     },
     {
-        "idx": 0,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: a woi re tue donp hpyaeetrh?\nA:",
+        "idx": 98,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: i will have know to let you.\nA:",
         "targets": [
-            "How much do I owe you?"
+            "I will have to let you know."
         ],
         "multiple_choice_targets": [
-            "5-3, 2-4, 5-6, 0-1, 5-3, 5-4, 1-4, 6-3, 6-5, 5-6",
-            "5-0, 5-4, 4-5",
-            "4-3, 1-6, 0-5, 3-4, 4-1, 2-6, 4-6, 0-5, 2-3, 4-0, 5-3, 6-2",
-            "4-2, 3-2, 4-2, 1-5",
-            "3-6, 2-1, 5-0, 5-6, 5-4"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 85,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: oe it rtwghiyo nuea do .\nA:",
-        "targets": [
-            "I have a lot of things to do."
-        ],
-        "multiple_choice_targets": [
-            "4-5, 2-4, 3-5, 3-5, 0-4, 5-0, 4-3, 0-5, 4-1, 4-2, 6-3, 0-4, 2-1, 2-0",
-            "1-0, 2-4, 6-3, 3-1, 0-6, 1-0",
-            "6-1, 5-6, 1-2, 4-1",
-            "3-1, 4-3, 0-6, 5-0, 2-5",
-            "0-5, 3-0, 5-2, 5-4, 0-1, 1-0, 4-0, 0-6, 1-5, 0-3, 3-6, 0-1, 4-1, 2-0"
+            "I will have to let you know.",
+            "I will have to let you know by tonight.",
+            "I will let you know soon.",
+            "To let you know i will have.",
+            "I know have to you will let.",
+            "Know i will let you have to.",
+            "I will have to lashkar e tayyiba you get laid.",
+            "I will have to get you have it away."
         ],
         "multiple_choice_scores": [
             1,
@@ -351,88 +447,10 @@
         ]
     },
     {
-        "idx": 90,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: microwave this oven put please into the.\n  choice: 2-1, 4-5, 2-1, 5-3, 5-3, 2-1, 6-5, 4-0\n  choice: 6-3, 1-0, 5-4, 1-3, 2-5, 1-2, 2-0, 5-1, 1-6, 0-3, 0-5, 4-3\n  choice: 2-4, 3-0, 4-6, 0-4, 0-6, 6-1, 2-4, 4-3, 0-4, 4-1, 6-2, 1-3, 3-4\n  choice: 1-0, 2-3, 6-2, 1-3, 0-6, 5-6, 4-0, 6-5, 4-0, 2-6, 0-2, 6-1, 0-4, 1-3\n  choice: 3-0, 1-3, 1-3, 2-0, 2-6\nA:",
+        "idx": 4,
+        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: an urgent qualified teachers need for there is.\nA:",
         "targets": [
-            "1-8, 5-8, 6-0, 9-8, 4-2, 0-3, 0-4, 6-4, 3-5"
-        ],
-        "multiple_choice_targets": [
-            "Tom has not finished all his homework yet.",
-            "Tim has not finished all his homework yet.",
-            "Tom has not finished his homework yet.",
-            "Tom has not homework yet finished all his.",
-            "Yet finished tom homework all has his not.",
-            "Homework yet tom has not finished all his.",
-            "Uncle tom has not finished all his prep thus far.",
-            "Gobbler has not eat up all his preparation yet."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 72,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: soccer good some player will tom become day a.\n  choice: 3-5, 3-4, 6-4, 1-7, 7-2, 1-0, 8-7, 8-4, 5-3, 3-5, 2-1, 4-0, 0-3, 8-6\n  choice: 7-4, 2-0, 0-1, 3-8, 8-7, 4-8, 3-6, 1-7, 2-3, 4-3, 0-5, 6-1, 1-3, 5-2, 5-4, 2-4\n  choice: 4-8, 8-5, 7-8, 4-5, 2-6\n  choice: 0-4, 7-6, 3-7, 5-6, 4-2, 5-2, 0-8, 6-7, 0-8, 6-0\n  choice: 7-2, 0-7, 8-4, 6-2, 5-0, 5-3\nA:",
-        "targets": [
-            "1-0, 4-5, 5-0, 0-2, 1-5"
-        ],
-        "multiple_choice_targets": [
-            "I have to check and see what the contract says.",
-            "I have to check and see what the email says.",
-            "I will have to check and see what the contract says.",
-            "Check i to see and have the what says contract.",
-            "And see what the to check contract says i have.",
-            "Check to contract see what i and says the have.",
-            "I have to mark and construe what the contract bridge enunciate.",
-            "I have to match and regard what the narrow enjoin."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 84,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: e okiwaat e o  tds keffolewa alw.\nA:",
-        "targets": [
-            "I do not go to school on Sunday."
-        ],
-        "multiple_choice_targets": [
-            "He won the first prize at the chess tournament.",
-            "He won the second prize at the chess tournament.",
-            "He won the first prize at the wrestling tournament.",
-            "First prize at the chess tournament he won the.",
-            "Prize at the chess the first he won tournament.",
-            "He won prize at the first the chess tournament.",
-            "He won the maiden prize at the chess tourney.",
-            "He won the kickoff prize at the chess game tourney."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 76,
-        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: tn  dif let eednf ofaiwi isev ro nuwhtlyie.\nA:",
-        "targets": [
-            "She was always quarreling with her brothers."
+            "There is an urgent need for qualified teachers."
         ],
         "multiple_choice_targets": [
             "There is an urgent need for qualified teachers.",
@@ -456,17 +474,20 @@
         ]
     },
     {
-        "idx": 24,
-        "inputs": "In the following sentences with shuffled words, find the most likely unscrambled sentence.\n\nQ: player some good soccer day tom will become a.\nA:",
+        "idx": 85,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: kors ios ias wth dodnd en.\nA:",
         "targets": [
-            "Rome was not built in a day."
+            "I do not know his address."
         ],
         "multiple_choice_targets": [
-            "3-1, 9-4, 5-8, 9-6, 3-5, 3-6, 1-9, 1-4, 6-0, 7-8, 7-9, 1-3, 9-7, 2-0, 1-9, 8-1, 9-2, 3-7",
-            "7-5, 6-7, 9-6, 2-6, 8-3, 2-6, 9-0, 0-1, 9-8, 5-3, 2-4, 2-9, 7-4, 7-2",
-            "6-8, 5-9, 2-5, 5-6, 7-4, 9-0, 9-5, 3-8",
-            "5-2, 1-4, 2-4, 3-2, 3-5, 3-8, 7-3",
-            "7-5, 9-3, 5-3, 0-8, 1-4, 2-9, 5-1"
+            "I do not know his address.",
+            "I do not know her address.",
+            "I do not know his name.",
+            "I know not address do his.",
+            "Know his address i do not.",
+            "His address not know i do.",
+            "I do not have a go at it his speech.",
+            "I do not have it away his come up to."
         ],
         "multiple_choice_scores": [
             1,
@@ -480,17 +501,20 @@
         ]
     },
     {
-        "idx": 15,
-        "inputs": "In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.\n\nQ: wearing my clothes i was best.\n  choice: 4-2, 1-5, 2-1, 0-3, 1-2, 5-2, 5-1, 0-3, 2-5, 3-5, 0-3\n  choice: 5-3, 5-3, 2-5, 5-4, 1-3, 5-2, 4-0, 2-1\n  choice: 4-5, 0-2, 5-1, 3-5, 5-0\n  choice: 0-5, 0-3, 0-3, 1-0, 5-1, 3-5\n  choice: 5-0, 4-2, 1-5, 1-2, 5-3, 1-3, 4-3\nA:",
+        "idx": 12,
+        "inputs": "In the following sentences with shuffled characters, find the most likely unscrambled sentence.\n\nQ: i oh  e o nedeatesghrllteot dh y.\nA:",
         "targets": [
-            "It is no use asking him for help."
+            "He let the dog loose in the yard."
         ],
         "multiple_choice_targets": [
-            "11-1, 10-0, 8-10, 7-12, 3-13, 9-5, 10-3, 13-7, 7-10, 4-13, 2-5, 8-9, 12-2, 0-8, 7-4, 13-3, 2-11, 1-2, 9-11, 7-4, 0-2, 13-4, 11-6, 8-9, 1-8, 11-5, 9-11",
-            "1-11, 7-9, 5-13, 5-10, 2-11, 10-0, 6-8, 1-2, 10-9, 10-9, 6-5, 5-1, 3-6, 4-11, 12-2, 13-12, 5-11, 5-11, 12-0, 12-4",
-            "7-1, 12-13, 0-3, 13-3, 13-3, 1-2, 11-6, 9-13, 13-6, 7-12, 12-1, 0-12, 13-11, 8-2, 5-6, 7-0, 9-6, 0-8, 7-6, 10-6, 4-12, 2-0",
-            "0-2, 1-4, 7-2, 5-6, 8-2, 5-13, 12-1, 6-1, 2-6, 2-13, 12-5, 12-9, 2-1, 8-12, 6-7",
-            "11-12, 9-4, 6-3, 9-7, 5-3, 6-0, 13-10, 2-6, 11-4, 8-10, 2-4, 3-7, 3-10, 5-8, 8-1, 0-9, 12-6, 6-3, 6-9"
+            "He let the dog loose in the yard.",
+            "He let the chicken loose in the yard.",
+            "She let the dog loose in the yard.",
+            "The dog the yard he let loose in.",
+            "The yard dog loose in he let the.",
+            "He let the the yard dog loose in.",
+            "He army of the pure the dog at large in the pace.",
+            "He let the canis familiaris light in the thousand."
         ],
         "multiple_choice_scores": [
             1,

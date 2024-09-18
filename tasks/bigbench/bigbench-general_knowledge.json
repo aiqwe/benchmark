@@ -1,11 +1,68 @@
 [
     {
-        "idx": 19,
-        "inputs": "Q: What is the shape of a wheel?\n  choice: icosahedron\n  choice: ball\n  choice: square\n  choice: triangle\n  choice: decagon\n  choice: circle\n  choice: rhomboid\n  choice: hexagon\n  choice: pyramid\n  choice: grid\n  choice: prism\nA:",
+        "idx": 12,
+        "inputs": "Q: Which liquid is usually used to fill swimming pools?\n  choice: carbon dioxide\n  choice: chlorine\n  choice: oil\n  choice: glycerol\n  choice: none\n  choice: nitrogen\n  choice: water\nA:",
         "targets": [
-            "circle"
+            "water"
         ],
         "multiple_choice_targets": [
+            "water",
+            "chlorine",
+            "glycerol",
+            "oil",
+            "nitrogen",
+            "none",
+            "carbon dioxide"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Q: What is the largest planet in the solar system?\n  choice: Uranus\n  choice: Earth\n  choice: Neptune\n  choice: Ceres\n  choice: Saturn\n  choice: Jupiter\n  choice: Venus\n  choice: Mercury\n  choice: Mars\n  choice: Pluto\nA:",
+        "targets": [
+            "Jupiter"
+        ],
+        "multiple_choice_targets": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto",
+            "Ceres"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "Q: What is the name of the shape with three sides?\n  choice: square\n  choice: decagon\n  choice: prism\n  choice: circle\n  choice: rhomboid\n  choice: grid\n  choice: triangle\n  choice: icosahedron\n  choice: hexagon\n  choice: pyramid\nA:",
+        "targets": [
+            "triangle"
+        ],
+        "multiple_choice_targets": [
+            "triangle",
             "grid",
             "decagon",
             "hexagon",
@@ -14,125 +71,12 @@
             "square",
             "pyramid",
             "prism",
-            "circle",
-            "ball",
-            "triangle"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 42,
-        "inputs": "Q: Which is the name of the study of the heart and circulatory system?\n  choice: cardiology\n  choice: physics\n  choice: anthropology\n  choice: taxonomy\n  choice: chemistry\n  choice: mathematics\n  choice: computer science\n  choice: research\nA:",
-        "targets": [
-            "cardiology"
-        ],
-        "multiple_choice_targets": [
-            "cardiology",
-            "chemistry",
-            "anthropology",
-            "computer science",
-            "physics",
-            "mathematics",
-            "research",
-            "taxonomy"
+            "circle"
         ],
         "multiple_choice_scores": [
             1,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: What are people opening when they wake up?\n  choice: mouth\n  choice: brain\n  choice: freezer\n  choice: book\n  choice: legs\n  choice: ear\n  choice: nose\n  choice: foot\n  choice: eyes\n  choice: head\nA:",
-        "targets": [
-            "eyes"
-        ],
-        "multiple_choice_targets": [
-            "eyes",
-            "mouth",
-            "freezer",
-            "legs",
-            "nose",
-            "foot",
-            "brain",
-            "ear",
-            "head",
-            "book"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 40,
-        "inputs": "Q: Which is the name of the study of living organisms?\n  choice: biology\n  choice: chemistry\n  choice: research\n  choice: computer science\n  choice: physics\n  choice: mathematics\n  choice: taxonomy\nA:",
-        "targets": [
-            "biology"
-        ],
-        "multiple_choice_targets": [
-            "biology",
-            "chemistry",
-            "computer science",
-            "physics",
-            "mathematics",
-            "research",
-            "taxonomy"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 66,
-        "inputs": "Q: What is the largest volcano on Earth?\n  choice: Everest\n  choice: Mauna Loa\n  choice: Elbrus\n  choice: Vesuvius\n  choice: Eyjafjallajökull\n  choice: Krakatoa\n  choice: Fagradalsfjall\n  choice: Olympus\nA:",
-        "targets": [
-            "Mauna Loa"
-        ],
-        "multiple_choice_targets": [
-            "Mauna Loa",
-            "Everest",
-            "Eyjafjallajökull",
-            "Fagradalsfjall",
-            "Elbrus",
-            "Olympus",
-            "Vesuvius",
-            "Krakatoa"
-        ],
-        "multiple_choice_scores": [
-            1,
             0,
             0,
             0,
@@ -174,6 +118,149 @@
         ]
     },
     {
+        "idx": 46,
+        "inputs": "Q: Where would you go to buy dinner?\n  choice: beach\n  choice: bus\n  choice: school\n  choice: hospital\n  choice: restaurant\n  choice: hotel\nA:",
+        "targets": [
+            "restaurant"
+        ],
+        "multiple_choice_targets": [
+            "restaurant",
+            "hospital",
+            "school",
+            "hotel",
+            "bus",
+            "beach"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: What is the largest animal in the world?\n  choice: sheep\n  choice: monkey \n  choice: King Kong\n  choice: kitten\n  choice: giraffe\n  choice: deer\n  choice: blue whale\n  choice: tardigrade\n  choice: elephant\n  choice: human \n  choice: rabbit\n  choice: dog\n  choice: goat\nA:",
+        "targets": [
+            "blue whale"
+        ],
+        "multiple_choice_targets": [
+            "elephant",
+            "deer",
+            "goat",
+            "sheep",
+            "rabbit",
+            "dog",
+            "monkey",
+            "human",
+            "King Kong",
+            "kitten",
+            "giraffe",
+            "blue whale",
+            "tardigrade"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 47,
+        "inputs": "Q: What is the second-largest planet in the solar system?\n  choice: Uranus\n  choice: Earth\n  choice: Neptune\n  choice: Ceres\n  choice: Saturn\n  choice: Jupiter\n  choice: Venus\n  choice: Mercury\n  choice: Mars\n  choice: Pluto\nA:",
+        "targets": [
+            "Saturn"
+        ],
+        "multiple_choice_targets": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto",
+            "Ceres"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Q: Which professional would you consult if you have health issues?\n  choice: friend\n  choice: parent\n  choice: doctor\n  choice: shaman\n  choice: lawyer\n  choice: minister\n  choice: masseur\n  choice: secretary\nA:",
+        "targets": [
+            "doctor"
+        ],
+        "multiple_choice_targets": [
+            "doctor",
+            "lawyer",
+            "friend",
+            "minister",
+            "shaman",
+            "secretary",
+            "parent",
+            "masseur"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Q: What is the largest continent on Earth, by area?\n  choice: Africa\n  choice: Antarctica\n  choice: North America\n  choice: Asia\n  choice: Europe\n  choice: Australia\n  choice: South America\nA:",
+        "targets": [
+            "Asia"
+        ],
+        "multiple_choice_targets": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "Australia",
+            "North America",
+            "South America",
+            "Antarctica"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "idx": 34,
         "inputs": "Q: What is the capital of India?\n  choice: Agra\n  choice: Bangalore\n  choice: New Delhi\n  choice: Beijing\n  choice: Islamabad\n  choice: Bombay\n  choice: Washington, D.C.\nA:",
         "targets": [
@@ -199,8 +286,54 @@
         ]
     },
     {
-        "idx": 1,
-        "inputs": "Q: How many eyes do horses have?\n  choice: four\n  choice: none\n  choice: two\n  choice: one\n  choice: three\n  choice: six\nA:",
+        "idx": 9,
+        "inputs": "Q: What is rain made of?\n  choice: air\n  choice: cats\n  choice: water\n  choice: clouds\n  choice: snow\n  choice: ice\nA:",
+        "targets": [
+            "water"
+        ],
+        "multiple_choice_targets": [
+            "water",
+            "air",
+            "ice",
+            "snow",
+            "cats",
+            "clouds"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Q: What is a chicken hatched from?\n  choice: broiler\n  choice: caviar\n  choice: rooster\n  choice: egg\n  choice: pouch\n  choice: hen\nA:",
+        "targets": [
+            "egg"
+        ],
+        "multiple_choice_targets": [
+            "egg",
+            "hen",
+            "broiler",
+            "rooster",
+            "caviar",
+            "pouch"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 68,
+        "inputs": "Q: How many nostrils does a human have?\n  choice: four\n  choice: none\n  choice: two\n  choice: one\n  choice: three\n  choice: six\nA:",
         "targets": [
             "two"
         ],
@@ -222,175 +355,64 @@
         ]
     },
     {
-        "idx": 54,
-        "inputs": "Q: How many inches are in one foot?\n  choice: 1\n  choice: 12\n  choice: 6\n  choice: 2\n  choice: 3\n  choice: 24\nA:",
+        "idx": 31,
+        "inputs": "Q: What is the capital of Belgium?\n  choice: Barcelona\n  choice: Berlin\n  choice: Paris\n  choice: Brussels\n  choice: Moscow\n  choice: Madrid\n  choice: Rome\nA:",
         "targets": [
-            "12"
+            "Brussels"
         ],
         "multiple_choice_targets": [
-            "12",
-            "1",
-            "2",
-            "3",
-            "6",
-            "24"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 25,
-        "inputs": "Q: What sound does a cow make?\n  choice: caw\n  choice: quack\n  choice: bleat\n  choice: woof\n  choice: cry\n  choice: moo\n  choice: meow\n  choice: roar\nA:",
-        "targets": [
-            "moo"
-        ],
-        "multiple_choice_targets": [
-            "woof",
-            "quack",
-            "moo",
-            "roar",
-            "meow",
-            "bleat",
-            "caw",
-            "cry"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Q: What are people opening when they wake up?\n  choice: mouth\n  choice: brain\n  choice: freezer\n  choice: book\n  choice: legs\n  choice: ear\n  choice: nose\n  choice: foot\n  choice: eyes\n  choice: head\nA:",
-        "targets": [
-            "eyes"
-        ],
-        "multiple_choice_targets": [
-            "eyes",
-            "mouth",
-            "freezer",
-            "legs",
-            "nose",
-            "foot",
-            "brain",
-            "ear",
-            "head",
-            "book"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 60,
-        "inputs": "Q: Which mammal carries its young in a pouch?\n  choice: deer\n  choice: dog\n  choice: sheep\n  choice: goat\n  choice: rabbit\n  choice: kangaroo\nA:",
-        "targets": [
-            "kangaroo"
-        ],
-        "multiple_choice_targets": [
-            "kangaroo",
-            "deer",
-            "goat",
-            "sheep",
-            "rabbit",
-            "dog"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 65,
-        "inputs": "Q: In which direction should one look to see the sun in the evening?\n  choice: North\n  choice: West\n  choice: East\n  choice: South\nA:",
-        "targets": [
-            "West"
-        ],
-        "multiple_choice_targets": [
-            "East",
-            "North",
-            "South",
-            "West"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 41,
-        "inputs": "Q: Which is the name of the study of human cultures and society?\n  choice: anthropology\n  choice: chemistry\n  choice: research\n  choice: computer science\n  choice: physics\n  choice: mathematics\n  choice: taxonomy\nA:",
-        "targets": [
-            "anthropology"
-        ],
-        "multiple_choice_targets": [
-            "anthropology",
-            "chemistry",
-            "computer science",
-            "physics",
-            "mathematics",
-            "research",
-            "taxonomy"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 33,
-        "inputs": "Q: What is the capital of China?\n  choice: Barcelona\n  choice: Beijing\n  choice: Tokyo\n  choice: Chengdu\n  choice: Tianjin\n  choice: Madrid\n  choice: Washington, D.C.\nA:",
-        "targets": [
-            "Beijing"
-        ],
-        "multiple_choice_targets": [
-            "Beijing",
-            "Chengdu",
-            "Tianjin",
-            "Tokyo",
-            "Washington, D.C.",
+            "Paris",
+            "Moscow",
+            "Berlin",
+            "Rome",
+            "Brussels",
             "Madrid",
             "Barcelona"
         ],
         "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            0,
             1,
             0,
+            0
+        ]
+    },
+    {
+        "idx": 20,
+        "inputs": "Q: What is the largest animal in the world?\n  choice: sheep\n  choice: monkey \n  choice: King Kong\n  choice: kitten\n  choice: giraffe\n  choice: deer\n  choice: blue whale\n  choice: tardigrade\n  choice: elephant\n  choice: human \n  choice: rabbit\n  choice: dog\n  choice: goat\nA:",
+        "targets": [
+            "blue whale"
+        ],
+        "multiple_choice_targets": [
+            "elephant",
+            "deer",
+            "goat",
+            "sheep",
+            "rabbit",
+            "dog",
+            "monkey",
+            "human",
+            "King Kong",
+            "kitten",
+            "giraffe",
+            "blue whale",
+            "tardigrade"
+        ],
+        "multiple_choice_scores": [
             0,
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
             0
         ]
     },
@@ -422,47 +444,53 @@
         ]
     },
     {
-        "idx": 57,
-        "inputs": "Q: How many ounces are in one cup?\n  choice: 2\n  choice: 8\n  choice: 1\n  choice: 4\nA:",
+        "idx": 48,
+        "inputs": "Q: What is the largest planet in the solar system?\n  choice: Uranus\n  choice: Earth\n  choice: Neptune\n  choice: Ceres\n  choice: Saturn\n  choice: Jupiter\n  choice: Venus\n  choice: Mercury\n  choice: Mars\n  choice: Pluto\nA:",
         "targets": [
-            "8"
+            "Jupiter"
         ],
         "multiple_choice_targets": [
-            "1",
-            "2",
-            "4",
-            "8"
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto",
+            "Ceres"
         ],
         "multiple_choice_scores": [
             0,
             0,
             0,
-            1
-        ]
-    },
-    {
-        "idx": 37,
-        "inputs": "Q: What is the name of the shape with five sides?\n  choice: square\n  choice: decagon\n  choice: prism\n  choice: circle\n  choice: rhomboid\n  choice: hexagon\n  choice: triangle\n  choice: pentagon\n  choice: icosahedron\n  choice: quadrilateral\nA:",
-        "targets": [
-            "pentagon"
-        ],
-        "multiple_choice_targets": [
-            "pentagon",
-            "quadrilateral",
-            "triangle",
-            "decagon",
-            "hexagon",
-            "rhomboid",
-            "icosahedron",
-            "square",
-            "prism",
-            "circle"
-        ],
-        "multiple_choice_scores": [
+            0,
             1,
             0,
             0,
             0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Q: What is the capital of India?\n  choice: Agra\n  choice: Bangalore\n  choice: New Delhi\n  choice: Beijing\n  choice: Islamabad\n  choice: Bombay\n  choice: Washington, D.C.\nA:",
+        "targets": [
+            "New Delhi"
+        ],
+        "multiple_choice_targets": [
+            "New Delhi",
+            "Agra",
+            "Islamabad",
+            "Bangalore",
+            "Washington, D.C.",
+            "Beijing",
+            "Bombay"
+        ],
+        "multiple_choice_scores": [
+            1,
             0,
             0,
             0,
@@ -472,13 +500,38 @@
         ]
     },
     {
-        "idx": 40,
-        "inputs": "Q: Which is the name of the study of living organisms?\n  choice: biology\n  choice: chemistry\n  choice: research\n  choice: computer science\n  choice: physics\n  choice: mathematics\n  choice: taxonomy\nA:",
+        "idx": 28,
+        "inputs": "Q: What is the capital of France?\n  choice: Barcelona\n  choice: Berlin\n  choice: Paris\n  choice: Brussels\n  choice: Moscow\n  choice: Madrid\n  choice: Rome\nA:",
         "targets": [
-            "biology"
+            "Paris"
         ],
         "multiple_choice_targets": [
-            "biology",
+            "Paris",
+            "Moscow",
+            "Berlin",
+            "Rome",
+            "Brussels",
+            "Madrid",
+            "Barcelona"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 41,
+        "inputs": "Q: Which is the name of the study of human cultures and society?\n  choice: anthropology\n  choice: chemistry\n  choice: research\n  choice: computer science\n  choice: physics\n  choice: mathematics\n  choice: taxonomy\nA:",
+        "targets": [
+            "anthropology"
+        ],
+        "multiple_choice_targets": [
+            "anthropology",
             "chemistry",
             "computer science",
             "physics",
@@ -493,25 +546,6 @@
             0,
             0,
             0,
-            0
-        ]
-    },
-    {
-        "idx": 8,
-        "inputs": "Q: What does a thermometer measure?\n  choice: pressure\n  choice: velocity\n  choice: humidity\n  choice: temperature\nA:",
-        "targets": [
-            "temperature"
-        ],
-        "multiple_choice_targets": [
-            "humidity",
-            "velocity",
-            "temperature",
-            "pressure"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
             0
         ]
     }

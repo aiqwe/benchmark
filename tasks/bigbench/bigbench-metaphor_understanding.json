@@ -1,15 +1,15 @@
 [
     {
-        "idx": 49,
-        "inputs": "paraphrase: \nQ: He can't bear novelty or originalities. option: He can't endure novelty or originalities. option: He can't support novelty or originalities. option: He can't carry novelty or originalities. option: He can't produce novelty or originalities.\nA:",
+        "idx": 73,
+        "inputs": "paraphrase: \nQ: I knew almost nothing about physics but we shared some jokes about the Rome telephone system. option: I knew almost nothing about physics but we split some jokes about the Rome telephone system. option: I knew almost nothing about physics but we told the same jokes about the Rome telephone system. option: I knew almost nothing about physics but we also believed some jokes about the Rome telephone system. option: I knew almost nothing about physics but we told each other some jokes about the Rome telephone system.\nA:",
         "targets": [
-            "The Scarman Report, for example, contained the following policy proposal …."
+            "I knew almost nothing about physics but we told each other some jokes about the Rome telephone system."
         ],
         "multiple_choice_targets": [
-            "Women marry and use their husband's last names.",
-            "Women marry and convert their names.",
-            "Women marry and replace their names.",
-            "Women marry and transfer their names."
+            "I knew almost nothing about physics but we told each other some jokes about the Rome telephone system.",
+            "I knew almost nothing about physics but we told the same jokes about the Rome telephone system.",
+            "I knew almost nothing about physics but we also believed some jokes about the Rome telephone system.",
+            "I knew almost nothing about physics but we split some jokes about the Rome telephone system."
         ],
         "multiple_choice_scores": [
             1,
@@ -19,16 +19,16 @@
         ]
     },
     {
-        "idx": 55,
-        "inputs": "paraphrase: \nQ: He looked neither one way nor the other way but sat like a carved image. option: He looked neither one way nor the other way but sat for a long time. option: He looked neither one way nor the other way but sat with his eyes closed. option: He looked neither one way nor the other way but sat completely still. option: He looked neither one way nor the other way but sat next to the painting.\nA:",
+        "idx": 26,
+        "inputs": "paraphrase: \nQ: They reached the main deck, dropping down. option: They arrived at the main deck, dropping down. option: They were seen by the main deck, dropping down. option: They agreed on the main deck, dropping down. option: They contacted the main deck, dropping down.\nA:",
         "targets": [
-            "I think we might be able to manage that."
+            "They arrived at the main deck, dropping down."
         ],
         "multiple_choice_targets": [
-            "He joined William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
-            "He attached William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
-            "He entered William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists.",
-            "He connected William Jenkins, appointed chief organizing agent in 1911 and previously district agent for the Midlands Liberal Unionists."
+            "They arrived at the main deck, dropping down.",
+            "They were seen by the main deck, dropping down.",
+            "They contacted the main deck, dropping down.",
+            "They agreed on the main deck, dropping down."
         ],
         "multiple_choice_scores": [
             1,
@@ -38,16 +38,16 @@
         ]
     },
     {
-        "idx": 36,
-        "inputs": "paraphrase: \nQ: She didn't buy any toys for Josh because she had decided to open a toy shop. option: She didn't buy any toys for Josh because she had decided to let a toy shop start admitting customers. option: She didn't buy any toys for Josh because she had decided to start a toy shop. option: She didn't buy any toys for Josh because she had decided to inaugurate a toy shop. option: She didn't buy any toys for Josh because she had decided to let a toy shop start allowing customers in.\nA:",
+        "idx": 20,
+        "inputs": "paraphrase: \nQ: Ideas and aspirations must be embodied in manifest acts if reality is to be changed. option: Ideas and aspirations must be embodied in manifest acts if reality is to be converted. option: Ideas and aspirations must be embodied in manifest acts if reality is to be transferred. option: Ideas and aspirations must be embodied in manifest acts if a different reality is to be put on. option: Ideas and aspirations must be embodied in manifest acts if reality is to be modified.\nA:",
         "targets": [
-            "I have not yet joined the party."
+            "Ideas and aspirations must be embodied in manifest acts if reality is to be modified."
         ],
         "multiple_choice_targets": [
-            "Like most shows, this one will probably fail.",
-            "Like most shows, this one probably will not succeed in it.",
-            "Like most shows, this one will probably not be successful.",
-            "Like most shows, this one will probably malfunction."
+            "Ideas and aspirations must be embodied in manifest acts if reality is to be modified.",
+            "Ideas and aspirations must be embodied in manifest acts if reality is to be converted.",
+            "Ideas and aspirations must be embodied in manifest acts if a different reality is to be put on.",
+            "Ideas and aspirations must be embodied in manifest acts if reality is to be transferred."
         ],
         "multiple_choice_scores": [
             1,
@@ -57,16 +57,16 @@
         ]
     },
     {
-        "idx": 39,
-        "inputs": "paraphrase: \nQ: So in 1911 Steel-Maitland offered to join the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to become part of the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to enter the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to attach the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to come with the Halsbury Club and was accused of disloyalty by Walter Long.\nA:",
+        "idx": 67,
+        "inputs": "paraphrase: \nQ: By the time Mark arrived at home that evening, the pains in his head were excruciating. option: By the time Mark contacted home that evening, the pains in his head were excruciating. option: By the time Mark was seen by home that evening, the pains in his head were excruciating. option: By the time Mark agreed on home that evening, the pains in his head were excruciating. option: By the time Mark reached home that evening, the pains in his head were excruciating.\nA:",
         "targets": [
-            "So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could manage to think a bit more positively."
+            "By the time Mark reached home that evening, the pains in his head were excruciating."
         ],
         "multiple_choice_targets": [
-            "He is in such a hurry that he runs extremely fast",
-            "He is in such a hurry that he travels on a plane",
-            "He is in such a hurry that he runs to the airport",
-            "He is in such a hurry that he uses a helicopter"
+            "By the time Mark reached home that evening, the pains in his head were excruciating.",
+            "By the time Mark contacted home that evening, the pains in his head were excruciating.",
+            "By the time Mark agreed on home that evening, the pains in his head were excruciating.",
+            "By the time Mark was seen by home that evening, the pains in his head were excruciating."
         ],
         "multiple_choice_scores": [
             1,
@@ -76,225 +76,16 @@
         ]
     },
     {
-        "idx": 58,
-        "inputs": "paraphrase: \nQ: His condescending attitude made me really angry. option: His condescending attitude made my blood clutter. option: His condescending attitude made my heart boil. option: His condescending attitude made my blood boil. option: His condescending attitude made my blood vanish.\nA:",
+        "idx": 74,
+        "inputs": "paraphrase: \nQ: Girls Into Science and Technology (GIST) was the first major schools-based project addressing problems of sex stereotyping at school, and was an example of ‘action research’ in education. option: Girls Into Science and Technology (GIST) was the first major schools-based project discussing problems of sex stereotyping at school, and was an example of ‘action research’ in education. option: Girls Into Science and Technology (GIST) was the first major schools-based project sending problems of sex stereotyping at school, and was an example of ‘action research’ in education. option: Girls Into Science and Technology (GIST) was the first major schools-based project communicating problems of sex stereotyping at school, and was an example of ‘action research’ in education. option: Girls Into Science and Technology (GIST) was the first major schools-based project labelling problems of sex stereotyping at school, and was an example of ‘action research’ in education.\nA:",
         "targets": [
-            "to let a new category become available"
+            "Girls Into Science and Technology (GIST) was the first major schools-based project discussing problems of sex stereotyping at school, and was an example of ‘action research’ in education."
         ],
         "multiple_choice_targets": [
-            "a man who can not endure the fact",
-            "a man who can not contain the fact",
-            "a man who can not support the fact",
-            "a man who can not retain the fact"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 25,
-        "inputs": "paraphrase: \nQ: He felt a dark sexual desire option: He felt a sincere and sinless sexual desire option: He felt an obscure and disquieting sexual desire option: He felt a common and warm sexual desire option: He felt an immature and good-natured sexual desire\nA:",
-        "targets": [
-            "I knew almost nothing about physics but we shared some jokes about the Rome telephone system."
-        ],
-        "multiple_choice_targets": [
-            "It may also be possible to claim damages against a local authority for negligently not succeeding in ensuring that.",
-            "It may also be possible to claim damages against a local authority for being negligently unable to ensure that.",
-            "It may also be possible to claim damages against a local authority for negligently doing badly in ensuring that.",
-            "It may also be possible to claim damages against a local authority for faltering negligently."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 80,
-        "inputs": "paraphrase: \nQ: And now they were leaking all kinds of documents option: And now all kinds of documents were being disclosed option: And now all kinds of documents were being written option: And now all kinds of documents were being announced option: And now all kinds of documents were being presented\nA:",
-        "targets": [
-            "His Lordship reached that decision without enthusiasm."
-        ],
-        "multiple_choice_targets": [
-            "He is in such a hurry that he runs extremely fast",
-            "He is in such a hurry that he travels on a plane",
-            "He is in such a hurry that he runs to the airport",
-            "He is in such a hurry that he uses a helicopter"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 68,
-        "inputs": "paraphrase: \nQ: That they shared, along with all other participants in the crusade, a fervent devotion is certain. option: That they and all other participants in the crusade told each other about a fervent devotion is certain. option: That they, along with all other participants in the crusade, manifested the same fervent devotion is certain. option: That a fervent devotion was divide between them and all other participants in the crusade is certain. option: That they had in common, along with all other participants in the crusade, a fervent devotion is certain.\nA:",
-        "targets": [
-            "The Conservative manifesto contained a commitment."
-        ],
-        "multiple_choice_targets": [
-            "It may also be possible to claim damages against a local authority for negligently failing to ensure that.",
-            "It may also be possible to claim damages against a local authority for being negligently unable to ensure that.",
-            "It may also be possible to claim damages against a local authority for negligently doing badly in ensuring that.",
-            "It may also be possible to claim damages against a local authority for faltering negligently."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 17,
-        "inputs": "paraphrase: \nQ: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could succeed in thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could afford to think a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could organise thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could administer thinking a bit more positively. option: So there was, Grizel Huntley acknowledged, and it would be a great deal better if Penny could manage to think a bit more positively.\nA:",
-        "targets": [
-            "You ought to keep them wooden type of things for it."
-        ],
-        "multiple_choice_targets": [
-            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably changes its number at the top of a hill to D115.",
-            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably replaces its number at the top of a hill to D115.",
-            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably converts its number at the top of a hill to D115.",
-            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably puts on a different number at the top of a hill to D115."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 90,
-        "inputs": "paraphrase: \nQ: The Scarman Report, for example, included the following policy proposal …. option: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, controlled the following policy proposal ….\nA:",
-        "targets": [
-            "Initially the analyst does all the work, encouraging the user towards a system he thinks is right for the business."
-        ],
-        "multiple_choice_targets": [
-            "He knew how to write sweet words",
-            "He knew how to write sour words",
-            "He knew how to write bitter words",
-            "He knew how to write spicy words"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 27,
-        "inputs": "paraphrase: \nQ: So in 1911 Steel-Maitland offered to join the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to become part of the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to enter the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to attach the Halsbury Club and was accused of disloyalty by Walter Long. option: So in 1911 Steel-Maitland offered to come with the Halsbury Club and was accused of disloyalty by Walter Long.\nA:",
-        "targets": [
-            "He looked neither one way nor the other way but sat like a carved image."
-        ],
-        "multiple_choice_targets": [
-            "the right to govern their own sex lives",
-            "the right to operate their own sex lives",
-            "the right to prevent their own sex lives",
-            "the right to manage their own sex lives"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 61,
-        "inputs": "paraphrase: \nQ: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to provide a visual example of Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to demonstrate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to illustrate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to decorate Lombroso's theory. option: In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to draw pictures in Lombroso's theory.\nA:",
-        "targets": [
-            "During the conflict the seeds of peace were planted."
-        ],
-        "multiple_choice_targets": [
-            "He was worried they might tell everything about him",
-            "He was worried they might drown him",
-            "He was worried they might be mad at him",
-            "He was worried they might end his life"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 44,
-        "inputs": "paraphrase: \nQ: He felt a dark sexual desire option: He felt a sincere and sinless sexual desire option: He felt an obscure and disquieting sexual desire option: He felt a common and warm sexual desire option: He felt an immature and good-natured sexual desire\nA:",
-        "targets": [
-            "The Marais Poitevin village of Coulon is 27 miles to the north by the D120, which inexplicably changes its number at the top of a hill to D115."
-        ],
-        "multiple_choice_targets": [
-            "a good enough reason to transform his mind",
-            "a good enough reason to convert his mind",
-            "a good enough reason to replace his mind",
-            "a good enough reason to transfer his mind"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 31,
-        "inputs": "paraphrase: \nQ: He said the NHS should discuss more about the needs of cancer patients. option: He said the NHS should communicate the needs of cancer patients to itself. option: He said the NHS should speak more to the public about the needs of cancer patients. option: He said the NHS should address itself more to the needs of cancer patients. option: He said the NHS should label itself more with the needs of cancer patients.\nA:",
-        "targets": [
-            "It may also be possible to claim damages against a local authority for negligently failing to ensure that."
-        ],
-        "multiple_choice_targets": [
-            "I think we might be able to manage that.",
-            "I think we might be able to organise that.",
-            "I think we might be able to schedule that.",
-            "I think we might be able to afford that."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 61,
-        "inputs": "paraphrase: \nQ: This is not an office block, nor a church—although its sublime form might give rise to the idea that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might propose that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might suggest that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might imply that its architect was adept at designing cathedrals. option: This is not an office block, nor a church—although its sublime form might recommend that its architect was adept at designing cathedrals.\nA:",
-        "targets": [
-            "You've got four hundred pound really to play with."
-        ],
-        "multiple_choice_targets": [
-            "He had a lot of memories to unload.",
-            "He had no memories to unload.",
-            "He had specific memories to unload.",
-            "He had new memories to unload."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 21,
-        "inputs": "paraphrase: \nQ: He felt a wave of excitement option: He felt barely any excitement option: He felt very little excitement option: He felt an intense excitement option: He felt subtle excitement\nA:",
-        "targets": [
-            "Just before the court was due to preside over the request her solicitor received a cheque for £2,400."
-        ],
-        "multiple_choice_targets": [
-            "He felt a sudden red pain through his leg",
-            "He felt a sudden light pain through his leg.",
-            "He felt a sudden soft pain through his leg",
-            "He felt a sudden weak pain through his leg"
+            "Girls Into Science and Technology (GIST) was the first major schools-based project discussing problems of sex stereotyping at school, and was an example of ‘action research’ in education.",
+            "Girls Into Science and Technology (GIST) was the first major schools-based project communicating problems of sex stereotyping at school, and was an example of ‘action research’ in education.",
+            "Girls Into Science and Technology (GIST) was the first major schools-based project sending problems of sex stereotyping at school, and was an example of ‘action research’ in education.",
+            "Girls Into Science and Technology (GIST) was the first major schools-based project labelling problems of sex stereotyping at school, and was an example of ‘action research’ in education."
         ],
         "multiple_choice_scores": [
             1,
@@ -305,15 +96,15 @@
     },
     {
         "idx": 32,
-        "inputs": "paraphrase: \nQ: 'If totalization really is an ongoing process', Sartre writes, 'then it takes effect everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it functions everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it works everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it does surgery everywhere.' option: 'If totalization really is an ongoing process', Sartre writes, 'then it operates everywhere.'\nA:",
+        "inputs": "paraphrase: \nQ: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself answer what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself acknowledge what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre. option: In the test, Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply to what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply verbally to what Ronald Aronson has rightly characterized as the question for Sartre.\nA:",
         "targets": [
-            "He said the leaders will have to deal with a large amount of resentment"
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre."
         ],
         "multiple_choice_targets": [
-            "I have not yet been inducted into the party.",
-            "I have not yet attached the party.",
-            "I have not yet connected the party.",
-            "I have not been with the party yet."
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply verbally to what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself acknowledge what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "In the test, Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply to what Ronald Aronson has rightly characterized as the question for Sartre."
         ],
         "multiple_choice_scores": [
             1,
@@ -323,16 +114,16 @@
         ]
     },
     {
-        "idx": 42,
-        "inputs": "paraphrase: \nQ: The Scarman Report, for example, included the following policy proposal …. option: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, controlled the following policy proposal ….\nA:",
+        "idx": 109,
+        "inputs": "paraphrase: \nQ: I asked your help and it was impossible to find you option: I asked for your help and you broke my heart option: I asked for your help and you faded off to sleep option: I asked for your help and you appeared like a jack-in-the-box option: I asked for your help and you disappeared from radar\nA:",
         "targets": [
-            "He felt an obscure and disquieting sexual desire"
+            "I asked for your help and you disappeared from radar"
         ],
         "multiple_choice_targets": [
-            "They were, however, an all-White group, working without directly involving parents and were generally committed to specialist care in the community.",
-            "They were, however, an all-White group, doing surgery without directly involving parents and were generally committed to specialist care in the community.",
-            "They were, however, an all-White group, taking effect without directly involving parents and were generally committed to specialist care in the community.",
-            "They were, however, an all-White group, functioning without directly involving parents and were generally committed to specialist care in the community."
+            "I asked for your help and you disappeared from radar",
+            "I asked for your help and you appeared like a jack-in-the-box",
+            "I asked for your help and you broke my heart",
+            "I asked for your help and you faded off to sleep"
         ],
         "multiple_choice_scores": [
             1,
@@ -342,16 +133,16 @@
         ]
     },
     {
-        "idx": 54,
-        "inputs": "paraphrase: \nQ: The Scarman Report, for example, contained the following policy proposal …. option: The Scarman Report, for example, controlled the following policy proposal …. option: The Scarman Report, for example, stopped the following policy proposal …. option: For example, the following policy proposal was found in the Scarman Report …. option: The Scarman Report, for example, included the following policy proposal ….\nA:",
+        "idx": 112,
+        "inputs": "paraphrase: \nQ: Her joy was blinding option: Her joy was overwhelming option: Her joy was unnoticeable option: Her joy was hidden option: Her joy was unknown\nA:",
         "targets": [
-            "cutting where the stem comes with the main branch"
+            "Her joy was overwhelming"
         ],
         "multiple_choice_targets": [
-            "He was received warmly",
-            "He was received quickly",
-            "He was received slowly",
-            "He was received softly"
+            "Her joy was overwhelming",
+            "Her joy was unnoticeable",
+            "Her joy was hidden",
+            "Her joy was unknown"
         ],
         "multiple_choice_scores": [
             1,
@@ -361,16 +152,225 @@
         ]
     },
     {
-        "idx": 88,
-        "inputs": "paraphrase: \nQ: the right to govern their own sex lives option: the right to manage their own sex lives option: the right to prevent their own sex lives option: the right to control their own sex lives option: the right to operate their own sex lives\nA:",
+        "idx": 32,
+        "inputs": "paraphrase: \nQ: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself answer what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself acknowledge what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre. option: In the test, Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply to what Ronald Aronson has rightly characterized as the question for Sartre. option: Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply verbally to what Ronald Aronson has rightly characterized as the question for Sartre.\nA:",
         "targets": [
-            "He looked neither one way nor the other way but sat completely still."
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre."
         ],
         "multiple_choice_targets": [
-            "You've got four hundred pound really to do something with.",
-            "You've got four hundred pound really to enjoy yourself with.",
-            "You've got four hundred pound really to perform music with.",
-            "You've got four hundred pound really to compete with."
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself solve what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply verbally to what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself acknowledge what Ronald Aronson has rightly characterized as the question for Sartre.",
+            "In the test, Sartre's fundamental thesis, that ‘History continually effects totalisations of totalisations’ (I, 15), does not in itself reply to what Ronald Aronson has rightly characterized as the question for Sartre."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 102,
+        "inputs": "paraphrase: \nQ: he was overwhelmed by happiness option: he was so happy he felt his feet were exploading option: he was so happy he felt his heart was exploding option: he was so happy he felt his body was exploding option: he was so happy he felt his head was exploding\nA:",
+        "targets": [
+            "he was so happy he felt his heart was exploding"
+        ],
+        "multiple_choice_targets": [
+            "he was so happy he felt his heart was exploding",
+            "he was so happy he felt his feet were exploading",
+            "he was so happy he felt his head was exploding",
+            "he was so happy he felt his body was exploding"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 92,
+        "inputs": "paraphrase: \nQ: He felt an intense excitement option: He felt a stream of excitement. option: Het felt a flood of excitement. option: He felt a drop of excitement. option: He felt a wave of excitement\nA:",
+        "targets": [
+            "He felt a wave of excitement"
+        ],
+        "multiple_choice_targets": [
+            "He felt a wave of excitement",
+            "He felt a drop of excitement.",
+            "He felt a stream of excitement.",
+            "Het felt a flood of excitement."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 56,
+        "inputs": "paraphrase: \nQ: the demonstration which Keith has earlier persuaded him to take part in against the Vietnam War option: the demonstration which Keith has earlier persuaded him to connect against the Vietnam War option: the demonstration which Keith has earlier persuaded him to join against the Vietnam War option: the demonstration which Keith has earlier persuaded him to come with against the Vietnam War option: the demonstration which Keith has earlier persuaded him to enter against the Vietnam War\nA:",
+        "targets": [
+            "the demonstration which Keith has earlier persuaded him to join against the Vietnam War"
+        ],
+        "multiple_choice_targets": [
+            "the demonstration which Keith has earlier persuaded him to join against the Vietnam War",
+            "the demonstration which Keith has earlier persuaded him to connect against the Vietnam War",
+            "the demonstration which Keith has earlier persuaded him to come with against the Vietnam War",
+            "the demonstration which Keith has earlier persuaded him to enter against the Vietnam War"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 35,
+        "inputs": "paraphrase: \nQ: Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had become part of the golf club) he had complied with all the rest. option: Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had connected the golf club) he had complied with all the rest. option: Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had joined the golf club) he had complied with all the rest. option: Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had attached the golf club) he had complied with all the rest. option: Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had entered the golf club) he had complied with all the rest.\nA:",
+        "targets": [
+            "Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had joined the golf club) he had complied with all the rest."
+        ],
+        "multiple_choice_targets": [
+            "Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had joined the golf club) he had complied with all the rest.",
+            "Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had connected the golf club) he had complied with all the rest.",
+            "Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had entered the golf club) he had complied with all the rest.",
+            "Apart from the last one and the penultimate one which seemed to apply in America more than here (here he had attached the golf club) he had complied with all the rest."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 13,
+        "inputs": "paraphrase: \nQ: A ‘new Minister of Environmental Protection’ would operate inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would function inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would work inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would do surgery inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would take effect inside the Department of Energy.\nA:",
+        "targets": [
+            "A ‘new Minister of Environmental Protection’ would work inside the Department of Energy."
+        ],
+        "multiple_choice_targets": [
+            "A ‘new Minister of Environmental Protection’ would work inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would take effect inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would function inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would do surgery inside the Department of Energy."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "paraphrase: \nQ: By the time we had drunk our third bottle of wine Ellen and I had long reached New Zealand and were already sailing north towards New Caledonia. option: By the time we had drunk our third bottle of wine Ellen and I had long arrived in New Zealand and were already sailing north towards New Caledonia. option: By the time we had drunk our third bottle of wine Ellen and I had long contacted New Zealand and were already sailing north towards New Caledonia. option: By the time we had drunk our third bottle of wine Ellen and I had long agreed on New Zealand and were already sailing north towards New Caledonia. option: By the time we had drunk our third bottle of wine Ellen and I had long been seen by New Zealand and were already sailing north towards New Caledonia.\nA:",
+        "targets": [
+            "By the time we had drunk our third bottle of wine Ellen and I had long arrived in New Zealand and were already sailing north towards New Caledonia."
+        ],
+        "multiple_choice_targets": [
+            "By the time we had drunk our third bottle of wine Ellen and I had long arrived in New Zealand and were already sailing north towards New Caledonia.",
+            "By the time we had drunk our third bottle of wine Ellen and I had long agreed on New Zealand and were already sailing north towards New Caledonia.",
+            "By the time we had drunk our third bottle of wine Ellen and I had long been seen by New Zealand and were already sailing north towards New Caledonia.",
+            "By the time we had drunk our third bottle of wine Ellen and I had long contacted New Zealand and were already sailing north towards New Caledonia."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 23,
+        "inputs": "paraphrase: \nQ: He can't endure novelty or originalities. option: He can't carry novelty or originalities. option: He can't support novelty or originalities. option: He can't bear novelty or originalities. option: He can't produce novelty or originalities.\nA:",
+        "targets": [
+            "He can't bear novelty or originalities."
+        ],
+        "multiple_choice_targets": [
+            "He can't bear novelty or originalities.",
+            "He can't produce novelty or originalities.",
+            "He can't support novelty or originalities.",
+            "He can't carry novelty or originalities."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 76,
+        "inputs": "paraphrase: \nQ: The flowers moved in all directions because of the wind. option: The flowers sunbathed in the wind. option: The flowers were kissed by the wind. option: The flowers danced in the wind. option: The flowers were deeply touched by the wind.\nA:",
+        "targets": [
+            "The flowers danced in the wind."
+        ],
+        "multiple_choice_targets": [
+            "The flowers danced in the wind.",
+            "The flowers sunbathed in the wind.",
+            "The flowers were deeply touched by the wind.",
+            "The flowers were kissed by the wind."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 12,
+        "inputs": "paraphrase: \nQ: A ‘new Minister of Environmental Protection’ would work inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would function inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would take effect inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would do surgery inside the Department of Energy. option: A ‘new Minister of Environmental Protection’ would operate inside the Department of Energy.\nA:",
+        "targets": [
+            "A ‘new Minister of Environmental Protection’ would operate inside the Department of Energy."
+        ],
+        "multiple_choice_targets": [
+            "A ‘new Minister of Environmental Protection’ would operate inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would take effect inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would function inside the Department of Energy.",
+            "A ‘new Minister of Environmental Protection’ would do surgery inside the Department of Energy."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 103,
+        "inputs": "paraphrase: \nQ: He knew how to write sweet words option: He knew how to write nice and pleasant words option: He knew how to write unpleasant words option: He knew how to write hurtful words option: He knew how to write unkind words\nA:",
+        "targets": [
+            "He knew how to write nice and pleasant words"
+        ],
+        "multiple_choice_targets": [
+            "He knew how to write nice and pleasant words",
+            "He knew how to write unpleasant words",
+            "He knew how to write unkind words",
+            "He knew how to write hurtful words"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 28,
+        "inputs": "paraphrase: \nQ: All you can do with these songs is sing them, and Buddy didn't even succeed in managing that with any subtlety. option: All you can do with these songs is sing them, and Buddy doesn't succeed  even in managing that with any subtlety. option: All you can do with these songs is sing them, and Buddy falters even in managing that with any subtlety. option: All you can do with these songs is sing them, and Buddy does badly even at managing that with any subtlety. option: All you can do with these songs is sing them, and Buddy fails even to manage that with any subtlety.\nA:",
+        "targets": [
+            "All you can do with these songs is sing them, and Buddy fails even to manage that with any subtlety."
+        ],
+        "multiple_choice_targets": [
+            "All you can do with these songs is sing them, and Buddy fails even to manage that with any subtlety.",
+            "All you can do with these songs is sing them, and Buddy falters even in managing that with any subtlety.",
+            "All you can do with these songs is sing them, and Buddy does badly even at managing that with any subtlety.",
+            "All you can do with these songs is sing them, and Buddy doesn't succeed  even in managing that with any subtlety."
         ],
         "multiple_choice_scores": [
             1,

@@ -1,67 +1,7 @@
 [
     {
-        "idx": 52,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Jennifer, a psychiatrist, makes over $100k a year. So, Jennifer is above the poverty line.\nRelation:",
-        "targets": [
-            "no-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 53,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Hank is carrying a fake pistol. So, Hank is armed.\nRelation:",
-        "targets": [
-            "no-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 38,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences:  /The Great Gatsby/ is a book written by F. Scott Fitzgerald. Therefore /The Great Gatsby/ comprises chapters.\nRelation:",
-        "targets": [
-            "no-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 19,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Caleb bought some art. Therefore Caleb bought a painting.\nRelation:",
-        "targets": [
-            "no-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 23,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Richard yelled at Ethan. Therefore Ethan was yelled at by Richard.\nRelation:",
+        "idx": 12,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Felicia plays the bassoon in her high school band. So Felicia is a performer.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -75,8 +15,8 @@
         ]
     },
     {
-        "idx": 56,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: The tabletop is rectangular. So, it is not a square.\nRelation:",
+        "idx": 48,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Al and Bonnie are co-workers. So, they’re related.\nRelation:",
         "targets": [
             "no-entailment"
         ],
@@ -90,23 +30,8 @@
         ]
     },
     {
-        "idx": 23,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Richard yelled at Ethan. Therefore Ethan was yelled at by Richard.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 53,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Hank is carrying a fake pistol. So, Hank is armed.\nRelation:",
+        "idx": 35,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Four dogs went to the zoo. Therefore four dog owners went to the zoo.\nRelation:",
         "targets": [
             "no-entailment"
         ],
@@ -120,23 +45,8 @@
         ]
     },
     {
-        "idx": 44,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Pluto doesn’t orbit a star. So, Pluto is not a planet.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Lina met two nurses. So, Lina met at least one woman.\nRelation:",
+        "idx": 58,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: The shirt has red and blue stripes. So, the shirt is all one color.\nRelation:",
         "targets": [
             "no-entailment"
         ],
@@ -165,6 +75,111 @@
         ]
     },
     {
+        "idx": 20,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: America is a monarchy. Therefore America has a king.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 47,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Fred murdered Steve. So, Steve is dead.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 45,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Jennifer, a psychiatrist, makes over $100k a year. So, Jennifer is a medical professional.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 26,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Fido is a dog. Therefore Fido is a mammal.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Fido is a dog. Therefore Fido wears a leash.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Edwin tested positive for HIV. So Edwin has HIV.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 21,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Richard drew a conclusion. Therefore Richard drew.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
         "idx": 68,
         "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Rachel forgot to do her homework. So rachel did not do her homework.\nRelation:",
         "targets": [
@@ -180,8 +195,8 @@
         ]
     },
     {
-        "idx": 29,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Every bachelor is tall, and the man in the hat is short. Therefore the man in the hat is married.\nRelation:",
+        "idx": 31,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: /The Great Gatsby/ is a book written by F. Scott Fitzgerald. Therefore /The Great Gatsby/ comprises words.\nRelation:",
         "targets": [
             "entailment"
         ],
@@ -195,8 +210,53 @@
         ]
     },
     {
-        "idx": 62,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Ann is wearing a dress. So, Ann is not wearing pants.\nRelation:",
+        "idx": 20,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: America is a monarchy. Therefore America has a king.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 59,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: The tabletop is square. So, the tabletop is rectangular.\nRelation:",
+        "targets": [
+            "entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 48,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Al and Bonnie are co-workers. So, they’re related.\nRelation:",
+        "targets": [
+            "no-entailment"
+        ],
+        "multiple_choice_targets": [
+            "entailment",
+            "no-entailment"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 34,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Fido is a dog. Therefore Fido wears a leash.\nRelation:",
         "targets": [
             "no-entailment"
         ],
@@ -225,68 +285,8 @@
         ]
     },
     {
-        "idx": 8,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: The tweet went viral. So the tweet had a virus.\nRelation:",
-        "targets": [
-            "no-entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 12,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Felicia plays the bassoon in her high school band. So Felicia is a performer.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 29,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Every bachelor is tall, and the man in the hat is short. Therefore the man in the hat is married.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 22,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Richard yelled at Ethan. Therefore Richard yelled.\nRelation:",
-        "targets": [
-            "entailment"
-        ],
-        "multiple_choice_targets": [
-            "entailment",
-            "no-entailment"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 30,
-        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: John has a coffee table. Therefore John has furniture.\nRelation:",
+        "idx": 41,
+        "inputs": "Determine whether the following pairs of sentences embody an entailment relation or not.\n\nSentences: Al and Bonnie are cousins. So, they’re related.\nRelation:",
         "targets": [
             "entailment"
         ],

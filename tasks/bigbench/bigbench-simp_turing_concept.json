@@ -1,34 +1,7 @@
 [
     {
-        "idx": 1548,
-        "inputs": "Input: ''\nOutput: '11'\n\nInput: '00'\nOutput: '1'\n\nInput: '1'\nOutput: ''\n\nInput: '011'\nOutput: '1'\n\nInput: '010'\nOutput: '1'\n\nInput: '1011'\nOutput:",
-        "targets": [
-            "''"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 228,
-        "inputs": "Input: '0'\nOutput: ''\n\nInput: '00'\nOutput: '0'\n\nInput: '1'\nOutput: '1'\n\nInput: '010'\nOutput: '1'\n\nInput: '001'\nOutput: '0'\n\nInput: '110'\nOutput:",
-        "targets": [
-            "'000'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1302,
-        "inputs": "Input: ''\nOutput: '0'\n\nInput: '001100'\nOutput: '1'\n\nInput: '000101'\nOutput: '1'\n\nInput: '11011'\nOutput: ''\n\nInput: '000'\nOutput: '1'\n\nInput: '10'\nOutput: ''\n\nInput: '11001'\nOutput:",
-        "targets": [
-            "''"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 929,
-        "inputs": "Input: ''\nOutput: '00'\n\nInput: '000'\nOutput: '11'\n\nInput: '11111'\nOutput: ''\n\nInput: '001'\nOutput:",
+        "idx": 696,
+        "inputs": "Input: ''\nOutput: '011'\n\nInput: '01'\nOutput: ''\n\nInput: '1010'\nOutput:",
         "targets": [
             "'100'"
         ],
@@ -36,35 +9,26 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1466,
-        "inputs": "Input: ''\nOutput: '11'\n\nInput: '000'\nOutput:",
+        "idx": 1256,
+        "inputs": "Input: ''\nOutput: '001'\n\nInput: '1'\nOutput: '0'\n\nInput: '10'\nOutput: '0'\n\nInput: '111'\nOutput: '0'\n\nInput: '1010'\nOutput:",
         "targets": [
-            "''"
+            "'0'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 247,
-        "inputs": "Input: ''\nOutput: '11'\n\nInput: '1'\nOutput: '1'\n\nInput: '0'\nOutput: '1'\n\nInput: '101'\nOutput: ''\n\nInput: '100'\nOutput: ''\n\nInput: '11'\nOutput: ''\n\nInput: '00'\nOutput: ''\n\nInput: '1010'\nOutput:",
+        "idx": 1302,
+        "inputs": "Input: ''\nOutput: '111'\n\nInput: '0'\nOutput: '1'\n\nInput: '11101'\nOutput:",
         "targets": [
-            "''"
+            "'000'"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1639,
-        "inputs": "Input: ''\nOutput: '0'\n\nInput: '0'\nOutput: ''\n\nInput: '1'\nOutput: '0'\n\nInput: '10'\nOutput: '0'\n\nInput: '001'\nOutput: ''\n\nInput: '11010'\nOutput:",
-        "targets": [
-            "'10'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1414,
-        "inputs": "Input: ''\nOutput: '1'\n\nInput: '1'\nOutput: ''\n\nInput: '101'\nOutput: '1'\n\nInput: '11010'\nOutput:",
+        "idx": 1555,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '0'\nOutput: '0'\n\nInput: '00'\nOutput: ''\n\nInput: '10'\nOutput: ''\n\nInput: '001'\nOutput: '1'\n\nInput: '01'\nOutput: '0'\n\nInput: '11'\nOutput: '1'\n\nInput: '1'\nOutput: '1'\n\nInput: '11010'\nOutput:",
         "targets": [
             "'1'"
         ],
@@ -72,8 +36,8 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 531,
-        "inputs": "Input: ''\nOutput: '0'\n\nInput: '1'\nOutput: '00'\n\nInput: '11101'\nOutput:",
+        "idx": 908,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '01'\nOutput: '01'\n\nInput: '010'\nOutput: '01'\n\nInput: '110'\nOutput: '01'\n\nInput: '11'\nOutput: '01'\n\nInput: '0101'\nOutput: '01'\n\nInput: '0100'\nOutput: '01'\n\nInput: '001'\nOutput:",
         "targets": [
             "''"
         ],
@@ -81,89 +45,8 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1290,
-        "inputs": "Input: ''\nOutput: '01'\n\nInput: '1'\nOutput: '0'\n\nInput: '10'\nOutput: '0'\n\nInput: '1110'\nOutput: '0'\n\nInput: '11101'\nOutput:",
-        "targets": [
-            "''"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 994,
-        "inputs": "Input: ''\nOutput: '1'\n\nInput: '0'\nOutput: '0'\n\nInput: '1'\nOutput: ''\n\nInput: '00'\nOutput: '1'\n\nInput: '011'\nOutput: ''\n\nInput: '11110'\nOutput:",
-        "targets": [
-            "''"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 215,
-        "inputs": "Input: ''\nOutput: '1'\n\nInput: '00'\nOutput: '1'\n\nInput: '11111'\nOutput: '1'\n\nInput: '11110'\nOutput: '1'\n\nInput: '11100'\nOutput: '1'\n\nInput: '10100'\nOutput: '1'\n\nInput: '0101'\nOutput: '1'\n\nInput: '1'\nOutput:",
-        "targets": [
-            "''"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 420,
-        "inputs": "Input: ''\nOutput: '0110'\n\nInput: '0'\nOutput: ''\n\nInput: '1010'\nOutput:",
-        "targets": [
-            "'1'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 538,
-        "inputs": "Input: ''\nOutput: '10'\n\nInput: '0'\nOutput: ''\n\nInput: '10'\nOutput: ''\n\nInput: '01'\nOutput: ''\n\nInput: '1000'\nOutput: ''\n\nInput: '100'\nOutput: ''\n\nInput: '1'\nOutput: '00'\n\nInput: '00'\nOutput: ''\n\nInput: '1011'\nOutput:",
-        "targets": [
-            "'10'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1661,
-        "inputs": "Input: '0'\nOutput: '00'\n\nInput: '1'\nOutput: ''\n\nInput: '10'\nOutput: ''\n\nInput: '011'\nOutput: '00'\n\nInput: '110'\nOutput: ''\n\nInput: '101'\nOutput: ''\n\nInput: '11'\nOutput: ''\n\nInput: '11001'\nOutput:",
-        "targets": [
-            "'1'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 893,
-        "inputs": "Input: ''\nOutput: '00'\n\nInput: '0'\nOutput: ''\n\nInput: '00'\nOutput: '0'\n\nInput: '01'\nOutput: '1'\n\nInput: '010'\nOutput: '1'\n\nInput: '11'\nOutput:",
-        "targets": [
-            "'011'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1118,
-        "inputs": "Input: ''\nOutput: '1'\n\nInput: '100'\nOutput: '10'\n\nInput: '101'\nOutput: '10'\n\nInput: '0110'\nOutput: '11'\n\nInput: '11001'\nOutput:",
-        "targets": [
-            "'00'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1057,
-        "inputs": "Input: '0'\nOutput: ''\n\nInput: '1'\nOutput: '0'\n\nInput: '11'\nOutput: ''\n\nInput: '11010'\nOutput:",
-        "targets": [
-            "'10'"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 836,
-        "inputs": "Input: '1'\nOutput: '10'\n\nInput: '10'\nOutput: ''\n\nInput: '100'\nOutput: ''\n\nInput: '1001'\nOutput: ''\n\nInput: '1010'\nOutput:",
+        "idx": 917,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '10'\nOutput: '10'\n\nInput: '01'\nOutput: '11'\n\nInput: '00'\nOutput: '10'\n\nInput: '0011'\nOutput: '00'\n\nInput: '1'\nOutput: '1'\n\nInput: '0'\nOutput: '1'\n\nInput: '11101'\nOutput:",
         "targets": [
             "'01'"
         ],
@@ -171,8 +54,125 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 939,
-        "inputs": "Input: '10'\nOutput: '00'\n\nInput: '0'\nOutput: ''\n\nInput: '0101'\nOutput: '11'\n\nInput: '0110'\nOutput: '11'\n\nInput: '01000'\nOutput: '11'\n\nInput: '100'\nOutput: '00'\n\nInput: '11100'\nOutput:",
+        "idx": 1506,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '0'\nOutput: '00'\n\nInput: '1'\nOutput: ''\n\nInput: '110'\nOutput: ''\n\nInput: '100'\nOutput: ''\n\nInput: '10'\nOutput: ''\n\nInput: '11'\nOutput: ''\n\nInput: '111'\nOutput: ''\n\nInput: '1011'\nOutput:",
+        "targets": [
+            "''"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1991,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '0'\nOutput: ''\n\nInput: '01'\nOutput: '01'\n\nInput: '1011'\nOutput:",
+        "targets": [
+            "'1'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 629,
+        "inputs": "Input: ''\nOutput: '0011'\n\nInput: '1'\nOutput: ''\n\nInput: '110'\nOutput: ''\n\nInput: '100'\nOutput: ''\n\nInput: '00'\nOutput:",
+        "targets": [
+            "'11'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 441,
+        "inputs": "Input: '00'\nOutput: '100'\n\nInput: '1001'\nOutput:",
+        "targets": [
+            "''"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1127,
+        "inputs": "Input: ''\nOutput: '00'\n\nInput: '00'\nOutput: '00'\n\nInput: '10'\nOutput: '00'\n\nInput: '111'\nOutput: '00'\n\nInput: '11101'\nOutput:",
+        "targets": [
+            "'00'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 77,
+        "inputs": "Input: ''\nOutput: '000'\n\nInput: '11100'\nOutput:",
+        "targets": [
+            "''"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 876,
+        "inputs": "Input: ''\nOutput: '0'\n\nInput: '10'\nOutput: '00'\n\nInput: '01'\nOutput: '01'\n\nInput: '00'\nOutput: '00'\n\nInput: '1'\nOutput: '0'\n\nInput: '0'\nOutput: '0'\n\nInput: '1100'\nOutput: '11'\n\nInput: '1001'\nOutput:",
+        "targets": [
+            "'10'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1130,
+        "inputs": "Input: ''\nOutput: '00'\n\nInput: '00'\nOutput: '10'\n\nInput: '010'\nOutput: '10'\n\nInput: '001'\nOutput: '10'\n\nInput: '01'\nOutput: '10'\n\nInput: '000'\nOutput: '10'\n\nInput: '011'\nOutput: '10'\n\nInput: '11001'\nOutput:",
+        "targets": [
+            "''"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 445,
+        "inputs": "Input: '11'\nOutput: '101'\n\nInput: '1111'\nOutput: '101'\n\nInput: '1100'\nOutput: '101'\n\nInput: '0'\nOutput: '0'\n\nInput: '110'\nOutput: '101'\n\nInput: '111'\nOutput: '101'\n\nInput: '11000'\nOutput:",
+        "targets": [
+            "'101'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1061,
+        "inputs": "Input: '0'\nOutput: '1'\n\nInput: '1'\nOutput: '0'\n\nInput: '1010'\nOutput:",
+        "targets": [
+            "'0'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 153,
+        "inputs": "Input: '11'\nOutput: '01'\n\nInput: '0'\nOutput: ''\n\nInput: '1110'\nOutput: '01'\n\nInput: '10'\nOutput: '00'\n\nInput: '1001'\nOutput: '00'\n\nInput: '11010'\nOutput: '01'\n\nInput: '001'\nOutput:",
+        "targets": [
+            "''"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2044,
+        "inputs": "Input: ''\nOutput: '1'\n\nInput: '001'\nOutput: '001'\n\nInput: '01'\nOutput: '101'\n\nInput: '00'\nOutput: '001'\n\nInput: '11'\nOutput:",
+        "targets": [
+            "'111'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 929,
+        "inputs": "Input: '00'\nOutput: ''\n\nInput: '11'\nOutput: '1'\n\nInput: '01'\nOutput: ''\n\nInput: '1'\nOutput: ''\n\nInput: '10'\nOutput:",
+        "targets": [
+            "'0'"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 212,
+        "inputs": "Input: ''\nOutput: '00000'\n\nInput: '10'\nOutput: ''\n\nInput: '00'\nOutput: '11111'\n\nInput: '11100'\nOutput:",
         "targets": [
             "''"
         ],

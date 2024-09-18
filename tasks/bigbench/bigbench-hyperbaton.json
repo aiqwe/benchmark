@@ -1,7 +1,7 @@
 [
     {
         "idx": 38211,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" lovely huge brand-new shoe \" b \" lovely brand-new huge shoe \" ?\nA:",
+        "inputs": "Q: Which sentence has the correct adjective order: a \" leather tiny match \" b \" tiny leather match \" ?\nA:",
         "targets": [
             "b"
         ],
@@ -15,8 +15,158 @@
         ]
     },
     {
+        "idx": 20864,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" ridiculous ancient triangular Congolese sock \" b \" ancient triangular Congolese ridiculous sock \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 4170,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" little pyramidal black Indonesian silver sweater \" b \" black Indonesian silver little pyramidal sweater \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 41258,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" grey Brazilian knife \" b \" Brazilian grey knife \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 39659,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" tiny old-fashioned awful sock \" b \" awful tiny old-fashioned sock \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 22078,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" repulsive rubber surfboard \" b \" rubber repulsive surfboard \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
         "idx": 25771,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" hiking massive lovely Iranian dog \" b \" lovely massive Iranian hiking dog \" ?\nA:",
+        "inputs": "Q: Which sentence has the correct adjective order: a \" rectangular large paper Congolese match \" b \" large rectangular Congolese paper match \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 26273,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" grey Egyptian good computer \" b \" good grey Egyptian computer \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 14267,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" driving Indian archaic nice motorcycle \" b \" nice archaic Indian driving motorcycle \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1081,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" exercise purple repulsive chair \" b \" repulsive purple exercise chair \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 4041,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" terrible pink walking new wool sock \" b \" terrible new pink wool walking sock \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 42725,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" obnoxious Pakistani big chair \" b \" obnoxious big Pakistani chair \" ?\nA:",
         "targets": [
             "b"
         ],
@@ -31,9 +181,84 @@
     },
     {
         "idx": 25812,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" new silly massive walking motorcycle \" b \" silly massive new walking motorcycle \" ?\nA:",
+        "inputs": "Q: Which sentence has the correct adjective order: a \" normal-size old-fashioned eating computer \" b \" eating old-fashioned normal-size computer \" ?\nA:",
         "targets": [
             "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 13163,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" circular awful chair \" b \" awful circular chair \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 25563,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" driving fiberglass mysterious sock \" b \" mysterious fiberglass driving sock \" ?\nA:",
+        "targets": [
+            "b"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 9508,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" circular Vietnamese wool match \" b \" circular wool Vietnamese match \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 46596,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" archaic pyramidal red glass snorkeling surfboard \" b \" red pyramidal glass snorkeling archaic surfboard \" ?\nA:",
+        "targets": [
+            "a"
+        ],
+        "multiple_choice_targets": [
+            "a",
+            "b"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 7741,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" walking huge monkey \" b \" huge walking monkey \" ?\nA:",
+        "targets": [
+            "b"
         ],
         "multiple_choice_targets": [
             "a",
@@ -46,7 +271,7 @@
     },
     {
         "idx": 3526,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" blue smoking square wood massive car \" b \" massive square blue wood smoking car \" ?\nA:",
+        "inputs": "Q: Which sentence has the correct adjective order: a \" nice steel exercise match \" b \" exercise nice steel match \" ?\nA:",
         "targets": [
             "a"
         ],
@@ -60,233 +285,8 @@
         ]
     },
     {
-        "idx": 3701,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" brand-new triangular gray monkey \" b \" gray brand-new triangular monkey \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 19690,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" tiny pyramidal tan Thai wood chair \" b \" tiny pyramidal wood tan Thai chair \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 23851,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" Russian triangular glass computer \" b \" triangular Russian glass computer \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 27237,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" midsize terrible new Mexican paper dog \" b \" terrible midsize new Mexican paper dog \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 39039,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" cardboard pyramidal Japanese medium-size hiking surfboard \" b \" medium-size pyramidal Japanese cardboard hiking surfboard \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 28879,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" awful old-fashioned Russian sock \" b \" Russian awful old-fashioned sock \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 23628,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" ridiculous small new square exercise chair \" b \" ridiculous small exercise square new chair \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 2420,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" little ridiculous new baby \" b \" ridiculous little new baby \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 39659,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" wood black spherical ridiculous Bangladeshi eating shoe \" b \" ridiculous spherical black Bangladeshi wood eating shoe \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 21342,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" ridiculous medium-size orange snorkeling baby \" b \" snorkeling orange medium-size ridiculous baby \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 620,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" rectangular green Japanese good brand-new little baby \" b \" good little brand-new rectangular green Japanese baby \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 14214,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" ancient Egyptian triangular large drinking brown sock \" b \" large ancient triangular brown Egyptian drinking sock \" ?\nA:",
-        "targets": [
-            "b"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 33378,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" ancient circular Indian gold walking ship \" b \" walking Indian circular ancient gold ship \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1
-        ]
-    },
-    {
-        "idx": 27570,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" large old-fashioned Egyptian wool knife \" b \" Egyptian wool old-fashioned large knife \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 28479,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" big pink brand-new lovely computer \" b \" lovely big brand-new pink computer \" ?\nA:",
-        "targets": [
-            "a"
-        ],
-        "multiple_choice_targets": [
-            "a",
-            "b"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 23573,
-        "inputs": "Q: Which sentence has the correct adjective order: a \" mysterious ancient circular yellow plastic monkey \" b \" mysterious yellow circular plastic ancient monkey \" ?\nA:",
+        "idx": 23507,
+        "inputs": "Q: Which sentence has the correct adjective order: a \" silly big wood Mexican brand-new sock \" b \" silly big brand-new Mexican wood sock \" ?\nA:",
         "targets": [
             "b"
         ],

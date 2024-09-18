@@ -1,79 +1,16 @@
 [
     {
         "idx": 2,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace the 2nd sentence with the third one (NB: keep the 3rd sentence, do not remove it)\nEdited:",
-        "targets": [
-            "Turing was WORD one of WORD the people WORD who worked WORD on the WORD first computers WORD. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 24,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'bcd' after each 'a' in the entire text\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 39,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all double spaces with a single space in the entire text\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the 1st computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4,
         "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'b' after each 'a' in the entire text\nEdited:",
         "targets": [
-            "Turing was one of the people who worked on the first computers. The machine was imaginary, but it included the idea of a computer program."
+            "Turing wabs one of the people who worked on the first computers. He creabted the theoreticabl Turing mabchine in 1936. The mabchine wabs imabginabry, but it included the ideab of ab computer prograbm."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the character 'o' with 'a' in the 1st and 2nd sentence\nEdited:",
-        "targets": [
-            "Turing was on of th popl who workd on th first computrs. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 29,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: append the sentence 'SENTENCE TO BE APPENDED.' to the text\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 22,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the character 'o' with 'a' in the 1st sentence\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the first computers. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 43,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove the first sentence from the text\nEdited:",
-        "targets": [
-            "Turing wabcds one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The mabcdchine wabcds imabcdginabcdry, but it included the ideabcd of abcd computer prograbcdm."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 10,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove all the occurrencies of the word 'the' from the entire text\nEdited:",
+        "idx": 46,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace the 2nd sentence with the third one (NB: keep the 3rd sentence, do not remove it)\nEdited:",
         "targets": [
             "Turing was one of the people who worked on the first computers. The machine was imaginary, but it included the idea of a computer program. The machine was imaginary, but it included the idea of a computer program."
         ],
@@ -82,79 +19,43 @@
     },
     {
         "idx": 29,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: swap every first and last character of each word in the 1st sentence\nEdited:",
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add the word 'WORD' after every other word in the 1st sentence\nEdited:",
         "targets": [
-            "Turing was ane af the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+            "Turing was WORD one of WORD the people WORD who worked WORD on the WORD first computers WORD. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 35,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the character 'o' with 'a' in the 1st and 2nd sentence\nEdited:",
-        "targets": [
-            "He created the theoretical Turing machine in 1936."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 14,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'b' after each 'a' in the entire text\nEdited:",
-        "targets": [
-            "Turing was ana af tha paapla wha warkad an tha first camputars. Ha craatad tha thaaratical Turing machina in 1936. Tha machina was imaginary, but it includad tha idaa af a camputar pragram."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the character 'o' with 'a' in the 1st sentence\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the 1st computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 13,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove the first sentence from the text\nEdited:",
-        "targets": [
-            "WORD Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 29,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove only the first 3 occurrencies of the character 'e' in the last sentence\nEdited:",
-        "targets": [
-            "Turing was one of the people who worked on the first computers. He created the thearetical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 35,
+        "idx": 34,
         "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove all the occurrencies of the word 'the' from the entire text\nEdited:",
         "targets": [
-            "Turing was one of the people who worked on the first computers. He created the thearetical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+            "Turing was one of people who worked on first computers. He created theoretical Turing machine in 1936. machine was imaginary, but it included idea of a computer program."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 37,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: swap every first and last character of each word in the 1st and last sentence\nEdited:",
+        "idx": 7,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove all occurrencies of the character 'e' in the 1st and last sentence\nEdited:",
         "targets": [
-            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+            "Turing was on of th popl who workd on th first computrs. He created the theoretical Turing machine in 1936. Th machin was imaginary, but it includd th ida of a computr program."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 32,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add the word 'WORD' to the beginning of the text\nEdited:",
+        "idx": 24,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: swap every first and last character of each word in the 1st sentence\nEdited:",
+        "targets": [
+            "gurinT saw eno fo eht eeoplp ohw dorkew no eht tirsf somputerc. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'bcd' after each 'a' in the entire text\nEdited:",
         "targets": [
             "Turing wabcds one of the people who worked on the first computers. He creabcdted the theoreticabcdl Turing mabcdchine in 1936. The mabcdchine wabcds imabcdginabcdry, but it included the ideabcd of abcd computer prograbcdm."
         ],
@@ -162,19 +63,118 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 9,
-        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: append the sentence 'SENTENCE TO BE APPENDED.' to the text\nEdited:",
+        "idx": 35,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: from the first sentence, remove the word 'man'\nEdited:",
         "targets": [
-            "Turingwasoneofthepeoplewhoworkedonthefirstcomputers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 38,
+        "idx": 18,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the characters 'o' and 'e' with 'a' in the 2nd sentence\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. Ha craatad tha thaaratical Turing machina in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 40,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: append the sentence 'SENTENCE TO BE APPENDED.' to the text\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program. SENTENCE TO BE APPENDED."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 39,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add the sentence 'SENTENCE TO BE ADDED.' between the first and second sentence\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. SENTENCE TO BE ADDED. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 23,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all double spaces with a single space in the entire text\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 36,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace the word 'first' with '1st' in the first sentence\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the 1st computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove all space characters in the entire text (do not remove the spaces separating the sentences)\nEdited:",
+        "targets": [
+            "Turingwasoneofthepeoplewhoworkedonthefirstcomputers. HecreatedthetheoreticalTuringmachinein1936. Themachinewasimaginary,butitincludedtheideaofacomputerprogram."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 45,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: swap the first and 2nd sentence\nEdited:",
+        "targets": [
+            "He created the theoretical Turing machine in 1936. Turing was one of the people who worked on the first computers. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4,
         "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'bcd' after each 'a' in the 1st and last sentence\nEdited:",
         "targets": [
-            "gurinT saw eno fo eht eeoplp ohw dorkew no eht tirsf somputerc. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+            "Turing wabcds one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The mabcdchine wabcds imabcdginabcdry, but it included the ideabcd of abcd computer prograbcdm."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: add 'b' after each 'a' in the entire text\nEdited:",
+        "targets": [
+            "Turing wabs one of the people who worked on the first computers. He creabted the theoreticabl Turing mabchine in 1936. The mabchine wabs imabginabry, but it included the ideab of ab computer prograbm."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 42,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: remove the mid sentence from the text\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 14,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the character 'o' with 'a' in the 1st and 2nd sentence\nEdited:",
+        "targets": [
+            "Turing was ane af the peaple wha warked an the first camputers. He created the thearetical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 18,
+        "inputs": "Edit the text 'Turing was one of the people who worked on the first computers. He created the theoretical Turing machine in 1936. The machine was imaginary, but it included the idea of a computer program.' with the following edit operation and the scope of the edit and replicate the remaining text as is: replace all occurrencies of the characters 'o' and 'e' with 'a' in the 2nd sentence\nEdited:",
+        "targets": [
+            "Turing was one of the people who worked on the first computers. Ha craatad tha thaaratical Turing machina in 1936. The machine was imaginary, but it included the idea of a computer program."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

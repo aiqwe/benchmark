@@ -1,121 +1,15 @@
 [
     {
-        "idx": 1633,
-        "inputs": "Q: The most reasonable goal of 'Pass the Uniform Bookkeeper Certification Examination by scoring at least 75%' is \n  choice: Obtain a Bookkeeping Certificate Online\n  choice: Obtain an Energy Performance Certificate (EPC)\n  choice: Earn a Bachelor's Degree\n  choice: Obtain a Security Clearance\nA:",
+        "idx": 1559,
+        "inputs": "Q: The most reasonable step of 'Be a Popular Girl in Elementary School' is \n  choice: Take your time socializing your bunny\n  choice: Watch out for little things that may give you away\n  choice: Make your jewellery be a perfect fit by offering varied sizes of either small, medium or large\n  choice: Use good listening skills when a classmate speaks to you\nA:",
         "targets": [
-            "Obtain a Bookkeeping Certificate Online"
+            "Use good listening skills when a classmate speaks to you"
         ],
         "multiple_choice_targets": [
-            "Obtain a Security Clearance",
-            "Obtain a Bookkeeping Certificate Online",
-            "Obtain an Energy Performance Certificate (EPC)",
-            "Earn a Bachelor's Degree"
-        ],
-        "multiple_choice_scores": [
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 968,
-        "inputs": "Q: The most reasonable goal of 'Don’t look at the other person when you respond' is \n  choice: Avoid Bad Company (for Teens)\n  choice: Avoid Conversation on Public Transportation\n  choice: Avoid Alcohol While at College\n  choice: Avoid Being Punished with Bad Grades\nA:",
-        "targets": [
-            "Avoid Conversation on Public Transportation"
-        ],
-        "multiple_choice_targets": [
-            "Avoid Conversation on Public Transportation",
-            "Avoid Bad Company (for Teens)",
-            "Avoid Being Punished with Bad Grades",
-            "Avoid Alcohol While at College"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 123,
-        "inputs": "Q: The most reasonable goal of 'Look for the area to shop within the store just below this bar' is \n  choice: Use LinkedIn for Business\n  choice: Use the Welcome Wagon Tool on wikiHow\n  choice: Use Instacart's Website on a PC or Mac\n  choice: Use a Reference Photo in Your Artwork\nA:",
-        "targets": [
-            "Use Instacart's Website on a PC or Mac"
-        ],
-        "multiple_choice_targets": [
-            "Use a Reference Photo in Your Artwork",
-            "Use LinkedIn for Business",
-            "Use Instacart's Website on a PC or Mac",
-            "Use the Welcome Wagon Tool on wikiHow"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 985,
-        "inputs": "Q: In order to 'Raise Brine Shrimp', one can 'Use a fish net to catch the adult brine shrimp' and 'Feed the brine shrimp directly to other fish'. Which should happen first? \n  choice: Use a fish net to catch the adult brine shrimp.\n  choice: Feed the brine shrimp directly to other fish.\nA:",
-        "targets": [
-            "Use a fish net to catch the adult brine shrimp."
-        ],
-        "multiple_choice_targets": [
-            "Use a fish net to catch the adult brine shrimp.",
-            "Feed the brine shrimp directly to other fish."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1744,
-        "inputs": "Q: In order to 'Grill a London Broil', one can 'Tenderize your meat' and 'Marinate your meat'. Which should happen first? \n  choice: Tenderize your meat.\n  choice: Marinate your meat.\nA:",
-        "targets": [
-            "Tenderize your meat."
-        ],
-        "multiple_choice_targets": [
-            "Tenderize your meat.",
-            "Marinate your meat."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 1571,
-        "inputs": "Q: The most reasonable goal of 'Select yarn that's easy to work with' is \n  choice: Teach a Baby to Crawl\n  choice: Teach a Dog to Fetch\n  choice: Teach Your Cat to Sit\n  choice: Teach a Child to Knit\nA:",
-        "targets": [
-            "Teach a Child to Knit"
-        ],
-        "multiple_choice_targets": [
-            "Teach a Child to Knit",
-            "Teach a Dog to Fetch",
-            "Teach Your Cat to Sit",
-            "Teach a Baby to Crawl"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 775,
-        "inputs": "Q: The most reasonable step of 'Prevent Rat Bite Fever' is \n  choice: Forge connections with industry insiders\n  choice: Use a recruiter to find specialized job openings\n  choice: Determine the critical factors to consider in your design\n  choice: Set a humane wire cage trap\nA:",
-        "targets": [
-            "Set a humane wire cage trap"
-        ],
-        "multiple_choice_targets": [
-            "Determine the critical factors to consider in your design",
-            "Use a recruiter to find specialized job openings",
-            "Forge connections with industry insiders",
-            "Set a humane wire cage trap"
+            "Watch out for little things that may give you away",
+            "Take your time socializing your bunny",
+            "Make your jewellery be a perfect fit by offering varied sizes of either small, medium or large",
+            "Use good listening skills when a classmate speaks to you"
         ],
         "multiple_choice_scores": [
             0,
@@ -125,16 +19,16 @@
         ]
     },
     {
-        "idx": 2041,
-        "inputs": "Q: The most reasonable step of 'Sell T‐Shirts Online' is \n  choice: Learn to read guitar tabs\n  choice: Pick a t-shirt selling website that appeals to you\n  choice: Decide whether you would like to go out or stay in\n  choice: Pick a retailer with a positive reputation\nA:",
+        "idx": 911,
+        "inputs": "Q: The most reasonable step of 'Breed Shih Tzus' is \n  choice: Appreciate the emotional aspects of each choice\n  choice: Speak to an experienced breeder\n  choice: Add canary expenses to your budget\n  choice: Ensure you can commit enough time\nA:",
         "targets": [
-            "Pick a t-shirt selling website that appeals to you"
+            "Speak to an experienced breeder"
         ],
         "multiple_choice_targets": [
-            "Pick a t-shirt selling website that appeals to you",
-            "Decide whether you would like to go out or stay in",
-            "Learn to read guitar tabs",
-            "Pick a retailer with a positive reputation"
+            "Speak to an experienced breeder",
+            "Ensure you can commit enough time",
+            "Appreciate the emotional aspects of each choice",
+            "Add canary expenses to your budget"
         ],
         "multiple_choice_scores": [
             1,
@@ -144,54 +38,16 @@
         ]
     },
     {
-        "idx": 1165,
-        "inputs": "Q: The most reasonable step of 'Use Technology as a Journalist' is \n  choice: Begin sending out queries\n  choice: Take journalism ethics courses\n  choice: Ask a few questions\n  choice: Know what kind of voucher you need\nA:",
+        "idx": 684,
+        "inputs": "Q: The most reasonable step of 'Select a Labrador Retriever' is \n  choice: Choose a Syrian hamster for a cute but solitary hamster\n  choice: Decide whether to get a male or female Lab\n  choice: Add up the wattage of your appliances to get the right-sized generator\n  choice: Decide to get a stationary or portable machine\nA:",
         "targets": [
-            "Take journalism ethics courses"
+            "Decide whether to get a male or female Lab"
         ],
         "multiple_choice_targets": [
-            "Take journalism ethics courses",
-            "Begin sending out queries",
-            "Know what kind of voucher you need",
-            "Ask a few questions"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 928,
-        "inputs": "Q: The most reasonable goal of 'Purchase customized identification tags' is \n  choice: Buy Good Chocolate\n  choice: Buy a Pedigree Cat\n  choice: Buy Bling for a Dog\n  choice: Buy a Fish for a Child\nA:",
-        "targets": [
-            "Buy Bling for a Dog"
-        ],
-        "multiple_choice_targets": [
-            "Buy Bling for a Dog",
-            "Buy a Pedigree Cat",
-            "Buy Good Chocolate",
-            "Buy a Fish for a Child"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 1467,
-        "inputs": "Q: The most reasonable step of 'Collect Things' is \n  choice: Decide what kind of tenants you want\n  choice: Join a pet loss support group\n  choice: Choose a spot with space for lawn games\n  choice: Get your collection appraised\nA:",
-        "targets": [
-            "Get your collection appraised"
-        ],
-        "multiple_choice_targets": [
-            "Join a pet loss support group",
-            "Decide what kind of tenants you want",
-            "Get your collection appraised",
-            "Choose a spot with space for lawn games"
+            "Add up the wattage of your appliances to get the right-sized generator",
+            "Decide to get a stationary or portable machine",
+            "Decide whether to get a male or female Lab",
+            "Choose a Syrian hamster for a cute but solitary hamster"
         ],
         "multiple_choice_scores": [
             0,
@@ -201,33 +57,14 @@
         ]
     },
     {
-        "idx": 1567,
-        "inputs": "Q: The most reasonable step of 'Get a Boyfriend (for Guys)' is \n  choice: Determine whether you qualify for down payment assistance in your state\n  choice: Find a venue that is large enough for an audience and a runway\n  choice: Break the traditional maid of honor role if it doesn’t work for you\n  choice: Find a man who is open to a same-sex relationship\nA:",
+        "idx": 2067,
+        "inputs": "Q: In order to 'Finish the Edges of a Fleece Blanket', one can 'Sew along the edges of the blanket' and 'Set your sewing machine to the zigzag stitch setting'. Which should happen first? \n  choice: Sew along the edges of the blanket.\n  choice: Set your sewing machine to the zigzag stitch setting.\nA:",
         "targets": [
-            "Find a man who is open to a same-sex relationship"
+            "Set your sewing machine to the zigzag stitch setting."
         ],
         "multiple_choice_targets": [
-            "Find a man who is open to a same-sex relationship",
-            "Determine whether you qualify for down payment assistance in your state",
-            "Break the traditional maid of honor role if it doesn’t work for you",
-            "Find a venue that is large enough for an audience and a runway"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 853,
-        "inputs": "Q: In order to 'Resize a JPEG', one can 'Tap the \"Resize\" button' and 'Open the app and select the photo you want to resize'. Which should happen first? \n  choice: Tap the \"Resize\" button.\n  choice: Open the app and select the photo you want to resize.\nA:",
-        "targets": [
-            "Open the app and select the photo you want to resize."
-        ],
-        "multiple_choice_targets": [
-            "Tap the \"Resize\" button.",
-            "Open the app and select the photo you want to resize."
+            "Sew along the edges of the blanket.",
+            "Set your sewing machine to the zigzag stitch setting."
         ],
         "multiple_choice_scores": [
             0,
@@ -235,105 +72,14 @@
         ]
     },
     {
-        "idx": 1394,
-        "inputs": "Q: The most reasonable goal of 'Understand Gong Lik: Gong Lik is the first section of Siu Nim Tao and focuses on good structure and relaxation' is \n  choice: Learn Financial Modeling\n  choice: Learn Wing Chun\n  choice: Learn Computer Networking\n  choice: Learn Macro Photography\nA:",
+        "idx": 1740,
+        "inputs": "Q: In order to 'Make a Fleece Quilt', one can 'Sew together the squares' and 'Decide your pattern'. Which should happen first? \n  choice: Sew together the squares.\n  choice: Decide your pattern.\nA:",
         "targets": [
-            "Learn Wing Chun"
+            "Decide your pattern."
         ],
         "multiple_choice_targets": [
-            "Learn Wing Chun",
-            "Learn Macro Photography",
-            "Learn Financial Modeling",
-            "Learn Computer Networking"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 326,
-        "inputs": "Q: The most reasonable step of 'Paint a Sunflower' is \n  choice: Knot the ends of the cords together\n  choice: Start the wrap on the outer mid-thigh\n  choice: Create the elastic casing\n  choice: Mix in some leaves\nA:",
-        "targets": [
-            "Mix in some leaves"
-        ],
-        "multiple_choice_targets": [
-            "Mix in some leaves",
-            "Knot the ends of the cords together",
-            "Start the wrap on the outer mid-thigh",
-            "Create the elastic casing"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 1824,
-        "inputs": "Q: The most reasonable step of 'Travel Without Spending Money' is \n  choice: Learn how to do the splits\n  choice: Let’s begin with a simple grocery list\n  choice: Give Couchsurfing a go\n  choice: Let's get physical: Make vocabulary, study/quiz cards, word and phrase cards, out of slips of paper or cards and study as you walk around in a grocery store, mall or on campus\nA:",
-        "targets": [
-            "Give Couchsurfing a go"
-        ],
-        "multiple_choice_targets": [
-            "Give Couchsurfing a go",
-            "Let's get physical: Make vocabulary, study/quiz cards, word and phrase cards, out of slips of paper or cards and study as you walk around in a grocery store, mall or on campus",
-            "Learn how to do the splits",
-            "Let’s begin with a simple grocery list"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 145,
-        "inputs": "Q: The most reasonable goal of 'Make a mailing list' is \n  choice: Get Rid of Flies Around Your Dog's Water and Food Bowls\n  choice: Get Your Songs out There\n  choice: Get Dust Out of the Air\n  choice: Get Rid of Your Bad Reputation\nA:",
-        "targets": [
-            "Get Your Songs out There"
-        ],
-        "multiple_choice_targets": [
-            "Get Dust Out of the Air",
-            "Get Rid of Flies Around Your Dog's Water and Food Bowls",
-            "Get Your Songs out There",
-            "Get Rid of Your Bad Reputation"
-        ],
-        "multiple_choice_scores": [
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 852,
-        "inputs": "Q: In order to 'Fold Panties', one can 'Flip the panty over' and 'Fold each side of the waistband in towards the center'. Which should happen first? \n  choice: Fold each side of the waistband in towards the center.\n  choice: Flip the panty over.\nA:",
-        "targets": [
-            "Flip the panty over."
-        ],
-        "multiple_choice_targets": [
-            "Flip the panty over.",
-            "Fold each side of the waistband in towards the center."
-        ],
-        "multiple_choice_scores": [
-            1,
-            0
-        ]
-    },
-    {
-        "idx": 2717,
-        "inputs": "Q: In order to 'Clean up Battery Acid Spills', one can 'Double-bag the battery' and 'Protect your hands and face'. Which should happen first? \n  choice: Protect your hands and face.\n  choice: Double-bag the battery.\nA:",
-        "targets": [
-            "Protect your hands and face."
-        ],
-        "multiple_choice_targets": [
-            "Double-bag the battery.",
-            "Protect your hands and face."
+            "Sew together the squares.",
+            "Decide your pattern."
         ],
         "multiple_choice_scores": [
             0,
@@ -341,20 +87,258 @@
         ]
     },
     {
-        "idx": 1124,
-        "inputs": "Q: The most reasonable step of 'Read a Pay Check Stub' is \n  choice: Find the area labeled “State Tax”\n  choice: Opt for products with natural thickeners like xanthan gum\n  choice: Cut out the card print\n  choice: Look for cards that are labeled “secured credit”\nA:",
+        "idx": 1231,
+        "inputs": "Q: In order to 'Measure Relative Humidity', one can 'Open up the application' and 'Download a hygrometer app to your smartphone or tablet'. Which should happen first? \n  choice: Open up the application.\n  choice: Download a hygrometer app to your smartphone or tablet.\nA:",
         "targets": [
-            "Find the area labeled “State Tax”"
+            "Download a hygrometer app to your smartphone or tablet."
         ],
         "multiple_choice_targets": [
-            "Opt for products with natural thickeners like xanthan gum",
-            "Find the area labeled “State Tax”",
-            "Cut out the card print",
-            "Look for cards that are labeled “secured credit”"
+            "Open up the application.",
+            "Download a hygrometer app to your smartphone or tablet."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 69,
+        "inputs": "Q: In order to 'Test a Refrigerator PTC Relay', one can 'Order a replacement relay if the resistance doesn't read OL or 0-1 ohms' and 'Flip the relay upside-down to see if the resistance changes to 0-1 ohms'. Which should happen first? \n  choice: Order a replacement relay if the resistance doesn't read OL or 0-1 ohms.\n  choice: Flip the relay upside-down to see if the resistance changes to 0-1 ohms.\nA:",
+        "targets": [
+            "Flip the relay upside-down to see if the resistance changes to 0-1 ohms."
+        ],
+        "multiple_choice_targets": [
+            "Order a replacement relay if the resistance doesn't read OL or 0-1 ohms.",
+            "Flip the relay upside-down to see if the resistance changes to 0-1 ohms."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 764,
+        "inputs": "Q: In order to 'Make Irish Coffee', one can 'Add the remaining syrup, whiskey, and coffee' and 'Add half your syrup'. Which should happen first? \n  choice: Add the remaining syrup, whiskey, and coffee.\n  choice: Add half your syrup.\nA:",
+        "targets": [
+            "Add half your syrup."
+        ],
+        "multiple_choice_targets": [
+            "Add the remaining syrup, whiskey, and coffee.",
+            "Add half your syrup."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2452,
+        "inputs": "Q: In order to 'Tie Dye with Food Coloring', one can 'Take the fabric out of the bag and remove the rubber bands' and 'Leave the fabric in the bag for 8 hours'. Which should happen first? \n  choice: Take the fabric out of the bag and remove the rubber bands.\n  choice: Leave the fabric in the bag for 8 hours.\nA:",
+        "targets": [
+            "Leave the fabric in the bag for 8 hours."
+        ],
+        "multiple_choice_targets": [
+            "Take the fabric out of the bag and remove the rubber bands.",
+            "Leave the fabric in the bag for 8 hours."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 282,
+        "inputs": "Q: The most reasonable step of 'Make Knife Handles' is \n  choice: Draw a line in the Vaseline to shape the open wound\n  choice: Trim the edge strip (if applicable)\n  choice: Allow the epoxy to set\n  choice: Fold or shape the notes\nA:",
+        "targets": [
+            "Allow the epoxy to set"
+        ],
+        "multiple_choice_targets": [
+            "Trim the edge strip (if applicable)",
+            "Allow the epoxy to set",
+            "Draw a line in the Vaseline to shape the open wound",
+            "Fold or shape the notes"
         ],
         "multiple_choice_scores": [
             0,
             1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 966,
+        "inputs": "Q: The most reasonable step of 'Hit a Normal Pitch Shot' is \n  choice: Put onion on the scab\n  choice: Try not to force your body into the shot\n  choice: Begin painting any place you wish\n  choice: Sing a song to help calm your child's nerves\nA:",
+        "targets": [
+            "Try not to force your body into the shot"
+        ],
+        "multiple_choice_targets": [
+            "Begin painting any place you wish",
+            "Sing a song to help calm your child's nerves",
+            "Try not to force your body into the shot",
+            "Put onion on the scab"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1377,
+        "inputs": "Q: The most reasonable step of 'Make a Floral Arrangement Using a Foam Block Inside a Container' is \n  choice: Focus on chord tones and patterns to start\n  choice: Leave person on the ground to start\n  choice: Find the center to start\n  choice: Gather two or more friends\nA:",
+        "targets": [
+            "Find the center to start"
+        ],
+        "multiple_choice_targets": [
+            "Gather two or more friends",
+            "Find the center to start",
+            "Focus on chord tones and patterns to start",
+            "Leave person on the ground to start"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 593,
+        "inputs": "Q: The most reasonable step of 'Wake up Quickly' is \n  choice: Be there when a friend's having problems\n  choice: Prepare your sound effects\n  choice: Be honest about the highs and the lows\n  choice: Let natural light in\nA:",
+        "targets": [
+            "Let natural light in"
+        ],
+        "multiple_choice_targets": [
+            "Be honest about the highs and the lows",
+            "Prepare your sound effects",
+            "Be there when a friend's having problems",
+            "Let natural light in"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 2735,
+        "inputs": "Q: In order to 'Contact Bookingcom', one can 'Dial 888-850-3958 to contact the customer service department' and 'Explain your issue or problem in detail to the representative'. Which should happen first? \n  choice: Explain your issue or problem in detail to the representative.\n  choice: Dial 888-850-3958 to contact the customer service department.\nA:",
+        "targets": [
+            "Dial 888-850-3958 to contact the customer service department."
+        ],
+        "multiple_choice_targets": [
+            "Dial 888-850-3958 to contact the customer service department.",
+            "Explain your issue or problem in detail to the representative."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 2484,
+        "inputs": "Q: In order to 'Make Fiddler Crab Food', one can 'Combine your ingredients' and 'Pour your mixture into ice cube trays'. Which should happen first? \n  choice: Pour your mixture into ice cube trays.\n  choice: Combine your ingredients.\nA:",
+        "targets": [
+            "Combine your ingredients."
+        ],
+        "multiple_choice_targets": [
+            "Combine your ingredients.",
+            "Pour your mixture into ice cube trays."
+        ],
+        "multiple_choice_scores": [
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1515,
+        "inputs": "Q: The most reasonable step of 'Get a Job in America' is \n  choice: Apply for an appropriate work visa\n  choice: Provide details about the pet\n  choice: Add the country code 234 for Nigeria\n  choice: Learn how to turn off the utilities in your house, especially the gas line\nA:",
+        "targets": [
+            "Apply for an appropriate work visa"
+        ],
+        "multiple_choice_targets": [
+            "Add the country code 234 for Nigeria",
+            "Provide details about the pet",
+            "Apply for an appropriate work visa",
+            "Learn how to turn off the utilities in your house, especially the gas line"
+        ],
+        "multiple_choice_scores": [
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "idx": 1287,
+        "inputs": "Q: The most reasonable step of 'Make an Underground Rap Song' is \n  choice: Free-write blocks of text\n  choice: Set your freezer to the right temperature\n  choice: Disconnect the capacitor from its circuit\n  choice: Set your ISO to its least light sensitive\nA:",
+        "targets": [
+            "Free-write blocks of text"
+        ],
+        "multiple_choice_targets": [
+            "Set your freezer to the right temperature",
+            "Free-write blocks of text",
+            "Set your ISO to its least light sensitive",
+            "Disconnect the capacitor from its circuit"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 932,
+        "inputs": "Q: The most reasonable goal of 'Identify your reasons for wanting to complete a project' is \n  choice: Get an Uninterested Puppy Excited for Training\n  choice: Package a Painting for Shipping\n  choice: Fix a Habit of Leaving Things Unfinished\n  choice: Pack a Bike to Ship\nA:",
+        "targets": [
+            "Fix a Habit of Leaving Things Unfinished"
+        ],
+        "multiple_choice_targets": [
+            "Package a Painting for Shipping",
+            "Fix a Habit of Leaving Things Unfinished",
+            "Pack a Bike to Ship",
+            "Get an Uninterested Puppy Excited for Training"
+        ],
+        "multiple_choice_scores": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 666,
+        "inputs": "Q: In order to 'Apply Gold Leaf to Paper', one can 'Brush off the excess gold leaf with your paint brush' and 'Pat the gold leaf into place with a clean paint brush'. Which should happen first? \n  choice: Pat the gold leaf into place with a clean paint brush.\n  choice: Brush off the excess gold leaf with your paint brush.\nA:",
+        "targets": [
+            "Pat the gold leaf into place with a clean paint brush."
+        ],
+        "multiple_choice_targets": [
+            "Brush off the excess gold leaf with your paint brush.",
+            "Pat the gold leaf into place with a clean paint brush."
+        ],
+        "multiple_choice_scores": [
+            0,
+            1
+        ]
+    },
+    {
+        "idx": 1636,
+        "inputs": "Q: The most reasonable goal of 'Stop rotating once the lid clicks or releases' is \n  choice: Open a Child Proof Pill Container\n  choice: Open a Pickle Jar\n  choice: Open a Beer Bottle with a Key\n  choice: Open a Paint Can\nA:",
+        "targets": [
+            "Open a Child Proof Pill Container"
+        ],
+        "multiple_choice_targets": [
+            "Open a Child Proof Pill Container",
+            "Open a Pickle Jar",
+            "Open a Paint Can",
+            "Open a Beer Bottle with a Key"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
             0,
             0
         ]

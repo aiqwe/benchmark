@@ -1,151 +1,97 @@
 [
     {
         "idx": 414,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nKiepska pogoda utrzymywała się przez większość weekendu , przestało padać dopiero w niedzielę około południa",
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nBo tych waszych \" zdzwonimy się \" , nie liczę",
         "targets": [
-            "O action O O nam_liv action O O O action"
+            "O O O O action O O O O action"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12162,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nOd piątku do niedzieli w Sokolnikach uszy puchną przy rynku i ul",
+        "targets": [
+            "O t3_date O t3_date O nam_loc O action O nam_fac O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12028,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nA Zofija , matka Anieli naciskała , żeby poszli na swoje : - Dzioucha , bydziesz paniom we własnej chaupie",
+        "targets": [
+            "O nam_liv O O nam_liv action O O action O O O O O O O O O O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 2138,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nSprawa , od razu uprzedzam , też zmyślona , więc ufolodzy mogą tu przestać czytać tę notkę",
+        "targets": [
+            "O O O O reporting O O action O O O i_state O aspectual action O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 7433,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nProjekt dotyczy zaostrzenia m",
+        "targets": [
+            "O state action nam_pro"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10395,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nOd paru lat jest aktywnym zawodowo emerytem , związanym z grupą \" Studia Opinii \"",
+        "targets": [
+            "O t3_duration t3_duration O O O O O action O O O nam_pro nam_pro O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 10346,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n„ Nie będziesz miał bogów cudzych przede mną",
+        "targets": [
+            "O O O state O O O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12740,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nDo mieszaniny na patelni dodać masło i mąkę z mlekiem",
+        "targets": [
+            "O O O O action O O O O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5867,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nSkrypt , o którym pisała m kiedyś na swoim bloggerowym blogu",
+        "targets": [
+            "O O O O action O O O O O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3056,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nW listopadzie i grudniu Fundacja Nowe Media przeprowadzi 12 warsztatów dziennikarskich dla najmłodszych",
+        "targets": [
+            "O t3_date O t3_date nam_org nam_org nam_org action O action O O O"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
         "idx": 3927,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\ni 80",
-        "targets": [
-            "O O O O O O O state O O action O O action O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4018,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n- Panie sędzio , opamiętaj się waszeć",
-        "targets": [
-            "O O O i_state O action O O O state O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1359,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nGdy czytam książki krytyczne , filozoficzne pisane przez poważnych pisarzów angielskich lub francuskich , jak np",
-        "targets": [
-            "i_state O O action O O O O O O O action O O O O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1817,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nGdy wymagany opór jest jeszcze mniejszy ( czyli wymagane jest większe obciążenie zasilacza ) , należy już zastosować równoległe połączenie oporników",
-        "targets": [
-            "O nam_org nam_org action t3_duration t3_duration O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2323,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nA to dlatego , że jak wiemy od dawna “ przekaźnik jest przekazem ”",
-        "targets": [
-            "nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro nam_pro"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1267,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nPółnocnej 26 oraz Specjalistycznym Oddziałem Bibliotecznym przy ul",
-        "targets": [
-            "O O O O i_action O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1649,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nDlaczego piszę o tym na blogu Kultury 2",
-        "targets": [
-            "O O O O action nam_eve nam_eve action nam_eve nam_eve nam_eve nam_eve nam_eve nam_eve O O O O O nam_oth nam_oth nam_oth O O O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 7971,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n– wystraszył się tato",
-        "targets": [
-            "nam_org nam_org O nam_org nam_org O O O O O O O O O O nam_liv O t3_time"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 5137,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nSiatkarze z Ozorkowa na początku seta uzyskali jednak 3 - 4 pkt przewagi i nie dali się już dogonić",
-        "targets": [
-            "O t3_date O nam_liv O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 166,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nwalka z ubóstwem i wykluczeniem społecznym , 2",
-        "targets": [
-            "O O O nam_pro nam_pro O O t3_date O O O nam_pro action nam_pro action nam_pro nam_pro nam_pro action nam_pro nam_pro nam_pro O O O nam_pro nam_pro nam_pro action nam_pro nam_pro action nam_pro nam_pro O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1920,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nKilka tygodni temu prowadzili śmy z Mirkiem warsztaty o kulturze 2",
-        "targets": [
-            "O O O O O nam_pro O action O O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 9830,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nANNA : Irenka nie ma takiego zamiaru",
-        "targets": [
-            "O O O O O O O O O O O O O O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4169,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nCzemu jednak się dziwić - większość ogłoszeń z ofertami pracy dla \" analityków ekonomicznych \" wymaga wykształcenia w dziedzinie \" matematyki , matematyki stosowanej lub ekonometrii \"",
-        "targets": [
-            "nam_liv O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 8781,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n2005-07-21 : Grand Theft Auto : San Andreas tylko dla dorosłych ESRB ( Entertainment Software Rating Board ) – organizacja zajmująca się oceną oraz wyznaczaniem granic wiekowych dla wydawanych w USA gier komputerowych i wideo , zmieniła kategorię wiekową popularnej gry Grand Theft Auto : San Andreas z M ( Mature / Dojrzali ) na AO ( Adults Only / Tylko dla dorosłych )",
-        "targets": [
-            "O O O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 3543,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nA poza tym nie wiem , czy w ogóle zechce uciekać",
-        "targets": [
-            "O O O action O nam_liv nam_liv O perception O O O O action O O action O O i_state action O O O O O O O action nam_pro O O"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 5366,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nPowierzchnia 7 , 0 ha",
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nWspaniała , dzielna i bardzo mądra kobieta",
         "targets": [
             "O O O O O O O"
         ],
@@ -153,28 +99,82 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 4384,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n45 , Atletico Madryt - Schalke 04 Gelsenkirchen ( 0 : 1 ) 20",
+        "idx": 10690,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nPonad dwa lata po masakrze w Madrycie nadal nie wyjaśniono jakiego materiału wybuchowego użyto podczas zamachów , w jaki sposób ładunki wybuchowe zostały umieszczone w pociągu i kto był za to odpowiedzialny",
         "targets": [
-            "O O action nam_eve action nam_org nam_org nam_org"
+            "t3_duration t3_duration t3_duration O action O nam_loc O O action O O O action O O O O O O O O O action O O O O O O O state"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5710,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nW latach ( 1946 - 1956 ) współorganizator i pierwszy prezes Polskiego Towarzystwa Anatomopatologicznego",
+        "idx": 3633,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n- Mamy w tej chwili 11 zawodników , nie musimy się spieszyć , jesteśmy też w komfortowej sytuacji , bo to siatkarze sami zgłaszają się , że chcą u nas grać",
         "targets": [
-            "O O O O O O action O O O O action O O O"
+            "O state O O O O O O O i_state O action O O O O O O O O O O O action O O O i_state O O action"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 7144,
-        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\n1 ( buggy ) oraz RC10T4",
+        "idx": 4864,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nDo zamachów przyznała się \" Tajna Grupa Świętej Wojny Al - Kaidy w Europie \"",
         "targets": [
-            "O O O O O i_state action O O O O O i_state O action"
+            "O action action O O nam_org nam_org nam_org nam_org nam_org nam_org nam_org O nam_loc O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3175,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nPoszła m do sądu , który nakazał , by mi wypłacić odszkodowanie",
+        "targets": [
+            "action O O O O O i_action O O O action O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 8772,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nZostał dyrektorem Zakładu Usług Techniczno - Handlowych Polmex w Kaliszu",
+        "targets": [
+            "O nam_pro nam_org nam_org nam_org nam_org nam_org nam_org nam_pro nam_loc"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 4018,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nDokument „ Wymagania na system informatyczny ” stanowi podstawę do realizacji dalszych prac projektowych nad systemem , w tym do opracowania testów akceptacyjnych systemu",
+        "targets": [
+            "O O action nam_pro nam_pro nam_pro O state O O action O action O O O O O O O action O O O"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 11899,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nmłodych brutalistów typu Sara Kane",
+        "targets": [
+            "O O O nam_liv nam_liv"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 12779,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nk ) , Baumgartlinger dwie ( 10",
+        "targets": [
+            "O O O nam_liv O O t3_time"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6194,
+        "inputs": "The following are sentences in Polish. Please replace each word (or token) with one of the following labels according to its type: Named Entities('nam_adj': adjectives of proper names, 'nam_eve': event names, 'nam_fac': buildings, 'nam_liv': living beings, 'nam_loc': geographical locations, 'nam_num': numeric names, 'nam_org': organisations, 'nam_pro': products, 'nam_oth': other names), Temporal Expressions('t3_date': denotes a point in a timeline, 't3_time': refers to the time of a day, 't3_duration': in contrast to date, has two points on a timeline associated with its start and endpoint, 't3_set': is relating to more than one reoccurring instance of a time unit), and Events('action':  dynamic situation that occurs in time and space, 'state': static situation, 'reporting': agent informs or narrates about an event, 'perception': physical perception of an event by an agent, 'aspectual': dynamic situation which indicates the change of a phase of another event, 'i_action': agent declares his will to perform an action, 'i__state': agent refers to some possible event, which may or may not occur in the future, 'dont_know': other events) or O label in case it cannot be classified to any of previous groups\n\n\nKolejne obrazki ( które ukazywały się na monitorze telewizora ) pokazują jej fragmenty powiększone 10 razy , 100 razy , 1000 razy itd",
+        "targets": [
+            "O O O O action O O O O O action O O action O O O O O O O O O"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

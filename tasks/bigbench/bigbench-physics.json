@@ -1,73 +1,35 @@
 [
     {
         "idx": 54,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: What is the force on a 1,000 kg elevator that is falling freely at 9.8 m/s^2?\n  choice: F = m * a\n  choice: dt = dx / v\n  choice: E = q * σ / (2 * ε)\n  choice: F_y = 2 * T * cos(θ) – W\nA:",
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A uniform rope of weight 50 N hangs from a hook as shown above. A box of weight 100 N hangs from the rope. What is the tension in the rope?\n  choice: P = dE / dt\n  choice: ɸ = E * A * cos(θ)\n  choice: F = F_1 + F_2\n  choice: Q = m * c * dT\nA:",
         "targets": [
-            "phi = E * A * cos(θ)"
+            "F = F_1 + F_2"
         ],
         "multiple_choice_targets": [
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
-            "σ = q / A",
-            "W = F * d",
+            "F = F_1 + F_2",
+            "ɸ = E * A * cos(θ)",
+            "P = dE / dt",
+            "Q = m * c * dT"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 138,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 2.0 kg textbook is picked up off the floor and placed on a 0.95 m high desk. How much work is down on the book?\n  choice: W = dE\n  choice: ɸ = E * A * cos(θ)\n  choice: F = m * a\n  choice: dq = ρ * dV\nA:",
+        "targets": [
             "W = dE"
         ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 121,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 5.0 kg ball rolls down a ramp as shown. How much work is done on the ball?\n  choice: W = dE\n  choice: ɸ = q / ε\n  choice: Q = m * c * dT\n  choice: v = dx / dt\nA:",
-        "targets": [
-            "E = K + U + Q"
-        ],
         "multiple_choice_targets": [
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
-            "E = F / q",
-            "E = q * σ / (2 * ε)",
-            "E = K + U + Q"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 24,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 6.6 N object is traveling at a velocity of 3.0 m/s north. What is the object’s momentum?\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\n  choice: ɸ = q / ε\n  choice: F = m * a\n  choice: dt = dx / v\nA:",
-        "targets": [
-            "K = 1/2 * m * v ^ 2"
-        ],
-        "multiple_choice_targets": [
-            "F = m * a",
-            "dv = a * dt",
+            "W = dE",
+            "dq = ρ * dV",
             "ɸ = E * A * cos(θ)",
-            "E = q * σ / (2 * ε)"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 108,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A bus is moving at a speed of 20 m/s, when it begins to slow at a constant rate of 5 m/s^2 in order to stop at a bus stop. If it comes to rest at the bus stop, how far away was the bus from the stop?\n  choice: J = dp\n  choice: v = dx / dt\n  choice: E = q * σ / (2 * ε)\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\nA:",
-        "targets": [
             "F = m * a"
         ],
-        "multiple_choice_targets": [
-            "F = m * a",
-            "E = K + U + Q",
-            "p = m * v",
-            "a_c = v ^ 2 / r"
-        ],
         "multiple_choice_scores": [
             1,
             0,
@@ -76,34 +38,34 @@
         ]
     },
     {
-        "idx": 167,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 1200 kg car traveling at 60.0 km/h hits the brakes and comes to a stop in 32 m. How much work is done on the car?\n  choice: K = 1/2 * m * v ^ 2\n  choice: v = v_0 + a * t\n  choice: F = F_1 + F_2\n  choice: dx = v * dt\nA:",
+        "idx": 33,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A long non-conducting cylinder has a charge density ρ = α * r, where α = 6.44 C/m^4 and r is in meters. Concentric around it is a hollow metallic cylindrical shell. What is the surface charge density inside the hollow cylinder?\n  choice: dq = ρ * dV\n  choice: ɸ = q / ε\n  choice: K = 1/2 * m * v ^ 2\n  choice: dx = v * dt\nA:",
         "targets": [
-            "K = 1/2 * m * v ^ 2"
+            "dq = ρ * dV"
         ],
         "multiple_choice_targets": [
-            "Q = m * c * dT",
-            "U = m * g * h",
-            "p = m * v",
-            "K = 1/2 * m * v ^ 2"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 86,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 15.0 N potato is moved horizontally 3.00 m across a level floor using a horizontal force of 6.00 N. How much work is done on the potato?\n  choice: W = F * d\n  choice: v ^ 2 = v_0 ^ 2 + 2 * a * d\n  choice: E = F / q\n  choice: dq = ρ * dV\nA:",
-        "targets": [
-            "K = 1/2 * m * v ^ 2"
-        ],
-        "multiple_choice_targets": [
+            "dq = ρ * dV",
             "K = 1/2 * m * v ^ 2",
-            "Q = m * c * dT",
-            "F_f = μ * N",
+            "dx = v * dt",
+            "ɸ = q / ε"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 185,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 3.0 kg ball rolls down from the top of a ramp as shown. If the ball is moving at 10.0 m/sat the bottom, how much energy was lost due to friction (thermal energy)?\n  choice: W = dE\n  choice: q = Q * dθ / π\n  choice: E = K + U + Q\n  choice: p = m * v\nA:",
+        "targets": [
+            "E = K + U + Q"
+        ],
+        "multiple_choice_targets": [
+            "E = K + U + Q",
+            "q = Q * dθ / π",
+            "W = dE",
             "p = m * v"
         ],
         "multiple_choice_scores": [
@@ -114,15 +76,34 @@
         ]
     },
     {
-        "idx": 137,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: Calculate the momentum of a 4.0 kg object traveling at a velocity of 12.0 m/s east.\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\n  choice: v = λ * f\n  choice: P = dE / dt\n  choice: p = m * v\nA:",
+        "idx": 225,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A physics student swings a 5 kg pail of water in a vertical circle of radius 1.3 m. What is the minimum speed, v, at the top of the circle if the water is not to spill from the pail?\n  choice: F_f = μ * N\n  choice: V = k * q / r\n  choice: F = m * a\n  choice: F_y = 2 * T * cos(θ) – W\nA:",
         "targets": [
-            "dq = ρ * dV"
+            "F = m * a"
         ],
         "multiple_choice_targets": [
+            "F = m * a",
+            "V = k * q / r",
+            "F_y = 2 * T * cos(θ) – W",
+            "F_f = μ * N"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 146,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 1200 kg car traveling at 60.0 km/h hits the brakes and comes to a stop in 32 m. How much work is done on the car?\n  choice: a_c = v ^ 2 / r\n  choice: dv = a * dt\n  choice: W = dE\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\nA:",
+        "targets": [
+            "W = dE"
+        ],
+        "multiple_choice_targets": [
+            "W = dE",
             "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
-            "dx = v * dt",
-            "dE = k * λ * dx / x ^ 2",
+            "a_c = v ^ 2 / r",
             "dv = a * dt"
         ],
         "multiple_choice_scores": [
@@ -133,16 +114,16 @@
         ]
     },
     {
-        "idx": 71,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: What is the electric potential at point P due to the two fixed charges as shown?\n  choice: K = 1/2 * m * v ^ 2\n  choice: p = m * v\n  choice: E = F / q\n  choice: V = k * q / r\nA:",
+        "idx": 147,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 1200 kg car traveling at 60.0 km/h hits the brakes and comes to a stop in 32 m. How much work is done on the car?\n  choice: K = 1/2 * m * v ^ 2\n  choice: v = v_0 + a * t\n  choice: F = F_1 + F_2\n  choice: dx = v * dt\nA:",
         "targets": [
             "K = 1/2 * m * v ^ 2"
         ],
         "multiple_choice_targets": [
-            "W = F * d",
-            "dE = k * λ * dx / x ^ 2",
-            "dt = dx / v",
-            "F = m * a"
+            "K = 1/2 * m * v ^ 2",
+            "v = v_0 + a * t",
+            "dx = v * dt",
+            "F = F_1 + F_2"
         ],
         "multiple_choice_scores": [
             1,
@@ -152,16 +133,16 @@
         ]
     },
     {
-        "idx": 140,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 3.0 kg ball rolls down from the top of a ramp as shown. If the ball is moving at 10.0 m/sat the bottom, how much energy was lost due to friction (thermal energy)?\n  choice: K = 1/2 * m * v ^ 2\n  choice: σ = q / A\n  choice: F = m * a\n  choice: p = m * v\nA:",
+        "idx": 121,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 5.0 kg object has a momentum of 25.0 kgm/s west. What is its velocity?\n  choice: p = m * v\n  choice: v = λ * f\n  choice: J = dp\n  choice: v = v_0 + a * t\nA:",
         "targets": [
-            "V = k * q / r"
+            "p = m * v"
         ],
         "multiple_choice_targets": [
-            "F = m * a",
-            "σ = q / A",
-            "E = q * σ / (2 * ε)",
-            "F = q * E"
+            "p = m * v",
+            "J = dp",
+            "v = λ * f",
+            "v = v_0 + a * t"
         ],
         "multiple_choice_scores": [
             1,
@@ -171,17 +152,36 @@
         ]
     },
     {
-        "idx": 3,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A −4.2 *10^−6 C charge, is placed between two stationary charges, Q1 and Q2 , as shown below. What is the magnitude and direction of the net force on the −4.2 *10^−6 C charge due to the two stationary charges?\n  choice: F_f = μ * N\n  choice: ɸ = q / ε\n  choice: F = q * E\n  choice: K = 1/2 * m * v ^ 2\nA:",
+        "idx": 62,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A driver traveling at 100 km/h notices the speed limit changes to 50 km/h to enter town. The driver takes 0.9 s to slow down to 50 km/h with constant acceleration. How many meters will the driver travel while slowing down?\n  choice: F = q * E\n  choice: dx = v * dt\n  choice: E = q / (ε * A * cos(θ))\n  choice: dE = k * λ * dx / x ^ 2\nA:",
         "targets": [
-            "W = F * d"
+            "dx = v * dt"
         ],
         "multiple_choice_targets": [
-            "F = m * a",
-            "dt = dx / v",
-            "E = q * σ / (2 * ε)",
+            "dx = v * dt",
+            "E = q / (ε * A * cos(θ))",
+            "F = q * E",
+            "dE = k * λ * dx / x ^ 2"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 200,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A charge q of 30.0 μC is moved from point X to point Y. How much work is done on the 30.0 μC charge?\n  choice: F_f = μ * N\n  choice: dx = v * dt\n  choice: E = k * q / r ^ 2\n  choice: W = dE\nA:",
+        "targets": [
             "W = dE"
         ],
+        "multiple_choice_targets": [
+            "W = dE",
+            "dx = v * dt",
+            "E = k * q / r ^ 2",
+            "F_f = μ * N"
+        ],
         "multiple_choice_scores": [
             1,
             0,
@@ -190,48 +190,29 @@
         ]
     },
     {
-        "idx": 124,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: How much force is needed to accelerate a 66 kg skier at 2 m/s^2?\n  choice: U = m * g * h\n  choice: v ^ 2 = v_0 ^ 2 + 2 * a * d\n  choice: F = m * a\n  choice: q = Q * dθ / π\nA:",
+        "idx": 121,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 5.0 kg object has a momentum of 25.0 kgm/s west. What is its velocity?\n  choice: p = m * v\n  choice: v = λ * f\n  choice: J = dp\n  choice: v = v_0 + a * t\nA:",
+        "targets": [
+            "p = m * v"
+        ],
+        "multiple_choice_targets": [
+            "p = m * v",
+            "J = dp",
+            "v = λ * f",
+            "v = v_0 + a * t"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 206,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 0.16 C charge is moved in an electric field from a point with a potential of 25 V to another point with a potential of 95 V. How much work was done to move this charge?\n  choice: W = dE\n  choice: q = Q * dθ / π\n  choice: Q = m * c * dT\n  choice: dv = a * dt\nA:",
         "targets": [
             "W = dE"
-        ],
-        "multiple_choice_targets": [
-            "W = F * d",
-            "E = F / q",
-            "v ^ 2 = v_0 ^ 2 + 2 * a * d",
-            "a = dv / dt"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 42,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 0.85 kg soccer ball is booted straight up in the air. If it left the soccer player’s foot at a height of 1.0 m and reaches a height of 47.0 m, what was its kinetic energy immediately after it was kicked?\n  choice: W = F * d\n  choice: dv = a * dt\n  choice: E = K + U + Q\n  choice: dt = dx / v\nA:",
-        "targets": [
-            "v = dx / dt"
-        ],
-        "multiple_choice_targets": [
-            "phi = E * A * cos(θ)",
-            "dv = a * dt",
-            "v = dx / dt",
-            "v = λ * f"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 116,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A car moving at 10 m/s speeds up uniformly to a speed of 30 m/s in a time of 5 seconds. What was the car’s acceleration?\n  choice: U_E = k * q * q / r\n  choice: p = m * v\n  choice: K = 1/2 * m * v ^ 2\n  choice: a = dv / dt\nA:",
-        "targets": [
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2"
         ],
         "multiple_choice_targets": [
             "W = dE",
@@ -247,16 +228,16 @@
         ]
     },
     {
-        "idx": 169,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A beam of electrons is directed to a region between oppositely charged parallel plates. What is the electrostatic force on the electrons in the region between the horizontal plates when they are connected to a 9.0 V potential difference?\n  choice: E = q / (ε * A * cos(θ))\n  choice: v = v_0 + a * t\n  choice: E = k * q / r ^ 2\n  choice: W = dE\nA:",
+        "idx": 104,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 90.0 N box of papayas is pulled 10.0 m along a level surface by a rope. If the rope makes an angle of 20.0o with the surface, and the force in the rope is 75.0 N, how much work is done on the box?\n  choice: W = F * d\n  choice: dt = dx / v\n  choice: F = m * a\n  choice: dE = k * λ * dx / x ^ 2\nA:",
         "targets": [
-            "U = m * g * h"
+            "W = F * d"
         ],
         "multiple_choice_targets": [
-            "V = k * q / r",
-            "E = F / q",
-            "F_y = 2 * T * cos(θ) – W",
-            "dq = ρ * dV"
+            "W = F * d",
+            "dE = k * λ * dx / x ^ 2",
+            "dt = dx / v",
+            "F = m * a"
         ],
         "multiple_choice_scores": [
             1,
@@ -266,73 +247,16 @@
         ]
     },
     {
-        "idx": 75,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 7.5 kg bowling ball sits on a 1.10 m desk. If a student lifts the ball 0.90 m above the desk, how much potential energy does it have with respect to the desk?\n  choice: U = m * g * h\n  choice: p = m * v\n  choice: F_f = μ * N\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\nA:",
+        "idx": 48,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A rubber ball bounces on the ground as shown. After each bounce, the ball reaches one-half the height of the bounce before it. If the time the ball was in the air between the first and second bounce was 1 second. What would be the time between the second and third bounce?\n  choice: Q = m * c * dT\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\n  choice: E = K + U + Q\n  choice: W = F * d\nA:",
         "targets": [
-            "v = v_0 + a * t"
+            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2"
         ],
         "multiple_choice_targets": [
             "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
-            "E = k * q / r ^ 2",
-            "K = 1/2 * m * v ^ 2",
-            "F = dp / dt"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 15,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: What is the acceleration of a 50 kg object pushed with a force of 500 newtons?\n  choice: F = q * E\n  choice: a_c = v ^ 2 / r\n  choice: F = m * a\n  choice: V = k * q / r\nA:",
-        "targets": [
-            "v = v_0 + a * t"
-        ],
-        "multiple_choice_targets": [
-            "V = k * q / r",
-            "E = q * σ / (2 * ε)",
-            "v = λ * f",
-            "E = q / (ε * A * cos(θ))"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 122,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 5.0 kg object is dropped from a height of 2.5 m above the floor. What is the object’s momentum after 0.25 s?\n  choice: U = m * g * h\n  choice: p = m * v\n  choice: J = dp\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\nA:",
-        "targets": [
-            "V = k * q / r"
-        ],
-        "multiple_choice_targets": [
-            "E = q / (ε * A * cos(θ))",
-            "F = dp / dt",
-            "v = dx / dt",
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2"
-        ],
-        "multiple_choice_scores": [
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "idx": 130,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 5.0 kg block of wood is pushed up a frictionless ramp as shown. How much work is done on the block?\n  choice: E = K + U + Q\n  choice: U_E = k * q * q / r\n  choice: E = F / q\n  choice: U = m * g * h\nA:",
-        "targets": [
-            "P = dE / dt"
-        ],
-        "multiple_choice_targets": [
-            "U = m * g * h",
+            "W = F * d",
             "Q = m * c * dT",
-            "v ^ 2 = v_0 ^ 2 + 2 * a * d",
-            "dx = v * dt"
+            "E = K + U + Q"
         ],
         "multiple_choice_scores": [
             1,
@@ -342,16 +266,35 @@
         ]
     },
     {
-        "idx": 17,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 20.0 N pomegranate is lifted at a constant velocity from the floor to a height of 1.50 m. How much work is done on the object?\n  choice: U_E = k * q * q / r\n  choice: v = dx / dt\n  choice: K = 1/2 * m * v ^ 2\n  choice: W = dE\nA:",
+        "idx": 24,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: Consider a solid insulating sphere of radius b with nonuniform charge density ρ = a * r, where a is a constant. If a = 2 * 10 ^ −6 C/m ^ 4 and b = 1 m, what is E at r = 0.7 m?\n  choice: W = F * d\n  choice: phi = E * A * cos(θ)\n  choice: E = F / q\n  choice: dx = v * dt\nA:",
         "targets": [
+            "phi = E * A * cos(θ)"
+        ],
+        "multiple_choice_targets": [
+            "phi = E * A * cos(θ)",
+            "dx = v * dt",
+            "E = F / q",
             "W = F * d"
         ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 24,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: Consider a solid insulating sphere of radius b with nonuniform charge density ρ = a * r, where a is a constant. If a = 2 * 10 ^ −6 C/m ^ 4 and b = 1 m, what is E at r = 0.7 m?\n  choice: W = F * d\n  choice: phi = E * A * cos(θ)\n  choice: E = F / q\n  choice: dx = v * dt\nA:",
+        "targets": [
+            "phi = E * A * cos(θ)"
+        ],
         "multiple_choice_targets": [
-            "K = 1/2 * m * v ^ 2",
-            "v = v_0 + a * t",
-            "F = m * a",
-            "ɸ = E * A * cos(θ)"
+            "phi = E * A * cos(θ)",
+            "dx = v * dt",
+            "E = F / q",
+            "W = F * d"
         ],
         "multiple_choice_scores": [
             1,
@@ -361,16 +304,73 @@
         ]
     },
     {
-        "idx": 145,
-        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A pendulum if pulled aside as shown. The pendulum bob has a mass of 0.500 kg. If the pendulum is released from this point how fast will it be moving when it returns to the equilibrium point?\n  choice: K = 1/2 * m * v ^ 2\n  choice: v ^ 2 = v_0 ^ 2 + 2 * a * d\n  choice: F_y = 2 * T * cos(θ) – W\n  choice: dv = a * dt\nA:",
+        "idx": 168,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A pendulum if pulled aside as shown. The pendulum bob has a mass of 0.500 kg. If the pendulum is released from this point how fast will it be moving when it returns to the equilibrium point?\n  choice: F_f = μ * N\n  choice: a_c = v ^ 2 / r\n  choice: E = K + U + Q\n  choice: a = dv / dt\nA:",
         "targets": [
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2"
+            "E = K + U + Q"
         ],
         "multiple_choice_targets": [
-            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
-            "F = m * a",
             "E = K + U + Q",
-            "W = F * d"
+            "a_c = v ^ 2 / r",
+            "F_f = μ * N",
+            "a = dv / dt"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 110,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: An 80.0 kg pumpkin is pushed up at a constant velocity along a frictionless incline as shown in the diagram. How much work is done on the pumpkin in moving it up the incline?\n  choice: a = dv / dt\n  choice: q = Q * dθ / π\n  choice: W = dE\n  choice: dq = ρ * dV\nA:",
+        "targets": [
+            "W = dE"
+        ],
+        "multiple_choice_targets": [
+            "W = dE",
+            "dq = ρ * dV",
+            "q = Q * dθ / π",
+            "a = dv / dt"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 90,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A force of 20 N acts upon a 5 kg block. What is the acceleration of the object?\n  choice: F = q * E\n  choice: v ^ 2 = v_0 ^ 2 + 2 * a * d\n  choice: F = m * a\n  choice: P = dE / dt\nA:",
+        "targets": [
+            "F = m * a"
+        ],
+        "multiple_choice_targets": [
+            "F = m * a",
+            "P = dE / dt",
+            "v ^ 2 = v_0 ^ 2 + 2 * a * d",
+            "F = q * E"
+        ],
+        "multiple_choice_scores": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "idx": 108,
+        "inputs": "Identify the physics formula that would be most useful for finding the answer to each of the following word problems.\n\n\nQ: A 20.0 kg passionfruit is pulled horizontally 9.0 m along a level frictionless surface at a constant velocity. How much work is done on the passionfruit?\n  choice: a = dv / dt\n  choice: v = λ * f\n  choice: F = m * a\n  choice: d = x_0 + v_0 * t + 1/2 * a * t ^ 2\nA:",
+        "targets": [
+            "F = m * a"
+        ],
+        "multiple_choice_targets": [
+            "F = m * a",
+            "a = dv / dt",
+            "d = x_0 + v_0 * t + 1/2 * a * t ^ 2",
+            "v = λ * f"
         ],
         "multiple_choice_scores": [
             1,

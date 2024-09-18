@@ -1,16 +1,52 @@
 [
     {
-        "idx": 4340,
-        "inputs": "Question: Where no wait how did war start ?  \ncontext: The war was fought primarily along the frontiers between New France and the British colonies , from Virginia in the South to Nova Scotia in the North . It began with a dispute over control of the confluence of the Allegheny and Monongahela rivers , called the Forks of the Ohio , and the site of the French Fort Duquesne and present - day Pittsburgh , Pennsylvania . The dispute erupted into violence in the Battle of Jumonville Glen in May 1754 , during which Virginia militiamen under the command of 22 - year - old George Washington ambushed a French patrol . \nAnswer:",
+        "idx": 989,
+        "inputs": "Question: What is the name for a mechanism no response of the immune system that damages the body ' s native tissues ?  \ncontext: Hypersensitivity is an immune response that damages the body ' s own tissues . They are divided into four classes ( Type I – IV ) based on the mechanisms involved and the time course of the hypersensitive reaction . Type I hypersensitivity is an immediate or anaphylactic reaction , often associated with allergy . Symptoms can range from mild discomfort to death . Type I hypersensitivity is mediated by IgE , which triggers degranulation of mast cells and basophils when cross - linked by antigen . Type II hypersensitivity occurs when antibodies bind to antigens on the patient ' s own cells , marking them for destruction . This is also called antibody - dependent ( or cytotoxic ) hypersensitivity , and is mediated by IgG and IgM antibodies . Immune complexes ( aggregations of antigens , complement proteins , and IgG and IgM antibodies ) deposited in various tissues trigger Type III hypersensitivity reactions . Type IV hypersensitivity ( also known as cell - mediated or delayed type hypersensitivity ) usually takes between two and three days to develop . Type IV reactions are involved in many autoimmune and infectious diseases , but may also involve contact dermatitis ( poison ivy ) . These reactions are mediated by T cells , monocytes , and macrophages . \nAnswer:",
         "targets": [
-            "dispute over control of the confluence of the Allegheny and Monongahela rivers, called the Forks of the Ohio"
+            "Hypersensitivity"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4195,
-        "inputs": "Question: When did the spelling with Rh - in English Rhine come from sorry what century ?  \ncontext: The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name Rēnos , which was adapted in Roman - era geography ( 1st century BC ) as Greek Ῥῆνος ( Rhēnos ) , Latin Rhenus . [ note 3 ] The spelling with Rh - in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography , while the vocalisation - i - is due to the Proto - Germanic adoption of the Gaulish name as * Rīnaz , via Old Frankish giving Old English Rín , Old High German Rīn , Dutch Rijn ( formerly also spelled Rhijn ) ) . The diphthong in modern German Rhein ( also adopted in Romansh Rein , Rain ) is a Central German development of the early modern period , the Alemannic name Rī ( n ) retaining the older vocalism , [ note 4 ] as does Ripuarian Rhing , while Palatine has diphthongized Rhei , Rhoi . Spanish is with French in adopting the Germanic vocalism Rin - , while Italian , Occitan and Portuguese retain the Latin Ren - . \nAnswer:",
+        "idx": 2243,
+        "inputs": "Question: How much do Beriods eat in a day no sorry ctenophore ?  \ncontext: Almost all ctenophores are predators , taking prey ranging from microscopic larvae and rotifers to the adults of small crustaceans ; the exceptions are juveniles of two species , which live as parasites on the salps on which adults of their species feed . In favorable circumstances , ctenophores can eat ten times their own weight in a day . Only 100 – 150 species have been validated , and possibly another 25 have not been fully described and named . The textbook examples are cydippids with egg - shaped bodies and a pair of retractable tentacles fringed with tentilla ( \" little tentacles \" ) that are covered with colloblasts , sticky cells that capture prey . The phylum has a wide range of body forms , including the flattened , deep - sea platyctenids , in which the adults of most species lack combs , and the coastal beroids , which lack tentacles and prey on other ctenophores by using huge mouths armed with groups of large , stiffened cilia that act as teeth . These variations enable different species to build huge populations in the same area , because they specialize in different types of prey , which they capture by as wide a range of methods as spiders use . \nAnswer:",
+        "targets": [
+            "ten times their own weight"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1157,
+        "inputs": "Question: What part of the Rhine flows west at Katwijk , sorry make that North ?  \ncontext: The name Rijn , from here on , is used only for smaller streams farther to the north , which together formed the main river Rhine in Roman times . Though they retained the name , these streams no longer carry water from the Rhine , but are used for draining the surrounding land and polders . From Wijk bij Duurstede , the old north branch of the Rhine is called Kromme Rijn ( \" Bent Rhine \" ) past Utrecht , first Leidse Rijn ( \" Rhine of Leiden \" ) and then , Oude Rijn ( \" Old Rhine \" ) . The latter flows west into a sluice at Katwijk , where its waters can be discharged into the North Sea . This branch once formed the line along which the Limes Germanicus were built . During periods of lower sea levels within the various ice ages , the Rhine took a left turn , creating the Channel River , the course of which now lies below the English Channel . \nAnswer:",
+        "targets": [
+            "Old Rhine"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 6205,
+        "inputs": "Question: When did the Black Death no the Plos Pathogens paper come out ?  \ncontext: In October 2010 , the open - access scientific journal PLoS Pathogens published a paper by a multinational team who undertook a new investigation into the role of Yersinia pestis in the Black Death following the disputed identification by Drancourt and Raoult in 1998 . They assessed the presence of DNA / RNA with Polymerase Chain Reaction ( PCR ) techniques for Y . pestis from the tooth sockets in human skeletons from mass graves in northern , central and southern Europe that were associated archaeologically with the Black Death and subsequent resurgences . The authors concluded that this new research , together with prior analyses from the south of France and Germany , \" . . . ends the debate about the etiology of the Black Death , and unambiguously demonstrates that Y . pestis was the causative agent of the epidemic plague that devastated Europe during the Middle Ages \" . \nAnswer:",
+        "targets": [
+            "In October 2010"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3400,
+        "inputs": "Question: How much no how many Victorians are non - religious ?  \ncontext: About 61 . 1 % of Victorians describe themselves as Christian . Roman Catholics form the single largest religious group in the state with 26 . 7 % of the Victorian population , followed by Anglicans and members of the Uniting Church . Buddhism is the state ' s largest non - Christian religion , with 168 , 637 members as of the most recent census . Victoria is also home of 152 , 775 Muslims and 45 , 150 Jews . Hinduism is the fastest growing religion . Around 20 % of Victorians claim no religion . Amongst those who declare a religious affiliation , church attendance is low . \nAnswer:",
+        "targets": [
+            "20%"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1376,
+        "inputs": "Question: What was um what lands weren ' t reserved for natives ?  \ncontext: Following the treaty , King George III issued the Royal Proclamation of 1763 on October 7 , 1763 , which outlined the division and administration of the newly conquered territory , and to some extent continues to govern relations between the government of modern Canada and the First Nations . Included in its provisions was the reservation of lands west of the Appalachian Mountains to its Indian population , a demarcation that was at best a temporary impediment to a rising tide of westward - bound settlers . The proclamation also contained provisions that prevented civic participation by the Roman Catholic Canadians . When accommodations were made in the Quebec Act in 1774 to address this and other issues , religious concerns were raised in the largely Protestant Thirteen Colonies over the advance of \" popery \" ; the Act maintained French Civil law , including the seigneurial system , a medieval code soon to be removed from France within a generation by the French Revolution . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -18,26 +54,44 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 1053,
-        "inputs": "Question: Supplies from Jacksonville were in support of which faction during the Revolutionary war no no I ' m talking about during the Civil War ?  \ncontext: During the American Civil War , Jacksonville was a key supply point for hogs and cattle being shipped from Florida to aid the Confederate cause . The city was blockaded by Union forces , who gained control of the nearby Fort Clinch . Though no battles were fought in Jacksonville proper , the city changed hands several times between Union and Confederate forces . The Skirmish of the Brick Church in 1862 just outside Jacksonville proper resulted in the first Confederate victory in Florida . In February 1864 Union forces left Jacksonville and confronted a Confederate Army at the Battle of Olustee resulting in a Confederate victory . Union forces then retreated to Jacksonville and held the city for the remainder of the war . In March 1864 a Confederate cavalry confronted a Union expedition resulting in the Battle of Cedar Creek . Warfare and the long occupation left the city disrupted after the war . \nAnswer:",
+        "idx": 5704,
+        "inputs": "Question: What person , rather , who is the final judge of right and wrong ?  \ncontext: However , this definition is disputed by Thoreau ' s political philosophy pitching the conscience vs . the collective . The individual is the final judge of right and wrong . More than this , since only individuals act , only individuals can act unjustly . When the government knocks on the door , it is an individual in the form of a postman or tax collector whose hand hits the wood . Before Thoreau ’ s imprisonment , when a confused taxman had wondered aloud about how to handle his refusal to pay , Thoreau had advised , “ Resign . ” If a man chose to be an agent of injustice , then Thoreau insisted on confronting him with the fact that he was making a choice . But if government is “ the voice of the people , ” as it is often called , shouldn ’ t that voice be heeded ? Thoreau admits that government may express the will of the majority but it may also express nothing more than the will of elite politicians . Even a good form of government is “ liable to be abused and perverted before the people can act through it . ” Moreover , even if a government did express the voice of the people , this fact would not compel the obedience of individuals who disagree with what is being said . The majority may be powerful but it is not necessarily right . What , then , is the proper relationship between the individual and the government ? \nAnswer:",
         "targets": [
-            "Confederate"
+            "The individual"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 2985,
-        "inputs": "Question: What is the claim or name of the university ' s core curriculum ?  \ncontext: Undergraduate students are required to take a distribution of courses to satisfy the university ' s core curriculum known as the Common Core . In 2012 - 2013 , the Core classes at Chicago were limited to 17 students , and are generally led by a full - time professor ( as opposed to a teaching assistant ) . As of the 2013 – 2014 school year , 15 courses and demonstrated proficiency in a foreign language are required under the Core . Undergraduate courses at the University of Chicago are known for their demanding standards , heavy workload and academic difficulty ; according to Uni in the USA , \" Among the academic cream of American universities – Harvard , Yale , Princeton , MIT , and the University of Chicago – it is UChicago that can most convincingly claim to provide the most rigorous , intense learning experience . \" \nAnswer:",
+        "idx": 3030,
+        "inputs": "Question: What can a sequential hermaphrodite do no no what can a simultaneous hermaphrodite do ?  \ncontext: Most species are hermaphrodites — a single animal can produce both eggs and sperm , meaning it can fertilize its own egg , not needing a mate . Some are simultaneous hermaphrodites , which can produce both eggs and sperm at the same time . Others are sequential hermaphrodites , in which the eggs and sperm mature at different times . Fertilization is generally external , although platyctenids ' eggs are fertilized inside their parents ' bodies and kept there until they hatch . The young are generally planktonic and in most species look like miniature cydippids , gradually changing into their adult shapes as they grow . The exceptions are the beroids , whose young are miniature beroids with large mouths and no tentacles , and the platyctenids , whose young live as cydippid - like plankton until they reach near - adult size , but then sink to the bottom and rapidly metamorphose into the adult form . In at least some species , juveniles are capable of reproduction before reaching the adult size and shape . The combination of hermaphroditism and early reproduction enables small populations to grow at an explosive rate . \nAnswer:",
         "targets": [
-            "the Common Core"
+            "can produce both eggs and sperm at the same time"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 194,
-        "inputs": "Question: What type of heating element is often used in toy chamber engines no not those but for closed space engines ?  \ncontext: The heat required for boiling the water and supplying the steam can be derived from various sources , most commonly from burning combustible materials with an appropriate supply of air in a closed space ( called variously combustion chamber , firebox ) . In some cases the heat source is a nuclear reactor , geothermal energy , solar energy or waste heat from an internal combustion engine or industrial process . In the case of model or toy steam engines , the heat source can be an electric heating element . \nAnswer:",
+        "idx": 4533,
+        "inputs": "Question: How is the or rather what is the Rhine Gorge listed as ?  \ncontext: The dominant economic sectors in the Middle Rhine area are viniculture and tourism . The Rhine Gorge between Rüdesheim am Rhein and Koblenz is listed as a UNESCO World Heritage Site . Near Sankt Goarshausen , the Rhine flows around the famous rock Lorelei . With its outstanding architectural monuments , the slopes full of vines , settlements crowded on the narrow river banks and scores of castles lined up along the top of the steep slopes , the Middle Rhine Valley can be considered the epitome of the Rhine romanticism . \nAnswer:",
+        "targets": [
+            "UNESCO World Heritage Site."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 1351,
+        "inputs": "Question: Why is the ruling on whether no um final bill passed to the Monarch ?  \ncontext: Royal assent : After the bill has been passed , the Presiding Officer submits it to the Monarch for royal assent and it becomes an Act of the Scottish Parliament . However he cannot do so until a 4 - week period has elapsed , during which the Law Officers of the Scottish Government or UK Government can refer the bill to the Supreme Court of the United Kingdom for a ruling on whether it is within the powers of the Parliament . Acts of the Scottish Parliament do not begin with a conventional enacting formula . Instead they begin with a phrase that reads : \" The Bill for this Act of the Scottish Parliament was passed by the Parliament on [ Date ] and received royal assent on [ Date ] \" . \nAnswer:",
+        "targets": [
+            "royal assent"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 3593,
+        "inputs": "Question: When did Channing eliminate Christianity in the curriculum no sorry tell me during which years was William Ellery Channing President of Harvard ?  \ncontext: Charles W . Eliot , president 1869 – 1909 , eliminated the favored position of Christianity from the curriculum while opening it to student self - direction . While Eliot was the most crucial figure in the secularization of American higher education , he was motivated not by a desire to secularize education , but by Transcendentalist Unitarian convictions . Derived from William Ellery Channing and Ralph Waldo Emerson , these convictions were focused on the dignity and worth of human nature , the right and ability of each person to perceive truth , and the indwelling God in each person . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -45,53 +99,8 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 4130,
-        "inputs": "Question: How err I mean what is the force equivalent of torque compared to angular momentum ?  \ncontext: Torque is the rotation equivalent of force in the same way that angle is the rotational equivalent for position , angular velocity for velocity , and angular momentum for momentum . As a consequence of Newton ' s First Law of Motion , there exists rotational inertia that ensures that all bodies maintain their angular momentum unless acted upon by an unbalanced torque . Likewise , Newton ' s Second Law of Motion can be used to derive an analogous equation for the instantaneous angular acceleration of the rigid body : \nAnswer:",
-        "targets": [
-            "rotational equivalent for position"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 7226,
-        "inputs": "Question: Jake Rosenfield ' s first nope not that but profession is what ?  \ncontext: Sociologist Jake Rosenfield of the University of Washington asserts that the decline of organized labor in the United States has played a more significant role in expanding the income gap than technological changes and globalization , which were also experienced by other industrialized nations that didn ' t experience steep surges in inequality . He points out that nations with high rates of unionization , particularly in Scandinavia , have very low levels of inequality , and concludes \" the historical pattern is clear ; the cross - national pattern is clear : high inequality goes hand - in - hand with weak labor movements and vice - versa . \" \nAnswer:",
-        "targets": [
-            "Sociologist"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2079,
-        "inputs": "Question: In what year was Corliss given no no what award did he get ?  \ncontext: The acme of the horizontal engine was the Corliss steam engine , patented in 1849 , which was a four - valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff . When Corliss was given the Rumford medal the committee said that \" no one invention since Watt ' s time has so enhanced the efficiency of the steam engine \" . In addition to using 30 % less steam , it provided more uniform speed due to variable steam cut off , making it well suited to manufacturing , especially cotton spinning . \nAnswer:",
-        "targets": [
-            "Rumford medal"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2401,
-        "inputs": "Question: When did Bulgaria or uh sorry Greenland sign a Treaty granting them special status ?  \ncontext: The principal Treaties that form the European Union began with common rules for coal and steel , and then atomic energy , but more complete and formal institutions were established through the Treaty of Rome 1957 and the Maastricht Treaty 1992 ( now : TFEU ) . Minor amendments were made during the 1960s and 1970s . Major amending treaties were signed to complete the development of a single , internal market in the Single European Act 1986 , to further the development of a more social Europe in the Treaty of Amsterdam 1997 , and to make minor amendments to the relative power of member states in the EU institutions in the Treaty of Nice 2001 and the Treaty of Lisbon 2007 . Since its establishment , more member states have joined through a series of accession treaties , from the UK , Ireland , Denmark and Norway in 1972 ( though Norway did not end up joining ) , Greece in 1979 , Spain and Portugal 1985 , Austria , Finland , Norway and Sweden in 1994 ( though again Norway failed to join , because of lack of support in the referendum ) , the Czech Republic , Cyprus , Estonia , Hungary , Latvia , Lithuania , Malta , Poland , Slovakia and Slovenia in 2004 , Romania and Bulgaria in 2007 and Croatia in 2013 . Greenland signed a Treaty in 1985 giving it a special status . \nAnswer:",
-        "targets": [
-            "1985"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 4761,
-        "inputs": "Question: What was invented in 1888 that revolutionized warfare or I guess 1880 ?  \ncontext: Along with advancements in communication , Europe also continued to advance in military technology . European chemists made deadly explosives that could be used in combat , and with innovations in machinery they were able to manufacture improved firearms . By the 1880s , the machine gun had become an effective battlefield weapon . This technology gave European armies an advantage over their opponents , as armies in less - developed countries were still fighting with arrows , swords , and leather shields ( e . g . the Zulus in Southern Africa during the Anglo - Zulu War of 1879 ) . \nAnswer:",
-        "targets": [
-            "the machine gun"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 2341,
-        "inputs": "Question: What is the sea level of the Rhine , no I ' m sorry , the English Channel ?  \ncontext: The last glacial ran from ~ 74 , 000 ( BP = Before Present ) , until the end of the Pleistocene ( ~ 11 , 600 BP ) . In northwest Europe , it saw two very cold phases , peaking around 70 , 000 BP and around 29 , 000 – 24 , 000 BP . The last phase slightly predates the global last ice age maximum ( Last Glacial Maximum ) . During this time , the lower Rhine flowed roughly west through the Netherlands and extended to the southwest , through the English Channel and finally , to the Atlantic Ocean . The English Channel , the Irish Channel and most of the North Sea were dry land , mainly because sea level was approximately 120 m ( 390 ft ) lower than today . \nAnswer:",
+        "idx": 1995,
+        "inputs": "Question: What village um no sea does the Rhine flow out of ?  \ncontext: From here , the situation becomes more complicated , as the Dutch name Rijn no longer coincides with the main flow of water . Two thirds of the water flow volume of the Rhine flows farther west , through the Waal and then , via the Merwede and Nieuwe Merwede ( De Biesbosch ) , merging with the Meuse , through the Hollands Diep and Haringvliet estuaries , into the North Sea . The Beneden Merwede branches off , near Hardinxveld - Giessendam and continues as the Noord , to join the Lek , near the village of Kinderdijk , to form the Nieuwe Maas ; then flows past Rotterdam and continues via Het Scheur and the Nieuwe Waterweg , to the North Sea . The Oude Maas branches off , near Dordrecht , farther down rejoining the Nieuwe Maas to form Het Scheur . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -99,71 +108,53 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 4136,
-        "inputs": "Question: Who had Toghun Temur oops Toghtogha tried to defeat ?  \ncontext: From the late 1340s onwards , people in the countryside suffered from frequent natural disasters such as droughts , floods and the resulting famines , and the government ' s lack of effective policy led to a loss of popular support . In 1351 , the Red Turban Rebellion started and grew into a nationwide uprising . In 1354 , when Toghtogha led a large army to crush the Red Turban rebels , Toghun Temür suddenly dismissed him for fear of betrayal . This resulted in Toghun Temür ' s restoration of power on the one hand and a rapid weakening of the central government on the other . He had no choice but to rely on local warlords ' military power , and gradually lost his interest in politics and ceased to intervene in political struggles . He fled north to Shangdu from Khanbaliq ( present - day Beijing ) in 1368 after the approach of the forces of the Míng dynasty ( 1368 – 1644 ) , founded by Zhu Yuanzhang in the south . He had tried to regain Khanbaliq , which eventually failed ; he died in Yingchang ( located in present - day Inner Mongolia ) two years later ( 1370 ) . Yingchang was seized by the Ming shortly after his death . Some royal family members still lived in Henan today . \nAnswer:",
+        "idx": 7583,
+        "inputs": "Question: In 1979 or instead which year did the price of oil drop to $ 10 per barrel ?  \ncontext: OPEC soon lost its preeminent position , and in 1981 , its production was surpassed by that of other countries . Additionally , its own member nations were divided . Saudi Arabia , trying to recover market share , increased production , pushing prices down , shrinking or eliminating profits for high - cost producers . The world price , which had peaked during the 1979 energy crisis at nearly $ 40 per barrel , decreased during the 1980s to less than $ 10 per barrel . Adjusted for inflation , oil briefly fell back to pre - 1973 levels . This \" sale \" price was a windfall for oil - importing nations , both developing and developed . \nAnswer:",
         "targets": [
-            "the Red Turban rebels"
+            "1980s"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 1034,
-        "inputs": "Question: When was uh rather what provided much of the basis for the structure of the Parliament in 1995 ?  \ncontext: Throughout the 1980s and 1990s , demand for a Scottish Parliament grew , in part because the government of the United Kingdom was controlled by the Conservative Party , while Scotland itself elected relatively few Conservative MPs . In the aftermath of the 1979 referendum defeat , the Campaign for a Scottish Assembly was initiated as a pressure group , leading to the 1989 Scottish Constitutional Convention with various organisations such as Scottish churches , political parties and representatives of industry taking part . Publishing its blueprint for devolution in 1995 , the Convention provided much of the basis for the structure of the Parliament . \nAnswer:",
+        "idx": 4767,
+        "inputs": "Question: What was the experiment that tested early life on Mars or rather the name of the experiment that tested the origin of life ?  \ncontext: The University of Chicago has been the site of some important experiments and academic movements . In economics , the university has played an important role in shaping ideas about the free market and is the namesake of the Chicago school of economics , the school of economic thought supported by Milton Friedman and other economists . The university ' s sociology department was the first independent sociology department in the United States and gave birth to the Chicago school of sociology . In physics , the university was the site of the Chicago Pile - 1 ( the first self - sustained man - made nuclear reaction , part of the Manhattan Project ) , of Robert Millikan ' s oil - drop experiment that calculated the charge of the electron , and of the development of radiocarbon dating by Willard F . Libby in 1947 . The chemical experiment that tested how life originated on early Earth , the Miller – Urey experiment , was conducted at the university . REM sleep was discovered at the university in 1953 by Nathaniel Kleitman and Eugene Aserinsky . \nAnswer:",
         "targets": [
-            "blueprint"
+            "Miller–Urey experiment"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 7664,
-        "inputs": "Question: When was no during what period did downtown Fresno thrive ?  \ncontext: Between the 1880s and World War II , Downtown Fresno flourished , filled with electric Street Cars , and contained some of the San Joaquin Valley ' s most beautiful architectural buildings . Among them , the original Fresno County Courthouse ( demolished ) , the Fresno Carnegie Public Library ( demolished ) , the Fresno Water Tower , the Bank of Italy Building , the Pacific Southwest Building , the San Joaquin Light & Power Building ( currently known as the Grand 1401 ) , and the Hughes Hotel ( burned down ) , to name a few . \nAnswer:",
+        "idx": 333,
+        "inputs": "Question: Where rather who was one of the most famous people born in Warsaw ?  \ncontext: One of the most famous people born in Warsaw was Maria Skłodowska - Curie , who achieved international recognition for her research on radioactivity and was the first female recipient of the Nobel Prize . Famous musicians include Władysław Szpilman and Frédéric Chopin . Though Chopin was born in the village of Żelazowa Wola , about 60 km ( 37 mi ) from Warsaw , he moved to the city with his family when he was seven months old . Casimir Pulaski , a Polish general and hero of the American Revolutionary War , was born here in 1745 . \nAnswer:",
         "targets": [
-            "Between the 1880s and World War II"
+            "Maria Skłodowska-Curie"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 3282,
-        "inputs": "Question: Where did the discharge from glaciers go in England nope not there but Europe in the last Ice Age ?  \ncontext: As northwest Europe slowly began to warm up from 22 , 000 years ago onward , frozen subsoil and expanded alpine glaciers began to thaw and fall - winter snow covers melted in spring . Much of the discharge was routed to the Rhine and its downstream extension . Rapid warming and changes of vegetation , to open forest , began about 13 , 000 BP . By 9000 BP , Europe was fully forested . With globally shrinking ice - cover , ocean water levels rose and the English Channel and North Sea re - inundated . Meltwater , adding to the ocean and land subsidence , drowned the former coasts of Europe transgressionally . \nAnswer:",
+        "idx": 1092,
+        "inputs": "Question: Which hall was used as Parliament ' s principle council or uh committee room ?  \ncontext: In addition to the General Assembly Hall , the Parliament also used buildings rented from the City of Edinburgh Council . The former administrative building of Lothian Regional Council on George IV Bridge was used for the MSP ' s offices . Following the move to Holyrood in 2004 this building was demolished . The former Midlothian County Buildings facing Parliament Square , High Street and George IV Bridge in Edinburgh ( originally built as the headquarters of the pre - 1975 Midlothian County Council ) housed the Parliament ' s visitors ' centre and shop , whilst the main hall was used as the Parliament ' s principal committee room . \nAnswer:",
         "targets": [
-            "Rhine"
+            "main"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4549,
-        "inputs": "Question: What class of pathogens no T cells recognizes intact antigens that are not associated with MHC receptors ?  \ncontext: Both B cells and T cells carry receptor molecules that recognize specific targets . T cells recognize a \" non - self \" target , such as a pathogen , only after antigens ( small fragments of the pathogen ) have been processed and presented in combination with a \" self \" receptor called a major histocompatibility complex ( MHC ) molecule . There are two major subtypes of T cells : the killer T cell and the helper T cell . In addition there are regulatory T cells which have a role in modulating immune response . Killer T cells only recognize antigens coupled to Class I MHC molecules , while helper T cells and regulatory T cells only recognize antigens coupled to Class II MHC molecules . These two mechanisms of antigen presentation reflect the different roles of the two types of T cell . A third , minor subtype are the γδ T cells that recognize intact antigens that are not bound to MHC receptors . \nAnswer:",
+        "idx": 818,
+        "inputs": "Question: How does no no what is the meaning of isobaric ?  \ncontext: The Rankine cycle is sometimes referred to as a practical Carnot cycle because , when an efficient turbine is used , the TS diagram begins to resemble the Carnot cycle . The main difference is that heat addition ( in the boiler ) and rejection ( in the condenser ) are isobaric ( constant pressure ) processes in the Rankine cycle and isothermal ( constant temperature ) processes in the theoretical Carnot cycle . In this cycle a pump is used to pressurize the working fluid which is received from the condenser as a liquid not as a gas . Pumping the working fluid in liquid form during the cycle requires a small fraction of the energy to transport it compared to the energy needed to compress the working fluid in gaseous form in a compressor ( as in the Carnot cycle ) . The cycle of a reciprocating steam engine differs from that of turbines because of condensation and re - evaporation occurring in the cylinder or in the steam inlet passages . \nAnswer:",
         "targets": [
-            "γδ T cells"
+            "constant pressure"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 4934,
-        "inputs": "Question: Where in Tonopah or uh Las Vegas did a famous protest take place ?  \ncontext: When the Committee for Non - Violent Action sponsored a protest in August 1957 , at the Camp Mercury nuclear test site near Las Vegas , Nevada , 13 of the protesters attempted to enter the test site knowing that they faced arrest . At a pre - arranged announced time , one at a time they stepped across the \" line \" and were immediately arrested . They were put on a bus and taken to the Nye County seat of Tonopah , Nevada , and arraigned for trial before the local Justice of the Peace , that afternoon . A well known civil rights attorney , Francis Heisler , had volunteered to defend the arrested persons , advising them to plead \" nolo contendere \" , as an alternative to pleading either guilty or not - guilty . The arrested persons were found \" guilty , \" nevertheless , and given suspended sentences , conditional on their not reentering the test site grounds . [ citation needed ] \nAnswer:",
-        "targets": [
-            "Camp Mercury nuclear test site"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 1717,
-        "inputs": "Question: Which county uh city is the fifth - largest city in California ?  \ncontext: Fresno ( / ˈfrɛznoʊ / FREZ - noh ) , the county seat of Fresno County , is a city in the U . S . state of California . As of 2015 , the city ' s population was 520 , 159 , making it the fifth - largest city in California , the largest inland city in California and the 34th - largest in the nation . Fresno is in the center of the San Joaquin Valley and is the largest city in the Central Valley , which contains the San Joaquin Valley . It is approximately 220 miles ( 350 km ) northwest of Los Angeles , 170 miles ( 270 km ) south of the state capital , Sacramento , or 185 miles ( 300 km ) south of San Francisco . The name Fresno means \" ash tree \" in Spanish , and an ash leaf is featured on the city ' s flag . \nAnswer:",
-        "targets": [
-            "Fresno"
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 7870,
-        "inputs": "Question: When did Augustus find the upper Danube , no when did he find Rome ?  \ncontext: From the death of Augustus in AD 14 until after AD 70 , Rome accepted as her Germanic frontier the water - boundary of the Rhine and upper Danube . Beyond these rivers she held only the fertile plain of Frankfurt , opposite the Roman border fortress of Moguntiacum ( Mainz ) , the southernmost slopes of the Black Forest and a few scattered bridge - heads . The northern section of this frontier , where the Rhine is deep and broad , remained the Roman boundary until the empire fell . The southern part was different . The upper Rhine and upper Danube are easily crossed . The frontier which they form is inconveniently long , enclosing an acute - angled wedge of foreign territory between the modern Baden and Württemberg . The Germanic populations of these lands seem in Roman times to have been scanty , and Roman subjects from the modern Alsace - Lorraine had drifted across the river eastwards . \nAnswer:",
+        "idx": 6480,
+        "inputs": "Question: Where did Daidu no Kublai shorten the Grand Canal to ?  \ncontext: Kublai Khan promoted commercial , scientific , and cultural growth . He supported the merchants of the Silk Road trade network by protecting the Mongol postal system , constructing infrastructure , providing loans that financed trade caravans , and encouraging the circulation of paper banknotes ( 鈔 , Chao ) . Pax Mongolica , Mongol peace , enabled the spread of technologies , commodities , and culture between China and the West . Kublai expanded the Grand Canal from southern China to Daidu in the north . Mongol rule was cosmopolitan under Kublai Khan . He welcomed foreign visitors to his court , such as the Venetian merchant Marco Polo , who wrote the most influential European account of Yuan China . Marco Polo ' s travels would later inspire many others like Christopher Columbus to chart a passage to the Far East in search of its legendary wealth . \nAnswer:",
         "targets": [
             "unknown"
         ],
@@ -171,10 +162,19 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 5896,
-        "inputs": "Question: How should disobedience or rather why should disobedience by the general public be avoided ?  \ncontext: One theory is that , while disobedience may be helpful , any great amount of it would undermine the law by encouraging general disobedience which is neither conscientious nor of social benefit . Therefore , conscientious lawbreakers must be punished . Michael Bayles argues that if a person violates a law in order to create a test case as to the constitutionality of a law , and then wins his case , then that act did not constitute civil disobedience . It has also been argued that breaking the law for self - gratification , as in the case of a homosexual or cannabis user who does not direct his act at securing the repeal of amendment of the law , is not civil disobedience . Likewise , a protestor who attempts to escape punishment by committing the crime covertly and avoiding attribution , or by denying having committed the crime , or by fleeing the jurisdiction , is generally viewed as not being a civil disobedient . \nAnswer:",
+        "idx": 6941,
+        "inputs": "Question: How does or no make that what does the word Rheinrinne translate to ?  \ncontext: The flow of cold , gray mountain water continues for some distance into the lake . The cold water flows near the surface and at first doesn ' t mix with the warmer , green waters of Upper Lake . But then , at the so - called Rheinbrech , the Rhine water abruptly falls into the depths because of the greater density of cold water . The flow reappears on the surface at the northern ( German ) shore of the lake , off the island of Lindau . The water then follows the northern shore until Hagnau am Bodensee . A small fraction of the flow is diverted off the island of Mainau into Lake Überlingen . Most of the water flows via the Constance hopper into the Rheinrinne ( \" Rhine Gutter \" ) and Seerhein . Depending on the water level , this flow of the Rhine water is clearly visible along the entire length of the lake . \nAnswer:",
         "targets": [
-            "neither conscientious nor of social benefit"
+            "Rhine Gutter"
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 5178,
+        "inputs": "Question: Who went um no when was Radcliffe ' s curriculum secularized ?  \ncontext: Established originally by the Massachusetts legislature and soon thereafter named for John Harvard ( its first benefactor ) , Harvard is the United States ' oldest institution of higher learning , and the Harvard Corporation ( formally , the President and Fellows of Harvard College ) is its first chartered corporation . Although never formally affiliated with any denomination , the early College primarily trained Congregationalist and Unitarian clergy . Its curriculum and student body were gradually secularized during the 18th century , and by the 19th century Harvard had emerged as the central cultural establishment among Boston elites . Following the American Civil War , President Charles W . Eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; Harvard was a founding member of the Association of American Universities in 1900 . James Bryant Conant led the university through the Great Depression and World War II and began to reform the curriculum and liberalize admissions after the war . The undergraduate college became coeducational after its 1977 merger with Radcliffe College . \nAnswer:",
+        "targets": [
+            "unknown"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []

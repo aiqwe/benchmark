@@ -1,74 +1,38 @@
 [
     {
-        "idx": 189,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Das hübsche Mädchen, das auf die Barrikaden jeder Revolution paßte, nennt es ein Verbrechen, dass ihre Landsleute wie Bettler in die Bundesrepublik ziehen müssen.\nGender inclusive:",
+        "idx": 54,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Zuerst erklärte das California State Teachers’ Retirement System, ein 290 Milliarden Dollar schwerer Fonds, der die Pensionen kalifornischer Lehrer anlegt und verwaltet, man werde bei der Jahreshauptversammlung am 26. Mai für die von Engine No. 1 vorgeschlagenen Verwaltungsräte stimmen.\nGender inclusive:",
         "targets": [
-            "Das hübsche Mädchen, das auf die Barrikaden jeder Revolution paßte, nennt es ein Verbrechen, dass ihre Landsleute wie Bettler*innen in die Bundesrepublik ziehen müssen."
+            "Zuerst erklärte das California State Teachers’ Retirement System, ein 290 Milliarden Dollar schwerer Fonds, der die Pensionen kalifornischer Lehrer*innen anlegt und verwaltet, man werde bei der Jahreshauptversammlung am 26. Mai für die von Engine No. 1 vorgeschlagenen Verwaltungsräte stimmen.",
+            "Zuerst erklärte das California State Teachers’ Retirement System, ein 290 Milliarden Dollar schwerer Fonds, der die Pensionen kalifornischer Lehrender anlegt und verwaltet, man werde bei der Jahreshauptversammlung am 26. Mai für die von Engine No. 1 vorgeschlagenen Verwaltungsräte stimmen."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 0,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Potsdam ist eine kreisfreie Stadt und mit gut 180.000 Einwohnern die bevölkerungsreichste Stadt und Hauptstadt des Landes Brandenburg.\nGender inclusive:",
+        "idx": 138,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Allerdings spürt man, dass dies nicht so sehr überschüssiger Kraft und Prosperität zuzuschreiben ist als eher der Tatsache, dass besorgte ägyptische Kapitalbesitzer (zu denen sich hier wie in allen Ländern des Nahen Ostens saudische Prinzen gesellen) keine andere Anlagemöglichkeit haben.\nGender inclusive:",
         "targets": [
-            "Potsdam ist eine kreisfreie Stadt und mit gut 180.000 Einwohner*innen die bevölkerungsreichste Stadt und Hauptstadt des Landes Brandenburg."
+            "Allerdings spürt man, dass dies nicht so sehr überschüssiger Kraft und Prosperität zuzuschreiben ist als eher der Tatsache, dass besorgte ägyptische Kapitalbesitzende (zu denen sich hier wie in allen Ländern des Nahen Ostens saudische Prinzen gesellen) keine andere Anlagemöglichkeit haben.",
+            "Allerdings spürt man, dass dies nicht so sehr überschüssiger Kraft und Prosperität zuzuschreiben ist als eher der Tatsache, dass besorgte ägyptische Kapitalbesitzer*innen (zu denen sich hier wie in allen Ländern des Nahen Ostens saudische Prinzen gesellen) keine andere Anlagemöglichkeit haben."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 34,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: In den meisten Fällen muss man ein Rennen als Erst- oder Zweitplatzierter beenden, um Respektpunkte zu gewinnen.\nGender inclusive:",
+        "idx": 193,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Egon Krenz ist mit Sicherheit kein Hoffnungsträger seiner Leipziger Parteifreunde.\nGender inclusive:",
         "targets": [
-            "In den meisten Fällen muss man ein Rennen als Erst- oder Zweitplatzierte*r beenden, um Respektpunkte zu gewinnen."
+            "Egon Krenz ist mit Sicherheit kein Hoffnungsträger seiner Leipziger Parteifreund*innen."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 111,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Zwar sind die Akteure hermetisch abgeschlossen von den Chronisten, doch das Drum und Dran ist keineswegs das einzig Erstaunliche an dieser Konferenz, von der es wohl mit Recht heißt, sie sei die größte (was den Umfang angeht) seit der Versailler Friedenskonferenz.\nGender inclusive:",
+        "idx": 186,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Sieben Tage, verglich er, \"ist Josea um die Mauern von Jericho gezogen, dann fiel die Mauer wie von selbst. Sieben Tage liefen die Leipziger um die Stadt, dann fiel die Mauer wie von selbst.\"\nGender inclusive:",
         "targets": [
-            "Zwar sind die Akteur*innen hermetisch abgeschlossen von den Chronist*innen, doch das Drum und Dran ist keineswegs das einzig Erstaunliche an dieser Konferenz, von der es wohl mit Recht heißt, sie sei die größte (was den Umfang angeht) seit der Versailler Friedenskonferenz."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 135,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Keiner von ihnen plädierte beispielsweise für eine Rückkehr zum freien Unternehmertum.\nGender inclusive:",
-        "targets": [
-            "Keiner von ihnen plädierte beispielsweise für eine Rückkehr zum freien Unternehmer*innentum."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 56,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: In bayerischen Regionen mit einer Sieben-Tage-Inzidenz unter 50 sollen nach den Pfingstferien die Schüler aller Schularten wieder Präsenzunterricht haben - mit Test- und Maskenpflicht.\nGender inclusive:",
-        "targets": [
-            "In bayerischen Regionen mit einer Sieben-Tage-Inzidenz unter 50 sollen nach den Pfingstferien die Schüler*innen aller Schularten wieder Präsenzunterricht haben - mit Test- und Maskenpflicht."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 99,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: In Istanbul hat unter großem Andrang von Medienvertretern und Beobachtern die Neuverhandlung des sogenannten Gezi-Prozesses begonnen.\nGender inclusive:",
-        "targets": [
-            "In Istanbul hat unter großem Andrang von Medienvertreter*innen und Beobachter*innen die Neuverhandlung des sogenannten Gezi-Prozesses begonnen.",
-            "In Istanbul hat unter großem Andrang von Medienvertreter*innen und Beobachtenden die Neuverhandlung des sogenannten Gezi-Prozesses begonnen."
-        ],
-        "multiple_choice_targets": [],
-        "multiple_choice_scores": []
-    },
-    {
-        "idx": 147,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Arbeiter und Angestellten gehören der bestehenden Rentenversicherung an.\nGender inclusive:",
-        "targets": [
-            "Die Arbeiter*innen und Angestellten gehören der bestehenden Rentenversicherung an.",
-            "Die Arbeitenden und Angestellten gehören der bestehenden Rentenversicherung an."
+            "Sieben Tage, verglich er, \"ist Josea um die Mauern von Jericho gezogen, dann fiel die Mauer wie von selbst. Sieben Tage liefen die Leipziger*innen um die Stadt, dann fiel die Mauer wie von selbst.\""
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
@@ -83,109 +47,142 @@
         "multiple_choice_scores": []
     },
     {
-        "idx": 119,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Er überlegt sorgfältig die Argumente seiner Gegner.\nGender inclusive:",
+        "idx": 51,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Normalerweise wecken solche Streitigkeiten höchstens das Interesse von Anlegern, die sich um den Aktienkurs eines Unternehmens sorgen.\nGender inclusive:",
         "targets": [
-            "Er überlegt sorgfältig die Argumente seiner Gegner*innen."
+            "Normalerweise wecken solche Streitigkeiten höchstens das Interesse von Anleger*innen, die sich um den Aktienkurs eines Unternehmens sorgen."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 80,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: 2020 musste er wegen der Pandemie abgesagt werden, in diesem Jahr sollen die Läufer wieder starten dürfen.\nGender inclusive:",
+        "idx": 182,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Machthaber schmücken sich gern mit gutem Einvernehmen zu oppositionellen Gruppen.\nGender inclusive:",
         "targets": [
-            "2020 musste er wegen der Pandemie abgesagt werden, in diesem Jahr sollen die Läufer*innen wieder starten dürfen."
+            "Die Machthaber*innen schmücken sich gern mit gutem Einvernehmen zu oppositionellen Gruppen."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 124,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines Redners\nGender inclusive:",
+        "idx": 79,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Eine Stunde mehr Zeit als bisher bleibt den Nachtschwärmern auf der bei Deutschen beliebten Urlaubsinsel damit.\nGender inclusive:",
         "targets": [
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines * einer Redner*in",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines*einer Redner*in",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines * einer Redenden",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines*einer Redenden"
+            "Eine Stunde mehr Zeit als bisher bleibt den Nachtschwärmer*innen auf der bei Deutschen beliebten Urlaubsinsel damit.",
+            "Eine Stunde mehr Zeit als bisher bleibt den Nachtschwärmenden auf der bei Deutschen beliebten Urlaubsinsel damit."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 124,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines Redners\nGender inclusive:",
+        "idx": 102,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Camper wollen in die Natur, möglichst weit weg von der Zivilisation.\nGender inclusive:",
         "targets": [
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines * einer Redner*in",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines*einer Redner*in",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines * einer Redenden",
-            "Manchmal waren die Zwischenrufe nur die erregte Reaktion auf die vorausgegangene niederträchtige Bemerkung eines*einer Redenden"
+            "Die Campenden wollen in die Natur, möglichst weit weg von der Zivilisation.",
+            "Die Camper*innen wollen in die Natur, möglichst weit weg von der Zivilisation."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 42,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Psychotherapeut ist eine Berufsbezeichnung für psychotherapeutisch tätige Ärzte, Psychologen und Pädagogen mit einer auf dem Studium aufbauenden fachkundlichen Weiterbildung in Psychotherapie.\nGender inclusive:",
+        "idx": 171,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Basken aber haben sich gegenüber dem Franco-Regime derselben Mittel bedient wie die Baader-Meinhof-Leute und ihre Nachfolger in der Bundesrepublik.\nGender inclusive:",
         "targets": [
-            "Psychotherapeut*in ist eine Berufsbezeichnung für psychotherapeutisch tätige Ärzt*innen, Psycholog*innen und Pädagog*innen mit einer auf dem Studium aufbauenden fachkundlichen Weiterbildung in Psychotherapie."
+            "Die Bask*innen aber haben sich gegenüber dem Franco-Regime derselben Mittel bedient wie die Baader-Meinhof-Leute und ihre Nachfolger*innen in der Bundesrepublik."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 5,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Das Versprechen haben wir den Bürgern immer gegeben.\nGender inclusive:",
+        "idx": 166,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Wird es seinen Aktivisten und Helfern, auch wo sie Staatsoberhäupter sind wie Idi Amin in Uganda oder Muammar el-Ghaddafi in Libyen, endlich an den Kragen gehen?\nGender inclusive:",
         "targets": [
-            "Das Versprechen haben wir den Bürger*innen immer gegeben."
+            "Wird es seinen Aktivist*innen und Helfenden, auch wo sie Staatsoberhäupter sind wie Idi Amin in Uganda oder Muammar el-Ghaddafi in Libyen, endlich an den Kragen gehen?",
+            "Wird es seinen Aktivist*innen und Helfer*innen, auch wo sie Staatsoberhäupter sind wie Idi Amin in Uganda oder Muammar el-Ghaddafi in Libyen, endlich an den Kragen gehen?"
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 36,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Universität hat rund 22.000 Studenten.\nGender inclusive:",
+        "idx": 95,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die negativen Erfahrungen aus der jüngsten Vergangenheit mit dem zu erwartenden Teilnehmerkreis aus der \"Querdenker-Szene\", rechtfertige die Annahme, dass gerade an den prominenten Orten der Stadt die notwendigen Hygienemaßnahmen nicht eingehalten würden, so das Oberverwaltungsgericht.\nGender inclusive:",
         "targets": [
-            "Die Universität hat rund 22.000 Studierende.",
-            "Die Universität hat rund 22.000 Student*innen."
+            "Die negativen Erfahrungen aus der jüngsten Vergangenheit mit dem zu erwartenden Teilnehmer*innenkreis aus der \"Querdenker-Szene\", rechtfertige die Annahme, dass gerade an den prominenten Orten der Stadt die notwendigen Hygienemaßnahmen nicht eingehalten würden, so das Oberverwaltungsgericht.",
+            "Die negativen Erfahrungen aus der jüngsten Vergangenheit mit dem zu erwartenden Teilnehmendenkreis aus der \"Querdenker-Szene\", rechtfertige die Annahme, dass gerade an den prominenten Orten der Stadt die notwendigen Hygienemaßnahmen nicht eingehalten würden, so das Oberverwaltungsgericht."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 195,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Bei den Benutzern hieß dieses hilfreiche Kompendium schlicht die \"Hütte\".\nGender inclusive:",
+        "idx": 112,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Jeder kam mit seinem Bündel nationaler Sorgen und Wünsche angereist...\nGender inclusive:",
         "targets": [
-            "Bei den Benutzenden hieß dieses hilfreiche Kompendium schlicht die \"Hütte\".",
-            "Bei den Benutzer*innen hieß dieses hilfreiche Kompendium schlicht die \"Hütte\"."
+            "Jede*r kam mit seinem * ihrem Bündel nationaler Sorgen und Wünsche angereist...",
+            "Jede*r kam mit seinem*ihrem Bündel nationaler Sorgen und Wünsche angereist..."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 52,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Die Hedgefondsmanager kritisieren zudem ExxonMobils bisherige Klimaschutzmaßnahmen.\nGender inclusive:",
+        "idx": 132,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Mädchen mit losem Lebenswandel geschieht nichts – es sei denn, dass man versucht, sie Ausländern und solchen Studenten fernzuhalten, deren Leistungen zu wünschen übriglassen.\nGender inclusive:",
         "targets": [
-            "Die Hedgefondsmanager*innen kritisieren zudem ExxonMobils bisherige Klimaschutzmaßnahmen."
+            "Mädchen mit losem Lebenswandel geschieht nichts – es sei denn, dass man versucht, sie Ausländer*innen und solchen Studierenden fernzuhalten, deren Leistungen zu wünschen übriglassen.",
+            "Mädchen mit losem Lebenswandel geschieht nichts – es sei denn, dass man versucht, sie Ausländer*innen und solchen Student*innen fernzuhalten, deren Leistungen zu wünschen übriglassen."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 149,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Und die geforderte zentrale Auswahl der Bundestagskandidaten (zur qualitativen Verbesserung der Fraktion) ist schon im Parteistatut geregelt.\nGender inclusive:",
+        "idx": 115,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Je schwieriger die Lage im mittleren Osten für die Westmächte wird und je mehr die Russen von jenem Gegensatz profitieren, den sie seinerzeit durch ihre Zustimmung zum Teilungsplan der Vereinten Nationen selber heraufbeschwören halfen, desto anziehender muss verlegenen Diplomaten jede Idee erscheinen, die den Weg von dem unbehaglichen und ständig durch Zwischenfälle gefährdeten – Waffenstillstand im Heiligen Land zu einem Kompromissfrieden freizulegen verspricht.\nGender inclusive:",
         "targets": [
-            "Und die geforderte zentrale Auswahl der Bundestagskandidat*innen (zur qualitativen Verbesserung der Fraktion) ist schon im Parteistatut geregelt."
+            "Je schwieriger die Lage im mittleren Osten für die Westmächte wird und je mehr die Russ*innen von jenem Gegensatz profitieren, den sie seinerzeit durch ihre Zustimmung zum Teilungsplan der Vereinten Nationen selber heraufbeschwören halfen, desto anziehender muss verlegenen Diplomat*innen jede Idee erscheinen, die den Weg von dem unbehaglichen und ständig durch Zwischenfälle gefährdeten – Waffenstillstand im Heiligen Land zu einem Kompromissfrieden freizulegen verspricht."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
     },
     {
-        "idx": 48,
-        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Beim Film und beim Theater gibt's ja immer einen Regisseur, der mir sagt, was ich machen soll.\nGender inclusive:",
+        "idx": 30,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Mexikos Präsident Andres Manuel Lopez Obrador hat sich im Namen des Staates für ein Massaker an Chinesen vor 110 Jahren entschuldigt.\nGender inclusive:",
         "targets": [
-            "Beim Film und beim Theater gibt's ja immer eine*n Regisseur*in, der * die mir sagt, was ich machen soll.",
-            "Beim Film und beim Theater gibt's ja immer eine*n Regisseur*in, der*die mir sagt, was ich machen soll."
+            "Mexikos Präsident Andres Manuel Lopez Obrador hat sich im Namen des Staates für ein Massaker an Chines*innen vor 110 Jahren entschuldigt."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 63,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Es geht dabei neben dem Verdacht auf Volksverhetzung auch um den Verdacht der öffentlichen Aufforderung zu Straftaten und Widerstand gegen Vollstreckungsbeamte.\nGender inclusive:",
+        "targets": [
+            "Es geht dabei neben dem Verdacht auf Volksverhetzung auch um den Verdacht der öffentlichen Aufforderung zu Straftaten und Widerstand gegen Vollstreckungsbeamt*innen."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 57,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Voraussetzung für das Shoppen ist eine nach Ladengröße begrenzte Kundenzahl und die Abgabe persönlicher Daten.\nGender inclusive:",
+        "targets": [
+            "Voraussetzung für das Shoppen ist eine nach Ladengröße begrenzte Kund*innenzahl und die Abgabe persönlicher Daten."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 16,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Der Verfassungskonvent soll eine neue Verfassung vorlegen, über die die Chilenen wiederum in einem Referendum dann abstimmen werden.\nGender inclusive:",
+        "targets": [
+            "Der Verfassungskonvent soll eine neue Verfassung vorlegen, über die die Chilen*innen wiederum in einem Referendum dann abstimmen werden."
+        ],
+        "multiple_choice_targets": [],
+        "multiple_choice_scores": []
+    },
+    {
+        "idx": 86,
+        "inputs": "Given a German language sentence that does not use gender-inclusive forms, transform it so that it uses gender-inclusive forms using the '*' character or other gender-neutral terms.\nNon-gender-inclusive: Beim Finale des 65. Eurovision Song Contest treten Interpreten aus 26 Ländern auf.\nGender inclusive:",
+        "targets": [
+            "Beim Finale des 65. Eurovision Song Contest treten Interpret*innen aus 26 Ländern auf."
         ],
         "multiple_choice_targets": [],
         "multiple_choice_scores": []
