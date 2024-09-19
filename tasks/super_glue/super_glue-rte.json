@@ -1,0 +1,122 @@
+[
+    {
+        "premise": "In addition to data bases and publicity, stolen art is recovered when someone seeks appraisal or offers it for sale to dealers or auction houses, responds to a reward offer, attempts to remove it through customs, or requests a ransom for the art.",
+        "hypothesis": "Centralized inventory records for museums aid in theft awareness.",
+        "idx": 1770,
+        "label": 1
+    },
+    {
+        "premise": "Valero Energy Corp., on Monday, said it found \"extensive\" additional damage at its 250,000-barrel-per-day Port Arthur refinery.",
+        "hypothesis": "Valero Energy Corp. is the owner of Port Arthur refinery.",
+        "idx": 931,
+        "label": 0
+    },
+    {
+        "premise": "Only a week after it had no comment on upping the storage capacity of its Hotmail e-mail service, Microsoft early Thursday announced it was boosting the allowance to 250MB to follow similar moves by rivals such as Google, Yahoo, and Lycos.",
+        "hypothesis": "Microsoft's Hotmail has raised its storage capacity to 250MB.",
+        "idx": 9,
+        "label": 0
+    },
+    {
+        "premise": "Fest : \"In the Name of the Father\" an Academy Award contender starring Daniel Day-Lewis as a man wrongly convicted for an IRA bombing, won the Golden Bear Award for best picture Monday at the Berlin International Film Festival.",
+        "hypothesis": "The Berlin International Film Festival awards the Golden Bear.",
+        "idx": 2281,
+        "label": 0
+    },
+    {
+        "premise": "A unique feature of previous Ebola outbreaks has been the relative sparing of children. For the first time, an out break of an unusual illness-Ebola haemorrhagic fever occurred in Northern Uganda - Gulu district.",
+        "hypothesis": "Ebola Epidemic breaks out in Zaire.",
+        "idx": 201,
+        "label": 1
+    },
+    {
+        "premise": "In 1979, the very first cases of AIDS appeared in New York. Cases of the disease that had never been seen prior to 1979, but is now considered more deadly than the bubonic plague, continued to surface in California and New York, almost exclusively in homosexual men.",
+        "hypothesis": "AIDS spreads in Africa.",
+        "idx": 2137,
+        "label": 1
+    },
+    {
+        "premise": "Analysts expected the company to earn $1.42 a share on revenue of $3.82 billion, according to a Thomson Financial survey.",
+        "hypothesis": "Analysts had expected revenue of $3.8 billion, according to Reuters estimates.",
+        "idx": 1683,
+        "label": 1
+    },
+    {
+        "premise": "The Rock and Roll Hall Of Fame and Museum opened the nation's first major John Lennon retrospective Thursday (October 19) with a gala party attended by his widow, Yoko Ono.",
+        "hypothesis": "Yoko Ono is John Lennon's widow.",
+        "idx": 1232,
+        "label": 0
+    },
+    {
+        "premise": "It's Biodiesel, and Bio-Beetle is the first all-BD rental car company.",
+        "hypothesis": "Biodiesel produces the 'Beetle'.",
+        "idx": 1058,
+        "label": 1
+    },
+    {
+        "premise": "The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq.",
+        "hypothesis": "The terrorist may have caused suicide attacks and kidnappings.",
+        "idx": 1906,
+        "label": 0
+    },
+    {
+        "premise": "Former Peruvian President Alberto Fujimori has been sentenced to 25 years in jail for ordering killings and kidnappings by security forces. At the end of a 15-month trial, judges found him guilty of two death-squad killings of 25 people during the conflict with guerrillas in the 1990s. After being sentenced, Mr Fujimori said he would appeal against the verdict. Human rights group Amnesty International described the verdict as \"a milestone in the fight for justice\".",
+        "hypothesis": "Alberto Fujimori has been sentenced to life in prison.",
+        "idx": 1825,
+        "label": 1
+    },
+    {
+        "premise": "Parviz Davudi was representing Iran at a meeting of the Shanghai Co-operation Organisation (SCO), the fledgling association that binds Russia, China and four former Soviet republics of central Asia together to fight terrorism.",
+        "hypothesis": "China is a member of SCO.",
+        "idx": 1743,
+        "label": 0
+    },
+    {
+        "premise": "The London Eye in London, England sits 443ft over the River Thames. It has attracted more than 27 million visitors since its formal opening on December 31, 1999. Each compartment is set to be air-conditioned and hold up to 30 people. Three possible locations for the wheel to sit have been selected. This is not the first attempt by the Iraqi Tourism Board to bring tourists into the capital. The board are seeking investors for a resort island. The island would include a six star hotel and a 18 hole golf course.",
+        "hypothesis": "The River Thames flows through London.",
+        "idx": 615,
+        "label": 0
+    },
+    {
+        "premise": "Although Eurodisney is a great family day out, visit also the chateaux in the area and the various parks and pretty small villages.",
+        "hypothesis": "EuroDisney is located in the various parks.",
+        "idx": 761,
+        "label": 1
+    },
+    {
+        "premise": "Gabriel Garcia Marquez was a liberal thinker whose left-wing politics angered many conservative politicians and heads of state. His job as a reporter for the Cuban news agency Prensa Latina, in 1960, and and friendship with Fidel Castro resulted in his being ultimately denied entry to the United States for political reasons.",
+        "hypothesis": "Gabriel Garcia Marquez was a conservative politician.",
+        "idx": 236,
+        "label": 1
+    },
+    {
+        "premise": "Scott's execution led to outrage in Ontario, and was largely responsible for prompting the Wolseley Expedition, which forced Louis Riel, now branded a murderer, to flee the settlement.",
+        "hypothesis": "Scott's execution caused the Wolseley Expedition.",
+        "idx": 208,
+        "label": 0
+    },
+    {
+        "premise": "Budapest consists of two parts, Buda and Pest, which are situated on opposite sides of the river and connected by a series of bridges.",
+        "hypothesis": "Budapest consists of two principal parts that were merged in 1873.",
+        "idx": 677,
+        "label": 1
+    },
+    {
+        "premise": "The group, along with a broad coalition of disarmament, environmental, peace, and religious organizations, expects the boycott to put pressure on French companies to exert their economic influence and encourage Chirac to end all nuclear weapons testing.",
+        "hypothesis": "International pressure is exerted to end French nuclear tests.",
+        "idx": 743,
+        "label": 0
+    },
+    {
+        "premise": "It would create an underclass of illiterate and impoverished residents, deprived of basic skills, including English-language skills, necessary for the integration of immigrant children into our society and our work force.",
+        "hypothesis": "Language skills are a means of social integration.",
+        "idx": 2222,
+        "label": 0
+    },
+    {
+        "premise": "Following the Declaration of the Establishment of the State of Israel, May 14, 1948, seven Arab states entered Palestine and engaged Israeli forces.",
+        "hypothesis": "Israeli forces attacked seven Arab states in 1948.",
+        "idx": 2327,
+        "label": 1
+    }
+]

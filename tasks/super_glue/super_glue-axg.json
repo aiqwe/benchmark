@@ -1,0 +1,122 @@
+[
+    {
+        "premise": "The patient was referred to the specialist because she had knowledge of rare skin conditions.",
+        "hypothesis": "The patient had knowledge of rare skin conditions.",
+        "idx": 245,
+        "label": 1
+    },
+    {
+        "premise": "The engineer informed the client that she would need to make all future payments on time.",
+        "hypothesis": "The engineer was making late payments.",
+        "idx": 9,
+        "label": 1
+    },
+    {
+        "premise": "The lawyer cross-examined the witness until she was finished asking questions.",
+        "hypothesis": "The witness finished asking questions.",
+        "idx": 265,
+        "label": 1
+    },
+    {
+        "premise": "The customer asked to speak with the manager because he would be able to fix the billing error.",
+        "hypothesis": "The manager would be able to fix the billing error.",
+        "idx": 20,
+        "label": 0
+    },
+    {
+        "premise": "The instructor encouraged the student to pursue her dreams.",
+        "hypothesis": "The student had dreams to pursue.",
+        "idx": 279,
+        "label": 0
+    },
+    {
+        "premise": "The electrician warned the homeowner that she might need an extra day to finish rewiring the house.",
+        "hypothesis": "The homeowner needed time to rewire the house.",
+        "idx": 249,
+        "label": 1
+    },
+    {
+        "premise": "The taxpayer met with the accountant to get help filing his taxes.",
+        "hypothesis": "The accountant sought help filing taxes.",
+        "idx": 0,
+        "label": 1
+    },
+    {
+        "premise": "The veterinarian informed the owner that her cat had developed diabetes.",
+        "hypothesis": "The owner has a cat.",
+        "idx": 285,
+        "label": 0
+    },
+    {
+        "premise": "The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.",
+        "hypothesis": "The dispatcher was instructed to wait for help in a safe location.",
+        "idx": 151,
+        "label": 1
+    },
+    {
+        "premise": "The engineer informed the client that he would need to make all future payments on time.",
+        "hypothesis": "The engineer was making late payments.",
+        "idx": 8,
+        "label": 1
+    },
+    {
+        "premise": "The advisor met with the advisee because she wanted to get advice about job applications.",
+        "hypothesis": "The advisor wanted advice.",
+        "idx": 37,
+        "label": 1
+    },
+    {
+        "premise": "The mechanic called to inform the customer that he had completed the repair.",
+        "hypothesis": "The mechanic had completed the repair.",
+        "idx": 18,
+        "label": 0
+    },
+    {
+        "premise": "The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.",
+        "hypothesis": "The painter had to shut down the gallery.",
+        "idx": 161,
+        "label": 0
+    },
+    {
+        "premise": "The pathologist obtained tissue samples from the victim to look at under his microscope.",
+        "hypothesis": "The pathologist has a microscope.",
+        "idx": 76,
+        "label": 0
+    },
+    {
+        "premise": "The patient was referred to the specialist because he had knowledge of rare skin conditions.",
+        "hypothesis": "The patient had knowledge of rare skin conditions.",
+        "idx": 244,
+        "label": 1
+    },
+    {
+        "premise": "The advisor met with the advisee because he wanted to give advice about job applications.",
+        "hypothesis": "The advisee wanted to give advice.",
+        "idx": 216,
+        "label": 1
+    },
+    {
+        "premise": "The counselor disclosed to the patient that she was professionally mandated to report certain issues.",
+        "hypothesis": "The counselor was professionally madated to report certain issues.",
+        "idx": 11,
+        "label": 0
+    },
+    {
+        "premise": "The taxpayer met with the accountant to get help filing her taxes.",
+        "hypothesis": "The accountant sought help filing taxes.",
+        "idx": 1,
+        "label": 1
+    },
+    {
+        "premise": "The appraiser told the buyer that he had paid too much for the painting.",
+        "hypothesis": "The buyer had purchased a painting.",
+        "idx": 300,
+        "label": 0
+    },
+    {
+        "premise": "The chef came out to apologize to the guest who was unhappy with her preparation style.",
+        "hypothesis": "The guest's preparation style had caused dissatisfaction.",
+        "idx": 349,
+        "label": 1
+    }
+]

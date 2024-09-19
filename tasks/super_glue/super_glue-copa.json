@@ -1,0 +1,162 @@
+[
+    {
+        "premise": "The man dropped food on the floor.",
+        "choice1": "His dog jumped up on him.",
+        "choice2": "His dog ran over to eat the food.",
+        "question": "effect",
+        "idx": 77,
+        "label": 1
+    },
+    {
+        "premise": "The child disobeyed her parents.",
+        "choice1": "Her parents hugged her.",
+        "choice2": "Her parents punished her.",
+        "question": "effect",
+        "idx": 226,
+        "label": 1
+    },
+    {
+        "premise": "The boat capsized.",
+        "choice1": "The captain raised the sail.",
+        "choice2": "It was caught in a hurricane.",
+        "question": "cause",
+        "idx": 178,
+        "label": 1
+    },
+    {
+        "premise": "The woman hummed to herself.",
+        "choice1": "She was nervous.",
+        "choice2": "She was in a good mood.",
+        "question": "cause",
+        "idx": 30,
+        "label": 1
+    },
+    {
+        "premise": "I received a package in the mail.",
+        "choice1": "The package triggered my curiosity.",
+        "choice2": "I took the package to the post office.",
+        "question": "effect",
+        "idx": 112,
+        "label": 0
+    },
+    {
+        "premise": "I lingered in bed upon awakening.",
+        "choice1": "I was hungry.",
+        "choice2": "It was Saturday.",
+        "question": "cause",
+        "idx": 330,
+        "label": 1
+    },
+    {
+        "premise": "My favorite song came on the radio.",
+        "choice1": "I covered my ears.",
+        "choice2": "I sang along to it.",
+        "question": "effect",
+        "idx": 41,
+        "label": 1
+    },
+    {
+        "premise": "The woman upgraded her computer hardware.",
+        "choice1": "She deleted old files on the computer.",
+        "choice2": "She installed new software on the computer.",
+        "question": "effect",
+        "idx": 187,
+        "label": 1
+    },
+    {
+        "premise": "The milk stayed cold.",
+        "choice1": "It was pasteurized.",
+        "choice2": "I stored it in the refrigerator.",
+        "question": "cause",
+        "idx": 338,
+        "label": 1
+    },
+    {
+        "premise": "The customer thought the souvenir was overpriced.",
+        "choice1": "The vender sold it to him.",
+        "choice2": "He bargained with the vendor.",
+        "question": "effect",
+        "idx": 321,
+        "label": 1
+    },
+    {
+        "premise": "I held the door for the woman entering behind me.",
+        "choice1": "The door slammed shut.",
+        "choice2": "The woman thanked me.",
+        "question": "effect",
+        "idx": 140,
+        "label": 1
+    },
+    {
+        "premise": "The audience booed the comedian off the stage.",
+        "choice1": "He told a racist joke.",
+        "choice2": "He entertained the audience.",
+        "question": "cause",
+        "idx": 159,
+        "label": 0
+    },
+    {
+        "premise": "The woman stayed away from public places.",
+        "choice1": "She was contagious.",
+        "choice2": "She was intoxicated.",
+        "question": "cause",
+        "idx": 353,
+        "label": 0
+    },
+    {
+        "premise": "The woman's eyeglasses fogged up.",
+        "choice1": "She reclined by the pool.",
+        "choice2": "She entered the sauna.",
+        "question": "cause",
+        "idx": 279,
+        "label": 1
+    },
+    {
+        "premise": "I needed to get cash.",
+        "choice1": "I went to the bank.",
+        "choice2": "I bought a wallet.",
+        "question": "effect",
+        "idx": 334,
+        "label": 0
+    },
+    {
+        "premise": "The security guard replayed the surveillance footage.",
+        "choice1": "The surveillance camera was out of focus.",
+        "choice2": "He noticed some suspicious activity.",
+        "question": "cause",
+        "idx": 329,
+        "label": 1
+    },
+    {
+        "premise": "The dust came off the desk.",
+        "choice1": "I wiped the desk with a cloth.",
+        "choice2": "I removed the books from the desk.",
+        "question": "cause",
+        "idx": 169,
+        "label": 0
+    },
+    {
+        "premise": "The security guard replayed the surveillance footage.",
+        "choice1": "The surveillance camera was out of focus.",
+        "choice2": "He noticed some suspicious activity.",
+        "question": "cause",
+        "idx": 329,
+        "label": 1
+    },
+    {
+        "premise": "The product was heavily advertised.",
+        "choice1": "Consumers recognized the product.",
+        "choice2": "The product became outdated.",
+        "question": "effect",
+        "idx": 129,
+        "label": 0
+    },
+    {
+        "premise": "The inside of the train went dark.",
+        "choice1": "The train travelled through a tunnel.",
+        "choice2": "The train ran off the tracks.",
+        "question": "cause",
+        "idx": 122,
+        "label": 0
+    }
+]

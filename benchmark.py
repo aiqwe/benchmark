@@ -8,32 +8,59 @@ from textwrap import dedent, indent
 import requests
 
 from loguru import logger
-from datasets import load_dataset
-from pygments import highlight, lexers, formatters
-from yaml import load_all, CLoader as Loader
+from datasets import load_dataset, get_dataset_config_names
+from pygments import highlight, lexers, formatters, styles
+from yaml import load_all, dump, CLoader as Loader
 from fsspec.implementations.github import GithubFileSystem
 from fsspec.implementations.local import LocalFileSystem
 
 from template import README_TEMPLATE
 
 
-def show(obj, colored: bool = True):
+def get_all_pygments():
+    all_lexers = lexers.get_all_lexers()
+    all_formatters = formatters.get_all_formatters()
+    all_styles = styles.get_all_styles()
+    return {
+        "lexers": list(all_lexers),
+        "formatters": list(all_formatters),
+        "styles": list(all_styles),
+    }
+
+
+def show(obj, lexer: str = None, formatter: str = None, style: str = None):
     """indent 넣어서 이쁘게 프린트해주기"""
-    encoded = json.dumps(obj, indent=4, ensure_ascii=False)
-    if colored:
-        encoded = highlight(
-            encoded,
-            lexer=lexers.JsonLexer(),
-            formatter=formatters.Terminal256Formatter(style="one-dark"),
-        )
+    if not lexer:
+        lexer = "json"
+
+    if lexer == "json":
+        obj = json.dumps(obj, indent=4, ensure_ascii=False)
+    lexer = lexers.find_lexer_class_by_name(lexer)
+
+    if not formatter:
+        formatter = "terminal256"
+    formatter = formatters.find_formatter_class(formatter)
+
+    if not style:
+        style = "one-dark"
+
+    encoded = highlight(
+        obj,
+        lexer=lexer(),
+        formatter=formatter(style=style),
+    )
     print(encoded)
 
 
 class Config:
-    def __init__(self, path: str = "config.yaml"):
+    def __init__(self, path: str = None):
+        if not path:
+            path = os.path.dirname(__file__)
+            path = os.path.join(path, "config.yaml")
         with open(path, "r") as f:
             file = f.read()
             conf = list(load_all(file, Loader=Loader))[0]
+        self.raw_config = conf
         self.config = {k: v for k, v in conf.items() if not k.startswith("default")}
         for k, v in self.config.items():
             setattr(self, k, v)
@@ -138,6 +165,12 @@ class Config:
                 f.write(guide_doc_md)
                 logger.info(f"{guide_doc}을 초기화합니다")
 
+    def get_config(self, key: str, print_yaml=False, update=True):
+        hf_name = get_dataset_config_names(self.config[key]["hf_path"])
+        if print_yaml:
+            print(f"  hf_name:\n{indent(dump(hf_name), '    ')}")
+        return hf_name
+
     def __len__(self):
         return len(self.get_all_names())
 
@@ -145,7 +178,7 @@ class Config:
         return self.config[key]
 
     def __repr__(self):
-        return "Benchmark List:\n{}\n---------- More details in self.config".format(
+        return "Benchmark List:\n{}\n\n---------- More details in self.config".format(
             "\n".join([f"  - {name}" for name in self.get_all_names()])
         )
 
@@ -220,7 +253,6 @@ class HFReader:
         sample: dict = None,
         category: str = None,
         idx: int = None,
-        colored=True,
     ):
         """
         Sample 1개를 JSON indent = 4로 보여줌
@@ -240,7 +272,7 @@ class HFReader:
 
         if not idx:
             idx = random.randint(0, len(samples) - 1)
-        show(samples[idx], colored=colored)
+        show(samples[idx])
 
     def save(
         self,
@@ -272,6 +304,34 @@ class HFReader:
             logger.info(f"{path}에 저장합니다.")
             logger.info(f"{len(samples)}의 샘플이 저장됩니다.")
             json.dump(samples, f, ensure_ascii=False, indent=4)
+
+    def save_all(
+        self,
+        split: str = None,
+        samples: list = None,
+        path: str = None,
+        category: str = None,
+    ):
+        if self.hf_name_list:
+            for hf_name in self.hf_name_list:
+                instance = HFReader(benchmark_name=self.benchmark_name, hf_name=hf_name)
+                instance.save(
+                    split=split, samples=samples, path=path, category=category
+                )
+        else:
+            self.save(split=split, samples=samples, path=path, category=category)
+
+    def show_all(
+        self,
+        split: str = None,
+        sample: dict = None,
+        category: str = None,
+        idx: int = None,
+    ):
+        if self.hf_name_list:
+            for hf_name in self.hf_name_list:
+                instance = HFReader(benchmark_name=self.benchmark_name, hf_name=hf_name)
+                instance.show(split=split, sample=sample, category=category, idx=idx)
 
     def __repr__(self):
         return f"{self.repr}"

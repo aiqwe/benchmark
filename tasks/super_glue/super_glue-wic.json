@@ -1,0 +1,222 @@
+[
+    {
+        "word": "glimpse",
+        "sentence1": "From the window he could catch a glimpse of the lake.",
+        "sentence2": "I only got a glimpse of the car, so I can tell you the colour but not the registration number.",
+        "start1": 33,
+        "start2": 13,
+        "end1": 40,
+        "end2": 20,
+        "idx": 4215,
+        "label": 0
+    },
+    {
+        "word": "plane",
+        "sentence1": "Any line joining two points on a plane lies wholly on that plane.",
+        "sentence2": "We will refer to the plane of the graph as the X-Y plane.",
+        "start1": 33,
+        "start2": 21,
+        "end1": 38,
+        "end2": 26,
+        "idx": 375,
+        "label": 1
+    },
+    {
+        "word": "stay",
+        "sentence1": "Stay alone.",
+        "sentence2": "I can only stay for an hour.",
+        "start1": 0,
+        "start2": 11,
+        "end1": 4,
+        "end2": 15,
+        "idx": 2813,
+        "label": 1
+    },
+    {
+        "word": "rest",
+        "sentence1": "The ocean was finally at rest.",
+        "sentence2": "A body will continue in a state of rest until acted upon.",
+        "start1": 25,
+        "start2": 35,
+        "end1": 29,
+        "end2": 39,
+        "idx": 162,
+        "label": 1
+    },
+    {
+        "word": "connect",
+        "sentence1": "This computer will connect well to the network.",
+        "sentence2": "Our computers connected together.",
+        "start1": 19,
+        "start2": 14,
+        "end1": 26,
+        "end2": 23,
+        "idx": 3342,
+        "label": 1
+    },
+    {
+        "word": "strike",
+        "sentence1": "Strike fire from the flintstone.",
+        "sentence2": "The boxer struck the attacker dead.",
+        "start1": 0,
+        "start2": 10,
+        "end1": 6,
+        "end2": 16,
+        "idx": 4865,
+        "label": 0
+    },
+    {
+        "word": "haul",
+        "sentence1": "Haul nets.",
+        "sentence2": "Haul stones.",
+        "start1": 0,
+        "start2": 0,
+        "end1": 4,
+        "end2": 4,
+        "idx": 270,
+        "label": 1
+    },
+    {
+        "word": "voice",
+        "sentence1": "The noisy voice of the waterfall.",
+        "sentence2": "The incessant voices of the artillery.",
+        "start1": 10,
+        "start2": 14,
+        "end1": 15,
+        "end2": 20,
+        "idx": 4330,
+        "label": 1
+    },
+    {
+        "word": "make",
+        "sentence1": "Don't make this into a big deal.",
+        "sentence2": "He made a fool of himself at the meeting.",
+        "start1": 6,
+        "start2": 3,
+        "end1": 10,
+        "end2": 7,
+        "idx": 4205,
+        "label": 1
+    },
+    {
+        "word": "lie",
+        "sentence1": "Lie dormant.",
+        "sentence2": "The book lies on the table.",
+        "start1": 0,
+        "start2": 9,
+        "end1": 3,
+        "end2": 13,
+        "idx": 306,
+        "label": 0
+    },
+    {
+        "word": "set",
+        "sentence1": "Set the table.",
+        "sentence2": "Set the tray down.",
+        "start1": 0,
+        "start2": 0,
+        "end1": 3,
+        "end2": 3,
+        "idx": 4963,
+        "label": 0
+    },
+    {
+        "word": "resolution",
+        "sentence1": "Printing at higher resolution will cause a reduction in performance.",
+        "sentence2": "The resolution of an equation.",
+        "start1": 19,
+        "start2": 4,
+        "end1": 29,
+        "end2": 14,
+        "idx": 1105,
+        "label": 0
+    },
+    {
+        "word": "make",
+        "sentence1": "He didn't make the choir after his voice changed.",
+        "sentence2": "He made twenty bucks playing poker last night.",
+        "start1": 10,
+        "start2": 3,
+        "end1": 14,
+        "end2": 7,
+        "idx": 2187,
+        "label": 1
+    },
+    {
+        "word": "match",
+        "sentence1": "These two copies are supposed to be identical, but they don't match.",
+        "sentence2": "Match my sweater.",
+        "start1": 62,
+        "start2": 0,
+        "end1": 67,
+        "end2": 5,
+        "idx": 1339,
+        "label": 0
+    },
+    {
+        "word": "break",
+        "sentence1": "He finally got his big break.",
+        "sentence2": "It was presented without commercial breaks.",
+        "start1": 23,
+        "start2": 36,
+        "end1": 28,
+        "end2": 42,
+        "idx": 4944,
+        "label": 0
+    },
+    {
+        "word": "help",
+        "sentence1": "Can you help me carry this table?",
+        "sentence2": "Everyone helped out during the earthquake.",
+        "start1": 8,
+        "start2": 9,
+        "end1": 12,
+        "end2": 15,
+        "idx": 3983,
+        "label": 1
+    },
+    {
+        "word": "raise",
+        "sentence1": "To raise somebody to office.",
+        "sentence2": "Chew with your mouth shut -- were you raised in a barn?",
+        "start1": 3,
+        "start2": 38,
+        "end1": 8,
+        "end2": 44,
+        "idx": 3975,
+        "label": 1
+    },
+    {
+        "word": "business",
+        "sentence1": "They did nearly a million dollars of business over the long weekend.",
+        "sentence2": "Business has been slow lately.",
+        "start1": 37,
+        "start2": 0,
+        "end1": 45,
+        "end2": 8,
+        "idx": 3889,
+        "label": 1
+    },
+    {
+        "word": "hit",
+        "sentence1": "Where am I going to get my next hit?",
+        "sentence2": "After three misses she finally got a hit.",
+        "start1": 32,
+        "start2": 37,
+        "end1": 35,
+        "end2": 40,
+        "idx": 5341,
+        "label": 0
+    },
+    {
+        "word": "round",
+        "sentence1": "Round off the amount.",
+        "sentence2": "The total is $25,715 but to keep the figures simple, I'll round it down to $25,000.",
+        "start1": 0,
+        "start2": 58,
+        "end1": 5,
+        "end2": 63,
+        "idx": 1164,
+        "label": 1
+    }
+]

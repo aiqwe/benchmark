@@ -1,0 +1,1568 @@
+[
+    {
+        "passage": "The owner of this waterlogged camera must have thought it was gone for ever, along with his precious holiday pictures, when he dropped it in the ocean. But a year later a diver spotted it rusting away in the depths and rescued it. Even more astonishingly, he was able to recover the pictures and post them on Google+. Now, thanks to the wonders of social networking, the owner - an unnamed Canadian fireman - has his holiday photos back. Wildlife photographer Markus Thompson was scuba diving off Vancouver, British Columbia, when he stumbled upon the strange sight – an expensive digital camera lodged in Deep Bay.\n@highlight\nWildlife photographer found Canon EOS 1000D while scuba diving\n@highlight\nPosted photos retrieved from memory card on Google+ to track down owner\n@highlight\nOwner identified as firefighter from British Columbia",
+        "query": "He then posted messages on Google+ asking if anyone had accidentally dropped the @placeholder.",
+        "entities": [
+            "British Columbia",
+            "Markus Thompson",
+            "Canon EOS 1000D",
+            "Canadian",
+            "Google+",
+            "Vancouver"
+        ],
+        "entity_spans": {
+            "text": [
+                "Google+",
+                "Canadian",
+                "Markus Thompson",
+                "Vancouver",
+                "Canon EOS 1000D",
+                "Google+",
+                "British Columbia"
+            ],
+            "start": [
+                309,
+                390,
+                460,
+                497,
+                655,
+                745,
+                821
+            ],
+            "end": [
+                316,
+                398,
+                475,
+                506,
+                670,
+                752,
+                837
+            ]
+        },
+        "answers": [
+            "Canon EOS 1000D"
+        ],
+        "idx": {
+            "passage": 11494,
+            "query": 17796
+        }
+    },
+    {
+        "passage": "(CNN) -- A woman to woman talk between Oprah Winfrey and the former head of her South African girls school ended with the settlement of a defamation lawsuit against the talk show host, their lawyers said. Lerato Nomvuyo Mzamane sued Winfrey, contending she defamed Mzamane when talking about an abuse scandal at the school she ran in 2007. The case was set for trial in Philadelphia, Pennsylvania, starting March 29. \"The two parties met woman to woman without their lawyers and are happy that they could resolve this dispute peacefully to their mutual satisfaction,\" the attorneys said in a joint statement Tuesday.\n@highlight\nThe talk show host founded a girls leadership school in South Africa in 2007\n@highlight\nLerato Nomvuyo Mzamane was suspended, later fired after student complaints of abuse\n@highlight\nMzamane claimed in lawsuit that Oprah Winfrey has defamed her\n@highlight\nThe two women meet without their lawyers and agree to settle lawsuit",
+        "query": "\"Ms. @placeholder testified in her deposition that she did not intend the implications placed on her words by the plaintiff,\" the joint statement said.",
+        "entities": [
+            "Philadelphia",
+            "Pennsylvania",
+            "Lerato Nomvuyo Mzamane",
+            "Oprah Winfrey",
+            "CNN",
+            "South Africa",
+            "South African",
+            "Winfrey",
+            "Mzamane"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Oprah Winfrey",
+                "South African",
+                "Lerato Nomvuyo Mzamane",
+                "Winfrey",
+                "Mzamane",
+                "Philadelphia",
+                "Pennsylvania",
+                "South Africa",
+                "Lerato Nomvuyo Mzamane",
+                "Mzamane",
+                "Oprah Winfrey"
+            ],
+            "start": [
+                1,
+                39,
+                80,
+                205,
+                233,
+                265,
+                370,
+                384,
+                684,
+                716,
+                811,
+                843
+            ],
+            "end": [
+                4,
+                52,
+                93,
+                227,
+                240,
+                272,
+                382,
+                396,
+                696,
+                738,
+                818,
+                856
+            ]
+        },
+        "answers": [
+            "Oprah Winfrey",
+            "Winfrey"
+        ],
+        "idx": {
+            "passage": 52398,
+            "query": 80485
+        }
+    },
+    {
+        "passage": "By Matt Chorley, Mailonline Political Editor and Mario Ledwith Outspoken: John Major said he was appalled that 'every single sphere of British influence' was dominated by people who went to private school Britain is run by privately-educated elite, former Prime Minister Sir John Major has warned in a dramatic warning about the difficulties for poor children to get on in life. The Conservative grandee said the dominance of the wealthy and well-educated  in the ‘upper echelons’ of public life was ‘truly shocking’. His remarks were seen as a thinly-veiled reference to the wealthy backgrounds of David Cameron's government, in contrast to Sir John's own upbringing in a rented flat in Brixton, South London.\n@highlight\nSir John Major says Labour left 'Victorian divide' between rich and poor\n@highlight\nBut his comments will also embarrass to Eton-educated David Cameron\n@highlight\nSir John grew up in a flat in South London and went to a comprehensive",
+        "query": "‘We may be unsettled by them, but @placeholder and his colleagues have no choice but to deal with this new world.",
+        "entities": [
+            "David Cameron",
+            "Mario Ledwith",
+            "Eton",
+            "British",
+            "Mailonline Political Editor",
+            "Conservative",
+            "South London",
+            "Labour",
+            "Victorian",
+            "Matt Chorley",
+            "John",
+            "John Major",
+            "Britain",
+            "Brixton"
+        ],
+        "entity_spans": {
+            "text": [
+                "Matt Chorley",
+                "Mailonline Political Editor",
+                "Mario Ledwith",
+                "John Major",
+                "British",
+                "Britain",
+                "John Major",
+                "Conservative",
+                "David Cameron",
+                "John",
+                "Brixton",
+                "South London",
+                "John Major",
+                "Labour",
+                "Victorian",
+                "Eton",
+                "David Cameron",
+                "John",
+                "South London"
+            ],
+            "start": [
+                3,
+                17,
+                49,
+                74,
+                135,
+                205,
+                275,
+                383,
+                599,
+                646,
+                688,
+                697,
+                726,
+                742,
+                755,
+                846,
+                860,
+                889,
+                915
+            ],
+            "end": [
+                15,
+                44,
+                62,
+                84,
+                142,
+                212,
+                285,
+                395,
+                612,
+                650,
+                695,
+                709,
+                736,
+                748,
+                764,
+                850,
+                873,
+                893,
+                927
+            ]
+        },
+        "answers": [
+            "David Cameron"
+        ],
+        "idx": {
+            "passage": 57315,
+            "query": 87974
+        }
+    },
+    {
+        "passage": "(CNN) -- Spain have drawn level with Brazil's record by going 35 matches unbeaten, after second-half goals from David Villa and Fernando Llorente gave them a 2-0 Confederations Cup victory over host nation South Africa in Bloemfontein. The South African players appeal for handball as David Villa celebrates Spain's opening goal on Saturday. The result ensures the European champions comfortably reach the semifinals of the competition as group winners, while South Africa also progress to the last four after New Zealand and Iraq draw 0-0 in Saturday's other Group A match in Johannesburg. Vicente Del Bosque's side were last beaten in November 2006 and they will better Brazil's unbeaten streak, achieved between 1993 and 1996, if they win Wednesday's semifinal.\n@highlight\nSpain extend their unbeaten run to 35 matches with 2-0 win over South Africa\n@highlight\nThe European champions win all three of their Confederation Cup group games\n@highlight\nSpain will set a new record of 36 unbeaten matches if they win their semifinal",
+        "query": "Despite the defeat, @placeholder's participation in the tournament remains very much alive after Iraq and New Zealand played out a dull stalemate.",
+        "entities": [
+            "David Villa",
+            "Confederations Cup",
+            "Confederation Cup",
+            "European",
+            "Group A",
+            "Johannesburg",
+            "Bloemfontein",
+            "New Zealand",
+            "Iraq",
+            "Fernando Llorente",
+            "CNN",
+            "Spain",
+            "South Africa",
+            "Vicente Del Bosque",
+            "South African",
+            "Brazil"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Spain",
+                "Brazil",
+                "David Villa",
+                "Fernando Llorente",
+                "Confederations Cup",
+                "South Africa",
+                "Bloemfontein",
+                "South African",
+                "David Villa",
+                "Spain",
+                "European",
+                "South Africa",
+                "New Zealand",
+                "Iraq",
+                "Group A",
+                "Johannesburg",
+                "Vicente Del Bosque",
+                "Brazil",
+                "Spain",
+                "South Africa",
+                "European",
+                "Confederation Cup",
+                "Spain"
+            ],
+            "start": [
+                1,
+                9,
+                37,
+                112,
+                128,
+                162,
+                206,
+                222,
+                240,
+                285,
+                308,
+                365,
+                460,
+                510,
+                526,
+                560,
+                577,
+                591,
+                672,
+                776,
+                840,
+                868,
+                910,
+                951
+            ],
+            "end": [
+                4,
+                14,
+                43,
+                123,
+                145,
+                180,
+                218,
+                234,
+                253,
+                296,
+                313,
+                373,
+                472,
+                521,
+                530,
+                567,
+                589,
+                609,
+                678,
+                781,
+                852,
+                876,
+                927,
+                956
+            ]
+        },
+        "answers": [
+            "South Africa"
+        ],
+        "idx": {
+            "passage": 3924,
+            "query": 6004
+        }
+    },
+    {
+        "passage": "Masked men with metal rods and Molotov cocktails prowl the Russian flag-draped balcony, surveying the crowds below. Stacks of tires topped with ribbons of razor wire line a makeshift barricade around the main entrance. Two days after smashing their way in, hundreds of protesters have transformed this government building in the industrial city of Donetsk, eastern Ukraine, into the self-declared \"People's Republic of Donetsk.\" From the clumsily erected bulwarks to the lack of a leader or concrete plan, the scenes are similar to the pro-European rallies in Kiev's Maidan Square in recent months, with one major difference: Many of these protesters say they want to join Russia and have called for a referendum on secession from Ukraine to be held by May 11.\n@highlight\nHundreds of protesters seize a government building in Donetsk, eastern Ukraine\n@highlight\nThey declare \"People's Republic of Donetsk,\" call for referendum to secede from Ukraine\n@highlight\nUkrainian military says it won't retake building yet, but acting President warns of prosecutions\n@highlight\nUkrainian President Oleksandr Turchynov accuses Russia of stoking eastern Ukraine tensions",
+        "query": "When the power went out Monday night, many inside believed @placeholder's special forces were coming to retake the building.",
+        "entities": [
+            "Russian",
+            "Molotov",
+            "Kiev",
+            "Russia",
+            "Ukrainian",
+            "Donetsk",
+            "Oleksandr Turchynov",
+            "People's Republic",
+            "Ukraine",
+            "Maidan Square"
+        ],
+        "entity_spans": {
+            "text": [
+                "Molotov",
+                "Russian",
+                "Donetsk",
+                "Ukraine",
+                "People's Republic",
+                "Donetsk",
+                "Kiev",
+                "Maidan Square",
+                "Russia",
+                "Ukraine",
+                "Donetsk",
+                "Ukraine",
+                "People's Republic",
+                "Donetsk",
+                "Ukraine",
+                "Ukrainian",
+                "Ukrainian",
+                "Oleksandr Turchynov",
+                "Russia",
+                "Ukraine"
+            ],
+            "start": [
+                31,
+                59,
+                348,
+                365,
+                398,
+                419,
+                560,
+                567,
+                673,
+                731,
+                826,
+                843,
+                876,
+                897,
+                942,
+                961,
+                1069,
+                1089,
+                1117,
+                1143
+            ],
+            "end": [
+                38,
+                66,
+                355,
+                372,
+                415,
+                426,
+                564,
+                580,
+                679,
+                738,
+                833,
+                850,
+                893,
+                904,
+                949,
+                970,
+                1078,
+                1108,
+                1123,
+                1150
+            ]
+        },
+        "answers": [
+            "Ukraine",
+            "Ukrainian"
+        ],
+        "idx": {
+            "passage": 42485,
+            "query": 65327
+        }
+    },
+    {
+        "passage": "By Daily Mail Reporter PUBLISHED: 16:50 EST, 3 March 2013 | UPDATED: 08:27 EST, 4 March 2013 After nearly losing control of their space capsule, private outer space shipping firm SpaceX overcame mechanical difficulties and delivered over a ton of supplies to the eager inhabitants of the International Space Station. To NASA's relief, when the company's unmanned Dragon capsule pulled up to the space lab 250 miles about Ukraine, all its systems were in perfect order. However, the timing could have been a bit better. Coming a full day late, the linkup was the culmination of a two-day chase that got off to a shaky, almost dead-ending start.\n@highlight\n250 miles high, the SpaceX company's Dragon capsule had NASA holding its breath during two day chase due to solar panel malfunction\n@highlight\nThis was the leading private spaceship company's third docking with the space lab\n@highlight\nRun by billionaire PayPal founder Elon Musk, SpaceX seeks to put people in space by 2015",
+        "query": "@placeholder's shuttles used to be the main haulers for the space station.",
+        "entities": [
+            "Elon Musk",
+            "SpaceX",
+            "PayPal",
+            "NASA",
+            "International Space Station",
+            "Ukraine",
+            "Daily Mail"
+        ],
+        "entity_spans": {
+            "text": [
+                "Daily Mail",
+                "SpaceX",
+                "International Space Station",
+                "NASA",
+                "Ukraine",
+                "SpaceX",
+                "NASA",
+                "PayPal",
+                "Elon Musk",
+                "SpaceX"
+            ],
+            "start": [
+                3,
+                179,
+                288,
+                320,
+                421,
+                675,
+                711,
+                910,
+                925,
+                936
+            ],
+            "end": [
+                13,
+                185,
+                315,
+                324,
+                428,
+                681,
+                715,
+                916,
+                934,
+                942
+            ]
+        },
+        "answers": [
+            "NASA"
+        ],
+        "idx": {
+            "passage": 3200,
+            "query": 4935
+        }
+    },
+    {
+        "passage": "Gauteng, South Africa (CNN)\"I was in a position to see exactly what happens in the human hand. I got the basics of what it's all about and thought yeah, I'll make my own.\" Richard van As is recalling the moment in May 2011 when he sat in a Johannesburg hospital waiting to hear if his fingers could be stitched back on. Just an hour earlier, he had been in his carpentry workshop sawing wood when the saw slipped and ripped diagonally through the four fingers on his right hand. \"It all happened too quickly to know what actually happened,\" he remembers.\n@highlight\nRobohand makes cheap artificial hands and arms using 3-D printers\n@highlight\nFounder Richard van As lost four fingers in a carpentry accident\n@highlight\nRobohand's designs are open source so others can download and print them",
+        "query": "The simplicity of the ordering process has led to demand outstripping what @placeholder can supply, with requests for limbs coming from almost every country around the globe.",
+        "entities": [
+            "Gauteng",
+            "Robohand",
+            "Richard van As",
+            "Johannesburg",
+            "CNN",
+            "South Africa"
+        ],
+        "entity_spans": {
+            "text": [
+                "Gauteng",
+                "South Africa",
+                "CNN",
+                "Richard van As",
+                "Johannesburg",
+                "Robohand",
+                "Richard van As",
+                "Robohand"
+            ],
+            "start": [
+                0,
+                9,
+                23,
+                172,
+                240,
+                566,
+                651,
+                719
+            ],
+            "end": [
+                7,
+                21,
+                26,
+                186,
+                252,
+                574,
+                665,
+                727
+            ]
+        },
+        "answers": [
+            "Robohand"
+        ],
+        "idx": {
+            "passage": 43804,
+            "query": 67309
+        }
+    },
+    {
+        "passage": "(CNN) -- The new video released by Boko Haram leader Abubakar Shekau makes a simple demand: He won't release the more than 200 schoolgirls his group abducted from a school northern Nigeria \"until after you release our brethren.\" The \"brethren\" he refers to include several hundred Boko Haram fighters, including key commanders, currently held in jails in Nigeria, as well as in Niger and Cameroon. It is a demand that he has made before, and a demand that, crucially, the Nigerian government has at least once conceded. Almost exactly a year ago, fighters from Boko Haram entered a dusty town close to the border with Cameroon. They headed for the police station, army barracks and prison buildings. The dawn raid on May 7, 2013, on the town of Bama left more than 100 people dead, including many civilians. The Boko Haram fighters freed about 100 inmates from the prison.\n@highlight\nBoko Haram demands release of its fighters for return of abducted Nigerian schoolgirls\n@highlight\nBoko Haram has kidnapped before and Nigeria has conceded at least once\n@highlight\nA raid on a town last year freed inmates, and Boko Haram took about a dozen hostages\n@highlight\nNigeria freed wives and children of Boko Haram members in return for the hostages",
+        "query": "Zenn said \"Shekau wants all @placeholder prisoners freed because they because they will have renewed loyalty to him, and him alone\" after internal rifts in 2012 and 2013.",
+        "entities": [
+            "Cameroon",
+            "Bama",
+            "Nigeria",
+            "Boko Haram",
+            "Niger",
+            "Nigerian",
+            "CNN",
+            "Abubakar Shekau"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Boko Haram",
+                "Abubakar Shekau",
+                "Nigeria",
+                "Boko Haram",
+                "Nigeria",
+                "Niger",
+                "Cameroon",
+                "Nigerian",
+                "Boko Haram",
+                "Cameroon",
+                "Bama",
+                "Boko Haram",
+                "Boko Haram",
+                "Nigerian",
+                "Boko Haram",
+                "Nigeria",
+                "Boko Haram",
+                "Nigeria",
+                "Boko Haram"
+            ],
+            "start": [
+                1,
+                35,
+                53,
+                181,
+                281,
+                355,
+                378,
+                388,
+                472,
+                561,
+                618,
+                745,
+                812,
+                884,
+                950,
+                982,
+                1018,
+                1110,
+                1160,
+                1196
+            ],
+            "end": [
+                4,
+                45,
+                68,
+                188,
+                291,
+                362,
+                383,
+                396,
+                480,
+                571,
+                626,
+                749,
+                822,
+                894,
+                958,
+                992,
+                1025,
+                1120,
+                1167,
+                1206
+            ]
+        },
+        "answers": [
+            "Boko Haram"
+        ],
+        "idx": {
+            "passage": 14148,
+            "query": 21783
+        }
+    },
+    {
+        "passage": "By Daily Mail Reporter Controversy: David Cameron characterised Britain as a 'Christian country' in a recent article David Cameron's controversial claim that Britain is a 'Christian country' risks sowing 'alienation and division' in society, a group of leading public figures has warned. More than 50 writers, scientists, broadcasters and academics have signed an open letter expressing concern at the 'negative consequences' of the Prime Minister's assertion in a country where most people do not describe themselves as Christian. Signatories of the letter, published in The Daily Telegraph, include the authors Philip Pullman and Sir Terry Pratchett; broadcasters Dan Snow and Nick Ross, the philosopher AC Grayling; and the human rights activist Peter Tatchell.\n@highlight\n50 liberals signed open letter over concerns about Cameron's assertion\n@highlight\nPM characterised Britain as a 'Christian country' in recent article\n@highlight\nLetter signed by Philip Pullman, Sir Terry Pratchett and Dan Snow",
+        "query": "The letter said that Mr Cameron was wrong to 'exceptionalise' the contributions made to society by @placeholder when they are equalled by those of people with different beliefs.",
+        "entities": [
+            "David Cameron",
+            "Christian",
+            "Nick Ross",
+            "Cameron",
+            "AC Grayling",
+            "PM",
+            "Peter Tatchell",
+            "Philip Pullman",
+            "The Daily Telegraph",
+            "Britain",
+            "Terry Pratchett",
+            "Dan Snow",
+            "Daily Mail"
+        ],
+        "entity_spans": {
+            "text": [
+                "Daily Mail",
+                "David Cameron",
+                "Britain",
+                "David Cameron",
+                "Britain",
+                "Christian",
+                "The Daily Telegraph",
+                "Philip Pullman",
+                "Terry Pratchett",
+                "Dan Snow",
+                "Nick Ross",
+                "AC Grayling",
+                "Peter Tatchell",
+                "Cameron",
+                "PM",
+                "Britain",
+                "Philip Pullman",
+                "Terry Pratchett",
+                "Dan Snow"
+            ],
+            "start": [
+                3,
+                36,
+                64,
+                117,
+                158,
+                521,
+                572,
+                613,
+                636,
+                666,
+                679,
+                706,
+                749,
+                827,
+                858,
+                875,
+                954,
+                974,
+                994
+            ],
+            "end": [
+                13,
+                49,
+                71,
+                130,
+                165,
+                530,
+                591,
+                627,
+                651,
+                674,
+                688,
+                717,
+                763,
+                834,
+                860,
+                882,
+                968,
+                989,
+                1002
+            ]
+        },
+        "answers": [
+            "Christian"
+        ],
+        "idx": {
+            "passage": 39473,
+            "query": 60715
+        }
+    },
+    {
+        "passage": "(CNN)If you don't know who Stuart Scott was, those who do will likely point you to one particular speech to share why his death reverberates so strongly across the country. Scott, a veteran anchor on ESPN, died Sunday after a seven-year battle with cancer. He was 49. He built a career as a sports anchor, but his eloquent observations on his battle with cancer, and the encouragement and motivation to others fighting the disease, made him a role model. Opinion: Why Scott was a game changer \"When you die, that does not mean you lose to cancer,\" Scott said in the July speech at the ESPY Awards. \"You beat cancer by how you live, why you live and the manner in which you live.\"\n@highlight\nStuart Scott dies Sunday after a lengthy battle with cancer\n@highlight\nHe was seen as an inspiration by many\n@highlight\nA speech he gave last year showed his motivation for fighting",
+        "query": "\"Our colleague, our friend, and our inspiration Stuart Scott passed away earlier today,\" @placeholder's Hannah Storm said.",
+        "entities": [
+            "Scott",
+            "Stuart Scott",
+            "ESPY Awards",
+            "ESPN",
+            "CNN"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Stuart Scott",
+                "Scott",
+                "ESPN",
+                "Scott",
+                "Scott",
+                "ESPY Awards",
+                "Stuart Scott"
+            ],
+            "start": [
+                1,
+                27,
+                173,
+                200,
+                468,
+                548,
+                585,
+                691
+            ],
+            "end": [
+                4,
+                39,
+                178,
+                204,
+                473,
+                553,
+                596,
+                703
+            ]
+        },
+        "answers": [
+            "ESPN"
+        ],
+        "idx": {
+            "passage": 54508,
+            "query": 83715
+        }
+    },
+    {
+        "passage": "By Ryan Gorman A four-month old baby is dead and her father is being held in jail on a $1million bond. Halo Stutzman, of South Bend, Indiana, died Sunday morning after spending two days on life support as a result of what police believe is a series of beatings from father Bryan Michel. The newborn had skull fractures, a traumatic brain injury, bleeding behind the eyes, bruises all over her body and broken ribs at different stages of healing, according to an affidavit. Write caption here Authorities say Michel, 22, originally lied about the tot’s injuries, saying another child – who is 18 months old – pulled Halo off the couch and caused the injuries, WSBT reported, citing the affidavit.\n@highlight\nHalo Stutzman died at an Indiana hospital after two days on life support\n@highlight\nFather Bryan Michel, 22, initially tried to blame the injuries on an 18-month-old sibling\n@highlight\nHe then claimed to have hurt the baby by dropping and falling on her during a bath",
+        "query": "The five-foot eight-inch tall, 150-pound @placeholder was watching the now deceased baby and Stutzman’s two other children while she worked.",
+        "entities": [
+            "Bryan Michel",
+            "Indiana",
+            "Halo",
+            "South Bend",
+            "Michel",
+            "Halo Stutzman",
+            "WSBT",
+            "Ryan Gorman"
+        ],
+        "entity_spans": {
+            "text": [
+                "Ryan Gorman",
+                "Halo Stutzman",
+                "South Bend",
+                "Indiana",
+                "Bryan Michel",
+                "Michel",
+                "Halo",
+                "WSBT",
+                "Halo Stutzman",
+                "Indiana",
+                "Bryan Michel"
+            ],
+            "start": [
+                3,
+                103,
+                121,
+                133,
+                273,
+                508,
+                615,
+                659,
+                707,
+                732,
+                798
+            ],
+            "end": [
+                14,
+                116,
+                131,
+                140,
+                285,
+                514,
+                619,
+                663,
+                720,
+                739,
+                810
+            ]
+        },
+        "answers": [
+            "Bryan Michel",
+            "Michel"
+        ],
+        "idx": {
+            "passage": 62865,
+            "query": 96450
+        }
+    },
+    {
+        "passage": "Alex Rodriguez is back on the market. The New York Yankees star has called it quits with wrestler girlfriend Torrie Wilson after three years of dating. This as many close to the couple point to Rodriguez's failure to commit and his close relationship with his ex-wife as a constant source of fighting for the couple. Scroll down for video Alex Rodriguez and Torrie Wilson (above) have called it quits after three years of dating Sources claim the couple had been fighting more, especially over Rodriguez's continued close relationship with ex-wife Cynthia Scurtis (above) 'Alex and Torrie would fight over his flirtations with other women, and he wasn’t ready to settle down again,' a source told Page Six.\n@highlight\nNew York Yankees slugger Alex Rodriguez has called it quits with wrestler girlfriend Torrie Wilson after three years\n@highlight\nSources claim the two were fighting about his inability to commit and his close relationship with ex-wife Cynthia Scurtis\n@highlight\nScurtis, a psychologist and the mother of Rodriguez's two daughters, recently became engaged\n@highlight\nRodriguez is now focused on baseball, having sat out the past two seasons due to injury and a suspension for using banned substances\n@highlight\nPrior to Wilson, Rodriguez dated Cameron Diaz, Madonna and Kate Hudson\n@highlight\nWilson plans to stay in Los Angeles and work on her acting career",
+        "query": "Rodriguez and Wilson began dating in late 2011,  and, as in many of his past relationships with woman such as Cameron Diaz and @placeholder, they were frequently spotted working out together.",
+        "entities": [
+            "Cynthia Scurtis",
+            "Torrie",
+            "Page Six",
+            "Torrie Wilson",
+            "Scurtis",
+            "Kate Hudson",
+            "Madonna",
+            "New York Yankees",
+            "Alex Rodriguez",
+            "Wilson",
+            "Los Angeles",
+            "Alex",
+            "Cameron Diaz",
+            "Rodriguez"
+        ],
+        "entity_spans": {
+            "text": [
+                "Alex Rodriguez",
+                "New York Yankees",
+                "Torrie Wilson",
+                "Rodriguez",
+                "Alex Rodriguez",
+                "Torrie Wilson",
+                "Rodriguez",
+                "Cynthia Scurtis",
+                "Alex",
+                "Torrie",
+                "Page Six",
+                "New York Yankees",
+                "Alex Rodriguez",
+                "Torrie Wilson",
+                "Cynthia Scurtis",
+                "Scurtis",
+                "Rodriguez",
+                "Rodriguez",
+                "Wilson",
+                "Rodriguez",
+                "Cameron Diaz",
+                "Madonna",
+                "Kate Hudson",
+                "Wilson",
+                "Los Angeles"
+            ],
+            "start": [
+                0,
+                42,
+                109,
+                194,
+                339,
+                358,
+                494,
+                548,
+                573,
+                582,
+                697,
+                718,
+                743,
+                803,
+                952,
+                979,
+                1021,
+                1083,
+                1236,
+                1244,
+                1260,
+                1274,
+                1286,
+                1309,
+                1333
+            ],
+            "end": [
+                14,
+                58,
+                122,
+                203,
+                353,
+                371,
+                503,
+                563,
+                577,
+                588,
+                705,
+                734,
+                757,
+                816,
+                967,
+                986,
+                1030,
+                1092,
+                1242,
+                1253,
+                1272,
+                1281,
+                1297,
+                1315,
+                1344
+            ]
+        },
+        "answers": [
+            "Madonna"
+        ],
+        "idx": {
+            "passage": 13456,
+            "query": 20758
+        }
+    },
+    {
+        "passage": "A grandmother has been reunited with her French penpal 40 years after the pair lost touch – after bumping into her at an Aldi supermarket. Sue Ellis, 60, recognised her former penpal Yvette Pearson when she overheard her Parisian accent while waiting at the checkout of her local Aldi store in Hednesford, Staffordshire. Incredibly, the women, who wrote to each other for four years when they were teenagers in the late 1960s, discovered they had both moved to the same town and were living just one mile apart. Scroll down for video Sue Ellis, 60 (left), recognised her penpal from the late 1960s, Yvette Pearson, also 60 (right), when she overheard her Parisian accent while waiting at the checkout of an Aldi store in Hednesford, Staffordshire\n@highlight\nSue Ellis, 60, recognised former penpal Yvette Pearson at Aldi checkout\n@highlight\nThe pair became penfriends during late 1960s when they were teenagers\n@highlight\nMs Ellis, from West Midlands, wrote to Mrs Pearson while she lived in Paris\n@highlight\nSpent years exchanging heartfelt letters and photos before losing contact\n@highlight\nMrs Pearson moved to Staffordshire in 2013 but didn't track Ms Ellis down\n@highlight\nThey only re-discovered each other after Ms Ellis overheard friend in Aldi\n@highlight\nHave now reignited friendship after realising they live just one mile apart",
+        "query": "Mrs @placeholder, who works as a French teacher, added: 'Sue came over to me as she'd seen me come out of the shop on her way in and watched me for a while to make sure it was me.",
+        "entities": [
+            "French",
+            "Staffordshire",
+            "Hednesford",
+            "Parisian",
+            "Ellis",
+            "Pearson",
+            "Sue Ellis",
+            "Aldi",
+            "Paris",
+            "West Midlands",
+            "Yvette Pearson"
+        ],
+        "entity_spans": {
+            "text": [
+                "French",
+                "Aldi",
+                "Sue Ellis",
+                "Yvette Pearson",
+                "Parisian",
+                "Aldi",
+                "Hednesford",
+                "Staffordshire",
+                "Sue Ellis",
+                "Yvette Pearson",
+                "Parisian",
+                "Aldi",
+                "Hednesford",
+                "Staffordshire",
+                "Sue Ellis",
+                "Yvette Pearson",
+                "Aldi",
+                "Ellis",
+                "West Midlands",
+                "Pearson",
+                "Paris",
+                "Pearson",
+                "Staffordshire",
+                "Ellis",
+                "Ellis",
+                "Aldi"
+            ],
+            "start": [
+                41,
+                121,
+                139,
+                183,
+                221,
+                280,
+                294,
+                306,
+                534,
+                599,
+                655,
+                707,
+                721,
+                733,
+                758,
+                798,
+                816,
+                925,
+                937,
+                965,
+                992,
+                1098,
+                1115,
+                1157,
+                1223,
+                1249
+            ],
+            "end": [
+                47,
+                125,
+                148,
+                197,
+                229,
+                284,
+                304,
+                319,
+                543,
+                613,
+                663,
+                711,
+                731,
+                746,
+                767,
+                812,
+                820,
+                930,
+                950,
+                972,
+                997,
+                1105,
+                1128,
+                1162,
+                1228,
+                1253
+            ]
+        },
+        "answers": [
+            "Pearson",
+            "Yvette Pearson"
+        ],
+        "idx": {
+            "passage": 43504,
+            "query": 66860
+        }
+    },
+    {
+        "passage": "(CNN) -- \"Sitting in class, second grade, teachers would put me outside the hallway because I had been ticking so loud I was a 'distraction,'\" recalled 25-year-old Amber Comfort. \"Teachers would walk by me back and forth and say 'you'd better stop that before you get into my class next year.' Things that were just completely obscene, that you would never expect the world to be, and I had to deal with on a daily basis.\" From the age of five, Comfort has suffered from Tourette's syndrome, a neurological disorder that causes her to make involuntary movements and loud noises, known as tics.\n@highlight\nTourette syndrome causes sufferers to make involuntary movements and noises\n@highlight\nDeep brain stimulation could help with the disorder\n@highlight\nSmall electrodes are implanted into the brain to stimulate affected regions\n@highlight\nAmerican Tourette's sufferer Amber Comfort has pioneering surgery",
+        "query": "But she has not let @placeholder's dictate how she lives.",
+        "entities": [
+            "Tourette",
+            "Comfort",
+            "CNN",
+            "Amber Comfort",
+            "American Tourette"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Amber Comfort",
+                "Comfort",
+                "Tourette",
+                "American Tourette",
+                "Amber Comfort"
+            ],
+            "start": [
+                1,
+                164,
+                445,
+                471,
+                842,
+                871
+            ],
+            "end": [
+                4,
+                177,
+                452,
+                479,
+                859,
+                884
+            ]
+        },
+        "answers": [
+            "American Tourette",
+            "Tourette"
+        ],
+        "idx": {
+            "passage": 65340,
+            "query": 100187
+        }
+    },
+    {
+        "passage": "(CNN) -- Cambodia will accept refugees seeking asylum in Australia in return for A$40 million ($35 million) in aid, under a controversial, open-ended deal that has been criticized as \"a new low\" in Australia's treatment of asylum seekers. Australia's Immigration Minister Scott Morrison was in Phnom Penh Friday to sign the agreement, as protesters there demonstrated outside the Australian Embassy. \"Cambodia is poor... can't help the refugees from Australia,\" read one placard. Before his departure, Morrison told Australian public broadcaster ABC that the deal would initially apply to refugees being held on Australia's offshore detention center on Nauru, more than 200 of whom had been granted refugee status.\n@highlight\nAustralia has struck a deal with Cambodia to settle refugees in the southeast Asian nation\n@highlight\nIn return, Australia will contribute millions of dollars in additional aid\n@highlight\nThe plan has been slammed by advocate groups who say Cambodia is ill-equipped to host\n@highlight\nThey say the refugees will lead endangered lives on the margins of society in Cambodia",
+        "query": "More than 1,200 asylum seekers are currently detained in @placeholder, with 250 status determinations carried out to date.",
+        "entities": [
+            "Cambodia",
+            "Phnom Penh",
+            "Australia",
+            "Nauru",
+            "Australian",
+            "Asian",
+            "Morrison",
+            "ABC",
+            "CNN",
+            "Scott Morrison"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Cambodia",
+                "Australia",
+                "Australia",
+                "Australia",
+                "Scott Morrison",
+                "Phnom Penh",
+                "Australian",
+                "Cambodia",
+                "Australia",
+                "Morrison",
+                "Australian",
+                "ABC",
+                "Australia",
+                "Nauru",
+                "Australia",
+                "Cambodia",
+                "Asian",
+                "Australia",
+                "Cambodia",
+                "Cambodia"
+            ],
+            "start": [
+                1,
+                9,
+                57,
+                198,
+                239,
+                272,
+                294,
+                380,
+                401,
+                450,
+                502,
+                516,
+                546,
+                612,
+                653,
+                726,
+                759,
+                804,
+                839,
+                967,
+                1089
+            ],
+            "end": [
+                4,
+                17,
+                66,
+                207,
+                248,
+                286,
+                304,
+                390,
+                409,
+                459,
+                510,
+                526,
+                549,
+                621,
+                658,
+                735,
+                767,
+                809,
+                848,
+                975,
+                1097
+            ]
+        },
+        "answers": [
+            "Nauru"
+        ],
+        "idx": {
+            "passage": 36077,
+            "query": 55510
+        }
+    },
+    {
+        "passage": "Famed thrill-seeking surfer Laird Hamilton helped rescue a man who was caught fighting for his life in historically powerful waves off the Malibu coast on Wednesday. Hamilton, a big-wave chaser known for taking on the world's largest breakers, was at the surf mecca to experience the 20 foot waves kicked up by Hurricane Marie circling miles offshore. Unfortunately, so was the inexperienced surfer he ended up rescuing after the man lost his board and was swept dangerously close to rocks. Scroll down for video Tropical storm Marie, off the west coast of Baja California, brought big surf to southern California beaches on Tuesday and Wednesday. The big wave swell prompted surfers and onlookers to south facing beaches like The Wedge in Newport Beach\n@highlight\nLaird Hamilton plucked the inexperienced surfer out of the chilly Pacific early on Wednesday morning\n@highlight\nSurfers have swarmed to Southern California beaches where the biggest waves in decades are crashing thanks to Hurricane Marie miles offshore\n@highlight\nAt least 60 people were rescued from the dangerous waters in Malibu as hundreds of people looked on (including surf fan, actor Gerard Butler)",
+        "query": "@placeholder has made for wild surfing conditions but has led to some narrow escapes for those more inexperienced",
+        "entities": [
+            "The Wedge",
+            "Gerard Butler",
+            "California",
+            "Hurricane Marie",
+            "Malibu",
+            "Hamilton",
+            "Marie",
+            "Pacific",
+            "Southern California",
+            "Laird Hamilton",
+            "Newport Beach",
+            "Baja California"
+        ],
+        "entity_spans": {
+            "text": [
+                "Laird Hamilton",
+                "Malibu",
+                "Hamilton",
+                "Hurricane Marie",
+                "Marie",
+                "Baja California",
+                "California",
+                "The Wedge",
+                "Newport Beach",
+                "Laird Hamilton",
+                "Pacific",
+                "Southern California",
+                "Hurricane Marie",
+                "Malibu",
+                "Gerard Butler"
+            ],
+            "start": [
+                28,
+                139,
+                166,
+                311,
+                528,
+                557,
+                603,
+                727,
+                740,
+                765,
+                831,
+                901,
+                987,
+                1090,
+                1156
+            ],
+            "end": [
+                42,
+                145,
+                174,
+                326,
+                533,
+                572,
+                613,
+                736,
+                753,
+                779,
+                838,
+                920,
+                1002,
+                1096,
+                1169
+            ]
+        },
+        "answers": [
+            "Hurricane Marie",
+            "Marie"
+        ],
+        "idx": {
+            "passage": 21065,
+            "query": 32436
+        }
+    },
+    {
+        "passage": "(CNN) -- There is a lot to be said for enjoying the work that you do. \"Downtime would probably just get me into trouble,\" Freddie Roach said jokingly. Roach, one of the most sought-after boxing trainers in the sport, loves coming to work each and every day, and he says it's that passion that helps him deal with Parkinson's disease. \"I have a job I like to go to, and not everyone in the world can say that,\" he said. The five-time trainer of the year has worked with the likes of Mike Tyson, Oscar De La Hoya and James Toney. But his star pupil by far is current World Boxing Organization welterweight champion Manny Pacquiao.\n@highlight\n5-time boxing trainer of the year Freddie Roach has Parkinson's disease\n@highlight\nRoach says staying busy, doing what he loves is the best medicine for him\n@highlight\n\"I don't want anyone feeling sorry for me. I have a great life,\" Roach says",
+        "query": "\"It's fun to be busy, because it keeps me from letting the @placeholder's take over.",
+        "entities": [
+            "Freddie Roach",
+            "Parkinson",
+            "James Toney",
+            "Roach",
+            "Mike Tyson",
+            "Parkinson's disease",
+            "Oscar De La Hoya",
+            "CNN",
+            "World Boxing Organization",
+            "Manny Pacquiao"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Freddie Roach",
+                "Roach",
+                "Parkinson's disease",
+                "Mike Tyson",
+                "Oscar De La Hoya",
+                "James Toney",
+                "World Boxing Organization",
+                "Manny Pacquiao",
+                "Freddie Roach",
+                "Parkinson",
+                "Roach",
+                "Roach"
+            ],
+            "start": [
+                1,
+                122,
+                151,
+                313,
+                482,
+                494,
+                515,
+                565,
+                613,
+                674,
+                692,
+                723,
+                873
+            ],
+            "end": [
+                4,
+                135,
+                156,
+                332,
+                492,
+                510,
+                526,
+                590,
+                627,
+                687,
+                701,
+                728,
+                878
+            ]
+        },
+        "answers": [
+            "Parkinson",
+            "Parkinson's disease"
+        ],
+        "idx": {
+            "passage": 33759,
+            "query": 51892
+        }
+    },
+    {
+        "passage": "Cairo (CNN) -- Former Egyptian President Hosni Mubarak was admitted to a hospital Tuesday after complaining to his doctor that he felt unwell, according to a spokesman for the Egyptian military. A military source said Mubarak's condition was stable, not critical, and that his wife and elder son were with him. Egyptian state television reported Mubarak suffered a heart attack during questioning over possible corruption charges. When contacted by CNN, however, the prosecutor's office denied any reports Mubarak had been questioned by authorities Tuesday. Egypt's health minister, Ashraf Hatem, later said that Mubarak's condition was stable enough to allow prosecutors to resume questioning at the hospital, according to the state-owned Al Ahram newspaper.\n@highlight\nNEW: Questioning of Mubarak over corruption charges has begun, military says\n@highlight\nEgyptian state television reports Mubarak had a heart attack\n@highlight\nMubarak has had health problems in the recent past\n@highlight\nMubarak stepped down from power on February 11",
+        "query": "Mubarak was brought to @placeholder for questioning last month, and Egypt's attorney general issued an order to freeze the assets of Mubarak and his family, and prohibited them from leaving the country.",
+        "entities": [
+            "Egypt",
+            "Al Ahram",
+            "Egyptian",
+            "Cairo",
+            "Hosni Mubarak",
+            "Mubarak",
+            "CNN",
+            "Ashraf Hatem"
+        ],
+        "entity_spans": {
+            "text": [
+                "Cairo",
+                "CNN",
+                "Egyptian",
+                "Hosni Mubarak",
+                "Egyptian",
+                "Mubarak",
+                "Egyptian",
+                "Mubarak",
+                "CNN",
+                "Mubarak",
+                "Egypt",
+                "Ashraf Hatem",
+                "Mubarak",
+                "Al Ahram",
+                "Mubarak",
+                "Egyptian",
+                "Mubarak",
+                "Mubarak",
+                "Mubarak"
+            ],
+            "start": [
+                0,
+                7,
+                22,
+                41,
+                176,
+                218,
+                311,
+                346,
+                449,
+                506,
+                558,
+                583,
+                613,
+                740,
+                791,
+                859,
+                893,
+                931,
+                993
+            ],
+            "end": [
+                5,
+                10,
+                30,
+                54,
+                184,
+                225,
+                319,
+                353,
+                452,
+                513,
+                563,
+                595,
+                620,
+                748,
+                798,
+                867,
+                900,
+                938,
+                1000
+            ]
+        },
+        "answers": [
+            "Cairo"
+        ],
+        "idx": {
+            "passage": 37712,
+            "query": 58057
+        }
+    },
+    {
+        "passage": "(CNN) -- His declaration grabbed the ear: I am the son of a mass murderer whose dark deeds and enigmatic identity spawned silver screen thrillers. I am the son of the Zodiac Killer. Gary Stewart of Baton Rouge, Louisiana, may be the latest person to claim lineage with the infamous psycho murderer who inspired the movies \"Zodiac\" and \"Dirty Harry.\" But he's not the first to say he is descended from a man who police suspect killed five people in northern California in the late 1960s, then taunted the public with creepy letters to the media. Zodiac has never been caught. And he has, in all, 37 people's lives on his conscience, he has said in his cryptic claims of responsibility.\n@highlight\nSurvivor says photo is \"not inconsistent\" with what he saw of killer\n@highlight\nZodiac Killer, who has never been caught, claimed to have killed 37 people\n@highlight\nEach prospective child of Zodiac points to a different man as the killer\n@highlight\nGary Stewart is the latest and has compiled his account into a new book",
+        "query": "Only two people are believed to have survived @placeholder's attacks.",
+        "entities": [
+            "California",
+            "Zodiac Killer",
+            "Zodiac",
+            "Dirty Harry",
+            "Survivor",
+            "Baton Rouge",
+            "CNN",
+            "Gary Stewart",
+            "Louisiana"
+        ],
+        "entity_spans": {
+            "text": [
+                "CNN",
+                "Zodiac Killer",
+                "Gary Stewart",
+                "Baton Rouge",
+                "Louisiana",
+                "Zodiac",
+                "Dirty Harry",
+                "California",
+                "Zodiac",
+                "Survivor",
+                "Zodiac Killer",
+                "Zodiac",
+                "Gary Stewart"
+            ],
+            "start": [
+                1,
+                167,
+                182,
+                198,
+                211,
+                323,
+                336,
+                457,
+                545,
+                696,
+                776,
+                888,
+                946
+            ],
+            "end": [
+                4,
+                180,
+                194,
+                209,
+                220,
+                329,
+                347,
+                467,
+                551,
+                704,
+                789,
+                894,
+                958
+            ]
+        },
+        "answers": [
+            "Zodiac",
+            "Zodiac Killer"
+        ],
+        "idx": {
+            "passage": 64210,
+            "query": 98487
+        }
+    },
+    {
+        "passage": "WASHINGTON (CNN) -- An extended trip to Ecuador by two Americans changed from a dream to a nightmare after a brutal attack last week, according the couple's blog and U.S. officials. State Department spokesman Robert Wood confirmed Tuesday that the U.S. Embassy in Ecuador had been told that two Americans from Bend, Oregon, were attacked in the city of Esmeraldas, on Ecuador's northern coast. But he said he could provide no further information because of privacy laws. Two State Department officials, however, said that the man was stabbed more than 24 times and that his fiancée was beaten and raped.\n@highlight\nU.S. officials say man was stabbed repeatedly, his fiancée raped and beaten\n@highlight\nRelative tells media that couple was attacked on beach in northern Ecuador\n@highlight\nFiancée writes in blog that her companion may not survive despite three surgeries\n@highlight\nState Department site advises caution when traveling to parts of northern Ecuador",
+        "query": "The earlier postings were happier reflections on their visit to @placeholder, a year-long trip they planned after getting engaged and selling all their belongings.",
+        "entities": [
+            "Esmeraldas",
+            "State Department",
+            "Americans",
+            "WASHINGTON",
+            "Robert Wood",
+            "Bend",
+            "U.S.",
+            "Oregon",
+            "CNN",
+            "Ecuador",
+            "Relative",
+            "U.S. Embassy"
+        ],
+        "entity_spans": {
+            "text": [
+                "WASHINGTON",
+                "CNN",
+                "Ecuador",
+                "Americans",
+                "U.S.",
+                "State Department",
+                "Robert Wood",
+                "U.S. Embassy",
+                "Ecuador",
+                "Bend",
+                "Oregon",
+                "Esmeraldas",
+                "Ecuador",
+                "State Department",
+                "U.S.",
+                "Relative",
+                "Ecuador",
+                "State Department",
+                "Ecuador"
+            ],
+            "start": [
+                0,
+                12,
+                40,
+                55,
+                166,
+                182,
+                209,
+                248,
+                264,
+                310,
+                316,
+                353,
+                368,
+                475,
+                615,
+                702,
+                769,
+                881,
+                955
+            ],
+            "end": [
+                10,
+                15,
+                47,
+                64,
+                170,
+                198,
+                220,
+                260,
+                271,
+                314,
+                322,
+                363,
+                375,
+                491,
+                619,
+                710,
+                776,
+                897,
+                962
+            ]
+        },
+        "answers": [
+            "Ecuador"
+        ],
+        "idx": {
+            "passage": 31680,
+            "query": 48652
+        }
+    }
+]

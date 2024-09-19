@@ -1,0 +1,122 @@
+[
+    {
+        "question": "is there an eighth season of game of thrones",
+        "passage": "Game of Thrones (season 8) -- The eighth and final season of the fantasy drama television series Game of Thrones was announced by HBO in July 2016. Unlike the first six seasons that each had ten episodes and the seventh that had seven episodes, the eighth season will have only six episodes. Like the previous season, it will largely consist of original content not found currently in George R.R. Martin's A Song of Ice and Fire series and will also adapt material Martin has revealed to showrunners about the upcoming novels in the series, The Winds of Winter and A Dream of Spring.",
+        "idx": 9416,
+        "label": 1
+    },
+    {
+        "question": "is hair bleach the same as regular bleach",
+        "passage": "Bleach -- Bleach is the generic name for any chemical product which is used industrially and domestically to whiten clothes, lighten hair color and remove stains. It often refers, specifically, to a dilute solution of sodium hypochlorite, also called ``liquid bleach''.",
+        "idx": 6496,
+        "label": 1
+    },
+    {
+        "question": "is moment of inertia the same as rotational inertia",
+        "passage": "Moment of inertia -- The moment of inertia, otherwise known as the angular mass or rotational inertia, of a rigid body is a tensor that determines the torque needed for a desired angular acceleration about a rotational axis; similar to how mass determines the force needed for a desired acceleration. It depends on the body's mass distribution and the axis chosen, with larger moments requiring more torque to change the body's rotation. It is an extensive (additive) property: for a point mass the moment of inertia is just the mass times the square of distance to the rotation axis. The moment of inertia of a rigid composite system is the sum of the moments of inertia of its component subsystems (all taken about the same axis). Its simplest definition is the second moment of mass with respect to distance from an axis. For bodies constrained to rotate in a plane, only their moment of inertia about an axis perpendicular to the plane, a scalar value, matters. For bodies free to rotate in three dimensions, their moments can be described by a symmetric 3 × 3 matrix, with a set of mutually perpendicular principal axes for which this matrix is diagonal and torques around the axes act independently of each other.",
+        "idx": 3011,
+        "label": 1
+    },
+    {
+        "question": "is the statue of liberty a national monument",
+        "passage": "Statue of Liberty National Monument -- The Statue of Liberty National Monument is a United States National Monument located in the U.S. states of New Jersey and New York comprising Liberty Island and Ellis Island. It includes Liberty Enlightening the World, commonly known as the Statue of Liberty, situated on Liberty Island, and the former immigration station at Ellis Island which opened in 1892 and closed in 1954. The monument is managed by the National Park Service as part of the National Parks of New York Harbor office.",
+        "idx": 9150,
+        "label": 1
+    },
+    {
+        "question": "does the boy die in the space between us",
+        "passage": "The Space Between Us (film) -- Before they begin their journey, they make a detour to Las Vegas. Gardner's nose starts to bleed again and he collapses and is taken to a hospital. After seeing the carbon tubes in his bones on the results of an X-ray at the hospital, Tulsa tells Gardner she now believes he was born on Mars, but plans to leave him in the hospital, before foster care can come, as he is too sick to continue their journey. Gardner reveals that he knows he won't last on Earth anymore and all he wants is to meet his father before he dies. Tulsa gives in and helps him escape. They steal a car and drive to the beach house. There, they meet the man from the video, who reveals that he is not Sarah Elliot's husband, but her own brother. However, he thinks that the two are lying to him. Gardner runs down to the sea, where he tells Tulsa that this is where he wants to die. He collapses. Tulsa tries frantically to drag him to the shore, but he is too heavy for her. Nathaniel and Kendra arrive just in time to save him. After Nathaniel performs CPR on him, Gardner asks him about his mother Sarah and reveals that he knows that Nathaniel is his real father. Nathaniel, Kendra and Tulsa rush Gardner to a Dream Chaser. They plan to launch into the stratosphere to stabilize him. When that proves to not be enough, a desperate Nathaniel takes control and launches into outer space. Free of Earth's gravity, Gardner is revived.",
+        "idx": 2016,
+        "label": 0
+    },
+    {
+        "question": "can a bull shark live in fresh water",
+        "passage": "Bull shark -- Bull sharks can thrive in both salt and fresh water and can travel far up rivers. They have been known to travel up the Mississippi River as far as Alton, Illinois, about 700 miles (1100 km) from the ocean. However, few freshwater human-shark interactions have been recorded. Larger-sized bull sharks are probably responsible for the majority of near-shore shark attacks, including many bites attributed to other species.",
+        "idx": 5953,
+        "label": 1
+    },
+    {
+        "question": "is baldur's gate 2 a direct sequel",
+        "passage": "Baldur's Gate II: Shadows of Amn -- Baldur's Gate II: Shadows of Amn is a fantasy role-playing video game developed by BioWare and published by Interplay Entertainment. It is the sequel to Baldur's Gate (1998) and was released for Microsoft Windows in September 2000. Like Baldur's Gate, the game is set in the Forgotten Realms, a fantasy campaign setting, and is based on the Advanced Dungeons & Dragons 2nd edition rules. The game, which is powered by BioWare's Infinity Engine, uses an isometric perspective and pausable real-time gameplay. The player controls a party of up to six characters, one of whom is the player-created protagonist, while the others are certain characters recruited from the game world.",
+        "idx": 8756,
+        "label": 1
+    },
+    {
+        "question": "is there going to be a season 3 of free iwatobi swim club",
+        "passage": "Free! (TV series) -- A 12-episode third season titled Free! Dive to the Future will premiere on July 11, 2018. Eisaku Kawanami will return to direct the new series, while all the staff and cast are set to reprise their roles.",
+        "idx": 1405,
+        "label": 1
+    },
+    {
+        "question": "is mary and the witches flower a ghibli movie",
+        "passage": "Mary and the Witch's Flower -- On review aggregator Rotten Tomatoes, the film has an approval rating of 86% based on 69 reviews, and an average rating of 6.9/10. The website's critical consensus reads, ``Mary and The Witch's Flower honors its creator's Studio Ghibli roots with a gentle, beautifully animated story whose simplicity is rounded out by its entrancing visuals.'' On Metacritic, the film has a weighted average score of 73 out of 100, based on 19 critics, indicating ``generally favorable reviews''.",
+        "idx": 8751,
+        "label": 1
+    },
+    {
+        "question": "did all the soldiers survive in 12 strong",
+        "passage": "12 Strong -- Following Dostum's departure, Nelson plans to continue operating against the Taliban with his Americans and the few Afghan fighters remaining with them. Encountering a large force of Al-Qaeda and Taliban fighters and armored vehicles, ODA 595, rejoined by Diller and his element, uses air support to eliminate many of the fighters and most of the armor, but are discovered and attacked. Spencer is critically injured by a suicide bomber, and the team is about to be overrun under heavy Taliban and Al-Qaeda pressure when Dostum returns with his forces. Carrying out the US Army's first cavalry charge of the 21st century, the American and Northern Alliance forces disperse the Taliban and Al-Qaeda, and Dostum tracks down and kills Razzan. After Spencer is medevaced, Nelson and Dostum continue to Mazar-i-Sharif but find Atta Muhammad has beaten them there. Against expectations, Dostum and Muhammad meet peacefully and put aside their differences. Impressed by Nelson and the Americans' efforts, Dostum gives Nelson his prized riding crop and tells him that he will always consider Nelson a brother and fellow fighter. Spencer ultimately survives, and all 12 soldiers of ODA 595 return home after 23 days of almost continuous fighting in Afghanistan.",
+        "idx": 1453,
+        "label": 1
+    },
+    {
+        "question": "is there such a thing as figgy pudding",
+        "passage": "Figgy pudding -- Figgy pudding is a type of Christmas pudding which was originally made with figs. It may be baked, steamed in the oven, boiled or fried.",
+        "idx": 818,
+        "label": 1
+    },
+    {
+        "question": "are orca whales and killer whales the same thing",
+        "passage": "Killer whale -- The killer whale or orca (Orcinus orca) is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. Killer whales have a diverse diet, although individual populations often specialize in particular types of prey. Some feed exclusively on fish, while others hunt marine mammals such as seals and dolphins. They have been known to attack baleen whale calves, and even adult whales. Killer whales are apex predators, as no animal preys on them. A cosmopolitan species, they can be found in each of the world's oceans in a variety of marine environments, from Arctic and Antarctic regions to tropical seas, absent only from the Baltic and Black seas, and some areas of the Arctic Ocean.",
+        "idx": 882,
+        "label": 1
+    },
+    {
+        "question": "does todd die in fox and the hound",
+        "passage": "The Fox and the Hound -- With the bear gone, a bewildered Copper approaches Tod as he lies exhausted near the bank of a waterfall-created lake. When Slade appears, Copper positions himself in front of Tod to prevent Slade from shooting him, refusing to move away. Slade lowers his gun and leaves with Copper. Tod and Copper share one last smile before parting. At home, Tweed nurses Slade back to health while the dogs rest. Copper, before resting, smiles as he remembers the day when he first met Tod. On a hill, Vixey joins Tod as they look down on the homes of Slade and Tweed.",
+        "idx": 2278,
+        "label": 0
+    },
+    {
+        "question": "is it legal to drop a baby off at a fire station",
+        "passage": "Safe-haven law -- Safe-haven laws (also known in some states as ``Baby Moses laws'', in reference to the religious scripture) are statutes in the United States that decriminalize the leaving of unharmed infants with statutorily designated private persons so that the child becomes a ward of the state. ``Safe-haven'' laws typically let parents remain nameless to the court, often using a numbered bracelet system as the only means of linking the baby to the parent. Some states treat safe-haven surrenders as child dependency or abandonment, with a complaint being filed for such in juvenile court. The parent either defaults or answers the complaint. Others treat safe-haven surrenders as adoption surrenders, hence a waiver of parental rights (see parental responsibility). Police stations, hospitals, 24 hour convenience stores, Wal Marts, rescue squads, and fire stations are all typical locations to which the safe-haven law applies.",
+        "idx": 947,
+        "label": 1
+    },
+    {
+        "question": "is woolworths and coles owned by the same company",
+        "passage": "Coles Group -- In 1914, the first Coles ``variety store'' was opened in Melbourne. Coles was founded in 1914 by George Coles when he opened what was called the ``Coles Variety Store'' in Smith Street in the Melbourne suburb of Collingwood. More stores opened and the chain was regarded as the leaders in providing value to Australian shoppers. The building formerly occupied by the original Coles Variety Store is now the location of a Woolworths outlet - the major competitor to Coles.",
+        "idx": 2974,
+        "label": 0
+    },
+    {
+        "question": "is there a place where 4 countries meet",
+        "passage": "Quadripoint -- A quadripoint is a point on the Earth that touches the border of four distinct territories. The term has never been in common use--it may not have been used before 1964 when it was possibly invented by the Office of the Geographer of the United States Department of State. The word does not appear in the Oxford English Dictionary or Merriam-Webster Online dictionary, but it does appear in the Encyclopædia Britannica, as well as in the World Factbook articles on Botswana, Namibia, Zambia, and Zimbabwe, dating as far back as 1990.",
+        "idx": 3255,
+        "label": 1
+    },
+    {
+        "question": "is the washington monument the tallest monument in the world",
+        "passage": "Washington Monument -- The Washington Monument is an obelisk on the National Mall in Washington, D.C., built to commemorate George Washington, once commander-in-chief of the Continental Army and the first President of the United States. Located almost due east of the Reflecting Pool and the Lincoln Memorial, the monument, made of marble, granite, and bluestone gneiss, is both the world's tallest stone structure and the world's tallest obelisk, standing 554 feet 7 ⁄ inches (169.046 m) tall according to the National Geodetic Survey (measured 2013--14) or 555 feet 5 ⁄ inches (169.294 m) tall according to the National Park Service (measured 1884). It is the tallest monumental column in the world if all are measured above their pedestrian entrances. It was the tallest structure in the world from 1884 to 1889.",
+        "idx": 2632,
+        "label": 1
+    },
+    {
+        "question": "was the movie dreamgirls based on the supremes",
+        "passage": "Dreamgirls (film) -- Dreamgirls is a 2006 American romantic musical comedy-drama film written and directed by Bill Condon and jointly produced and released by DreamWorks Pictures and Paramount Pictures. Adapted from the 1981 Broadway musical of the same name by composer Henry Krieger and lyricist/librettist Tom Eyen, Dreamgirls is a film à clef, a work of fiction taking strong inspiration from the history of the Motown record label and one of its acts, The Supremes. The story follows the history and evolution of American R&B music during the 1960s and 1970s through the eyes of a Detroit, Michigan girl group known as the Dreams and their manipulative record executive.",
+        "idx": 1670,
+        "label": 1
+    },
+    {
+        "question": "does a blue whale have a back bone",
+        "passage": "Blue whale -- Occasionally blue whales get lost in the Baltic Sea. The remnants of two blue whales have been identified in Finland. One 19-meter skeleton was found on the bottom of the Gulf of Finland during the construction of Nord Stream pipeline. The vertebrae of a second individual were recovered from a field near Pori on the coast of the Bothnian Sea in 1942 and identified in the Copenhagen Zoological Museum by Magnus Degerbøl. Radiocarbon dating revealed the former had wandered into the Littorina Sea over 7000 years ago and perished, while the latter bones were shown to be 800--900 years old.",
+        "idx": 5378,
+        "label": 1
+    },
+    {
+        "question": "is world war z based on a book",
+        "passage": "World War Z -- Despite being the draft that got the film green-lit, Straczynski's script was tossed aside. Production was to begin at the start of 2009, but was delayed while the script was completely re-written by Matthew Michael Carnahan to set the film in the present, leaving behind much of the book's premise to make it more of an action film. In a 2012 interview, Brooks stated the film now had nothing in common with the novel other than the title. Filming commenced mid-2011, and the film was released in June 2013.",
+        "idx": 7486,
+        "label": 1
+    }
+]

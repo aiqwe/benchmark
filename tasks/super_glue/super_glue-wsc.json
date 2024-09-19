@@ -1,0 +1,182 @@
+[
+    {
+        "text": "Our mistress hired a room for my crippled sister Nelly , and she gave her knitting and needlework when she was able to do it, and when she was ill she sent her dinners and many nice comfortable things and was like a mother to her.",
+        "span1_index": 9,
+        "span2_index": 30,
+        "span1_text": "Nelly",
+        "span2_text": "she",
+        "idx": 158,
+        "label": 0
+    },
+    {
+        "text": "I poured water from the bottle into the cup until it was full.",
+        "span1_index": 7,
+        "span2_index": 10,
+        "span1_text": "the cup",
+        "span2_text": "it",
+        "idx": 4,
+        "label": 1
+    },
+    {
+        "text": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.",
+        "span1_index": 0,
+        "span2_index": 10,
+        "span1_text": "The painting",
+        "span2_text": "It",
+        "idx": 121,
+        "label": 1
+    },
+    {
+        "text": "The trophy doesn't fit into the brown suitcase because it is too large.",
+        "span1_index": 0,
+        "span2_index": 9,
+        "span1_text": "the trophy",
+        "span2_text": "it",
+        "idx": 210,
+        "label": 1
+    },
+    {
+        "text": "Billy cried because Toby wouldn't accept his toy.",
+        "span1_index": 3,
+        "span2_index": 6,
+        "span1_text": "Toby",
+        "span2_text": "his",
+        "idx": 100,
+        "label": 0
+    },
+    {
+        "text": "Thomson visited Cooper 's grave in 1765. At that date he had been dead for five years.",
+        "span1_index": 2,
+        "span2_index": 10,
+        "span1_text": "Cooper",
+        "span2_text": "he",
+        "idx": 338,
+        "label": 1
+    },
+    {
+        "text": "The lawyer asked the witness a question, but he was reluctant to repeat it.",
+        "span1_index": 3,
+        "span2_index": 8,
+        "span1_text": "the witness",
+        "span2_text": "he",
+        "idx": 341,
+        "label": 0
+    },
+    {
+        "text": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.",
+        "span1_index": 3,
+        "span2_index": 20,
+        "span1_text": "The tree",
+        "span2_text": "it",
+        "idx": 465,
+        "label": 1
+    },
+    {
+        "text": "The delivery truck zoomed by the school bus because it was going so slow.",
+        "span1_index": 5,
+        "span2_index": 9,
+        "span1_text": "the school bus",
+        "span2_text": "it",
+        "idx": 133,
+        "label": 1
+    },
+    {
+        "text": "John ordered Bill to leave, so an hour later he left.",
+        "span1_index": 2,
+        "span2_index": 9,
+        "span1_text": "Bill",
+        "span2_text": "he",
+        "idx": 89,
+        "label": 1
+    },
+    {
+        "text": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.",
+        "span1_index": 9,
+        "span2_index": 14,
+        "span1_text": "Lucy",
+        "span2_text": "she",
+        "idx": 364,
+        "label": 1
+    },
+    {
+        "text": "Sam Goodman 's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.",
+        "span1_index": 1,
+        "span2_index": 16,
+        "span1_text": "Goodman",
+        "span2_text": "he",
+        "idx": 6,
+        "label": 0
+    },
+    {
+        "text": "Tatyana managed two guitars and a bag , and still could point out the Freemans : \"Isn't it nice that they have come, Mama!\"",
+        "span1_index": 13,
+        "span2_index": 20,
+        "span1_text": "the Freemans",
+        "span2_text": "they",
+        "idx": 233,
+        "label": 1
+    },
+    {
+        "text": "Even before they reached town , they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.",
+        "span1_index": 10,
+        "span2_index": 17,
+        "span1_text": "sound",
+        "span2_text": "it",
+        "idx": 339,
+        "label": 1
+    },
+    {
+        "text": "Susan knew that Ann 's son had been in a car accident, because she told her about it.",
+        "span1_index": 3,
+        "span2_index": 13,
+        "span1_text": "Ann",
+        "span2_text": "she",
+        "idx": 442,
+        "label": 1
+    },
+    {
+        "text": "Sergeant Holmes asked the girls to describe the intruder . Nancy not only provided the policeman with an excellent description of the heavyset thirty-year-old prowler, but drew a rough sketch of his face.",
+        "span1_index": 0,
+        "span2_index": 31,
+        "span1_text": "Sergeant Holmes",
+        "span2_text": "his",
+        "idx": 248,
+        "label": 0
+    },
+    {
+        "text": "Tatyana managed two guitars and a bag , and still could point out the Freemans : \"Isn't it nice that they have come, Mama!\"",
+        "span1_index": 13,
+        "span2_index": 20,
+        "span1_text": "the Freemans",
+        "span2_text": "they",
+        "idx": 233,
+        "label": 1
+    },
+    {
+        "text": "John hired Bill to take care of him .",
+        "span1_index": 0,
+        "span2_index": 7,
+        "span1_text": "John",
+        "span2_text": "him",
+        "idx": 461,
+        "label": 1
+    },
+    {
+        "text": "The sack of potatoes had been placed below the bag of flour , so it had to be moved first.",
+        "span1_index": 8,
+        "span2_index": 14,
+        "span1_text": "The bag of flour",
+        "span2_text": "it",
+        "idx": 172,
+        "label": 1
+    },
+    {
+        "text": "Jane knocked on Susan 's door, but there was no answer. She was disappointed.",
+        "span1_index": 0,
+        "span2_index": 11,
+        "span1_text": "Jane",
+        "span2_text": "She",
+        "idx": 428,
+        "label": 1
+    }
+]

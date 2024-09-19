@@ -491,6 +491,44 @@ mbpp:
   url: https://huggingface.co/datasets/google-research-datasets/mbpp
   paper: https://arxiv.org/pdf/2108.07732
 
+race:
+  <<: *default
+  source: huggingface
+  hf_path: EleutherAI/race
+  hf_name:
+    - high
+  url: https://huggingface.co/datasets/EleutherAI/race
+  paper: https://arxiv.org/pdf/1704.04683
+
+natural_questions:
+  <<: *default
+  source: huggingface
+  hf_path: google-research-datasets/natural_questions
+  hf_name:
+    - default
+    - dev
+  url: https://huggingface.co/datasets/google-research-datasets/natural_questions
+  paper: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00276/43518/Natural-Questions-A-Benchmark-for-Question
+
+super_glue:
+  <<: *default
+  source: huggingface
+  hf_path: aps/super_glue
+  hf_name:
+    - boolq
+    - cb
+    - copa
+    - multirc
+    - record
+    - rte
+    - wic
+    - wsc
+    - wsc.fixed
+    - axb
+    - axg
+  url: https://huggingface.co/datasets/aps/super_glue
+  paper: https://arxiv.org/pdf/1911.11763
+
 
 
     

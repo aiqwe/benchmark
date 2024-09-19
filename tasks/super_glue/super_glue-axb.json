@@ -1,0 +1,122 @@
+[
+    {
+        "sentence1": "Grisham won the popular vote.",
+        "sentence2": "Grisham hoped to win the popular vote.",
+        "idx": 399,
+        "label": 1
+    },
+    {
+        "sentence1": "Decision trees have achieved impressive performance in supervised classification and structured prediction tasks.",
+        "sentence2": "Deep neural networks have achieved impressive performance in supervised classification and structured prediction tasks.",
+        "idx": 313,
+        "label": 1
+    },
+    {
+        "sentence1": "Mao was chairman of the Communist Party from before its accession to power in 1949 until his death in 1976.",
+        "sentence2": "The move marks an end to a system put in place by Deng Xiaoping in the 1980s to prevent the rise of another Mao, who was chairman of the Communist Party from before its accession to power in 1949 until his death in 1976.",
+        "idx": 435,
+        "label": 1
+    },
+    {
+        "sentence1": "Lt. Gov. Dan Patrick first unveiled a “bathroom bill” in January 2017, and for the first several months of debate, Abbott remained largely silent even as some cautioned that it would be bad for business.",
+        "sentence2": "Abbott remained largely silent for the first several months of debate before Lt. Gov. Dan Patrick first unveiled a “bathroom bill” in January 2017, even as some cautioned that it would be bad for business.",
+        "idx": 510,
+        "label": 1
+    },
+    {
+        "sentence1": "No one has a set of principles to live by.",
+        "sentence2": "Everyone has a set of principles to live by.",
+        "idx": 377,
+        "label": 1
+    },
+    {
+        "sentence1": "Tillerson cut his trip short Monday to go home by air, and his spokesman said Tuesday that the secretary of state was “unaware of the reason” for his firing and had not spoken directly with Trump.",
+        "sentence2": "Tillerson cut his trip short Monday to fly home, and his spokesman said Tuesday that the secretary of state was “unaware of the reason” for his firing and had not spoken directly with Trump.",
+        "idx": 459,
+        "label": 0
+    },
+    {
+        "sentence1": "Prismatic blades begin to appear in high frequencies during the transition between the Middle and Upper Paleolithic.",
+        "sentence2": "Prismatic blades appeared in high frequencies during the Upper Paleolithic.",
+        "idx": 774,
+        "label": 0
+    },
+    {
+        "sentence1": "I ate olives.",
+        "sentence2": "I ate pizza with olives.",
+        "idx": 239,
+        "label": 1
+    },
+    {
+        "sentence1": "We consider some context words as positive examples and sample negatives at random from the dictionary.",
+        "sentence2": "We consider some words as positive examples and sample negatives at random from the dictionary.",
+        "idx": 56,
+        "label": 0
+    },
+    {
+        "sentence1": "Even after now finding out that it's animal feed, I won't ever stop being addicted to Flamin' Hot Cheetos.",
+        "sentence2": "Even after now finding out that it's animal feed, I will never stop being addicted to Flamin' Hot Cheetos.",
+        "idx": 26,
+        "label": 0
+    },
+    {
+        "sentence1": "Coreference resolvers can hardly generalize to unseen domains.",
+        "sentence2": "We show that if coreference resolvers mainly rely on lexical features, they can hardly generalize to unseen domains.",
+        "idx": 289,
+        "label": 1
+    },
+    {
+        "sentence1": "Life is either a daring adventure or nothing at all.",
+        "sentence2": "Life is a not a daring adventure.",
+        "idx": 656,
+        "label": 1
+    },
+    {
+        "sentence1": "There was a book I was trying to import and I saw that it was finally available with Amazon Prime shipping and I ended up paying like double the other prices to have it in 2 days vs. 2 weeks.",
+        "sentence2": "I waited until Prime availability and paid a higher Shipping & Handling fee to have a book in 2 days vs. 2 weeks.",
+        "idx": 688,
+        "label": 1
+    },
+    {
+        "sentence1": "However, these regularities are sometimes obscured by semantic and syntactic differences.",
+        "sentence2": "However, these regularities are sometimes obscured by syntactic differences.",
+        "idx": 830,
+        "label": 0
+    },
+    {
+        "sentence1": "Mueller’s team asked former senior Justice Department officials for information.",
+        "sentence2": "Former senior Justice Department officials weren't asked for information.",
+        "idx": 118,
+        "label": 1
+    },
+    {
+        "sentence1": "Considering this definition, it is not surprising to find frequent use of sarcastic language in opinionated user generated content.",
+        "sentence2": "Considering this definition, it is surprising to find frequent use of sarcastic language in opinionated user generated content.",
+        "idx": 9,
+        "label": 1
+    },
+    {
+        "sentence1": "Twitch has rarely given Twitch Prime subscribers free games and in-game content in the past.",
+        "sentence2": "Twitch has routinely given away free games and in-game content to Twitch Prime subscribers in the past.",
+        "idx": 503,
+        "label": 1
+    },
+    {
+        "sentence1": "By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of Kennedy's assassin.",
+        "sentence2": "By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of the civil rights leader's assassin.",
+        "idx": 737,
+        "label": 1
+    },
+    {
+        "sentence1": "The Labor Theory of Value is at the heart of the economics of cost.",
+        "sentence2": "Supply and demand... scarcity... all these economic principles that determine the cost of things really boil down to the value of human labor.",
+        "idx": 691,
+        "label": 0
+    },
+    {
+        "sentence1": "The reaction media got very hot.",
+        "sentence2": "The reaction was strongly endothermic.",
+        "idx": 965,
+        "label": 1
+    }
+]

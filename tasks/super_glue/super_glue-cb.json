@@ -1,0 +1,122 @@
+[
+    {
+        "premise": "``Look, lady, give me a break. I just deliver the stuff, I don't interview it for the Sunday papers.'' He waved the paper at her and even at a distance she could see that it said very little.",
+        "hypothesis": "the paper said very little",
+        "idx": 11,
+        "label": 0
+    },
+    {
+        "premise": "I can't afford to get bogged down in the weeds. But at least you know she did leave. Maybe a coincidence maybe the two girls talked on the phone decided they 'd both had enough.",
+        "hypothesis": "the two girls had both had enough",
+        "idx": 86,
+        "label": 2
+    },
+    {
+        "premise": "His hair was white, as my daughters reported when they went to view the body before it was given to the Odonata. Now he is known as The Man Who Changed the World, and there are statues to him everywhere. No one remembers he had a younger brother.",
+        "hypothesis": "The Man Who Changed the World had a younger brother",
+        "idx": 52,
+        "label": 0
+    },
+    {
+        "premise": "However, I will let the gynandrous renegade stay here under one condition. If Penumbra questions either of us, we will not lie. If she suspects Crevecoeur is here and asks we let him go back.",
+        "hypothesis": "Crevecoeur is here",
+        "idx": 82,
+        "label": 0
+    },
+    {
+        "premise": "Look, my dear, I'm not in my dotage yet, and I know I'm a grumbler and a complainer. You could say the only form of comfort I 've got are my complaints.",
+        "hypothesis": "the only form of comfort he has are his complaints",
+        "idx": 5,
+        "label": 0
+    },
+    {
+        "premise": "It was a complex language. Not written down but handed down. One might say it was peeled down.",
+        "hypothesis": "the language was peeled down",
+        "idx": 0,
+        "label": 0
+    },
+    {
+        "premise": "Then it cried. It was another girl. I was a little disappointed but I could only hope that Celia was still a bit hazy from the drugs.",
+        "hypothesis": "Celia was still a bit hazy from the drugs",
+        "idx": 96,
+        "label": 2
+    },
+    {
+        "premise": "His mother driving the car, so happy, young-looking and fashionably dressed and his father, a big, confident man in a smart suit, smiling and turning round to say something to Simon in the back seat. Marie thought of her own mother with her frumpy clothes and ageing, lined face. No one would have guessed that she was only forty-two.",
+        "hypothesis": "Marie's mother was only forty-two",
+        "idx": 32,
+        "label": 0
+    },
+    {
+        "premise": "Then it cried. It was another girl. I was a little disappointed but I could only hope that Celia was still a bit hazy from the drugs.",
+        "hypothesis": "Celia was still a bit hazy from the drugs",
+        "idx": 96,
+        "label": 2
+    },
+    {
+        "premise": "A: Uh, well then you must know a lot more about this than I do. B: Uh, I think, uh, the system right now, you know, you know, is fine. I think it should be by a jury. I don't think the judge should have, I mean he's just there kind of like the referee. A: Uh-huh, Uh-huh. B: Uh, I don't even think that it should be unanimous either. Uh,",
+        "hypothesis": "it should be unanimous",
+        "idx": 127,
+        "label": 1
+    },
+    {
+        "premise": "B: when you've lost something or uh, uh, don't have what other people have that's when you tend to realize, you know, what's out there and you know, what you have and what you don't have. A: Yeah I agree. B: So the original question, do we think they're you know, a security threat?",
+        "hypothesis": "they're a security threat",
+        "idx": 222,
+        "label": 2
+    },
+    {
+        "premise": "A: Highland Park's thinking about going that route. B: Uh-huh. A: So it, and then I think that's going to push teachers to dress a lot more professionally than they do. B: Yeah, I don't think a lot of teachers are very professional",
+        "hypothesis": "a lot of teachers are very professional",
+        "idx": 235,
+        "label": 1
+    },
+    {
+        "premise": "He also liked swimming and cycling. He said that he wrote stories, though he had to admit that he had never got further than the first two pages. Willie meanwhile not only remained silent during these conversations but picked his berries slowly so that they might forget that he was there but he reckoned without Zach.",
+        "hypothesis": "Willie was there",
+        "idx": 91,
+        "label": 0
+    },
+    {
+        "premise": "It was Alan's idea. He made a sour kind of joke out of it, that they must wait until their wedding night. Carolyn agreed because she could see he meant it although she didn't understand why.",
+        "hypothesis": "Alan meant it",
+        "idx": 13,
+        "label": 0
+    },
+    {
+        "premise": "``And you're not having this dress,'' Nora said, bending down to look at the price tag. ``It's two and a half guineas!'' she hissed at Louise who could tell that she was genuinely appalled.",
+        "hypothesis": "Nora was genuinely appalled",
+        "idx": 15,
+        "label": 0
+    },
+    {
+        "premise": "He had seen something I should have, which was a car turning in from Soho Square and coming up behind me. My right foot hovered over the accelerator pedal and I balanced Armstrong on the clutch. I wasn't as convinced as Malpass that Nevil was out of harm's way.",
+        "hypothesis": "Nevil was out of harm's way",
+        "idx": 28,
+        "label": 1
+    },
+    {
+        "premise": "I spent just over an hour with Patterson which, I found out later, turned out to be another first. Time is money in the City and few people are worth an hour unless it's over lunch and only then if you're involved in a takeover bid. It was also I learned one of the few occasions anyone at PKB could remember that Patterson had a meeting with his door shut and nobody got fired.",
+        "hypothesis": "Patterson had a meeting with his door shut and nobody got fired",
+        "idx": 113,
+        "label": 0
+    },
+    {
+        "premise": "``You 've heard something like that before. Haven't you, Jimmy?'' Jimmy had been shaken by those sounds more shaken than the others for good reason but Cardiff could see that he was unprepared to show it as he pushed himself away from the reception counter.",
+        "hypothesis": "Jimmy was unprepared to show he had been shaken",
+        "idx": 12,
+        "label": 0
+    },
+    {
+        "premise": "Some of them, like for instance the farm in Connecticut, are quite small. If I like a place I buy it. I guess you could say it's a hobby.",
+        "hypothesis": "buying places is a hobby",
+        "idx": 4,
+        "label": 0
+    },
+    {
+        "premise": "His hair was white, as my daughters reported when they went to view the body before it was given to the Odonata. Now he is known as The Man Who Changed the World, and there are statues to him everywhere. No one remembers he had a younger brother.",
+        "hypothesis": "The Man Who Changed the World had a younger brother",
+        "idx": 52,
+        "label": 0
+    }
+]

@@ -1,8 +1,10 @@
 import os
 from openai import OpenAI
+from textwrap import dedent
 
 DEFAULT_ROLE = {
-    "translator": """
+    "translator": dedent(
+        """
     Translate below <|text|> to Korean and you should keep below format:
       - You should say naturally.
       - I want you to act as a NLP expert.
@@ -10,6 +12,7 @@ DEFAULT_ROLE = {
       - You should keep your tone like saying to layman.
     <|text|>
     """
+    )
 }
 
 
@@ -31,3 +34,9 @@ def chat(
     )
 
     return completion.choices[0].message.content
+
+
+def prompt(role: str = DEFAULT_ROLE["translator"]):
+    print("번역할 텍스트를 입력하세요:\n")
+    text = input()
+    print(role + "\n" + text)
