@@ -527,7 +527,7 @@ super_glue:
     - axb
     - axg
   url: https://huggingface.co/datasets/aps/super_glue
-  paper: https://arxiv.org/pdf/1911.11763
+  paper: https://arxiv.org/pdf/1905.00537
 
 
 
