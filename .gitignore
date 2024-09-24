@@ -166,4 +166,4 @@ __pycache__/**
 .DS_Store
 notebook.ipynb
 **/notebook.ipynb
-
+.virtual_documents/
