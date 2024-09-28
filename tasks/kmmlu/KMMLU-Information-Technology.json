@@ -1,0 +1,202 @@
+[
+    {
+        "question": "운영체제를 수행 기능에 따라 제어 프로그램과 처리 프로그램으로 구분할 경우 제어 프로그램에 해당하는 것은?",
+        "answer": 2,
+        "A": "언어 번역 프로그램",
+        "B": "자료 관리 프로그램",
+        "C": "서비스 프로그램",
+        "D": "문제 프로그램",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.6
+    },
+    {
+        "question": "전자문서의 효력 발생시기는?",
+        "answer": 2,
+        "A": "출력후 등기로 수신자에게 도달",
+        "B": "수신자의 컴퓨터파일에 기록",
+        "C": "발신자의 발송",
+        "D": "전자이미지 서명",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "실제로는 악성코드로 행동하지 않으면서 겉으로는 악성코드인 것처럼 가장하여 행동하는 소프트웨어를 무엇이라고 하는가?",
+        "answer": 4,
+        "A": "백도어(Back Door)",
+        "B": "드롭퍼(Dropper)",
+        "C": "스파이웨어(Spyware)",
+        "D": "혹스(Hoax)",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "트랜지스터 증폭회로에서 부궤환을 시켰을 때 발생하는 현상으로 적합하지 않은 것은?",
+        "answer": 2,
+        "A": "잡음이 감소한다.",
+        "B": "전압이득이 증가한다.",
+        "C": "안정도가 좋아진다.",
+        "D": "일그러짐이 감소한다.",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "0-주소 명령 형식에 필요한 것은?",
+        "answer": 1,
+        "A": "stack",
+        "B": "index register",
+        "C": "queue",
+        "D": "base register",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.8571
+    },
+    {
+        "question": "운영체제를 자원 관리자(resource manager)의 관점에서 볼 때, 프로세스가 끝나거나 더 이상 기억장치를 필요로 하지 않을 때 이를 회수하기 위한 전략 관리를 담당하는 부분은?",
+        "answer": 1,
+        "A": "Memory management",
+        "B": "Processor management",
+        "C": "Device management",
+        "D": "Information management",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.5714
+    },
+    {
+        "question": "비동기식 6진 리플 카운터를 구성하려고 한다. T 플립플롭이 최소한 몇개가 필요한가?",
+        "answer": 2,
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.7143
+    },
+    {
+        "question": "8085 마이크로프로세서에서 주소와 데이터를 분리하기 위해 필요한 신호는?",
+        "answer": 1,
+        "A": "ALE(Address Latch Enable) 신호",
+        "B": "/WR 신호",
+        "C": "/RE 신호",
+        "D": "IO/M 신호",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "파이프라인 프로세서의 설명 중 가장 적합한 것은?",
+        "answer": 3,
+        "A": "다중 프로그래밍 시스템의 프로세서",
+        "B": "제어 메모리가 분리된 프로세서",
+        "C": "2개 이상의 명령어를 동시에 수행할 수 있는 프로세서",
+        "D": "분산 기억장치 시스템의 프로세서",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.5333
+    },
+    {
+        "question": "하나의 프로세서(CPU)로 여러 개의 프로그램을 동시에 처리하는 방식을 일컫는 용어는?",
+        "answer": 2,
+        "A": "멀티프로세싱(Multi-processing)",
+        "B": "멀티프로그래밍(Multi-programming)",
+        "C": "멀티유저(Multi-user)",
+        "D": "멀티플렉싱(Mutiplexing)",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "CAD 시스템의 입력장치가 아닌 것은?",
+        "answer": 3,
+        "A": "디지타이저",
+        "B": "태블릿",
+        "C": "플로터",
+        "D": "마우스",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.4211
+    },
+    {
+        "question": "2진 정보의 저장과, 클록펄스를 가해 좌우로 한 비트씩 이동하여 2진수의 곱셈이나 나눗셈을 하는 연산장치에 이용되는 것은?",
+        "answer": 4,
+        "A": "가산기",
+        "B": "카운터",
+        "C": "플립플롭",
+        "D": "시프트 레지스터",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.7273000000000001
+    },
+    {
+        "question": "사무자동화가 구현 시 기대되는 효과가 아닌 것은?",
+        "answer": 3,
+        "A": "개인의 능력이 향상된다.",
+        "B": "의사결정을 신속히 할 수 있다.",
+        "C": "정보획득 시간이 길어진다.",
+        "D": "공간을 효율적으로 사용할 수 있다.",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "정부 및 국가기관의 수록대상 문서의 범위, 수록방법, 수록절차, 광디스크의 관리 등에 관하여 필요한 사항은 누가 정하는가?",
+        "answer": 3,
+        "A": "정보통신부장관",
+        "B": "교육부장관",
+        "C": "행정자치부장관",
+        "D": "문화관광부장관",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "데이터 전송에 있어 데이터 그램 패킷 교환 방식으로 적합한 것은?",
+        "answer": 3,
+        "A": "음성이나 동영상과 같이 연속적인 전송",
+        "B": "응답시간이 별 문제가 되지 않는 전자 우편이나 파일 전송",
+        "C": "간헐적으로 발생하는 짧은 메시지의 전송",
+        "D": "최대 길이가 제한된 데이터 전송",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "인터넷의 시초가 되는 최초의 네트워크는?",
+        "answer": 1,
+        "A": "ARPANET",
+        "B": "MILNET",
+        "C": "NSFNET",
+        "D": "CSNET",
+        "Category": "Information Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "운영체제의 구성요소 중 제어 프로그램에 속하지 않는 것은?",
+        "answer": 4,
+        "A": "감독 프로그램",
+        "B": "작업관리 프로그램",
+        "C": "데이터관리 프로그램",
+        "D": "언어번역 프로그램",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "한글 Windows XP에서 [휴지통]에 관한 설명으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "[휴지통]의 용량은 운영체제에 의해서 항상 고정된 크기를 가진다.",
+        "B": "[휴지통]에는 삭제된 파일들이 보관되며, 삭제된 파일을 복원할 수도 있다.",
+        "C": "[휴지통]의 등록정보 창에서 파일이 [휴지통]에 보관되지 않고 바로 삭제되도록 할 수 있다.",
+        "D": "삭제되었던 파일을 복원하면 삭제되기 전과 동일한 폴더에 복원된다.",
+        "Category": "Information Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "한글 Windows XP에서 사용자 전환을 하기 위한 바로 가기 키는?",
+        "answer": 1,
+        "A": "[Windows 로고]+[L]",
+        "B": "[Windows 로고]+[U]",
+        "C": "[Windows 로고]+[D]",
+        "D": "[Windows 로고]+[M]",
+        "Category": "Information Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "카운터(계수회로)에 대한 설명으로 옳은 것은?",
+        "answer": 1,
+        "A": "동기식 카운터는 모든 플립플롭을 하나의 클록신호에 의해 동시에 변화시킨다.",
+        "B": "카운터는 모두 동기식 회로로 설계하여야 한다.",
+        "C": "비동기식 카운터는 클록이 빠를수록 오동작의 가능성이 적다.",
+        "D": "비동기식 카운터에서 플립플롭의 수는 오동작과 전혀 관계가 없다.",
+        "Category": "Information Technology",
+        "Human Accuracy": 0.5714
+    }
+]

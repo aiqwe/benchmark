@@ -1,0 +1,102 @@
+[
+    {
+        "query": "다음은 IVE (아이브)의 노래 I AM의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n[MASK]'[MASK] [MASK]\nI hope you'd be someone's\nI'm on my way 보이는 그대로야\nI'm in sky high OMG\nFly up\n머물고픈 어딘가의 낯선 뷰\n내일 내게 열리는 건 Big big 스테이지\nSo that is who I am\n\n### 단어: ['my', \"That's\"]\n\n## 정답:",
+        "options": "nan",
+        "answer": "That's my"
+    },
+    {
+        "query": "다음은 2NE1의 노래 UGLY의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \nAll alone I'm all alone \n따뜻함이란 없어 곁엔 아무도 없어\n말 시키지마 난 너와 어울리지 못해\nI wanna be pretty \n[MASK] [MASK] [MASK]\nJust like her I wanna be pretty \nI think I'm ugly\nDon't lie to my face cuz I know I'm ugly\n\n### 단어: ['않아', '아무도', '듣지']\n\n## 정답:",
+        "options": "nan",
+        "answer": "아무도 듣지 않아"
+    },
+    {
+        "query": "다음은 태연 (TAEYEON)의 노래 I (feat. 버벌진트)의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n새로워진 Eyes (새로워진 Eyes)\n[MASK] [MASK] [MASK] [MASK] ([MASK])\n너의 날개를 못 봐\n시간은 멈춰가\n내 맘을 깨워 주는 한마디\n셀 수 없는 시선에\n빛을 쏟는 Sky\n난 나만의 Beauty\n\n### 단어: ['선', '그', '(I)', '아래', '아이']\n\n## 정답:",
+        "options": "nan",
+        "answer": "그 아래 선 아이 (I)"
+    },
+    {
+        "query": "다음은 박진영의 노래 어머님이 누구니 (feat. 제시)의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n[MASK] [MASK] [MASK] [MASK] [MASK] \n살이 모자라면 난 눈이 안 가\n맞는 바지를 찾기 너무 힘들어 oh Yeah\n널 어쩌면 널 어쩌면 좋니\n침 닦아 Hey 거기 \n머리끝부터 발끝까지\nShake that booty that booty booty\n맞는 바지를 찾기 너무 힘들어 oh Yeah\n\n### 단어: ['허리는', '힙이', '너무', '가는데', '커']\n\n## 정답:",
+        "options": "nan",
+        "answer": "허리는 너무 가는데 힙이 커 "
+    },
+    {
+        "query": "다음은 노을의 노래 함께의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n너를 보면서 참아야 했었을 때 \n울고 싶었던적 얼마나 많았었니 \n그 어떤 기쁨과도 바꿀수는 없지 \n살아간다는 건 이런게 아니겠니 \n그것 만큼 든든한 벽은 없을 것 같아 \n[MASK] [MASK] [MASK] [MASK] [MASK] \n그 어떤 기쁨과도 바꿀수는 없지 \n우리 힘들지만 함께 걷고 있었다는 것 \n\n### 단어: ['나에게', '무엇이', '너와', '상처를', '주는지']\n\n## 정답:",
+        "options": "nan",
+        "answer": "무엇이 너와 나에게 상처를 주는지 "
+    },
+    {
+        "query": "다음은 WINNER의 노래 REALLY REALLY의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n내 맘을 받아줘 OH WAH\n낯간지럽네 상상해봐도\n널 좋아해\n너도 나를 좋아할 거 같다 말해줘 \noh 내 맘 알까나\n내 맘을 받아줘 OH WAH\n([MASK] [MASK] [MASK] [MASK])\n내 맘을 받아줘 OH WAH\n\n### 단어: ['REALLY)', 'REALLY', 'REALLY', '(REALLY']\n\n## 정답:",
+        "options": "nan",
+        "answer": "(REALLY REALLY REALLY REALLY)"
+    },
+    {
+        "query": "다음은 걸스데이(Girl's Day)의 노래 Darling의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \noh 화끈해 더 뜨겁게 only you\noh 화끈해 더 뜨겁게 only you\n달콤한 유혹에 빠져 난\n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n살포시 그대 무릎에\n슈가 팝 my 롤리팝 소리 칠 거야\nonly you only you my only you\nI fell in love with you 빠져들고 싶어 니 안에\n\n### 단어: ['my', 'darling', 'call', '그댄', '달콤해', 'you', 'darling']\n\n## 정답:",
+        "options": "nan",
+        "answer": "call you my darling darling 그댄 달콤해"
+    },
+    {
+        "query": "다음은 성시경\n성시경의 노래 그대네요의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n떨리는 목소리로 안녕\n달려가 잡았다면 (그대가)\n하고픈 말 얼마나 많았는데 \n그대네요 정말 그대네요 \n다시 망설이다 놓칠 순 없어\n지나간 일에는 (너무 힘들었죠)\n소리 없이 나 혼자 안녕\n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n\n### 단어: ['말도', '꿈일지도', '안녕이란', '나오질', '몰라', '않아']\n\n## 정답:",
+        "options": "nan",
+        "answer": "꿈일지도 몰라 안녕이란 말도 나오질 않아"
+    },
+    {
+        "query": "다음은 벤의 노래 180도의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n사랑해 말하지 않아도\n전부 지쳐버렸어 난\n이젠 180도 달라진\n너무 따뜻했던 눈빛 네 향기까지도\n정말 너무나도 달라진\n[MASK] [MASK] [MASK] [MASK]\n너는 아니길 바랐는데\n그때 너와 나\n\n### 단어: ['눈에', '쓰여', '있었던', '너의']\n\n## 정답:",
+        "options": "nan",
+        "answer": "너의 눈에 쓰여 있었던"
+    },
+    {
+        "query": "다음은 AKMU(악뮤)의 노래 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n어떻게 내가 어떻게 너를\n난 널 떠날 수 없단 걸\n다 마를 때까지 기다리는 게 이별일 텐데\n내가 없이 혼자 걷는 널 바라본다\n사랑이라는 이유로 서로를 포기하고\n널 사랑하는 거지\n[MASK] [MASK] [MASK] [MASK]\n찢어질 것같이 아파할 수 없어 난\n\n### 단어: ['풍경', '허전한', '옆자리', '너의']\n\n## 정답:",
+        "options": "nan",
+        "answer": "옆자리 허전한 너의 풍경"
+    },
+    {
+        "query": "다음은 애즈원의 노래 Sonnet의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n내게로 와서 빛이되줘 널 사랑해\nI need you 맘결마다 숨결마다 나를 담은 너\n[MASK] [MASK] [MASK] [MASK] [MASK] \nonly in my heart 향그런 바람처럼\n내게로 와서 빛이되줘 널 사랑해\nso tell me 너의 맘이 들려주는 행복한 노래\n이제 너의 향기가 내 안에 가득해\nsperd my life with you just me and you\n\n### 단어: ['꿈처럼', '내려', '꿈처럼', '마치', '내려']\n\n## 정답:",
+        "options": "nan",
+        "answer": "꿈처럼 내려 마치 꿈처럼 내려 "
+    },
+    {
+        "query": "다음은 용감한 녀석들의 노래 [권리없는 곡] 기다려 그리고 준비해의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n내돈도 내돈이야\n포기 대신 죽기살기로 Brave Guys (후~~히)\n(우리의 용감함을 보여주지!)\n준비해 준비해 (준비해) \n이게 바로 우리사는 세상이야\n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n준비해 준비해 준비해 \n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n\n### 단어: ['죽기살기로', '포기', '용감한', '우리가', '대신', '바로', '녀석들']\n\n## 정답:",
+        "options": "nan",
+        "answer": "포기 대신 죽기살기로 우리가 바로 용감한 녀석들"
+    },
+    {
+        "query": "다음은 Zion.T의 노래 눈 (Feat. 이문세)의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n눈이 올까요\n잠이 들고 나면 오늘은\n[MASK] [MASK] [MASK]\n눈이 올까요\n눈이 올까요\n그럼 따뜻한 차를 한 잔\n아침 커튼을 열면 눈이 올까요\n우리 자는 동안에\n\n### 단어: ['와요', '눈이', '눈']\n\n## 정답:",
+        "options": "nan",
+        "answer": "눈 눈이 와요"
+    },
+    {
+        "query": "다음은 이기찬의 노래 미인(美人)의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n모두 꿈일거라고 깨면 다 돌아올 거라고\n다시 사랑한다 해도 다른 누군가를 만나도\n헤어질때 늘 하던 짧은 인사가 \n오늘따라 왜 이렇게 서글픈 거니\n눈물이 두 뺨 위로 흘러 내릴 때 \n백 번 천 번을 말해도 울며 다짐을 해봐도 \n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n떠나가는 네 얼굴 보고 싶을 내가 싫어\n\n### 단어: ['못해', '다신', '같은', '너와', '사람', '만나지', '나는']\n\n## 정답:",
+        "options": "nan",
+        "answer": "나는 너와 같은 사람 다신 만나지 못해"
+    },
+    {
+        "query": "다음은 별의 노래 미워도 좋아의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n싫어도 니가 좋아\n사랑을 포기 못해\n[MASK] [MASK]\n다시 웃으며 말해줘\n너라는 사람 싫어\n나를 떠날 거니\n갑자기 왜 그래\n나라는 여자 그래\n\n### 단어: ['말해줘', '그렇게']\n\n## 정답:",
+        "options": "nan",
+        "answer": "그렇게 말해줘"
+    },
+    {
+        "query": "다음은 (여자)아이들의 노래 TOMBOY의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \nIt's not here I'm not a doll\nI like to eh on drinking whiskey\nMan nor woman\n미친 척이라 말해 What's the loss to me ya\nLook at my toe 나의 Ex 이름 Tattoo\nI would rather film a Tik Tok\nSaid you get it?\n[MASK] [MASK] [MASK]'[MASK] [MASK] [MASK] [MASK] [MASK]\n\n### 단어: ['씹으라고', 'to', '사정없이', 'ya', 'me', 'lost', \"You're\"]\n\n## 정답:",
+        "options": "nan",
+        "answer": "사정없이 씹으라고 You're lost to me ya"
+    },
+    {
+        "query": "다음은 EXO의 노래 Monster의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \nYou call me monster\n널 미워했어 하지만 너를 원해\n널 망쳐 놓을거야\n[MASK] [MASK] [MASK] [MASK] \nDon't be afraid, \n뒤집고 무너트리고 삼켜\n네 맘속에 각인된 채\nCome here girl,\n\n### 단어: ['넌', '맴돌아', '도망가지마', '영원히']\n\n## 정답:",
+        "options": "nan",
+        "answer": "도망가지마 넌 영원히 맴돌아 "
+    },
+    {
+        "query": "다음은 장범준의 노래 어려운 여자의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n[MASK] [MASK] [MASK] \nI love you 귓가에 속삭인다\n마음에 눈을 뜬 곳 당신은 내 맘의 꽃\n그대는 아름다워요 \n[MASK] [MASK] [MASK] \n[MASK] [MASK] [MASK] \n안아주고 싶어요 바라보고 싶어요\n햇살은 아름답고 그대는 부드러워\n\n### 단어: ['예뻐요', '그대는', '너무']\n\n## 정답:",
+        "options": "nan",
+        "answer": "그대는 너무 예뻐요 "
+    },
+    {
+        "query": "다음은 EXO의 노래 으르렁 (Growl)의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n나 으르렁 으르렁 으르렁 대\n[MASK] [MASK] [MASK] [MASK] [MASK] \n널 보는 두 눈에 불꽃이 튄다\n[MASK] [MASK] [MASK] [MASK] [MASK] \n널 보는 두 눈에 불꽃이 튄다\n너무나 완벽한 내 여자라\n자리가 없으니까 그냥 돌아가 I win\n[MASK] [MASK] [MASK] [MASK] [MASK] \n\n### 단어: ['으르렁', '대', '나', '으르렁', '으르렁']\n\n## 정답:",
+        "options": "nan",
+        "answer": "나 으르렁 으르렁 으르렁 대 "
+    },
+    {
+        "query": "다음은 2NE1의 노래 I Don't Care의 가사 중 일부분입니다. 주어진 단어를 활용해 [MASK]에 들어갈 가사를 생성하시요.\n\n### 가사: \n다른 여자들의 다리를 훔쳐보는\nyou know I don't care e e e e e e\n[MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK]\n민지>\n넌 또 다른 여자의 이름을 불러 no no\nI don't care 그만할래 니가 어디에서 뭘 하던\nCL>\nI don't care e e e e e e\n\n### 단어: ['한', '소개팅', '나', '몰래', '매일', '커플링', '빼놓는']\n\n## 정답:",
+        "options": "nan",
+        "answer": "매일 빼놓는 커플링 나 몰래 한 소개팅"
+    }
+]

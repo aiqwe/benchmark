@@ -1,0 +1,202 @@
+[
+    {
+        "question": "부피가 2649m3인 탱크에서 G 값을 50/s로 유지하기 위해 필요한 이론적 소요동력과 패들 면적은? (단, 유체 점성 계수 1.139×10-3N·s/m2, 밀도 1000kg/m3, 직사각형 패들의 항력계수 1.8, 패들 주변속도 0.6m/s, 패들 상대속도는 패들 주변속도 × 0.75로 가정하며, 패들 면적은 A=[2P/(C·ρ·V3)]식을 적용한다.)",
+        "answer": 4,
+        "A": "8543W, 104m2",
+        "B": "8543W, 92m2",
+        "C": "7543W, 104m2",
+        "D": "7543W, 92m2",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.5385
+    },
+    {
+        "question": "화상부하율이 250kg/(m2h)인 경우 하루 600t을 소각 시킬 때 필요한 화상면적(m2)은? (단, 하루 24시간 연속 소각 기준)",
+        "answer": 3,
+        "A": "25",
+        "B": "50",
+        "C": "100",
+        "D": "200",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.4167
+    },
+    {
+        "question": "500mL 물에 125mg의 염이 녹아 있을 때 이 수용액의 농도를 %로 나타낸 값은?",
+        "answer": 4,
+        "A": "0.125%",
+        "B": "0.250%",
+        "C": "0.0125%",
+        "D": "0.0250%",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.4783
+    },
+    {
+        "question": "규장질 심성암을 국제지질과학연합(IUGS) 분류 안으로 분류할 때 분류기준광물에 속하지 않는 것은?",
+        "answer": 2,
+        "A": "석영",
+        "B": "휘석",
+        "C": "준장석",
+        "D": "사장석",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.7245999999999999
+    },
+    {
+        "question": "불소(자외선/가시선 분광법)측정에 관한 설명으로 틀린 것은?",
+        "answer": 2,
+        "A": "알루미늄 및 철의 방해가 크나 증류하면 영향이 없다.",
+        "B": "정량한계는 0.5mg/L 이다.",
+        "C": "청색의 복합 착화합물의 흡광도를 620nm에서 측정한다.",
+        "D": "전처리는 직접증류법과 수증기증류법이 적용된다.",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.5652
+    },
+    {
+        "question": "채취한 쓰레기의 분석절차를 알맞게 나타낸 것은?",
+        "answer": 4,
+        "A": "시료-분류-밀도측정-물리적조성-전처리-조성분석",
+        "B": "시료-물리적조성-분류-전처리-밀도측정-조성분석",
+        "C": "시료-전처리-밀도측정-분류-물리적조성-조성분석",
+        "D": "시료-밀도측정-물리적조성-분류-전처리-조성분석",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "폐기물처리시설의 종류 중 화학적 처리시설과 가장 거리가 먼 것은?",
+        "answer": 3,
+        "A": "반응시설",
+        "B": "응집 ㆍ 침전시설",
+        "C": "증발 ㆍ 농축시설",
+        "D": "고형화 ㆍ 안정화시설",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "광물의 침전온도와 압력 및 광화유체의 화학적 특성에 대한 정보를 제공하는 것은?",
+        "answer": 4,
+        "A": "광물의 조직과 결정형",
+        "B": "안정동위원소",
+        "C": "용융점",
+        "D": "유체포유물",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.7556
+    },
+    {
+        "question": "대상 폐기기물의 양이 600톤인 경우 현장 시료의 최소수는?",
+        "answer": 2,
+        "A": "30",
+        "B": "36",
+        "C": "50",
+        "D": "60",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.7143
+    },
+    {
+        "question": "인구 10만명인 어느 도시에서 쓰레기를 소각처리하기 위해 분리수거를 하고 있다. 조사결과 아래와 같은 자료를 얻었을 때 가연성분 전량을 소각로로 운반하는데 필요한 차량은 몇 대 인가? (단, 쓰레기 조성 : 가연성 60Wt, 불연성 40Wt, 쓰레기 발생량 : 1.8kg/인ㆍ일, 쓰레기 차의 적재 밀도 : 0.6t/m3, 쓰레기 차의 적재 용량 : 4.3m3, 적재율 : 0.8, 수거차 일일 평균 왕복회수 : 3회/대ㆍ일)",
+        "answer": 3,
+        "A": "17대",
+        "B": "27대",
+        "C": "37대",
+        "D": "47대",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.8065000000000001
+    },
+    {
+        "question": "압축기에 플라스틱을 넣고 압축시킨 결과 부피의 감소율이 80%였다면 압축비는?",
+        "answer": 1,
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.6
+    },
+    {
+        "question": "시험에 적용되는 온도 표시로 틀린 것은?",
+        "answer": 2,
+        "A": "실온 : 1∼35℃",
+        "B": "찬곳 : 0℃ 이하",
+        "C": "온수 : 60∼70℃",
+        "D": "상온 : 15∼25℃",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.8251999999999999
+    },
+    {
+        "question": "환경정책기본법령상 8시간 대기환경기준치가 0.06ppm 이하인 것은?",
+        "answer": 4,
+        "A": "아황산가스",
+        "B": "일산화탄소",
+        "C": "이산화질소",
+        "D": "오존",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.3333
+    },
+    {
+        "question": "소각할 쓰레기의 양이 12,760kg/day이다. 1일 10시간 소각로를 가동시키고 화격자의 면적이 7.25m2 일 경우 이 쓰레기 소각로의 소각능력은?",
+        "answer": 3,
+        "A": "116kg/m2 · hr",
+        "B": "138kg/m2 · hr",
+        "C": "176kg/m2 · hr",
+        "D": "189kg/m2 · hr",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "쓰레기와 하수처리장에서 얻어진 슬러지를 함께 매립하려고 한다. 쓰레기와 슬러지의 고형물함량이 각각 50%, 20%라고 하면 쓰레기와 슬러지를 8:2로 섞을 때의 이 혼합폐기물의 함수율은? (단, 무게 기준이며 지중은 1.0으로 가정함)",
+        "answer": 1,
+        "A": "56%",
+        "B": "59%",
+        "C": "62%",
+        "D": "65%",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.6429
+    },
+    {
+        "question": "일반적으로 회전원판법에서 원판 직경의 몇 %가 물에 잠긴 상태에서 운영하는가?",
+        "answer": 2,
+        "A": "약 20%",
+        "B": "약 40%",
+        "C": "약 60%",
+        "D": "약 80%",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.625
+    },
+    {
+        "question": "수산화나트륨 40g을 증류수에 녹여 2.0L로 하였을 때 규정농도(N)는?",
+        "answer": 2,
+        "A": "0.1N",
+        "B": "0.5N",
+        "C": "1.0N",
+        "D": "2.0N",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.4286
+    },
+    {
+        "question": "구리의 흡광광도법 측정에서 추출용매로서 초산부틸 대신 사용할 수 있는 것으로 가장 적절한 것은?",
+        "answer": 2,
+        "A": "아세톤",
+        "B": "벤젠",
+        "C": "알콜",
+        "D": "에틸렌디아민테트라 초산이나트륨",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "다중이용시설 등의 실내공기질 관리법규상 “철도역사의 대합실”에서의 PM10(㎍/m3) 실내공기질 유지기준은?",
+        "answer": 2,
+        "A": "200 이하",
+        "B": "150 이하",
+        "C": "100 이하",
+        "D": "50 이하",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.6364
+    },
+    {
+        "question": "인산염인을 측정하기 위해 적용 가능한 시험방법과 가장 거리가 먼 것은?",
+        "answer": 2,
+        "A": "이온크로마토그래피",
+        "B": "자외선/가시선 분광법(카드뮴-구리 환원법)",
+        "C": "자외선/가시선 분광법(아스코르빈산 환원법)",
+        "D": "자외선/가시선 분광법(이염화주석 환원법)",
+        "Category": "Environmental Science",
+        "Human Accuracy": 0.3636
+    }
+]

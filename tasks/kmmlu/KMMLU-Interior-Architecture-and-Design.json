@@ -1,0 +1,202 @@
+[
+    {
+        "question": "크리스마스 파티를 위한 데코레이션 색채계획으로 옳은 것은?",
+        "answer": 1,
+        "A": "축제 분위기의 주조색을 빨강과 초록으로 하였다.",
+        "B": "짙은 회색으로 아쉬움을 표현하였다.",
+        "C": "복잡한 시기이므로 짙은 청색의 단순한 색채계획을 하였다.",
+        "D": "식욕을 저하시키는 색채를 신중히 선정하였다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "공간을 에워싸는 수직적 요소로 수평방향을 차단하여 공간을 형성하는 기능을 하는 실내 공간의 구성요소는?",
+        "answer": 1,
+        "A": "벽",
+        "B": "바닥",
+        "C": "천장",
+        "D": "기둥",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.96
+    },
+    {
+        "question": "합성수지계 재료 중 우수한 투명성, 내후성을 활용하여 톱라이트, 온수 풀의 옥상, 아케이드 등에 유리의 대용품으로 사용되는 것은?",
+        "answer": 1,
+        "A": "폴리카보네이트",
+        "B": "선상폴리아미드 수지",
+        "C": "폴리판 수지",
+        "D": "폴리에틸렌 수지",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "접합하려는 2개의 부재를 한 쪽 또는 양 쪽면을 절단,개선하여 용접하는 방법으로 모재와 같은 허용응력도를 가진 용접의 종류는?",
+        "answer": 2,
+        "A": "모살용접",
+        "B": "맞댐용접",
+        "C": "플러그용접",
+        "D": "슬롯용접",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "색채조화론에서 면적의 효과에 대한 설명 중 옳은 것은?",
+        "answer": 1,
+        "A": "작은 면적의 강한 색과 큰 면적의 약한 색은 서로 잘 어울린다.",
+        "B": "채도가 높고 강한 색은 어떤 면적에도 잘 어울리며 안정감을 준다.",
+        "C": "채도가 높고 강한 색은 넓은 면적에 사용하면 좋은 효과를 얻을 수 있다.",
+        "D": "배색에 수반되는 감정효과는 균형점의 색상, 명도, 채도와 관계없이 조화된다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "전체적인 조립방법이 모순 없이 질서를 잡는 것을 의하는 실내디자인의 구성 원리는?",
+        "answer": 3,
+        "A": "점층",
+        "B": "균형",
+        "C": "조화",
+        "D": "리듬",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "채광에 관한 내용 중 옳지 않은 것은?",
+        "answer": 4,
+        "A": "편측창은 개방감과 전망이 좋고 통풍에 유리하다.",
+        "B": "천창은 시야가 차단되므로 폐쇄된 분위기가 되기 쉽다.",
+        "C": "양측창은 실의 분위기가 둘로 나누어 질 수 있다.",
+        "D": "정측창은 개폐, 청소, 수리, 관리가 쉽다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "질감(Texture)에 대한 설명으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "거친 질감은 가볍고 환한 느낌을 준다.",
+        "B": "촉각 또는 시각으로 지각할 수 있는 어떤 물체 표면상의 특징을 말한다.",
+        "C": "효과적인 질감 표현을 위해서는 색채와 조명을 동시에 고려해야 한다.",
+        "D": "질감은 시각적 환경에서 여러 종류의 물체들을 구분하는데 도움을 줄 수 있는 특징이 있다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.9286
+    },
+    {
+        "question": "유리섬유를 불규칙하게 상온가압하여 성형한 판으로, 알칼리 이외의 화학약품에 대한 저항성이 있고 설비재, 내외 수장재로 쓰이는 것은?",
+        "answer": 1,
+        "A": "폴리에스테르강화판",
+        "B": "멜라민치장판",
+        "C": "페놀수지판",
+        "D": "염화비닐판",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.7692
+    },
+    {
+        "question": "건축물의 지하층에 설치하는 비상탈출구의 유효너비 및 유효높이는 각각 최소 얼마 이상으로 하여야 하는가?",
+        "answer": 4,
+        "A": "0.5m, 0.5m",
+        "B": "0.5m, 0.75m",
+        "C": "0.75m, 0.75m",
+        "D": "0.75m, 1.5m",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.6792
+    },
+    {
+        "question": "석유나 가스의 저장탱크를 흰색이나 은색으로 칠하는 가장 큰 이유는?",
+        "answer": 1,
+        "A": "반사율이 높은 색이므로",
+        "B": "흡수율이 높은 색이므로",
+        "C": "명시성이 높은 색이므로",
+        "D": "팽창성이 높은 색이므로",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "거실의 채광 및 환기에 관한 규정으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "채광을 위하여 거실에 설치하는 창문 등의 면적은 그 거실의 바닥면적의 1/20이상이어야 한다.",
+        "B": "환기를 위하여 거실에 설치하는 창문 등의 면적은 그 거실의 바닥면적의 1/20이상이어야 한다.",
+        "C": "채광 및 환기를 위하여 거실에 설치하는 창문 등의 면적을 정하는 경우 수시로 개방할 수 있는 미닫이로 구획된 2개의 거실은 이를 1개의 거실로 본다.",
+        "D": "오피스텔에 거실 바닥으로부터 높이 1.2m이하 부분에 여닫을 수 있는 창문을 설치하는 경우에는 국토해양부령으로 정하는 기준에 따라 추락방지를 위한 안전시설을 설치하여야 한다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.8261
+    },
+    {
+        "question": "인간-기계의 통합체계 중 반자동 체계에 해당하는 것은?",
+        "answer": 2,
+        "A": "수동 체계",
+        "B": "기계화 체계",
+        "C": "인력이용 체계",
+        "D": "정보 체계",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.5714
+    },
+    {
+        "question": "색의 경연감과 흥분 진정에 관한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "고명도, 저채도 색이 부드러운 느낌을 준다.",
+        "B": "난색계, 고채도 색은 흥분색이다.",
+        "C": "라이트(light) 색조는 부드러운 느낌을 준다.",
+        "D": "한색보다 난색이 딱딱한 느낌을 준다.",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.6271
+    },
+    {
+        "question": "상점에서 쇼윈도, 출입구 및 홀의 입구부분을 포함한 평면적인 구성요소와 아케이드, 광고판, 사인, 외부장치를 포함한 입체적인 구성요소의 총체를 의미하는 것은?",
+        "answer": 1,
+        "A": "파사드",
+        "B": "스크린",
+        "C": "AIDMA",
+        "D": "디스플레이",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.6296
+    },
+    {
+        "question": "특정 상품을 효과적으로 비추어 상품을 강조할 때 이용되는 조명 방식은?",
+        "answer": 3,
+        "A": "다운 라이트",
+        "B": "브라켓",
+        "C": "스포트 라이트",
+        "D": "팬던트",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "먼셀의 색상기호 \"2.OYR 3.5/4.0\"과 같은 관용색명은?",
+        "answer": 2,
+        "A": "황토색(Yellow Ocher)",
+        "B": "밤색(Maroon)",
+        "C": "진분홍(Rose Carmine)",
+        "D": "레몬색(Lemon Yellow)",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "점토 반죽에 샤모테를 첨가하여 사용하는 경우가 있는데 이 샤모테의 사용 목적은?",
+        "answer": 1,
+        "A": "가소성 조절용",
+        "B": "용융성 조절용",
+        "C": "경화시간 조절용",
+        "D": "강도 조절용",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "환기·난방 또는 냉방시설의 풍도가 방화구역을 관통하여 그 관통부분 또는 이에 근접한 부분에 댐퍼를 설치하고자 할 때, 설치하는 댐퍼의 재료로 철판을 사용할 경우 철판의 두께는 최소 얼마 이상으로 하여야 하는가?",
+        "answer": 3,
+        "A": "0.5mm",
+        "B": "1.0mm",
+        "C": "1.5mm",
+        "D": "2.0mm",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "원가 절감을 목적으로 공사계약 후 당해 공사의 현장 여건 및 사전조사 등을 분석한 이후 공사 수행을 위하여 세부적으로 작성하는 예산은?",
+        "answer": 3,
+        "A": "추경예산",
+        "B": "변경예산",
+        "C": "실행예산",
+        "D": "도급예산",
+        "Category": "Interior Architecture and Design",
+        "Human Accuracy": 0.8101
+    }
+]

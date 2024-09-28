@@ -1,0 +1,202 @@
+[
+    {
+        "question": "화학반응 속도에 영향을 주는 인자가 아닌 것은?",
+        "answer": 1,
+        "A": "반응엔 탈피의 크기",
+        "B": "반응 온도",
+        "C": "활성화 에너지의 크기",
+        "D": "반응물들의 충돌 횟수",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "금속 양이온의 산화수가 나머지와 다른 것은?",
+        "answer": 1,
+        "A": "Fe2O3",
+        "B": "SrSO 4",
+        "C": "CdI2",
+        "D": "ZnS",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "자유 라디칼 중 합의 종류가 아닌 것은?",
+        "answer": 4,
+        "A": "용액 중합(solution polym erization)",
+        "B": "현탁 중합(suspens ion polym erization)",
+        "C": "유화 중합(em uls ion polym erization)",
+        "D": "리빙 중합(living polym erization)",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "석유 화학공정에 대한 설명으로 옳지 않은 것은?",
+        "answer": 4,
+        "A": "접촉 분해(catalytic cracking)는 분자량이 큰 탄화수소를 분해하여 고옥탄가의 가솔린을 제조한 다 .",
+        "B": "수소화 탈황(hydrodesulfurization) 은 분별 증류된 유분에서 황을 제거한 다 .",
+        "C": "접촉 개질(catalytic reforming) 은 선형 탄화수소를 옥탄가가 높은 가 지 달린 탄화수소나 방향 족 화합물로 전환한 다 .",
+        "D": "메타자일렌 (m-xylene) 을 파라자일렌 (p-xylene) 으로 전환하는 것은 알킬화 공정이 다 .",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "분진폭발이 대형화하는 경우가 아닌 것은?",
+        "answer": 2,
+        "A": "분진 자체가 폭발성 물질일 때",
+        "B": "밀폐공간 내 산소의 농도가 적을 때",
+        "C": "밀폐공간 내 고온, 고압의 상태가 유지될 때",
+        "D": "밀폐공간 내 인화성 가스 및 가스가 존재할 때",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.8509
+    },
+    {
+        "question": "분진폭발이 대형화하는 경우가 아닌 것은?",
+        "answer": 2,
+        "A": "분진 자체가 폭발성 물질일 때",
+        "B": "밀폐공간 내 산소의 농도가 적을 때",
+        "C": "밀폐공간 내 고온, 고압의 상태가 유지될 때",
+        "D": "밀폐공간 내 인화성 가스 및 가스가 존재할 때",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.8509
+    },
+    {
+        "question": "중성원자를 고려할 때, 원자가 전자수가 같은 원자들의 원자번호끼리 옳게 짝지은 것은?",
+        "answer": 4,
+        "A": "1, 2, 9",
+        "B": "5, 6, 9",
+        "C": "4, 12, 17",
+        "D": "9, 17, 35",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "유효숫자를 고려한 (13.59×6.3) ÷ 12의 값은?",
+        "answer": 1,
+        "A": "7.1",
+        "B": "7.13",
+        "C": "7.14",
+        "D": "7.135",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "주기율표상에서 나트륨(Na)부터 염소(Cl)에 이르는 3주기 원소들의 경향성을 옳게 설명한 것은?",
+        "answer": 2,
+        "A": "Na로부터 Cl로 갈수록 전자친화력은 약해진다.",
+        "B": "Na로부터 Cl로 갈수록 1차이온화에너지는 커진다.",
+        "C": "Na로부터 Cl로 갈수록 원자반경은 커진다.",
+        "D": "Na로부터 Cl로 갈수록 금속성이 증가한다.",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "가시광선 영역에서 가장 긴 파장의 빛을 흡수하는 착이온은?",
+        "answer": 4,
+        "A": "[Co(NH3)6] 2+",
+        "B": "[Co(H2O)6]2+",
+        "C": "[Co(CN)6]4-",
+        "D": "[CoF6]4-",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "촉매에 대한 설명으로 옳은 것은?",
+        "answer": 2,
+        "A": "촉매는 반응 속도 상수를 변화시키지 않는다 .",
+        "B": "불균일 촉매는 반응물과 다른 상으로 존재한 다 .",
+        "C": "촉매는 화학 반응에 대한 평형상수를 변화시킨 다 .",
+        "D": "촉매는 반응엔 탈피를 증가시킨 다 .",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "나트륨(Na) 기체의 전형적인 원자흡수 스펙트럼을 옳게 나타낸 것은?",
+        "answer": 1,
+        "A": "선(line) 스펙트럼",
+        "B": "띠(bond) 스펙트럼",
+        "C": "연속(continuous) 스펙트럼",
+        "D": "선과 띠의 혼합 스펙트럼",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.8824
+    },
+    {
+        "question": "분석계획 수립 시 필요한 지식이 아닌 것은?",
+        "answer": 4,
+        "A": "표준분석법에 대한 지식",
+        "B": "시험기구의 종류에 대한 지식",
+        "C": "분석시험 절차에 대한 지식",
+        "D": "동료 연구자에 대한 지식",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.9754
+    },
+    {
+        "question": "탄소(C), 수소(H), 산소(O)로 이루어진 화합물 X23g을 완전 연소시켰더니 CO244g과 H2O27g이 생성되었다. 화합물 X의 화학식은?",
+        "answer": 3,
+        "A": "HCHO",
+        "B": "C2H5CHO",
+        "C": "C2H6O",
+        "D": "CH3COOH",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "물질안전보건자료의 작성 원칙이 아닌 것은?",
+        "answer": 2,
+        "A": "한글로 작성하는 것을 원칙으로 하며, 외국 기관명 등 고유명사는 영어로 표기한다.",
+        "B": "여러 형태의 자료를 활용하여 작성 시 제공되는 자료의 출처를 모두 기재할 필요가 없다.",
+        "C": "외국어로 작성된 MSDS를 번역하고자 하는 경우에는 자료의 신뢰성이 확보될 수 있도록 최초의 작성 기관명 및 시기를 함께 기재한다.",
+        "D": "함유량의 ±5% 범위 내에서 함유량의 범위로 함유량을 대신하여 표시할 수 있다.",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.8354
+    },
+    {
+        "question": "플루오르 화합물 제조에 사용되지 않는 원료 물질은 ?",
+        "answer": 3,
+        "A": "형석",
+        "B": "인광석",
+        "C": "규석",
+        "D": "빙정석",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "TLC에서 Rf값을 구하는 식은?",
+        "answer": 1,
+        "A": "분석물의 이동거리 ÷ 용매의 최대 이동거리",
+        "B": "분석물의 이동거리 ÷ 표준물질의 최대 이동거리",
+        "C": "용매의 최대 이동거리 ÷ 분석물의 이동거리",
+        "D": "표준물질의 최대 이동거리 ÷ 분석물의 이동거리",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.7487
+    },
+    {
+        "question": "가연성 물질이 연소되기 위한 조건으로 가장 거리가 먼 것은?",
+        "answer": 3,
+        "A": "산소와 반응해야 한다.",
+        "B": "연소반응이 지속되기 위해서 산화반응이 발열반응이어야 한다.",
+        "C": "열전도율이 커야 한다.",
+        "D": "연소반응이 지속되기 위해 반응열이 충분히 방출되어야 한다.",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.7587999999999999
+    },
+    {
+        "question": "가장 안정한 탄소양이온(carbocation)은?",
+        "answer": 1,
+        "A": "(CH3) 3C+",
+        "B": "(CH3) 2CH+",
+        "C": "CH3CH 2+",
+        "D": "CH3+",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "주기율표에 대한 일반적인 설명 중 가장 거리가 먼 것은?",
+        "answer": 2,
+        "A": "1A족 원소를 알칼리금속이라고 한다.",
+        "B": "2A족 원소를 전이금속이라고 한다.",
+        "C": "세로열에 있는 원소들이 유사한 성질을 가진다.",
+        "D": "주기율표는 원자번호가 증가하는 순서로 원소를 배치하는 것이다.",
+        "Category": "Chemistry",
+        "Human Accuracy": 0.8361
+    }
+]

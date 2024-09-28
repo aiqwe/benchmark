@@ -1,0 +1,202 @@
+[
+    {
+        "question": "상온, 상압 하에서 메탄-공기의 가연성 혼합기체를 완전 연소시킬 때 메탄 1㎏을 완전연소시키기 위해서는 공기 약 몇 ㎏이 필요한가?",
+        "answer": 2,
+        "A": "4",
+        "B": "17",
+        "C": "19",
+        "D": "64",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.4443999999999999
+    },
+    {
+        "question": "도시가스사고의 사고 유형이 아닌 것은?",
+        "answer": 3,
+        "A": "시설부식",
+        "B": "시설 부적합",
+        "C": "보호포 설치",
+        "D": "연결부 이완",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.8621
+    },
+    {
+        "question": "냉동설비에 사용되는 냉매가스의 구비조건으로 틀린 것은?",
+        "answer": 2,
+        "A": "안전성이 있어야 한다.",
+        "B": "증기의 비체적이 커야 한다.",
+        "C": "증발열이 커야 한다.",
+        "D": "응고점이 낮아야 한다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.7222
+    },
+    {
+        "question": "고압가스 특정 제조 시설중 철도부지 밑에 매설하는 배관에 대하여 설명한 것이다. 옳지 않은 것은?",
+        "answer": 2,
+        "A": "배관은 그 외면으로 부터 다른 시설물과 30cm 이상의 거리를 유지한다.",
+        "B": "배관은 그 외면과 지표면과의 거리는 1m 이상 유지한다.",
+        "C": "배관은 그 외면으로 부터 궤도 중심과 4m 이상 유지한다.",
+        "D": "배관은 그 외면부터 수평거리 건축물까지 1.5m 이상 유지한다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.4412
+    },
+    {
+        "question": "원심펌프를 병렬로 연결하는 것은 무엇을 증가시키기 위한 것인가?",
+        "answer": 3,
+        "A": "양정",
+        "B": "동력",
+        "C": "유량",
+        "D": "효율",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.7313
+    },
+    {
+        "question": "수소취성을 방지하기 위해 강에 첨가하는 원소로서 옳지 않은 것은?",
+        "answer": 4,
+        "A": "Cr",
+        "B": "W",
+        "C": "Mo",
+        "D": "Mn",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "액화석유가스 충전소에서 저장탱크를 지하에 설치하는 경우에는 철근콘크리트로 저장탱크실을 만들고, 그 실내에 설치하여야 한다. 이 때 저장탱크 주위의 빈 공간에는 무엇을 채워야 하는가?",
+        "answer": 2,
+        "A": "물",
+        "B": "마른 모래",
+        "C": "자갈",
+        "D": "콜타르",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.911
+    },
+    {
+        "question": "액화석유가스를 용기 저장탱크 또는 제조설비에 이·충전 시 정전기 제거조치에 관한 내용 중 틀린 것은?",
+        "answer": 2,
+        "A": "접지저항 총합이 100Ω 이하의 것은 정전기 제거 조치를 하지 않아도 된다.",
+        "B": "피뢰설비가 설치된 것의 접지저항값이 50Ω 이하의 것은 정전기 제거조치를 하지 않아도 된다.",
+        "C": "접지 접속선 단면적은 5.5mm2 이상의 것을 사용해야 한다.",
+        "D": "탱크로리 및 충전에 사용하는 배관은 반드시 충전 전에 접지해야 한다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "밀폐된 공간 안에서 LP가스가 연소되고 있을 때의 현상으로 틀린 것은?",
+        "answer": 4,
+        "A": "시간이 지나감에 따라 일산화탄소가 증가된다.",
+        "B": "시간이 지나감에 따라 이산화탄소가 증가된다.",
+        "C": "시간이 지나감에 따라 산소농도가 감소된다.",
+        "D": "시간이 지나감에 따라 아황산가스가 증가된다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.6642
+    },
+    {
+        "question": "액화석유가스 자동차에 고정된 용기충전의 시설에 설치되는 안전밸브 중 압축기의 최종단에 설치된 안전밸브의 작동조정의 최소 주기는?",
+        "answer": 2,
+        "A": "6월에 1회 이상",
+        "B": "1년에 1회 이상",
+        "C": "2년에 1회 이상",
+        "D": "3년에 1회 이상",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.6581999999999999
+    },
+    {
+        "question": "압축성유체에 대한 설명 중 가장 올바른 것은?",
+        "answer": 2,
+        "A": "가역과정동안 마찰로 인한 손실이 일어난다.",
+        "B": "이상기체의 음속은 온도의 함수이다.",
+        "C": "유체의 유속이 아음속(subsonic)일 때, Mack 수는 1보다 크다.",
+        "D": "온도가 일정할 때 이상기체의 압력은 밀도에 반비례한다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.5781000000000001
+    },
+    {
+        "question": "아음속 유동에서 관지름의 변화에 의해서 생기는 손실에 대한 설명 중 틀린 것은?",
+        "answer": 4,
+        "A": "급격한 팽창에서는 작은 관에서보다 큰 관에서의 유속이 작다.",
+        "B": "급격한 팽창에서는 유체가 확대부분 근처에서 혼합되어 소용돌이를 이룬다.",
+        "C": "급격한 확대나 축소에서 흐름의 충돌과 이때 생기는 소용돌이 때문에 손실이 발생한다.",
+        "D": "급격한 축소에서는 흐름이 모두 축방향과 평행한 방향에서 관으로 들어온다.",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "가스미터의 종류 중 추량식 가스미터가 아닌 것은?",
+        "answer": 1,
+        "A": "로터리피스톤식미터",
+        "B": "오리피스미터",
+        "C": "터빈식미터",
+        "D": "벤츄리식미터",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "25℃, 100kPa인 방 안의 상대습도가 60%이라면 절대습도(또는 습도비)는 몇 kgH2O/kg건조공기인가? (단, 25℃에서 물의 포화압력은 3.17kPa이다.)",
+        "answer": 2,
+        "A": "0.008",
+        "B": "0.012",
+        "C": "0.029",
+        "D": "0.038",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.6
+    },
+    {
+        "question": "도시가스도매사업제조소에 설치된 비상공급시설 중 가스가 통하는 부분은 최소사용압력의 몇 배 이상의 압력으로 기밀시험이나 누출검사를 실시하여 이상이 없는 것으로 하는가?",
+        "answer": 1,
+        "A": "1.1",
+        "B": "1.2",
+        "C": "1.5",
+        "D": "2.0",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.4714
+    },
+    {
+        "question": "습증기의 열량을 측정하는 기구가 아닌 것은?",
+        "answer": 4,
+        "A": "조리개 열량계",
+        "B": "분리 열량계",
+        "C": "과열 열량계",
+        "D": "봄베 열량계",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.7669
+    },
+    {
+        "question": "LPG 용기 밸브 충전구의 일반적 나사 형식과 암모니아의 나사 형식이 바르게 연결된 것은?",
+        "answer": 3,
+        "A": "숫나사-암나사",
+        "B": "암나사-숫나사",
+        "C": "왼나사-오른나사",
+        "D": "오른나사-왼나사",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.4643
+    },
+    {
+        "question": "액화 가스를 충전한 차량에 고정된 탱크는 그 내부에 액면 요동을 방지하기 위하여 무엇을 설치하는가?",
+        "answer": 2,
+        "A": "슬리튜브",
+        "B": "방파판",
+        "C": "긴급차단장치",
+        "D": "역류방지밸브",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "석유화학장치에서 나프타 개질반응에 해당하지 않는 것은?",
+        "answer": 1,
+        "A": "코크스의 카르보닐화 레페반응",
+        "B": "나프텐의 탈수소반응",
+        "C": "파라핀의 탄화 탈수소반응",
+        "D": "나프텐의 이성화반응",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.4736999999999999
+    },
+    {
+        "question": "액화석유가스 저장탱크에는 자동차에 고정된 탱크에서 가스를 이입할 수 있도록 로딩암을 건축물 내부에 설치할 경우 환기구를 설치하여야 한다. 환기구 면적의 합계는 바닥면적의 얼마 이상을 기준으로 하는가?",
+        "answer": 3,
+        "A": "1%",
+        "B": "3%",
+        "C": "6%",
+        "D": "10%",
+        "Category": "Gas Technology and Engineering",
+        "Human Accuracy": 0.6242
+    }
+]

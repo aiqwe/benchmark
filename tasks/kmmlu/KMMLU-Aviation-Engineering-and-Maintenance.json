@@ -1,0 +1,202 @@
+[
+    {
+        "question": "최초 상태에서 임의의 여러 중간 과정을 겪은 뒤 마지막으로 최초의 상태로 돌아가는 계의 이 모든 과정을 무엇이라 하는가?",
+        "answer": 2,
+        "A": "개방계",
+        "B": "사이클",
+        "C": "밀폐계",
+        "D": "정상상태",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.8332999999999999
+    },
+    {
+        "question": "활주로 횡단시 관제탑에서 사용하는 신호등에 의한 신호가 녹색등 일때 조치사항으로 가장 적합한 것은?",
+        "answer": 2,
+        "A": "안전 - 빨리 횡단하기",
+        "B": "안전 - 횡단 가능",
+        "C": "사주를 경계한 후 횡단 가능",
+        "D": "위험 - 빨리 횡단하기",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7692
+    },
+    {
+        "question": "정상 작동중인 왕복기관에서 점화가 일어나는 시점은?",
+        "answer": 1,
+        "A": "상사점 전",
+        "B": "상사점",
+        "C": "하사점 전",
+        "D": "하사점",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.8382
+    },
+    {
+        "question": "프로펠러의 효율은 진행율에 비례하게 되는데 진행율이란 무엇인가?",
+        "answer": 2,
+        "A": "추력과 토그와의 비율",
+        "B": "유효피치와 프로펠러 지름과의 비율",
+        "C": "유효피치와 추력과의 비율",
+        "D": "기하피치와 프로펠러 지름과의 비율",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6049
+    },
+    {
+        "question": "헬리콥터에서 회전날개의 깃에 비틀림각을 주는 주된 이유는?",
+        "answer": 4,
+        "A": "유도속도를 깃 끝에서 집중하도록 하기 위해서",
+        "B": "유도속도를 깃 뿌리에 집중하도록 하기 위해서",
+        "C": "유도속도를 깃 중심에 집중하도록 하기 위해서",
+        "D": "유도속도를 깃 전체에 균일하도록 하기 위해서",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.5686
+    },
+    {
+        "question": "회전 날개 깃의 재료가 아닌 것은?",
+        "answer": 4,
+        "A": "목재",
+        "B": "금속",
+        "C": "복합재료",
+        "D": "석면",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "비행기가 정적 안정이 되고, 동적으로도 안정이 되어 있다면 외부에서 교란을 받았을 경우 어떠한 운동을 하는가?",
+        "answer": 1,
+        "A": "주기성 감쇠운동을 한다.",
+        "B": "주기성 중립운동을 한다.",
+        "C": "주기성 증폭운동을 한다.",
+        "D": "비주기성 증폭운동을 한다.",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6923
+    },
+    {
+        "question": "비행기의 가로축(Lateral Axis)을 중심으로 한 피치운동(Pitching)을 조종하는데 주로 사용되는 조종면은?",
+        "answer": 4,
+        "A": "플랩(Flap)",
+        "B": "방향키(Rudder)",
+        "C": "도움날개(Aileron)",
+        "D": "승강키(Elevator)",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7637
+    },
+    {
+        "question": "자이로의 섭동 각속도를 나타낸 것으로 옳은 것은? (단, M : 외부력에 의한 모멘트, L : 각 운동량이다.)",
+        "answer": 1,
+        "A": "M/L",
+        "B": "L/M",
+        "C": "L-M",
+        "D": "M×L",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6503
+    },
+    {
+        "question": "헬리콥터 날개의 후류가 지면에 영향을 줌으로써 회전면 아래의 압력이 증가되어 양력의 증가를 일으키는 현상은?",
+        "answer": 3,
+        "A": "위빙효과",
+        "B": "랜드업효과",
+        "C": "지면효과",
+        "D": "자동회전효과",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.789
+    },
+    {
+        "question": "소성가공은 어렵지만 인성 및 피로강도가 우수하고 고온 산화에 대한 저항성이 높아 항공기의 기관에 사용되는 금속은?",
+        "answer": 3,
+        "A": "니켈합금",
+        "B": "알루미늄합금",
+        "C": "티탄합금",
+        "D": "마그네슘합금",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7143
+    },
+    {
+        "question": "초기압력과 체적이 각각 P1=1000N/cm2, V1=1000cm3인 이상기체가 등온상태로 팽창하여 체적이 2000cm3이되었다면, 이 때 기체의 엔탈피 변화는 몇 J인가?",
+        "answer": 1,
+        "A": "0",
+        "B": "5",
+        "C": "10",
+        "D": "20",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6555
+    },
+    {
+        "question": "물체의 외력이 작용하면 내력이 발생하는데, 내력을 단위면적당의 크기로 표시한 것은?",
+        "answer": 1,
+        "A": "응력",
+        "B": "하중",
+        "C": "변형",
+        "D": "탄성",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7353000000000001
+    },
+    {
+        "question": "현재 제조하는 항공기에서 양력발생 효과를 높이기 위해 날개끝에 장착한 것은?",
+        "answer": 2,
+        "A": "윙팁",
+        "B": "윙렛",
+        "C": "윙팁익스텐션",
+        "D": "서브윙",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6429
+    },
+    {
+        "question": "비행기의 이륙활주거리를 짧게 하기 위한 방법이 아닌 것은?",
+        "answer": 4,
+        "A": "엔진의 추력을 크게 한다.",
+        "B": "비행기의 무게를 감소한다.",
+        "C": "슬렛(slat)과 플랩(flap)을 사용한다.",
+        "D": "항력을 줄이기 위해 작은 날개를 사용한다.",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7687999999999999
+    },
+    {
+        "question": "항공기 왕복기관의 시동계통에서 마그네토의 구성품이 아닌 것은?",
+        "answer": 4,
+        "A": "코일 어셈블리",
+        "B": "회전영구자석",
+        "C": "브레이커 어셈블리",
+        "D": "바이브레이터",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.5385
+    },
+    {
+        "question": "항공기 왕복기관에서 유입 공기에 의한 임팩트 압력 및 벤투리에 의한 부압의 차이로 유입 공기량을 측정하는 방식의 기화기는?",
+        "answer": 1,
+        "A": "압력 분사식 기화기",
+        "B": "부자식 기화기",
+        "C": "경계 압력식 기화기",
+        "D": "충동식 기화기",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "비행기의 가로안정에 날개가 가장 중요한 요소이다. 가로 안정을 유지시키는 가장 좋은 방법은?",
+        "answer": 2,
+        "A": "날개의 캠버를 크게 한다.",
+        "B": "날개에 쳐든각(diheadral angle)을 준다.",
+        "C": "날개의 시위선을 최대로 한다.",
+        "D": "밸런스 탭(balance tab)을 장착한다.",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7273000000000001
+    },
+    {
+        "question": "프로펠러의 슬립을 옳게 설명한 것은?",
+        "answer": 3,
+        "A": "프로펠러 이론 회전수와 기관의 회전수의 합을 프로 펠러의 실제 회전수에 대한 백분율로 표시한 것",
+        "B": "프로펠러 이론 회전수와 기관의 회전수의 차를 프로펠러의 실제 회전수에 대한 백분율로 표시한 것",
+        "C": "기하학적피치와 유효피치의 차를 평균 기하학적피치에 대한 백분율로 표시한 것",
+        "D": "유효피치와 기하학적피치의 합을 평균 기하학적피치에 대한 백분율로 표시한 것",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.7646999999999999
+    },
+    {
+        "question": "유체의 흐름과 관련하여 동압에 대한 설명으로 옳은 것은?",
+        "answer": 3,
+        "A": "속도와 밀도에 반비례한다.",
+        "B": "속도에 비례하고, 밀도에는 반비례한다.",
+        "C": "속도의 제곱에 비례하고, 밀도에 비례한다.",
+        "D": "속도에 비례하고, 밀도의 제곱에 비례한다.",
+        "Category": "Aviation Engineering and Maintenance",
+        "Human Accuracy": 0.4761999999999999
+    }
+]

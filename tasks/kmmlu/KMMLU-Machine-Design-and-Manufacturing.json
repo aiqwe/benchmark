@@ -1,0 +1,202 @@
+[
+    {
+        "question": "나사의 종류로 표시하는 기호 중 미터 사다리꼴 나사의 기호는?",
+        "answer": 4,
+        "A": "M",
+        "B": "SM",
+        "C": "TM",
+        "D": "Tr",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.4286
+    },
+    {
+        "question": "유압 액추에니터의 속도 조절용 밸브는?",
+        "answer": 3,
+        "A": "방향제어밸브",
+        "B": "압력제어밸브",
+        "C": "유량제어밸브",
+        "D": "축압기",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.6364
+    },
+    {
+        "question": "고로조업에서 고압조업의 효과로 옳은 것은?",
+        "answer": 4,
+        "A": "연진을 증가시킨다.",
+        "B": "출선량을 감소시킨다.",
+        "C": "코크스비를 증가시킨다.",
+        "D": "노황 불안정에 대한 방지효과가 있다.",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.7493000000000001
+    },
+    {
+        "question": "선의 종류와 용도에 대한 내용으로 틀린 것은?",
+        "answer": 3,
+        "A": "굵은 실선:대상물이 보이는 부분의 모양을 표시하는 데 사용된다.",
+        "B": "가는 1점 쇄선:중심이 이동한 중심궤적을 표시하는데 사용된다.",
+        "C": "가는 2점 쇄선:얇은 두께를 가진 부분을 나타내는데 사용된다.",
+        "D": "굵은 1점 쇄선:특수한 가공을 하는 부분 등 특별한 요구사항을 적용할 수 있는 범위를 표시하는데 사용된다.",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.6147
+    },
+    {
+        "question": "정비계획 수립시 고려할 사항이 아닌 것은?",
+        "answer": 3,
+        "A": "생산계획 확인",
+        "B": "설비능력 파악",
+        "C": "제품성분 분석",
+        "D": "수리요원",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.55
+    },
+    {
+        "question": "선반에서 길이방향 이송, 전후방향 이송, 나사깎기 이송 등의 이송장치를 가지고 있는 부분은?",
+        "answer": 1,
+        "A": "왕복대",
+        "B": "주축대",
+        "C": "이송변환기어박스",
+        "D": "리드 스크루",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "강의 열처리의 종류가 아닌 것은?",
+        "answer": 3,
+        "A": "계단 열처리",
+        "B": "항온 열처리",
+        "C": "연속가열 열처리",
+        "D": "표면경화 열처리",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.5263
+    },
+    {
+        "question": "평면상에서 하나의 원 (circle)을 기하학적으로 정의 하는 방법으로 맞지 않는 것은?",
+        "answer": 4,
+        "A": "중심점과 반지름",
+        "B": "중심점과 원주상의 한점",
+        "C": "원주상의 3점",
+        "D": "원주상의 한점과 원에 접하는 직선 하나",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "내열성, 내식성이 우수하여 화학공업용 펌프, 디젤기관의 밸브, 과열증기 밸브 등에 널리 쓰이는 니켈합금은?",
+        "answer": 2,
+        "A": "베네딕트",
+        "B": "모넬메탈",
+        "C": "양백",
+        "D": "알루멜",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "길이가 100mm인 봉이 인장 응력을 받았을 때 변형률이 1이라면 변형 후의 전체 길이는?",
+        "answer": 4,
+        "A": "50mm",
+        "B": "100mm",
+        "C": "150mm",
+        "D": "200mm",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.4667
+    },
+    {
+        "question": "일반적인 담금질의 목적으로 옳은 것은?",
+        "answer": 4,
+        "A": "연성 증가",
+        "B": "내부응력 증가",
+        "C": "조직의 표준화 및 미세화",
+        "D": "재료의 강도 및 경도 증가",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.8529000000000001
+    },
+    {
+        "question": "C급 블록 게이지는 주로 어디에 사용하는가?",
+        "answer": 1,
+        "A": "공작용",
+        "B": "검사용",
+        "C": "표준용",
+        "D": "참고용",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.8332999999999999
+    },
+    {
+        "question": "솔리드모델링 시스템 중 CSG 트리구조의 장점으로 틀린 것은?",
+        "answer": 4,
+        "A": "파라메트릭 모델링을 쉽게 구현할 수 있다.",
+        "B": "CSG트리에 저장된 솔리드는 항상 구현이 가능한 유효한 입체이다.",
+        "C": "자료 구조가 간단하고 데이터의 양이 적어 테이터의 관리가 용이하다.",
+        "D": "CSG 트리 표현으로부터 물체의 경계면, 경계모서리, 그리고 이들 간의 연결관계 등을 유도해내는 데 계산이 적어 시간이 적게 걸린다.",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.4443999999999999
+    },
+    {
+        "question": "연강봉을 선반으로 절삭깊이 4㎜, 이송량 0.4㎜/rev 절삭속도 100m/min 로 절삭코져 할 때 적당한 동력은? (단, 연강의 비절삭 저항의 값은 190 ㎏f/mm2 이고, 기계 효율을 80%로 한다.)",
+        "answer": 2,
+        "A": "5.5 PS",
+        "B": "8.5 PS",
+        "C": "11.5 PS",
+        "D": "14.5 PS",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "컴퓨터에서 통신속도의 단위는?",
+        "answer": 3,
+        "A": "DIP",
+        "B": "DPI",
+        "C": "BPS",
+        "D": "BPI",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.8419
+    },
+    {
+        "question": "연신율과 단면 수축률을 시험할 수 있는 재료 시험기는?",
+        "answer": 3,
+        "A": "피로시험기",
+        "B": "충격시험기",
+        "C": "인장시험기",
+        "D": "크리프시험기",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.6890999999999999
+    },
+    {
+        "question": "주철을 드릴로 가공할 때 드릴 날끝의 여유각은 몇도(°)가 적합한가?",
+        "answer": 2,
+        "A": "10° 이하",
+        "B": "12° ~ 15°",
+        "C": "20° ~ 32°",
+        "D": "32° 이상",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.6415000000000001
+    },
+    {
+        "question": "서로 관련있는 내용끼리 연결이 잘못된 것은?",
+        "answer": 1,
+        "A": "선진율 = (롤 주속도-입측속도) / (롤 주속도×100)",
+        "B": "압하량 = 소재두께 - 제품두께",
+        "C": "감면량 = 초기 단면적 - 압연 후 단면적",
+        "D": "롤 주속도 = (π × 직경 × 회전수) / 60",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.8112
+    },
+    {
+        "question": "폭(b)×높이(h)=10X8인 묻힘키이가 전동축에 고정되어 25,000㎏f.㎜의 토크를 전달할 때,축지름 d는 몇 ㎜ 정도가 적당한가? (단, 키이의 허용 전단응력은 3.7㎏, f/㎜2이며,키이의 길이는 46㎜ 이다.)",
+        "answer": 1,
+        "A": "d=29.4",
+        "B": "d=35.3",
+        "C": "d=41.7",
+        "D": "d=50.2",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 0.5832999999999999
+    },
+    {
+        "question": "최대 틈새가 0.075mm 이고, 촉의 최소 허용 치수가 49.950mm 일 때 구명의 초대 허용 치수는?",
+        "answer": 1,
+        "A": "50.025mm",
+        "B": "49.875mm",
+        "C": "49.975mm",
+        "D": "50.075mm",
+        "Category": "Machine Design and Manufacturing",
+        "Human Accuracy": 1.0
+    }
+]

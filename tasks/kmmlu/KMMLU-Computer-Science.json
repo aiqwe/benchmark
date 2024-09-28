@@ -1,0 +1,202 @@
+[
+    {
+        "question": "“윈도98”에서 도스를 실행시켰더니 전체화면 형태로 도구들이 보이지 않아 불편하였다. 도스의 창 형태로 전환하려면 어떤 키를 눌러야 하는가?",
+        "answer": 4,
+        "A": "Ctrl + Space",
+        "B": "Ctrl + Enter",
+        "C": "Alt + Space",
+        "D": "Alt + Enter",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.5417000000000001
+    },
+    {
+        "question": "Windows NT 보안 서브시스템(Security Sub-System)의 기능들로 짝지어진 것은?",
+        "answer": 1,
+        "A": "사용자 인증 - 사용자 행동에 대한 감시 및 로그 기록 - 메모리 영역의 비인가된 접근통제",
+        "B": "사용자 인증 - 도메인에 존재하는 개체의 저장 - 사용자가 소유한 자원에 대한 접근 통제",
+        "C": "사용자 인증 - 도메인에 존재하는 개체의 저장 - 시스템 정보의 저장",
+        "D": "사용자 인증 - 도메인에 존재하는 개체의 저장 - 디렉토리의 사용 권한을 설정함",
+        "Category": "Computer Science",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "포스트스크립트에 관한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "크기나 변형에 있어서 이미지의 질과는 관계없이 크기‧모양의 변화가 용이하다.",
+        "B": "포스트스크립트는 페이지 기술 언어로서 고급 프린터 시스템에 내장 지원 된다.",
+        "C": "패스의 색과 두께, 그리고 패스의 위치와 크기에 관한 정보도 가지고 있다.",
+        "D": "자유곡선과 같은 복잡한 형태는 래스터 이미지 형태로 만들어낸다.",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.4
+    },
+    {
+        "question": "DNS 레코드 중 IP Address를 HostName으로 변환하는 레코드는?",
+        "answer": 3,
+        "A": "SOA",
+        "B": "A",
+        "C": "PTR",
+        "D": "CNAME",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "디자인의 요소 중 선에 대한 특성으로 연결이 잘못 된 것은?",
+        "answer": 2,
+        "A": "곡선 - 매력, 우아",
+        "B": "사선 - 동적, 안정",
+        "C": "수평선 - 평화, 정지",
+        "D": "수직선- 희망, 긴장",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.6364
+    },
+    {
+        "question": "파워포인트에서 프레젠테이션을 구성하는 기본 단위는?",
+        "answer": 2,
+        "A": "노트",
+        "B": "슬라이드",
+        "C": "개요",
+        "D": "마스터",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "암호 프로토콜에 속하지 않는 것은?",
+        "answer": 4,
+        "A": "키 교환 프로토콜",
+        "B": "디지털 서명",
+        "C": "전자화폐",
+        "D": "비밀키 암호",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "NFS는 사용자가 원격파일을 액세스하는데 필요한 두 가지 프로토콜을 구현한다. 그 중 마운트 프로토콜의 특성으로 맞는 것은?",
+        "answer": 1,
+        "A": "NFS 서버를 클라이언트 호스트의 로컬 디렉터리 구조에 연결하는데 필요한 기능을 제공한다.",
+        "B": "클라이언트가 NFS 서버상의 파일을 액세스하는데 필요한 네트워크 통신 메카니즘을 구성한다.",
+        "C": "로컬사용자가 원격파일에 액세스하는데 필요한 실제적인 네트워크 전송을 다룬다.",
+        "D": "UDP 전달계층 프로토콜 위에 구축된다.",
+        "Category": "Computer Science",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "송신측에서 11012 의 데이터를 전송하였으나, 수신측이 받은 데이터는 10112로 나타났다. 이 때 두 데이터간의 해밍거리로 옳은 것은?",
+        "answer": 2,
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.2857
+    },
+    {
+        "question": "네트워크 관리를 위한 프로토콜이 아닌 것은?",
+        "answer": 3,
+        "A": "CMIP",
+        "B": "SNMP",
+        "C": "SMTP",
+        "D": "CMIS",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.3333
+    },
+    {
+        "question": "2진수로 부여된 주소 값이 직접 기억장치의 피연산자가 위치한 곳을 지정하는 주소 지정 방법은?",
+        "answer": 2,
+        "A": "즉시주소지정(Immediate Addressing)",
+        "B": "직접주소지정(Direct Addressing)",
+        "C": "간접주소지정(Indirect Addressing)",
+        "D": "인덱스주소지정(Index Addressing)",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.7222
+    },
+    {
+        "question": "인터넷 익스플로러 6.0에서 명시되어 있는 자동완성 설정의 대상이 아닌 것은?",
+        "answer": 2,
+        "A": "웹 주소",
+        "B": "사용자의 전자우편 주소",
+        "C": "폼",
+        "D": "폼에 사용할 사용자 이름과 암호",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "유지보수 작업에서 회로시험기를 이용하여 연결선의 단선 여부를 알아보려면 회로시험기의 선택스위치를 어느 단자에 놓아야 하는가?",
+        "answer": 3,
+        "A": "교류전압측정 위치",
+        "B": "직류전압측정 위치",
+        "C": "저항측정 위치",
+        "D": "전류측정 위치",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.25
+    },
+    {
+        "question": "일반 제도에서 ø30은 무엇을 나타내는가?",
+        "answer": 4,
+        "A": "반지름 30mm",
+        "B": "모따기 30mm",
+        "C": "두께 30mm",
+        "D": "지름 30mm",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.6289
+    },
+    {
+        "question": "스캔 공격에 대하여 잘못 설명한 것은?",
+        "answer": 4,
+        "A": "시스템 스캔 도구는 파일이나 디렉토리의 잘못된 권한 설정, 잘못된 패스워드를 갖는 계정 등을 알아 내는 공격이다.",
+        "B": "네트워크 스캔 도구는 사용되는 운영체제의 종류, 열려진 포트 번호, 도메인 이름 등을 알아 내는 도구이다.",
+        "C": "대표적인 네트워크 스캔 도구로는 ISS, SATAN, NAMP등이 있다.",
+        "D": "네트워크 스캔 공격은 무결성 검사를 위한 트립와이어를 이용하여 막을 수 있다.",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "물체의 표면이 가지고 있는 특징의 차이를 시각과 촉각을 통하여 느낄 수 있는 성질을 의미하는 것은?",
+        "answer": 4,
+        "A": "색감",
+        "B": "항상성",
+        "C": "고유성",
+        "D": "재질감",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.9054
+    },
+    {
+        "question": "32bit IP Address를 48bit 이더넷 주소로 변환하는 프로토콜은?",
+        "answer": 1,
+        "A": "ARP",
+        "B": "RARP",
+        "C": "IGMP",
+        "D": "ICMP",
+        "Category": "Computer Science",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "Exchange의 서비스에 대한 설명으로 옳지 않은 것은?",
+        "answer": 2,
+        "A": "MS Exchange IMAP4 : IMAP4 프로토콜을 지원한다.",
+        "B": "MS Exchange Information Store : 메일과 뉴스를 저장하는 역할을 한다.",
+        "C": "MS Exchange NNTP : 유즈넷 뉴스 그룹 프로토콜을 지원한다.",
+        "D": "MS Exchange POP3 : POP3 프로토콜을 지원한다.",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "네거티브 필름을 확대하기 전에 네거티브 필름과 같은 크기의 인화를 해 봄으로써 확대할 네거티브 필름의 상태를 알아보는 것은?",
+        "answer": 1,
+        "A": "밀착인화",
+        "B": "확대인화",
+        "C": "스포팅",
+        "D": "에칭",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.5652
+    },
+    {
+        "question": "인터넷 한글 키워드 시스템 기능에 대한 설명으로 옳지 않은 것은?",
+        "answer": 3,
+        "A": "주소 표시줄에 찾고자 하는 사이트 이름을 입력한다.",
+        "B": "한글 키워드 시스템에서 입력된 키워드가 DNS에 등록된 경우 자동 연결한다.",
+        "C": "웹 브라우저의 URL 입력창에서 한글 키워드가 DNS에 등록되지 않으면 검색엔진 구글로 검색결과를 화면에 보여준다.",
+        "D": "인터넷 한글 키워드 시스템 기능은 인터넷 익스플로러 5.0 이상에서 사용 가능하다.",
+        "Category": "Computer Science",
+        "Human Accuracy": 0.0
+    }
+]

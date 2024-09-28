@@ -1,0 +1,202 @@
+[
+    {
+        "question": "선로의 전파정수가 r=0.1+j1.2로 주어졌을 때 전압파(Voltage Wave)가 15[m]의 선로를 따라 진행하면 이동된 위상각은 약 명 [°]인가?",
+        "answer": 2,
+        "A": "932[°]",
+        "B": "1,032[°]",
+        "C": "1,132[°]",
+        "D": "1,232[°]",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.5786
+    },
+    {
+        "question": "호스트 컴퓨터와 변복조기 사이에 설치되어 여러대의 터미널이 하나의 공통포트를 이용하도록 해주는 장비는?",
+        "answer": 1,
+        "A": "포트공동이용기",
+        "B": "포트선택기",
+        "C": "RS－232－C",
+        "D": "RS－449－A",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "한정된 통신 링크를 다수의 사용자가 공유할 수 있도록 하는 전송 방식은?",
+        "answer": 2,
+        "A": "부호화",
+        "B": "다중화",
+        "C": "동기화",
+        "D": "집선화",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.7143
+    },
+    {
+        "question": "전자교환기의 가 입자 정합기능의 종류를 약어로 정리하면 'BORSCHT'일 때, 기능에 대한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "B : 통화 전류 공급",
+        "B": "O : 과전압 보호",
+        "C": "H : 2선/4선 상호 변환",
+        "D": "T : 전송",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.7639
+    },
+    {
+        "question": "무선통신시스템의 간섭을 경감하기 위한 방법으로 가장 관계 없는 것은?",
+        "answer": 4,
+        "A": "반송파 간격의 적정배치",
+        "B": "안테나의 지향성 개선",
+        "C": "치국선정시 적절한 차폐물 이용",
+        "D": "전파경로의 고정화",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "푸시 버튼 전화기에서 숫자 버튼 기능의 주파수에 대해 맞는 것은?",
+        "answer": 3,
+        "A": "1 = 697[Hz] + 1633[Hz]",
+        "B": "5 = 941[Hz] + 1336[Hz]",
+        "C": "9 = 852[Hz] + 1477[Hz]",
+        "D": "0 = 770[Hz] + 1336[Hz]",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "루프 안테나(Loop Antenna)의 특성에 속하지 않는 것은?",
+        "answer": 4,
+        "A": "급전선과의 정합이 어렵다.",
+        "B": "수평면내 지향성 특성이 8자형이다.",
+        "C": "소형으로 이동이 용이하다.",
+        "D": "주간오차가 크다.",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "고속모뎀에서 통신회선의 상태가 좋지 않아 고속의 전송이 불가능할 때 전송속도를 스스로 감소 시키는 것은?",
+        "answer": 2,
+        "A": "Polling",
+        "B": "Fall back",
+        "C": "Calling",
+        "D": "Scanning",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "전압 이득이 60[dB]인 저주파 전압 증폭기가 10[%]의 왜율을 가지고 있을 때 이것을 0.1[%] 정도로 개선하는 방법은?",
+        "answer": 1,
+        "A": "궤환율이 약 20[dB]인 부궤환을 걸어준다.",
+        "B": "궤환율이 약 20[dB]인 정궤환을 걸어준다.",
+        "C": "증폭도를 10[dB] 낮게 한다.",
+        "D": "전압 변동율을 1/10로 낮게 한다.",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "사업자의 교환설비로부터 이용자 방송통신설비의 최초 단자에 이르기까지의 사이에 구성되는 회선을 말하는 것은?",
+        "answer": 1,
+        "A": "국선",
+        "B": "내선",
+        "C": "전송설비",
+        "D": "선로설비",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "국제 표준화 기구 중 정보통신 기술 분야의 표준화를 목적으로 한 국제 표준화 기구는?",
+        "answer": 1,
+        "A": "ITU(International Telecommunication Unit)",
+        "B": "ISO(International Organization for standardization)",
+        "C": "IEEE(Institute of Electrical and Electronics Engineers)",
+        "D": "TTA(Telecommunication Technology Association)",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "데이터그램 교환방식과 가상회선 교환방식은 어느 교환 통신망에 속하는 기술인가?",
+        "answer": 1,
+        "A": "패킷교환망",
+        "B": "회선교환망",
+        "C": "메시지교환망",
+        "D": "음성교환망",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "가장 이상적인 VSWR(정재파비)의 값은 얼마인가?",
+        "answer": 3,
+        "A": "0",
+        "B": "∞",
+        "C": "1",
+        "D": "10",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.7419
+    },
+    {
+        "question": "중앙처리장치가 기억장치 혹은 I/O 장치와의 사이에 데이터를 전송하기 위한 신호선들의 집합을 무엇이라 하는가?",
+        "answer": 3,
+        "A": "신호 버스(Signal Bus)",
+        "B": "주소 버스(Address Bus)",
+        "C": "데이터 버스(Data Bus)",
+        "D": "제어 버스(Control Bus)",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.6470999999999999
+    },
+    {
+        "question": "샘플링 검사 목적에 의한 분류 중 랜덤샘플링 검사 방법에 해당되는 것은?",
+        "answer": 4,
+        "A": "층별샘플링검사",
+        "B": "2단계샘플링검사",
+        "C": "취락샘플링검사",
+        "D": "계통샘플링검사",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.5041
+    },
+    {
+        "question": "데이타 통신 시스템의 부호전송방식 설명 중 병렬전송방식과 비교하여 직렬전송방식의 특징으로 가장 옳은 것은?",
+        "answer": 1,
+        "A": "직병렬 변환회로가 필요하다.",
+        "B": "단거리 데이타 전송에 적합하다.",
+        "C": "동일시간내에 많은 정보를 보낼수 있다.",
+        "D": "비트수에 대응한 전송로 및 변복조 회로가 필요하다.",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "인터네트워킹에서 상호 연결된 네트워크의 집합을 무엇이라고 하는가?",
+        "answer": 2,
+        "A": "게이트웨이(gateway)",
+        "B": "캐티네트(catenet)",
+        "C": "브라우터(Brouter)",
+        "D": "패킷망(Packet Network)",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "FM전파를 수신할 때 그 전파가 약하거나 0일 때 수신기의 출력에 큰 잡음이 나타나는 것을 방지하고 저주파 증폭단을 차단하는데 사용하는 회로는?",
+        "answer": 2,
+        "A": "스텝 회로",
+        "B": "스퀠치 회로",
+        "C": "디엠파시스 회로",
+        "D": "프리엠파시스 회로",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.5979
+    },
+    {
+        "question": "논리식 A ( A + B + C )를 간단히 하면?",
+        "answer": 1,
+        "A": "A",
+        "B": "0",
+        "C": "1",
+        "D": "A + B + C",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "위성통신용 지구국의 구성 요소로 옳지 않은 것은?",
+        "answer": 4,
+        "A": "송수신계",
+        "B": "인터페이스계",
+        "C": "안테나계",
+        "D": "자세제어계",
+        "Category": "Telecommunications and Wireless Technology",
+        "Human Accuracy": 0.5
+    }
+]

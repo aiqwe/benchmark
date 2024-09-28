@@ -1,0 +1,202 @@
+[
+    {
+        "question": "전하밀도 ρs[C/m2]인 무한 판상 전하분포에 의한 임의점의 전장에 대하여 틀린 것은?",
+        "answer": 3,
+        "A": "전장은 판에 수직방향으로만 존재한다.",
+        "B": "전장의 세기는 전하밀도 ρs 에 비례한다.",
+        "C": "전장의 세기는 거리 r 에 반비례한다.",
+        "D": "전장의 세기는 매질에 따라 변한다.",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.4756
+    },
+    {
+        "question": "발전소 중 석탄, 석유, 가스 등의 연료를 연소하여 얻은 열로 증기를 발생시켜 터빈발전기를 돌려 발전하는 발전소는?",
+        "answer": 1,
+        "A": "기력발전소",
+        "B": "소수력발전소",
+        "C": "MHD발전소",
+        "D": "열병합발전소",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.6957
+    },
+    {
+        "question": "비상방송설비 를 설치하여야 하는 특정소방대상물의 기준으로 옳은 것은? (단, 위험물 저장 및 처리 시설 중 가스시설, 사람이 거주하지 않는 동물 및 식물 관련 시설, 지하가 중 터널, 축사 및 지하구는 제외한다.)",
+        "answer": 2,
+        "A": "연면적 3000m2 이상인 것",
+        "B": "지하층의 총수가 3층 이상인 것",
+        "C": "지하층을 포함한 층수가 11층 이상인 것",
+        "D": "50명 이상의 근로자가 작업하는 옥내 작업장",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.3984
+    },
+    {
+        "question": "제어량이 변화하는 물체의 위치, 방향, 자세 등일 경우의 제어는?",
+        "answer": 3,
+        "A": "프로세스제어",
+        "B": "시이퀀제어",
+        "C": "서어보제어",
+        "D": "정치제어",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5625
+    },
+    {
+        "question": "정전용량 C만의 회로에서 100[V], 60[Hz]의 교류를 가했을 때 60[mA]의 전류가 흐른다면 C 는 몇 [㎌] 인가?",
+        "answer": 4,
+        "A": "5.26[㎌]",
+        "B": "4.32[㎌]",
+        "C": "3.59[㎌]",
+        "D": "1.59[㎌]",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "유효낙차 400[m]의 수력발전소에서 펠턴수차의 노즐에서 분출하는 물의 속도를 이론값의 0.95배로 한다면 물의 분출속도는 약 몇 [m/s]인가?",
+        "answer": 4,
+        "A": "42.3",
+        "B": "59.5",
+        "C": "62.6",
+        "D": "84.1",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.4545
+    },
+    {
+        "question": "직류 전동기의 출력이 50[kW], 회전수가 1800[rpm]일 때 토크는 약 몇 [kgㆍm]  인가?",
+        "answer": 3,
+        "A": "12",
+        "B": "23",
+        "C": "27",
+        "D": "31",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.8140000000000001
+    },
+    {
+        "question": "z-변환함수 z/(z-e-at)에 대응되는 라플라스 변환 함수는?",
+        "answer": 4,
+        "A": "1/(s＋a)2",
+        "B": "1/(1-e-Ts)",
+        "C": "a/s(s＋a)",
+        "D": "1/(s＋a)",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.55
+    },
+    {
+        "question": "케이블 공사에 의한 저압 옥내 배선의 시설 방법에 대한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "전선은 케이블 및 캡타이어케이블로 한다.",
+        "B": "콘크리트 안에는 전선에 접속점을 만들지 아니한다.",
+        "C": "400V 미만인 경우 전선을 넣는 방호장치의 금속제 부분에는 제3종 접지공사를 한다.",
+        "D": "전선을 조영재의 옆면에 따라 붙이는 경우 전선의 지지점 간의 거리를 케이블은 3m이하로 한다.",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.6207
+    },
+    {
+        "question": "사용전압이 400[V] 미만이 경우에 가요전선관 및 부속품은 몇 종 접지공사를 하여야 하는가?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+        "answer": 3,
+        "A": "제1종",
+        "B": "제2종",
+        "C": "제3종",
+        "D": "특별제3종",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.8234999999999999
+    },
+    {
+        "question": "4극 60[hz]의 유도 전동기가 슬립 5[%]로 전부하 운전하고 있을 때 2차 권선의 손실이 94.25[W]라고 하면 토크는 약 몇 [N·m]인가?",
+        "answer": 3,
+        "A": "1.02",
+        "B": "2.04",
+        "C": "10.0",
+        "D": "20.0",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5857
+    },
+    {
+        "question": "Y-Y결선 회로에서 선간전압이 200[V]일 때 상전압은 몇 [V]인가?",
+        "answer": 2,
+        "A": "100",
+        "B": "115",
+        "C": "120",
+        "D": "135",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.7429000000000001
+    },
+    {
+        "question": "소방용수시설에서 저수조의 설치 기준으로 적합하지 않은 것은?",
+        "answer": 1,
+        "A": "지면으로부터늬 낙차가 6m 이하일 것",
+        "B": "흡수부분의 수신이 0.5m 이상일 것",
+        "C": "소방펌프자동차가 쉽게 접근할 수 있도록 할 것",
+        "D": "흡수에 지장이 없도록 토사 및 쓰레기 등을 제거할 수 있는 설비를 갖출 것",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "후강전선관 배관공사에 상용되는 공구들이다. 상호 연관관계가 없는것은?",
+        "answer": 2,
+        "A": "오스터",
+        "B": "토치램프",
+        "C": "오일 밴드",
+        "D": "쇠톱",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5895
+    },
+    {
+        "question": "특정소방대상물에 소방시설이 화재안전기준에 따라 설치 또는 유지ㆍ관리되지 아니한 때 특정소방대상물의 관계인에게 필요한 조치를 명할 수 있는 사람은?",
+        "answer": 1,
+        "A": "소방본부장 또는 소방서장",
+        "B": "소방방재청장",
+        "C": "시ㆍ도지사",
+        "D": "종합상황실의 실장",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.9
+    },
+    {
+        "question": "R=40Ω, L=80mH의 코일이 있다. 이 코일에 220V, 60㎐의 전압을 가할 때 소비되는 전력은 약 몇 W인가?",
+        "answer": 3,
+        "A": "79",
+        "B": "581",
+        "C": "771",
+        "D": "1352",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5167
+    },
+    {
+        "question": "기체 연료가 공기 중의 산소와 혼합되면서 연소하는 것으로 공기와 접촉하는 부분만이 반응하게 되므로 연소가 불충분하게 되고, 바람 등의 영향을 받기 쉬운 연소는?",
+        "answer": 3,
+        "A": "증발연소",
+        "B": "자기연소",
+        "C": "확산연소",
+        "D": "분해연소",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "자가용 수전설비 13.2/22.9[kV-Y]결선에서 계기용변압기의 2차측 정격전압은 몇[V] 인가?",
+        "answer": 3,
+        "A": "100",
+        "B": "100√3",
+        "C": "110",
+        "D": "110√3",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5294
+    },
+    {
+        "question": "변압기유로 사용되는 절연유로 요구되는 특성이 아닌 것은?",
+        "answer": 3,
+        "A": "절연내력이 클 것",
+        "B": "인화점이 높을 것",
+        "C": "점도가 클 것",
+        "D": "응고점이 낮을 것",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.7037
+    },
+    {
+        "question": "10A의 전류가 흐르고 있는 도선이 자계내에서 운동하여 5Wb의 자속을 끊었다고 하면, 이 때 전자력이 한 일은 몇 Ｊ 인가?",
+        "answer": 2,
+        "A": "25",
+        "B": "50",
+        "C": "75",
+        "D": "100",
+        "Category": "Electrical Engineering",
+        "Human Accuracy": 0.5714
+    }
+]

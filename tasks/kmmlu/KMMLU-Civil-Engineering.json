@@ -1,0 +1,202 @@
+[
+    {
+        "question": "원지에 3개의 방도(方島)가 있는 곳은?",
+        "answer": 1,
+        "A": "경회루 원지",
+        "B": "광한루 원지",
+        "C": "운조루 원지",
+        "D": "임대정의 원지",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "허(虛)와 실(實), 명(明)과 암(喑)등 변화 있는 공간처리와 유기적인 건물 배치로 이름난 중국 소주지방의 명원은?",
+        "answer": 2,
+        "A": "졸정원",
+        "B": "유원",
+        "C": "사자림",
+        "D": "창랑정",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.6186
+    },
+    {
+        "question": "완충녹지의 설치 목적 및 기준으로 가장 거리가 먼 것은?",
+        "answer": 3,
+        "A": "전용주거지역, 교육 및 연구시설의 조용한 환경조성",
+        "B": "재해 발생 시 피난지대로서의 기능",
+        "C": "도시지역 내 훼손된 자연환경의 개선 복원",
+        "D": "도로, 철도 등 교통시설에서 발생하는 공해 차단 및 완화",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5496
+    },
+    {
+        "question": "인구 성장의 상한선을 미리 산정한 후 미래 인구를 추계하는 인구 예측모형으로, S자형의 비대칭 곡선으로 이루어진 추세분석 모형은?",
+        "answer": 2,
+        "A": "등차급수 모형",
+        "B": "곰페르츠 모형",
+        "C": "로지스틱 모형",
+        "D": "회귀모형",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.6463
+    },
+    {
+        "question": "보도 포장 재료로서 적당치 않은 것은?",
+        "answer": 3,
+        "A": "내구성이 있을 것.",
+        "B": "자연 배수가 용이할 것.",
+        "C": "보행시 마찰력이 전혀 없을 것.",
+        "D": "외관 및 질감이 좋을 것.",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.9143
+    },
+    {
+        "question": "딱정벌레목으로 가을이 되면 성충은 무리를 이루어 특정한 장소로 이동해 겨울을 지내며, 유ㆍ성충시에 진딧물이나 깍지 벌레를 잡아먹는 익충은?",
+        "answer": 2,
+        "A": "풀잠자리",
+        "B": "무당벌레",
+        "C": "딱정벌레",
+        "D": "맵시벌류",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5556
+    },
+    {
+        "question": "공사의 설계 및 시공을 의뢰하는 사람을 뜻하는 용어는?",
+        "answer": 3,
+        "A": "설계자",
+        "B": "시공자",
+        "C": "발주자",
+        "D": "감독자",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.9025
+    },
+    {
+        "question": "어떤 유역 내의 총강수량을 P, 지표수 유입량을 I , 지표수 유출량을 O, 지하수 유출입량을 U,유역 내 저류량의 변화량을 S라 할 때 물수지 원리에 의한 증발량 E를 구하는 방정식으로 옳은 것은?",
+        "answer": 3,
+        "A": "E=P-I±U+O±",
+        "B": "E=P+I-U-O+S",
+        "C": "E=P+I±U-O±S",
+        "D": "E=P+I+U+O-S",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "맨홀에 인버트(invert)를 설치하지 않았을 때의 문제점이 아닌 것은?",
+        "answer": 2,
+        "A": "맨홀 내에 퇴적물이 쌓이게 된다.",
+        "B": "환기가 되지 않아 냄새가 발생한다.",
+        "C": "퇴적물이 부패되어 악취가 발생한다.",
+        "D": "맨홀 내에 물기가 있어 작업이 불편하다.",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5644
+    },
+    {
+        "question": "bω=350mm, d=600mm인 단철근 직사각형 보에서 보통중량콘크리트가 부담할 수 있는 공칭전단강도(Vc)를 정밀식으로 구하면 약 얼마인가? (단, 전단력과 휨모멘트를 받는 부재이며, Vu=100kN, Mu=300kN ‧ m, ρω=0.016, fck=24MPa이다.)",
+        "answer": 3,
+        "A": "164.2kN",
+        "B": "171.5kN",
+        "C": "176.4kN",
+        "D": "182.7kN",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5793
+    },
+    {
+        "question": "케빈 린치(Kevin Lynch)에 의한 도시이미지를 결정하는 요소가 아닌 것은?",
+        "answer": 1,
+        "A": "중심몰(Mall)",
+        "B": "경계(Edge)",
+        "C": "통로(Path)",
+        "D": "랜드마크(Landmark)",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.8228
+    },
+    {
+        "question": "토지이용을 합리화하고 그 기능을 증진시키며, 경관과 미관을 개선하고, 체계적 및 계획적으로 개발관리하기 위하여 건축물 및 그 밖의 시설의 용도와 종류 및 규모, 건폐율 또는 용적률을 완화하여 수립하는 계획을 무엇이라 하는가?",
+        "answer": 4,
+        "A": "택지개발계획",
+        "B": "경관계획",
+        "C": "토지이용계획",
+        "D": "지구단위계획",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.6492
+    },
+    {
+        "question": "수원에서 가장까지의 급수계통을 나타낸 것 중 바르게 나열한 것은?",
+        "answer": 1,
+        "A": "취수 및 집수시설-도수시설-정수시설-송수시설-배수시설-급수시설",
+        "B": "취수 및 집수시설-도수시설-배수시설-송수시설-정수시설-급수시설",
+        "C": "취수 및 집수시설-송수시설-정수시설-도수시설-배수시설-급수시설",
+        "D": "취수 및 집수시설-송수시설-도수시설-배수시설-정수시설-급수시설",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "도시공원 및 녹지 등에 관한 법률에 의한 경관녹지의 주요 기능으로 가장 옳은 것은?",
+        "answer": 2,
+        "A": "재해발생시 주민의 피난지대 확보",
+        "B": "도시의 자연적 환경 보전 또는 개선",
+        "C": "대기오염, 소음, 진동 등 공해의 차단 및 완화",
+        "D": "도시민에게 산책공간으로 제공하는 선형의 녹지",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5987
+    },
+    {
+        "question": "시각적 선호(visual preference)를 결정하는 변수가 아닌 것은?",
+        "answer": 1,
+        "A": "생태적 변수",
+        "B": "물리적 변수",
+        "C": "상징적 변수",
+        "D": "개인적 변수",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "영국의 공원 중 최초로 시민의 힘에 의해서 만들어진 공원은?",
+        "answer": 4,
+        "A": "리젠트 파크(Regent Park)",
+        "B": "그린 파크(Green Park)",
+        "C": "하이드 파크(Hyde Park)",
+        "D": "버컨헤드 파크(Birkenhead Park)",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.8870999999999999
+    },
+    {
+        "question": "도시개발법령상 도시개발구역으로 지정할 수 있는 대상 지역 및 규모 기준이 틀린 것은? (단, 도시지역의 경우)",
+        "answer": 3,
+        "A": "주거지역 : 1만m2 이상",
+        "B": "상업지역 : 1만m2 이상",
+        "C": "공업지역 : 1만m2 이상",
+        "D": "자연녹지지역 : 1만m2 이상",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.6470999999999999
+    },
+    {
+        "question": "전통적인 조선시대 상류주택 뒷마당의 화계(花階)에 즐겨 심겨졌던 수종이 아닌 것은?",
+        "answer": 3,
+        "A": "앵두나무, 살구나무",
+        "B": "능금나무, 철쭉",
+        "C": "매화, 자귀나무",
+        "D": "진달래, 반송",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.6512
+    },
+    {
+        "question": "유선망을 작성하여 침투수량을 결정할 때 유선망의 정밀도가 침투수량에 큰 영향을 끼치지 않는 이유는?",
+        "answer": 1,
+        "A": "유선망은 유로의 수와 등수두면의 수의 비에 좌우되기 때문이다.",
+        "B": "유선망은 등수두선의 수에 좌우되기 때문이다.",
+        "C": "유선망은 유선의 수에 좌우되기 때문이다.",
+        "D": "유선망은 투수계수에 좌우되기 때문이다.",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.5115999999999999
+    },
+    {
+        "question": "빙산의 비중이 0.92이고 바닷물의 비중은 1.025일 때 빙산이 바닷물 속에 잠겨있는 부분의 부피는 수면 위에 나와 있는 부분의 약 몇 배인가?",
+        "answer": 2,
+        "A": "10.8배",
+        "B": "8.8배",
+        "C": "4.8배",
+        "D": "0.8배",
+        "Category": "Civil Engineering",
+        "Human Accuracy": 0.7356
+    }
+]

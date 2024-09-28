@@ -1,0 +1,202 @@
+[
+    {
+        "question": "분산처리시스템에 대한 설명과 관련 없는 것은?",
+        "answer": 3,
+        "A": "분산된 노드들은 통신 네트워크를 이용하여 메시지를 주고받음으로써 정보를 교환한다.",
+        "B": "사용자에게 동적으로 할당할 수 있는 일반적인 자원들이 각 노드에 분산되어 있다.",
+        "C": "시스템 전체의 정책을 결정하는 어떤 통합적인 제어 기능은 필요하지 않다.",
+        "D": "사용자는 특정 자원의 물리적 위치를 알지 못하여도 사용할 수 있다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "두 코일간의 유도 결합의 정도를 나타내는 결합계수 K에 대한 설명으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "K=1은 상호자속이 전혀 없는 경우이다.",
+        "B": "K=0은 유도결합이 전혀 없는 경우이다.",
+        "C": "K=1은 누설자속이 전혀 없는 경우이다.",
+        "D": "결합계수 K는 0과 1사이의 값을 갖는다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "접합형 전계효과 트랜지스터(JFET: Junction Field Effect Transistor)의 동작은?",
+        "answer": 4,
+        "A": "소수 운반자의 흐름에 의한다.",
+        "B": "재결합에 의한다.",
+        "C": "부성 저항에 의한다.",
+        "D": "다수 운반자의 흐름에 의한다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.6667000000000001
+    },
+    {
+        "question": "내부 임피던스 Zg=0.2+j2Ω인 발전기에 임피던스 Z1=2.0+j3Ω인 선로를 연결하여 부하에 전력을 공급할 때 부하에 최대 전력이 전송되기 위한 부파 임피던스는?",
+        "answer": 4,
+        "A": "1.8+jΩ",
+        "B": "1.8-jΩ",
+        "C": "2.2+j5Ω",
+        "D": "2.2-j5Ω",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "디지털 주파수 계의 구성과 관계가 있는 것은?",
+        "answer": 4,
+        "A": "변조기",
+        "B": "검파기",
+        "C": "CRT",
+        "D": "게이트 회로",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.4167
+    },
+    {
+        "question": "기억장치에 대한 설명 중 틀린 것은?",
+        "answer": 4,
+        "A": "주기억장치는 CPU와 직접 자료교환이 가능하다.",
+        "B": "보조기억장치는 CPU와 직접 자료교환이 불가능하다.",
+        "C": "주기억장치 소자는 대부분 외부와 직접 자료교환을 할 수 있는 단자가 있다.",
+        "D": "기억장치에서 사용하는 정보의 단위는 와트(watt)이다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.3333
+    },
+    {
+        "question": "C 언어의 데이터 형이 아닌 것은?",
+        "answer": 2,
+        "A": "long",
+        "B": "integer",
+        "C": "char",
+        "D": "double",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.6429
+    },
+    {
+        "question": "R-L 직렬회로의 임피던스가 11.18[Ω]이고, L=10[mH]이다. 정현파 전압을 인가해서 전압이 전류보다 63.4°만큼 위상이 빠르게 될 때의 R[Ω]과 ω[rad/sec]는 약 얼마인가? (단, tan 63.4°≒2)",
+        "answer": 1,
+        "A": "R=5, ω=1000",
+        "B": "R=50, ω=1000",
+        "C": "R=50, ω=100",
+        "D": "R=5, ω=100",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "컴파일러, 어셈블러, 인터프리터에 의해 번역되어야 실행될 수 있는 것은?",
+        "answer": 4,
+        "A": "문제중심 프로그램",
+        "B": "기계 프로그램",
+        "C": "목적 프로그램",
+        "D": "원시 프로그램",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.4545
+    },
+    {
+        "question": "캐시 기억 장치에서 적중률이 낮아질 수 있는 매핑 방법은?",
+        "answer": 4,
+        "A": "연관 매핑",
+        "B": "세트-연관 매핑",
+        "C": "간접 매핑",
+        "D": "직접 매핑",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "-80[dB]의 감도를 가진 마이크로폰에 1[μ bar]의 음압을 가했을 때 출력전압은?",
+        "answer": 2,
+        "A": "0.01[mV]",
+        "B": "0.1[mV]",
+        "C": "1[mV]",
+        "D": "10[mV]",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5556
+    },
+    {
+        "question": "채널(Channel)에 대한 설명으로 옳지 않은 것은?",
+        "answer": 4,
+        "A": "DMA 와 달리 여러 개의 블록을 입출력 할 수 있다.",
+        "B": "시스템의 입출력 처리 능력을 향상시키는 기능을 한다.",
+        "C": "멀티플렉서 채널은 저속인 여러 장치를 동시에 제어하는데 적합하다.",
+        "D": "입출력 동작을 수행하는데 있어서 CPU의 지속적인 개입이 필요하다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "테이프 레코더 구성 요소에서 모터에 의해 일정한 스피드로 회전하는 축은?",
+        "answer": 1,
+        "A": "캡스턴",
+        "B": "테이크 업.릴",
+        "C": "가이드 롤러",
+        "D": "핀치 롤러",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5455
+    },
+    {
+        "question": "가상 기억장치(Virtual Memory)에 관한 설명 중 옳지 않은 것은?",
+        "answer": 4,
+        "A": "보조기억장치와 같이 기억용량이 큰 기억장치를 마치 주 기억장치처럼 사용하는 개념이다.",
+        "B": "중앙처리장치에 의해 참조되는 보조기억장치의 가상 주소는 주기억장치의 주소로 변환되어야 한다.",
+        "C": "메모리 매핑(Mapping)에는 페이지(Page)에 의한 매핑과 세그먼트(Segment)에 의한 매핑으로 구분된다.",
+        "D": "실행될 프로그램의 크기가 주기억장치의 용량보다 작을 때 사용한다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "전파 정류회로에서 리플전압을 나타낸 설명으로 옳은 것은? (단, 콘덴서 입력형 필터 회로의 경우이다.)",
+        "answer": 2,
+        "A": "리플전압은 콘덴서의 용량에만 반비례한다.",
+        "B": "리플전압은 부하저항 및 콘덴서 용량에 반비례한다.",
+        "C": "리플전압은 부하저항에 무관하고 콘덴서의 용량에 비례한다.",
+        "D": "리플전압은 부하저항 및 콘덴서 용량에 비례한다.",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5814
+    },
+    {
+        "question": "C 언어에서 나머지를 구하는 잉여 연산자(modular-operator)는?",
+        "answer": 4,
+        "A": "#",
+        "B": "$",
+        "C": "&",
+        "D": "%",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.7917000000000001
+    },
+    {
+        "question": "운동하고 있는 전자에 자장을 가하면 운동방향을 변화시킬 수 있다. 만약 전자의 운동방향이 자장의 운동방향과 직각이면 전자는 무슨 운동을 하는가?",
+        "answer": 3,
+        "A": "수직운동",
+        "B": "수평운동",
+        "C": "원운동",
+        "D": "지그재그운동",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "한번 메모리를 액세스(access)하면 그것이 목적 데이터의 번지이기 때문에 2회 이상의 메모리 액세스(access)가 필요한 주소지정방식은?",
+        "answer": 1,
+        "A": "간접 주소지정방식",
+        "B": "직접 주소지정방식",
+        "C": "상대 주소지정방식",
+        "D": "인덱스 주소지정방식",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.8332999999999999
+    },
+    {
+        "question": "참값이 200[㎃]이고, 측정값이 204[㎃]일 때 오차율은?",
+        "answer": 2,
+        "A": "1 [％]",
+        "B": "2 [％]",
+        "C": "3 [％]",
+        "D": "4 [％]",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "레지스터에 기억된 자료에서 특정한 위치의 비트 내용을 검색 또는 위치를 교환하는 방법은?",
+        "answer": 1,
+        "A": "rotate",
+        "B": "overlap",
+        "C": "decoder",
+        "D": "encoder",
+        "Category": "Electronics Engineering",
+        "Human Accuracy": 0.7082999999999999
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "question": "25℃에서 정용열량계의 용기에서 벤젠을 태워 CO2와 액체인 물로 변화했을 때의 발열량이 780,090cal/mol이었다. 25℃에서의 표준연소열은? (단, 반응은  이며, 반응에 사용된 기체는 이상기체라 가정한다.)",
+        "answer": 1,
+        "A": "약 -780,980 cal",
+        "B": "약 -783,090 cal",
+        "C": "약 -786,011 cal",
+        "D": "약 -779,498 cal",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "A→R인 반응기 부피가 0.1L인 플러그 흐름 반응기에서 -rA=50CA2 mol/L·min 로 일어난다. A의 초기농도 CAO 는 0.1mol/L 이고 공급속도가 0.05L/min 일 때 전화율은 얼마인가?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+        "answer": 4,
+        "A": "0.509",
+        "B": "0.609",
+        "C": "0.809",
+        "D": "0.909",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "벤젠과 톨루엔이 몰분율로 각각 0.8, 0.2인 혼합물이 있다. 벤젠 증기의 mol% 는 얼마인가? (단, 벤젠의 증기압과 톨루엔의 증기압은 각각 780mmHg, 480mmHg 이다.)",
+        "answer": 4,
+        "A": "57",
+        "B": "67",
+        "C": "77",
+        "D": "87",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "프로판(C3H8) 132㎏을 연소하여 얻어지는 CO2의 양은 얼마인가?",
+        "answer": 3,
+        "A": "196㎏",
+        "B": "296㎏",
+        "C": "396㎏",
+        "D": "496㎏",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "450°C, 20kgf cm-2의 어떤 기체가 정상 상태 흐름에서 조름 공정을 통해 출구 압력이 5kgf cm-2로 감소할 때, 기체의 출구 온도[°C]는?",
+        "answer": 2,
+        "A": "330",
+        "B": "360",
+        "C": "390",
+        "D": "420",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "격막식 수산화나트륨 전해조에서 양극재료는?",
+        "answer": 1,
+        "A": "흑연",
+        "B": "철망",
+        "C": "닉켈",
+        "D": "다공성 구리",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "헵탄(C7H16)을 태워 드라이아이스 CO2(S)를 제조한다. CO2 기체에서 드라이아이스의 전화율은 50%이고 시간당 드라이아이스의 제조량이 500kg 일 때 필요한 헵탄의 양은?",
+        "answer": 1,
+        "A": "325 kg/h",
+        "B": "227 kg/h",
+        "C": "162 kg/h",
+        "D": "143 kg/h",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "1A ↔ 1B + 1C 이 1bar 에서 진행되는 기상반응이다. 1몰 A가 수증기 15몰로 희석되어 유입된다. 평형에서 반응물 A의 전화율은? (단, 평형상수 Kp는 100 mbar이다.)",
+        "answer": 2,
+        "A": "0.65",
+        "B": "0.70",
+        "C": "0.86",
+        "D": "0.91",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "열에 관한 용어의 설명 중 틀린 것은?",
+        "answer": 4,
+        "A": "표준생성열은 표준조건에 있는 원소로부터 표준조건의 화합물로 생성될 때의 반응열이다.",
+        "B": "표준연소열은 25℃, 1atm에 있는 어떤 물질과 산소분자와의 산화반응에서 생기는 반응열이다.",
+        "C": "표준반응열이란 25℃, 1atm 상태에서의 반응열을 말한다.",
+        "D": "진발열량이란 연소해서 생성된 물이 액체 상태일 때의 발열량이다.",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "전열에 관한 설명으로 틀린 것은?",
+        "answer": 1,
+        "A": "자연대류에서의 열전달계수가 강제대류에서의 열전달계수보다 크다.",
+        "B": "대류의 경우 전열속도는 벽과 유체의 온도 차이와 표면적에 비례한다.",
+        "C": "흑체란 이상적인 방열기로서 방출열은 물체의 절대 온도의 4승에 비례한다.",
+        "D": "물체표면에 있는 유체의 밀도차이에 의해 자연적으로 열이 이동하는 것이 자연대류이다.",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "알레산 무수물을 벤젠의 공기산화법으로 제조하고자 한다. 이 때 사용되는 촉매는 무엇인가?",
+        "answer": 1,
+        "A": "산화바나듐",
+        "B": "Si-Al2O3",
+        "C": "PdCI2",
+        "D": "LiH2PO4",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "A → B 반응이 1차 반응일 때 속도상수가 4×10-3s-1이고 반응 속도가 10×10-5mol/cm3ㆍs이라면 반응물의 농도는 몇 mol/cm3 인가?",
+        "answer": 2,
+        "A": "2×10-2",
+        "B": "2.5×10-2",
+        "C": "3.0×10-2",
+        "D": "3.5×10-2",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "가역과정과 관계되는 것은 어느 것인가?",
+        "answer": 3,
+        "A": "마찰",
+        "B": "유한한 온도간격을 거쳐 일어나는 열이동",
+        "C": "모든 요소를 각기 원상태로 완전히 돌려 보낼수 있다",
+        "D": "낮은 압력에 대하여 제어(制禦)없이 일어나는 팽창",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "2성분계 공비 혼합물에서 성분 A, B의 활동도 계수를 γA와 γB, 증기압을 PA 및 PB라하고 이 계의 전압을 PT라 할 때 γB를 옳게 나타낸 것은? (단, B성분의 기상 및 액상에서의 몰분율은 yB와 XB이며, 퓨개시티계수  이라 가정한다.)",
+        "answer": 1,
+        "A": "γB= PT/PB",
+        "B": "γB= P1/PB(1-XA)",
+        "C": "γB= P1yB/PB",
+        "D": "γB= PT/PBXB",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "흑체의 총복사 방출 능(emissivepower)은 흑체 절대 온도의 4제곱에 비례한다는 법칙은?",
+        "answer": 3,
+        "A": "뉴튼의 냉각법칙(Newton’slawofcooling)",
+        "B": "푸리에의 법칙(Fou rier’ slaw)",
+        "C": "슈테판 － 볼츠만의 법칙(Stefan－Boltzmann’slaw)",
+        "D": "플랑크의 법칙(Planck’slaw)",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "이 성분 계기체 확산 계수에 대한 설명으로 옳지 않은 것은?",
+        "answer": 4,
+        "A": "분자량이 작아지면 확산 계수가 커진다.",
+        "B": "온도가 높아지면 확산 계수가 커진다.",
+        "C": "분자의 크기가 커지면 확산 계수가 작아진다.",
+        "D": "압력이 낮아지면 확산 계수가 작아진다.",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "A와 B로 구성된 2 성분 기체 혼합물이 있다 A의 질량 조성은 80%이고, A와 B의 분자량 [g/mol] 은 각각 40과 10이 다 이기체 혼합물의 평균 분자량은 ?",
+        "answer": 1,
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "비가역 0차 반응에서 반응이 완결되는데 필요한 반응 시간은?",
+        "answer": 3,
+        "A": "초기 농도의 역수와 같다.",
+        "B": "속도 전수의 역수와 같다.",
+        "C": "초기 농도를 속도 정수로 나눈 값과 같다.",
+        "D": "초기 농도에 속도 정수를 곱한 값과 같다.",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "10wt%의 식염수 100kg을 20wt%로 농축하려면 몇 kg의 수분을 증발시켜야 하는가?",
+        "answer": 4,
+        "A": "25",
+        "B": "30",
+        "C": "40",
+        "D": "50",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "부피 100L 이고 space time 이 5min 인 혼합흐름반응기에 대한 설명으로 옳은 것은?",
+        "answer": 1,
+        "A": "이 반응가는 1 분에 20L 의 반응물을 처리할 능력이 있다.",
+        "B": "이 반응기는 1 분에 0.2L 의 반응물을 처리할 능력이 있다.",
+        "C": "이 반응기는 1 분에 5L의 반응물을 처리할 능력이 있다.",
+        "D": "이 반응기는 1 분에 100L 의 반응물을 처리할 능력이 있다.",
+        "Category": "Chemical Engineering",
+        "Human Accuracy": 1.0
+    }
+]

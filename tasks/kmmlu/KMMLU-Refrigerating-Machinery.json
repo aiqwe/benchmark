@@ -1,0 +1,202 @@
+[
+    {
+        "question": "급수배관의 마찰손실수두와 가장 거리가 먼 것은?",
+        "answer": 3,
+        "A": "관의 길이",
+        "B": "관의 직경",
+        "C": "관의 두께",
+        "D": "유속",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8157
+    },
+    {
+        "question": "환기 공조용 저속덕트 송풍기로서 저항변화에 대해 풍량, 동력변화가 크고 정숙운전에 사용하기 적합한 것은?",
+        "answer": 1,
+        "A": "시로코 팬",
+        "B": "축류 송풍기",
+        "C": "에어 포일팬",
+        "D": "프로펠러형 송풍기",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.7292000000000001
+    },
+    {
+        "question": "만액식 냉각기에 있어서 냉매측의 열전단율을 좋게 하는 것이 아닌 것은?",
+        "answer": 4,
+        "A": "냉각관이 액 냉매에 접촉하거나 잠겨 있을 것",
+        "B": "관 간격이 좁을 것",
+        "C": "유막이 존재하지 않을 것",
+        "D": "관면이 매끄러울 것",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8214
+    },
+    {
+        "question": "습공기선도상에 나타나 있는 것이 아닌 것은?",
+        "answer": 4,
+        "A": "상대습도",
+        "B": "건구온도",
+        "C": "절대습도",
+        "D": "포화도",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8684999999999999
+    },
+    {
+        "question": "냉동기운전 전 점검사항으로 잘못된 것은?",
+        "answer": 4,
+        "A": "냉매량 확인",
+        "B": "압축기 유면 점검",
+        "C": "전자밸브 작동 확인",
+        "D": "모든 밸브의 닫힘을 확인",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8332999999999999
+    },
+    {
+        "question": "증기배관의 트랩장치에 관한 설명이 옳은 것은?",
+        "answer": 2,
+        "A": "저압증기에서는 보통 버킷형 트랩을 사용한다.",
+        "B": "냉각레그(cooling leg)는 트랩의 입구 쪽에 설치한다.",
+        "C": "트랩의 출구쪽에는 스트레이너를 설치한다.",
+        "D": "플로트형 트랩은 상·하 구분없이 수직으로 설치한다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.537
+    },
+    {
+        "question": "2중 덕트 방식의 특징 중 옳지 않은 것은?",
+        "answer": 2,
+        "A": "실내부하에 따라 개별제어가 가능하다.",
+        "B": "2중 덕트이므로 덕트 스페이스는 적게 된다.",
+        "C": "실내습도의 완전한 제어가 어렵다.",
+        "D": "냉풍 및 온풍이 열매체이므로 실내온도 변화에 대한 응답이 빠르다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.7031999999999999
+    },
+    {
+        "question": "습공기를 노점온도까지 냉각시킬 때 변하지 않는 것은?",
+        "answer": 4,
+        "A": "엔탈피",
+        "B": "상대습도",
+        "C": "비체적",
+        "D": "수증기 분압",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.5806
+    },
+    {
+        "question": "각층 유닛 방식의 특징이 아닌 것은?",
+        "answer": 2,
+        "A": "송풍덕트가 짧게 되고, 주 덕트의 수평덕트는 각 층의 복도 부분에 한정되므로 수용이 용이하다.",
+        "B": "설비비가 저렴하다.",
+        "C": "사무실과 병원 등의 각 층에 대하여 시간차 운전이 적합하다.",
+        "D": "설계에 따라서는 각 층 슬라브의 관통 덕트가 없게 되므로 방재상 유리하다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.7826000000000001
+    },
+    {
+        "question": "추치제어가 아닌 것은?",
+        "answer": 1,
+        "A": "탱크의 레벨제어",
+        "B": "자동 아날로그 선반제어",
+        "C": "열처리로의 온도제어",
+        "D": "보일러의 자동연소제어",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.5357
+    },
+    {
+        "question": "지역난방 열공급 관로 중 지중 매설방식과 비교한 공동구내 배관 시설의 장점이 아닌 것은?",
+        "answer": 4,
+        "A": "부식 및 침수 우려가 적다.",
+        "B": "유지보수가 용이하다.",
+        "C": "누수점검 및 확인이 쉽다.",
+        "D": "건설비용이 적고 시공이 용이하다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.6612
+    },
+    {
+        "question": "효과적인 공기조화 설비를 계획하기 위해서는 조닝(Zoning)을 실시한다. 이 때 고려해야 할 요소로 가장 거리가 먼 것은?",
+        "answer": 3,
+        "A": "실의 방위",
+        "B": "실의 사용시간",
+        "C": "실의 밝기",
+        "D": "실의 형태",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8595
+    },
+    {
+        "question": "동일 송풍기에서 정압은 회전수비에 ①하고 소요동력은 회전수비에 ②한다. 알맞는 내용은 어느 것인가?",
+        "answer": 1,
+        "A": "2승에 비례, ②3승에 비례",
+        "B": "①2승에 반비례, ②3승에 반비례",
+        "C": "①3승에 비례, ②2승에 비례",
+        "D": "①3승에 반비례, ②2승에 반비례",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8281000000000001
+    },
+    {
+        "question": "암모니아 냉매를 사용하고 있는 과일 보관용 냉장 창고에서 암모니아가 누설되었을 때 보관 물품의 손상을 방지하기 위한 해결 방법으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "SO2로 중화시킨다.",
+        "B": "CO2로 중화시킨다.",
+        "C": "환기시킨다.",
+        "D": "물로 씻는다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8286
+    },
+    {
+        "question": "배관 회로의 환수방식에 있어서 역환수방식이 직접환수방식보다 우수한 점은?",
+        "answer": 3,
+        "A": "순환펌프의 동력을 줄일 수 있다.",
+        "B": "배관의 설치 공간을 줄일 수 있다.",
+        "C": "유량을 균등하게 배분시킬 수 있다.",
+        "D": "재료를 절약할 수 있다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8839
+    },
+    {
+        "question": "8℃의 이상기체를 가역단열 압축하여 그 체적을 1/5로 하였을 때 기체의 온도는 약 몇 ℃인가? (단, 이 기체의 비열비는 1.4 이다.)",
+        "answer": 4,
+        "A": "-125℃",
+        "B": "294℃",
+        "C": "222℃",
+        "D": "262℃",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.5769
+    },
+    {
+        "question": "이상기체 프로판(C3H8, 분자량 M=44)의 상태는 온도 20℃, 압력 300 kPa 이다. 이것을 52 L(liter)의 내압 용기에 넣을 경우 적당한 프로판의 질량은? (단, 일반기체상수는 8.314 kJ/kmolㆍK이다.)",
+        "answer": 1,
+        "A": "0.282 kg",
+        "B": "0.182 kg",
+        "C": "0.414 kg",
+        "D": "0.318 kg",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "일과 열의 출입이 없는 계에서 비가역과정(irreversible process)이 존재하면 엔트로피는?",
+        "answer": 3,
+        "A": "항상 일정하다.",
+        "B": "항상 감소한다.",
+        "C": "항상 증가한다.",
+        "D": "때로는 증가하고 때로는 감소한다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "전열교환기의 일종으로 흡습성물질이 도포된 엘리멘트를 적층시켜 원판형태로 만든 로터와 로터를 구동하는 장치 및 케이싱으로 구성되어 있는 전열교환기는?",
+        "answer": 3,
+        "A": "고정형",
+        "B": "정지형",
+        "C": "회전형",
+        "D": "원판형",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.8072
+    },
+    {
+        "question": "암모니아 입형 저속 압축기에 많이 사용되는 포펫트 밸브에 관한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "구조가 튼튼하고 파손되는 일이 적다.",
+        "B": "회전수가 높아지면 밸브의 관성 때문에 개폐가 자유롭지 못하다.",
+        "C": "흡입밸브는 피스톤 상부 스프링으로 가볍게 지지되어 있다.",
+        "D": "중량이 가벼워 밸브 개폐가 불확실하다.",
+        "Category": "Refrigerating Machinery",
+        "Human Accuracy": 0.75
+    }
+]

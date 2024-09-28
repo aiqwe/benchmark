@@ -1,0 +1,202 @@
+[
+    {
+        "question": "건초에 대한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "생초의 수분을 15% 정도로건조하여 저장성을 증진시킨 것이다.",
+        "B": "옥수수 등은 건초로 제조하기에 적합하지 않다.",
+        "C": "햇빛에 말린 건초는 비타민 D 함량이 높아진다.",
+        "D": "제조 과정에서 양분손실이 비교적 적다.",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.7075
+    },
+    {
+        "question": "콜레스테롤 생합성의 최초 출발물질은?",
+        "answer": 3,
+        "A": "acetoacetyl CoA",
+        "B": "3-hydroxy-3-methyl glutaryl (HMG) CoA",
+        "C": "acetyl CoA",
+        "D": "malonyl CoA",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.7177
+    },
+    {
+        "question": "생체 내에서 핵산과 결합되는 단백질은?",
+        "answer": 1,
+        "A": "히스톤(histone)",
+        "B": "알부민(albumin)",
+        "C": "글로불린(globulin)",
+        "D": "헤모글로빈(hemoglobin)",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.9231
+    },
+    {
+        "question": "키조개에서 이용가치가 가장 큰 것은?",
+        "answer": 2,
+        "A": "전폐각근",
+        "B": "후폐각근",
+        "C": "생식소",
+        "D": "패각",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.7831
+    },
+    {
+        "question": "일반 세균수를 검사하는데 주로 사용되는 방법은?",
+        "answer": 4,
+        "A": "최확수법",
+        "B": "Resazurin 법",
+        "C": "Breed 법",
+        "D": "표준한천 평판배양법",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.5882000000000001
+    },
+    {
+        "question": "무지개송어의 최적부화수온은?",
+        "answer": 2,
+        "A": "5℃",
+        "B": "10℃",
+        "C": "15℃",
+        "D": "20℃",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.5282
+    },
+    {
+        "question": "작물의 특징에 대한 설명으로 가장 거리가 먼 것은?",
+        "answer": 2,
+        "A": "이용성과 경제성이 높아야 한다.",
+        "B": "일반적인 작물의 이용 목적은 식물체의 특정부위가 아닌 식물체 전체이다.",
+        "C": "작물은 대부분 일종의 기형식물에 해당된다.",
+        "D": "야생식물보다 일반적으로 생존력이 약하다.",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.8604999999999999
+    },
+    {
+        "question": "쓴맛 성분과 그 쓴맛을 감소시킬 수 있는 효소의 연결이 옳은 것은?",
+        "answer": 3,
+        "A": "루플론(lupulone) - 파파인(papain)",
+        "B": "탄닌(tannin) - 레닌(renin)",
+        "C": "나린진(naringin) - 나린진나아제(maringinase)",
+        "D": "카페인(caffein) - 셀룰라아제(cellulase)",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.6591
+    },
+    {
+        "question": "정미성 핵산 관련 물질이 정미성을 갖기 위한 구조에 대한 설명으로 옳은 것은?",
+        "answer": 4,
+        "A": "정미성 nucleotide는 ribose의 3ʹ위치에 인산기를 가져야 한다.",
+        "B": "정미성을 가지려면 염기 ring 구조의 2ʹ위치가 OH 로 치환되어야 한다.",
+        "C": "정미성 nucleotide는 염기가 pyrimidine계 이어야 한다.",
+        "D": "핵산 관련 물질 중 인산기를 1개 가진 nucleotide가 정미성이 우수하다.",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.4878
+    },
+    {
+        "question": "우리나라 작물재배의 특색 중 작부체계와 초지농업이 발달하지 못한 가장 큰 이유는?",
+        "answer": 2,
+        "A": "경영규모가 영세하여 고투입 집약농업으로 발달해 왔기 때문이다.",
+        "B": "농가 소득 증대에 도움이 되는 작물만을 집약적으로 재배해왔기 때문이다.",
+        "C": "화곡류 위주의 약탈식 집약농업을 해온 관계로 토양의 비옥도가 낮기 때문이다.",
+        "D": "사계절이 뚜렷하고 기상재해가 커서 다양한 작부방식이나 초지 농업의 적용이 어려웠기 때문이다.",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.619
+    },
+    {
+        "question": "우유 중 제품의 껍질색을 개선시켜 주는 성분은?",
+        "answer": 1,
+        "A": "유당",
+        "B": "칼슘",
+        "C": "유지방",
+        "D": "광물질",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.8519
+    },
+    {
+        "question": "복수에 의한 복부팽만, 체색 흑화, 탈장, 간과 신장 등에 유백색 농양 형성 등의 증상이 나타나는 넙치 질병은?",
+        "answer": 2,
+        "A": "비브리오병",
+        "B": "에드와드병",
+        "C": "연쇄구균증",
+        "D": "아가미부식병",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.7041
+    },
+    {
+        "question": "빵 제품의 껍질색이 연한 원인 설명으로 거리가 먼 것은?",
+        "answer": 4,
+        "A": "1차 발효 과다",
+        "B": "낮은 오븐 온도",
+        "C": "덧가루 사용 과다",
+        "D": "고율배합",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.3857
+    },
+    {
+        "question": "사일리지 제조시 첨가물과 그 작용을 연결시킨 것 중 잘못된 것은?",
+        "answer": 4,
+        "A": "개미산 - pH저하",
+        "B": "초성아황산소다 - 유해발효를 억제",
+        "C": "요소 - 재료의 양분을 보강",
+        "D": "당밀 - 젖산생성을 억제",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.8726999999999999
+    },
+    {
+        "question": "칵테일 조주 시 술의 양을 계량할 때 사용하는 기구는?",
+        "answer": 2,
+        "A": "squeezer",
+        "B": "Measure cup",
+        "C": "Cork screw",
+        "D": "Ice pick",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "충남 서북부 해안지방의 전통 민속주로 고려 개국공신 복지겸이 백약이 무효인 병을 앓고 있을 때 백일기도 끝에 터득한 비법에 따라 찹쌀, 아미산의 진달래, 안샘물로 빚은 술을 마심으로 질병을 고쳤다는 신비의 전설과 함께 전해 내려오는 것으로 산림경제, 임원, 동구세시기에 언급된 약용주는?",
+        "answer": 1,
+        "A": "두견주",
+        "B": "송순주",
+        "C": "문배주",
+        "D": "백세주",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.7857
+    },
+    {
+        "question": "가리비 양성장 선정에 있어서 그 지표종으로만 짝지어진 것은?",
+        "answer": 1,
+        "A": "갯지렁이 – 염통성게 – 미더덕",
+        "B": "사미류 – 보라성게 – 따개비류",
+        "C": "미더덕 – 붕넙치류 – 별불가사리",
+        "D": "연꽃성게 – 갯지렁이 – 둑중개류",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.8426
+    },
+    {
+        "question": "양식장에 석회를 살포하면 pH가 상승한다고 한다. 이러한 화학적 변화는 양식장에 어떤 영향을 나타내는가?",
+        "answer": 2,
+        "A": "미생물 작용의 활성화",
+        "B": "유해 생물의 구제 작용",
+        "C": "저질의 응고 작용",
+        "D": "인산이온의 용해도 증가",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.5882000000000001
+    },
+    {
+        "question": "근육의 발육은 세포의 수적, 양적으로 증가하는 것과 동시에 지방이 복강과 피하에 축적되는데 이 때 근섬유 세포 간에 지방이 축적되는 고기를 무엇이라고 하는가?",
+        "answer": 3,
+        "A": "적육",
+        "B": "지방육",
+        "C": "상강육",
+        "D": "염지육",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.8508
+    },
+    {
+        "question": "균체의 독소 중 뉴로톡신(neurotoxin)을 생산하는 식중독 균은?",
+        "answer": 2,
+        "A": "포도상구균",
+        "B": "클로스트리디움보툴리늄균",
+        "C": "장염 비브리오균",
+        "D": "병원성 대장균",
+        "Category": "Food Processing",
+        "Human Accuracy": 0.6182
+    }
+]

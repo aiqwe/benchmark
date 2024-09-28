@@ -1,0 +1,202 @@
+[
+    {
+        "question": "병원균이 포도 탄저병균(Glomerella cingulata)과 같은 것은?",
+        "answer": 2,
+        "A": "콩 탄저병",
+        "B": "사과 탄저병",
+        "C": "수박 탄저병",
+        "D": "목화 탄저병",
+        "Category": "Biology",
+        "Human Accuracy": 0.7151000000000001
+    },
+    {
+        "question": "돼지에게서 발생하는 글래서 병(Gläss er'sdisease)에 대한 설명으로 옳지 않은 것은?",
+        "answer": 2,
+        "A": "원인균은 포도상구균과 함께 배양하면 위성집락 현상(satellitism)을 나타낸다.",
+        "B": "원인균은 Haemophilusparagall inarum이다.",
+        "C": "복막, 흉막, 심외막, 관절막 등에 다발성장막염(polys eros itis)을 일으킨다.",
+        "D": "수막염에 의한 신경마비 증상을 보이기도 한다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "바이오화학소재 생산을 위한 원·부재료에 대한 품질관리 공통 사항으로 옳지 않은 것은?",
+        "answer": 3,
+        "A": "입고 전 원·부재료별 품질 기준에 따른 품질 검사 실시",
+        "B": "원료별 보관 조건에 맞는 보관장소 마련 및 청결 유지",
+        "C": "장/단기 사용 원료를 서로 구분하여 반드시 따로 별도의 창고에 보관",
+        "D": "원·부재료 보관 장소에 점검일지를 비치하여 정기적 점검 및 미비 사항 보완",
+        "Category": "Biology",
+        "Human Accuracy": 0.823
+    },
+    {
+        "question": "농약 보조제의 작용으로 전착제가 갖추어야 할 조건으로 가장 거리가 먼 것은?",
+        "answer": 4,
+        "A": "확전성",
+        "B": "부착성",
+        "C": "고착성",
+        "D": "침윤성",
+        "Category": "Biology",
+        "Human Accuracy": 0.6923
+    },
+    {
+        "question": "교차저항성(cross resistance)에 대한 설명으로 옳은 것은?",
+        "answer": 1,
+        "A": "동일한 작용기작을 가진 약제군 사이에는 그 중 1개의 약제에 저항성을 지니게 된 균은 같은 군의 다른 약제에 대해서도 저항성을 가진다.",
+        "B": "작용점이 여러 개인 약제에 대하여 2가지 작용점 이상에 대하여 저항을 획득하면 그 균은 교차저항성을 획득하였다고 한다.",
+        "C": "베노밀(benomyl)과 톱신-M(Topsin-M)의 경우 화학구조가 완전히 다르기 때문에 저항성의 획득도 다른 기작을 따른다.",
+        "D": "저항성균이 한 지역에 발생하여 다른 지역으로 이동되었을 때, 이동된 지역에서도 저항성을 유지하는 것을 교차저항성이라 한다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.9074
+    },
+    {
+        "question": "제초제의 약해 유발 원인으로 잘못된 것은?",
+        "answer": 1,
+        "A": "전착제 농도를 권장량보다 낮게 처리하는 경우",
+        "B": "제초제의 정확한 특성을 무시하고 적용 범위를 확대하는 경우",
+        "C": "고압분무기로 살포시 주변 작물로 제초제가 비산되는 경우",
+        "D": "비닐하우스내에서나 피복 재배지에서의 부주의한 처리",
+        "Category": "Biology",
+        "Human Accuracy": 0.8824
+    },
+    {
+        "question": "우유의 보온식 저온살균법(61.7°C에서 30분간 처리)으로 완전히 파괴되지 않는 병원체는?",
+        "answer": 2,
+        "A": "Adenovirus",
+        "B": "Coxiellaburnetii",
+        "C": "Actinomyces bovis",
+        "D": "Footandmouthdiseasevirus",
+        "Category": "Biology",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "이사-디 액제에 대한 설명으로 옳지 않은 것은?",
+        "answer": 4,
+        "A": "페녹시계 제초제이다.",
+        "B": "광엽잡초에 특히 활성이 높다.",
+        "C": "주로 논 제초제로 사용되고 있다.",
+        "D": "이행성이 비교적 낮고 생장점 등에 집적하는 성질이 있다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.6618999999999999
+    },
+    {
+        "question": "잎녹병이 발생하는 기주와 중간기주의 연결이 올바른 것은?",
+        "answer": 1,
+        "A": "곰솔 - 잔대",
+        "B": "소나무 - 작약",
+        "C": "전나무 - 황벽나무",
+        "D": "잣나무 - 뱀고사리",
+        "Category": "Biology",
+        "Human Accuracy": 0.6883
+    },
+    {
+        "question": "토양에 열처리하여 소독하는 것은 무슨 방제법인가?",
+        "answer": 4,
+        "A": "생물학적 방제법",
+        "B": "재배적 방제법",
+        "C": "화학적 방제법",
+        "D": "물리적 방제법",
+        "Category": "Biology",
+        "Human Accuracy": 0.9028
+    },
+    {
+        "question": "농경지나 휴경지 및 목초지에서 발견되는 귀화잡초는?",
+        "answer": 2,
+        "A": "너도방동사니",
+        "B": "단풍잎돼지풀",
+        "C": "명아주",
+        "D": "올챙이고랭이",
+        "Category": "Biology",
+        "Human Accuracy": 0.7619
+    },
+    {
+        "question": "보통 염색체의 외부에 존재하는 자율적(antomonous)이며 자기 복제를 하는(self-replicating) 이중 가닥 (double-strand) DNA는?",
+        "answer": 1,
+        "A": "플라스미드(plasmid)",
+        "B": "프로파지(prophage)",
+        "C": "용원성 파지(temperate phage)",
+        "D": "Hfr 균주(High frequency recombination strain)",
+        "Category": "Biology",
+        "Human Accuracy": 0.95
+    },
+    {
+        "question": "국내 파이토플라스마의 전염방법으로 가장 옳은 것은?",
+        "answer": 4,
+        "A": "월동 후 토양전염을 한다.",
+        "B": "즙액전염을 한다.",
+        "C": "바람에 의해 매개된다.",
+        "D": "곤충에 의해 전염된다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.8281999999999999
+    },
+    {
+        "question": "우리나라 곤충상이 속하는 동물지리학적 분포구는?",
+        "answer": 2,
+        "A": "신북구",
+        "B": "구북구",
+        "C": "동양구",
+        "D": "하와이구",
+        "Category": "Biology",
+        "Human Accuracy": 0.6778
+    },
+    {
+        "question": "비래해충에 속하지 않는 해충은?",
+        "answer": 4,
+        "A": "흰등멸구",
+        "B": "혹명나방",
+        "C": "멸강나방",
+        "D": "이화명나방",
+        "Category": "Biology",
+        "Human Accuracy": 0.5806
+    },
+    {
+        "question": "콩을 파종하고 흙으로 덮어준 후 3%의 유효성분을 가진 제초제를 300평당 3kg을 살포하도록 되어 있다. 콩밭 600평의 면적에 살포되는 제초제의 유효성분량은?",
+        "answer": 3,
+        "A": "90g",
+        "B": "100g",
+        "C": "180g",
+        "D": "54g",
+        "Category": "Biology",
+        "Human Accuracy": 0.9
+    },
+    {
+        "question": "번데기 또는 마지막 영기의 약충이 탈피하여 성충이 되는 현상을 무엇이라고 하는가?",
+        "answer": 2,
+        "A": "부화",
+        "B": "우화",
+        "C": "용화",
+        "D": "세대",
+        "Category": "Biology",
+        "Human Accuracy": 0.7156
+    },
+    {
+        "question": "협력제(synergists)의 구조는?",
+        "answer": 4,
+        "A": "dichlorophenyl",
+        "B": "phthalylphenyl",
+        "C": "dioxyphenyl",
+        "D": "methylene dioxyphenyl",
+        "Category": "Biology",
+        "Human Accuracy": 0.6712
+    },
+    {
+        "question": "작물생육에 있어서 철(Fe)의 영향이 아닌 것은?",
+        "answer": 2,
+        "A": "호흡 효소의 구성 성분이다.",
+        "B": "엽록소의 형성에 관여하지 않는다.",
+        "C": "망간, 칼슘 등의 과잉은 철의 결핍상태를 초래한다.",
+        "D": "엽록소의 형성에 관여한다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.8421
+    },
+    {
+        "question": "기계유 유제에 대한 설명으로 옳지 않은 것은?",
+        "answer": 1,
+        "A": "무기합성 살충제이다.",
+        "B": "값이 싸고 독성이 거의 없다.",
+        "C": "95% 이상의 고농도 제품이 나오고 있다.",
+        "D": "직접 접촉제로 작용한다.",
+        "Category": "Biology",
+        "Human Accuracy": 0.6027
+    }
+]

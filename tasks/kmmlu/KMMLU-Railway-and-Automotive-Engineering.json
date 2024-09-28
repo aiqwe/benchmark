@@ -1,0 +1,202 @@
+[
+    {
+        "question": "개루프 전달함수가 인 부궤환 제어계의 특성 방정식은?",
+        "answer": 2,
+        "A": "s2+4s+3=0",
+        "B": "s2+5s+5=0",
+        "C": "s2+5s+6=0",
+        "D": "s2+6s+5=0",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.0
+    },
+    {
+        "question": "어느 증폭기의 초단 전압 증폭도가 25배, 2단이 20배, 3단이 20배  라면, 이 증폭기의 종합 이득은 몇 dB인가?",
+        "answer": 2,
+        "A": "100",
+        "B": "80",
+        "C": "50",
+        "D": "40",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.5861999999999999
+    },
+    {
+        "question": "윤활 장치에서 유압이 높아지는 이유로 맞는 것은?",
+        "answer": 1,
+        "A": "릴리프 밸브 스프링의 장력이 클 때",
+        "B": "엔진오일과 가솔린의 희석",
+        "C": "베어링의 마멸",
+        "D": "오일펌프의 마멸",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.8469
+    },
+    {
+        "question": "DOHC기관에서 DLI장치의 점화코일 1차 전류 제어를 하는 것은?",
+        "answer": 1,
+        "A": "파워트랜지스터",
+        "B": "콘트롤 릴레이",
+        "C": "TDC 센서",
+        "D": "MAP 센서",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "축전지에 대한 설명 중 잘못된 것은?",
+        "answer": 3,
+        "A": "완전충전된 전해액의 비중은 1,260~1,280이다.",
+        "B": "충전은 보통 정전류 충전을 한다.",
+        "C": "양극판이 음극판의 수보다 1장 더 많다.",
+        "D": "축전지 내부에 단락이 있으면 충전하여도 전압이 높아지지 않는다.",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.6479
+    },
+    {
+        "question": "점화 파형에서 파워 TR(트랜지스터)의 통전시간을 의미하는 것은?",
+        "answer": 3,
+        "A": "전원전압",
+        "B": "피크(peak) 전압",
+        "C": "드웰(dwell)시간",
+        "D": "점화시간",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.8434999999999999
+    },
+    {
+        "question": "자동차에서 토인 조정은 무엇으로 하는가?",
+        "answer": 1,
+        "A": "타이로드",
+        "B": "스트러트 바",
+        "C": "컨트롤 암",
+        "D": "스태빌라이저 바",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.9661
+    },
+    {
+        "question": "자동차의 안전규칙에 대한 설명으로 틀린 것은?",
+        "answer": 1,
+        "A": "자동차의 높이는 3m를 초과할 수 없다.",
+        "B": "최저지상고는 공차상태에서 접지부분외의 부분은 지면과의 사이에 12cm 이상의 간격이 있어야 한다.",
+        "C": "자동변속기의 중립위치는 전진위치와 후진위치 사이에 있어야 한다.",
+        "D": "앞 방향으로 개폐되는 후드 걸쇠장치는 2차 장금 또는 2개소 잠금이 가능한 구조이어야 한다.",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.7646999999999999
+    },
+    {
+        "question": "구동바퀴가 자동차를 미는 힘을 구동력이라 하며 이때 구동력의 단위는?",
+        "answer": 1,
+        "A": "kgf",
+        "B": "kgf·m",
+        "C": "㎰",
+        "D": "kgf·m/s",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.5589
+    },
+    {
+        "question": "정류회로에서 맥동전압 주파수가 전원주파수의 6배가 되는 정류 방식은?",
+        "answer": 2,
+        "A": "단상 전파 정류",
+        "B": "3상 전파 정류",
+        "C": "3상 반파 정류",
+        "D": "단상 브리지 정류",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.7564
+    },
+    {
+        "question": "적색 또는 청색 경광등을 설치하여야 하는 자동차가 아닌 것은?",
+        "answer": 4,
+        "A": "교통단속에 사용되는 경찰용 자동차",
+        "B": "범죄수사를 위하여 사용되는 수사기관용 자동차",
+        "C": "소방용 자동차",
+        "D": "구급자동차",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.7222
+    },
+    {
+        "question": "강자성체의 히스테리시스 루프의 면적은?",
+        "answer": 1,
+        "A": "강자성체의 단위 체적당의 필요한 에너지이다.",
+        "B": "강자성체의 단위 면적당의 필요한 에너지이다.",
+        "C": "강자성체의 단위 길이당의 필요한 에너지이다.",
+        "D": "강저성체의 전체 체적의 필요한 에너지이다.",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "구동력 제어장치(Traction Control System)에 대한 설명 중 가장 올바른 것은?",
+        "answer": 3,
+        "A": "ABS의 보조 제어 시스템으로 제동 효과를 높이는 역할을 한다.",
+        "B": "선회 시 타이어의 고착을 방지하여 코너링 포스를 유지하도록 슬립 제어한다.",
+        "C": "ABS와 유사한 제어로직을 가지고 출발 또는 가속 시 타이어가 슬립하는 것을 방지한다.",
+        "D": "좌·우 바퀴의 노면 상태가 다를 때 브레이크 작동 시 각각 바퀴에 적당한 제동력을 준다.",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.5652
+    },
+    {
+        "question": "전자제어현가장치에 사용되는 쇽업소버에서 오일이 상하 실린더로 이동할 때 통과하는 구멍을 무엇이라고 하는가?",
+        "answer": 3,
+        "A": "밸브 하우징",
+        "B": "로터리 밸브",
+        "C": "오리피스",
+        "D": "스텝구멍",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.7209
+    },
+    {
+        "question": "측정치의 통계적 용어에 관한 설명으로 옳은 것은?",
+        "answer": 1,
+        "A": "치우침(bias) - 참값과 모평균과의 차이",
+        "B": "오차(error) - 측정치와 시료평균과의 차이",
+        "C": "편차(deviation) - 측정치와 참값과의 차이",
+        "D": "잔차(residual) -측정치와 모평균과의 차이",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.6029
+    },
+    {
+        "question": "지름이 2[cm]인 환강봉을 상온보다 10[°C] 상승시켜 양단을 벽에 고정시켰을 때 봉의 단면에서 벽에 영향을 주는 힘[kgf]은 약 몇 [kgf]인가? (단, 탄성계수 E=2.1×105[kg/cm2], 선팽창계수 =1×10-5[1/°C]이다.)",
+        "answer": 3,
+        "A": "596.7",
+        "B": "5965",
+        "C": "659.7",
+        "D": "6597",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.6364
+    },
+    {
+        "question": "기관 내 윤활유의 유압이 낮아지는 원인으로 틀린 것은?",
+        "answer": 3,
+        "A": "윤활유의 점도가 낮을 때",
+        "B": "저널베어링의 오일 간극이 클 때",
+        "C": "유압조절밸브의 스프링 장력이 클 때",
+        "D": "오일펌프가 마멸되어 누유가 있을 때",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.625
+    },
+    {
+        "question": "2행정 사이클 기관의 장점이 아닌 것은?",
+        "answer": 3,
+        "A": "구조가 간단하다.",
+        "B": "회전력이 균일하다.",
+        "C": "각 행정이 확실히 구분되어 효율이 좋다.",
+        "D": "배기량이 같을 경우 4행정 사이클 기관보다 출력이 크다.",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.6957
+    },
+    {
+        "question": "접근쇄정의 해정시분은 출발신호기인 경우 얼마로 설정하는가?",
+        "answer": 1,
+        "A": "30초 ± 10%",
+        "B": "60초 ± 10%",
+        "C": "90초 ± 10%",
+        "D": "120초 ± 10%",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.5417000000000001
+    },
+    {
+        "question": "지표면에서 높이가 9m인 단독지지주에 15kgf/m의 수평분포하중이 작용하는 경우 지면으로부터 높이가 3m 지점에서의 모멘트(kgf⋅m)는?",
+        "answer": 2,
+        "A": "250",
+        "B": "270",
+        "C": "325",
+        "D": "350",
+        "Category": "Railway and Automotive Engineering",
+        "Human Accuracy": 0.8472
+    }
+]

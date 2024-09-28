@@ -1,0 +1,202 @@
+[
+    {
+        "question": "관통된 불연속만 탐지할 수 있어서 주로 최종 건전성평가시험에 사용되는 비파괴검사법은?",
+        "answer": 2,
+        "A": "육안시험",
+        "B": "누설시험",
+        "C": "자분탐상시험",
+        "D": "방사선투과시험",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.5
+    },
+    {
+        "question": "금속의 소성변형에서 냉간가공시 줄어드는 것은?",
+        "answer": 4,
+        "A": "경도",
+        "B": "인장강도",
+        "C": "내력",
+        "D": "연신율",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.4286
+    },
+    {
+        "question": "항공 우주용 자기탐상 검사방법(KS W 4041)에서 습식법과 연속법으로 검사하는 경우 자화전류의 지속시간은 어느 정도로 규정하고 있는가?",
+        "answer": 1,
+        "A": "0.5~1초의 자화전류로 2쇼트 이상 통해야 한다.",
+        "B": "2~3초의 자화전류로 2쇼트 이상 통해야 한다.",
+        "C": "60~90초의 자화전류로 1쇼트 이상 통해야 한다.",
+        "D": "120~180초의 자화전류로 1쇼트 이상 통해야 한다.",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.4443999999999999
+    },
+    {
+        "question": "침투탐상시의 온도가 표준 온도보다 낮은 3 ~ 15°C의 범위일 때 일반적으로 표준 침투시간과 비교하여 어떻게 하는 것이 옳은 것은?",
+        "answer": 3,
+        "A": "표준 침투시간과 같게 한다.",
+        "B": "표준 침투시간보다 시간을 줄인다.",
+        "C": "표준 침투시간보다 시간을 늘린다.",
+        "D": "표준 침투시간보다 시간을 줄였다가 다시 늘린다.",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.6897
+    },
+    {
+        "question": "Lo-Ex 합금에 대한 설명으로 틀린 것은?",
+        "answer": 4,
+        "A": "고온강도가 크다.",
+        "B": "내마모성이 좋다.",
+        "C": "피스톤 재료로 시용한다.",
+        "D": "열팽창계수가 크다.",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7631999999999999
+    },
+    {
+        "question": "와전류의 표면침투깊이(standard depth of penetration)는 표면 와전류 밀도의 약 몇 % 되는 곳을 의미하는가?",
+        "answer": 3,
+        "A": "16%",
+        "B": "32%",
+        "C": "37%",
+        "D": "63%",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.6364
+    },
+    {
+        "question": "알루미늄의 맞대기용접부의 초음파경사각탐상시험방법(KS B 0897)에 규정된 시험편 중 대비시험편인 것은?",
+        "answer": 4,
+        "A": "STB-A1",
+        "B": "STB-A3",
+        "C": "STB-A31",
+        "D": "RB-A4AL",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7162000000000001
+    },
+    {
+        "question": "침투탐상 시험방법 및 침투지시모양의 분류(KS B 0816)에 의한 연속침투지시모양에 대한 설명으로 가장 옳은 것은?",
+        "answer": 2,
+        "A": "여러 개의 원형상 침투지시모양이 거의 동일 직선상에 3mm 간격으로 나란히 존재할 때",
+        "B": "상호거리가 2mm 이하인 여러 개의 지시모양이 거의 동일 직선상에 나란히 존재할 때",
+        "C": "길이가 나비의 3배 이상인 여러 개의 침투지시가 거의 동일 직선상에 나란히 존재할 때",
+        "D": "일정한 면적 내에 여러 개의 침투지시가 2mm 이상 떨어져 각각 분산되어 독립된 상태로 존재할 때",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.625
+    },
+    {
+        "question": "탐촉자에 쓰이는 크리스탈의 두께를 결정하는 공식으로 옳은 것은? (단, λ 는 파장, f는 탐촉자의 공진주파수이다.)",
+        "answer": 2,
+        "A": "λ/3",
+        "B": "λ/2",
+        "C": "f/3",
+        "D": "f/2",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7442
+    },
+    {
+        "question": "비중이 알루미늄의 약 2/3 정도이고, 산이나 염류에는 침식되며, 비강도가 커서 항공우주용 재료에 많이 사용되는 금속은?",
+        "answer": 1,
+        "A": "Mg",
+        "B": "Cu",
+        "C": "Fe",
+        "D": "Au",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.8571
+    },
+    {
+        "question": "주철을 파면에 따라 분류한 것이 아닌 것은?",
+        "answer": 4,
+        "A": "회주철",
+        "B": "백주철",
+        "C": "반주철",
+        "D": "가단주철",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.6923
+    },
+    {
+        "question": "비파괴시험 방법에 대해 기술한 것으로 올바른 것은?",
+        "answer": 3,
+        "A": "초음파탐상시험은 구조물을 가열했을 때에 생기는 표면온도분포를 이용하는 방법이다.",
+        "B": "광탄성실험법은 구조물을 가열했을 때 생기는 변위에 관계한 간섭파를 관찰하여 결함을 판정하는 방법이다.",
+        "C": "음향방출시험은 재료가 파괴되는 과정에서 미세한 균열의 진전에 수반하는 응력파를 검출하고 파괴예지나 방비에 이용되는 방법이다.",
+        "D": "컴퓨터 단층촬영법은 파동의 간섭성을 이용하여 본래의 상을 재생하는 홀로그래피(Holography)를 이용한 방법이다.",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7209
+    },
+    {
+        "question": "압입자 지름이 10mm인 브리넬 경도 시험기로 강의 경도를 측정하기 위하여 3000kgf의 하중을 적용하였더니 압입자국의 깊이가 1mm 이었다면 브리넬 경도값(HB)은 약 얼마인가?",
+        "answer": 3,
+        "A": "75.5",
+        "B": "85.6",
+        "C": "95.5",
+        "D": "105.6",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.6537999999999999
+    },
+    {
+        "question": "비파괴시험법과 그 기본 원리가 틀리게 연결된 것은?",
+        "answer": 1,
+        "A": "음향방출시험 : 유체흐름",
+        "B": "중성자투과시험 : 투과성",
+        "C": "초음파탐상시험 : 펄스반사",
+        "D": "와전류탐상시험 : 전자유도작용",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.75
+    },
+    {
+        "question": "시험체의 내부와 외부의 압력차에 의해 유체가 결함을 통해 흘러 들어가거나 나오는 것을 감지 하는 방법으로 압력용기나 배관 등에 주로 적용되는 비파괴검사법은?",
+        "answer": 1,
+        "A": "누설검사",
+        "B": "침투탐상검사",
+        "C": "자분탐상검사",
+        "D": "초음파탐상검사",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 1.0
+    },
+    {
+        "question": "두가지 이상의 금속 또는 원소가 간단한 원자비로 결합되어 성분금속과는 다른 성질을 갖는 물질을 무엇이라 하는가?",
+        "answer": 2,
+        "A": "공정 2원 합금",
+        "B": "금속간 화합물",
+        "C": "침입형 고용체",
+        "D": "전율가용 고용체",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7297
+    },
+    {
+        "question": "초음파탐상 시험방법에 속하지 않는 것은?",
+        "answer": 2,
+        "A": "공진법",
+        "B": "외삽법",
+        "C": "투과법",
+        "D": "펄스반사법",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.6420999999999999
+    },
+    {
+        "question": "임의 지점에서 선량율이 500mrem/h일 때 그 지점에 1.5시간동안 어떤 사람이 있었다면, 그 사람은 방사선에 얼마나 피폭되겠는가?",
+        "answer": 3,
+        "A": "0.5rem",
+        "B": "0.05rem",
+        "C": "0.75rem",
+        "D": "0.075rem",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.4286
+    },
+    {
+        "question": "자분탐상검사에서 시험할 부위를 전자석 또는 영구자석의 자극 사이에 놓는 자화 방법은?",
+        "answer": 3,
+        "A": "축통전법",
+        "B": "전류관통법",
+        "C": "극간법",
+        "D": "프로드법",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.7143
+    },
+    {
+        "question": "강용접부의 초음파탐상 시험방법(KS B 896)에서 규정한 평판이음 탐상에서 판 두께가 30mm이고, 음향 이방성을 가진 시험체일 경우 기본으로 사용되는 탐촉자의 공칭 굴절각은?",
+        "answer": 3,
+        "A": "45°",
+        "B": "60°",
+        "C": "65°",
+        "D": "70°",
+        "Category": "Nondestructive Testing",
+        "Human Accuracy": 0.531
+    }
+]
