@@ -528,13 +528,13 @@ class LocalReader:
                 "samples are not list. please check self.data and pass sample manually through self.show"
             )
 
-    def show(self, data: list = None, fpath=None, idx=None, colored=True):
+    def show(self, exist: str = True, data: list = None, fpath=None, idx=None, colored=True):
+        if not idx:
+            idx = random.randint(0, len() - 1)
         if not data:
             samples = self.sampling(fpath)
         else:
             samples = data
-        if not idx:
-            idx = random.randint(0, len(samples) - 1)
         show(samples[idx], colored=colored)
 
     def save(self, data: list = None, fpath: str = None, path: str = None, n: int = 20):
