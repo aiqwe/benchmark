@@ -4,6 +4,7 @@
 - huggingface의 데이터셋 기준으로 `document` 컬럼의 길이가 매우 길어서 오버플로 발생
 - 데이터셋 예시  
 <img src="assets/natural_questions.png" width=360>
+
 ---
 + **source**: huggingface
 + **hf_path**: google-research-datasets/natural_questions

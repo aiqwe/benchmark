@@ -4,6 +4,7 @@
 - `AFLITE` 알고리즘으로, CrowdWorker들의 Bias를 없앰
 - WSC는 Twin Sentence를 보기로 주고 올바른 대명사를 고르는 문제임  
 <img src="assets/winogrande.png" width=720>
+
 ---
 + **source**: huggingface
 + **hf_path**: allenai/winogrande

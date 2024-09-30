@@ -5,6 +5,7 @@
     - Teacher는 Context에 기반한 답변을 멀티턴으로 제공
 - Training Set과 Test Set은 독립적으로 구성되어 있으며, Training Set은 멀티턴 대화로 구성되어 있음  
 <img src="assets/quac.png" width=360>
+
 ---
 + **source**: huggingface
 + **hf_path**: allenai/quac

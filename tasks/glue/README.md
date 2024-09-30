@@ -20,6 +20,7 @@
 - qqp, mnli 등이 테스트셋이 많은 편이며, 보통 1만개 내외
 - 데이터셋 및 Task별 Metric은 아래와 같음  
 <img src="assets/glue.png" width=360>
+
 ---
 + **source**: huggingface
 + **hf_path**: nyu-mll/glue

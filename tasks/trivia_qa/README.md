@@ -7,6 +7,7 @@
     - Wikipedia와 Bing 검색을 통해 Evidence를 추가하여 완성
 - TAGME는 추가적인 Evidence를 Wikipedia와 연결하는 개체  
 <img src="assets/trivia_qa.png" width=360>
+
 ---
 + **source**: huggingface
 + **hf_path**: mandarjoshi/trivia_qa
