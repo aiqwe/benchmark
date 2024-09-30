@@ -1,5 +1,13 @@
-
 # bigbench
+- Beyond the Imitation Game Benchmark
+- 다량의 Task를 포함한 일종의 IQ 테스트
+    - 200개 이상의 Task를 포함하며, 각 Task의 키워드는 [여기를 참고](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/keywords_to_tasks.md)
+    - 언어학, 유아 발달, 수학, 상식 추론, 생물학, 물리학, 사회적 통념, 소프트웨어 개발 …
+- 테스트량이 많기 때문에 24개의 Task로 구성된 경량화 버전인 BIGBench-Lite를 제공함
+- 문제들은 `multiple_choice_targets`, `multiple_choice_scores`로 구분되어 정답을 선택할 시 1점을 얻게 됨
+- 각 task 키워드마다 데이터셋 크기는 다양함
+    - 몇십개 ~ 백만개가 넘는 데이터셋으로 구성됨
+---
 + **source**: huggingface
 + **hf_path**: google/bigbench
 + **hf_name**: 
