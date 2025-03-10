@@ -1,8 +1,5 @@
-# benchmark Collection
-+ closed-platform, 주요 open-platform models에서 사용된 벤치마크들이 포함되어 있습니다.
-+ `json` 파일들을 통해서 벤치마크 질문셋의 샘플을 쉽게 볼 수 있습니다.
-+ `README.md`에는 각 벤치마크의 특징들이 논문을 기반으로 요약되어 있습니다.
-+ `requirements.txt`나 `.py` 파일들을 설치하지 않아도 됩니다. [tasks](tasks)를 확인하는 것으로도 충분합니다.
-
-# Links
-LM Harness: [https://github.com/EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+# Usage Guide
+1) [config.yaml](./config.yaml)의 default 형식을 override하여 Configuration을 작성한다
+2) 저장한 config를 기반으로 `benchmark.Config` 클래스를 호출하여 `make_folder_tree` 메서드를 실행
+3) `make_folder_tree` 메서드는 config.yaml에 따라 폴더트리와 README.md 파일을 만들어준다
+4) `benchmark.~Reader` 클래스들로 Benchmark들을 깃헙, 허깅페이스에 읽어온다음 `~Reader.save` 메서드로 샘플을 저장해준다
